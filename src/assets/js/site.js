@@ -61,7 +61,7 @@
   document.addEventListener('click', function (e) {
     var b = e.target.closest('[data-consent]'); if (!b) return;
     var v = b.dataset.consent; store.set('cm-consent', v); if (bar) bar.hidden = true;
-    if (typeof window.gtag === 'function' && v === 'si') window.gtag('consent', 'update', { analytics_storage: 'granted' });
+    if (v === 'si' && typeof window.cmLoadGTM === 'function') window.cmLoadGTM();
     if (v === 'no') toast('Listo: sin cookies de medición.');
   });
   var reopen = $('cookies-cambiar');

@@ -1,1 +1,5 @@
-{ "gtm": null, "contactoEmail": "contacto@comparamotor.com" }
+{
+ "gtm": "GTM-MB932FBZ",
+ "contactoEmail": "contacto@comparamotor.com",
+ "ga4": "G-18S7MKFTPF"
+}

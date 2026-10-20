@@ -82,13 +82,11 @@ ${noindex ? '<meta name="robots" content="noindex, follow">' : '<meta name="robo
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..800&family=Geist+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@800&display=swap">
 <link rel="stylesheet" href="${ctx.asset('css/site.css')}">
-${gtm ? `<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});try{if(localStorage.getItem('cm-consent')==='si'){gtag('consent','update',{analytics_storage:'granted'});}}catch(e){}</script>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','${gtm}');</script>` : ''}
+${gtm ? `<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied'});window.cmLoadGTM=function(){if(window.cmGTM)return;window.cmGTM=1;gtag('consent','update',{analytics_storage:'granted'});dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});var j=document.createElement('script');j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id=${gtm}';document.head.appendChild(j);};try{var cm=localStorage.getItem('cm-consent');if(cm==='si'||cm==='"si"')window.cmLoadGTM();}catch(e){}</script>` : ''}
 ${lds.join('\n')}
 ${extraHead}
 </head>
 <body class="${bodyClass}${heroDark ? ' has-cine' : ''}">
-${gtm ? `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${gtm}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` : ''}
 ${MARK}${SILS}
 <a class="skip" href="#main">Saltar al contenido</a>
 <header class="nav${heroDark ? '' : ' solid'}" id="top">
