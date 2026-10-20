@@ -1,0 +1,111 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "Virtus",
+  "slug": "virtus",
+  "carroceria": "sedan",
+  "segmento": "subcompacto",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Trendline MT",
+      "anio": 2026,
+      "precio": 322490,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 110,
+      "rendimientoCombinadoKmL": 16.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/virtus/trendline.app",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina). Precio de lista con IVA e ISAN según VW. Manual de 5 velocidades, tracción delantera. Asistente de colisión frontal con freno de emergencia: no disponible (ficha)."
+    },
+    {
+      "nombre": "Trendline AT",
+      "anio": 2026,
+      "precio": 342490,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 110,
+      "rendimientoCombinadoKmL": 16.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/virtus/trendline.app",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina). Precio de lista con IVA e ISAN según VW. Tiptronic de 6 velocidades, tracción delantera. Asistente de colisión frontal con freno de emergencia: no disponible (ficha)."
+    },
+    {
+      "nombre": "Comfortline AT",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.0 L 3 cil. turbo (TSI)",
+      "potenciaHp": 114,
+      "rendimientoCombinadoKmL": 17.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/virtus.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Sin precio de lista: la página del modelo solo publica 'Precio de contado desde $389,990' y el configurador oficial no ofrece esta versión (solo Trendline y Highline). Datos técnicos de la ficha 2026 (código D224NY). Tiptronic de 6 velocidades."
+    },
+    {
+      "nombre": "Highline AT",
+      "anio": 2026,
+      "precio": 399490,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.0 L 3 cil. turbo (TSI)",
+      "potenciaHp": 114,
+      "rendimientoCombinadoKmL": 17.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/virtus/highline.app",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina). Precio de lista con IVA e ISAN según VW. Tiptronic de 6 velocidades. La página del modelo muestra 'Precio de contado desde $399,990', distinto del precio de lista del configurador."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años de garantía defensa a defensa o hasta 100,000 km (Protección VW; incluye seguro de robo de autopartes, asistencia vial y protección de llantas)",
+    "fuente": "Volkswagen de México (sitio oficial, página del modelo)",
+    "url": "https://www.vw.com.mx/es/autos-suvs/virtus.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Virtus Trendline manual 2026: 'Llévatelo desde $289,990' (precio financiado exclusivo vía Volkswagen Leasing), o mensualidades de $3,999 con Volkswagen Ya!, o seguro gratis + comisión por apertura gratis",
+      "precioOferta": 289990,
+      "condicion": "Precio financiado aplica para plazos desde 24 meses en productos Credit. Mensualidad de $3,999 con ¡Volkswagen Ya!: persona física asalariada, enganche 34.5%, 36 meses, tasa fija 11.55%, CAT sin IVA 15.3% (calculado al 17-jul-2026). Seguro gratis: cobertura amplia el primer año. Solo unidades nuevas; no acumulable; sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Volkswagen de México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.vw.com.mx/es/promociones/virtus.html",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.vw.com.mx/es/autos-suvs/virtus.html",
+    "https://www.vw.com.mx/es/configurador.html/__app/virtus.app",
+    "https://www.vw.com.mx/es/configurador.html/__app/virtus/trendline.app",
+    "https://www.vw.com.mx/es/configurador.html/__app/virtus/highline.app",
+    "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2026/volkswagen-virtus-2026-ficha-tecnica.pdf",
+    "https://www.vw.com.mx/es/promociones/virtus.html"
+  ],
+  "pendientes": [
+    "Precio de lista de Virtus Comfortline AT: VW no lo publica (solo 'precio de contado desde $389,990' en la página del modelo; el configurador no lista esta versión)",
+    "Rendimiento: la página del modelo dice 16.1 km/l 'del motor 1.0 L TSI', pero la ficha técnica 2026 asigna 17.5 km/l a las versiones 1.0 L TSI y 16.1 km/l a Trendline AT 1.6 L; se usó la ficha",
+    "La página del modelo y el configurador no coinciden en cuántas versiones están a la venta (3 vs 2); confirmar con VW si Comfortline sigue disponible",
+    "Solo hay Virtus 2026 en el sitio de VW (no hay año modelo 2027)"
+  ]
+}

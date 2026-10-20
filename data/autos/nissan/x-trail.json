@@ -1,0 +1,117 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "X-Trail",
+  "slug": "x-trail",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Advance 2 Row",
+      "anio": 2027,
+      "precio": 615990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 181,
+      "rendimientoCombinadoKmL": 15.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $554,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 15.8 km/l combinado (ciudad 13.67, carretera 19.53) en el catálogo PDF 2027; la comparación web de la versión Advance muestra 15.8 (13.6 / 19.5). Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo. Tracción delantera (FWD)."
+    },
+    {
+      "nombre": "Exclusive 2 Row",
+      "anio": 2027,
+      "precio": 662990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 181,
+      "rendimientoCombinadoKmL": 15.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $601,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 15.8 km/l combinado (ciudad 13.67, carretera 19.53) en el catálogo PDF 2027; la comparación web de la versión Advance muestra 15.8 (13.6 / 19.5). Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo. Tracción delantera (FWD)."
+    },
+    {
+      "nombre": "Platinum 2 Row",
+      "anio": 2027,
+      "precio": 740990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 181,
+      "rendimientoCombinadoKmL": 15.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $679,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 15.8 km/l combinado (ciudad 13.67, carretera 19.53) en el catálogo PDF 2027; la comparación web de la versión Advance muestra 15.8 (13.6 / 19.5). Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo. Tracción delantera (FWD)."
+    },
+    {
+      "nombre": "Platinum Plus 2 Row",
+      "anio": 2027,
+      "precio": 810990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 181,
+      "rendimientoCombinadoKmL": 15.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $749,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Incluye ProPILOT Assist y Head-Up Display. Rendimiento 15.8 km/l combinado (ciudad 13.67, carretera 19.53) en el catálogo PDF 2027; la comparación web de la versión Advance muestra 15.8 (13.6 / 19.5). Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo. Tracción delantera (FWD)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía de fábrica; requiere servicios cada 6 meses o 10,000 km)",
+    "fuente": "Nissan México (Portal de Clientes oficial, artículo del 28-mar-2025)",
+    "url": "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Precio especial CrediNissan: Advance 2 Row $554,990; Exclusive 2 Row $601,990; Platinum 2 Row $679,990; Platinum Plus 2 Row $749,990. Aplica en todas las versiones X-Trail 2027 y no se combina con otras promociones.",
+      "precioOferta": 554990,
+      "condicion": "Solo crédito tradicional con NR Finance México, sujeto a aprobación y comportamiento crediticio. Sin crédito rige el precio de lista.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "descripcion": "Hasta 24 meses sin intereses + 1 año de seguro gratis + 0% de comisión por apertura, solo con Credi Nissan.",
+      "precioOferta": null,
+      "condicion": "Solo con Credi Nissan; términos y condiciones en la página del modelo. Vigencia no publicada junto a la leyenda.",
+      "vigenciaHasta": null,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
+    "https://www.nissan.com.mx/vehiculos/todos/x-trail/precios-y-versiones.html",
+    "https://www.nissan.com.mx/content/dam/Nissan/mexico/assets/xtrail/my27/vlp/catalogos/nissan-2027-x-trail_catalogo.pdf",
+    "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
+  ],
+  "pendientes": [
+    "El sitio solo ofrece versiones de 2 filas (2 Row) a la fecha; no hay versión de 3 filas publicada.",
+    "Rendimiento por versión: el catálogo publica un único valor para las cuatro versiones; solo se verificó en la comparación web la versión Advance.",
+    "Vigencia de la leyenda 'hasta 24 MSI' no publicada."
+  ]
+}

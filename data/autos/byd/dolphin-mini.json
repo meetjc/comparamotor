@@ -1,0 +1,76 @@
+{
+  "marca": "BYD",
+  "marcaSlug": "byd",
+  "modelo": "Dolphin Mini",
+  "slug": "dolphin-mini",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "china",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Dolphin Mini (300 km, GL)",
+      "anio": 2026,
+      "precio": 399800,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Motor eléctrico frontal 55 kW; batería Blade 30.08 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 300,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/mx/order/dolphin-mini",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "El configurador la nombra 'DOLPHIN MINI 5 Seats 300km GL'. 4 bolsas de aire (frontales conductor y pasajero + cortina delanteras y traseras). Carga DC 30 kW, AC 7 kW. Precio del configurador oficial (https://www.byd.com/mx/order/dolphin-mini), ficha técnica oficial (flyer de septiembre 2026, https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20DOLPHIN%20MINI%20flyer-ES-MX-20260911.pdf). Motor eléctrico frontal de 55 kW (135 N·m); la ficha da la potencia en kW, no en hp, por eso potenciaHp va null. Autonomía NEDC publicada por BYD. Frenado: la ficha lista IPB, HBA, EBD, VDC y TCS pero ningún frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Dolphin Mini Plus (380 km, GS)",
+      "anio": 2026,
+      "precio": 415800,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Motor eléctrico frontal 55 kW; batería Blade 38.8 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 380,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/mx/order/dolphin-mini",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "El configurador la nombra 'DOLPHIN MINI 5 Seats 380km GS'. 6 bolsas de aire (suma laterales delanteras), vista panorámica 540°, carga inalámbrica. Carga DC 40 kW (30%-80% en 30 min), AC 7 kW. Precio de $415,800 y 380 km confirmados también por la publicación oficial de BYD Auto México en Facebook (https://www.facebook.com/BYDAutoMex/posts/byd-dolphin-mini-m%C3%A1s-ahorro-m%C3%A1s-autonom%C3%ADasab%C3%ADas-que-cargarlo-por-completo-cuesta/701216626099602/). Precio del configurador oficial (https://www.byd.com/mx/order/dolphin-mini), ficha técnica oficial (flyer de septiembre 2026, https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20DOLPHIN%20MINI%20flyer-ES-MX-20260911.pdf). Motor eléctrico frontal de 55 kW (135 N·m); la ficha da la potencia en kW, no en hp, por eso potenciaHp va null. Autonomía NEDC publicada por BYD. Frenado: la ficha lista IPB, HBA, EBD, VDC y TCS pero ningún frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": "Vehículo 6 años o 150,000 km (defensa a defensa); batería 8 años o 200,000 km",
+    "fuente": "BYD Auto México (publicación oficial en Facebook sobre el Dolphin Mini; la página del modelo en byd.com/mx no publica la garantía). La misma cobertura aparece en las páginas oficiales del King y Song Pro de byd.com/mx",
+    "url": "https://www.facebook.com/BYDAutoMex/posts/byd-dolphin-mini-m%C3%A1s-ahorro-m%C3%A1s-autonom%C3%ADasab%C3%ADas-que-cargarlo-por-completo-cuesta/701216626099602/"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Dolphin Mini 380 km (modelo 2026): bono de $30,000 (IVA incluido) aplicado al enganche o a la tasa; pago inicial de $19,065 o mensualidad de $3,230",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Banorte, sujeto a aprobación. Opción pago inicial $19,065: crédito $374,220, 72 meses, enganche 10%, tasa 7.88%, comisión por apertura 2%, bono al enganche, seguro de daños y vida anual financiado, CAT promedio 9.65% sin IVA. Opción mensualidad $3,230: crédito $207,900, 72 meses, enganche 50%, tasa 3.24%, comisión 2%, bono a la tasa, seguro de contado, CAT promedio 4% sin IVA. El cargador doméstico no incluye instalación. Cálculos al 01-oct-2026.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.byd.com/mx/order/dolphin-mini",
+    "https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20DOLPHIN%20MINI%20flyer-ES-MX-20260911.pdf",
+    "https://www.byd.com/mx/car/dolphin-mini",
+    "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+    "https://www.facebook.com/BYDAutoMex/posts/byd-dolphin-mini-m%C3%A1s-ahorro-m%C3%A1s-autonom%C3%ADasab%C3%ADas-que-cargarlo-por-completo-cuesta/701216626099602/",
+    "https://www.byd.com/mx/car/king"
+  ],
+  "pendientes": [
+    "Potencia en hp (BYD publica 55 kW)",
+    "Garantía confirmada solo en la publicación oficial de BYD Auto México en Facebook (sin fecha clara; el fragmento indexado menciona 2025); no la publica la página del modelo en byd.com/mx",
+    "El configurador identifica las versiones como 300 km GL y 380 km GS; la equivalencia con 'Dolphin Mini' y 'Dolphin Mini Plus' sale de la ficha (30.08 kWh / 4 bolsas vs 38.8 kWh / 6 bolsas) y de la publicación oficial de Facebook"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "estado": "Zacatecas",
+  "slug": "zacatecas",
+  "cobraTenencia2026": null,
+  "tenencia": "La Ley de Hacienda del Estado de Zacatecas conserva el Capítulo Cuarto 'Impuesto sobre Tenencia o Uso de Vehículos' (arts. 53 a 62; tarifa progresiva para vehículos nuevos de 3% a 19.1% sobre el excedente, factores de depreciación para usados de hasta 9 años y cuota fija de $597.00 para vehículos de motor de más de 10 y hasta 20 años), con pago en los primeros tres meses del año. Sin embargo, la Ley de Ingresos 2026 enumera el rubro 1.2.2 'Impuesto Sobre Tenencia o Uso de Vehículos' sin monto estimado, y los comunicados mensuales de la Secretaría de Finanzas de 2026 sobre estímulos vehiculares solo hablan del Derecho de Control Vehicular y del Impuesto Adicional para la Infraestructura, nunca de tenencia. No se encontró una fuente oficial que diga expresamente si se cobra o no en 2026.",
+  "refrendo": {
+    "nombreLocal": "Derecho de Control Vehicular (art. 99 de la Ley de Hacienda del Estado de Zacatecas)",
+    "monto2026": 2350,
+    "unidad": "MXN (cuota base de la Ley de Hacienda, antes de estímulos)",
+    "detalle": "Cuota de $2,350.00, pagadera en los primeros tres meses del año; cubre tarjeta de circulación, hologramas y engomados con vigencia al 31 de marzo del año siguiente. La cuota escalonada por antigüedad y las cuotas de remolques ($700) y motocicletas ($400) aparecen derogadas en el texto leído. Se suma el Impuesto Adicional para la Infraestructura (monto no extraído). Placas (art. 98): $1,250 vehículo particular o público; $550 motocicleta; $800 remolque; reposición de tarjeta $180; baja de placa $180. Una guía de Kavak da cifras de $1,698 a $3,375 con fuentes no oficiales; no se usan."
+  },
+  "fechaLimite": "Primeros tres meses del año (hasta el 31 de marzo de 2026), según el art. 99 de la Ley de Hacienda; los comunicados de la Secretaría de Finanzas indican estímulos por mes sin fecha límite expresa.",
+  "descuentos": [
+    "Ley de Ingresos 2026, art. 23: estímulo fiscal sobre el Derecho de Control Vehicular según año modelo y mes de pago, con 10% adicional para modelos 2016 y anteriores; altas durante el año: 25% (abril-junio), 50% (julio-septiembre), 75% (octubre-noviembre), 80% (diciembre). Placas únicas de Protección Civil: 100%.",
+    "Enero de 2026 (comunicado SEFIN): control vehicular 5% modelos 2023-2025, 15% modelo 2022, 22% modelos 2017-2021, hasta 45% más 10% adicional modelos 2016 y anteriores, 70% motocicletas y remolques; Impuesto Adicional para la Infraestructura 5%, 10%, 25%, 35% más 10%, motocicletas 80%, remolques 45%.",
+    "Febrero de 2026 (comunicado SEFIN, 15-feb-2026): control vehicular 5% modelo 2023, 15% modelo 2022, 20% modelos 2017-2021, 40% más 10% adicional modelos 2016 y anteriores, 70% motocicletas, 65% remolques; Impuesto Adicional 5% modelos 2022-2025, 20% modelos 2017-2021, 30% más 10% modelos 2016 y anteriores, 75% motocicletas, 35% remolques.",
+    "40% de estímulo en recargos, multas y actualizaciones para adeudos de ejercicios anteriores a 2026.",
+    "Placas de alta: 40% de descuento (fracciones I a IV del art. 98 en vehículos nuevos con alta dentro de 30 días naturales, importados en 60 días, de otra entidad, placas robadas o extraviadas) y 30% a quien no canjeó en 2022 (Ley de Ingresos 2026, art. 22)."
+  ],
+  "portalPago": "https://portaltributario.zacatecas.gob.mx/",
+  "portalesComplementarios": ["https://portaltributario.zacatecas.gob.mx/vehicular/presupuestoTenencia.jsp", "https://sefin.zacatecas.gob.mx/tramites-y-servicios/"],
+  "verificacionNota": "No se escribió archivo de verificación para Zacatecas. La 'Verificación Vehicular' de la Secretaría de Finanzas es una verificación documental y de número de serie (costo $400 más 10% del impuesto UAZ) para altas en el padrón, no una prueba de emisiones. El Reglamento estatal de verificación vehicular existe (última reforma 31-dic-2014) pero no se encontró programa, calendario ni centros vigentes en 2026.",
+  "fuentes": [
+    { "nombre": "Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2026 (Congreso del Estado)", "url": "https://www.congresozac.gob.mx/65/ley&cual=337" },
+    { "nombre": "Ley de Hacienda del Estado de Zacatecas (Congreso del Estado; arts. 53-62, 98, 99)", "url": "https://www.congresozac.gob.mx/63/ley&cual=57" },
+    { "nombre": "Comunicado SEFIN: estímulos fiscales vigentes en enero de 2026 para control vehicular", "url": "https://www.zacatecas.gob.mx/invita-gobierno-de-zacatecas-a-aprovechar-estimulos-fiscales-vigentes-en-enero-para-control-vehicular-y-contribuciones/" },
+    { "nombre": "Comunicado SEFIN: estímulos fiscales vigentes en febrero de 2026 (15-feb-2026)", "url": "https://sefin.zacatecas.gob.mx/invita-gobierno-de-zacatecas-a-aprovechar-estimulos-fiscales-vigentes-en-febrero-para-control-vehicular-y-contribuciones/" },
+    { "nombre": "Portal Tributario de Zacatecas: Presupuesto Vehicular", "url": "https://portaltributario.zacatecas.gob.mx/vehicular/presupuestoTenencia.jsp" },
+    { "nombre": "Verificación Vehicular (trámite documental), Secretaría de Finanzas de Zacatecas", "url": "https://sefin.zacatecas.gob.mx/wp-content/uploads/2023/01/Verificacion-Vehicular.pdf" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se confirma si Zacatecas cobra tenencia en 2026 (ver campo tenencia). Confirmar con la Secretaría de Finanzas.",
+    "La cuota de $2,350 sale del texto de la Ley de Hacienda en el sitio del Congreso, cuyo encabezado indica reformas hasta agosto de 2026 (fecha incierta); confirmar con el presupuesto vehicular del Portal Tributario con placa.",
+    "No se extrajo la tasa del Impuesto Adicional para la Infraestructura (se suma al derecho).",
+    "Estímulos de marzo a diciembre de 2026 no se verificaron; los comunicados leídos son de enero y febrero.",
+    "Verificación vehicular de emisiones: sin programa vigente confirmado (ver verificacionNota)."
+  ]
+}

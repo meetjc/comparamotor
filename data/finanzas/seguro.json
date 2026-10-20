@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "tema": "Seguro de auto en México: definiciones oficiales, costo de referencia y comparador",
+    "fecha_verificacion": "2026-10-20",
+    "nota": "Las definiciones son texto literal de CONDUSEF. Los costos son un ejercicio de simulación de CONDUSEF para un perfil específico (no un promedio nacional). No se encontró una prima promedio nacional publicada por AMIS o CNSF."
+  },
+  "definiciones_oficiales": {
+    "fuente": "CONDUSEF, Simulador de Seguro de Auto, página «Coberturas»",
+    "url": "https://webappsos.condusef.gob.mx/SimuladorSeguroAutomovil/coberturas.jsp",
+    "fecha_verificacion": "2026-10-20",
+    "responsabilidad_civil": {
+      "nombre_condusef": "Responsabilidad Civil (RC)",
+      "texto_literal": [
+        "Daños que accidentalmente causes con tu vehículo a otras personas en sus bienes. No cubre los daños ocasionados a tu vehículo.",
+        "Lesiones que accidentalmente causes con tu vehículo a otras personas. No cubre lesiones que sufran los ocupantes del vehículo.",
+        "Lesiones que a causa de un accidente sufran los ocupantes del vehículo (Gastos Médicos Ocupantes).",
+        "La asesoría legal o jurídica en caso de necesitarlo.",
+        "En caso de siniestro, cubre los servicios como grúa, envío de gasolina, cerrajero, apoyo para el cambio de llanta de refacción, paso de corriente y auxilio mecánico."
+      ],
+      "resumen_condusef": "El Seguro de Auto se contrata a través de una póliza que cubre los daños que pueda tener un auto como consecuencia de la circulación del mismo. Coberturas: RC Bienes y RC Personas, Gastos Médicos Ocupantes y Asistencias legal y vial.",
+      "fuente_resumen": "https://www.condusef.gob.mx/documentos/rcd/quien_es_quien/qq-sim-Seg-Auto-jul-2026.pdf"
+    },
+    "limitada": {
+      "nombre_condusef": "Limitado: RC + Robo Total",
+      "texto_literal": [
+        "Todo lo contenido en Responsabilidad Civil más:",
+        "En caso de que el vehículo sea robado se paga la suma asegurada descrita en la póliza. Incluye, además, todas las coberturas descritas en Responsabilidad Civil. No cubre el robo de autopartes."
+      ],
+      "resumen_condusef": "El Seguro de Auto te protege económicamente ante un siniestro vial no contemplado. Coberturas: RC Bienes y RC Personas, Gastos Médicos Ocupantes, Robo total y Asistencias (legal y vial).",
+      "fuente_resumen": "https://www.condusef.gob.mx/documentos/rcd/quien_es_quien/qq-sim-Seg-Auto-jul-2026.pdf"
+    },
+    "amplia": {
+      "nombre_condusef": "Amplio: Limitado + Daños Materiales",
+      "texto_literal": [
+        "La suma de Responsabilidad Civil + Limitado y:",
+        "Cubre los daños que, a causa de un accidente, sufra tu vehículo. Incluye, además, todas las coberturas descritas en el plan Limitado."
+      ],
+      "resumen_condusef": "El Seguro de Auto puede ser más costoso si el vehículo es nuevo o con mayor capacidad de carga.",
+      "fuente_resumen": "https://www.condusef.gob.mx/documentos/rcd/quien_es_quien/qq-sim-Seg-Auto-jul-2026.pdf"
+    },
+    "glosario_condusef": {
+      "suma_asegurada": "Monto máximo que la aseguradora paga por cada cobertura cuando ocurre un siniestro.",
+      "deducible": "Valor del siniestro a partir del cual la aseguradora comienza a indemnizar. Una vez superado este valor, la aseguradora cubrirá los gastos hasta la suma asegurada; es la participación del asegurado en la pérdida. Si el valor del siniestro no supera el deducible, el asegurado cubre los daños.",
+      "valor_comercial": "Se toma como monto máximo el precio del vehículo al momento del siniestro; este valor considera su depreciación.",
+      "valor_convenido": "El monto máximo se pacta, en el momento de la contratación, entre el asegurado y la aseguradora; no se modifica durante el plazo de vigencia de la póliza.",
+      "fuente": "https://www.condusef.gob.mx/documentos/rcd/quien_es_quien/qq-sim-Seg-Auto-jul-2026.pdf"
+    },
+    "cuidado_de_redaccion": "Los medios citan a CONDUSEF de forma distinta (algunos dicen que la limitada cubre fenómenos naturales). La definición de la página del simulador no menciona fenómenos naturales para ninguna cobertura; mostrar solo el texto anterior y remitir a las exclusiones de cada póliza."
+  },
+  "comparador_oficial": {
+    "nombre": "Simulador de Seguro de Auto de CONDUSEF",
+    "url": "https://webappsos.condusef.gob.mx/SimuladorSeguroAutomovil/",
+    "url_coberturas": "https://webappsos.condusef.gob.mx/SimuladorSeguroAutomovil/coberturas.jsp",
+    "institucion": "CONDUSEF, con colaboración de AMIS y aseguradoras",
+    "verificado_http_200": "2026-10-20",
+    "que_hace": "Compara costo, coberturas, sumas aseguradas y deducibles de seguros de auto de uso particular en tiempo real, por código postal y edad del conductor (18 a 90 años), para RC, limitada y amplia.",
+    "fuente_descripcion": "https://www.condusef.gob.mx/?p=contenido&idc=1995&idcat=1 (comunicado «La CONDUSEF actualiza su simulador de seguro de autos en línea»; en esa fecha participaban Ana Seguros, Banorte, General de Seguros, Quálitas y Zurich, con 4,229 marcas de modelos 2003 a 2023). Los ejercicios de 2025 y 2026 muestran 6 y 4 aseguradoras respectivamente, sin nombres extraíbles del PDF.",
+    "ediciones_quien_es_quien": "https://www.condusef.gob.mx/index.php/quienes-somos.html?p=quien_es_quien",
+    "nota_tecnica": "El sitio de CONDUSEF presentó error de cadena de certificados en WebFetch y un timeout desde curl sin -k; abrirlo en navegador funciona. Los PDFs se descargaron con curl -k."
+  },
+  "costo_referencia_condusef": {
+    "aviso": "No es un promedio de mercado: es la cotización de un solo perfil. Sirve para dar un orden de magnitud con fecha y fuente.",
+    "ejercicio_mas_reciente": {
+      "fecha_simulacion": "2026-07-10",
+      "fuente": "https://www.condusef.gob.mx/documentos/rcd/quien_es_quien/qq-sim-Seg-Auto-jul-2026.pdf",
+      "perfil": "Ford Fiesta Titanium L4/1.6 automático 4 puertas, modelo 2016, circula en CDMX, conductor hombre de 36 años",
+      "costo_anual_total_mxn_incluye_derechos_de_poliza_e_iva": {
+        "responsabilidad_civil": {
+          "valores": [
+            5240.09,
+            6010.59,
+            5117.48,
+            5033.97
+          ],
+          "minimo": 5033.97,
+          "maximo": 6010.59,
+          "promedio_simple": 5350.53
+        },
+        "limitada": {
+          "valores": [
+            6258.33,
+            5679.95,
+            6159.12,
+            6487.39
+          ],
+          "minimo": 5679.95,
+          "maximo": 6487.39,
+          "promedio_simple": 6146.2
+        },
+        "amplia": {
+          "valores": [
+            8523.62,
+            10234.05,
+            10495.91,
+            7257.7
+          ],
+          "minimo": 7257.7,
+          "maximo": 10495.91,
+          "promedio_simple": 9127.82
+        }
+      },
+      "nota": "El promedio simple lo calculó ComparaMotor sobre las 4 cotizaciones publicadas. Los PDFs no permiten leer los nombres de las aseguradoras (logotipos como imagen)."
+    },
+    "ejercicio_anterior": {
+      "fecha_simulacion": "2025-10-07",
+      "fuente": "https://www.condusef.gob.mx/documentos/rcd/quien_es_quien/qq-sim-Seg-Auto-sep-2025.pdf",
+      "perfil": "Mismo perfil (Ford Fiesta Titanium 2016, CDMX, hombre de 36 años)",
+      "costo_anual_total_mxn": {
+        "responsabilidad_civil": {
+          "valores": [
+            4062.61,
+            2831.64,
+            4683.23,
+            5702.4,
+            4594.1,
+            5375.57
+          ],
+          "minimo": 2831.64,
+          "maximo": 5702.4,
+          "promedio_simple": 4541.59
+        },
+        "limitada": {
+          "valores": [
+            5090.36,
+            5968.85,
+            5123.94,
+            5096.47,
+            5943.57,
+            5709.28
+          ],
+          "minimo": 5090.36,
+          "maximo": 5968.85,
+          "promedio_simple": 5488.75
+        },
+        "amplia": {
+          "valores": [
+            6276.24,
+            9049.1,
+            9703.74,
+            8962.76,
+            6618.36,
+            8714.76
+          ],
+          "minimo": 6276.24,
+          "maximo": 9703.74,
+          "promedio_simple": 8220.83
+        }
+      }
+    }
+  },
+  "prima_promedio_nacional": {
+    "valor_mxn": null,
+    "anio": null,
+    "motivo": "AMIS y CNSF no publican en sus documentos revisados una prima promedio por póliza o vehículo. CNSF publica bases (prima emitida y unidades expuestas) de las que se podría derivar, pero no es una cifra publicada.",
+    "base_cnsf_para_derivarla": {
+      "pagina": "https://www.cnsf.gob.mx/EntidadesSupervisadas/InstitucionesSociedadesMutualistas/Paginas/Automoviles.aspx",
+      "archivos_2025": [
+        "https://www.cnsf.gob.mx/EntidadesSupervisadas/InstitucionesSociedadesMutualistas/Auto%20Bases/Autos%20Individual%202025.zip (156,996 KB)",
+        "https://www.cnsf.gob.mx/EntidadesSupervisadas/InstitucionesSociedadesMutualistas/Auto%20Bases/Autos%20Flotilla%202025.zip (62,609 KB)"
+      ],
+      "nota": "No se descargaron (157 MB y 63 MB). Segun la página traen prima emitida, unidades expuestas, siniestros y suma asegurada por entidad y tipo de vehículo."
+    }
+  },
+  "datos_mercado_amis": {
+    "fuente": "AMIS, «Cifras de la industria de seguros al primer semestre del 2026» (agosto 2026)",
+    "url": "https://amisprensa.org/documentos/presentacion-conferencia-de-prensa-autos-25feb2026vnarr-19ago2026-2.pdf",
+    "primas_directas_automoviles_1s_2026_mdp": 111868,
+    "primas_directas_automoviles_1s_2025_mdp": 104684,
+    "variacion_anual": "+6.9%",
+    "participacion_en_total_del_mercado": "20.0%",
+    "siniestros_automoviles_2025": {
+      "total": 3285674,
+      "variacion": "+2.0%",
+      "danos_a_terceros_rc": 1511158,
+      "danos_propios": 1715560,
+      "robo": 58956,
+      "nota_fuente": "Centro Estadístico AMIS, número de siniestros"
+    },
+    "siniestros_directos_pagados_automoviles_mdp": {
+      "1s_2026": 65593,
+      "1s_2025": 57892,
+      "variacion_calculada": "+13.3%"
+    },
+    "nota": "La asignación 2026/2025 de las series de siniestros se dedujo del total (290,995 vs 269,812 mdp, +8%, que es el porcentaje que cita el propio PDF)."
+  },
+  "pendientes": [
+    "Prima promedio nacional de seguro de auto: no publicada por AMIS/CNSF en los documentos revisados. Opciones: derivarla de las bases CNSF 2025 o pedirla a AMIS.",
+    "Nombres de las aseguradoras del simulador 2026: no se pudieron leer del PDF (están en imagen). Abrir el simulador para listarlas.",
+    "Las notas de prensa que citan a CONDUSEF (Expansión, Uno TV) no se usaron como fuente de definiciones; solo el sitio oficial."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "estado": "Baja California",
+  "slug": "baja-california",
+  "programa": null,
+  "obligatoria": false,
+  "calendario": null,
+  "costo2026": null,
+  "portalCita": null,
+  "estatus": "Sin programa de verificación vehicular vigente en 2026. La tabla oficial de SEMARNAT (gob.mx, 21-ago-2026; datos que entregaron los gobiernos locales entre mayo y agosto de 2026) marca a Baja California como 'No' en 'Programa de Verificación Vehicular'. Además, la Secretaría de Medio Ambiente y Desarrollo Sustentable del estado solo publica en su sitio los programas de 2017 y 2018. La Ley que Regula los Servicios de Control Vehicular (art. 29 fracc. VII) menciona acreditar la verificación 'conforme al Programa de Verificación Vehicular que corresponda', pero sin programa vigente no hay calendario, costo ni verificentros publicados.",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 'Información de los PVV a nivel nacional' 2026 (Baja California: No)",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png (imagen de la tabla oficial)",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SMADS Baja California: Calidad del Aire (solo lista programas de verificación 2017 y 2018)",
+      "url": "https://www.bajacalifornia.gob.mx/medio_ambiente/Programas_Proyectos/Calidad_Aire",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California, art. 29",
+      "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_II/2024_LEYSERCONVEHICULAR.PDF",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Nexu: verificación vehicular 2026 (Baja California descartó el programa)",
+      "url": "http://www.nexu.mx/blog/verificacion-vehicular/",
+      "tipo": "prensa (apoyo)"
+    },
+    {
+      "nombre": "La Voz de la Frontera: sin programa de verificación proyectado para 2025 (resumen de buscador)",
+      "url": "https://www.facebook.com/lavozdelafrontera/posts/lavozdelafrontera-deportada-para-el-2025-no-se-tiene-proyectada-la-implementaci%C3%B3/1011608064329037/",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "Confirmar si la fracción VII del art. 29 de la Ley de Control Vehicular se exige en la práctica en el portal de refrendo (el formulario solo mostró un campo de revisión mecánica y póliza de seguro)."
+  ]
+}

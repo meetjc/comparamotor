@@ -1,0 +1,163 @@
+{
+ "_nota": "Comparativas curadas solo con demanda observada (Ubersuggest, México, consulta del 20 oct 2026: búsquedas al mes de la frase y sus variantes). Slug en orden alfabético. 'filtro' limita las versiones de un modelo con carrocerías mezcladas (Aveo).",
+ "comparativas": [
+  {
+   "a": "nissan-sentra",
+   "b": "nissan-versa",
+   "demanda": 610,
+   "frase": "versa vs sentra",
+   "segmento": "Sedanes",
+   "imagen": "sedanes-duelo.jpg",
+   "imagenAlt": "Dos sedanes estacionados lado a lado en la Ciudad de México"
+  },
+  {
+   "a": "chevrolet-aveo",
+   "b": "nissan-versa",
+   "demanda": 260,
+   "frase": "versa vs aveo",
+   "segmento": "Sedanes de entrada",
+   "filtroA": "Sedán",
+   "imagen": "periferico.jpg",
+   "imagenAlt": "Tráfico en el Periférico de la Ciudad de México al atardecer"
+  },
+  {
+   "a": "toyota-hilux",
+   "b": "toyota-tacoma",
+   "demanda": 190,
+   "frase": "hilux vs tacoma",
+   "segmento": "Pickups",
+   "imagen": "pickup-bajio.jpg",
+   "imagenAlt": "Pickup plateada en una carretera del Bajío"
+  },
+  {
+   "a": "nissan-np300",
+   "b": "toyota-hilux",
+   "demanda": 110,
+   "frase": "hilux vs np300",
+   "segmento": "Pickups de trabajo",
+   "imagen": "pickup-jalisco.jpg",
+   "imagenAlt": "Pickup de trabajo en un camino de Jalisco"
+  },
+  {
+   "a": "chevrolet-aveo",
+   "b": "chevrolet-onix",
+   "demanda": 120,
+   "frase": "aveo vs onix",
+   "segmento": "Sedanes de entrada",
+   "filtroA": "Sedán",
+   "imagen": "sedanes-duelo.jpg",
+   "imagenAlt": "Dos sedanes estacionados lado a lado"
+  },
+  {
+   "a": "nissan-versa",
+   "b": "volkswagen-virtus",
+   "demanda": 80,
+   "frase": "versa vs virtus",
+   "segmento": "Sedanes",
+   "imagen": "periferico.jpg",
+   "imagenAlt": "Autos circulando por una vía rápida de la Ciudad de México"
+  },
+  {
+   "a": "nissan-sentra",
+   "b": "toyota-corolla",
+   "demanda": 100,
+   "frase": "sentra vs corolla",
+   "segmento": "Sedanes compactos",
+   "imagen": "sedanes-duelo.jpg",
+   "imagenAlt": "Dos sedanes estacionados lado a lado"
+  },
+  {
+   "a": "mazda-mazda3",
+   "b": "nissan-sentra",
+   "demanda": 80,
+   "frase": "sentra vs mazda 3",
+   "segmento": "Sedanes compactos",
+   "imagen": "prueba-montana.jpg",
+   "imagenAlt": "Sedán en una carretera de montaña"
+  },
+  {
+   "a": "nissan-sentra",
+   "b": "volkswagen-jetta",
+   "demanda": 60,
+   "frase": "sentra vs jetta",
+   "segmento": "Sedanes compactos",
+   "imagen": "periferico.jpg",
+   "imagenAlt": "Autos circulando al atardecer en la Ciudad de México"
+  },
+  {
+   "a": "chevrolet-aveo",
+   "b": "nissan-march",
+   "demanda": 70,
+   "frase": "aveo vs march",
+   "segmento": "Autos baratos",
+   "filtroA": "Hatchback",
+   "imagen": "hatch-oaxaca.jpg",
+   "imagenAlt": "Hatchback amarillo en una calle de Oaxaca"
+  },
+  {
+   "a": "nissan-march",
+   "b": "nissan-versa",
+   "demanda": 70,
+   "frase": "march vs versa",
+   "segmento": "Autos baratos",
+   "imagen": "hatch-oaxaca.jpg",
+   "imagenAlt": "Hatchback en una calle colonial"
+  },
+  {
+   "a": "hyundai-creta",
+   "b": "nissan-kicks",
+   "demanda": 40,
+   "frase": "kicks vs creta",
+   "segmento": "SUV de entrada",
+   "imagen": "familia-suv.jpg",
+   "imagenAlt": "Familia carga el súper en una SUV en Guadalajara"
+  },
+  {
+   "a": "kia-k3",
+   "b": "nissan-versa",
+   "demanda": 40,
+   "frase": "versa vs kia k3",
+   "segmento": "Sedanes",
+   "imagen": "sedanes-duelo.jpg",
+   "imagenAlt": "Dos sedanes estacionados lado a lado"
+  },
+  {
+   "a": "nissan-versa",
+   "b": "toyota-corolla",
+   "demanda": 40,
+   "frase": "versa vs corolla",
+   "segmento": "Sedanes",
+   "imagen": "periferico.jpg",
+   "imagenAlt": "Tráfico en una vía rápida"
+  },
+  {
+   "a": "chevrolet-aveo",
+   "b": "kia-k3",
+   "demanda": 20,
+   "frase": "aveo vs kia k3",
+   "segmento": "Sedanes de entrada",
+   "filtroA": "Sedán",
+   "imagen": "sedanes-duelo.jpg",
+   "imagenAlt": "Dos sedanes estacionados lado a lado"
+  },
+  {
+   "a": "nissan-versa",
+   "b": "volkswagen-jetta",
+   "demanda": 20,
+   "frase": "jetta vs versa",
+   "segmento": "Sedanes",
+   "imagen": "sedanes-duelo.jpg",
+   "imagenAlt": "Dos sedanes estacionados lado a lado"
+  },
+  {
+   "a": "nissan-march",
+   "b": "renault-kwid",
+   "demanda": null,
+   "frase": "kwid vs march",
+   "segmento": "Autos baratos",
+   "imagen": "hatch-oaxaca.jpg",
+   "imagenAlt": "Hatchback amarillo en una calle de Oaxaca",
+   "nota": "Sin dato de demanda; se incluye porque es el par de la home y del ejemplo de letra chiquita"
+  }
+ ]
+}

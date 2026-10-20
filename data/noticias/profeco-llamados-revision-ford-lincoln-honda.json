@@ -1,0 +1,115 @@
+{
+  "slug": "profeco-llamados-revision-ford-lincoln-honda",
+  "titulo": "Profeco difunde en octubre cuatro llamados a revisión de Ford, Lincoln y Honda",
+  "tema": "seguridad",
+  "fechaFuente": "2026-10-16",
+  "fuentes": [
+    {
+      "nombre": "Profeco, Profeco comparte llamado a revisión de Honda de México para mil 954 vehículos",
+      "url": "https://www.gob.mx/profeco/prensa/profeco-comparte-llamado-a-revision-de-honda-de-mexico-para-mil-954-vehiculos?idiom=es",
+      "fecha": "2026-10-16"
+    },
+    {
+      "nombre": "Profeco, Profeco difunde llamado a revisión de Ford Motor Company para más de 17 mil automóviles",
+      "url": "https://www.gob.mx/profeco/prensa/profeco-difunde-llamado-a-revision-de-ford-motor-company-para-mas-de-17-mil-automoviles?idiom=es",
+      "fecha": "2026-10-13"
+    },
+    {
+      "nombre": "Profeco, Profeco y Ford Motor Company comparten alerta para más de dos mil vehículos",
+      "url": "https://www.gob.mx/profeco/prensa/profeco-y-ford-motor-company-comparten-alerta-para-mas-de-dos-mil-vehiculos?idiom=es",
+      "fecha": "2026-10-09"
+    },
+    {
+      "nombre": "La Crónica de Hoy, Profeco alerta por llamado a revisión de más de seis mil vehículos Ford y Lincoln",
+      "url": "https://www.cronica.com.mx/negocios/2026/10/02/profeco-alerta-por-llamado-a-revision-de-mas-de-seis-mil-vehiculos-ford-y-lincoln/",
+      "fecha": "2026-10-02"
+    },
+    {
+      "nombre": "Profeco, Alerta Rápida Profeco 2026 (listado de documentos)",
+      "url": "https://www.gob.mx/profeco/documentos/alerta-rapida-profeco-2026?state=published",
+      "fecha": "2026-10-20",
+      "nota": "Listado consultado el 20 de octubre de 2026"
+    }
+  ],
+  "datosClave": [
+    {
+      "dato": "Llamado del 2 oct: Ford y Lincoln",
+      "valor": "6,558 unidades: 2,569 de modelos 2019-2024 por error de software del infoentretenimiento (la cámara de reversa puede mostrar imagen en blanco) y 3,989 Ford Bronco 2021-2024 por corrosión en el cuerpo del amortiguador trasero",
+      "fuente": "La Crónica de Hoy, nota del 2 oct 2026 (cita a Profeco)"
+    },
+    {
+      "dato": "Llamado del 9 oct: asientos de Ford y Lincoln",
+      "valor": "2,953 unidades: 1,638 Ford Explorer 2025 y Lincoln Aviator 2020-2025 (el interruptor de plegado del asiento de la segunda fila puede trabarse); 21 Lincoln Navigator 2026 (el asiento del conductor podría moverse solo; se actualiza software); 1,294 Explorer y Aviator 2020 (sujetadores de asientos mal asegurados)",
+      "fuente": "Profeco, comunicado del 9 oct 2026"
+    },
+    {
+      "dato": "Llamado del 13 oct: cámaras y pantallas de Ford y Lincoln",
+      "valor": "17,871 unidades en cuatro casos: 15,059 (Mach-E, F-150/Lobo, Mustang, Transit, Expedition, Navigator, Super Duty, Escape, Corsair, Bronco, Ranger, Edge y MKX, 2021-2025; la pantalla central puede congelarse); 368 (Expedition, F-250 y Corsair 2021); 1,654 (Expedition, Navigator y MKC 2015; corrosión en la terminal de la cámara); 790 Super Duty 2023-2024 (entrada de agua)",
+      "fuente": "Profeco, comunicado del 13 oct 2026"
+    },
+    {
+      "dato": "Llamado del 16 oct: Honda Accord Hybrid",
+      "valor": "1,954 unidades modelos 2023, 2024 y 2025; falla en la computadora (CPU) que puede provocar pérdida progresiva de potencia; actualización del módulo ICM desde noviembre pasado y por tiempo indefinido",
+      "fuente": "Profeco, comunicado del 16 oct 2026"
+    },
+    {
+      "dato": "Costo de la reparación",
+      "valor": "Sin costo para los propietarios en todos los casos; campañas de Ford con vigencia indefinida",
+      "fuente": "Profeco, comunicados del 9, 13 y 16 oct 2026"
+    },
+    {
+      "dato": "Cómo verificar el vehículo",
+      "valor": "Sitios de llamado a revisión de Ford (ford.mx/mi-ford/llamado-revision), Lincoln (lincoln.mx/mi-lincoln/llamado-revision) y Honda (honda.mx/recall)",
+      "fuente": "Profeco, comunicados del 9, 13 y 16 oct 2026"
+    },
+    {
+      "dato": "Canal de quejas de Profeco",
+      "valor": "Teléfono del Consumidor 55 5568 8722 y 800 468 8722",
+      "fuente": "Profeco, comunicados del 9, 13 y 16 oct 2026"
+    }
+  ],
+  "resumen": "Durante octubre Profeco replicó cuatro llamados a revisión de fabricantes: tres de Ford y Lincoln y uno de Honda. El más grande abarca 17,871 unidades de Ford y Lincoln por fallas en cámaras de reversa y pantallas, y los otros dos cubren 6,558 unidades (software de infoentretenimiento y corrosión en el amortiguador trasero del Bronco) y 2,953 (asientos). Honda convocó a 1,954 Accord Hybrid 2023 a 2025 por un problema de computadora que puede restar potencia. En todos los casos la reparación es gratuita y el propietario puede comprobar su unidad en el sitio de la marca, mientras Profeco dará seguimiento al cumplimiento.",
+  "modelosMencionados": [
+    {
+      "marca": "Ford",
+      "modelo": "Explorer"
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Bronco"
+    },
+    {
+      "marca": "Ford",
+      "modelo": "F-150"
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Mustang Mach-E"
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Super Duty"
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Expedition"
+    },
+    {
+      "marca": "Lincoln",
+      "modelo": "Aviator"
+    },
+    {
+      "marca": "Lincoln",
+      "modelo": "Navigator"
+    },
+    {
+      "marca": "Lincoln",
+      "modelo": "Corsair"
+    },
+    {
+      "marca": "Honda",
+      "modelo": "Accord Hybrid"
+    }
+  ],
+  "fechaVerificacion": "2026-10-20"
+}

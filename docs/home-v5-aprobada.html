@@ -1,0 +1,1117 @@
+<title>ComparaMotor Home</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..800&family=Plus+Jakarta+Sans:wght@800&display=swap">
+<style>
+/* Layout v5: héroe cinematográfico basado en el DESIGN.md de Ferrari (foto o video a sangre, fondo casi negro, cifras grandes)
+   sobre el sistema de Uber adaptado (píldoras, tarjetas de 16 px). Menos blanco: lienzo piedra cálido, bandas noche y roja.
+   Logotipo: asterisco-rin, la letra chiquita en grande. Geist en el sistema, Plus Jakarta Sans 800 en la palabra. */
+:root {
+  --primary: #d42a2c;
+  --primary-hover: #bb2124;
+  --ink: #171513;
+  --body: #5c564f;
+  --mute: #a39b91;
+  --hairline-mid: #4a453f;
+  --canvas: #ffffff;
+  --canvas-soft: #f1ece5;
+  --canvas-softer: #f7f4ef;
+  --pressed: #e2dbd0;
+  --black-elevated: #2a2622;
+  --paper: #efe9e1;
+  --paper-2: #e5ded3;
+  --night: #171513;
+  --night-2: #23201c;
+  --night-3: #312c27;
+  --on-night: #ddd6cd;
+  --on-night-2: #a59d93;
+  --rojo-texto: #c8102e;
+  --rojo-suave: #fdecec;
+  --rojo-claro: #ff5a52;
+  --azul-sello: #1a73e8;
+  --azul-suave: #e8f0fe;
+  --c1: #2a78d6;
+  --c2: #eb6834;
+  --c3: #1baf7a;
+  --r-md: 8px; --r-lg: 12px; --r-xl: 16px; --r-pill: 999px; --r-tab: 36px;
+  --shadow-1: rgba(23,21,19,.12) 0 4px 16px 0;
+  --shadow-2: rgba(23,21,19,.16) 0 4px 16px 0;
+  --shadow-3: rgba(0,0,0,.16) 0 2px 8px 0;
+  --ease: cubic-bezier(.16, 1, .3, 1);
+  --font: "Geist", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --font-logo: "Plus Jakarta Sans", "Geist", Arial, sans-serif;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { scroll-behavior: smooth; }
+main [id] { scroll-margin-top: 76px; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font); font-size: 16px; line-height: 24px; -webkit-font-smoothing: antialiased; }
+::selection { background: var(--primary); color: #fff; }
+a { color: inherit; text-decoration: none; }
+img { display: block; max-width: 100%; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--azul-sello); outline-offset: 2px; }
+h1, h2, h3, h4, p { margin: 0; }
+h1, h2, h3 { font-feature-settings: "ss01"; text-wrap: balance; }
+.wrap { max-width: 1200px; margin: 0 auto; padding-left: max(32px, env(safe-area-inset-left, 0px)); padding-right: max(32px, env(safe-area-inset-right, 0px)); }
+@media (max-width: 600px) { .wrap { padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); } }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.num { font-variant-numeric: tabular-nums; }
+
+/* Logotipo */
+.logo { display: inline-flex; align-items: center; gap: 10px; flex: none; }
+.logo .mk { width: 30px; height: 30px; flex: none; transition: transform 700ms var(--ease); }
+.logo:hover .mk { transform: rotate(45deg); }
+.ready .nav .logo .mk { animation: turn 1200ms var(--ease) 150ms both; }
+@keyframes turn { from { transform: translateX(-14px) rotate(-200deg); opacity: 0; } to { transform: none; opacity: 1; } }
+.logo .wm { font-family: var(--font-logo); font-weight: 800; font-size: 22px; line-height: 1; letter-spacing: -0.035em; white-space: nowrap; }
+.logo .wm b { font-weight: 800; color: var(--primary); }
+.on-dark .wm { color: #fff; }
+.on-dark .wm b { color: var(--rojo-claro); }
+
+/* Botones */
+.pill { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; padding: 10px 18px; border: 0; border-radius: var(--r-pill); font-weight: 500; font-size: 16px; line-height: 20px; cursor: pointer; white-space: nowrap; transition: transform 100ms ease-out, background-color 150ms ease, box-shadow 150ms ease; }
+.pill:active { transform: scale(0.97); }
+.p-primary { background: var(--primary); color: #fff; }
+.p-primary:hover { background: var(--primary-hover); }
+.p-black { background: var(--ink); color: #fff; }
+.p-black:hover { background: var(--black-elevated); }
+.p-white { background: var(--canvas); color: var(--ink); }
+.p-white:hover { background: var(--canvas-soft); }
+.p-subtle { background: var(--paper-2); color: var(--ink); }
+.p-subtle:hover { background: #dcd4c8; }
+.p-float { background: var(--canvas); color: var(--ink); box-shadow: var(--shadow-3); }
+.big-btn { display: flex; width: 100%; align-items: center; justify-content: center; gap: 10px; min-height: 56px; padding: 16px 20px; border: 0; border-radius: var(--r-xl); background: var(--primary); color: #fff; font-size: 18px; font-weight: 500; line-height: 24px; cursor: pointer; transition: transform 100ms ease-out, background-color 150ms ease; }
+.big-btn:hover { background: var(--primary-hover); }
+.big-btn:active { transform: scale(0.98); }
+.big-btn svg { transition: transform 200ms var(--ease); }
+.big-btn:hover svg { transform: translateX(4px); }
+.chip { display: inline-flex; align-items: center; gap: 6px; min-height: 36px; padding: 8px 14px; border-radius: var(--r-pill); background: var(--canvas-soft); color: var(--ink); font-size: 14px; font-weight: 500; line-height: 16px; border: 0; cursor: pointer; transition: background-color 120ms ease, transform 100ms ease-out; white-space: nowrap; }
+.chip:hover { background: var(--pressed); }
+.chip:active { transform: scale(0.97); }
+.chip .q { color: var(--body); font-weight: 400; }
+.tag { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: var(--r-pill); background: var(--canvas-soft); font-size: 13px; font-weight: 500; line-height: 16px; color: var(--ink); white-space: nowrap; }
+.tag.red { background: var(--rojo-suave); color: var(--rojo-texto); }
+.tag.blue { background: var(--azul-suave); color: #0b4fae; }
+.tag.dark { background: var(--ink); color: #fff; }
+
+/* Navegación */
+.nav { position: fixed; top: 0; left: 0; right: 0; z-index: 40; padding-top: env(safe-area-inset-top, 0px); color: #fff; background: linear-gradient(rgba(23,21,19,.55), rgba(23,21,19,0)); transition: background-color 300ms ease, box-shadow 300ms ease; }
+.nav.solid { background: rgba(23,21,19,.9); -webkit-backdrop-filter: blur(14px) saturate(140%); backdrop-filter: blur(14px) saturate(140%); box-shadow: 0 1px 0 rgba(255,255,255,.08); }
+.nav .p-subtle { background: rgba(255,255,255,.12); color: #fff; }
+.nav .p-subtle:hover { background: rgba(255,255,255,.2); }
+.nav .wrap { display: flex; align-items: center; gap: 28px; min-height: 68px; }
+.proto { font-size: 12px; font-weight: 500; color: var(--on-night); background: rgba(255,255,255,.1); border-radius: var(--r-pill); padding: 3px 9px; }
+.links { display: flex; gap: 22px; font-weight: 500; white-space: nowrap; }
+.links a { padding: 6px 0; color: var(--on-night); transition: color 150ms ease; }
+.links a:hover { color: #fff; }
+.nav-r { margin-left: auto; display: flex; gap: 8px; align-items: center; }
+.menu-btn { display: none; width: 44px; height: 44px; border-radius: var(--r-pill); border: 0; color: #fff; background: rgba(255,255,255,.12); cursor: pointer; place-items: center; }
+@media (max-width: 1119px) { .links { display: none; } .links.open { display: flex; position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; gap: 0; background: var(--night); padding: 8px max(16px, env(safe-area-inset-left, 0px)) 16px; box-shadow: var(--shadow-1); } .links.open a { padding: 12px 0; } .menu-btn { display: grid; } }
+@media (max-width: 700px) { .nav .wrap { gap: 10px; } .nav-r .hide-m, .proto { display: none; } .logo { gap: 8px; } .logo .mk { width: 24px; height: 24px; } .logo .wm { font-size: 18px; } .nav-r .p-primary { min-height: 40px; padding: 8px 12px; font-size: 14px; } }
+
+/* Héroe: el comparador */
+.hero { padding-block: 96px 88px; background: var(--paper); }
+.hero h2 { font-size: 48px; line-height: 52px; font-weight: 600; letter-spacing: -0.03em; }
+.hero h2 b { color: var(--primary); font-weight: 600; }
+@media (max-width: 600px) { .hero { padding-block: 56px 48px; } .hero h2 { font-size: 34px; line-height: 38px; } }
+.hero .wrap { display: grid; grid-template-columns: minmax(0, 500px) minmax(0, 1fr); gap: 48px; align-items: start; }
+.hero .wrap > * { min-width: 0; }
+@media (max-width: 1040px) { .hero .wrap { grid-template-columns: 1fr; gap: 28px; } .hero { padding-block: 24px 40px; } }
+.hero h1 { font-size: 60px; line-height: 64px; font-weight: 800; letter-spacing: -0.02em; }
+.hero h1 b { color: var(--primary); font-weight: 800; }
+@media (max-width: 600px) { .hero h1 { font-size: 40px; line-height: 44px; } }
+.hero .lead { margin-top: 14px; font-size: 18px; line-height: 27px; color: var(--body); max-width: 42ch; }
+.form { margin-top: 24px; background: var(--canvas); border-radius: var(--r-xl); box-shadow: var(--shadow-2); padding: 16px; display: grid; gap: 10px; }
+.tabs { display: inline-flex; gap: 4px; background: var(--canvas-soft); border-radius: var(--r-tab); padding: 4px; justify-self: start; }
+.tabs button { border: 0; background: transparent; border-radius: var(--r-tab); padding: 8px 16px; font-weight: 500; font-size: 15px; cursor: pointer; color: var(--ink); transition: background-color 160ms ease, color 160ms ease; }
+.tabs button[aria-pressed="true"] { background: var(--ink); color: #fff; }
+.join { position: relative; display: grid; gap: 6px; }
+.join::before { content: ""; position: absolute; left: 27px; top: 36px; bottom: 36px; width: 2px; background: var(--ink); z-index: 1; }
+.row { display: grid; grid-template-columns: 28px minmax(0, 1fr); align-items: center; gap: 10px; background: var(--canvas-soft); border-radius: var(--r-md); padding: 6px 12px 6px 14px; min-height: 60px; transition: box-shadow 150ms ease; }
+.row .ico { display: grid; place-items: center; }
+.row label { display: grid; min-width: 0; font-size: 12px; line-height: 16px; color: var(--body); font-weight: 500; }
+.row select { width: 100%; min-width: 0; border: 0; background: transparent; font-size: 17px; font-weight: 500; line-height: 24px; color: var(--ink); padding: 2px 0; cursor: pointer; }
+.row select:focus { outline: none; }
+.row:focus-within { box-shadow: inset 0 0 0 2px var(--ink); }
+.plan { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; align-items: center; background: var(--canvas-soft); border-radius: var(--r-md); padding: 10px 14px; }
+.plan .lbl { font-size: 12px; line-height: 16px; color: var(--body); font-weight: 500; }
+.plan .val { font-size: 17px; font-weight: 500; }
+.plan input[type="range"] { grid-column: 1 / -1; width: 100%; accent-color: var(--ink); }
+.plazos { display: flex; gap: 6px; flex-wrap: wrap; }
+.plazos button { border: 0; border-radius: var(--r-pill); background: var(--canvas); padding: 6px 12px; font-weight: 500; font-size: 14px; cursor: pointer; box-shadow: inset 0 0 0 1px var(--pressed); transition: background-color 150ms ease; }
+.plazos button[aria-pressed="true"] { background: var(--ink); color: #fff; box-shadow: none; }
+.sup { font-size: 14px; color: var(--body); }
+.sup summary { cursor: pointer; font-weight: 500; color: var(--ink); list-style: none; display: inline-flex; gap: 6px; align-items: center; }
+.sup summary::-webkit-details-marker { display: none; }
+.sup-grid { margin-top: 10px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px; }
+.sup-grid label { display: grid; gap: 2px; font-size: 12px; color: var(--body); font-weight: 500; }
+.sup-grid input { width: 100%; min-width: 0; height: 40px; border: 0; border-radius: var(--r-md); background: var(--canvas-softer); padding: 0 10px; font-size: 15px; color: var(--ink); font-variant-numeric: tabular-nums; }
+.quick { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; padding-top: 2px; }
+.quick .t { font-size: 13px; color: var(--body); font-weight: 500; margin-right: 2px; }
+.promise { margin-top: 18px; display: grid; gap: 8px; font-size: 15px; line-height: 20px; }
+.promise li { display: flex; gap: 10px; align-items: center; }
+.promise ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.promise svg { flex: none; }
+
+/* Resultado en vivo */
+.result { background: var(--night); border-radius: 20px; padding: 24px; display: grid; gap: 14px; box-shadow: 0 40px 80px -40px rgba(23,21,19,.6); }
+@media (max-width: 600px) { .result { padding: 14px; } }
+.saving { background: var(--canvas); border-radius: var(--r-lg); padding: 18px 20px; display: grid; gap: 4px; }
+.saving .k { font-size: 15px; font-weight: 500; color: var(--body); }
+.saving .k b { color: var(--ink); }
+.saving .v { font-size: 64px; line-height: 68px; font-weight: 800; color: var(--primary); letter-spacing: -0.03em; font-variant-numeric: tabular-nums; }
+.saving .s { font-size: 15px; color: var(--body); }
+@media (max-width: 600px) { .saving .v { font-size: 44px; line-height: 50px; } }
+.fineprint { display: flex; gap: 10px; align-items: flex-start; background: var(--night-3); color: #fff; border-radius: var(--r-lg); padding: 12px 14px; font-size: 14px; line-height: 20px; }
+.fineprint .tag { flex: none; background: var(--primary); color: #fff; }
+.duel { display: grid; grid-template-columns: minmax(0, 1fr) 44px minmax(0, 1fr); gap: 8px; align-items: stretch; }
+.car { background: var(--canvas); border-radius: var(--r-lg); padding: 14px 16px 12px; display: grid; gap: 2px; align-content: start; min-width: 0; overflow: hidden; }
+.car .sil { height: 64px; display: grid; place-items: center; margin-bottom: 6px; }
+.car .sil svg { width: 100%; max-width: 180px; height: auto; }
+.car .mkk { font-size: 13px; color: var(--body); font-weight: 500; }
+.car .md { font-size: 24px; line-height: 30px; font-weight: 800; letter-spacing: -0.01em; }
+.car .vr { font-size: 13px; color: var(--body); }
+.car .dot { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: 1px; }
+.vs { width: 44px; height: 44px; border-radius: var(--r-pill); background: var(--primary); color: #fff; display: grid; place-items: center; font-family: var(--font-logo); font-weight: 700; font-size: 13px; align-self: center; }
+.figs { display: grid; grid-template-columns: 150px minmax(0, 1fr) minmax(0, 1fr); background: var(--canvas); border-radius: var(--r-lg); overflow: hidden; }
+.figs > * { padding: 11px 14px; border-bottom: 1px solid var(--canvas-soft); min-width: 0; }
+.figs > :nth-last-child(-n+3) { border-bottom: 0; }
+.figs .k { font-size: 13px; color: var(--body); font-weight: 500; }
+.figs .v { font-size: 18px; font-weight: 700; font-variant-numeric: tabular-nums; text-align: right; }
+.figs .v.tot { font-size: 22px; font-weight: 800; }
+.figs .h { font-size: 12px; color: var(--body); font-weight: 500; text-align: right; padding-block: 8px; }
+.chart { background: var(--canvas); border-radius: var(--r-lg); padding: 14px 16px 16px; display: grid; gap: 12px; position: relative; }
+.chart-h { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.chart-h h3 { font-size: 15px; line-height: 20px; font-weight: 700; }
+.legend { display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto; gap: 4px 12px; font-size: 13px; line-height: 18px; align-items: center; }
+.legend .sw { width: 10px; height: 10px; border-radius: 3px; }
+.legend .n { color: var(--ink); }
+.legend .a, .legend .b { text-align: right; font-variant-numeric: tabular-nums; color: var(--hairline-mid); }
+.legend .hd { color: var(--body); font-size: 12px; text-align: right; }
+.bars { display: grid; gap: 10px; }
+.bar { display: grid; grid-template-columns: 74px minmax(0, 1fr); gap: 10px; align-items: center; }
+.bar .lb { font-size: 13px; font-weight: 700; display: flex; align-items: center; gap: 6px; min-width: 0; }
+.track { display: flex; gap: 2px; height: 14px; }
+.seg { height: 100%; flex: none; transition: width 520ms var(--ease); cursor: default; }
+.seg:first-child { border-radius: 4px 0 0 4px; }
+.seg:last-child { border-radius: 0 4px 4px 0; }
+.seg:hover { filter: brightness(1.08); }
+.tip { position: absolute; pointer-events: none; background: var(--ink); color: #fff; font-size: 13px; line-height: 18px; padding: 8px 10px; border-radius: 8px; white-space: nowrap; transform: translate(-50%, -110%); opacity: 0; transition: opacity 120ms ease; z-index: 3; }
+.tip.on { opacity: 1; }
+.res-foot { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; }
+.seal { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; font-size: 12.5px; color: var(--hairline-mid); }
+.result .seal { color: var(--on-night); }
+.result .seal a { color: #9cc3ff; }
+.seal a { color: #0b4fae; text-decoration: underline; text-underline-offset: 2px; }
+@media (max-width: 600px) { .duel { grid-template-columns: minmax(0, 1fr) 30px minmax(0, 1fr); gap: 6px; } .vs { width: 30px; height: 30px; font-size: 10px; } .car { padding: 10px; } .car .sil { height: 44px; } .car .md { font-size: 18px; line-height: 24px; } .figs { grid-template-columns: minmax(0, 1fr) auto auto; } .figs > * { padding: 9px 10px; } .figs .v { font-size: 15px; } .figs .v.tot { font-size: 17px; } .bar { grid-template-columns: 56px minmax(0, 1fr); } .legend { font-size: 12px; } }
+
+/* Coreografía del duelo */
+.ready .car-a .sil svg { animation: inA 760ms var(--ease) both; }
+.ready .car-b .sil svg { animation: inB 760ms var(--ease) both; }
+.ready .vs { animation: pop 420ms var(--ease) 380ms both; }
+@keyframes inA { from { transform: translateX(-46%); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes inB { from { transform: translateX(46%); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes pop { from { transform: scale(.4); opacity: 0; } to { transform: none; opacity: 1; } }
+.flash { animation: flash 700ms ease-out; }
+@keyframes flash { from { background: #fff1c2; } to { background: var(--canvas); } }
+
+/* Secciones */
+.sec { padding-block: 80px; }
+.sec.tight { padding-block: 56px; }
+.soft { background: var(--paper-2); }
+.sec-h { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 12px 24px; margin-bottom: 28px; }
+.sec-h h2 { font-size: 40px; line-height: 48px; font-weight: 800; letter-spacing: -0.015em; max-width: 20ch; }
+.sec-h p { color: var(--body); max-width: 50ch; font-size: 17px; line-height: 26px; }
+@media (max-width: 600px) { .sec { padding-block: 52px; } .sec-h h2 { font-size: 30px; line-height: 36px; } }
+
+/* Desglose */
+.labels { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+@media (max-width: 760px) { .labels { gap: 8px; } }
+.etq { background: var(--canvas); border-radius: var(--r-xl); padding: 24px; display: grid; gap: 12px; align-content: start; min-width: 0; }
+.etq .mkk { font-size: 14px; color: var(--body); font-weight: 500; display: flex; align-items: center; }
+.etq h3 { font-size: 32px; line-height: 38px; font-weight: 800; letter-spacing: -0.01em; }
+.etq .vr { font-size: 15px; color: var(--body); }
+.etq .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.lines { display: grid; }
+.ln { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; padding: 10px 0; box-shadow: 0 1px 0 var(--canvas-soft); font-size: 16px; }
+.ln span:first-child { color: var(--body); min-width: 0; }
+.ln span:last-child { font-weight: 500; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.ln.strike span:last-child { text-decoration: line-through; color: var(--mute); font-weight: 400; }
+.ln.total { box-shadow: none; padding-top: 16px; }
+.ln.total span:first-child { color: var(--ink); font-weight: 700; }
+.ln.total span:last-child { font-size: 30px; line-height: 38px; font-weight: 800; }
+.cond { font-size: 14px; line-height: 20px; padding: 12px 14px; border-radius: var(--r-md); background: var(--rojo-suave); color: var(--rojo-texto); }
+.cond.warn { background: var(--primary); color: #fff; }
+.rend { display: flex; justify-content: space-between; align-items: center; gap: 10px; font-size: 14px; color: var(--body); }
+.rend input { width: 76px; height: 40px; border: 0; border-radius: var(--r-md); background: var(--canvas-soft); padding: 0 10px; text-align: right; font-variant-numeric: tabular-nums; }
+@media (max-width: 600px) { .etq { padding: 14px 12px; gap: 8px; } .etq h3 { font-size: 22px; line-height: 28px; } .ln { flex-direction: column; align-items: flex-start; gap: 0; font-size: 14px; padding: 8px 0; } .ln.total span:last-child { font-size: 22px; line-height: 28px; } .rend { flex-direction: column; align-items: flex-start; } }
+.dgm { display: none; }
+@media (max-width: 600px) {
+  .labels { display: none; }
+  .dgm { display: grid; gap: 12px; background: var(--canvas); border-radius: var(--r-xl); padding: 16px; }
+  .dgm table { width: 100%; border-collapse: collapse; font-size: 14px; line-height: 20px; }
+  .dgm th, .dgm td { padding: 9px 0; box-shadow: 0 1px 0 var(--canvas-soft); text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .dgm th:first-child, .dgm td:first-child { text-align: left; color: var(--body); white-space: normal; padding-right: 8px; }
+  .dgm thead th { font-size: 15px; font-weight: 800; color: var(--ink); padding-top: 0; }
+  .dgm thead th:first-child { color: var(--body); font-weight: 500; font-size: 12px; }
+  .dgm td { font-weight: 500; padding-left: 10px; }
+  .dgm td:first-child { padding-left: 0; font-weight: 400; }
+  .dgm .strike { text-decoration: line-through; color: var(--mute); font-weight: 400; }
+  .dgm tr.total td { font-size: 17px; font-weight: 800; box-shadow: none; padding-top: 12px; }
+  .dgm tr.total td:first-child { color: var(--ink); font-size: 14px; }
+  .dgm .src { display: grid; gap: 4px; font-size: 12.5px; color: var(--hairline-mid); }
+  .dgm .src a { color: #0b4fae; text-decoration: underline; }
+  .dgm .rends { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px; }
+  .dgm .rends label { display: grid; gap: 4px; font-size: 12px; color: var(--body); font-weight: 500; }
+  .dgm .rends input { width: 100%; height: 40px; border: 0; border-radius: var(--r-md); background: var(--canvas-soft); padding: 0 10px; font-variant-numeric: tabular-nums; }
+}
+.decide { margin-top: 16px; background: var(--ink); color: #fff; border-radius: var(--r-xl); padding: 24px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 16px 24px; align-items: center; }
+@media (max-width: 760px) { .decide { grid-template-columns: 1fr; padding: 20px; } }
+.decide h3 { font-size: 24px; line-height: 32px; font-weight: 700; }
+.decide p { color: #d9d9d9; font-size: 15px; line-height: 22px; margin-top: 4px; }
+.acts { display: flex; flex-wrap: wrap; gap: 8px; }
+.consent { margin-top: 12px; background: var(--canvas); border-radius: var(--r-xl); padding: 24px; display: grid; gap: 10px; }
+.consent h4 { font-size: 20px; line-height: 28px; font-weight: 700; }
+.consent p { color: var(--body); max-width: 70ch; }
+.consent label { display: flex; gap: 12px; align-items: center; min-height: 52px; padding: 12px 14px; background: var(--canvas-soft); border-radius: var(--r-md); font-weight: 500; cursor: pointer; }
+.consent input { width: 18px; height: 18px; accent-color: var(--ink); }
+.consent .r { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 14px; color: var(--body); }
+.consent .pill:disabled { opacity: .4; cursor: not-allowed; }
+details.diff { margin-top: 12px; background: var(--canvas); border-radius: var(--r-xl); }
+details.diff summary { cursor: pointer; padding: 18px 24px; font-weight: 500; list-style: none; display: flex; justify-content: space-between; align-items: center; }
+details.diff summary::-webkit-details-marker { display: none; }
+details.diff summary::after { content: "+"; font-size: 22px; font-weight: 400; }
+details.diff[open] summary::after { content: "−"; }
+.diff-in { padding: 0 24px 20px; overflow-x: auto; }
+.diff-in table { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 480px; }
+.diff-in th, .diff-in td { text-align: left; padding: 12px 16px; box-shadow: 0 1px 0 var(--pressed); }
+.diff-in thead th { background: var(--canvas-soft); font-weight: 500; }
+.diff-in .p { color: var(--body); }
+.legal { margin-top: 14px; font-size: 13px; line-height: 20px; color: var(--hairline-mid); max-width: 100ch; }
+
+/* Mi garage: banda roja de registro */
+.garage { background: var(--primary); color: #fff; overflow: hidden; }
+.garage .wrap { padding-block: 72px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 48px; align-items: center; }
+@media (max-width: 900px) { .garage .wrap { grid-template-columns: 1fr; padding-block: 52px; } }
+.garage h2 { font-size: 48px; line-height: 54px; font-weight: 800; letter-spacing: -0.02em; }
+@media (max-width: 600px) { .garage h2 { font-size: 34px; line-height: 40px; } }
+.garage .lead { margin-top: 12px; font-size: 18px; line-height: 27px; color: #ffffff; max-width: 44ch; }
+.perks { list-style: none; margin: 24px 0 0; padding: 0; display: grid; gap: 14px; }
+.perks li { display: grid; grid-template-columns: 40px minmax(0, 1fr); gap: 12px; align-items: start; }
+.perks .ic { width: 40px; height: 40px; border-radius: 12px; background: rgba(0,0,0,.18); display: grid; place-items: center; }
+.perks b { display: block; font-size: 17px; line-height: 24px; }
+.perks span { color: #ffffff; font-size: 15px; line-height: 22px; }
+.signup { margin-top: 26px; display: flex; flex-wrap: wrap; gap: 8px; }
+.signup input { flex: 1 1 240px; min-width: 0; height: 52px; border: 0; border-radius: var(--r-pill); padding: 0 22px; font-size: 16px; color: var(--ink); background: #fff; }
+.signup .pill { min-height: 52px; padding: 0 24px; background: var(--ink); color: #fff; }
+.signup .pill:hover { background: var(--black-elevated); }
+.signup-note { flex-basis: 100%; font-size: 13px; line-height: 20px; color: #ffffff; }
+.signup-ok { margin-top: 12px; background: rgba(0,0,0,.2); border-radius: var(--r-lg); padding: 12px 14px; font-size: 15px; }
+.phone { justify-self: center; width: min(380px, 100%); background: #111; border-radius: 40px; padding: 12px; box-shadow: 0 30px 60px -30px rgba(0,0,0,.6); transform: rotate(-2deg); }
+.screen { background: var(--canvas-softer); border-radius: 30px; padding: 18px 14px 20px; display: grid; gap: 10px; color: var(--ink); }
+.screen .top { display: flex; justify-content: space-between; align-items: center; padding: 2px 6px 6px; }
+.screen .top b { font-size: 20px; font-weight: 800; }
+.gcard { background: var(--canvas); border-radius: 16px; padding: 14px; display: grid; gap: 8px; }
+.gcard .t1 { font-size: 15px; font-weight: 700; display: flex; justify-content: space-between; gap: 8px; }
+.gcard .t2 { font-size: 13px; color: var(--body); }
+.gcard .vsrow { display: flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 500; }
+.alert { background: var(--ink); color: #fff; border-radius: 16px; padding: 14px; display: grid; grid-template-columns: 36px minmax(0, 1fr); gap: 10px; align-items: start; box-shadow: var(--shadow-2); }
+.alert .ic { width: 36px; height: 36px; border-radius: 10px; background: var(--primary); display: grid; place-items: center; }
+.alert b { font-size: 14px; line-height: 20px; display: block; }
+.alert span { font-size: 13px; line-height: 18px; color: #cfcfcf; }
+.ej { justify-self: start; font-size: 11px; font-weight: 500; background: var(--canvas-soft); color: var(--body); padding: 2px 8px; border-radius: 999px; }
+.js-reveal .phone .alert { opacity: 0; }
+.js-reveal .phone.in .alert { opacity: 1; animation: drop 640ms var(--ease) 260ms both; }
+@keyframes drop { from { transform: translateY(-14px); opacity: 0; } to { transform: none; opacity: 1; } }
+
+/* Explorador por presupuesto */
+.explore { display: grid; grid-template-columns: minmax(0, 360px) minmax(0, 1fr); gap: 32px; align-items: start; }
+@media (max-width: 900px) { .explore { grid-template-columns: 1fr; } }
+.budget { background: var(--night-2); box-shadow: inset 0 0 0 1px rgba(255,255,255,.08); color: #fff; border-radius: var(--r-xl); padding: 24px; display: grid; gap: 12px; position: sticky; top: 92px; }
+@media (max-width: 900px) { .budget { position: static; } }
+.budget .p-primary { justify-self: start; margin-top: 4px; }
+.budget .k { font-size: 14px; color: #cfcfcf; font-weight: 500; }
+.budget .v { font-size: 48px; line-height: 54px; font-weight: 800; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.budget input[type="range"] { width: 100%; accent-color: var(--primary); }
+.budget .s { font-size: 13px; line-height: 20px; color: #bdbdbd; }
+.budget .scale { display: flex; justify-content: space-between; font-size: 12px; color: #9a9a9a; }
+.fits { display: grid; gap: 10px; }
+.fit { background: var(--canvas); border-radius: var(--r-xl); padding: 16px 18px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px 16px; align-items: center; transition: transform 260ms var(--ease), opacity 260ms ease; }
+.fit .nm { font-size: 18px; font-weight: 700; }
+.fit .nm small { font-size: 14px; color: var(--body); font-weight: 400; margin-left: 6px; }
+.fit .pay { font-size: 15px; color: var(--body); }
+.fit .pay b { color: var(--ink); font-variant-numeric: tabular-nums; }
+.fit .meter { grid-column: 1 / -1; position: relative; height: 8px; border-radius: 4px; background: var(--canvas-soft); }
+.fit .meter b { position: absolute; top: -4px; bottom: -4px; width: 2px; margin-left: -1px; background: var(--ink); border-radius: 1px; transition: left 260ms var(--ease); }
+.fit .meter i { display: block; height: 100%; border-radius: 4px; background: var(--ink); transform-origin: left; transition: transform 420ms var(--ease), background-color 200ms ease; }
+.fit.over .meter i { background: var(--primary); }
+@media (max-width: 600px) { .fit { grid-template-columns: minmax(0, 1fr); padding: 14px; } .fits .fit .side { justify-content: flex-start; } .fit .nm small { display: block; margin-left: 0; } }
+.fit .side { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
+
+/* Letra chiquita y comparativas */
+.promo-dark { background: var(--ink); color: #fff; border-radius: var(--r-xl); display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); overflow: hidden; }
+@media (max-width: 860px) { .promo-dark { grid-template-columns: 1fr; } }
+.promo-dark .tx { padding: 40px; display: grid; gap: 14px; align-content: center; }
+@media (max-width: 600px) { .promo-dark .tx { padding: 24px; } }
+.promo-dark h2 { font-size: 36px; line-height: 44px; font-weight: 800; letter-spacing: -0.015em; }
+@media (max-width: 600px) { .promo-dark h2 { font-size: 26px; line-height: 34px; } }
+.promo-dark p { color: #d9d9d9; font-size: 17px; line-height: 26px; max-width: 46ch; }
+.promo-dark .ph { position: relative; min-height: 320px; }
+.promo-dark .ph img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.mosaic { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+.mosaic .cmp.feat { grid-column: span 2; grid-row: span 2; }
+.mosaic .cmp.feat .ph { aspect-ratio: 16 / 11; }
+.mosaic .cmp.feat h3 { font-size: 30px; line-height: 38px; }
+@media (max-width: 900px) { .mosaic { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; } .mosaic .cmp.feat { grid-column: 1 / -1; grid-row: auto; } }
+@media (max-width: 560px) { .mosaic { grid-template-columns: 1fr; } .mosaic .cmp.feat h3 { font-size: 24px; line-height: 32px; } }
+.cmp { display: grid; gap: 12px; align-content: start; }
+.cmp .ph { border-radius: var(--r-xl); overflow: hidden; aspect-ratio: 4 / 3; position: relative; background: var(--canvas-soft); }
+.cmp .ph img { width: 100%; height: 100%; object-fit: cover; transition: transform 700ms var(--ease); }
+.cmp:hover .ph img { transform: scale(1.04); }
+.cmp .ph .p-float { position: absolute; left: 12px; bottom: 12px; min-height: 34px; padding: 6px 14px; font-size: 14px; }
+.cmp h3 { font-size: 20px; line-height: 28px; font-weight: 700; }
+.cmp p { color: var(--body); font-size: 15px; line-height: 22px; }
+.cmp .meta { display: flex; flex-wrap: wrap; gap: 6px; }
+.cmp:hover h3 { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 2px; }
+
+/* Lo último */
+.news { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 32px; }
+@media (max-width: 900px) { .news { grid-template-columns: 1fr; } }
+.lead-story { display: grid; gap: 14px; align-content: start; }
+.lead-story .ph { border-radius: var(--r-xl); overflow: hidden; aspect-ratio: 16 / 10; }
+.lead-story .ph img { width: 100%; height: 100%; object-fit: cover; transition: transform 700ms var(--ease); }
+.lead-story:hover .ph img { transform: scale(1.03); }
+.lead-story h3 { font-size: 32px; line-height: 40px; font-weight: 800; letter-spacing: -0.01em; }
+@media (max-width: 600px) { .lead-story h3 { font-size: 24px; line-height: 32px; } }
+.lead-story p { color: var(--body); font-size: 17px; line-height: 26px; }
+.byline { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: 13px; color: var(--hairline-mid); }
+.list { display: grid; gap: 4px; align-content: start; }
+.item { display: grid; grid-template-columns: minmax(0, 1fr) 112px; gap: 16px; padding: 16px 0; box-shadow: 0 1px 0 var(--pressed); align-items: start; }
+.item:first-child { padding-top: 0; }
+.item h4 { font-size: 18px; line-height: 26px; font-weight: 700; margin-top: 6px; }
+.item:hover h4 { text-decoration: underline; text-underline-offset: 3px; }
+.item .ph { border-radius: var(--r-lg); overflow: hidden; aspect-ratio: 1 / 1; }
+.item .ph img { width: 100%; height: 100%; object-fit: cover; }
+.item .byline { margin-top: 6px; }
+
+/* Promociones, cifras, preguntas */
+.duo { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 24px; align-items: start; }
+.duo > * { min-width: 0; }
+@media (max-width: 900px) { .duo { grid-template-columns: 1fr; } }
+.card { background: var(--canvas); border-radius: var(--r-xl); padding: 24px; display: grid; gap: 16px; align-content: start; }
+.card.soft-c { background: var(--canvas-soft); }
+.card h3 { font-size: 24px; line-height: 32px; font-weight: 800; }
+.promo { display: grid; gap: 4px; padding: 14px 0; box-shadow: 0 1px 0 var(--pressed); }
+.promo:last-child { box-shadow: none; padding-bottom: 0; }
+.promo h4 { font-size: 17px; line-height: 24px; font-weight: 700; }
+.promo p { color: var(--body); font-size: 15px; line-height: 22px; }
+.promo .src { font-size: 13px; color: var(--hairline-mid); }
+.stats { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.stat { background: var(--canvas-soft); border-radius: var(--r-lg); padding: 16px; display: grid; gap: 4px; align-content: start; }
+.stat .v { font-size: 32px; line-height: 40px; font-weight: 800; letter-spacing: -0.01em; font-variant-numeric: tabular-nums; }
+.stat .v.red { color: var(--rojo-texto); }
+.stat p { font-size: 14px; line-height: 20px; }
+.stat .s { font-size: 12px; line-height: 16px; color: var(--hairline-mid); }
+@media (max-width: 600px) { .stat .v { font-size: 24px; line-height: 32px; } .card { padding: 18px; } }
+.faq { display: grid; }
+.faq details { box-shadow: 0 1px 0 var(--pressed); }
+.faq summary { cursor: pointer; padding: 18px 0; font-weight: 500; font-size: 18px; line-height: 24px; list-style: none; display: flex; justify-content: space-between; gap: 16px; }
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after { content: "+"; font-size: 24px; font-weight: 400; line-height: 24px; transition: transform 200ms var(--ease); }
+.faq details[open] summary::after { content: "−"; }
+.faq details p { padding: 0 0 18px; color: var(--body); max-width: 72ch; }
+
+footer { background: var(--ink); color: #fff; }
+footer .wrap { padding-block: 52px 40px; display: grid; gap: 32px; }
+.f-top { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; }
+.f-top .logo .mk { width: 40px; height: 40px; }
+.f-top .logo .wm { font-size: 28px; }
+.f-cols { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 24px; }
+@media (max-width: 760px) { .f-cols { grid-template-columns: 1fr 1fr; } }
+.f-cols h4 { font-size: 16px; line-height: 20px; font-weight: 500; margin-bottom: 12px; }
+.f-cols ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; font-size: 14px; line-height: 20px; color: var(--mute); }
+.f-cols a:hover { color: #fff; }
+.f-legal { font-size: 12px; line-height: 20px; color: var(--mute); }
+.toast { position: fixed; left: 50%; bottom: calc(20px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--canvas); color: var(--ink); padding: 12px 18px; border-radius: var(--r-pill); font-size: 15px; font-weight: 500; box-shadow: var(--shadow-2); z-index: 60; max-width: calc(100% - 32px); }
+
+
+/* Héroe cinematográfico (Ferrari: foto a sangre, casi negro, cifras grandes) */
+.cine { position: relative; isolation: isolate; min-height: max(780px, min(100svh, 980px)); display: flex; background: var(--night); color: #fff; overflow: hidden; }
+.cine .media { position: absolute; top: 0; left: 0; right: 0; height: max(800px, min(100svh, 1000px)); z-index: -1; }
+.cine .media video, .cine .media img { width: 100%; height: 100%; object-fit: cover; object-position: 60% 50%; display: block; }
+.cine .media::after { content: ""; position: absolute; inset: 0; background:
+  linear-gradient(90deg, rgba(23,21,19,.95) 0%, rgba(23,21,19,.86) 34%, rgba(23,21,19,.5) 56%, rgba(23,21,19,.12) 76%, rgba(23,21,19,0) 90%),
+  linear-gradient(0deg, rgba(23,21,19,1) 0%, rgba(23,21,19,.78) 18%, rgba(23,21,19,0) 44%),
+  linear-gradient(180deg, rgba(23,21,19,.55) 0%, rgba(23,21,19,0) 16%); }
+.cine > .wrap { position: relative; width: 100%; display: flex; flex-direction: column; padding-top: clamp(124px, 15vh, 164px); padding-bottom: 36px; }
+.cine-main { max-width: 640px; display: grid; gap: 22px; margin-bottom: 48px; }
+.live { display: inline-flex; align-items: center; gap: 10px; justify-self: start; font-size: 14px; line-height: 18px; font-weight: 500; color: var(--on-night); padding: 7px 14px 7px 12px; border-radius: var(--r-pill); background: rgba(255,255,255,.08); box-shadow: inset 0 0 0 1px rgba(255,255,255,.12); }
+.live i { width: 8px; height: 8px; border-radius: 50%; background: #2fd18f; box-shadow: 0 0 0 0 rgba(47,209,143,.6); animation: beat 2.4s ease-out infinite; }
+@keyframes beat { 0% { box-shadow: 0 0 0 0 rgba(47,209,143,.55); } 70% { box-shadow: 0 0 0 9px rgba(47,209,143,0); } 100% { box-shadow: 0 0 0 0 rgba(47,209,143,0); } }
+.cine h1 { font-size: 76px; line-height: 74px; font-weight: 600; letter-spacing: -0.04em; }
+.cine h1 span { display: block; color: var(--rojo-claro); }
+.cine-lead { font-size: 19px; line-height: 29px; color: var(--on-night); max-width: 48ch; }
+.cine-cta { display: flex; flex-wrap: wrap; gap: 10px; }
+.pill.xl { min-height: 54px; padding: 14px 24px; font-size: 17px; }
+.pill.xl svg { transition: transform 200ms var(--ease); }
+.pill.xl:hover svg { transform: translateX(4px); }
+.p-glass { background: rgba(255,255,255,.1); color: #fff; box-shadow: inset 0 0 0 1px rgba(255,255,255,.2), inset 0 1px 0 rgba(255,255,255,.1); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); }
+.p-glass:hover { background: rgba(255,255,255,.18); }
+/* La letra chiquita, en grande */
+.ticket { margin-top: 6px; max-width: 600px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 14px 24px; align-items: center; padding: 18px 20px; border-radius: 18px; background: rgba(23,21,19,.52); box-shadow: inset 0 0 0 1px rgba(255,255,255,.14), inset 0 1px 0 rgba(255,255,255,.08), 0 30px 60px -30px rgba(0,0,0,.6); -webkit-backdrop-filter: blur(16px) saturate(140%); backdrop-filter: blur(16px) saturate(140%); }
+.t-k { display: block; font-size: 12px; line-height: 16px; font-weight: 500; color: var(--on-night-2); margin-bottom: 2px; }
+.t-price { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 10px; }
+.t-model { font-size: 15px; color: var(--on-night); }
+.t-amt { position: relative; font-size: 36px; line-height: 42px; font-weight: 600; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.t-amt sup { font-size: 22px; line-height: 0; color: var(--rojo-claro); margin-left: 1px; }
+.t-amt::after { content: ""; position: absolute; left: -4px; right: -2px; top: 52%; height: 3px; border-radius: 2px; background: var(--rojo-claro); transform: scaleX(0); transform-origin: left center; transition: transform 520ms var(--ease) 280ms; }
+.t-fine { margin-top: 4px; font-size: 11px; line-height: 15px; color: rgba(255,255,255,.5); max-width: 44ch; transition: font-size 760ms var(--ease), line-height 760ms var(--ease), color 400ms ease; }
+.t-fine b { font-weight: 600; border-radius: 4px; transition: background-color 400ms ease 520ms; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.t-btn { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 10px 16px; border: 0; border-radius: var(--r-pill); background: #fff; color: var(--ink); font-weight: 500; font-size: 15px; cursor: pointer; white-space: nowrap; transition: transform 100ms ease-out, background-color 150ms ease; }
+.t-btn:hover { background: #f1ece5; }
+.t-btn:active { transform: scale(0.97); }
+.t-foot { grid-column: 1 / -1; display: none; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px 16px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,.12); font-size: 14px; line-height: 20px; color: var(--on-night); }
+.t-foot button { border: 0; background: none; padding: 4px 0; color: #fff; font-weight: 600; cursor: pointer; text-decoration: underline; text-decoration-color: var(--rojo-claro); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+.ticket[data-state="truth"] .t-amt::after { transform: scaleX(1); }
+.ticket[data-state="truth"] .t-fine { font-size: 20px; line-height: 28px; color: #fff; font-weight: 500; }
+.ticket[data-state="truth"] .t-fine b { background: rgba(255,90,82,.28); padding: 0 4px; }
+.ticket[data-state="truth"] .t-foot { display: flex; animation: rise 520ms var(--ease) 360ms both; }
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+/* Cifras de valor */
+.specs { list-style: none; margin: auto 0 0; padding: 26px 0 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-top: 1px solid rgba(255,255,255,.14); }
+.specs li { display: grid; gap: 6px; align-content: start; padding: 0 22px; border-left: 1px solid rgba(255,255,255,.12); }
+.specs li:first-child { padding-left: 0; border-left: 0; }
+.specs b { font-size: 46px; line-height: 50px; font-weight: 600; letter-spacing: -0.035em; font-variant-numeric: tabular-nums; color: #fff; }
+.specs li:first-child b { color: var(--rojo-claro); }
+.specs span { font-size: 14px; line-height: 20px; color: var(--on-night); max-width: 28ch; }
+.specs small { font-size: 12px; line-height: 16px; color: var(--on-night-2); }
+.vid-ctl { position: absolute; right: max(24px, env(safe-area-inset-right, 0px)); top: 92px; z-index: 2; width: 40px; height: 40px; border-radius: 50%; border: 0; display: grid; place-items: center; color: #fff; background: rgba(23,21,19,.45); box-shadow: inset 0 0 0 1px rgba(255,255,255,.18); -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px); cursor: pointer; }
+.vid-ctl:hover { background: rgba(23,21,19,.7); }
+.vid-ctl .i-play { display: none; }
+.vid-ctl[aria-pressed="true"] .i-play { display: block; }
+.vid-ctl[aria-pressed="true"] .i-pause { display: none; }
+@media (max-width: 1040px) { .cine h1 { font-size: 60px; line-height: 60px; } .specs b { font-size: 36px; line-height: 40px; } }
+@media (max-width: 760px) {
+  .cine { display: block; min-height: 0; }
+  .cine .media { position: relative; inset: auto; height: 92vw; }
+  .cine .media video, .cine .media img { object-position: 70% 50%; }
+  .cine .media::after { background: linear-gradient(0deg, rgba(23,21,19,1) 0%, rgba(23,21,19,.55) 30%, rgba(23,21,19,0) 58%), linear-gradient(180deg, rgba(23,21,19,.7) 0%, rgba(23,21,19,0) 28%); }
+  .cine > .wrap { margin-top: -96px; padding-top: 0; padding-bottom: 32px; }
+  .cine-main { gap: 18px; margin-bottom: 36px; }
+  .cine h1 { font-size: 44px; line-height: 44px; }
+  .cine-lead { font-size: 17px; line-height: 26px; }
+  .cine-cta .pill { flex: 1 1 auto; }
+  .ticket { grid-template-columns: minmax(0, 1fr); padding: 16px; }
+  .t-btn { justify-self: start; }
+  .ticket[data-state="truth"] .t-fine { font-size: 18px; line-height: 25px; }
+  .specs { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 22px 0; padding-top: 22px; }
+  .specs li { padding: 0 0 0 14px; }
+  .specs li:nth-child(odd) { padding-left: 0; border-left: 0; padding-right: 12px; }
+  .specs b { font-size: 32px; line-height: 36px; }
+  .vid-ctl { top: calc(116px + env(safe-area-inset-top, 0px)); right: max(16px, env(safe-area-inset-right, 0px)); width: 36px; height: 36px; }
+}
+/* Bandas noche */
+.night { background: var(--night); color: #fff; }
+.night .sec-h p { color: var(--on-night); }
+.night .fit { background: var(--night-2); color: #fff; box-shadow: inset 0 0 0 1px rgba(255,255,255,.07); }
+.night .fit .nm small, .night .fit .pay { color: var(--on-night-2); }
+.night .fit .pay b { color: #fff; }
+.night .fit .meter { background: rgba(255,255,255,.12); }
+.night .fit .meter i { background: #e9e3da; }
+.night .fit.over .meter i { background: var(--primary); }
+.night .fit .meter b { background: #fff; box-shadow: 0 0 0 2px var(--night-2); }
+.night .chip { background: rgba(255,255,255,.1); color: #fff; }
+.night .chip:hover { background: rgba(255,255,255,.18); }
+.night .tag { background: rgba(255,255,255,.1); color: #fff; }
+.night .tag.dark { background: #fff; color: var(--ink); }
+.night .tag.red { background: rgba(255,90,82,.16); color: #ff9a94; }
+.budget .k { color: var(--on-night) !important; }
+.budget .s { color: var(--on-night-2) !important; }
+.budget .scale { color: var(--on-night-2) !important; }
+.promos { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr) minmax(0, 1fr); gap: 16px; align-items: stretch; }
+.pcard { background: var(--night-2); border-radius: var(--r-xl); padding: 24px; display: grid; gap: 10px; align-content: start; box-shadow: inset 0 0 0 1px rgba(255,255,255,.07); }
+.pcard.feat { background: linear-gradient(160deg, #3a1715 0%, var(--night-2) 70%); box-shadow: inset 0 0 0 1px rgba(255,90,82,.25); }
+.pcard h3 { font-size: 22px; line-height: 28px; font-weight: 600; letter-spacing: -0.01em; }
+.pcard.feat h3 { font-size: 28px; line-height: 34px; }
+.pcard p { color: var(--on-night); font-size: 15px; line-height: 22px; }
+.pcard .src { font-size: 13px; line-height: 18px; color: var(--on-night-2); }
+@media (max-width: 900px) { .promos { grid-template-columns: minmax(0, 1fr); } }
+/* Tipografía v5 */
+.sec-h h2 { font-weight: 600; letter-spacing: -0.03em; }
+.garage h2, .promo-dark h2 { font-weight: 600; letter-spacing: -0.03em; }
+.etq h3, .lead-story h3, .mosaic .cmp.feat h3, .card h3 { font-weight: 600; letter-spacing: -0.02em; }
+.saving .v { font-weight: 700; }
+footer { background: var(--night); }
+
+/* Noticias en el héroe */
+.ticker { position: absolute; left: 0; right: 0; top: calc(68px + env(safe-area-inset-top, 0px)); z-index: 2; }
+.ticker .wrap { display: flex; align-items: center; gap: 14px; }
+.tk-l { flex: none; display: inline-flex; align-items: center; gap: 8px; padding: 6px 12px 6px 10px; border-radius: var(--r-pill); background: var(--primary); color: #fff; font-size: 13px; line-height: 16px; font-weight: 600; }
+.tk-l i { width: 7px; height: 7px; border-radius: 50%; background: #fff; animation: blink 1.6s ease-in-out infinite; }
+@keyframes blink { 50% { opacity: .25; } }
+.tk-v { position: relative; flex: 1; min-width: 0; overflow: hidden; -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 24px, #000 calc(100% - 48px), transparent 100%); mask-image: linear-gradient(90deg, transparent 0, #000 24px, #000 calc(100% - 48px), transparent 100%); }
+.tk-t { display: flex; width: max-content; animation: crawl 60s linear infinite; }
+.tk-v:hover .tk-t, .tk-v:focus-within .tk-t { animation-play-state: paused; }
+@keyframes crawl { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.tk-t a { display: inline-flex; align-items: center; gap: 10px; padding: 8px 28px 8px 0; font-size: 14px; line-height: 18px; color: #fff; white-space: nowrap; }
+.tk-t a b { font-weight: 600; color: var(--rojo-claro); }
+.tk-t a time { color: var(--on-night-2); font-size: 13px; }
+.tk-t a::after { content: ""; width: 4px; height: 4px; border-radius: 50%; background: rgba(255,255,255,.35); margin-left: 18px; }
+.tk-t a:hover span { text-decoration: underline; text-underline-offset: 3px; }
+.cine > .wrap { padding-top: clamp(150px, 18vh, 196px); }
+.cine-news { margin-top: 48px; }
+.cn-h { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin-bottom: 18px; }
+.cn-h h2 { font-size: 24px; line-height: 30px; font-weight: 600; letter-spacing: -0.02em; }
+.cn-h a { font-weight: 500; color: var(--on-night); }
+.cn-h a:hover { color: #fff; }
+.cn-row { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; }
+.cn { display: grid; gap: 10px; align-content: start; }
+.cn .ph { border-radius: var(--r-lg); overflow: hidden; aspect-ratio: 16 / 10; background: var(--night-2); }
+.cn .ph img { width: 100%; height: 100%; object-fit: cover; transition: transform 700ms var(--ease); }
+.cn:hover .ph img { transform: scale(1.05); }
+.cn .tg { font-size: 13px; line-height: 16px; font-weight: 600; color: var(--rojo-claro); }
+.cn h3 { font-size: 17px; line-height: 23px; font-weight: 600; letter-spacing: -0.01em; color: #fff; }
+.cn:hover h3 { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+.cn .by { font-size: 13px; line-height: 18px; color: var(--on-night-2); }
+@media (max-width: 1040px) { .cn-row { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 760px) {
+  .ticker { top: calc(64px + env(safe-area-inset-top, 0px)); }
+  .tk-l { padding: 5px 10px 5px 8px; font-size: 12px; }
+  .tk-t a { font-size: 13px; }
+  .cine > .wrap { padding-top: 0; }
+  .cine-news { margin-top: 36px; }
+  .cn-h h2 { font-size: 22px; line-height: 28px; }
+  .cn-h a { font-size: 14px; white-space: nowrap; }
+  .cn-row { display: flex; gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; margin-right: -16px; padding-right: 16px; scrollbar-width: none; }
+  .cn-row::-webkit-scrollbar { display: none; }
+  .cn { flex: 0 0 74%; scroll-snap-align: start; }
+}
+
+.js-reveal .rv { opacity: 0; transform: translateY(18px); }
+.js-reveal .rv.in { opacity: 1; transform: none; transition: opacity 560ms var(--ease), transform 560ms var(--ease); transition-delay: var(--d, 0ms); }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .js-reveal .rv { opacity: 1; transform: none; }
+  .ready .car-a .sil svg, .ready .car-b .sil svg, .ready .vs, .js-reveal .phone.in .alert { animation: none; }
+  .js-reveal .phone .alert { opacity: 1; }
+  .seg, .fit .meter i, .fit .meter b, .fit { transition: none; }
+  .live i, .ready .nav .logo .mk, .tk-l i { animation: none; }
+  .tk-t { animation: none; }
+  .tk-v { overflow-x: auto; scrollbar-width: none; }
+  .tk-v .tk-t a[aria-hidden="true"] { display: none; }
+  .logo .mk, .t-fine, .t-fine b, .t-amt::after { transition: none; }
+  .ticket[data-state="truth"] .t-foot { animation: none; }
+  .big-btn:hover svg { transform: none; }
+}
+</style>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+  <rect id="cm-spoke" x="-4.5" y="-29.5" width="9" height="24" rx="4.5"/>
+  <mask id="cm-tread" maskUnits="userSpaceOnUse" x="-50" y="-50" width="100" height="100"><rect x="-50" y="-50" width="100" height="100" fill="#fff"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(7.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(22.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(37.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(52.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(67.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(82.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(97.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(112.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(127.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(142.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(157.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(172.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(187.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(202.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(217.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(232.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(247.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(262.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(277.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(292.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(307.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(322.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(337.5)" fill="#000"/><rect x="-2.3" y="-49" width="4.6" height="5.2" rx="0.8" transform="rotate(352.5)" fill="#000"/><circle r="36" fill="#000"/></mask>
+  <mask id="cm-hub" maskUnits="userSpaceOnUse" x="-50" y="-50" width="100" height="100"><rect x="-50" y="-50" width="100" height="100" fill="#fff"/><circle r="3.4" fill="#000"/></mask>
+  <symbol id="cm-mark" viewBox="-50 -50 100 100">
+    <circle r="47.5" fill="var(--mk-a, #171513)" mask="url(#cm-tread)"/>
+    <g mask="url(#cm-hub)"><g fill="var(--mk-a, #171513)"><circle r="8.5"/><use href="#cm-spoke" transform="rotate(60)"/><use href="#cm-spoke" transform="rotate(120)"/><use href="#cm-spoke" transform="rotate(180)"/><use href="#cm-spoke" transform="rotate(240)"/><use href="#cm-spoke" transform="rotate(300)"/></g><use href="#cm-spoke" fill="var(--mk-b, #d42a2c)"/></g>
+  </symbol>
+  <symbol id="cm-hatch" viewBox="0 0 120 48"><path d="M6 35C6 29.5 9 26.5 15.5 25.6L33 23.4 45 12.8C48 10.4 52 9.3 57 9.3H80C86 9.3 90 11.3 93 14.8L101.5 23.6 110.5 25.6C114.5 26.6 116 29.6 116 33.6V35Z"/><path d="M47.5 15.3C50 13.6 53 13 56 13H78.5C82.5 13 85.5 14.3 87.8 17L92.6 22.6H40.6Z" fill="#fff" opacity=".6"/><circle cx="31" cy="35.5" r="8.5" fill="#111"/><circle cx="93" cy="35.5" r="8.5" fill="#111"/><circle cx="31" cy="35.5" r="3.4" fill="#d6d6d6"/><circle cx="93" cy="35.5" r="3.4" fill="#d6d6d6"/></symbol>
+  <symbol id="cm-sedan" viewBox="0 0 120 48"><path d="M4 35C4 30 7 27.4 13 26.6L30 24.5 42 14C45 11.6 49 10.5 54 10.5H74C80 10.5 84 12.5 87 16L94 23.6 108 25.4C113 26.2 116 29.2 116 33.4V35Z"/><path d="M45 16.3C47.5 14.6 50.5 14 53.5 14H72.5C76.5 14 79.5 15.3 81.8 18L86.2 23.2H38.6Z" fill="#fff" opacity=".6"/><circle cx="28" cy="35.5" r="8.5" fill="#111"/><circle cx="96" cy="35.5" r="8.5" fill="#111"/><circle cx="28" cy="35.5" r="3.4" fill="#d6d6d6"/><circle cx="96" cy="35.5" r="3.4" fill="#d6d6d6"/></symbol>
+</defs></svg>
+
+<header class="nav" id="top">
+  <div class="wrap">
+    <a class="logo on-dark" href="#inicio" aria-label="ComparaMotor, inicio" style="--mk-a:#fff;--mk-b:#ff5a52"><svg class="mk" viewBox="0 0 100 100" aria-hidden="true"><use href="#cm-mark" width="100" height="100"/></svg><span class="wm">compara<b>motor</b></span></a>
+    <span class="proto">Prototipo</span>
+    <nav class="links" id="links" aria-label="Secciones">
+      <a href="#comparar">Comparar</a>
+      <a href="#explorar">Qué me alcanza</a>
+      <a href="#comparativas">Comparativas</a>
+      <a href="#noticias">Noticias</a>
+    </nav>
+    <div class="nav-r">
+      <a class="pill p-subtle hide-m" href="#garage">Entrar</a>
+      <a class="pill p-primary" href="#garage">Crear cuenta</a>
+      <button class="menu-btn" id="menu" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="links"><svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="cine" id="inicio" aria-labelledby="h1">
+    <div class="media" aria-hidden="true">
+      <video id="hero-vid" autoplay muted loop playsinline preload="auto" poster="img/hero-noche.jpg" tabindex="-1"><source src="img/hero-noche.mp4" type="video/mp4"></video>
+    </div>
+    <div class="ticker">
+      <div class="wrap">
+        <span class="tk-l"><i aria-hidden="true"></i>Lo último</span>
+        <div class="tk-v"><div class="tk-t" id="tk-t">
+          <a href="#noticias"><b>Mercado</b><span>México vendió 1,144,002 autos nuevos de enero a septiembre, el mejor acumulado desde 2016</span><time>18 oct</time></a>
+          <a href="#noticias"><b>Precios</b><span>Arancel de 50% a autos chinos: qué versiones podrían subir cuando se acabe el inventario</span><time>15 oct</time></a>
+          <a href="#noticias"><b>Seguridad</b><span>187 de 234 modelos no ofrecían frenado autónomo: cómo encontrar la versión que sí lo trae</span><time>14 oct</time></a>
+          <a href="#noticias"><b>Eléctricos</b><span>Los electrificados ya suman 12.8% de las ventas oficiales del año</span><time>AMIA</time></a>
+          <a href="#promos"><b>Promoción</b><span>Magnite Exclusive a $4,999 al mes: vence el 2 de noviembre</span><time>Nissan</time></a>
+        </div></div>
+      </div>
+    </div>
+    <div class="wrap">
+      <div class="cine-main">
+        <p class="live"><i aria-hidden="true"></i>Precios verificados al 19 oct 2026</p>
+        <h1 id="h1">Compara autos <span>sin letras chiquitas</span></h1>
+        <p class="cine-lead">El precio real de cada versión, con su fuente y su fecha. La mensualidad con CAT y lo que pagas en cinco años, lado a lado, antes de pisar la agencia.</p>
+        <div class="cine-cta"><a class="pill p-primary xl" href="#comparar">Haz la cuenta <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></a><a class="pill p-glass xl" href="#explorar">¿Qué auto me alcanza?</a></div>
+        <div class="ticket" id="ticket" data-state="ad">
+          <div>
+            <span class="t-k">Así se anuncia</span>
+            <p class="t-price"><span class="t-model">Renault Kwid desde</span><span class="t-amt">$199,900<sup>*</sup></span></p>
+            <p class="t-fine" id="t-fine">*Precio con financiamiento de la marca. De contado pagas <b>$251,500</b>.</p>
+          </div>
+          <button class="t-btn" id="t-btn" type="button" aria-pressed="false" aria-controls="t-fine"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="m15.5 15.5 5 5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg><span>Lee la letra chiquita</span></button>
+          <div class="t-foot"><span>Aquí la letra chiquita va del mismo tamaño que el precio.</span><button type="button" data-contado>Compáralo de contado</button></div>
+        </div>
+      </div>
+      <ul class="specs" aria-label="Lo que cambia cuando comparas completo">
+        <li><b data-to="51600" data-pre="$">$51,600</b><span>de más pagas por el Kwid si lo compras de contado</span><small>Motorpasión México, 2026</small></li>
+        <li><b data-to="75.3" data-dec="1" data-suf="%">75.3%</b><span>de los autos nuevos al menudeo se compran a crédito</span><small>AMDA, enero a agosto de 2026</small></li>
+        <li><b>20–29%</b><span>separa el precio de lista de la oferta en Kwid, March y Aveo</span><small>Cálculo con precios publicados</small></li>
+        <li><b data-to="35605" data-pre="$">$35,605</b><span>ahorras en cinco años con el Kwid frente al March, a crédito</span><small>Supuestos de ejemplo, editables</small></li>
+      </ul>
+      <div class="cine-news" id="noticias">
+        <div class="cn-h"><h2>Lo último del sector</h2><a href="#guias">Guías y análisis →</a></div>
+        <div class="cn-row">
+          <a class="cn" href="#noticias"><span class="ph"><img src="img/periferico.jpg" alt="Tráfico en el Periférico de la Ciudad de México al atardecer" loading="lazy" width="1200" height="800"></span><span class="tg">Mercado</span><h3>México vendió 1,144,002 autos de enero a septiembre: el mejor acumulado desde 2016</h3><span class="by">18 oct 2026 · Fuente: INEGI</span></a>
+          <a class="cn" href="#noticias"><span class="ph"><img src="img/hibrida-estudio.jpg" alt="SUV híbrida gris de perfil en estudio" loading="lazy" width="1200" height="800"></span><span class="tg">Precios</span><h3>Arancel de 50% a autos chinos: qué versiones podrían subir cuando se acabe el inventario</h3><span class="by">15 oct 2026 · Fuente: Expansión</span></a>
+          <a class="cn" href="#noticias"><span class="ph"><img src="img/tablero.jpg" alt="Tablero de un auto moderno" loading="lazy" width="1200" height="800"></span><span class="tg">Seguridad</span><h3>187 de 234 modelos no ofrecían frenado autónomo: cómo encontrar la versión que sí lo trae</h3><span class="by">14 oct 2026 · Fuente: El Poder del Consumidor</span></a>
+          <a class="cn" href="#noticias"><span class="ph"><img src="img/carga-electrico.jpg" alt="Auto eléctrico cargando en una estación" loading="lazy" width="1200" height="800"></span><span class="tg">Eléctricos</span><h3>Los electrificados ya suman 12.8% de las ventas oficiales: cuándo se paga un híbrido</h3><span class="by">Enero a septiembre de 2026 · Fuente: AMIA</span></a>
+        </div>
+      </div>
+    </div>
+    <button class="vid-ctl" id="vid-ctl" type="button" aria-pressed="false" aria-label="Pausar el video de fondo"><svg class="i-pause" width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><rect x="2" y="1.5" width="3.4" height="11" rx="1" fill="currentColor"/><rect x="8.6" y="1.5" width="3.4" height="11" rx="1" fill="currentColor"/></svg><svg class="i-play" width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M3.5 1.8v10.4L12 7z" fill="currentColor"/></svg></button>
+    <span id="nav-sentinel" aria-hidden="true" style="position:absolute;top:72px;left:0;width:1px;height:1px"></span>
+  </section>
+
+  <section class="hero" id="comparar" aria-labelledby="cmp-t">
+    <div class="wrap">
+      <div>
+        <h2 id="cmp-t">Haz la cuenta <b>completa</b></h2>
+        <p class="lead">Elige dos autos y cómo vas a pagar. El resultado cambia al instante, con la fuente y la fecha de cada precio.</p>
+        <form class="form" id="form" aria-label="Comparador">
+          <div class="tabs" role="group" aria-label="Forma de pago"><button type="button" data-modo="credito" aria-pressed="true">A crédito</button><button type="button" data-modo="contado" aria-pressed="false">De contado</button></div>
+          <div class="join">
+            <div class="row"><span class="ico" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 14 14"><circle cx="7" cy="7" r="6" fill="#171513"/></svg></span><label for="sa">Auto A<select id="sa"></select></label></div>
+            <div class="row"><span class="ico" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 14 14"><rect x="1" y="1" width="12" height="12" rx="2" fill="#d42a2c"/></svg></span><label for="sb">Auto B<select id="sb"></select></label></div>
+          </div>
+          <div class="plan" id="c-eng"><div><span class="lbl">Enganche</span><div class="val"><output id="eng-o" for="eng">20%</output></div></div><div class="plazos" role="group" aria-label="Plazo en meses"><button type="button" data-plazo="36" aria-pressed="false">36</button><button type="button" data-plazo="48" aria-pressed="false">48</button><button type="button" data-plazo="60" aria-pressed="true">60 m</button><button type="button" data-plazo="72" aria-pressed="false">72</button></div><input type="range" id="eng" min="10" max="50" step="5" value="20" aria-label="Enganche en porcentaje"></div>
+          <button class="big-btn" type="submit">Ver el desglose completo <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <div class="quick"><span class="t">Prueba:</span><button class="chip" type="button" data-load="kwid,march">Kwid vs March</button><button class="chip" type="button" data-load="march,aveo">March vs Aveo</button><button class="chip" type="button" data-load="aveo,corolla">Aveo vs Corolla</button></div>
+          <details class="sup"><summary>Supuestos: tasa, CAT, gasolina y seguro <svg width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="m3 4.5 3 3 3-3" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></summary>
+            <div class="sup-grid">
+              <label>Tasa anual de ejemplo (%)<input type="number" id="tasa" value="15.9" step="0.1" min="0"></label>
+              <label>CAT de ejemplo (%)<input type="number" id="cat" value="22.4" step="0.1" min="0"></label>
+              <label>Km al año<input type="number" id="km" value="15000" step="500" min="0"></label>
+              <label>Gasolina ($/litro)<input type="number" id="gas" value="24.5" step="0.1" min="0"></label>
+              <label>Seguro anual ($)<input type="number" id="seguro" value="9410" step="100" min="0"></label>
+              <label>Servicios en 5 años ($)<input type="number" id="serv" value="22000" step="500" min="0"></label>
+            </div>
+          </details>
+        </form>
+        <div class="promise"><ul>
+          <li><svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="#1a73e8"/><path d="m6 10.2 2.6 2.6L14 7.4" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Cada precio con su fuente y la fecha en que se verificó</li>
+          <li><svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="#1a73e8"/><path d="m6 10.2 2.6 2.6L14 7.4" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Toda mensualidad con tasa y CAT del otorgante</li>
+          <li><svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="#1a73e8"/><path d="m6 10.2 2.6 2.6L14 7.4" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>El ranking no se vende, ni a marcas ni a agencias</li>
+        </ul></div>
+      </div>
+
+      <div class="result" id="result" aria-live="polite" aria-label="Resultado de la comparación">
+        <div class="saving"><span class="k" id="sv-k"></span><span class="v" id="sv-v">$0</span><span class="s" id="sv-s"></span></div>
+        <p class="fineprint" id="fine"></p>
+        <div class="duel">
+          <div class="car car-a" id="car-a"></div>
+          <span class="vs" aria-hidden="true">VS</span>
+          <div class="car car-b" id="car-b"></div>
+        </div>
+        <div class="figs" id="figs"></div>
+        <div class="chart" id="chart">
+          <div class="chart-h"><h3>¿En qué se va tu dinero en 5 años?</h3><span class="tag" id="ch-mode">A crédito</span></div>
+          <div class="bars" id="bars"></div>
+          <div class="legend" id="legend"></div>
+          <div class="tip" id="tip" role="status"></div>
+        </div>
+        <div class="res-foot"><div class="seal" id="seal"></div><a class="pill p-white" href="#garage" id="save-top">Guardar en mi garage</a></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec soft" id="desglose" aria-labelledby="dg-t">
+    <div class="wrap">
+      <div class="sec-h"><h2 id="dg-t">El desglose, línea por línea</h2><p>Cada precio dice de dónde sale y cuándo se verificó. Lo que la fuente no informa aparece como «por confirmar».</p></div>
+      <div class="labels"><article class="etq" id="ea"></article><article class="etq" id="eb"></article></div>
+      <div class="dgm" id="dgm"></div>
+      <div class="decide">
+        <div><h3>¿Ya sabes cuál te conviene?</h3><p>Llévala a la agencia o pide ofertas solo a las agencias que tú elijas.</p></div>
+        <div class="acts"><button class="pill p-white" type="button" id="b-copy">Copiar para WhatsApp</button><button class="pill p-primary" type="button" id="b-off" aria-expanded="false" aria-controls="consent">Pedir ofertas</button></div>
+      </div>
+      <div class="consent" id="consent" hidden>
+        <h4>¿A qué agencias quieres compartir tus datos?</h4>
+        <p>Elige una por una. Solo la agencia que marques recibe tu nombre y teléfono, y solo para esta versión. Puedes retirar el permiso cuando quieras.</p>
+        <label><input type="checkbox" class="ag"> Agencia de ejemplo · Benito Juárez, CDMX</label>
+        <label><input type="checkbox" class="ag"> Agencia de ejemplo · Coyoacán, CDMX</label>
+        <label><input type="checkbox" class="ag"> Agencia de ejemplo · Naucalpan, Estado de México</label>
+        <div class="r"><button class="pill p-black" type="button" id="b-cons" disabled>Compartir con las marcadas</button><span>Prototipo: no se envía nada.</span></div>
+      </div>
+      <details class="diff"><summary>Lo que cambia entre versiones: seguridad, garantía y consumo</summary><div class="diff-in"><table id="dt"></table><p class="legal">Cada fila llevará su fuente: ficha de la marca, prueba Latin NCAP aplicable y garantía publicada. «Por verificar» nunca se muestra como «no lo trae».</p></div></details>
+      <p class="legal" id="legal"></p>
+    </div>
+  </section>
+
+  <section class="garage" id="garage" aria-labelledby="gr-t">
+    <div class="wrap">
+      <div>
+        <h2 id="gr-t">Tu garage, gratis. Y te avisamos antes de que venza la promo.</h2>
+        <p class="lead">Crea tu cuenta con tu correo y guarda lo que comparas. Sin contraseña: te mandamos un enlace para entrar.</p>
+        <ul class="perks">
+          <li><span class="ic" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4z" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/></svg></span><div><b>Guarda tus comparaciones</b><span>Con tus supuestos de enganche, plazo y gasolina.</span></div></li>
+          <li><span class="ic" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24"><path d="M6 16V11a6 6 0 0 1 12 0v5l2 2H4zM10 20a2 2 0 0 0 4 0" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/></svg></span><div><b>Alertas que sí sirven</b><span>Cuando un precio cambia, una promoción vence o llega el año modelo nuevo.</span></div></li>
+          <li><span class="ic" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24"><path d="M4 12h12m-4-5 5 5-5 5M20 4v16" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><div><b>Llega a la agencia con tu tarjeta</b><span>Precio, mensualidad y condiciones en una sola pantalla.</span></div></li>
+        </ul>
+        <form class="signup" id="signup" novalidate>
+          <label class="sr" for="mail">Tu correo</label>
+          <input id="mail" type="email" placeholder="tu@correo.com" autocomplete="email">
+          <button class="pill" type="submit">Crear mi garage</button>
+          <span class="signup-note">Prototipo: no se envía nada. Sin spam y sin compartir tus datos con agencias sin tu permiso.</span>
+        </form>
+        <p class="signup-ok" id="signup-ok" hidden></p>
+      </div>
+      <div class="phone rv" aria-label="Ejemplo de Mi garage">
+        <div class="screen">
+          <div class="top"><b>Mi garage</b><span class="ej">Ejemplo</span></div>
+          <div class="alert"><span class="ic" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24"><path d="M6 16V11a6 6 0 0 1 12 0v5l2 2H4zM10 20a2 2 0 0 0 4 0" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/></svg></span><div><b>La promoción del Magnite vence en 5 días</b><span>$4,999 al mes con 41% de enganche. Revisa el CAT antes del apartado.</span></div></div>
+          <div class="gcard"><div class="t1"><span>Kwid vs March</span><span class="tag">Guardada</span></div><div class="vsrow"><svg width="46" height="18" viewBox="0 0 120 48" aria-hidden="true"><use href="#cm-hatch" fill="#000"/></svg>vs<svg width="46" height="18" viewBox="0 0 120 48" style="transform:scaleX(-1)" aria-hidden="true"><use href="#cm-hatch" fill="#d42a2c"/></svg></div><div class="t2">A crédito · 60 meses · 20% de enganche</div></div>
+          <div class="gcard"><div class="t1"><span>Aveo vs Corolla</span><span class="tag">Guardada</span></div><div class="t2">De contado · precios verificados el 18 oct 2026</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec night" id="explorar" aria-labelledby="ex-t">
+    <div class="wrap">
+      <div class="sec-h"><h2 id="ex-t">¿Qué auto te alcanza?</h2><p>Mueve tu presupuesto mensual. Usamos tu enganche, tu plazo y la tasa de los supuestos.</p></div>
+      <div class="explore">
+        <div class="budget">
+          <label class="k" for="bud">Puedo pagar al mes</label>
+          <output class="v" id="bud-o" for="bud">$4,000</output>
+          <input type="range" id="bud" min="2500" max="8000" step="100" value="4000">
+          <div class="scale"><span>$2,500</span><span>$8,000</span></div>
+          <p class="s" id="bud-s"></p>
+          <a class="pill p-primary" href="#garage">Avísame cuando otro entre</a>
+        </div>
+        <div class="fits" id="fits"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec soft" id="comparativas" aria-labelledby="cp-t">
+    <div class="wrap">
+      <div class="sec-h"><h2 id="cp-t">Comparativas en México</h2><a class="pill p-white" href="#comparativas">Ver todas</a></div>
+      <div class="mosaic">
+        <a class="cmp feat rv" href="#comparar" data-load="kwid,march"><span class="ph"><img src="img/hatch-oaxaca.jpg" alt="Hatchback amarillo en una calle de Oaxaca" loading="lazy" width="1200" height="800"><span class="pill p-float">3 autos · se puede comparar ya</span></span><h3>Kwid, March o Aveo: el más barato, con letra chiquita incluida</h3><p>Mismo segmento, tres ofertas y tres condiciones distintas. Cárgalos en el comparador con un toque.</p><span class="meta"><span class="tag">Subcompactos</span><span class="tag blue">Precios verificados</span></span></a>
+        <a class="cmp rv" style="--d:80ms" href="#comparativas"><span class="ph"><img src="img/familia-suv.jpg" alt="Familia carga el súper en una SUV en Guadalajara" loading="lazy" width="1200" height="800"></span><h3>Kicks contra Creta: la SUV familiar que menos cuesta al mes</h3><span class="meta"><span class="tag">SUV de entrada</span></span></a>
+        <a class="cmp rv" style="--d:160ms" href="#comparativas"><span class="ph"><img src="img/ev-reforma.jpg" alt="Auto eléctrico azul en Paseo de la Reforma" loading="lazy" width="1200" height="800"></span><h3>Dolphin Mini contra Geely EX2: costo por kilómetro</h3><span class="meta"><span class="tag">Eléctricos</span></span></a>
+        <a class="cmp rv" href="#comparativas"><span class="ph"><img src="img/pickup-bajio.jpg" alt="Pickup plateada en una carretera del Bajío" loading="lazy" width="1200" height="800"></span><h3>Hilux contra Tacoma: cuánto pagas de más por la marca</h3><span class="meta"><span class="tag">Pickups</span><span class="tag">140 búsquedas al mes</span></span></a>
+        <a class="cmp rv" style="--d:80ms" href="#comparativas"><span class="ph"><img src="img/suv-estacionamiento.jpg" alt="SUV negra en un estacionamiento subterráneo" loading="lazy" width="1200" height="800"></span><h3>SUV china o japonesa: qué arriesgas en servicio y reventa</h3><span class="meta"><span class="tag">Autos chinos</span></span></a>
+        <a class="cmp rv" style="--d:160ms" href="#comparativas"><span class="ph"><img src="img/sedanes-duelo.jpg" alt="Dos sedanes estacionados lado a lado en la Ciudad de México" loading="lazy" width="1200" height="800"></span><h3>Versa contra Virtus 2027: el más barato de lista no siempre gana</h3><span class="meta"><span class="tag">Sedanes</span></span></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec" id="guias" aria-labelledby="nw-t">
+    <div class="wrap">
+      <div class="sec-h"><h2 id="nw-t">Guías y análisis</h2><a class="pill p-subtle" href="#guias">Todas las guías</a></div>
+      <div class="news">
+        <a class="lead-story rv" href="#guias">
+          <span class="ph"><img src="img/suv-carretera.jpg" alt="SUV blanca en una carretera del norte de México" loading="lazy" width="1200" height="800"></span>
+          <span class="tag" style="justify-self:start">Comparativa</span>
+          <h3>SUV de entrada 2027: cuál te cuesta menos en cinco años</h3>
+          <p>Sumamos enganche, crédito, seguro, gasolina y servicios de cada versión. El precio de lista quedó muy lejos de lo que de verdad pagas.</p>
+          <span class="byline">Redacción ComparaMotor · 18 oct 2026 · <span class="tag blue">Precios verificados</span></span>
+        </a>
+        <div class="list">
+          <a class="item rv" href="#guias"><div><span class="tag">Crédito</span><h4>Cómo leer el CAT de una mensualidad antes de firmar</h4><span class="byline">Guía · 6 min de lectura</span></div><span class="ph"><img src="img/contrato.jpg" alt="Pareja revisa un contrato de compra de auto" loading="lazy" width="1200" height="800"></span></a>
+          <a class="item rv" href="#guias"><div><span class="tag">Seguros</span><h4>El seguro que te ofrece la agencia: qué cubre y cuándo conviene cotizar aparte</h4><span class="byline">Guía · 5 min de lectura</span></div><span class="ph"><img src="img/entrega-llave.jpg" alt="Entrega de llaves de un auto nuevo" loading="lazy" width="1200" height="800"></span></a>
+          <a class="item rv" href="#guias"><div><span class="tag">Mantenimiento</span><h4>Cuánto suman los servicios a tu costo total en cinco años</h4><span class="byline">Análisis · 4 min de lectura</span></div><span class="ph"><img src="img/taller.jpg" alt="Mecánico revisa un auto en un taller" loading="lazy" width="1200" height="800"></span></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec night" id="promos" aria-labelledby="pr-t">
+    <div class="wrap">
+      <div class="sec-h"><h2 id="pr-t">Promociones que vencen</h2><a class="pill p-primary" href="#garage">Avísame antes de que venzan</a></div>
+      <div class="promos">
+        <article class="pcard feat rv"><span class="tag red" style="justify-self:start">Hasta el 2 nov 2026</span><h3>Nissan Magnite Exclusive MT: $4,999 al mes</h3><p>Con 41% de enganche a 60 meses, sujeto a aprobación. Falta el CAT y el total a pagar: los pediremos antes de mostrarlo como oferta completa.</p><span class="src">Términos publicados por Nissan, consultados el 18 oct 2026</span></article>
+        <article class="pcard rv" style="--d:80ms"><span class="tag" style="justify-self:start">Vigencia por confirmar</span><h3>Renault Kwid cerca de $200,000</h3><p>Solo si financias con NR Finance. De contado pagas $251,500.</p><span class="src">Motorpasión México, 2026</span></article>
+        <article class="pcard rv" style="--d:160ms"><span class="tag" style="justify-self:start">Vigencia por confirmar</span><h3>Nissan March Sense a $225,990</h3><p>Contra $295,900 de lista. La nota no publica la condición.</p><span class="src">Expansión, 8 sep 2026</span></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec" id="preguntas" aria-labelledby="fq-t">
+    <div class="wrap" style="max-width:880px">
+      <div class="sec-h"><h2 id="fq-t">Cómo funciona ComparaMotor</h2></div>
+      <div class="faq">
+        <details open><summary>¿De dónde salen los precios?</summary><p>De fuentes publicadas o autorizadas: la marca, la agencia o una nota con fecha. Cada precio muestra su fuente y la fecha en que se verificó. Si una oferta tiene condición, la mostramos al mismo tamaño que el precio.</p></details>
+        <details><summary>¿El ranking o los veredictos se venden?</summary><p>No. Las marcas pueden patrocinar contenido, siempre etiquetado como «Patrocinado», pero no pueden mover el orden de una comparación ni cambiar un veredicto.</p></details>
+        <details><summary>¿Qué es el CAT y por qué lo mostramos?</summary><p>Es el Costo Anual Total del crédito: incluye tasa y comisiones. Toda mensualidad va con la tasa y el CAT del otorgante, «Sin IVA. Para fines informativos y de comparación».</p></details>
+        <details><summary>¿Qué pasa si pido ofertas?</summary><p>Eliges una por una las agencias que pueden contactarte, solo para la versión que comparaste. Sin tu permiso, nadie recibe tus datos.</p></details>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="f-top"><a class="logo on-dark" href="#top" aria-label="ComparaMotor, inicio"><svg class="mk" viewBox="0 0 100 100" aria-hidden="true" style="--mk-a:#fff;--mk-b:#ff5a52"><use href="#cm-mark" width="100" height="100"/></svg><span class="wm">compara<b>motor</b></span></a><a class="pill p-white" href="#top">Volver arriba</a></div>
+    <div class="f-cols">
+      <div><h4>Comparar</h4><ul><li><a href="#comparar">Comparador</a></li><li><a href="#explorar">Qué me alcanza</a></li><li><a href="#comparativas">Comparativas</a></li></ul></div>
+      <div><h4>Aprender</h4><ul><li><a href="#noticias">Noticias</a></li><li><a href="#guias">Guías</a></li><li><a href="#preguntas">Crédito y CAT</a></li><li><a href="#promos">Promociones</a></li></ul></div>
+      <div><h4>Mi garage</h4><ul><li><a href="#garage">Crear cuenta</a></li><li><a href="#garage">Alertas de precio</a></li><li><a href="#garage">Entrar</a></li></ul></div>
+      <div><h4>ComparaMotor</h4><ul><li><a href="#preguntas">Metodología</a></li><li><a href="#preguntas">Política de independencia</a></li><li><a href="#top">Aviso de privacidad</a></li><li><a href="#top">Anúnciate</a></li></ul></div>
+    </div>
+    <p class="f-legal">ComparaMotor no vende su ranking ni sus veredictos. Las mensualidades muestran la tasa y el CAT del otorgante «Sin IVA. Para fines informativos y de comparación». Prototipo del 20 de octubre de 2026: titulares de muestra, fotos y video del héroe generados con IA (sin logotipos de marcas), siluetas por tipo de carrocería y «Mi garage» de ejemplo.</p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  var AUTOS = {
+    kwid: { marca: 'Renault', modelo: 'Kwid', anio: '2026', version: 'Versión de entrada', versionOk: false, body: 'hatch', lista: 251500, oferta: 199900, exige: 'credito', cond: 'La oferta exige financiar con NR Finance.', fuente: 'Motorpasión México', fecha: '2026', url: 'https://www.motorpasion.com.mx/industria/vuelve-a-haber-auto-nuevo-200-000-pesos-mexico-renault-kwid-baja-precio', rend: 17 },
+    march: { marca: 'Nissan', modelo: 'March', anio: '2026', version: 'Sense', versionOk: true, body: 'hatch', lista: 295900, oferta: 225990, exige: null, cond: 'La fuente no publica la condición de la oferta. Confírmala antes del apartado.', fuente: 'Expansión', fecha: '8 sep 2026', url: 'https://expansion.mx/empresas/2026/09/08/nissan-march-baja-de-precio', rend: 17 },
+    aveo: { marca: 'Chevrolet', modelo: 'Aveo HB', anio: '2026', version: 'Versión de entrada', versionOk: false, body: 'hatch', lista: 319100, oferta: 228100, exige: null, cond: 'La fuente no publica la condición de la oferta. Confírmala antes del apartado.', fuente: 'Motorpasión México', fecha: '2026', url: 'https://www.motorpasion.com.mx/industria/12-autos-baratos-que-puedes-comprar-mexico-este-2026/amp', rend: 16 },
+    corolla: { marca: 'Toyota', modelo: 'Corolla', anio: null, version: 'Base CVT', versionOk: true, body: 'sedan', lista: 428600, oferta: null, exige: null, cond: null, fuente: 'Autocosmos, observado', fecha: '18 oct 2026', url: 'https://www.autocosmos.com.mx/catalogo/comparar', rend: 15 }
+  };
+  var CATS = [{ id: 'compra', n: 'Enganche y mensualidades', nc: 'Pago de contado', c: 'var(--c1)' }, { id: 'seguro', n: 'Seguro', c: 'var(--c2)' }, { id: 'uso', n: 'Gasolina y servicios', c: 'var(--c3)' }];
+  var DIFF = ['Frenado autónomo de emergencia', 'Control de estabilidad', 'Bolsas de aire', 'Prueba Latin NCAP aplicable', 'Garantía publicada', 'Rendimiento combinado oficial'];
+  var st = { a: 'kwid', b: 'march', modo: 'credito', eng: 20, plazo: 60 };
+  try { var sv = JSON.parse(localStorage.getItem('cm4') || 'null'); if (sv && AUTOS[sv.a] && AUTOS[sv.b]) st = Object.assign(st, sv); } catch (e) {}
+  var rend = {}, budget = 4000;
+  var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var $ = function (id) { return document.getElementById(id); };
+  var mxn = new Intl.NumberFormat('es-MX', { style: 'currency', currency: 'MXN', maximumFractionDigits: 0 });
+  function v(id) { var n = parseFloat($(id).value); return isFinite(n) && n >= 0 ? n : 0; }
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  ['sa', 'sb'].forEach(function (id) { var s = $(id); Object.keys(AUTOS).forEach(function (k) { var a = AUTOS[k], o = document.createElement('option'); o.value = k; o.textContent = a.marca + ' ' + a.modelo + (a.versionOk ? ' ' + a.version : ''); s.appendChild(o); }); });
+
+  function calc(k, modo) {
+    modo = modo || st.modo;
+    var a = AUTOS[k], aplica = a.oferta && (a.exige === null || a.exige === modo), precio = aplica ? a.oferta : a.lista;
+    var r = { a: a, k: k, precio: precio, aplica: aplica, rend: rend[k] || a.rend };
+    r.seg5 = v('seguro') * 5; r.gas5 = r.rend > 0 ? v('km') * 5 / r.rend * v('gas') : 0; r.serv5 = v('serv');
+    if (modo === 'credito') { r.eng = precio * st.eng / 100; var fin = precio - r.eng, i = v('tasa') / 100 / 12, n = st.plazo; r.pago = i > 0 ? fin * i / (1 - Math.pow(1 + i, -n)) : fin / n; r.compra = r.eng + r.pago * n; }
+    else r.compra = precio;
+    r.total = r.compra + r.seg5 + r.gas5 + r.serv5; r.dia = r.total / 1825;
+    r.parts = { compra: r.compra, seguro: r.seg5, uso: r.gas5 + r.serv5 };
+    return r;
+  }
+  function tween(el, to, dur) {
+    var from = parseFloat(el.dataset.v || '0');
+    el.dataset.v = to;
+    if (reduce || !dur || from === to) { el.textContent = mxn.format(to); return; }
+    var t0 = performance.now();
+    (function step(t) { var p = Math.min(1, (t - t0) / dur), e = 1 - Math.pow(1 - p, 4); el.textContent = mxn.format(from + (to - from) * e); if (p < 1) requestAnimationFrame(step); })(t0);
+  }
+  function sil(body, color, flip) { return '<svg viewBox="0 0 120 48" aria-hidden="true"' + (flip ? ' style="transform:scaleX(-1)"' : '') + '><use href="#cm-' + body + '" fill="' + color + '"/></svg>'; }
+  function car(el, r, color, flip, dot) { var a = r.a; el.innerHTML = '<div class="sil">' + sil(a.body, color, flip) + '</div><span class="mkk"><span class="dot" style="background:' + dot + '"></span>' + esc(a.marca) + '</span><span class="md">' + esc(a.modelo) + '</span><span class="vr">' + esc(a.version) + (a.anio ? ' · ' + a.anio : '') + '</span>'; }
+
+  // Gráfica
+  (function buildChart() {
+    var h = '';
+    ['a', 'b'].forEach(function (s) { h += '<div class="bar"><span class="lb" id="bl-' + s + '"></span><div class="track" id="tr-' + s + '">' + CATS.map(function (c) { return '<span class="seg" data-s="' + s + '" data-c="' + c.id + '" style="background:' + c.c + ';width:0"></span>'; }).join('') + '</div></div>'; });
+    $('bars').innerHTML = h;
+  })();
+  var tip = $('tip');
+  $('bars').addEventListener('pointermove', function (e) {
+    var seg = e.target.closest('.seg'); if (!seg) { tip.classList.remove('on'); return; }
+    var r = seg.dataset.s === 'a' ? calc(st.a) : calc(st.b), c = CATS.filter(function (x) { return x.id === seg.dataset.c; })[0];
+    var box = $('chart').getBoundingClientRect();
+    tip.innerHTML = '<b>' + esc(r.a.modelo) + '</b> · ' + (c.id === 'compra' && st.modo === 'contado' ? c.nc : c.n) + ': ' + mxn.format(r.parts[c.id]);
+    tip.style.left = (e.clientX - box.left) + 'px'; tip.style.top = (e.clientY - box.top - 6) + 'px'; tip.classList.add('on');
+  });
+  $('bars').addEventListener('pointerleave', function () { tip.classList.remove('on'); });
+
+  function chart(ra, rb) {
+    var max = Math.max(ra.total, rb.total);
+    [['a', ra], ['b', rb]].forEach(function (p) {
+      var s = p[0], r = p[1], tr = $('tr-' + s), avail = tr.clientWidth - 4;
+      $('bl-' + s).innerHTML = '<span class="dot" style="width:10px;height:10px;border-radius:3px;display:inline-block;background:' + (s === 'a' ? '#000' : '#d42a2c') + '"></span>' + esc(r.a.modelo);
+      [].forEach.call(tr.children, function (seg) { seg.style.width = Math.max(0, r.parts[seg.dataset.c] / max * avail).toFixed(1) + 'px'; seg.setAttribute('aria-label', r.a.modelo + ': ' + mxn.format(r.parts[seg.dataset.c])); });
+    });
+    var lg = '<span></span><span class="hd"></span><span class="hd">' + esc(ra.a.modelo) + '</span><span class="hd">' + esc(rb.a.modelo) + '</span>';
+    CATS.forEach(function (c) { lg += '<span class="sw" style="background:' + c.c + '"></span><span class="n">' + (c.id === 'compra' && st.modo === 'contado' ? c.nc : c.n) + '</span><span class="a">' + mxn.format(ra.parts[c.id]) + '</span><span class="b">' + mxn.format(rb.parts[c.id]) + '</span>'; });
+    $('legend').innerHTML = lg;
+    $('ch-mode').textContent = st.modo === 'credito' ? 'A crédito · ' + st.plazo + ' meses' : 'De contado';
+  }
+
+  function ln(l, val, c) { return '<div class="ln' + (c ? ' ' + c : '') + '"><span>' + l + '</span><span>' + val + '</span></div>'; }
+  function etq(el, k, r, dot) {
+    var a = r.a, h = '<span class="mkk"><span class="dot" style="display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;background:' + dot + '"></span>' + esc(a.marca) + '</span><h3>' + esc(a.modelo) + '</h3><span class="vr">' + esc(a.version) + (a.anio ? ' · ' + a.anio : '') + '</span><span class="tags">' + (a.versionOk ? '' : '<span class="tag">Versión por confirmar</span>') + (a.anio ? '<span class="tag">Año por confirmar</span>' : '<span class="tag">Año no informado por la fuente</span>') + '</span>';
+    h += '<span class="seal"><span class="tag blue">Precio verificado</span><a href="' + a.url + '" target="_blank" rel="noopener">' + esc(a.fuente) + '</a> · ' + esc(a.fecha) + '</span><div class="lines">';
+    if (a.oferta) { h += ln('Precio de lista', mxn.format(a.lista), r.aplica ? 'strike' : ''); h += ln(r.aplica ? 'Oferta' : 'Oferta (no aplica)', mxn.format(a.oferta), r.aplica ? '' : 'strike'); }
+    else { h += ln('Precio de lista', mxn.format(a.lista)); h += ln('Oferta', 'Sin oferta publicada'); }
+    if (st.modo === 'credito') { h += ln('Enganche ' + st.eng + '%', mxn.format(r.eng)); h += ln('Mensualidad × ' + st.plazo, mxn.format(r.pago)); h += ln('Total de la compra', mxn.format(r.compra)); }
+    else h += ln('Pago de contado', mxn.format(r.compra));
+    h += ln('Seguro, 5 años', mxn.format(r.seg5)) + ln('Gasolina, 5 años', mxn.format(r.gas5)) + ln('Servicios, 5 años', mxn.format(r.serv5)) + ln('Costo total, 5 años', mxn.format(r.total), 'total') + ln('Al día', mxn.format(r.dia)) + '</div>';
+    if (a.oferta && !r.aplica) h += '<p class="cond warn"><b>De contado la oferta no aplica.</b> ' + esc(a.cond) + ' Sin ese crédito pagas el precio de lista.</p>';
+    else if (a.cond) h += '<p class="cond"><b>Condición:</b> ' + esc(a.cond) + '</p>';
+    h += '<label class="rend">Rendimiento supuesto (km/l)<input type="number" min="1" step="0.5" data-k="' + k + '" value="' + r.rend + '"></label>';
+    el.innerHTML = h;
+  }
+
+  function dgm(ra, rb) {
+    function cell(r, f) { return '<td>' + f(r) + '</td>'; }
+    function row(l, f, c) { return '<tr' + (c ? ' class="' + c + '"' : '') + '><td>' + l + '</td>' + cell(ra, f) + cell(rb, f) + '</tr>'; }
+    var h = '<table><thead><tr><th scope="col">5 años</th><th scope="col"><span class="dot" style="display:inline-block;width:9px;height:9px;border-radius:3px;margin-right:5px;background:#000"></span>' + esc(ra.a.modelo) + '</th><th scope="col"><span class="dot" style="display:inline-block;width:9px;height:9px;border-radius:3px;margin-right:5px;background:#d42a2c"></span>' + esc(rb.a.modelo) + '</th></tr></thead><tbody>';
+    h += row('Precio de lista', function (r) { return '<span class="' + (r.a.oferta && r.aplica ? 'strike' : '') + '">' + mxn.format(r.a.lista) + '</span>'; });
+    h += row('Oferta', function (r) { return r.a.oferta ? (r.aplica ? mxn.format(r.a.oferta) : '<span class="strike">' + mxn.format(r.a.oferta) + '</span>') : 'Sin oferta'; });
+    if (st.modo === 'credito') { h += row('Enganche ' + st.eng + '%', function (r) { return mxn.format(r.eng); }); h += row('Mensualidad × ' + st.plazo, function (r) { return mxn.format(r.pago); }); h += row('Total de la compra', function (r) { return mxn.format(r.compra); }); }
+    else h += row('Pago de contado', function (r) { return mxn.format(r.compra); });
+    h += row('Seguro', function (r) { return mxn.format(r.seg5); }) + row('Gasolina', function (r) { return mxn.format(r.gas5); }) + row('Servicios', function (r) { return mxn.format(r.serv5); }) + row('Costo total', function (r) { return mxn.format(r.total); }, 'total') + row('Al día', function (r) { return mxn.format(r.dia); });
+    h += '</tbody></table><div class="src">' + [ra, rb].map(function (r) { return '<span><b>' + esc(r.a.modelo) + '</b> · ' + esc(r.a.version) + (r.a.versionOk ? '' : ' (por confirmar)') + ' · precio de <a href="' + r.a.url + '" target="_blank" rel="noopener">' + esc(r.a.fuente) + '</a>, ' + esc(r.a.fecha) + '</span>'; }).join('') + '</div>';
+    [ra, rb].forEach(function (r) { if (r.a.oferta && !r.aplica) h += '<p class="cond warn"><b>' + esc(r.a.modelo) + ': de contado la oferta no aplica.</b> ' + esc(r.a.cond) + '</p>'; else if (r.a.cond) h += '<p class="cond"><b>' + esc(r.a.modelo) + ':</b> ' + esc(r.a.cond) + '</p>'; });
+    h += '<div class="rends">' + [ra, rb].map(function (r) { return '<label>Rendimiento ' + esc(r.a.modelo) + ' (km/l)<input type="number" min="1" step="0.5" data-k="' + r.k + '" value="' + r.rend + '"></label>'; }).join('') + '</div>';
+    $('dgm').innerHTML = h;
+  }
+
+  function render(dur) {
+    var ra = calc(st.a), rb = calc(st.b), same = st.a === st.b;
+    var lo = ra.total <= rb.total ? ra : rb, hi = lo === ra ? rb : ra;
+    if (same) { $('sv-k').textContent = 'Elige dos autos distintos'; $('sv-v').dataset.v = 0; $('sv-v').textContent = '—'; $('sv-s').textContent = ''; }
+    else { $('sv-k').innerHTML = 'Con el <b>' + esc(lo.a.modelo) + '</b> pagas'; tween($('sv-v'), hi.total - lo.total, dur); $('sv-s').textContent = 'menos en cinco años que con el ' + hi.a.modelo + '.'; }
+    var flag = [ra, rb].filter(function (r) { return r.a.oferta && !r.aplica; })[0], cond = [ra, rb].filter(function (r) { return r.a.exige && r.aplica; })[0];
+    $('fine').innerHTML = flag ? '<span class="tag">Letra chiquita</span><span>De contado, la oferta del ' + esc(flag.a.modelo) + ' no aplica: pagas el precio de lista.</span>'
+      : cond ? '<span class="tag">Letra chiquita</span><span>El precio del ' + esc(cond.a.modelo) + ' solo aplica si financias con la marca.</span>'
+      : '<span class="tag">Revisa</span><span>Confirma la condición de cada oferta antes del apartado.</span>';
+    car($('car-a'), ra, '#111111', false, '#000'); car($('car-b'), rb, '#d42a2c', true, '#d42a2c');
+    var f = '<span class="h"></span><span class="h">' + esc(ra.a.modelo) + '</span><span class="h">' + esc(rb.a.modelo) + '</span>';
+    f += '<span class="k">Precio que pagas</span><span class="v num">' + mxn.format(ra.precio) + '</span><span class="v num">' + mxn.format(rb.precio) + '</span>';
+    if (st.modo === 'credito') f += '<span class="k">Mensualidad × ' + st.plazo + '</span><span class="v num">' + mxn.format(ra.pago) + '</span><span class="v num">' + mxn.format(rb.pago) + '</span>';
+    f += '<span class="k">Total, 5 años</span><span class="v tot num" id="ta"></span><span class="v tot num" id="tb"></span>';
+    var prevA = $('ta') ? $('ta').dataset.v : 0, prevB = $('tb') ? $('tb').dataset.v : 0;
+    $('figs').innerHTML = f;
+    $('ta').dataset.v = prevA || 0; $('tb').dataset.v = prevB || 0;
+    tween($('ta'), ra.total, dur); tween($('tb'), rb.total, dur);
+    chart(ra, rb);
+    $('seal').innerHTML = '<span class="tag blue">Precios verificados</span>' + [ra, rb].map(function (r) { return '<span>' + esc(r.a.modelo) + ': <a href="' + r.a.url + '" target="_blank" rel="noopener">' + esc(r.a.fuente) + '</a>, ' + esc(r.a.fecha) + '</span>'; }).join('');
+    etq($('ea'), st.a, ra, '#000'); etq($('eb'), st.b, rb, '#d42a2c'); dgm(ra, rb);
+    var rows = '<thead><tr><th scope="col">Dato</th><th scope="col">' + esc(ra.a.modelo) + '</th><th scope="col">' + esc(rb.a.modelo) + '</th></tr></thead><tbody>';
+    DIFF.forEach(function (d) { rows += '<tr><th scope="row" style="font-weight:500">' + d + '</th><td class="p">Por verificar</td><td class="p">Por verificar</td></tr>'; });
+    $('dt').innerHTML = rows + '</tbody>';
+    $('legal').textContent = st.modo === 'credito' ? 'Tasa anual de ejemplo ' + v('tasa').toFixed(1) + '%. CAT de ejemplo ' + v('cat').toFixed(1) + '% sin IVA. Para fines informativos y de comparación. Mensualidad estimada sin seguro financiado ni comisiones. En el producto se muestran la tasa y el CAT de cada otorgante, con fecha.' : 'Pago de contado. Seguro, gasolina y servicios son supuestos editables. Tenencia y refrendo dependen del estado y aún no se incluyen.';
+    document.querySelectorAll('[data-modo]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.modo === st.modo)); });
+    document.querySelectorAll('[data-plazo]').forEach(function (b) { b.setAttribute('aria-pressed', String(+b.dataset.plazo === st.plazo)); b.textContent = b.dataset.plazo + (+b.dataset.plazo === st.plazo ? ' m' : ''); });
+    $('c-eng').hidden = st.modo !== 'credito';
+    $('eng').value = st.eng; $('eng-o').textContent = st.eng + '%';
+    $('sa').value = st.a; $('sb').value = st.b;
+    explore();
+  }
+
+  function explore() {
+    $('bud-o').textContent = mxn.format(budget);
+    var list = Object.keys(AUTOS).map(function (k) { return calc(k, 'credito'); }).sort(function (x, y) { return x.pago - y.pago; });
+    var n = list.filter(function (r) { return r.pago <= budget; }).length;
+    $('bud-s').textContent = n ? n + ' de ' + list.length + ' versiones te alcanzan con ' + st.eng + '% de enganche a ' + st.plazo + ' meses.' : 'Ninguna versión te alcanza todavía. Prueba subir el enganche o el plazo.';
+    var h = '';
+    list.forEach(function (r) {
+      var ok = r.pago <= budget, pct = Math.min(1, r.pago / 8000);
+      h += '<div class="fit' + (ok ? '' : ' over') + '"><div><div class="nm">' + esc(r.a.marca + ' ' + r.a.modelo) + '<small>' + esc(r.a.version) + '</small></div><div class="pay">Mensualidad <b>' + mxn.format(r.pago) + '</b> · precio ' + mxn.format(r.precio) + '</div></div><div class="side">' + (ok ? '<span class="tag dark">Te alcanza</span>' : '<span class="tag red">Te faltan ' + mxn.format(r.pago - budget) + ' al mes</span>') + '<button class="chip" type="button" data-pick="' + r.k + '">Comparar</button></div><div class="meter" aria-hidden="true"><i style="transform:scaleX(' + pct.toFixed(3) + ')"></i><b style="left:' + (budget / 8000 * 100).toFixed(2) + '%"></b></div></div>';
+    });
+    $('fits').innerHTML = h;
+  }
+  $('bud').addEventListener('input', function (e) { budget = +e.target.value; explore(); });
+  $('fits').addEventListener('click', function (e) {
+    var b = e.target.closest('[data-pick]'); if (!b) return;
+    var k = b.dataset.pick; if (k === st.a) { st.a = st.b; st.b = k; } else st.b = k;
+    render(400); to('comparar'); toast('Cargamos el ' + AUTOS[k].modelo + ' en el comparador.');
+  });
+
+  var tt;
+  function toast(m) { var el = document.querySelector('.toast'); if (!el) { el = document.createElement('div'); el.className = 'toast'; el.setAttribute('role', 'status'); document.body.appendChild(el); } el.textContent = m; el.hidden = false; clearTimeout(tt); tt = setTimeout(function () { el.hidden = true; }, 2600); }
+  function to(id) { $(id).scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'start' }); }
+  function load(pair) { var p = pair.split(','); st.a = p[0]; st.b = p[1]; render(450); }
+
+  $('form').addEventListener('submit', function (e) { e.preventDefault(); to('desglose'); });
+  $('sa').addEventListener('change', function (e) { st.a = e.target.value; render(450); });
+  $('sb').addEventListener('change', function (e) { st.b = e.target.value; render(450); });
+  document.querySelectorAll('[data-modo]').forEach(function (b) { b.addEventListener('click', function () { st.modo = b.dataset.modo; render(450); }); });
+  document.querySelectorAll('[data-plazo]').forEach(function (b) { b.addEventListener('click', function () { st.plazo = +b.dataset.plazo; render(450); }); });
+  $('eng').addEventListener('input', function (e) { st.eng = +e.target.value; render(0); });
+  ['tasa', 'cat', 'km', 'gas', 'seguro', 'serv'].forEach(function (id) { $(id).addEventListener('input', function () { render(0); }); });
+  $('desglose').addEventListener('change', function (e) { var k = e.target.dataset && e.target.dataset.k, n = parseFloat(e.target.value); if (k && n > 0) { rend[k] = n; render(450); } });
+  document.querySelectorAll('[data-load]').forEach(function (b) { b.addEventListener('click', function (e) { e.preventDefault(); load(b.dataset.load); if (b.classList.contains('cmp')) to('comparar'); }); });
+  [].forEach.call(document.querySelectorAll('[data-contado]'), function (b) { b.addEventListener('click', function () { st.a = 'kwid'; st.b = 'march'; st.modo = 'contado'; render(450); to('comparar'); }); });
+  $('b-copy').addEventListener('click', function () {
+    var ra = calc(st.a), rb = calc(st.b);
+    function c(r) { return r.a.marca + ' ' + r.a.modelo + ' ' + r.a.version + ': precio ' + mxn.format(r.precio) + (st.modo === 'credito' ? ', mensualidad ' + mxn.format(r.pago) + ' x ' + st.plazo : ' de contado') + ', costo total 5 años ' + mxn.format(r.total) + '. Precio: ' + r.a.fuente + ', ' + r.a.fecha + '.'; }
+    var txt = 'Mi comparación ComparaMotor\n' + c(ra) + '\n' + c(rb) + '\nTasa de ejemplo ' + v('tasa') + '%, CAT de ejemplo ' + v('cat') + '% sin IVA.';
+    var ok = function () { toast('Copiado. Pégalo en WhatsApp.'); };
+    var fb = function () { var ta = document.createElement('textarea'); ta.value = txt; ta.setAttribute('readonly', ''); ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); ok(); } catch (er) { toast('Selecciona y copia el texto a mano.'); } ta.remove(); };
+    try { navigator.clipboard.writeText(txt).then(ok, fb); } catch (er) { fb(); }
+  });
+  $('b-off').addEventListener('click', function () { var c = $('consent'); c.hidden = !c.hidden; $('b-off').setAttribute('aria-expanded', String(!c.hidden)); });
+  document.querySelectorAll('.ag').forEach(function (cb) { cb.addEventListener('change', function () { $('b-cons').disabled = !document.querySelector('.ag:checked'); }); });
+  $('b-cons').addEventListener('click', function () { toast('Prototipo: no se compartió ningún dato.'); });
+  $('save-top').addEventListener('click', function () { try { localStorage.setItem('cm4', JSON.stringify(st)); } catch (e) {} setTimeout(function () { $('mail').focus({ preventScroll: true }); }, reduce ? 0 : 500); });
+  $('signup').addEventListener('submit', function (e) {
+    e.preventDefault(); var m = $('mail').value.trim(), ok = $('signup-ok');
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(m)) { ok.hidden = false; ok.textContent = 'Escribe un correo válido, por ejemplo nombre@correo.com.'; $('mail').focus(); return; }
+    ok.hidden = false; ok.textContent = 'Listo. En el producto te llegaría a ' + m + ' un enlace para entrar a tu garage, sin contraseña. Prototipo: no se envió nada.';
+  });
+  $('menu').addEventListener('click', function () { var m = $('links'), o = m.classList.toggle('open'); $('menu').setAttribute('aria-expanded', String(o)); });
+  addEventListener('resize', function () { chart(calc(st.a), calc(st.b)); });
+
+
+
+  (function ticker() {
+    var t = document.getElementById('tk-t'); if (!t) return;
+    [].slice.call(t.children).forEach(function (a) { var c = a.cloneNode(true); c.setAttribute('aria-hidden', 'true'); c.tabIndex = -1; t.appendChild(c); });
+  })();
+  // Héroe: video, letra chiquita y cifras
+  (function hero() {
+    var nav = document.querySelector('.nav'), sen = document.getElementById('nav-sentinel');
+    if ('IntersectionObserver' in window && sen) new IntersectionObserver(function (es) { nav.classList.toggle('solid', !es[0].isIntersecting); }).observe(sen);
+    else nav.classList.add('solid');
+    var vid = $('hero-vid'), ctl = $('vid-ctl'), userPaused = false;
+    if (vid && ctl) {
+      ctl.addEventListener('click', function () { userPaused = !vid.paused; if (vid.paused) vid.play(); else vid.pause(); ctl.setAttribute('aria-pressed', String(userPaused)); ctl.setAttribute('aria-label', userPaused ? 'Reproducir el video de fondo' : 'Pausar el video de fondo'); });
+      if ('IntersectionObserver' in window) new IntersectionObserver(function (es) { if (userPaused) return; if (es[0].isIntersecting) { var pr = vid.play(); if (pr && pr.catch) pr.catch(function () {}); } else vid.pause(); }).observe(vid);
+    }
+    var tk = $('ticket'), tb = $('t-btn'), touched = false;
+    function setT(on) { tk.dataset.state = on ? 'truth' : 'ad'; tb.setAttribute('aria-pressed', String(on)); tb.querySelector('span').textContent = on ? 'Ver como anuncio' : 'Lee la letra chiquita'; }
+    tb.addEventListener('click', function () { touched = true; setT(tk.dataset.state !== 'truth'); });
+    if (reduce) setT(true);
+    else if ('IntersectionObserver' in window) {
+      var tio = new IntersectionObserver(function (es) { if (es[0].isIntersecting) { tio.disconnect(); setTimeout(function () { if (!touched) setT(true); }, 1400); } }, { threshold: 0.75 });
+      tio.observe(tk);
+    } else setT(true);
+    var nums = [].slice.call(document.querySelectorAll('.specs b[data-to]'));
+    if (!reduce) nums.forEach(function (el, i) {
+      var to = parseFloat(el.dataset.to), dec = +(el.dataset.dec || 0), pre = el.dataset.pre || '', suf = el.dataset.suf || '', t0 = performance.now() + 500 + i * 140, D = 1400;
+      var fmt = function (v) { return pre + v.toLocaleString('es-MX', { minimumFractionDigits: dec, maximumFractionDigits: dec }) + suf; };
+      el.style.minWidth = el.offsetWidth + 'px'; el.textContent = fmt(0);
+      (function step(t) { var k = Math.max(0, Math.min(1, (t - t0) / D)), e = 1 - Math.pow(1 - k, 4); el.textContent = fmt(to * e); if (k < 1) requestAnimationFrame(step); })(performance.now());
+    });
+  })();
+
+  if ('IntersectionObserver' in window && !reduce) {
+    var vh = innerHeight, pend = [].filter.call(document.querySelectorAll('.rv'), function (el) { return el.getBoundingClientRect().top > vh; });
+    if (pend.length) {
+      document.documentElement.classList.add('js-reveal');
+      [].forEach.call(document.querySelectorAll('.rv'), function (el) { if (pend.indexOf(el) < 0) el.classList.add('in'); });
+      var io = new IntersectionObserver(function (es) { es.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); } }); }, { rootMargin: '0px 0px -8% 0px' });
+      pend.forEach(function (el) { io.observe(el); });
+    }
+  }
+  render(reduce ? 0 : 900);
+  requestAnimationFrame(function () { document.body.classList.add('ready'); });
+})();
+</script>

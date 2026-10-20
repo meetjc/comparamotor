@@ -1,0 +1,36 @@
+{
+  "estado": "Baja California",
+  "slug": "baja-california",
+  "cobraTenencia2026": true,
+  "tenencia": "Sí existe el Impuesto Estatal sobre Tenencia o Uso de Vehículos (Ley de Hacienda del Estado de Baja California, Cap. XX, arts. 156-15 y siguientes; la Ley de Ingresos 2026, art. 1 num. 1.2.2, lo proyecta en $304,009,331). Pero solo grava vehículos del año modelo en curso y de los 9 años modelo anteriores que sean (a) de personas físicas o morales y estén afectos a una actividad empresarial, o (b) 'caros o de lujo' con valor de $500,000 o más. Para automóviles nuevos la tarifa va de 3% (hasta $526,657.78) a 19.1% (más de $1,711,052.63) sobre el excedente del límite inferior, con cuota fija; los usados se calculan con factor de depreciación por antigüedad (0.850 al primer año hasta 0.075 al noveno). No pagan: eléctricos e híbridos (nuevos y usados), automóviles de personas con discapacidad acreditada (uno por persona), motocicletas, vehículos de gobierno, asociaciones civiles sin fines de lucro y religiosas, partidos políticos, importación temporal y los destinados a venta sin placas (art. 156-28). Se paga en los tres primeros meses del año (art. 156-19); vehículos nuevos, dentro de 10 días hábiles de la compra o importación.",
+  "refrendo": {
+    "nombreLocal": "Refrendo de la Tarjeta de Circulación (derechos de control vehicular)",
+    "monto2026": 1167.33,
+    "moneda": "MXN",
+    "detalle": "Ley de Ingresos 2026, art. 10 fracc. II (texto consultado: versión del 18-jun-2026): servicio particular, automóviles y camiones $1,167.33; motocicletas $1,167.33; demostración $2,198.07; remolques $512.83. Servicio público: taxis y autobuses de pasajeros $1,172.29; camiones de carga $1,581.26; motocicletas $1,172.29. El trámite 2026 es 100% en línea y no se emite tarjeta física: se imprime el comprobante de pago con QR. El formulario ofrece una donación opcional a Cruz Roja."
+  },
+  "fechaLimite": "Ley que Regula los Servicios de Control Vehicular, art. 24 (reforma 31-dic-2024): vehículos de hasta 9 años de antigüedad deben refrendar dentro de los tres primeros meses del ejercicio fiscal (31 de marzo); vehículos con 10 años o más, dentro de los seis primeros meses (30 de junio). Pasado el plazo la tarjeta pierde vigencia (vigencia condicionada).",
+  "descuentos": [
+    "Pronto pago en el refrendo 2026: 12% en enero, 8.5% en febrero y 5% en marzo (Ley de Ingresos 2026, art. 10 fracc. II apartado C).",
+    "El formulario oficial de refrendo permite aplicar descuento para pensionados, jubilados, mayores de 60 años y personas con discapacidad; el porcentaje no se verificó.",
+    "Decreto de estímulos fiscales en control vehicular publicado el 24-jul-2026 y vigente hasta el 30-dic-2026 (comunicado oficial del Gobierno de BC): 100% de descuento en extemporáneos, multas y gastos de ejecución para adeudos de 2023 y anteriores en los supuestos que fija el decreto (modelos 2018 o anteriores con último pago en 2022 o antes; modelos 2019 o posteriores con último pago en 2021 o antes), 50% en reposición de placas para quienes apliquen el beneficio y 50% en multas impuestas en 2024-2026 con último pago entre 2023 y 2025."
+  ],
+  "portalPago": "https://tramites.ebajacalifornia.gob.mx/ventanillaunica/tramites/controlvehicular/refrendo",
+  "fuentes": [
+    {"nombre": "Ley de Ingresos del Estado de Baja California 2026 (Congreso del Estado, versión 18-jun-2026)", "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_II/20260618_LEYINGRESOSESTADO2026.PDF", "tipo": "oficial"},
+    {"nombre": "Ley de Hacienda del Estado de Baja California (Congreso del Estado; versión consultada con reformas hasta 22-dic-2023)", "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_II/20231222_LEYHACES.PDF", "tipo": "oficial"},
+    {"nombre": "Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California", "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_II/2024_LEYSERCONVEHICULAR.PDF", "tipo": "oficial"},
+    {"nombre": "Portal Refrendo 2026 100% en línea (Gobierno de Baja California)", "url": "https://refrendo.bajacalifornia.gob.mx/", "tipo": "oficial"},
+    {"nombre": "Preguntas frecuentes del refrendo 2026 (Gobierno de Baja California)", "url": "https://refrendo.bajacalifornia.gob.mx/Home/FAQ", "tipo": "oficial"},
+    {"nombre": "Ventanilla BC: Refrendo de la Tarjeta de Circulación", "url": "https://tramites.ebajacalifornia.gob.mx/ventanillaunica/tramites/controlvehicular/refrendo", "tipo": "oficial"},
+    {"nombre": "Comunicado oficial: condona adeudos vehiculares con tres años o más (Gobierno de BC)", "url": "https://www.bajacalifornia.gob.mx/Prensa/Noticia/27167", "tipo": "oficial"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "La Ley de Hacienda consultada es la versión del Congreso con reformas hasta el 22-dic-2023; no se confirmó si el Cap. XX de tenencia (arts. 156-15 a 156-32) cambió en reformas de 2024-2026 ni si hay subsidio o decreto 2026 sobre tenencia.",
+    "La Ley de Ingresos 2026 se leyó en la versión consolidada del 18-jun-2026; no se comparó con el texto original de diciembre de 2025 (mismos montos de refrendo y descuentos podrían haber cambiado por reforma).",
+    "Porcentaje del descuento a pensionados, jubilados, mayores de 60 años y personas con discapacidad en el refrendo: no verificado.",
+    "El texto del art. 24 consultado dice 'cuyo año sea de 9 años de antigüedad'; se interpreta como 'hasta 9 años'. Confirmar redacción exacta en el Periódico Oficial.",
+    "Requisitos del refrendo (seguro de responsabilidad civil para modelos 2008 y posteriores según transitorio décimo primero; acreditar verificación vehicular según art. 29 fracc. VII) no se probaron en el portal por reCAPTCHA."
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "marca": "Hyundai",
+  "marcaSlug": "hyundai",
+  "modelo": "Creta",
+  "slug": "creta",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "coreana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Creta GL TM",
+      "anio": 2027,
+      "precio": 451000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L MPI 4 cil.",
+      "potenciaHp": 113,
+      "rendimientoCombinadoKmL": 17.14,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Hyundai México (sitio oficial)",
+      "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio de lista (la página lo etiqueta 'Precio de lista'). Manual de 6 velocidades, 2WD, rines de 17\". Rendimiento NOM-163 de laboratorio: ciudad 15.27, carretera 20.17 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. El Hyundai SmartSense de la tabla de especificaciones no lista asistente de anticolisión frontal (FCA) para esta versión; solo la página de la Limited Turbo lo destaca."
+    },
+    {
+      "nombre": "Creta GLS IVT",
+      "anio": 2027,
+      "precio": 499000,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L MPI 4 cil.",
+      "potenciaHp": 113,
+      "rendimientoCombinadoKmL": 17.86,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Hyundai México (sitio oficial)",
+      "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Hyundai la nombra IVT (transmisión variable inteligente, de tipo continuamente variable). Rendimiento NOM-163: ciudad 16.18, carretera 20.45 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. El Hyundai SmartSense de la tabla de especificaciones no lista asistente de anticolisión frontal (FCA) para esta versión; solo la página de la Limited Turbo lo destaca."
+    },
+    {
+      "nombre": "Creta GLS Premium IVT",
+      "anio": 2027,
+      "precio": 527600,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L MPI 4 cil.",
+      "potenciaHp": 113,
+      "rendimientoCombinadoKmL": 17.86,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Hyundai México (sitio oficial)",
+      "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "IVT. Rendimiento NOM-163: ciudad 16.18, carretera 20.45 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. El Hyundai SmartSense de la tabla de especificaciones no lista asistente de anticolisión frontal (FCA) para esta versión; solo la página de la Limited Turbo lo destaca."
+    },
+    {
+      "nombre": "Creta Limited Turbo",
+      "anio": 2027,
+      "precio": 603400,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L T-GDI 4 cil. turbo",
+      "potenciaHp": 157,
+      "rendimientoCombinadoKmL": 19.68,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Hyundai México (sitio oficial)",
+      "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "DCT de 7 velocidades. Rendimiento NOM-163: ciudad 17.39, carretera 23.46 km/l. Frenado: la página de la versión (https://www.hyundai.com.mx/modelos/creta-2027/limited-turbo) destaca 'Asistencia de Anticolisión y de Giro incluyendo Ciclistas, Peatones (FCA + JT + CAR/PED/CYC)'. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de 7 años en Creta 2027. Detalle publicado por Hyundai para modelos 2026 en adelante: básica 5 años o 100,000 km y tren motriz 7 años o 150,000 km (lo que ocurra primero)",
+    "fuente": "Hyundai México (sitio oficial)",
+    "url": "https://www.hyundai.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Creta 2027 (y Creta Grand 2027): 48 meses sin intereses (MSI) o mensualidades desde $4,999; tasas desde 9.49%",
+      "precioOferta": null,
+      "condicion": "Solo con Hyundai Finance (cálculo con Banorte). Los 48 MSI se calcularon para Creta Limited Turbo MY27 con bono flexible de $80,000 aplicado a reducción de tasa, enganche 40% y 48 meses. La mensualidad de $4,999 se calculó para Creta Limited Turbo MY27 con enganche de 50.03%, tasa 9.49% a 72 meses y bono aplicado a reducción de precio. La tasa de 9.49% aplica a todos los Creta 5P MY27 con enganche desde 50%. No aplica con otras promociones ni flotillas; hasta agotar existencias.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Hyundai México (sitio oficial)",
+      "url": "https://www.hyundai.com.mx/promociones/modelos-creta",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
+    "https://www.hyundai.com.mx/modelos/creta-2027/",
+    "https://www.hyundai.com.mx/modelos/creta-2027/limited-turbo",
+    "https://www.hyundai.com.mx/promociones/modelos-creta",
+    "https://www.hyundai.com.mx/garantia"
+  ],
+  "pendientes": [
+    "Número total de bolsas de aire de la Creta 5P (la página no lo publica; solo la Creta Grand dice 6)",
+    "Frenado autónomo (FCA) en GL TM, GLS IVT y GLS Premium IVT: no confirmado en la fuente",
+    "La página de garantía de Hyundai lista Creta 2026 y Creta Grand, pero no nombra explícitamente a Creta 2027; la página de la Creta 2027 sí promete 7 años",
+    "Creta Grand 2026/2027 (hyundai.com.mx/modelos/creta-grand-2027/) es un modelo aparte y no está en este archivo"
+  ]
+}

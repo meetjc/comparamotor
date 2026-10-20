@@ -1,0 +1,79 @@
+{
+  "marca": "Mazda",
+  "marcaSlug": "mazda",
+  "modelo": "Mazda3 Hatchback",
+  "slug": "mazda3-hatchback",
+  "carroceria": "hatchback",
+  "segmento": "compacto",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "i Sport",
+      "anio": 2026,
+      "precio": 458900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L SKYACTIV-G 4 cil.",
+      "potenciaHp": 186,
+      "rendimientoCombinadoKmL": 15.2,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
+      "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-hatchback/ficha-tecnica/ficha-tecnica-mazda3-hatchback-2026-v02.pdf",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Automática SKYACTIV-Drive de 6 velocidades, tracción delantera. Rendimiento 15.2 km/l tomado de la celda combinada i Sport / i Grand Touring de la ficha. Sin SBS según la ficha. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra."
+    },
+    {
+      "nombre": "i Grand Touring",
+      "anio": 2026,
+      "precio": 498900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L SKYACTIV-G 4 cil.",
+      "potenciaHp": 186,
+      "rendimientoCombinadoKmL": 15.2,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
+      "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-hatchback/ficha-tecnica/ficha-tecnica-mazda3-hatchback-2026-v02.pdf",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Suma monitoreo de punto ciego (BSM) y alerta de tráfico trasero (RCTA); sin SBS. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra."
+    },
+    {
+      "nombre": "Signature",
+      "anio": 2026,
+      "precio": 568900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L Turbo SKYACTIV-G 4 cil.",
+      "potenciaHp": 227,
+      "rendimientoCombinadoKmL": 14.9,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
+      "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-hatchback/ficha-tecnica/ficha-tecnica-mazda3-hatchback-2026-v02.pdf",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Tracción integral i-ACTIV AWD, torque 310 lb-ft. Incluye SBS, MRCC y cámara 360°. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km sin costo adicional (modelos 2026); garantía extendida opcional de +3 años o 65,000 km (hasta 6 años o 125,000 km) por $5,650 MXN IVA incluido",
+    "fuente": "Mazda México (sitio oficial)",
+    "url": "https://www.mazda.mx/servicio-mazda/tu-mazda/garantias-mazda"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.mazda.mx/siteassets/descargables-2026/mazda3-hatchback/ficha-tecnica/ficha-tecnica-mazda3-hatchback-2026-v02.pdf",
+    "https://www.mazda.mx/vehiculos/mazda-3-hatchback",
+    "https://www.mazda.mx/servicio-mazda/tu-mazda/garantias-mazda"
+  ],
+  "pendientes": [
+    "Número total de bolsas de aire (mazda.mx lista tipos pero no el total)",
+    "Mazda México no publica promociones vigentes en mazda.mx al 20-oct-2026; sin ofertas verificables"
+  ]
+}

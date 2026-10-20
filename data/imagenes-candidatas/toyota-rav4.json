@@ -1,0 +1,63 @@
+{
+  "marca": "Toyota",
+  "modelo": "RAV4",
+  "marcaSlug": "toyota",
+  "modeloSlug": "rav4",
+  "generacionMexico": "6.ª generación (XA60), 2026, solo híbrida",
+  "notasModelo": "La RAV4 2026 de México ya es la nueva generación híbrida (GQ México, toyota.mx).",
+  "actualizado": "2026-10-20",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Toyota_RAV4_wordmark_%282025%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Toyota_RAV4_wordmark_(2025).png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "Dominio público",
+      "licenciaUrl": null,
+      "autor": "Toyota",
+      "credito": "Foto: Toyota / Wikimedia Commons (dominio público)",
+      "compartirIgual": false,
+      "ancho": 3840,
+      "alto": 195,
+      "anioOGeneracion": "2025 · 6.ª generación (XA60), 2026, solo híbrida",
+      "angulo": "desconocido",
+      "coincideConMexico": true,
+      "verificadoEl": "2026-10-20",
+      "notas": "Archivo: Toyota RAV4 wordmark (2025). Foto de 2025. Categoría Commons: Toyota RAV4 (XA60). Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Toyota_Rav4_2.0_LE_AWD_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Toyota_Rav4_2.0_LE_AWD_2026.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "RL GNZLZ",
+      "credito": "Foto: RL GNZLZ / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4540,
+      "alto": 2554,
+      "anioOGeneracion": "2026 · 6.ª generación (XA60), 2026, solo híbrida",
+      "angulo": "desconocido",
+      "coincideConMexico": true,
+      "verificadoEl": "2026-10-20",
+      "notas": "Archivo: Toyota Rav4 2.0 LE AWD 2026. Foto de 2026. Categoría Commons: Toyota RAV4 Core. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/TOYOTA_RAV4_%28XA60%29_CHINA_SPECIFICATION_INTERIOR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:TOYOTA_RAV4_(XA60)_CHINA_SPECIFICATION_INTERIOR.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Dinkun Chen",
+      "credito": "Foto: Dinkun Chen / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 8157,
+      "alto": 4736,
+      "anioOGeneracion": "2026 · 6.ª generación (XA60), 2026, solo híbrida",
+      "angulo": "interior",
+      "coincideConMexico": false,
+      "verificadoEl": "2026-10-20",
+      "notas": "Archivo: TOYOTA RAV4 (XA60) CHINA SPECIFICATION INTERIOR. Foto de 2026. Categoría Commons: Toyota RAV4 (XA60, China). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "titulo": "Contingencia ambiental (Doble Hoy No Circula) en la Zona Metropolitana del Valle de México",
+    "fechaVerificacion": "2026-10-20",
+    "zonaHoraria": "America/Mexico_City",
+    "quienDecide": {
+      "valor": "La Comisión Ambiental de la Megalópolis (CAMe) activa y suspende las fases; el Sistema de Monitoreo Atmosférico de la CDMX (SIMAT) mide.",
+      "fuente": "SEDEMA CDMX, aire.cdmx.gob.mx, sección 'Programa para Prevenir y Responder a Contingencias Ambientales Atmosféricas en la Ciudad de México'",
+      "url": "http://www.aire.cdmx.gob.mx/default.php?opc=%27YqBhnmU=%27",
+      "fechaVerificacion": "2026-10-20"
+    },
+    "programaVigente": {
+      "valor": "Programa para Prevenir y Responder a Contingencias Ambientales Atmosféricas en la Ciudad de México, Gaceta Oficial de la CDMX No. 100 Bis, 28/05/2019. Es la última modificación que registra la tabla oficial de cambios del programa.",
+      "fuente": "Gaceta Oficial de la CDMX 28/05/2019 (copia en aire.cdmx.gob.mx) y tabla 'Modificaciones al PCAA'",
+      "url": "http://www.aire.cdmx.gob.mx/descargas/ultima-hora/calidad-aire/pcaa/Gaceta_Oficial_CDMX.pdf",
+      "urlApoyo": "http://www.aire.cdmx.gob.mx/descargas/ultima-hora/calidad-aire/pcaa/pcaa-modificaciones.pdf",
+      "fechaVerificacion": "2026-10-20"
+    },
+    "ambito": {
+      "valor": "Zona Metropolitana del Valle de México: CDMX y los municipios mexiquenses de la ZMVM. El Edomex aplica su propio programa en los 59 municipios de la ZMVM (no solo en los 18 del Hoy No Circula normal).",
+      "fuente": "Comunicado CAMe 41/2026 (12/09/2026); SMADS Edomex, página 'Exenciones a los Programas de Contingencias Ambientales Atmosféricas'",
+      "url": "https://sma.edomex.gob.mx/exenciones-programas-contingencias-ambientales-atmosfericas",
+      "fechaVerificacion": "2026-10-20"
+    }
+  },
+
+  "umbrales": {
+    "unidades": "Puntos del índice de calidad del aire (entre paréntesis, concentración)",
+    "faseI": { "ozono": "> 150 puntos (> 154 ppb, promedio de una hora)", "pm10": "> 150 puntos (> 214 µg/m3, promedio móvil 24 h)", "pm25": "> 150 puntos (> 97.4 µg/m3, promedio móvil 24 h)" },
+    "faseII": { "ozono": "> 200 puntos (> 204 ppb)", "pm10": "> 200 puntos (> 354 µg/m3)", "pm25": "> 200 puntos (> 150.4 µg/m3)" },
+    "combinada": "Ozono > 150 y PM10 o PM2.5 > 140; o ozono > 140 y PM10 o PM2.5 > 150",
+    "suspension": "≤ 150 puntos con pronóstico meteorológico favorable para el día siguiente",
+    "fasePreventivaOzono": "Pronóstico de ozono para el día siguiente > 140 puntos con 70% de probabilidad. No restringe autos particulares (solo 50% de vehículos oficiales administrativos).",
+    "fuente": "PCAA CDMX (GOCDMX 28/05/2019), Tablas 1 y 2 y tabla de medidas en transporte",
+    "url": "http://www.aire.cdmx.gob.mx/descargas/ultima-hora/calidad-aire/pcaa/Gaceta_Oficial_CDMX.pdf",
+    "fechaVerificacion": "2026-10-20"
+  },
+
+  "horario": {
+    "valor": "La restricción a autos empieza a las 05:00 del día siguiente a la declaratoria y dura hasta las 22:00 del día en que se levanta. Restricción diaria de 05:00 a 22:00, salvo que la CAMe indique otro horario.",
+    "boletines": "La CAMe emite boletines de seguimiento a las 10:00, 15:00 y 20:00 h, o antes si hace falta.",
+    "fuente": "PCAA CDMX (GOCDMX 28/05/2019), numerales VII.7 y VII.10",
+    "url": "http://www.aire.cdmx.gob.mx/descargas/ultima-hora/calidad-aire/pcaa/Gaceta_Oficial_CDMX.pdf",
+    "fechaVerificacion": "2026-10-20"
+  },
+
+  "faseI": {
+    "aplicaPorOzono": true,
+    "aplicaPorParticulas": "Solo si es 'Fase I en toda la ZMVM'. En 'Fase I regional' por partículas los autos quedan exentos de la restricción adicional.",
+    "noCirculan": [
+      { "grupo": "Holograma 2", "regla": "Todos" },
+      { "grupo": "Holograma 1", "regla": "Terminación par o non, de forma alternada respecto de la última activación. La CAMe dice en cada comunicado cuál toca." },
+      { "grupo": "Holograma 0 y 00", "regla": "Los que tengan la terminación a la que ese día le toca el Hoy No Circula normal (20%). Si es sábado o domingo, la CAMe rota en orden: 5 y 6 amarillo, 7 y 8 rosa, 3 y 4 rojo, 1 y 2 verde, 9 y 0 azul, y vuelve a empezar." },
+      { "grupo": "Sin holograma (antiguos, demostración, traslado, nuevos, permisos, pase turístico, placas foráneas o de solo letras)", "regla": "Igual que holograma 2 (según comunicados 2026)." }
+    ],
+    "taxis": "Los taxis que deban parar pueden circular de 05:00 a 10:00 h (programa 2019). En los comunicados de 2026 la restricción para taxis se aplicó de 10:00 a 22:00.",
+    "motocicletas": "Exentas en Fase I.",
+    "exentos": [
+      "Eléctricos e híbridos; matrícula ecológica; holograma Exento",
+      "Holograma 0 o 00 cuyo engomado y terminación no sean los restringidos ese día",
+      "Emergencia médica manifiesta",
+      "Servicios urbanos, emergencia, salud, seguridad, bomberos, rescate, protección civil, vigilancia ambiental y abasto de agua",
+      "Transporte escolar y de personal con holograma y autorización",
+      "Servicios funerarios con holograma vigente",
+      "Vehículos con permiso, holograma o placa para personas con discapacidad",
+      "Transporte público de pasajeros y turismo con verificación vigente",
+      "Perecederos con refrigeración y revolvedoras de concreto"
+    ],
+    "fuente": "PCAA CDMX (GOCDMX 28/05/2019), Tabla 3 (ozono) y Tabla 4 (partículas), 'Medidas aplicables en transporte'; Comunicado CAMe 41/2026 del 12/09/2026",
+    "url": "http://www.aire.cdmx.gob.mx/descargas/ultima-hora/calidad-aire/pcaa/Gaceta_Oficial_CDMX.pdf",
+    "urlComunicado": "http://www.aire.cdmx.gob.mx/contingencias/notas/comunicado41_09122026.pdf",
+    "fechaVerificacion": "2026-10-20"
+  },
+
+  "faseII": {
+    "noCirculan": "Las mismas restricciones a autos de la Fase I (holograma 2 todos; holograma 1 par o non alterno; 0 y 00 con la terminación del día) más el 50% de las motocicletas por terminación par o non alterna (exentas las eléctricas y las de servicio público). Las motos sin placa no circulan.",
+    "medidasAdicionales": "La CAMe y los gobiernos pueden agregar medidas en la declaratoria.",
+    "fuente": "PCAA CDMX (GOCDMX 28/05/2019), Tablas 3 y 4: la fila de restricción vehicular está marcada para Fase I y Fase II; la de motocicletas solo para Fase II",
+    "url": "http://www.aire.cdmx.gob.mx/descargas/ultima-hora/calidad-aire/pcaa/Gaceta_Oficial_CDMX.pdf",
+    "fechaVerificacion": "2026-10-20",
+    "nota": "La última Fase II del histórico oficial fue en diciembre de 1992; las reglas salen del programa, no de un comunicado reciente."
+  },
+
+  "estadoAlternancia": {
+    "ultimaContingencia": {
+      "tipo": "Fase I por ozono",
+      "activacion": "2026-09-12T15:00",
+      "suspension": "2026-09-13T15:00",
+      "diaConRestriccion": "2026-09-13 (domingo)",
+      "holograma1Restringido": "impares (1, 3, 5, 7 y 9)",
+      "holograma0y00Restringido": "engomado rosa, terminación 7 u 8",
+      "fuente": "CAMe, Comunicado 41/2026 y Boletín 42/2026 (12/09/2026); Comunicado 44/2026 (13/09/2026)",
+      "url": "http://www.aire.cdmx.gob.mx/contingencias/notas/comunicado41_09122026.pdf",
+      "fechaVerificacion": "2026-10-20"
+    },
+    "siguienteParidadHolograma1": null,
+    "siguienteColorFinDeSemana": null,
+    "nota": "Por la regla de alternancia, la siguiente restricción a holograma 1 debería ser a terminación par y la siguiente rotación de fin de semana iría después de rosa, pero esto es inferencia: tomar siempre el dato del comunicado."
+  },
+
+  "historial2026": {
+    "activaciones": [
+      { "contaminante": "Ozono", "fase": "I", "activacion": "2026-09-12 15:00", "suspension": "2026-09-13 15:00" },
+      { "contaminante": "Ozono", "fase": "I", "activacion": "2026-04-25 14:00", "suspension": "2026-04-26 19:00" },
+      { "contaminante": "Ozono", "fase": "I", "activacion": "2026-03-10 16:00", "suspension": "2026-03-11 20:00" },
+      { "contaminante": "Ozono", "fase": "I", "activacion": "2026-02-15 17:00", "suspension": "2026-02-17 18:00" },
+      { "contaminante": "Ozono", "fase": "I", "activacion": "2026-02-12 16:00", "suspension": "2026-02-14 20:00" },
+      { "contaminante": "Ozono", "fase": "I", "activacion": "2026-01-08 16:00", "suspension": "2026-01-09 18:00" },
+      { "contaminante": "PM2.5", "fase": "I Regional (sin restricción a autos)", "activacion": "2026-01-01 08:00", "suspension": "2026-01-01 20:00" }
+    ],
+    "fuente": "SEDEMA CDMX, 'Activación de las Contingencias Ambientales Atmosféricas (PCAA) en la ZMVM', histórico oficial",
+    "url": "http://www.aire.cdmx.gob.mx/descargas/ultima-hora/calidad-aire/pcaa/pcaa-historico-contingencias.pdf",
+    "fechaVerificacion": "2026-10-20"
+  },
+
+  "deteccionTiempoReal": {
+    "conclusion": "Sí se puede detectar automáticamente, pero no hay API, JSON ni RSS oficial: hay que leer el HTML de la portada de aire.cdmx.gob.mx (se genera en el servidor, no necesita JavaScript) y confirmar con el PDF del comunicado de la CAMe que esa misma portada liga. Es una fuente útil como disparador, pero frágil: el formato de nombres de archivos y banners cambió entre febrero y septiembre de 2026. Si la página falla o el texto no encaja en los patrones, el sitio debe decir 'No pudimos confirmarlo, consulta aire.cdmx.gob.mx' y nunca 'No hay contingencia'.",
+    "urlPrincipal": "https://aire.cdmx.gob.mx/default.php",
+    "notasUrl": "Usar https://aire.cdmx.gob.mx/default.php (sin www): el certificado de https://www.aire.cdmx.gob.mx no coincide con el nombre del sitio y curl lo rechaza. http://www.aire.cdmx.gob.mx/default.php también responde. La raíz 'http://www.aire.cdmx.gob.mx/' responde 200 con cuerpo vacío.",
+    "formato": "HTML, codificación ISO-8859-1, sin JavaScript para el recuadro de estado. Cabecera Date en GMT.",
+    "frecuenciaSugerida": "Cada 10 a 15 minutos, y siempre a las 10:05, 15:05 y 20:05 (horarios de boletines de la CAMe).",
+    "patrones": {
+      "diaNormal": {
+        "regex": "<div id='colorhnc2' style='background:url\\(images/hnc/hnc/(amarillo|rosa|rojo|verde|azul)\\.gif\\);'><strong>(\\d) y (\\d)</strong></div>",
+        "significado": "Hoy No Circula normal; no hay restricción adicional."
+      },
+      "domingo": {
+        "regex": "<div id='colorhnc2' style='background:url\\(images/hnc/hnc/blanco\\.gif\\);'></div>",
+        "significado": "No aplica (domingo). Visto en la copia archivada del 24/05/2026."
+      },
+      "proximoSabado": {
+        "regex": "<div id='colorhncsH1'>(Impar|Par|No aplica)</div>.*?<div id='colorhncsH2'>(Todos)</div>",
+        "significado": "Regla del próximo sábado para holograma 1 y 2. 'No aplica' en H1 = quinto sábado, holograma 1 circula."
+      },
+      "hayComunicado": {
+        "regex": "<div id='textohnc2' >verifique <a href=([^>]+\\.pdf)>aqui</a></div>",
+        "significado": "La CAMe publicó un comunicado. OJO: NO basta para decir que hay contingencia. Apareció también con una 'Nota de calidad del aire' el 11/02/2026 y después de la suspensión el 14/09/2026."
+      },
+      "titularDelComunicado": {
+        "regex": "<a class='slideshow' href='[^']*contingencias/notas/([^']+\\.pdf)'>\\s*<img[^>]*>\\s*<h3>([^<]+(?:<br>[^<]+)*)</h3>",
+        "clasificacion": [
+          { "si": "SE SUSPENDE", "estado": "suspendida (Hoy No Circula normal)" },
+          { "si": "(SE ACTIVA|SE MANTIENE|CONTIN(U|Ú)A).*(FASE (I|1|II|2)|CONTINGENCIA)", "estado": "contingencia activa" },
+          { "si": "NOTA DE CALIDAD DEL AIRE|FASE PREVENTIVA", "estado": "aviso sin restricción a autos particulares" },
+          { "si": "cualquier otro texto", "estado": "indeterminado: mostrar liga oficial y avisar al equipo" }
+        ]
+      },
+      "confirmarEnPDF": {
+        "descripcion": "Descargar el PDF del comunicado (tiene texto extraíble) y, antes de aplicar las regex, reemplazar todo grupo de espacios y saltos de línea por un solo espacio. Primeras líneas: número de comunicado, fecha, hora y titular (SE ACTIVA / SE MANTIENE / SE SUSPENDE ...). Sección 'Restricciones a la circulación en el Sector Transporte'.",
+        "regexDia": "Mañana (\\w+) (\\d{1,2}) de (\\w+),? deberán suspender su circulación, en horario de las (\\d{1,2}:\\d{2}) a las (\\d{1,2}:\\d{2}) horas",
+        "regexHolograma1": "holograma de verificación 1\\s*,\\s*(?:terminación de placa|cuyo último\\s+dígito\\s+numérico sea)\\s*(\\d(?:\\s*(?:,|y)\\s*\\d)*)",
+        "regexHolograma0y00": "holograma de verificación 0 y 00, engomado (\\w+), terminación de\\s+placa (\\d) u (\\d)",
+        "nota": "El texto cambia entre comunicados: el 17/02/2026 decía 'cuyo último dígito numérico sea 2, 4, 6, 7, 8 y 0' y el 13/09/2026 'terminación de placa 1, 3, 5, 7 y 9'. Por eso hay dos variantes en la regex."
+      }
+    },
+    "ejemploHoy": {
+      "consultado": "2026-10-20T02:11:06-06:00 (cabecera Date: Tue, 20 Oct 2026 08:11:06 GMT)",
+      "url": "https://aire.cdmx.gob.mx/default.php",
+      "htmlRelevante": [
+        "<div id='calidadairefechaahora'>Ciudad de M&eacute;xico, martes 20 de octubre de 2026</div>",
+        "<div id='renglondosdatoscalidadaireahora'><strong>&Iacute;ndice AIRE Y SALUD: ACEPTABLE</strong> ...</div>",
+        "<div id='textohnc2'>Hoy no circulan:&nbsp;</div>",
+        "<div id='colorhnc2' style='background:url(images/hnc/hnc/rosa.gif);'><strong>7 y 8</strong></div>",
+        "<div id='textohncsH1'>H1</div><div id='colorhncsH1'>Par</div>",
+        "<div id='textohncsH2'>H2</div><div id='colorhncsH2'>Todos</div>"
+      ],
+      "ligasAContingencias": 0,
+      "resultado": "Sin contingencia. Hoy No Circula normal: martes, engomado rosa, terminaciones 7 y 8."
+    },
+    "ejemploConContingencia": {
+      "consultado": "2026-09-13T05:46:01-06:00 (copia archivada de la portada oficial)",
+      "url": "https://web.archive.org/web/20260913114601/http://www.aire.cdmx.gob.mx/default.php",
+      "htmlRelevante": [
+        "<div id='textohnc2'>:&nbsp;</div>",
+        "<div id='textohnc2' >verifique <a href=https://www.aire.cdmx.gob.mx/contingencias/notas/comunicado42_09122026.pdf>aqui</a></div>",
+        "<img src='contingencias/banners/FASE1/OZONO/MANTIENE/banner.jpg' alt='Noticia 1'>",
+        "<h3>SE MANTIENE LA FASE I DE CONTINGENCIA AMBIENTAL ATMOSFERICA POR OZONO EN LA ZONA METROPOLITANA DEL VALLE DE MEXICO</h3>"
+      ],
+      "resultado": "Contingencia activa, Fase I por ozono."
+    },
+    "ejemploDespuesDeSuspension": {
+      "consultado": "2026-09-14T04:09:06-06:00 (copia archivada)",
+      "url": "https://web.archive.org/web/20260914100906/http://www.aire.cdmx.gob.mx/default.php",
+      "htmlRelevante": [
+        "<div id='textohnc2' >verifique <a href=https://www.aire.cdmx.gob.mx/contingencias/notas/comunicado44_09122026.pdf>aqui</a></div>",
+        "<img src='contingencias/banners/FASE1/OZONO/SUSPENDE/banner.jpg' alt='Noticia 1'>",
+        "<h3>SE SUSPENDE LA CONTINGENCIA AMBIENTAL ATMOSFERICA POR OZONO EN LA ZONA METROPOLITANA DEL VALLE DE MEXICO (ZMVM)</h3>"
+      ],
+      "resultado": "Suspendida, aunque el recuadro siga diciendo 'verifique aquí'. Por eso hay que leer el titular."
+    },
+    "ejemploAvisoSinContingencia": {
+      "consultado": "2026-02-11T22:07:21-06:00 (copia archivada)",
+      "url": "https://web.archive.org/web/20260212040721/http://www.aire.cdmx.gob.mx/default.php",
+      "htmlRelevante": [
+        "<div id='textohnc2' >verifique <a href=http://www.aire.cdmx.gob.mx/contingencias/notas/comunicado-02112026.pdf>aqui</a></div>",
+        "<img src='http://www.aire.cdmx.gob.mx/contingencias/banners/COMUNICADO-CAMe.jpg' alt='Noticia 1'>",
+        "<h3>NOTA DE CALIDAD DEL AIRE <br> OZONO ZMVM</h3>"
+      ],
+      "resultado": "Aviso, no contingencia (la Fase I se activó hasta el 12/02/2026 a las 16:00)."
+    },
+    "variacionesDeFormato": "Los nombres cambian: 'comunicado-02122026.pdf', 'comunicado5-02152026.pdf' (feb 2026) y 'comunicado41_09122026.pdf' (sep 2026); banners 'contingencias/banners/2-OZONO.jpg' (feb) y 'contingencias/banners/FASE1/OZONO/MANTIENE/banner.jpg' (sep). No adivinar URLs: tomar la liga que publica la portada.",
+    "fuentesDescartadas": [
+      { "fuente": "gob.mx/comisionambiental (CAMe)", "motivo": "Responde con una página de verificación antibots ('Challenge Validation'); no es apta para lectura automática y no debe evadirse.", "fechaVerificacion": "2026-10-20" },
+      { "fuente": "aire.cdmx.gob.mx/api, /rss.xml, /feed, /contingencias/", "motivo": "404 o respuesta vacía; no se encontró API ni RSS públicos.", "fechaVerificacion": "2026-10-20" },
+      { "fuente": "ultima-hora-reporte.php de aire.cdmx.gob.mx", "motivo": "Trae índice y estaciones pero no el estado de contingencia.", "fechaVerificacion": "2026-10-20" },
+      { "fuente": "App 'Aire CDMX' (iOS y Android)", "motivo": "No se encontró documentación de su API; no se usó.", "fechaVerificacion": "2026-10-20" }
+    ],
+    "fuente": "SEDEMA CDMX, portada de aire.cdmx.gob.mx (en vivo) y copias archivadas de la misma portada; comunicados CAMe alojados en aire.cdmx.gob.mx",
+    "url": "https://aire.cdmx.gob.mx/default.php",
+    "fechaVerificacion": "2026-10-20"
+  },
+
+  "valleDeToluca": {
+    "programa": "Programa para la atención de Contingencias Ambientales Atmosféricas en la ZMVT y la ZMST (Gaceta del Gobierno, 18/02/2022), con restricción por terminación de placa en Fases I y II.",
+    "fuente": "Acuerdo Hoy No Circula ZMVT y ZMST (Gaceta del Gobierno 30/06/2025), considerandos y artículo Quinto",
+    "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/files/TramitesServicios/VerificacioVehicular/HoyNoCircula/jun301c.pdf",
+    "fechaVerificacion": "2026-10-20",
+    "reglasFaseIyII": null,
+    "fuenteTiempoReal": null
+  },
+
+  "pendientes": [
+    "Fuente en tiempo real para contingencias del Valle de Toluca (ZMVT/ZMST) y las reglas de restricción de su programa de 2022 (la página de SMADS lo muestra en un visor 'flipbook' no legible automáticamente).",
+    "Confirmar con SEDEMA si existe un servicio de datos para la app 'Aire CDMX' que se pueda usar de forma oficial.",
+    "Paridad de holograma 1 y color de fin de semana para la siguiente contingencia: no se publican por adelantado; se leen del comunicado.",
+    "La portada de aire.cdmx.gob.mx no es un contrato estable: conviene una alerta interna si cambia la estructura (por ejemplo, si desaparece el div 'colorhnc2')."
+  ]
+}

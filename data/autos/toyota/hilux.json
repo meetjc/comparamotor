@@ -1,0 +1,120 @@
+{
+  "marca": "Toyota",
+  "marcaSlug": "toyota",
+  "modelo": "Hilux",
+  "slug": "hilux",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Doble Cabina Base",
+      "anio": 2027,
+      "precio": 570900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.7 L 4 cil.",
+      "potenciaHp": 164,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial y ficha técnica MY27, actualizada agosto 2026)",
+      "url": "https://www.toyota.mx/modelos/pickup/hilux/",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Capacidad de carga 810 kg. 7 bolsas de aire (frontales 2, laterales 2, cortina 2, rodillas 1). La marca no lista frenado autónomo de emergencia en el equipamiento; no confirmado. Rendimiento oficial no publicado. Gasolina, tracción 2WD (RWD), manual de 5 velocidades. La ficha combina las celdas de Base y SR en motor y transmisión. La promoción de octubre 2026 aplica a 'modelos 2026'."
+    },
+    {
+      "nombre": "Doble Cabina SR",
+      "anio": 2027,
+      "precio": 620900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.7 L 4 cil.",
+      "potenciaHp": 164,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial y ficha técnica MY27, actualizada agosto 2026)",
+      "url": "https://www.toyota.mx/modelos/pickup/hilux/",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Capacidad de carga 810 kg. 7 bolsas de aire (frontales 2, laterales 2, cortina 2, rodillas 1). La marca no lista frenado autónomo de emergencia en el equipamiento; no confirmado. Rendimiento oficial no publicado. Gasolina, tracción 2WD (RWD); modos de manejo ECO/PWR. Transmisión manual de 5 velocidades según celda combinada Base/SR de la ficha. La promoción de octubre 2026 aplica a 'modelos 2026'."
+    },
+    {
+      "nombre": "Doble Cabina Diésel MT",
+      "anio": 2027,
+      "precio": 720900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.8 L 4 cil. diésel",
+      "potenciaHp": 201,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial y ficha técnica MY27, actualizada agosto 2026)",
+      "url": "https://www.toyota.mx/modelos/pickup/hilux/",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Capacidad de carga 810 kg. 7 bolsas de aire (frontales 2, laterales 2, cortina 2, rodillas 1). La marca no lista frenado autónomo de emergencia en el equipamiento; no confirmado. Rendimiento oficial no publicado. Diésel, tracción 4WD part time, manual de 6 velocidades."
+    },
+    {
+      "nombre": "Doble Cabina DSL AT MHEV",
+      "anio": 2027,
+      "precio": 880900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.8 L 4 cil. diésel (mild hybrid, MHEV)",
+      "potenciaHp": 201,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial y ficha técnica MY27, actualizada agosto 2026)",
+      "url": "https://www.toyota.mx/modelos/pickup/hilux/",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Capacidad de carga 810 kg. 7 bolsas de aire (frontales 2, laterales 2, cortina 2, rodillas 1). La marca no lista frenado autónomo de emergencia en el equipamiento; no confirmado. Rendimiento oficial no publicado. Diésel con sistema mild hybrid (MHEV), tracción 4WD part time, automática de 6 velocidades."
+    }
+  ],
+  "garantia": {
+    "texto": "36 meses o 60,000 km, lo que ocurra primero (garantía de todos los autos nuevos Toyota; cubre defectos de materiales o mano de obra)",
+    "fuente": "Toyota México (sitio oficial, Cuidamos tu auto)",
+    "url": "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Hilux Doble Cabina SR y Base modelo 2026: bono de $15,000 aplicado al precio del vehículo, con tasa de interés desde 10.99% y comisión por apertura 2.50% (Toyota Financial Services)",
+      "precioOferta": null,
+      "condicion": "Plazos de 12 a 72 meses; enganche desde 10%; aplica a todos los esquemas de financiamiento; sujeto a aprobación de crédito; requiere seguro de daños y seguro de vida crédito; CAT 11.7% sin IVA informativo (calculado al 28-sep-2026); no acumulable. La promoción nombra 'modelos 2026'",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Toyota México / Toyota Financial Services México (toyota.mx/estrena y toyotacredito.com.mx)",
+      "url": "https://toyotacredito.com.mx/Portal/promociones",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "descripcion": "Hilux Doble Cabina SR y Base modelo 2026: tasa de interés desde 7.99% y comisión por apertura 2.50%, solo Plan Tradicional (sin bono)",
+      "precioOferta": null,
+      "condicion": "Plazo únicamente de 24 meses; monto máximo a financiar $381,400; CAT 8.4% sin IVA informativo; no aplica el bono; no acumulable",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Toyota México / Toyota Financial Services México (toyota.mx/estrena y toyotacredito.com.mx)",
+      "url": "https://toyotacredito.com.mx/Portal/promociones",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.toyota.mx/modelos/pickup/hilux/",
+    "https://www.toyota.mx/content/dam/tmex/hilux/ficha/2026/Ficha_HILUX_27_web2.pdf.coredownload.pdf",
+    "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/",
+    "https://toyotacredito.com.mx/Portal/promociones",
+    "https://www.toyota.mx/estrena/"
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia no confirmado en ninguna versión (la marca no lo lista en el equipamiento de Hilux)",
+    "Rendimiento combinado oficial no publicado por Toyota para Hilux",
+    "Año modelo: la ficha técnica oficial dice MY 27 (actualizada agosto 2026), pero el aviso de promociones de octubre 2026 menciona 'modelos 2026' para Hilux; confirmar si se venden ambos años",
+    "Propulsión: gasolina (Base, SR) y diésel (Diésel MT, DSL AT MHEV); el campo propulsion se dejó en gasolina",
+    "Potencia de Base y SR: 164 HP según ficha (celda combinada); la página solo publica el torque (181 lb-pie)"
+  ]
+}

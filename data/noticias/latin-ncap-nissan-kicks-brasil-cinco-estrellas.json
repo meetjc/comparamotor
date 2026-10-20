@@ -1,0 +1,79 @@
+{
+  "slug": "latin-ncap-nissan-kicks-brasil-cinco-estrellas",
+  "titulo": "Latin NCAP confirma cinco estrellas para el Nissan Kicks fabricado en Brasil",
+  "tema": "seguridad",
+  "fechaFuente": "2026-10-13",
+  "fuentes": [
+    {
+      "nombre": "Latin NCAP, Actualización de resultado: se confirman las cinco estrellas para el Nissan Nuevo Kicks 2025 fabricado en Brasil",
+      "url": "https://www.latinncap.com/es/area-de-prensa/noticia/86ace242bb7b07/actualizacion-de-resultado-de-latin-ncap-se-confirman-las-cinco-estrellas-para-el-nissan-nuevo-kicks-2025-fabricado-en-brasil",
+      "fecha": "2026-10-13"
+    },
+    {
+      "nombre": "Latin NCAP, resultado Nissan Nuevo Kicks (6 bolsas de aire)",
+      "url": "https://latinncap.com/es/resultado/210/nissan-nuevo-kicks-+-6-airbags",
+      "fecha": "2026-10-13"
+    },
+    {
+      "nombre": "Latin NCAP, Área de prensa: noticias",
+      "url": "https://www.latinncap.com/es/area-de-prensa/noticias",
+      "fecha": "2026-10-20",
+      "nota": "Listado consultado el 20 de octubre de 2026; la última entrada es la del 13 de octubre"
+    }
+  ],
+  "datosClave": [
+    {
+      "dato": "Calificación del Nissan Nuevo Kicks (6 bolsas de aire)",
+      "valor": "5 estrellas, también válida para la versión fabricada en Brasil",
+      "fuente": "Latin NCAP, comunicado del 13 oct 2026"
+    },
+    {
+      "dato": "Protección de ocupante adulto",
+      "valor": "86.29%",
+      "fuente": "Latin NCAP, comunicado del 13 oct 2026"
+    },
+    {
+      "dato": "Protección de ocupante infantil",
+      "valor": "91.66%",
+      "fuente": "Latin NCAP, comunicado del 13 oct 2026"
+    },
+    {
+      "dato": "Protección a peatones y usuarios vulnerables de las vías",
+      "valor": "72.79%",
+      "fuente": "Latin NCAP, comunicado del 13 oct 2026"
+    },
+    {
+      "dato": "Sistemas de asistencia a la seguridad",
+      "valor": "85.17%",
+      "fuente": "Latin NCAP, comunicado del 13 oct 2026"
+    },
+    {
+      "dato": "Evaluación original de la versión hecha en México",
+      "valor": "2025, con cinco estrellas",
+      "fuente": "Latin NCAP, comunicado del 13 oct 2026"
+    },
+    {
+      "dato": "Diferencias encontradas en la versión brasileña",
+      "valor": "Sin apertura de puerta en el impacto lateral (sí ocurrió en la mexicana); área de pies inestable y protección marginal en latigazo cervical por cambios en los asientos",
+      "fuente": "Latin NCAP, comunicado del 13 oct 2026"
+    },
+    {
+      "dato": "Tipo de prueba",
+      "valor": "Prueba de auditoría; el modelo fue evaluado por decisión voluntaria del fabricante",
+      "fuente": "Latin NCAP, comunicado del 13 oct 2026"
+    },
+    {
+      "dato": "Próximos resultados de Latin NCAP",
+      "valor": "Comenzará a presentar en los próximos días modelos evaluados con el protocolo actualizado",
+      "fuente": "Latin NCAP, comunicado del 13 oct 2026"
+    }
+  ],
+  "resumen": "Latin NCAP revisó el Nissan Nuevo Kicks que se fabrica en Brasil y concluyó que mantiene las cinco estrellas que ya había logrado la versión hecha en México en 2025. La prueba de auditoría mostró buen desempeño general y corrigió un problema previo: la puerta ya no se abrió en el impacto lateral. El organismo sí anotó un área de pies inestable y una protección marginal contra latigazo cervical, atribuidas a cambios en los asientos. Con la actualización, el resultado final quedó en 86.29% para adultos, 91.66% para niños, 72.79% para peatones y 85.17% en asistencias de seguridad. Latin NCAP también adelantó que pronto publicará resultados bajo su nuevo protocolo.",
+  "modelosMencionados": [
+    {
+      "marca": "Nissan",
+      "modelo": "Kicks"
+    }
+  ],
+  "fechaVerificacion": "2026-10-20"
+}

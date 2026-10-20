@@ -1,0 +1,35 @@
+{
+  "estado": "Veracruz",
+  "slug": "veracruz",
+  "programa": "Programa de Verificación Vehicular Obligatoria del Estado de Veracruz (Secretaría de Medio Ambiente, SEDEMA). La página oficial lo describe como obligatorio y permanente, semestral por último dígito de placa, con pruebas dinámica, estática y de opacidad (diésel) en verificentros y centros autorizados; constancias DE (dinámico estatal), E (estatal) y Rechazo. La página no indica el año del programa.",
+  "obligatoria": true,
+  "calendario": {
+    "criterio": "Color de engomado y último dígito de la placa; cada semestre",
+    "terminaciones": [
+      { "engomado": "Amarillo", "digito": "5 y 6", "primerPeriodo": "Enero - Febrero", "segundoPeriodo": "Julio - Agosto" },
+      { "engomado": "Rosa", "digito": "7 y 8", "primerPeriodo": "Febrero - Marzo", "segundoPeriodo": "Agosto - Septiembre" },
+      { "engomado": "Rojo", "digito": "3 y 4", "primerPeriodo": "Marzo - Abril", "segundoPeriodo": "Septiembre - Octubre" },
+      { "engomado": "Verde", "digito": "1 y 2", "primerPeriodo": "Abril - Mayo", "segundoPeriodo": "Octubre - Noviembre" },
+      { "engomado": "Azul", "digito": "9 y 0", "primerPeriodo": "Mayo - Junio", "segundoPeriodo": "Noviembre - Diciembre" }
+    ],
+    "notas": "Vehículos nuevos o de primer registro en el estado: verificar por única vez dentro de 60 días naturales de la nueva tarjeta de circulación. Excluye motocicletas y vehículos de colección. Vehículos de otras entidades pueden verificar de forma voluntaria (holograma de 180 días)."
+  },
+  "costo2026": null,
+  "costoReferencias": {
+    "detalle": "No se localizó una tarifa publicada para 2026. La SEFIPLAN publicó en su calendario de verificación (2025) un costo de $476.00 para 2025, ajustado con la UMA. La versión del Código de Derechos para el Estado de Veracruz publicada por Finanzas en mayo de 2025 fija la verificación dinámica en 4.2035 UMA; con la UMA 2026 de INEGI ($117.31) serían $493.11 (cálculo propio, sin confirmar que 2026 mantenga esa cuota). La página de preguntas frecuentes de SEDEMA cita $365.20 (cinco días de salario mínimo) y es información desactualizada."
+  },
+  "portalCita": null,
+  "fuentes": [
+    { "nombre": "Programa de Verificación Vehicular Obligatorio, SEDEMA Veracruz", "url": "https://www.veracruz.gob.mx/medioambiente/programa-de-verificacion-vehicular-obligatorio-prueba/" },
+    { "nombre": "Calendario de verificación vehicular (SEFIPLAN, documento con costo 2025)", "url": "https://www.ovh.gob.mx/wp-content/uploads/2026/12/VERIFICACION-VEHICULAR-CALENDARIO.pdf" },
+    { "nombre": "Preguntas frecuentes de verificación vehicular, SEDEMA Veracruz (desactualizada en costos)", "url": "https://www.veracruz.gob.mx/medioambiente/programaverificaciondinamica/" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "El costo 2026 no está confirmado en fuente oficial; confirmar el Código de Derechos vigente en la Gaceta Oficial o con un verificentro.",
+    "La página del programa no indica año de vigencia ni fecha de publicación en la Gaceta Oficial; el calendario por dígito coincide con el esquema usado en 2025.",
+    "No se localizó portal oficial de citas; el servicio se presta en verificentros y centros de verificación autorizados.",
+    "En 2025 hubo decretos de subsidio de 100% a verificaciones atrasadas (hasta el 30 de junio de 2025); no se encontró uno para 2026."
+  ]
+}

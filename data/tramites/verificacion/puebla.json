@@ -1,0 +1,36 @@
+{
+  "estado": "Puebla",
+  "slug": "puebla",
+  "programa": "Programa de Verificación Vehicular Obligatoria (PVVO) del Estado de Puebla, expedido por semestre por la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. El del segundo semestre de 2026 se publicó en el Periódico Oficial el 30 de junio de 2026 (Tomo DCXIV, Núm. 22, Tercera Sección); su art. 56 contiene el calendario de ambos semestres de 2026.",
+  "obligatoria": true,
+  "calendario": {
+    "criterio": "Último dígito de la placa de circulación (periodos bimestrales dentro de cada semestre)",
+    "terminaciones": [
+      { "digito": "5 y 6", "primerSemestre": "Enero - Febrero", "segundoSemestre": "Julio - Agosto" },
+      { "digito": "7 y 8", "primerSemestre": "Febrero - Marzo", "segundoSemestre": "Agosto - Septiembre" },
+      { "digito": "3 y 4", "primerSemestre": "Marzo - Abril", "segundoSemestre": "Septiembre - Octubre" },
+      { "digito": "1 y 2", "primerSemestre": "Abril - Mayo", "segundoSemestre": "Octubre - Noviembre" },
+      { "digito": "9 y 0", "primerSemestre": "Mayo - Junio", "segundoSemestre": "Noviembre - Diciembre" }
+    ],
+    "notas": "Los hologramas Doble Cero (00) y Exento (E) tienen vigencia extendida que exime de la verificación semestral; al vencer su certificado deben verificar en el periodo que corresponda a su placa. Quedan fuera maquinaria agrícola, de construcción y minería no carretera, y otras categorías listadas en el programa (por ejemplo placas de demostración o auto antiguo)."
+  },
+  "costo2026": {
+    "monto": 628,
+    "unidad": "MXN",
+    "aplica": "Holograma/certificado tipo 00, 0, 1 y 2 (tarifa autorizada, art. 57 del Programa)",
+    "detalle": "Fotocopias en el centro: máximo $1.50 por copia. Holograma Exento, reposición de certificado y constancias se cobran conforme a la Ley de Ingresos del Estado."
+  },
+  "multaExtemporanea": "20 UMA por verificar fuera del periodo (con UMA 2026 de $117.31 = $2,346.20), pagable en https://rl.puebla.gob.mx/multas/verificacion; la UMA 2026 es valor INEGI.",
+  "portalCita": "https://verificacionvehicular.puebla.gob.mx",
+  "fuentes": [
+    { "nombre": "Programa de Verificación Vehicular Obligatoria, segundo semestre 2026 (Periódico Oficial de Puebla, 30-jun-2026, Tercera Sección)", "url": "https://verificacionvehicular.puebla.gob.mx/assets/pdf/Programa_Verificacion_Vehicular_Obligatorio.pdf" },
+    { "nombre": "Ficha oficial 'Verificación Vehicular Estatal' (SMADSOT-80044-T), Ventanilla Digital Puebla (actualizada 08-jul-2026)", "url": "https://testventanilla.puebla.gob.mx/web/fichaAsunto.do?opcion=0&asas_ide_asu=1812&ruta=/web/asuntosMasUsuales.do?opcion" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "El programa del primer semestre 2026 (publicado el 31-dic-2025 según prensa) no se leyó directamente; su calendario coincide con la tabla del art. 56 del programa del segundo semestre.",
+    "El programa del primer semestre de 2027 aún no está publicado; el calendario y costo de 2027 pueden cambiar.",
+    "La ficha de trámite está alojada en el dominio 'testventanilla.puebla.gob.mx' (espejo del portal oficial); conviene enlazar a la ficha en ventanilla.puebla.gob.mx cuando se confirme su URL."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "estado": "Nayarit",
+  "slug": "nayarit",
+  "cobraTenencia2026": false,
+  "tenencia": "La Ley de Ingresos del Estado de Nayarit para 2026 (Periódico Oficial, 29 de diciembre de 2025), art. 1, enumera como impuestos estatales: juegos y apuestas, cedulares, predial, hospedaje, bebidas alcohólicas, adquisición de vehículos usados (2%), adquisición de inmuebles, nóminas y el ecológico por transporte de materiales pétreos. No incluye impuesto sobre tenencia o uso de vehículos. El pago anual vehicular es el derecho de control vehicular (refrendo de tarjeta de circulación y verificación anual). La página oficial de la SAF titulada 'Tenencia' solo atiende adeudos de 'Refrendo 2014 y anteriores'.",
+  "refrendo": {
+    "nombreLocal": "Refrendo de registro y control vehicular: expedición de tarjeta de circulación con vigencia 2026 (art. 23, fracc. II, Ley de Ingresos) más Verificación Anual de Vehículos (art. 34, fracc. IV, inciso b)",
+    "monto2026": 832.9,
+    "unidad": "MXN (cálculo propio)",
+    "detalle": "Tarjeta de circulación 2026: 5.7 UMA = $668.67; Verificación anual de vehículos: 1.4 UMA = $164.23 (UMA INEGI 2026 = $117.31). Suma $832.90. La ficha oficial del trámite (con la Ley de Ingresos 2025) cobraba $809.00 ($644.90 + $158.40 + $6.00 de aportación a la Cruz Roja Mexicana); el portal no publica aún el monto 2026 en pesos en la ficha consultada. Reemplacamiento por canje total de placas en 2026 (obligatorio durante el ejercicio fiscal 2026): servicio privado 16.9 UMA = $1,982.64; motocicleta y remolque 8.5 UMA = $997.14."
+  },
+  "fechaLimite": "Refrendo (tarjeta y verificación anual): a más tardar el 31 de marzo de cada año (ficha oficial 880). Reemplacamiento general: hasta el 31 de diciembre de 2026 (banner del portal oficial y art. 23 de la Ley de Ingresos 2026).",
+  "descuentos": [
+    "Decreto publicado el 1 de abril de 2026 (vigencia 1 de abril al 30 de junio de 2026, ya concluida): 15% de condonación en placas, en la tarjeta de circulación 2026 y en la verificación anual 2026; 100% de condonación de recargos y actualización del refrendo y verificación 2026 y anteriores; 50% de la multa por falta de reemplacamiento 2022; para vehículos de servicio privado. No se localizó un decreto posterior de julio a diciembre.",
+    "Ley de Ingresos 2026, Tercero Transitorio: 50% de descuento a personas con discapacidad o adultas mayores en licencia, placas y tarjeta de circulación de un solo vehículo de su propiedad que no sea de servicio público (placas y tarjeta, solo ejercicio 2026).",
+    "La Ley de Ingresos 2026 autoriza a la SAF a emitir estímulos en derechos de registro y control vehicular mediante decreto o acuerdo del Ejecutivo."
+  ],
+  "portalPago": "https://hacienda.minayarit.gob.mx/pagos/consulta-de-adeudos/vehiculo-4",
+  "portalesComplementarios": ["https://hacienda.minayarit.gob.mx/", "https://citasvehiculares.nayarit.gob.mx/"],
+  "fuentes": [
+    { "nombre": "Ley de Ingresos del Estado de Nayarit, ejercicio fiscal 2026 (Periódico Oficial, 29-dic-2025; Congreso de Nayarit)", "url": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes_ingresos_presupuesto/2026/ley_de_ingresos_del_estado_libre_y_soberano_de_nayarit_2026.pdf" },
+    { "nombre": "Decreto de estímulos fiscales vehiculares, Periódico Oficial de Nayarit, 1-abr-2026 (Sección Segunda, Tomo CCXVIII)", "url": "https://periodicooficial.nayarit.gob.mx/descargar_pdf.php?archivo=D%20010426%20(02).pdf" },
+    { "nombre": "Ficha de trámite 880: Pago derecho sobre expedición de tarjeta y verificación vehicular (Gobierno de Nayarit)", "url": "https://tramites.nayarit.gob.mx/ciudadano/ficha/880" },
+    { "nombre": "Ventanilla Única de Atención Ciudadana, Secretaría de Administración y Finanzas (portal de pagos y aviso de reemplacamiento 2026)", "url": "https://hacienda.minayarit.gob.mx/" },
+    { "nombre": "SAF Nayarit, página 'Tenencia' (solo refrendo 2014 y anteriores)", "url": "https://www.hacienda-nayarit.gob.mx/armonizacion/tenencia.php" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "La ausencia de tenencia se deduce de la lista de impuestos del art. 1 de la Ley de Ingresos 2026; no se localizó un pronunciamiento expreso de la SAF que diga 'no se cobra tenencia'.",
+    "El monto en pesos del refrendo 2026 es cálculo propio (UMA × valor INEGI); la ficha 880 todavía muestra la cifra 2025 ($809). Confirmar con la consulta de adeudos con placa.",
+    "No se confirmó si la aportación a la Cruz Roja ($6.00 en la ficha) sigue en 2026.",
+    "Una guía de Kavak afirma exención total para autos de $400,000 o menos; no se encontró respaldo en fuente oficial y no se incluye.",
+    "No se verificó si hubo decretos de estímulos posteriores al 30 de junio de 2026 ni el decreto de enero a marzo de 2026."
+  ]
+}

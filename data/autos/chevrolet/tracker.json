@@ -1,0 +1,75 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Tracker",
+  "slug": "tracker",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "LT AT (C)",
+      "anio": 2026,
+      "precio": 537500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.2 L 3 cil. turbo",
+      "potenciaHp": 130,
+      "rendimientoCombinadoKmL": 18.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/precios-y-planes",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio de lista $537,500; precio de contado $457,500; precio financiado/leasing $425,000 (publicados en la tabla de precios, que carga desde un widget embebido: https://ppigmm.com.mx/servicios/html_gmds/2026/tracker/CHTRA01/precios.html). Automática de 6 velocidades. Rendimiento oficial: ciudad 15.8, carretera 24.0, combinado 18.6 km/l. Alerta de colisión frontal y asistente de colisión frontal inminente: no disponibles en esta versión. Especificaciones: https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/equipamiento."
+    },
+    {
+      "nombre": "Premier AT (D)",
+      "anio": 2026,
+      "precio": 582500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.2 L 3 cil. turbo",
+      "potenciaHp": 130,
+      "rendimientoCombinadoKmL": 18.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/precios-y-planes",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio de lista $582,500; precio de contado $502,500; precio financiado/leasing $472,500. Automática de 6 velocidades. Rendimiento oficial: ciudad 15.8, carretera 24.3, combinado 18.7 km/l. Incluye alerta de colisión frontal, asistente de colisión frontal inminente y alerta de punto ciego; la ficha no usa el término 'frenado autónomo', por eso el campo queda sin confirmar."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "48 meses sin intereses + 1 año de seguro gratis + 0% de comisión por apertura + bono de hasta $33,400 (paquete C, LT; $29,700 en paquete D, Premier; incluye toma a cuenta de hasta $10,000) + comienza a pagar en febrero 2027. Precio financiado desde $425,000 (LT AT) y $472,500 (Premier AT).",
+      "precioOferta": 425000,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas. Sujeto a inventario en distribuidores participantes. Los meses sin intereses y el bono son independientes y excluyentes entre sí. Primera mensualidad hasta en 120 días (febrero 2027). CAT promedio 19.2% sin IVA (informativo).",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/precios-y-planes",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/precios-y-planes",
+    "https://ppigmm.com.mx/servicios/html_gmds/2026/tracker/CHTRA01/precios.html",
+    "https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/equipamiento",
+    "https://www.chevrolet.com.mx/garantia"
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia de Premier AT (D) sin confirmar: la ficha lista 'Alerta de colisión frontal' y 'Asistente de colisión frontal inminente' sin mencionar frenado.",
+    "La tabla de precios de la página oficial se carga desde un widget embebido (ppigmm.com.mx); no se incluye en el HTML directo de chevrolet.com.mx.",
+    "Chevrolet México vende además la Trax 2026 como modelo distinto (desde $473,300); este archivo es solo del Tracker (1.2 L turbo, 130 hp).",
+    "El precio de contado ($457,500 y $502,500) es menor que el de lista; la página no desglosa el bono de contado."
+  ]
+}

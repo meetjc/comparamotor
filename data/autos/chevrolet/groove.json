@@ -1,0 +1,107 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Groove",
+  "slug": "groove",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "LT MT",
+      "anio": 2027,
+      "precio": 421500,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 149,
+      "rendimientoCombinadoKmL": 18.53,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/groove-camioneta-pequena/precios-y-promociones",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $353,500 (bono de $58,000 sobre lista + toma a cuenta de hasta $10,000; paquete D). Manual de 6 velocidades. Rendimiento oficial: ciudad 15.97, carretera 23.03, combinado 18.53 km/l. Especificaciones: https://www.chevrolet.com.mx/suvs/groove-camioneta-pequena/especificaciones-automotriz. Frenado de Emergencia Automático disponible según la ficha de equipamiento."
+    },
+    {
+      "nombre": "LT CVT",
+      "anio": 2027,
+      "precio": 469300,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 149,
+      "rendimientoCombinadoKmL": 16.58,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/groove-camioneta-pequena/precios-y-promociones",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $414,300. Transmisión CVT (la ficha de equipamiento la nombra 'LT AT'). Rendimiento oficial: ciudad 13.95, carretera 21.53, combinado 16.58 km/l. Frenado de Emergencia Automático disponible según la ficha de equipamiento."
+    },
+    {
+      "nombre": "RS CVT",
+      "anio": 2027,
+      "precio": 501400,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 149,
+      "rendimientoCombinadoKmL": 16.58,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/groove-camioneta-pequena/precios-y-promociones",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $491,400. Transmisión CVT (la ficha de equipamiento la nombra 'RS CVT AT'; la tabla de precios la nombra 'RS'). Rendimiento oficial: ciudad 13.95, carretera 21.53, combinado 16.58 km/l. Frenado de Emergencia Automático disponible según la ficha de equipamiento."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "40 meses sin intereses (opción de financiamiento) o precio desde $353,500 (LT MT, con bono de $58,000 sobre lista y toma a cuenta de hasta $10,000). Precios financiados: LT MT $353,500; LT CVT $414,300; RS $491,400.",
+      "precioOferta": 353500,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas. Sujeto a inventario en distribuidores participantes. Solo en financiamiento o arrendamiento con GM Financial; el bono no es acumulable. CAT promedio 19.2% sin IVA (informativo).",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/groove-camioneta-pequena/precios-y-promociones",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "descripcion": "1 año de seguro de daños gratis en todos los paquetes del Groove 2027.",
+      "precioOferta": null,
+      "condicion": "Solo aseguradoras participantes; no incluye otros seguros; no acumulable con promociones de otras aseguradoras.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/groove-camioneta-pequena/precios-y-promociones",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "descripcion": "Comienza a pagar en febrero 2027: primera mensualidad hasta en 120 días.",
+      "precioOferta": null,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas. Sujeto a inventario en distribuidores participantes. El plazo puede variar según la fecha de contratación.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/groove-camioneta-pequena/precios-y-promociones",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.chevrolet.com.mx/suvs/groove-camioneta-pequena/precios-y-promociones",
+    "https://www.chevrolet.com.mx/suvs/groove-camioneta-pequena/especificaciones-automotriz",
+    "https://www.chevrolet.com.mx/garantia"
+  ],
+  "pendientes": [
+    "Los nombres de versión difieren entre la tabla de precios (LT MT, LT CVT, RS) y la de equipamiento (LT MT, LT AT, RS CVT AT); se asumió la correspondencia por transmisión y precio, y se anotó en cada versión.",
+    "El desglose del bono de las versiones LT CVT y RS no se publica; solo el de LT MT ($58,000)."
+  ]
+}

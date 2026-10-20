@@ -1,0 +1,108 @@
+{
+  "slug": "ventas-autos-nuevos-inegi-cierre-tercer-trimestre",
+  "titulo": "Las ventas de autos nuevos suben 8% en septiembre y el acumulado del año llega a 1.14 millones de unidades",
+  "tema": "mercado",
+  "fechaFuente": "2026-10-07",
+  "fuentes": [
+    {
+      "nombre": "INEGI, Sala de prensa: RAIAVL septiembre de 2026 (avance de resultados)",
+      "url": "https://www.inegi.org.mx/app/saladeprensa/noticia/11258",
+      "fecha": "2026-10-02"
+    },
+    {
+      "nombre": "INEGI, Reporte de resultados RAIAVL septiembre 2026, boletín de indicador 618/26",
+      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/rm_raiavl/rm_raiavl2026_10.pdf",
+      "fecha": "2026-10-07"
+    },
+    {
+      "nombre": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026",
+      "url": "https://www.amda.mx/wp-content/uploads/2609_ligeros.pdf",
+      "fecha": "2026-10-07"
+    },
+    {
+      "nombre": "El Economista, Las ventas de autos en México aceleran 8% en septiembre y suman 1.1 millones de unidades en 2026",
+      "url": "https://www.eleconomista.com.mx/autos/ventas-autos-mexico-aceleran-8-septiembre-suman-1-1-millones-unidades-20261002-836516.html",
+      "fecha": "2026-10-02"
+    },
+    {
+      "nombre": "El Economista, Venta de autos sube 5% en septiembre y se enfila a récord",
+      "url": "https://www.eleconomista.com.mx/empresas/venta-autos-sube-5-septiembre-enfila-record-20261004-836837.html",
+      "fecha": "2026-10-04"
+    }
+  ],
+  "datosClave": [
+    {
+      "dato": "Ventas de vehículos ligeros nuevos, septiembre 2026 (preliminar)",
+      "valor": "129,288 unidades, +8.0% frente a 119,766 de septiembre de 2025",
+      "fuente": "INEGI, avance RAIAVL septiembre 2026 (2 oct 2026)"
+    },
+    {
+      "dato": "Ventas septiembre 2026, cifra revisada",
+      "valor": "129,274 unidades, +7.94% (+9,508 unidades)",
+      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+    },
+    {
+      "dato": "Acumulado enero-septiembre 2026 (preliminar)",
+      "valor": "1,144,002 unidades, +5.0% (+54,851 unidades frente a 1,089,151)",
+      "fuente": "INEGI, avance RAIAVL septiembre 2026 (2 oct 2026)"
+    },
+    {
+      "dato": "Acumulado enero-septiembre 2026, cifra revisada",
+      "valor": "1,143,988 unidades, +5.03% (+54,837 unidades)",
+      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+    },
+    {
+      "dato": "Septiembre de 2016 como referencia",
+      "valor": "131,888 unidades; septiembre de 2026 es la mejor cifra para ese mes en una década",
+      "fuente": "El Economista, 2 oct 2026"
+    },
+    {
+      "dato": "Acumulado enero-septiembre de 2016",
+      "valor": "1,122,142 unidades; el acumulado de 2026 es 1.9% mayor, según el presidente de la AMDA",
+      "fuente": "El Economista, 4 oct 2026"
+    },
+    {
+      "dato": "Variación frente a agosto de 2026",
+      "valor": "-0.07% (87 unidades menos: 129,361 en agosto contra 129,274 en septiembre)",
+      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+    },
+    {
+      "dato": "Producción de vehículos ligeros, septiembre 2026",
+      "valor": "301,803 unidades, -15.13% (cifra preliminar)",
+      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+    },
+    {
+      "dato": "Exportación de vehículos ligeros, septiembre 2026",
+      "valor": "277,369 unidades, -11.85% (cifra preliminar)",
+      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+    },
+    {
+      "dato": "Producción y exportación enero-septiembre 2026",
+      "valor": "Producción 2,946,943 (-2.42%); exportación 2,528,623 (-1.50%)",
+      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+    },
+    {
+      "dato": "Cifra ajustada por la AMDA que suma BYD, GAC, Chirey y Omoda (estimación de la asociación)",
+      "valor": "Septiembre 137,569 (+6.9%); enero-septiembre 1,220,179 (+5.3%)",
+      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+    },
+    {
+      "dato": "Participación acumulada por grupo, enero-septiembre 2026",
+      "valor": "Nissan 17.2%, General Motors 12.8%, Grupo Volkswagen 11.0%, Toyota 8.2%, Kia 7.2%",
+      "fuente": "AMDA-AMIA, reporte de venta por marca (2 oct 2026), con datos del INEGI"
+    },
+    {
+      "dato": "Segmento con mayor peso, enero-septiembre 2026",
+      "valor": "Usos múltiples (SUV y minivans): 41.8% del mercado, 477,703 unidades",
+      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+    },
+    {
+      "dato": "Próxima publicación del INEGI",
+      "valor": "4 de noviembre de 2026",
+      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+    }
+  ],
+  "resumen": "El INEGI informó que en septiembre se vendieron 129,288 vehículos ligeros nuevos, 8.0% más que un año antes; el reporte revisado del 7 de octubre dejó la cifra en 129,274. De enero a septiembre el mercado acumula 1,143,988 unidades, 5.03% por encima de 2025, y el presidente de la AMDA lo ubica sobre el récord anterior de 2016. Frente a agosto el volumen casi no cambió, con una baja de 0.07%. La fabricación y la exportación van en sentido contrario: en septiembre cayeron 15.13% y 11.85%, y en lo que va del año acumulan retrocesos de 2.42% y 1.50%.",
+  "modelosMencionados": [],
+  "fechaVerificacion": "2026-10-20"
+}

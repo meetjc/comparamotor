@@ -1,0 +1,42 @@
+{
+  "estado": "Tlaxcala",
+  "slug": "tlaxcala",
+  "programa": "Programa de Verificación Vehicular Obligatorio correspondiente al año fiscal 2026, expedido por la Secretaría de Medio Ambiente del Estado de Tlaxcala y publicado en el Periódico Oficial No. 53, Primera Sección, del 31 de diciembre de 2025. Obligatorio para propietarios o poseedores de vehículos matriculados en Tlaxcala; se verifica en Unidades de Inspección de Emisiones Contaminantes Vehiculares (UIECV).",
+  "obligatoria": true,
+  "calendario": {
+    "criterio": "Color de engomado y último dígito numérico de la placa; por lo menos dos veces al año (semestral)",
+    "terminaciones": [
+      { "engomado": "Amarillo", "digito": "5 y 6", "primerSemestre": "Enero - Febrero", "segundoSemestre": "Julio - Agosto" },
+      { "engomado": "Rosa", "digito": "7 y 8", "primerSemestre": "Febrero - Marzo", "segundoSemestre": "Agosto - Septiembre" },
+      { "engomado": "Rojo", "digito": "3 y 4", "primerSemestre": "Marzo - Abril", "segundoSemestre": "Septiembre - Octubre" },
+      { "engomado": "Verde", "digito": "1 y 2", "primerSemestre": "Abril - Mayo", "segundoSemestre": "Octubre - Noviembre" },
+      { "engomado": "Azul", "digito": "9 y 0", "primerSemestre": "Mayo - Junio", "segundoSemestre": "Noviembre - Diciembre" }
+    ],
+    "notas": "Los certificados Exento (Ex) y Doble Cero (00) siguen el plazo de su constancia. Vehículos nuevos: verificar dentro de 180 días de la factura. Quedan exentos autos antiguos, tractores agrícolas, maquinaria de construcción y minera, motocicletas, vehículos de 400 kg o menos de peso bruto, y vehículos eléctricos e híbridos (num. 2.4 del Programa)."
+  },
+  "costo2026": {
+    "unidad": "UMA y MXN (cálculo con UMA 2026 = $117.31)",
+    "tarifas": [
+      { "holograma": "1 y 2, gasolina o gas", "uma": 2.8, "pesos": 328.47 },
+      { "holograma": "1 y 2, diésel", "uma": 4.8, "pesos": 563.09 },
+      { "holograma": "Autorizaciones a gas (adicional)", "uma": 0.5, "pesos": 58.66 },
+      { "holograma": "Cero (gasolina, gas y diésel)", "uma": 5.3, "pesos": 621.74 },
+      { "holograma": "Doble Cero (gasolina)", "uma": 10.3, "pesos": 1208.29 }
+    ],
+    "detalle": "El Programa expresa las tarifas en UMA vigentes; los pesos son cálculo propio con el valor INEGI 2026."
+  },
+  "multas": "Verificación extemporánea: 10 UMA (hasta 30 días naturales de vencimiento, $1,173.10) y 20 UMA (después de 30 días y hasta cumplir el periodo semestral, $2,346.20); 10 UMA por contaminación ostensible (Programa, num. 13.2).",
+  "portalCita": null,
+  "portalCitaNota": "No se localizó sistema oficial de citas en línea para particulares; el trámite se hace en las UIECV. Directorio oficial de UIECV: http://sma.tlaxcala.gob.mx/docs/Directorio_UIECV.pdf",
+  "fuentes": [
+    { "nombre": "Programa de Verificación Vehicular Obligatorio 2026 (Periódico Oficial de Tlaxcala No. 53, Primera Sección, 31-dic-2025)", "url": "https://publicaciones.tlaxcala.gob.mx/indices/Peri53-1a2025.pdf" },
+    { "nombre": "Secretaría de Medio Ambiente de Tlaxcala: Verificación Vehicular (calendario, programa, directorio)", "url": "http://sma.tlaxcala.gob.mx/verif.html" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "El calendario se tomó del Programa 2026 del Periódico Oficial; el programa 2027 aún no está publicado.",
+    "No se localizó portal oficial de citas para particulares.",
+    "Los montos en pesos son cálculo propio (UMA × $117.31); la fuente oficial los expresa en UMA."
+  ]
+}

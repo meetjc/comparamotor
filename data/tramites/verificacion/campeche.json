@@ -1,0 +1,18 @@
+{
+  "estado": "Campeche",
+  "slug": "campeche",
+  "programa": null,
+  "obligatoria": false,
+  "calendario": null,
+  "costo2026": null,
+  "portalCita": null,
+  "estatus": "Sin programa de verificación vehicular. La tabla oficial de SEMARNAT (gob.mx, 21-ago-2026; datos que entregaron los gobiernos locales entre mayo y agosto de 2026) marca a Campeche como 'No' en 'Programa de Verificación Vehicular'.",
+  "fuentes": [
+    {"nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026 (Campeche: No)", "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv", "tipo": "oficial"},
+    {"nombre": "SEMARNAT: Tabla_PVV_2026.png", "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png", "tipo": "oficial"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "Prensa de abril de 2026 (Por Esto) menciona que placas vencidas bloquean 'verificación'; no se encontró programa ambiental en Campeche. Revisar si existe revisión vehicular de otro tipo."
+  ]
+}

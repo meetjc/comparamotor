@@ -1,0 +1,156 @@
+{
+  "_regla": "Política de imágenes (JC, 20 oct 2026; actualizada el mismo día). 1) Imágenes generadas en Magnific con la licencia comercial de la cuenta de JC y gráficos propios: autos genéricos sin emblemas, sin personas reales identificables, sin placas reales, con la leyenda «Imagen ilustrativa». 2) Fotos reales de los modelos: solo si su fuente está en data/fuentes-imagenes.json con veredicto «Usable» (o «Usable con condiciones» ya cumplidas), con crédito visible en el pie, liga a la página de origen y a la licencia, y el uso permitido por esa fuente (por ejemplo, solo editorial). 3) Nunca: fotos de reseñas de Google, fotos de agencias o concesionarias sin permiso escrito, quitar marcas de agua, editar una CC BY-SA sin compartir igual, ni usar fotos de prensa en anuncios pagados. Mientras no haya foto real aprobada, la ficha usa la silueta propia. El build falla si una página usa una imagen sin registro.",
+  "imagenes": {
+    "hero-noche.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific el 20 oct 2026 (cuadro inicial del video del héroe)",
+      "fecha": "2026-10-20",
+      "permiteEdicion": true,
+      "credito": null,
+      "leyenda": "Imagen ilustrativa generada con IA",
+      "notas": "Sin logotipos de marca; autos genéricos"
+    },
+    "hero-noche.mp4": {
+      "licencia": "ia-magnific",
+      "origen": "Video generado en Magnific (Seedance 2.5) el 20 oct 2026",
+      "fecha": "2026-10-20",
+      "permiteEdicion": true,
+      "credito": null,
+      "leyenda": "Video ilustrativo generado con IA"
+    },
+    "carga-electrico.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "contrato.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA",
+      "notas": "Revisar que la calculadora no muestre marca legible"
+    },
+    "entrega-llave.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026 (versión sin logotipos)",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "ev-reforma.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "familia-suv.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "gasolina.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "hatch-oaxaca.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "hibrida-estudio.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "periferico.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "pickup-bajio.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "pickup-jalisco.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "prueba-montana.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "sedanes-duelo.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "suv-carretera.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "suv-estacionamiento.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "tablero.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "taller.jpg": {
+      "licencia": "ia-magnific",
+      "origen": "Generada en Magnific, oct 2026",
+      "fecha": "2026-10-18",
+      "permiteEdicion": true,
+      "leyenda": "Imagen ilustrativa generada con IA"
+    },
+    "comparamotor-og-1200x630.jpg": {
+      "licencia": "propia",
+      "origen": "Composición propia con el video del héroe y el logotipo",
+      "fecha": "2026-10-20",
+      "permiteEdicion": true
+    }
+  },
+  "_campos": {
+    "licencia": "ia-magnific | propia | prensa-marca | cc-by | cc-by-sa | cc0 | dominio-publico",
+    "fuenteId": "id en data/fuentes-imagenes.json (fotos reales)",
+    "credito": "texto exacto del pie (fotos reales)",
+    "paginaUrl": "página de origen",
+    "licenciaUrl": "liga a la licencia o términos",
+    "usos": "lista: noticias, fichas, comparativas, redes (según la fuente)"
+  }
+}

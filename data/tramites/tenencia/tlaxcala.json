@@ -1,0 +1,34 @@
+{
+  "estado": "Tlaxcala",
+  "slug": "tlaxcala",
+  "cobraTenencia2026": true,
+  "tenencia": "Tlaxcala conserva el Impuesto Estatal sobre Tenencia o Uso de Vehículos (art. 91 del Código Financiero para el Estado de Tlaxcala y sus Municipios). La Ley de Ingresos 2026 (art. 27) fija tasa de 0% para vehículos cuyo valor total sea de hasta $550,000.00; si el valor es mayor, el impuesto se calcula sobre la diferencia entre el valor total y $550,000.00 con los procedimientos del Código Financiero. Vehículos híbridos o con fuente alterna de energía: exentos del impuesto en 2026 (art. 28). Adeudos de ejercicios anteriores a 2026: solo se pagan los dos últimos años adeudados, sin multas, recargos ni actualizaciones, junto con el impuesto 2026, si se regulariza a más tardar el 30 de abril de 2026 (art. 26; ese plazo ya venció al 20 de octubre de 2026).",
+  "refrendo": {
+    "nombreLocal": "Refrendo anual de la documentación (derechos de registro y control vehicular; Secretaría de Movilidad y Transporte)",
+    "monto2026": 469.24,
+    "unidad": "MXN",
+    "detalle": "Ficha oficial 'Refrendo' (ND132): autos, camiones, camionetas de carga y autobuses $469.24 (equivale a 4 UMA a $117.31); motocicletas $117.31 (1 UMA). El costo puede variar según las características del vehículo. Híbridos o con fuente alterna de energía: exentos de los derechos de registro y control vehicular de 2026 (art. 35 Ley de Ingresos)."
+  },
+  "fechaLimite": "Se puede pagar todo el año. El portal oficial de Tenencia en Línea muestra dos avisos: sin recargos, multas ni actualizaciones hasta el 30 de abril (aviso emergente) y, en preguntas frecuentes, sin recargos antes del 31 de mayo; el sitio no indica el año y las fechas se contradicen. Por la ley, la regularización de adeudos con beneficio vencía el 30 de abril de 2026.",
+  "descuentos": [
+    "Adeudos anteriores a 2026 (tenencia y refrendo): pagar solo los dos últimos años adeudados sin multas, recargos ni actualizaciones, si se regularizó a más tardar el 30 de abril de 2026 (arts. 26 y 33 Ley de Ingresos 2026). Plazo vencido.",
+    "Personas adultas mayores con credencial INAPAM: reducción de 50% en los derechos de registro y control vehicular de sus vehículos (art. 36).",
+    "Personas con discapacidad: reducción de 50% en los derechos señalados (art. 34).",
+    "Impuesto sobre adquisición de vehículos usados: condonación de 100% de recargos y multas pagando en una sola exhibición de enero a abril de 2026 (art. 25). Vencido."
+  ],
+  "portalPago": "https://a-tenenciaonline.sefintlax.gob.mx/TenenciaEnLinea/",
+  "portalesComplementarios": ["https://oficinavirtual.finanzastlax.gob.mx/refrendo-tenencia", "https://af-oficina-virtual.sefintlax.gob.mx/"],
+  "fuentes": [
+    { "nombre": "Ley de Ingresos del Estado de Tlaxcala, ejercicio fiscal 2026 (Periódico Oficial No. 1 Extraordinario, 28-nov-2025; Secretaría de Finanzas)", "url": "https://sefintlax.gob.mx/DocsSF/SF/transparencia/INGRESOS/ley-ingresos/LIET2026.pdf" },
+    { "nombre": "Ficha oficial del trámite 'Refrendo' (Tlaxcala Digital, Secretaría de Movilidad y Transporte)", "url": "https://www.tlaxcaladigital.gob.mx/ficha/refrendosmyt" },
+    { "nombre": "Tenencia en Línea, Secretaría de Finanzas de Tlaxcala (avisos de fechas y requisitos)", "url": "https://a-tenenciaonline.sefintlax.gob.mx/TenenciaEnLinea/consultar_tenencia/" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se leyó el art. 153, fracc. XIII del Código Financiero (cuota del refrendo); el monto sale de la ficha oficial de Tlaxcala Digital, cuya fecha de actualización no se indica (pie de página 2022) aunque sus pesos coinciden con 4 UMA y 1 UMA de 2026.",
+    "Las fechas del portal de Tenencia en Línea (30 de abril vs. 31 de mayo) se contradicen y no indican año; confirmar con la Secretaría de Finanzas.",
+    "No se localizó un calendario oficial de descuentos por pronto pago del refrendo 2026.",
+    "El texto del Código Financiero (art. 91 y 97 A/B) no se leyó; la mecánica de tasas sobre el excedente de $550,000 se cita tal como lo refiere el art. 27 de la Ley de Ingresos."
+  ]
+}

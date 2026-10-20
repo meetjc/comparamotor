@@ -1,0 +1,83 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "March",
+  "slug": "march",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Sense TM",
+      "anio": 2026,
+      "precio": 295990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 106,
+      "rendimientoCombinadoKmL": 17.99,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/march.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $245,990 (vigencia 01-oct a 02-nov-2026). Manual de 5 velocidades. Rendimiento del catálogo PDF 2026 (ciudad 16.08, carretera 21.06, combinado 17.99 km/l; columna Sense según llantas y pesos de la tabla); coincide con el texto de la página del modelo. Frenado autónomo: el catálogo oficial no lo lista (solo ABS, EBD, BA, VDC y TCS)."
+    },
+    {
+      "nombre": "Advance TM",
+      "anio": 2026,
+      "precio": 323990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 106,
+      "rendimientoCombinadoKmL": 17.34,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/march.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $273,990 (vigencia 01-oct a 02-nov-2026). Manual de 5 velocidades. Rendimiento del catálogo PDF 2026 (ciudad 15.22, carretera 20.90, combinado 17.34 km/l; columna Advance, rines de 15 pulgadas); la comparación web muestra 18.0 para ambas versiones. Frenado autónomo: el catálogo oficial no lo lista."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía de fábrica; requiere servicios cada 6 meses o 10,000 km)",
+    "fuente": "Nissan México (Portal de Clientes oficial, artículo del 28-mar-2025)",
+    "url": "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Precio especial CrediNissan: Sense TM $245,990; Advance TM $273,990. Aplica en todas las versiones March 2026 y no se combina con otras promociones.",
+      "precioOferta": 245990,
+      "condicion": "Solo crédito tradicional con NR Finance México, sujeto a aprobación y comportamiento crediticio. Sin crédito rige el precio de lista.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/march.html",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "descripcion": "Hasta 24 meses sin intereses + 0% de comisión por apertura (leyenda del encabezado de la página del modelo).",
+      "precioOferta": null,
+      "condicion": "Leyenda sin términos en la página; condiciones con el distribuidor. Vigencia no publicada junto a esta leyenda.",
+      "vigenciaHasta": null,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/march.html",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.nissan.com.mx/vehiculos/todos/march.html",
+    "https://www.nissan.com.mx/vehiculos/todos/march/precios-y-versiones.html",
+    "https://www.nissan.com.mx/content/dam/Nissan/mexico/assets/march/my26/vlp/catalogos/nissan-2026-march-catalogo.pdf",
+    "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
+  ],
+  "pendientes": [
+    "Rendimiento por versión: el catálogo PDF diferencia Sense (17.99) y Advance (17.34) pero la tabla es difícil de leer; la comparación web muestra 18.0 para ambas. Confirmar con la etiqueta de eficiencia/Conuee.",
+    "Frenado autónomo de emergencia marcado como false por ausencia en la ficha técnica oficial; Nissan no lo menciona para March.",
+    "Vigencia de la leyenda 'hasta 24 MSI' no publicada."
+  ]
+}

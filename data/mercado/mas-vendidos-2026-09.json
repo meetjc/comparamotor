@@ -1,0 +1,839 @@
+{
+  "periodo": "2026-09",
+  "titulo": "Autos más vendidos en México, septiembre 2026 y acumulado enero-septiembre 2026",
+  "fechaVerificacion": "2026-10-20",
+  "unidad": "unidades de vehículos ligeros nuevos vendidos al público en México (incluye fabricados en México e importados)",
+  "fuentePrincipal": {
+    "nombre": "INEGI, Registro Administrativo de la Industria Automotriz de Vehículos Ligeros (RAIAVL), septiembre de 2026",
+    "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/rm_raiavl/rm_raiavl2026_10.pdf",
+    "fechaPublicacion": "2026-10-07",
+    "notaPrensa": "https://www.inegi.org.mx/app/saladeprensa/noticia/11258",
+    "proximaPublicacion": "2026-11-04"
+  },
+  "totalMercado": {
+    "septiembre": {
+      "unidades2026": 129274,
+      "unidades2025": 119766,
+      "variacionPct": 7.94,
+      "cifraPreliminar2Oct": 129288,
+      "fuente": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/rm_raiavl/rm_raiavl2026_10.pdf"
+    },
+    "enero_septiembre": {
+      "unidades2026": 1143988,
+      "unidades2025": 1089151,
+      "variacionPct": 5.03,
+      "cifraPreliminar2Oct": 1144002,
+      "fuente": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/rm_raiavl/rm_raiavl2026_10.pdf"
+    },
+    "ajusteAMDA": {
+      "septiembre2026": 137569,
+      "enero_septiembre2026": 1220179,
+      "nota": "La AMDA suma estimaciones de marcas fuera del reporte del INEGI: BYD, GAC Motors, Chirey y Omoda",
+      "fuente": "https://www.amda.mx/wp-content/uploads/2609_ligeros.pdf"
+    }
+  },
+  "top10ModelosSeptiembre2026": {
+    "descripcion": "Ranking general (autos, SUV y pickups) de septiembre de 2026. Posiciones 1 a 9 coinciden entre AutoCava y los rankings por categoría de Autocosmos. La tabla primaria por modelo está en el tabulado interactivo del INEGI (https://www.inegi.org.mx/app/tabulados/interactivos/?px=RAIAVL_8_9&bd=RAIAVL), que no se pudo extraer de forma automática.",
+    "fuentes": [
+      {
+        "nombre": "AutoCava, Ranking de ventas México, General, septiembre de 2026 (datos INEGI)",
+        "url": "https://www.autocava.com.mx/rank",
+        "fecha": "2026-10-20"
+      },
+      {
+        "nombre": "Autocosmos, Los 10 autos más vendidos en septiembre 2026",
+        "url": "https://noticias.autocosmos.com.mx/2026/10/07/los-10-autos-mas-vendidos-en-septiembre-2026",
+        "fecha": "2026-10-07"
+      },
+      {
+        "nombre": "Autocosmos, Los 10 SUVs más vendidos en septiembre 2026",
+        "url": "https://noticias.autocosmos.com.mx/2026/10/08/los-10-suvs-mas-vendidos-en-septiembre-2026",
+        "fecha": "2026-10-08"
+      },
+      {
+        "nombre": "Autocosmos, Las 10 pickups más vendidas en septiembre 2026",
+        "url": "https://noticias.autocosmos.com.mx/2026/10/09/las-10-pickups-mas-vendidas-en-septiembre-2026",
+        "fecha": "2026-10-09"
+      }
+    ],
+    "modelos": [
+      {
+        "posicion": 1,
+        "marca": "Nissan",
+        "modelo": "Versa",
+        "unidades": 7985,
+        "categoriaEnFuente": "autos",
+        "confianza": "alta"
+      },
+      {
+        "posicion": 2,
+        "marca": "Chevrolet",
+        "modelo": "Aveo Sedán",
+        "unidades": 5854,
+        "categoriaEnFuente": "autos",
+        "confianza": "alta"
+      },
+      {
+        "posicion": 3,
+        "marca": "Nissan",
+        "modelo": "NP300",
+        "unidades": 5550,
+        "categoriaEnFuente": "pickups",
+        "confianza": "alta"
+      },
+      {
+        "posicion": 4,
+        "marca": "Kia",
+        "modelo": "K3 Sedán",
+        "unidades": 3753,
+        "categoriaEnFuente": "autos",
+        "confianza": "alta"
+      },
+      {
+        "posicion": 5,
+        "marca": "Nissan",
+        "modelo": "March",
+        "unidades": 3287,
+        "categoriaEnFuente": "autos",
+        "confianza": "alta"
+      },
+      {
+        "posicion": 6,
+        "marca": "Mazda",
+        "modelo": "CX-30",
+        "unidades": 2741,
+        "categoriaEnFuente": "SUV",
+        "confianza": "alta"
+      },
+      {
+        "posicion": 7,
+        "marca": "Volkswagen",
+        "modelo": "Virtus",
+        "unidades": 2690,
+        "categoriaEnFuente": "autos",
+        "confianza": "alta"
+      },
+      {
+        "posicion": 8,
+        "marca": "MG",
+        "modelo": "MG5",
+        "unidades": 2425,
+        "categoriaEnFuente": "autos",
+        "confianza": "alta"
+      },
+      {
+        "posicion": 9,
+        "marca": "RAM",
+        "modelo": "1200",
+        "unidades": 1957,
+        "categoriaEnFuente": "pickups",
+        "confianza": "alta"
+      },
+      {
+        "posicion": 10,
+        "marca": "Kia",
+        "modelo": "Seltos",
+        "unidades": 1868,
+        "categoriaEnFuente": "SUV",
+        "confianza": "en disputa",
+        "nota": "AutoCava reporta 1,868; Autocosmos reporta 1,806. Con 1,806 el décimo lugar sería la Chevrolet Captiva (1,864 en ambas fuentes)."
+      }
+    ],
+    "posiciones11a20": [
+      {
+        "posicion": 11,
+        "marca": "Chevrolet",
+        "modelo": "Captiva",
+        "unidades": 1864
+      },
+      {
+        "posicion": 12,
+        "marca": "Renault",
+        "modelo": "Kwid",
+        "unidades": 1828
+      },
+      {
+        "posicion": 13,
+        "marca": "Hyundai",
+        "modelo": "Creta",
+        "unidades": 1727
+      },
+      {
+        "posicion": 14,
+        "marca": "Chevrolet",
+        "modelo": "Groove",
+        "unidades": 1683
+      },
+      {
+        "posicion": 15,
+        "marca": "Nissan",
+        "modelo": "X-Trail",
+        "unidades": 1657
+      },
+      {
+        "posicion": 16,
+        "marca": "Chevrolet",
+        "modelo": "S10 Max",
+        "unidades": 1638
+      },
+      {
+        "posicion": 17,
+        "marca": "Mazda",
+        "modelo": "Mazda2 Sedán",
+        "unidades": 1612
+      },
+      {
+        "posicion": 18,
+        "marca": "Dodge",
+        "modelo": "Attitude",
+        "unidades": 1582
+      },
+      {
+        "posicion": 19,
+        "marca": "Nissan",
+        "modelo": "Magnite",
+        "unidades": 1579
+      },
+      {
+        "posicion": 20,
+        "marca": "Ford",
+        "modelo": "Territory",
+        "unidades": 1563
+      }
+    ]
+  },
+  "top10ModelosAcumuladoEneroSeptiembre2026": {
+    "descripcion": "Los diez modelos más vendidos de enero a septiembre de 2026. Los diez suman 319,194 unidades, 27.9% del total de vehículos ligeros comercializados en el periodo (verificado: la suma de las cifras de la tabla coincide).",
+    "fuente": {
+      "nombre": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026, con información del INEGI",
+      "url": "https://www.amda.mx/wp-content/uploads/2609_ligeros.pdf",
+      "fecha": "2026-10-07"
+    },
+    "totalDiezModelos": 319194,
+    "participacionPct": 27.9,
+    "modelos": [
+      {
+        "posicion": 1,
+        "marca": "Nissan",
+        "modelo": "Versa",
+        "unidades": 59621,
+        "diferenciaAnualUnidades": -6712
+      },
+      {
+        "posicion": 2,
+        "marca": "Chevrolet",
+        "modelo": "Aveo",
+        "unidades": 51698,
+        "diferenciaAnualUnidades": 7444
+      },
+      {
+        "posicion": 3,
+        "marca": "Kia",
+        "modelo": "K3",
+        "unidades": 43696,
+        "diferenciaAnualUnidades": 2132
+      },
+      {
+        "posicion": 4,
+        "marca": "Nissan",
+        "modelo": "NP300",
+        "unidades": 39657,
+        "diferenciaAnualUnidades": -1455
+      },
+      {
+        "posicion": 5,
+        "marca": "Mazda",
+        "modelo": "CX-30",
+        "unidades": 21875,
+        "diferenciaAnualUnidades": 994
+      },
+      {
+        "posicion": 6,
+        "marca": "RAM",
+        "modelo": "1200",
+        "unidades": 21477,
+        "diferenciaAnualUnidades": 12891
+      },
+      {
+        "posicion": 7,
+        "marca": "Nissan",
+        "modelo": "Magnite",
+        "unidades": 21185,
+        "diferenciaAnualUnidades": 9434
+      },
+      {
+        "posicion": 8,
+        "marca": "MG",
+        "modelo": "MG5",
+        "unidades": 20881,
+        "diferenciaAnualUnidades": 5355
+      },
+      {
+        "posicion": 9,
+        "marca": "Nissan",
+        "modelo": "March",
+        "unidades": 19681,
+        "diferenciaAnualUnidades": -2880
+      },
+      {
+        "posicion": 10,
+        "marca": "Hyundai",
+        "modelo": "Grand i10",
+        "unidades": 19423,
+        "diferenciaAnualUnidades": 1936
+      }
+    ],
+    "notas": [
+      "Nissan coloca cuatro de los diez modelos (Versa, NP300, Magnite y March).",
+      "La diferencia anual en unidades proviene de la gráfica del reporte de la AMDA; el Aveo (7,444) y el March (-2,880) coinciden con cifras de 2025 publicadas por otros medios.",
+      "Autos Actual publicó 15,253 unidades para el Grand i10, dato que no cuadra con el total de 319,194 de la AMDA; se usa 19,423."
+    ]
+  },
+  "ventasPorMarca": {
+    "fuente": {
+      "nombre": "INEGI, RAIAVL, septiembre de 2026 (cifras revisadas)",
+      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/rm_raiavl/rm_raiavl2026_10.pdf",
+      "fecha": "2026-10-07"
+    },
+    "nota": "Las cifras de General Motors (16,528) y Honda (3,040) fueron actualizadas por las empresas respecto al avance del 2 de octubre (16,546 y 3,036). El INEGI solo incluye las marcas que reportan al RAIAVL.",
+    "totalesPorTipoDeEmpresa": {
+      "afiliadasAMIA": {
+        "septiembre2025": 111645,
+        "septiembre2026": 119002,
+        "variacionSeptiembrePct": 6.59,
+        "enero_septiembre2025": 1028754,
+        "enero_septiembre2026": 1055105,
+        "variacionEnero_septiembrePct": 2.56
+      },
+      "noAfiliadas": {
+        "septiembre2025": 8121,
+        "septiembre2026": 10272,
+        "variacionSeptiembrePct": 26.49,
+        "enero_septiembre2025": 60397,
+        "enero_septiembre2026": 88883,
+        "variacionEnero_septiembrePct": 47.16
+      }
+    },
+    "top10MarcasSeptiembre2026": [
+      {
+        "posicion": 1,
+        "marca": "Nissan",
+        "unidades": 24139
+      },
+      {
+        "posicion": 2,
+        "marca": "General Motors",
+        "unidades": 16528
+      },
+      {
+        "posicion": 3,
+        "marca": "Grupo Volkswagen (Volkswagen, Audi, SEAT, Porsche y Bentley)",
+        "unidades": 14076
+      },
+      {
+        "posicion": 4,
+        "marca": "Toyota",
+        "unidades": 10205
+      },
+      {
+        "posicion": 5,
+        "marca": "Stellantis",
+        "unidades": 9123
+      },
+      {
+        "posicion": 6,
+        "marca": "Kia",
+        "unidades": 8773
+      },
+      {
+        "posicion": 7,
+        "marca": "Mazda",
+        "unidades": 8539
+      },
+      {
+        "posicion": 8,
+        "marca": "Ford Motor",
+        "unidades": 4477
+      },
+      {
+        "posicion": 9,
+        "marca": "Geely",
+        "unidades": 4306
+      },
+      {
+        "posicion": 10,
+        "marca": "Hyundai",
+        "unidades": 4273
+      }
+    ],
+    "top10MarcasSeptiembreNota": "Orden calculado a partir de la tabla del INEGI; el Grupo Volkswagen suma las cinco marcas del grupo (cifra publicada por la AMDA). MG Motor quedó en el lugar 11 con 4,256.",
+    "participacionEneroSeptiembre2026Pct": {
+      "Nissan": 17.2,
+      "General Motors": 12.8,
+      "Grupo Volkswagen": 11.0,
+      "Toyota": 8.2,
+      "Kia": 7.2,
+      "Mazda": 6.9,
+      "Stellantis": 6.7,
+      "Hyundai": 3.5,
+      "MG Motor": 3.5,
+      "Ford": 3.4,
+      "Otros": 19.6,
+      "fuente": "https://www.amda.mx/wp-content/uploads/amda-amia_ligeros_sep26.pdf"
+    },
+    "marcas": [
+      {
+        "marca": "Acura",
+        "septiembre2025": 45,
+        "septiembre2026": 46,
+        "variacionSeptiembrePct": 2.2,
+        "enero_septiembre2025": 539,
+        "enero_septiembre2026": 494,
+        "variacionEnero_septiembrePct": -8.3,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Audi",
+        "septiembre2025": 857,
+        "septiembre2026": 712,
+        "variacionSeptiembrePct": -16.9,
+        "enero_septiembre2025": 6646,
+        "enero_septiembre2026": 6685,
+        "variacionEnero_septiembrePct": 0.6,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Bentley",
+        "septiembre2025": 1,
+        "septiembre2026": 1,
+        "variacionSeptiembrePct": 0.0,
+        "enero_septiembre2025": 10,
+        "enero_septiembre2026": 9,
+        "variacionEnero_septiembrePct": -10.0,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "BMW Group (BMW y Mini)",
+        "septiembre2025": 1638,
+        "septiembre2026": 1498,
+        "variacionSeptiembrePct": -8.5,
+        "enero_septiembre2025": 14004,
+        "enero_septiembre2026": 13057,
+        "variacionEnero_septiembrePct": -6.8,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Ford Motor",
+        "septiembre2025": 4128,
+        "septiembre2026": 4477,
+        "variacionSeptiembrePct": 8.5,
+        "enero_septiembre2025": 38957,
+        "enero_septiembre2026": 38796,
+        "variacionEnero_septiembrePct": -0.4,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "General Motors",
+        "septiembre2025": 15177,
+        "septiembre2026": 16528,
+        "variacionSeptiembrePct": 8.9,
+        "enero_septiembre2025": 142698,
+        "enero_septiembre2026": 146640,
+        "variacionEnero_septiembrePct": 2.8,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Honda",
+        "septiembre2025": 3341,
+        "septiembre2026": 3040,
+        "variacionSeptiembrePct": -9.0,
+        "enero_septiembre2025": 28233,
+        "enero_septiembre2026": 28832,
+        "variacionEnero_septiembrePct": 2.1,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Hyundai",
+        "septiembre2025": 4136,
+        "septiembre2026": 4273,
+        "variacionSeptiembrePct": 3.3,
+        "enero_septiembre2025": 38447,
+        "enero_septiembre2026": 40380,
+        "variacionEnero_septiembrePct": 5.0,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Infiniti",
+        "septiembre2025": 112,
+        "septiembre2026": 134,
+        "variacionSeptiembrePct": 19.6,
+        "enero_septiembre2025": 874,
+        "enero_septiembre2026": 951,
+        "variacionEnero_septiembrePct": 8.8,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Isuzu",
+        "septiembre2025": 147,
+        "septiembre2026": 262,
+        "variacionSeptiembrePct": 78.2,
+        "enero_septiembre2025": 1821,
+        "enero_septiembre2026": 1799,
+        "variacionEnero_septiembrePct": -1.2,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Jaguar",
+        "septiembre2025": 0,
+        "septiembre2026": 0,
+        "variacionSeptiembrePct": 0.0,
+        "enero_septiembre2025": 5,
+        "enero_septiembre2026": 0,
+        "variacionEnero_septiembrePct": -100.0,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Kia",
+        "septiembre2025": 9301,
+        "septiembre2026": 8773,
+        "variacionSeptiembrePct": -5.7,
+        "enero_septiembre2025": 81146,
+        "enero_septiembre2026": 82046,
+        "variacionEnero_septiembrePct": 1.1,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Land Rover",
+        "septiembre2025": 225,
+        "septiembre2026": 167,
+        "variacionSeptiembrePct": -25.8,
+        "enero_septiembre2025": 1602,
+        "enero_septiembre2026": 1429,
+        "variacionEnero_septiembrePct": -10.8,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Lexus",
+        "septiembre2025": 223,
+        "septiembre2026": 247,
+        "variacionSeptiembrePct": 10.8,
+        "enero_septiembre2025": 1978,
+        "enero_septiembre2026": 2147,
+        "variacionEnero_septiembrePct": 8.5,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Lincoln",
+        "septiembre2025": 161,
+        "septiembre2026": 159,
+        "variacionSeptiembrePct": -1.2,
+        "enero_septiembre2025": 1543,
+        "enero_septiembre2026": 1387,
+        "variacionEnero_septiembrePct": -10.1,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Mazda",
+        "septiembre2025": 7430,
+        "septiembre2026": 8539,
+        "variacionSeptiembrePct": 14.9,
+        "enero_septiembre2025": 75069,
+        "enero_septiembre2026": 78654,
+        "variacionEnero_septiembrePct": 4.8,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Mercedes-Benz",
+        "septiembre2025": 844,
+        "septiembre2026": 605,
+        "variacionSeptiembrePct": -28.3,
+        "enero_septiembre2025": 7955,
+        "enero_septiembre2026": 6535,
+        "variacionEnero_septiembrePct": -17.9,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "MG Motor",
+        "septiembre2025": 4008,
+        "septiembre2026": 4256,
+        "variacionSeptiembrePct": 6.2,
+        "enero_septiembre2025": 35880,
+        "enero_septiembre2026": 40275,
+        "variacionEnero_septiembrePct": 12.2,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Mitsubishi",
+        "septiembre2025": 2340,
+        "septiembre2026": 2102,
+        "variacionSeptiembrePct": -10.2,
+        "enero_septiembre2025": 20790,
+        "enero_septiembre2026": 21508,
+        "variacionEnero_septiembrePct": 3.5,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Nissan",
+        "septiembre2025": 20872,
+        "septiembre2026": 24139,
+        "variacionSeptiembrePct": 15.7,
+        "enero_septiembre2025": 196440,
+        "enero_septiembre2026": 197080,
+        "variacionEnero_septiembrePct": 0.3,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Porsche",
+        "septiembre2025": 263,
+        "septiembre2026": 262,
+        "variacionSeptiembrePct": -0.4,
+        "enero_septiembre2025": 2488,
+        "enero_septiembre2026": 2462,
+        "variacionEnero_septiembrePct": -1.0,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Renault",
+        "septiembre2025": 3000,
+        "septiembre2026": 3284,
+        "variacionSeptiembrePct": 9.5,
+        "enero_septiembre2025": 23129,
+        "enero_septiembre2026": 27073,
+        "variacionEnero_septiembrePct": 17.1,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "SEAT",
+        "septiembre2025": 1901,
+        "septiembre2026": 1813,
+        "variacionSeptiembrePct": -4.6,
+        "enero_septiembre2025": 15803,
+        "enero_septiembre2026": 16466,
+        "variacionEnero_septiembrePct": 4.2,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Stellantis (Alfa Romeo, Chrysler, Dodge, Fiat, Jeep, Leapmotor, Peugeot y Ram)",
+        "septiembre2025": 6367,
+        "septiembre2026": 9123,
+        "variacionSeptiembrePct": 43.3,
+        "enero_septiembre2025": 62330,
+        "enero_septiembre2026": 76194,
+        "variacionEnero_septiembrePct": 22.2,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Subaru",
+        "septiembre2025": 386,
+        "septiembre2026": 456,
+        "variacionSeptiembrePct": 18.1,
+        "enero_septiembre2025": 3072,
+        "enero_septiembre2026": 3554,
+        "variacionEnero_septiembrePct": 15.7,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Suzuki",
+        "septiembre2025": 2846,
+        "septiembre2026": 2243,
+        "variacionSeptiembrePct": -21.2,
+        "enero_septiembre2025": 28680,
+        "enero_septiembre2026": 23341,
+        "variacionEnero_septiembrePct": -18.6,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Toyota",
+        "septiembre2025": 9893,
+        "septiembre2026": 10205,
+        "variacionSeptiembrePct": 3.2,
+        "enero_septiembre2025": 90379,
+        "enero_septiembre2026": 94278,
+        "variacionEnero_septiembrePct": 4.3,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Volkswagen",
+        "septiembre2025": 11475,
+        "septiembre2026": 11288,
+        "variacionSeptiembrePct": -1.6,
+        "enero_septiembre2025": 97970,
+        "enero_septiembre2026": 100329,
+        "variacionEnero_septiembrePct": 2.4,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Volvo",
+        "septiembre2025": 528,
+        "septiembre2026": 370,
+        "variacionSeptiembrePct": -29.9,
+        "enero_septiembre2025": 4707,
+        "enero_septiembre2026": 2704,
+        "variacionEnero_septiembrePct": -42.6,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Auteco",
+        "septiembre2025": 0,
+        "septiembre2026": 0,
+        "variacionSeptiembrePct": 0.0,
+        "enero_septiembre2025": 33,
+        "enero_septiembre2026": 17,
+        "variacionEnero_septiembrePct": -48.5,
+        "afiliadaAMIA": false
+      },
+      {
+        "marca": "Changan",
+        "septiembre2025": 2052,
+        "septiembre2026": 1766,
+        "variacionSeptiembrePct": -13.9,
+        "enero_septiembre2025": 13067,
+        "enero_septiembre2026": 16184,
+        "variacionEnero_septiembrePct": 23.9,
+        "afiliadaAMIA": false
+      },
+      {
+        "marca": "Foton",
+        "septiembre2025": 208,
+        "septiembre2026": 179,
+        "variacionSeptiembrePct": -13.9,
+        "enero_septiembre2025": 1812,
+        "enero_septiembre2026": 1412,
+        "variacionEnero_septiembrePct": -22.1,
+        "afiliadaAMIA": false
+      },
+      {
+        "marca": "Geely",
+        "septiembre2025": 2253,
+        "septiembre2026": 4306,
+        "variacionSeptiembrePct": 91.1,
+        "enero_septiembre2025": 12768,
+        "enero_septiembre2026": 35912,
+        "variacionEnero_septiembrePct": 181.3,
+        "afiliadaAMIA": false
+      },
+      {
+        "marca": "Great Wall Motor",
+        "septiembre2025": 1293,
+        "septiembre2026": 1192,
+        "variacionSeptiembrePct": -7.8,
+        "enero_septiembre2025": 10978,
+        "enero_septiembre2026": 10022,
+        "variacionEnero_septiembrePct": -8.7,
+        "afiliadaAMIA": false
+      },
+      {
+        "marca": "JAC",
+        "septiembre2025": 1769,
+        "septiembre2026": 1884,
+        "variacionSeptiembrePct": 6.5,
+        "enero_septiembre2025": 17980,
+        "enero_septiembre2026": 17255,
+        "variacionEnero_septiembrePct": -4.0,
+        "afiliadaAMIA": false
+      },
+      {
+        "marca": "Jetour Soueast",
+        "septiembre2025": 331,
+        "septiembre2026": 611,
+        "variacionSeptiembrePct": 84.6,
+        "enero_septiembre2025": 1196,
+        "enero_septiembre2026": 4727,
+        "variacionEnero_septiembrePct": 295.2,
+        "afiliadaAMIA": false
+      },
+      {
+        "marca": "Zeekr y Lynk&Co (reportan juntas)",
+        "septiembre2025": null,
+        "septiembre2026": 334,
+        "variacionSeptiembrePct": null,
+        "enero_septiembre2025": null,
+        "enero_septiembre2026": 2911,
+        "variacionEnero_septiembrePct": null,
+        "afiliadaAMIA": false
+      },
+      {
+        "marca": "MOTORNATION (BAIC, JMC, DFSK y SERES)",
+        "septiembre2025": 215,
+        "septiembre2026": null,
+        "variacionSeptiembrePct": null,
+        "enero_septiembre2025": 2368,
+        "enero_septiembre2026": 443,
+        "variacionEnero_septiembrePct": -81.3,
+        "afiliadaAMIA": false
+      },
+      {
+        "marca": "Chirey Motor (Chirey y Omoda)",
+        "septiembre2025": null,
+        "septiembre2026": null,
+        "variacionSeptiembrePct": null,
+        "enero_septiembre2025": 5559,
+        "enero_septiembre2026": null,
+        "variacionEnero_septiembrePct": null,
+        "afiliadaAMIA": true
+      },
+      {
+        "marca": "Jetour (marca anterior)",
+        "septiembre2025": null,
+        "septiembre2026": null,
+        "variacionSeptiembrePct": null,
+        "enero_septiembre2025": 195,
+        "enero_septiembre2026": null,
+        "variacionEnero_septiembrePct": null,
+        "afiliadaAMIA": false
+      }
+    ]
+  },
+  "marcasSinReporteAlINEGI": {
+    "fuente": [
+      {
+        "nombre": "INEGI, RAIAVL, septiembre de 2026, notas al pie del cuadro de ventas por marca",
+        "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/rm_raiavl/rm_raiavl2026_10.pdf"
+      },
+      {
+        "nombre": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (dato ajustado)",
+        "url": "https://www.amda.mx/wp-content/uploads/2609_ligeros.pdf"
+      },
+      {
+        "nombre": "AMDA-AMIA, reporte de venta de vehículos ligeros nuevos por marca, septiembre 2026",
+        "url": "https://www.amda.mx/wp-content/uploads/amda-amia_ligeros_sep26.pdf"
+      },
+      {
+        "nombre": "INEGI, presentación del RAIAVL (empresas y marcas que reportan)",
+        "url": "https://www.inegi.org.mx/datosprimarios/iavl/"
+      }
+    ],
+    "marcas": [
+      {
+        "marca": "BYD",
+        "situacion": "Fuera del reporte del INEGI; la AMDA incluye una estimación en su dato ajustado."
+      },
+      {
+        "marca": "GAC Motors",
+        "situacion": "Fuera del reporte del INEGI; la AMDA incluye una estimación en su dato ajustado."
+      },
+      {
+        "marca": "Chirey y Omoda",
+        "situacion": "La empresa Chirey Motor México dejó de entregar información al RAIAVL a partir de abril de 2025 (el INEGI) o mayo de 2025 (la AMDA); en el INEGI aparecen sin cifra para 2026. La AMDA las estima en su dato ajustado."
+      },
+      {
+        "marca": "Jetour (marca anterior)",
+        "situacion": "Dejó de reportar desde abril de 2025; hoy reporta como Jetour Soueast, que publica datos desde noviembre de 2025."
+      },
+      {
+        "marca": "MOTORNATION (BAIC, JMC, DFSK y SERES)",
+        "situacion": "No entregó cifras de septiembre de 2026; acumuló solo 443 unidades en enero-septiembre. La AMDA indica que dejó de suministrar al RAIAVL desde julio de 2026."
+      },
+      {
+        "marca": "Tesla",
+        "situacion": "No figura en el listado de empresas y marcas del RAIAVL que publica el INEGI."
+      }
+    ]
+  },
+  "notasMetodologicas": [
+    "Las cifras de ventas por modelo del INEGI son revisadas; el INEGI las actualiza cuando las empresas corrigen datos.",
+    "Cifra mensual de referencia: 129,274 (INEGI, 7 de octubre). El avance del 2 de octubre fue 129,288.",
+    "Los rankings por modelo de AutoCava y Autocosmos son fuentes secundarias que citan al INEGI; el acumulado por modelo proviene del reporte de la AMDA elaborado con información del INEGI.",
+    "El INEGI publica ventas por marca y modelo, producción y exportación en el reporte mensual del RAIAVL, y las ventas totales por marca en el avance de los primeros días hábiles del mes."
+  ]
+}

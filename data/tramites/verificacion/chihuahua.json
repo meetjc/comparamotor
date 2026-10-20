@@ -1,0 +1,22 @@
+{
+  "estado": "Chihuahua",
+  "slug": "chihuahua",
+  "alcance": "Municipal: Ciudad Juárez. No hay programa de verificación estatal en Chihuahua.",
+  "programa": "Engomado ecológico / verificación vehicular del Municipio de Juárez (Dirección de Ecología; 32 concesionarios de centros con cerca de 72 máquinas)",
+  "obligatoria": true,
+  "calendario": null,
+  "costo2026": null,
+  "portalCita": null,
+  "estatus": "La tabla oficial de SEMARNAT (gob.mx, 21-ago-2026; datos de los gobiernos locales entre mayo y agosto de 2026) marca a Chihuahua como 'Sí (Ciudad Juárez)', sin detallar si es obligatorio. El boletín del Municipio de Juárez del 23-jul-2026 afirma que el engomado ecológico es un trámite obligatorio, que la verificación está dentro del reglamento municipal y que la Dirección de Ecología prepara una campaña para que lo tramiten los automovilistas. El resto del estado no tiene programa.",
+  "fuentes": [
+    {"nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026 (Chihuahua: Sí, Ciudad Juárez)", "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv", "tipo": "oficial"},
+    {"nombre": "SEMARNAT: Tabla_PVV_2026.png", "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png", "tipo": "oficial"},
+    {"nombre": "H. Ayuntamiento de Juárez: Promoverán la verificación vehicular (23-jul-2026)", "url": "https://www.juarez.gob.mx/noticia/33658/promoverAn-la-verificaciA3n-vehicular", "tipo": "oficial (municipal)"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se localizó el reglamento municipal citado, el calendario ni la tarifa oficial 2026 del engomado ecológico de Juárez; notas antiguas del propio municipio mencionan alrededor de $324.60 a $324.70 con vigencia anual, sin año confirmado.",
+    "Multa por no portar engomado: nota antigua habla de 20 UMA (alrededor de $1,800 con la UMA de entonces); no verificada para 2026.",
+    "SEMARNAT no reportó si el programa de Juárez es obligatorio o voluntario; la obligatoriedad se toma del boletín municipal."
+  ]
+}

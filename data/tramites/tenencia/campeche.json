@@ -1,0 +1,45 @@
+{
+  "estado": "Campeche",
+  "slug": "campeche",
+  "cobraTenencia2026": false,
+  "tenencia": "No aparece como impuesto estatal vigente. La página oficial del Servicio de Administración Fiscal del Estado de Campeche (SEAFI), 'Impuestos', lista como impuestos estatales vigentes nóminas, comercio de libros/periódicos/revistas, extracción de materiales, hospedaje, loterías y rifas, impuesto adicional para patrimonio cultural, bebidas alcohólicas y juegos; y como federales convenidos solo enajenación de bienes e impuesto sobre automóviles nuevos (ISAN). No incluye tenencia. La Resolución SEAFI 1/2026 conserva la sigla 'ISTUV' (Impuesto Sobre Tenencia o Uso de Vehículos) en su glosario y en el formato de pagos en parcialidades, lo que apunta a adeudos de ejercicios anteriores, no a un cobro 2026.",
+  "refrendo": {
+    "nombreLocal": "Derechos vehiculares: refrendo anual de placas (calcomanía y tarjeta de circulación) y emplacamiento/reemplacamiento",
+    "monto2026": null,
+    "moneda": "MXN",
+    "tarifaEnUMA": {
+      "automovilesYCamionesParticularOPublico": 13.5,
+      "motocicletasYMotonetas": 4.5,
+      "refrendoAnualDePlacas": 3.5,
+      "refrendoAnualMotocicletasCuatrimotos": 1
+    },
+    "montoCalculadoConUMA2026": {
+      "umaDiaria2026": 117.31,
+      "automoviles13_5UMA": 1583.69,
+      "motocicletas4_5UMA": 527.90,
+      "refrendoAnual3_5UMA": 410.59,
+      "nota": "Cálculo propio: tarifa en UMA publicada por SEAFI multiplicada por la UMA diaria 2026 ($117.31, vigente desde el 1-feb-2026, DOF 9-ene-2026). No es un monto publicado en pesos por la autoridad."
+    },
+    "detalle": "La página de SEAFI 'Derechos Vehiculares' (convenio estado-municipios; Ley de Hacienda de los Municipios del Estado de Campeche, arts. 71 a 74) fija las tarifas en UMA, pero muestra una UMA de 2024, por lo que no da el monto en pesos 2026. Notas de prensa (Por Esto, enero a abril 2026) reportan que en 2026 hubo reemplacamiento (cada tres años) para placas de modelos 2021 y anteriores, a 13.5 UMA para autos ($1,530 hasta el 31-ene y $1,583.63 desde el 1-feb) y 4.5 UMA para motos ($510 y $527.84), y que en 2026 no se cobró refrendo anual a esos vehículos; no se halló comunicado oficial que lo confirme."
+  },
+  "fechaLimite": null,
+  "descuentos": null,
+  "portalPago": "https://miportal-siaf.seafi.campeche.gob.mx/",
+  "fuentes": [
+    {"nombre": "SEAFI Campeche: Impuestos (estatales, federales y municipales convenidos)", "url": "https://seafi.campeche.gob.mx/impuestos", "tipo": "oficial"},
+    {"nombre": "SEAFI Campeche: Derechos Vehiculares (tarifas en UMA, arts. 71-74 Ley de Hacienda de los Municipios)", "url": "https://seafi.campeche.gob.mx/impuestos/derecho-vehicular", "tipo": "oficial"},
+    {"nombre": "SEAFI Campeche: Acuerdos y convenios (Resolución SEAFI 1/2026, Periódico Oficial 31-dic-2025)", "url": "https://seafi.campeche.gob.mx/acuerdos", "tipo": "oficial"},
+    {"nombre": "SEAFI Campeche: portal Mi Portal SIAF (pago y presupuesto vehicular)", "url": "https://miportal-siaf.seafi.campeche.gob.mx/", "tipo": "oficial"},
+    {"nombre": "INEGI/DOF: valor de la UMA 2026 ($117.31 diaria desde el 1-feb-2026)", "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/uma/uma2026.pdf", "tipo": "oficial"},
+    {"nombre": "Por Esto: refrendo o reemplacamiento vehicular en Campeche, qué se paga en 2026", "url": "https://www.poresto.com/campeche/2026/1/9/refrendo-o-reemplacamiento-vehicular-en-campeche-diferencias-y-que-se-paga-este-2026.html", "tipo": "prensa (apoyo)"},
+    {"nombre": "Por Esto: últimos días para cambiar placas en Campeche, multas desde mayo 2026", "url": "https://www.poresto.com/campeche/2026/4/28/ultimos-dias-para-cambiar-placas-en-campeche-multas-y-corralon-arrancan-en-mayo-2026.html", "tipo": "prensa (apoyo)"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se localizó el texto oficial vigente en 2026 de la Ley de Hacienda de los Municipios del Estado de Campeche (arts. 71-74) ni un comunicado oficial 2026 de SEAFI sobre el reemplacamiento: monto en pesos, fecha límite y descuentos quedan sin confirmar en fuente oficial.",
+    "Prensa da fechas límite distintas (31-mar con prórroga al 15-abr; 30-abr con multas desde el 1-may) y menciona exenciones para personas con discapacidad, adultos mayores (un vehículo) y vehículos eléctricos o híbridos; sin fuente oficial.",
+    "Prensa cita un costo base de $1,284 para autos particulares y $643 para motos en abril de 2026, que no coincide con los 13.5 UMA; no se usó.",
+    "Aclarar si en 2026 los modelos 2022 y posteriores pagan refrendo anual (3.5 UMA) o no pagan nada.",
+    "La Ley de Ingresos 2026 de Campeche (Periódico Oficial) solo se leyó en su primera parte: no menciona tenencia ni montos vehiculares; el art. 8 trata el emplacamiento y refrendo como derechos municipales convenidos."
+  ]
+}

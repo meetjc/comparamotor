@@ -1,0 +1,103 @@
+{
+  "marca": "Toyota",
+  "marcaSlug": "toyota",
+  "modelo": "Corolla Cross",
+  "slug": "corolla-cross",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "LE",
+      "anio": 2026,
+      "precio": 547000,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil.",
+      "potenciaHp": 169,
+      "rendimientoCombinadoKmL": 19.3,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
+      "url": "https://www.toyota.mx/modelos/suv/corolla-cross/",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Bolsas de aire según la marca: frontales (2), laterales (4), cortina (2) y rodillas (1) = 9. Incluye Toyota Safety Sense (PCS, LKA, LTA, AHB). Tracción delantera (2WD)."
+    },
+    {
+      "nombre": "XLE",
+      "anio": 2026,
+      "precio": 617900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil.",
+      "potenciaHp": 169,
+      "rendimientoCombinadoKmL": 19.3,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
+      "url": "https://www.toyota.mx/modelos/suv/corolla-cross/",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Bolsas de aire según la marca: frontales (2), laterales (4), cortina (2) y rodillas (1) = 9. Incluye Toyota Safety Sense (PCS, LKA, LTA, AHB). Tracción delantera (2WD)."
+    },
+    {
+      "nombre": "SE HEV",
+      "anio": 2026,
+      "precio": 631900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.0 L 4 cil. híbrido (HEV)",
+      "potenciaHp": 196,
+      "rendimientoCombinadoKmL": 25.88,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
+      "url": "https://www.toyota.mx/modelos/hibridos/corolla-cross-hev/",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Bolsas de aire según la marca: frontales (2), laterales (4), cortina (2) y rodillas (1) = 9. Incluye Toyota Safety Sense (PCS, LKA, LTA, AHB). Versión híbrida; 196 HP = potencia total del sistema (motor de combustión 150 HP). Transmisión: engranaje planetario. Tracción 4WD part time según ficha."
+    },
+    {
+      "nombre": "XSE HEV",
+      "anio": 2026,
+      "precio": 684900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.0 L 4 cil. híbrido (HEV)",
+      "potenciaHp": 196,
+      "rendimientoCombinadoKmL": 25.88,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
+      "url": "https://www.toyota.mx/modelos/hibridos/corolla-cross-hev/",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Bolsas de aire según la marca: frontales (2), laterales (4), cortina (2) y rodillas (1) = 9. Incluye Toyota Safety Sense (PCS, LKA, LTA, AHB). Versión híbrida; 196 HP = potencia total del sistema. Transmisión: engranaje planetario. Tracción 4WD part time según ficha."
+    }
+  ],
+  "garantia": {
+    "texto": "36 meses o 60,000 km, lo que ocurra primero (garantía de todos los autos nuevos Toyota; cubre defectos de materiales o mano de obra)",
+    "fuente": "Toyota México (sitio oficial, Cuidamos tu auto)",
+    "url": "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.toyota.mx/modelos/suv/corolla-cross/",
+    "https://www.toyota.mx/modelos/hibridos/corolla-cross-hev/",
+    "https://www.toyota.mx/content/dam/tmex/corolla-cross/ficha/Ficha_tecnica_COROLLA_CROSS_26_web.pdf.coredownload.pdf",
+    "https://www.toyota.mx/content/dam/tmex/corolla-cross-hev/ficha-tecnica/Ficha_tecnica_COROLLA_CROSS_HEV_26_web.pdf.coredownload.pdf",
+    "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/",
+    "https://www.toyota.mx/estrena/",
+    "https://toyotacredito.com.mx/Portal/promociones"
+  ],
+  "pendientes": [
+    "Sin oferta o promoción vigente publicada por Toyota para Corolla Cross en octubre 2026 (las promociones de Toyota Financial Services listan Corolla, Hilux, Tacoma, Raize y Sienna HEV)",
+    "Propulsión: el modelo mezcla gasolina (LE, XLE) e híbrido (SE HEV, XSE HEV); el campo propulsion se dejó en gasolina",
+    "Potencia de las versiones de gasolina: la ficha oficial indica 169 HP @ 6,600 rpm; el rendimiento 19.30 km/l y 25.88 km/l son cifras únicas por tipo de motorización",
+    "Año modelo tomado de la ficha técnica oficial (MY 26); la ficha del modelo de gasolina tiene fecha de actualización agosto de 2025",
+    "Clasificación del segmento (suv-compacta) es criterio editorial, no viene de la marca"
+  ]
+}

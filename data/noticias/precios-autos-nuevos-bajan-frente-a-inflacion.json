@@ -1,0 +1,95 @@
+{
+  "slug": "precios-autos-nuevos-bajan-frente-a-inflacion",
+  "titulo": "Los precios de los autos nuevos bajan 0.44% anual en septiembre mientras la inflación general llega a 3.45%",
+  "tema": "precios",
+  "fechaFuente": "2026-10-07",
+  "fuentes": [
+    {
+      "nombre": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (inflación en el sector automotriz, con datos del INEGI)",
+      "url": "https://www.amda.mx/wp-content/uploads/2609_ligeros.pdf",
+      "fecha": "2026-10-07"
+    },
+    {
+      "nombre": "El Economista, Venta de autos sube 5% en septiembre y se enfila a récord",
+      "url": "https://www.eleconomista.com.mx/empresas/venta-autos-sube-5-septiembre-enfila-record-20261004-836837.html",
+      "fecha": "2026-10-04"
+    },
+    {
+      "nombre": "Autocosmos, Jetour F700 2027 llega a México",
+      "url": "https://noticias.autocosmos.com.mx/2026/10/09/jetour-f700-2027-llega-a-mexico-una-nueva-pickup-hibrida-enchufable-con-capacidades-todoterreno",
+      "fecha": "2026-10-09"
+    },
+    {
+      "nombre": "Autocosmos, Geely Monjaro EM-i 2027 llega a México",
+      "url": "https://noticias.autocosmos.com.mx/2026/10/15/geely-monjaro-em-i-2027-llega-a-mexico-la-suv-mediana-se-vuelve-hibrida-enchufable",
+      "fecha": "2026-10-15"
+    },
+    {
+      "nombre": "Autocosmos, Suzuki Swift 2027 llega a México",
+      "url": "https://noticias.autocosmos.com.mx/2026/07/17/suzuki-swift-2027-llega-a-mexico-nuevos-colores-y-mas-equipamiento",
+      "fecha": "2026-07-17"
+    }
+  ],
+  "datosClave": [
+    {
+      "dato": "Inflación general anual (INPC), septiembre 2026",
+      "valor": "3.45% anual y 0.42% mensual",
+      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026), con datos del INEGI"
+    },
+    {
+      "dato": "Precio de automóviles en el INPC, septiembre 2026",
+      "valor": "-0.44% anual y -0.29% mensual",
+      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026), con datos del INEGI"
+    },
+    {
+      "dato": "Primera quincena de septiembre 2026",
+      "valor": "INPC 3.42% anual; compra de automóviles -0.35% anual",
+      "fuente": "Guillermo Rosales, presidente de la AMDA, citado por El Economista, 4 oct 2026"
+    },
+    {
+      "dato": "Jetour F700 2027 (pickup híbrida enchufable)",
+      "valor": "Precio de lista $1,249,900; precio de lanzamiento $1,209,900",
+      "fuente": "Autocosmos, 9 oct 2026"
+    },
+    {
+      "dato": "Geely Monjaro EM-i 2027",
+      "valor": "GL $747,900 y GF $819,900; los primeros 500 clientes reciben bono de $20,000, 0% de comisión por apertura y 1.5 GB mensuales de datos por dos años",
+      "fuente": "Autocosmos, 15 oct 2026"
+    },
+    {
+      "dato": "Hyundai Venue 2027",
+      "valor": "Precios de lanzamiento por tiempo limitado: GL TM $395,000 y Limited DCT $449,000",
+      "fuente": "Autocosmos, 21 sep 2026, y Autos Actual, 8 oct 2026"
+    },
+    {
+      "dato": "Suzuki Swift 2027 frente a 2026",
+      "valor": "El cambio de año modelo sube los precios entre $4,000 y $7,000 (por ejemplo, de $339,990 a $343,990)",
+      "fuente": "Autocosmos, 17 jul 2026"
+    },
+    {
+      "dato": "Expectativa sobre marcas chinas",
+      "valor": "Posible ajuste de precios al reflejar el arancel de 50% en el último trimestre; Changan afirma que no lo trasladará",
+      "fuente": "El Economista, 4 oct 2026"
+    }
+  ],
+  "resumen": "Los precios de los automóviles nuevos bajaron 0.44% en septiembre frente al mismo mes de 2025, mientras la inflación general anual fue de 3.45%, según la AMDA con datos del INEGI. En la primera quincena del mes la baja anual era de 0.35%. Los lanzamientos recientes suman descuentos temporales, como los 40,000 pesos menos de la Jetour F700 o el bono de 20,000 pesos de la Geely Monjaro EM-i para sus primeros 500 clientes. No todo va a la baja: el cambio de año modelo del Suzuki Swift sumó entre 4,000 y 7,000 pesos, y la AMDA advierte que las marcas chinas podrían trasladar el arancel al precio en los últimos meses del año.",
+  "modelosMencionados": [
+    {
+      "marca": "Jetour",
+      "modelo": "F700"
+    },
+    {
+      "marca": "Geely",
+      "modelo": "Monjaro EM-i"
+    },
+    {
+      "marca": "Hyundai",
+      "modelo": "Venue"
+    },
+    {
+      "marca": "Suzuki",
+      "modelo": "Swift"
+    }
+  ],
+  "fechaVerificacion": "2026-10-20"
+}

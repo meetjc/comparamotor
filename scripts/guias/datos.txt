@@ -1,0 +1,18 @@
+Auto de $350,000, enganche 10%, 60 meses, tasa 15.9%: mensualidad $7,643, total pagado (enganche+mensualidades) $493,608, intereses $143,608
+Auto de $350,000, enganche 20%, 60 meses, tasa 15.9%: mensualidad $6,794, total pagado (enganche+mensualidades) $477,651, intereses $127,651
+Auto de $350,000, enganche 30%, 60 meses, tasa 15.9%: mensualidad $5,945, total pagado (enganche+mensualidades) $461,695, intereses $111,695
+Auto de $350,000, enganche 20%, 36 meses, tasa 15.9%: mensualidad $9,830, total pagado (enganche+mensualidades) $423,885, intereses $73,885
+Auto de $350,000, enganche 20%, 48 meses, tasa 15.9%: mensualidad $7,921, total pagado (enganche+mensualidades) $450,205, intereses $100,205
+Auto de $350,000, enganche 20%, 72 meses, tasa 15.9%: mensualidad $6,058, total pagado (enganche+mensualidades) $506,198, intereses $156,198
+Tasa 10.9% (auto $350,000, 20% enganche, 60 meses): mensualidad $6,074, intereses $84,435
+Tasa 12.9% (auto $350,000, 20% enganche, 60 meses): mensualidad $6,357, intereses $101,392
+Tasa 15.9% (auto $350,000, 20% enganche, 60 meses): mensualidad $6,794, intereses $127,651
+Tasa 19.9% (auto $350,000, 20% enganche, 60 meses): mensualidad $7,403, intereses $164,163
+Toyota Corolla LE CVT gasolina: $466,100, 19.14 km/l oficial. Corolla LE HEV híbrido: $524,400, 31.31 km/l oficial. Diferencia de precio $58,300. Fuente: toyota.mx, verificado 20 oct 2026.
+Con 15000 km al año y gasolina a $24.5/l: gasolina al año LE $19,201 vs HEV $11,737; ahorro $7,463 al año; la diferencia de precio se recupera en 7.8 años (sin contar intereses).
+Con 25000 km al año y gasolina a $24.5/l: gasolina al año LE $32,001 vs HEV $19,562; ahorro $12,439 al año; la diferencia de precio se recupera en 4.7 años (sin contar intereses).
+Con 40000 km al año y gasolina a $24.5/l: gasolina al año LE $51,202 vs HEV $31,300; ahorro $19,902 al año; la diferencia de precio se recupera en 2.9 años (sin contar intereses).
+Nissan Versa Sense Base TM: precio de lista $374,900; precio especial CrediNissan $309,990 solo con crédito de NR Finance (diferencia $64,910, 17.3%). Vigente hasta 2 nov 2026. Fuente nissan.com.mx, 20 oct 2026.
+Renault Kwid Intens TM: precio de lista $252,000; desde $199,900 solo con crédito de NR Finance México y seguro financiado; CAT promedio 18.5% sin IVA publicado por Renault al 1 oct 2026. Vigente hasta 1 nov 2026.
+Costo total 5 años de un auto de $350,000 a crédito (20% enganche, 60 meses, 15.9%), 15,000 km/año, 15 km/l, gasolina $24.5, seguro $9,410/año, servicios $22,000: compra $477,651, seguro $47,050, gasolina $122,500, servicios $22,000, total $669,201.
+El 75.3% de las ventas al menudeo de autos nuevos se financian (AMDA, enero-julio 2026). Precios de autos nuevos -0.44% anual en septiembre 2026 vs inflación general 3.45% (AMDA con datos INEGI).

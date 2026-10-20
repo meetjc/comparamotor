@@ -1,0 +1,90 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "Jetta",
+  "slug": "jetta",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Trendline",
+      "anio": 2027,
+      "precio": 449290,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (TSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 18.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/jetta.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina). Tiptronic de 8 velocidades, tracción delantera. Precio de lista con IVA e ISAN según VW. Asistente de colisión frontal con freno de emergencia: no disponible (ficha)."
+    },
+    {
+      "nombre": "Comfortline",
+      "anio": 2027,
+      "precio": 498290,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (TSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 18.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/jetta.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina). Tiptronic de 8 velocidades, tracción delantera. Precio de lista con IVA e ISAN según VW."
+    },
+    {
+      "nombre": "Sportline",
+      "anio": 2027,
+      "precio": 565690,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (TSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 18.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/jetta.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina). Tiptronic de 8 velocidades, tracción delantera. Precio de lista con IVA e ISAN según VW."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años de garantía defensa a defensa o hasta 100,000 km (Protección VW; incluye seguro de robo de autopartes, asistencia vial y protección de llantas)",
+    "fuente": "Volkswagen de México (sitio oficial, página del modelo)",
+    "url": "https://www.vw.com.mx/es/autos-suvs/jetta.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Jetta Trendline 2027: 'Llévatelo desde $389,990' (precio financiado exclusivo vía Volkswagen Leasing), o bono de $59,300, o tasa de 7.99%, o seguro gratis + comisión por apertura gratis + bono de $25,000",
+      "precioOferta": 389990,
+      "condicion": "Precio financiado desde 24 meses en productos Credit. Tasa 7.99%: persona física asalariada, enganche 28%, 36 meses, CAT sin IVA 11.9% (calculado al 17-jul-2026). Los bonos incluyen IVA y se aplican solo como descuento al precio de lista o como subvención a la tasa. Solo unidades nuevas; no acumulable; sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Volkswagen de México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.vw.com.mx/es/autos-suvs/jetta.html",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.vw.com.mx/es/autos-suvs/jetta.html",
+    "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2027/volkswagen-jetta-MY27-ficha-tecnica.pdf",
+    "https://www.vw.com.mx/es/configurador.html",
+    "https://www.vw.com.mx/es/promociones/jetta.html"
+  ],
+  "pendientes": [
+    "Solo hay Jetta 2027 en el sitio de VW; no se vio una versión manual ni año modelo 2026",
+    "Jetta GLI 2027 es otro modelo del catálogo de VW (precio de lista desde $691,190) y no se incluyó en este archivo"
+  ]
+}

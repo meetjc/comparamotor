@@ -1,0 +1,108 @@
+{
+  "marca": "Kia",
+  "marcaSlug": "kia",
+  "modelo": "Sportage",
+  "slug": "sportage",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "coreana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "EX",
+      "anio": 2027,
+      "precio": 647900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L GDI 4 cil.",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": 14.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/sportage/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Transmisión automática de 8 velocidades, tracción 2WD, rines de 18\". La tabla oficial de seguridad no marca el asistente de evasión de colisión frontal con función de giro (FCA) en esta versión (sí en SX, X-LINE y X-LINE Terracota)."
+    },
+    {
+      "nombre": "SX",
+      "anio": 2027,
+      "precio": 694900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L Turbo GDI 4 cil.",
+      "potenciaHp": 197,
+      "rendimientoCombinadoKmL": 15.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/sportage/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Transmisión automática de 8 velocidades con selector electrónico E-Shift (SBW), 2WD, rines de 19\". FCA (asistente de evasión de colisión frontal con función de giro) marcado en la tabla oficial."
+    },
+    {
+      "nombre": "X-LINE",
+      "anio": 2027,
+      "precio": 775900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L Turbo GDI 4 cil.",
+      "potenciaHp": 197,
+      "rendimientoCombinadoKmL": 15.02,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/sportage/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Transmisión automática de 8 velocidades con E-Shift (SBW), 2WD, rines de 19\" negros, paquete exterior X-Line. FCA marcado en la tabla oficial."
+    },
+    {
+      "nombre": "X-LINE Terracota",
+      "anio": 2027,
+      "precio": 775900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L Turbo GDI 4 cil.",
+      "potenciaHp": 197,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/sportage/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Mismo precio, motor y equipo de seguridad que X-LINE, con vestiduras Terracota Brown (en el showroom aparece como 'X-LINE Terracota Brown'). La tabla oficial de rendimiento solo lista EX, SX y X-LINE; no publica cifra para esta versión."
+    }
+  ],
+  "garantia": {
+    "texto": "Tren motriz 7 años o 150,000 km; garantía básica (defensa a defensa) 5 años o 100,000 km (lo que ocurra primero)",
+    "fuente": "Kia México (sitio oficial), página de promociones",
+    "url": "https://www.kia.com/mx/shopping-tools/promociones-new.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Kia Sportage ICE (gasolina) 2026, todas las versiones: hasta 48 meses sin intereses + 0% de comisión por apertura + 'Compra ahora y paga en diciembre'",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Autoexpress Inbursa; tasa fija 0.0% de 12 a 48 meses; CAT promedio 7.6% sin IVA calculado al 01-oct-2026 (importe promedio a financiar $450,730, enganche 30%); pago a partir de diciembre de 2026. La página de la promoción dice año modelo 2026, mientras el showroom muestra el Sportage 2027: no está confirmado que aplique al 2027.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-sportage.html",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.kia.com/mx/showroom/sportage/specification.html",
+    "https://www.kia.com/mx/showroom/sportage.html",
+    "https://www.kia.com/mx/shopping-tools/promociones-new.html",
+    "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-sportage.html"
+  ],
+  "pendientes": [
+    "Rendimiento combinado oficial de la versión X-LINE Terracota (la tabla oficial no lo lista por separado)",
+    "Confirmar si la promoción publicada para Sportage ICE 2026 aplica al Sportage 2027",
+    "Sportage Híbrida 2027 (kia.com/mx la muestra 'desde $799,900') es un modelo aparte y no está en este archivo"
+  ]
+}

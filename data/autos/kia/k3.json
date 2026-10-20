@@ -1,0 +1,163 @@
+{
+  "marca": "Kia",
+  "marcaSlug": "kia",
+  "modelo": "K3 Sedán",
+  "slug": "k3",
+  "carroceria": "sedan",
+  "segmento": "subcompacto",
+  "origenMarca": "coreana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "L TM",
+      "anio": 2027,
+      "precio": 305100,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.4 L 4 cil.",
+      "potenciaHp": 98,
+      "rendimientoCombinadoKmL": 20.61,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Única versión con motor 1.4 L. Asistente de evasión de colisión frontal (FCA): no incluido."
+    },
+    {
+      "nombre": "L TA",
+      "anio": 2027,
+      "precio": 335700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 19.16,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Asistente de evasión de colisión frontal (FCA): no incluido."
+    },
+    {
+      "nombre": "LX TM",
+      "anio": 2027,
+      "precio": 358800,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 19.83,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Incluye Asistente de evasión de colisión frontal (FCA), mantenimiento de carril y asistente de luces altas."
+    },
+    {
+      "nombre": "LX TA",
+      "anio": 2027,
+      "precio": 372800,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 19.16,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Incluye Asistente de evasión de colisión frontal (FCA), mantenimiento de carril y asistente de luces altas."
+    },
+    {
+      "nombre": "EX TA",
+      "anio": 2027,
+      "precio": 400500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 19.16,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Incluye Asistente de evasión de colisión frontal (FCA), mantenimiento de carril y asistente de luces altas."
+    },
+    {
+      "nombre": "GT-Line TA",
+      "anio": 2027,
+      "precio": 446400,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 19.16,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Motor y rendimiento según la tabla de la web de Kia (octubre 2026); la ficha técnica PDF de febrero 2026 indica 2.0 L, 150 HP y 16.8 km/l para GT-Line. Incluye FCA, ángulo muerto (BCA) y tráfico cruzado trasero (RCCA)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica defensa a defensa: 5 años o 100,000 km; garantía de tren motriz: 7 años o 150,000 km (lo que ocurra primero)",
+    "fuente": "Kia México (ficha técnica K3 Sedán 2027 y página de promociones)",
+    "url": "https://www.kia.com/content/dam/kwcms/mx/es/pdf/brochures/Web_FICHA_K3_Sedan_Febrero_2026.pdf"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Kia K3 Sedán 2027 (excepto versión L TM) y K3 Hatchback 2027: bono de $40,000 al enganche (c/IVA) o 1 año de seguro gratis",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Kia Finance / Autoexpress Inbursa; ejemplo: CAT promedio 29.4% sin IVA a 60 meses (calculado al 1-oct-2026) sobre importe promedio de $194,590, enganche 30%, comisión 2.0% sin IVA, tasa fija anual 11.84% sin IVA a 60 meses. Sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Kia México (sitio oficial, promociones)",
+      "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-k3-sedan-hatchback.html",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "descripcion": "Kia K3 Sedán 2027 (excepto versión L TM) y K3 Hatchback 2027: hasta 36 meses sin intereses + compra ahora y comienza a pagar en diciembre de 2026",
+      "precioOferta": null,
+      "condicion": "Tasa fija anual 0.0% de 12 a 36 meses; ejemplo: CAT promedio 13.8% sin IVA a 36 meses, importe promedio a financiar $234,850, enganche 30%, comisión 2.0% sin IVA. Autoexpress Inbursa; sujeto a aprobación de crédito; no acumulable",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Kia México (sitio oficial, promociones)",
+      "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-k3-sedan-hatchback-msi.html",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "descripcion": "Kia K3 Sedán L TM 2027: bono de $20,000 al enganche (c/IVA) + compra ahora y comienza a pagar en diciembre de 2026",
+      "precioOferta": null,
+      "condicion": "Ejemplo: CAT promedio 26.3% sin IVA a 60 meses (calculado al 1-oct-2026), importe promedio a financiar $192,087, enganche 30%, comisión 2.0% sin IVA, tasa fija anual 11.84% sin IVA a 60 meses. Autoexpress Inbursa; sujeto a aprobación de crédito; no acumulable",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Kia México (sitio de distribuidores dealers.kia.com, promoción nacional)",
+      "url": "https://dealers.kia.com/mx/satelite/shopping-tools/promociones-new/promocion-k3-sedan.html",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
+    "https://www.kia.com/mx/showroom/k3-sedan.html",
+    "https://www.kia.com/content/dam/kwcms/mx/es/pdf/brochures/Web_FICHA_K3_Sedan_Febrero_2026.pdf",
+    "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-k3-sedan-hatchback.html",
+    "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-k3-sedan-hatchback-msi.html",
+    "https://dealers.kia.com/mx/satelite/shopping-tools/promociones-new/promocion-k3-sedan.html"
+  ],
+  "pendientes": [
+    "GT-Line TA: la web de Kia (oct 2026) muestra motor 1.6 L 121 HP y 19.16 km/l, pero la ficha técnica PDF de febrero 2026 indica 2.0 L, 150 HP y 16.8 km/l; se usó la web (más reciente); confirmar con Kia",
+    "La ficha PDF lista además una versión EX PACK TA (pantalla 10.25 pulgadas, piel artificial); no aparece en la lista de precios de la web, por eso no se incluyó",
+    "El modelo se sigue llamando 'K3 Sedán' en el sitio oficial (año modelo 2027); Kia también vende K3 Hatchback (desde $358,800) y K4 Sedán, que no se incluyeron",
+    "FCA (Asistente de evasión de colisión frontal) se tomó como el frenado autónomo de emergencia de Kia"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "marca": "Chirey",
+  "marcaSlug": "chirey",
+  "modelo": "Tiggo 7 Pro",
+  "slug": "tiggo-7-pro",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Luxury",
+      "anio": 2026,
+      "precio": 504900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L Turbo (1,499 cc)",
+      "potenciaHp": 145,
+      "rendimientoCombinadoKmL": 16.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chirey México (sitio oficial)",
+      "url": "https://www.chirey.mx/autos/ice/tiggo-7-pro-2026/",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Única versión publicada en la página oficial. Ficha técnica oficial (https://d16b8fnjzv0ami.cloudfront.net/media/tech_files/2026/03/13/FT_TIGGO-7-Gasolina_2026.pdf): 145 hp @ 5,500 rpm, 155 lb-ft, DCT de 6 velocidades con palanca E-Shift, tracción delantera, consumo ciudad 14.7, carretera 20.1, combinado 16.7 km/l. Bolsas de aire: 2 frontales, 2 laterales y 2 de cortina. Incluye 13 ADAS con frenado automático (AEB) y alerta de colisión frontal (FCW). Cámara 540°, techo panorámico, rines de 18\"."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica 150,000 km o 60 meses; motor 1,000,000 km o 120 meses (garantía ConTiggo, con condiciones de la póliza); pintura y perforación por corrosión 150,000 km o 60 meses; refacciones y accesorios 30,000 km o 12 meses (lo que ocurra primero)",
+    "fuente": "Chirey México (sitio oficial)",
+    "url": "https://www.chirey.mx/cobertura-de-garantia/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.chirey.mx/autos/ice/tiggo-7-pro-2026/",
+    "https://d16b8fnjzv0ami.cloudfront.net/media/tech_files/2026/03/13/FT_TIGGO-7-Gasolina_2026.pdf",
+    "https://www.chirey.mx/promociones/",
+    "https://www.chirey.mx/cobertura-de-garantia/"
+  ],
+  "pendientes": [
+    "Sin oferta publicada: la página de promociones de Chirey no incluye el Tiggo 7 Pro al 20-oct-2026",
+    "Nombre oficial vigente: sigue siendo 'Tiggo 7 Pro 2026' (no cambió). El 'Tiggo 7 PHEV CSH' es el híbrido enchufable, modelo aparte y no incluido",
+    "Número de cilindros del motor 1.5T: la ficha solo dice '1.5TCI / 1,499 cc'"
+  ]
+}

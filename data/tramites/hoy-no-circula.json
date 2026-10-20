@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "titulo": "Hoy No Circula: reglas para cálculo automático (CDMX y Estado de México)",
+    "fechaVerificacion": "2026-10-20",
+    "zonaHoraria": "America/Mexico_City",
+    "regla": "Ningún dato sin fuente oficial, URL y fecha. Lo no confirmado va como null y en 'pendientes'.",
+    "comoCalcularElSabado": "Número de sábado del mes = floor((díaDelMes - 1) / 7) + 1. Si da 5, es 'quinto sábado'.",
+    "paridad": {
+      "impares": [1, 3, 5, 7, 9],
+      "pares": [0, 2, 4, 6, 8],
+      "fuente": "Gobierno del Estado de México, Acuerdo Hoy No Circula ZMVT y ZMST (Gaceta del Gobierno 30/06/2025), Tabla 1; SEDEMA CDMX, infografía Hoy No Circula sábado",
+      "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/files/TramitesServicios/VerificacioVehicular/HoyNoCircula/jun301c.pdf",
+      "fechaVerificacion": "2026-10-20"
+    },
+    "verificacionEnVivoHoy": {
+      "descripcion": "El sitio oficial aire.cdmx.gob.mx mostró a las 02:11 h del martes 20/10/2026: 'Hoy no circulan: 7 y 8' (rosa) y 'Próx. sábado: H1 Par, H2 Todos'. Coincide con la tabla de abajo (martes = rosa 7 y 8; el 24/10/2026 es el cuarto sábado del mes, toca a terminación par).",
+      "fuente": "SEDEMA CDMX, Dirección de Monitoreo Atmosférico (aire.cdmx.gob.mx), portada",
+      "url": "https://aire.cdmx.gob.mx/default.php",
+      "fechaVerificacion": "2026-10-20"
+    }
+  },
+
+  "cdmx": {
+    "ambito": {
+      "valor": "Todo el territorio de la Ciudad de México, sea cual fuere el origen de las placas.",
+      "fuente": "Decreto por el que se expide el Programa Hoy No Circula en el Distrito Federal (Gaceta Oficial del DF, 19/06/2014), numerales I y II; vigente según SEDEMA",
+      "url": "https://www.sedema.cdmx.gob.mx/storage/app/media/programas/hoy-no-circula/decreto-programa-hoy-no-circula-segundo-semestre-2016.pdf",
+      "fechaVerificacion": "2026-10-20",
+      "nota": "El PDF que liga SEDEMA se llama '...segundo-semestre-2016' pero su contenido es la Gaceta Oficial del DF del 19 de junio de 2014. El Programa de Verificación del 2o semestre de 2026 cita este mismo decreto como vigente."
+    },
+    "horario": {
+      "inicio": "05:00",
+      "fin": "22:00",
+      "dias": "lunes a sábado; los domingos no aplica",
+      "fuente": "Decreto Programa Hoy No Circula (GODF 19/06/2014), numerales IV.3 y IV.4; SEDEMA, infografías del programa",
+      "url": "https://www.sedema.cdmx.gob.mx/programas/programa/hoy-no-circula",
+      "fechaVerificacion": "2026-10-20"
+    },
+    "tablaEntreSemana": {
+      "aplicaA": ["1", "2", "sin holograma / no verificado / foráneo sin holograma reconocido (como holograma 2)"],
+      "dias": [
+        { "dia": "lunes", "engomado": "amarillo", "terminaciones": [5, 6] },
+        { "dia": "martes", "engomado": "rosa", "terminaciones": [7, 8] },
+        { "dia": "miercoles", "engomado": "rojo", "terminaciones": [3, 4] },
+        { "dia": "jueves", "engomado": "verde", "terminaciones": [1, 2] },
+        { "dia": "viernes", "engomado": "azul", "terminaciones": [9, 0] }
+      ],
+      "fuente": "SEDEMA CDMX, tabla 'Color del engomado / último dígito / limitación' (imagen oficial de la página del programa) y Decreto GODF 19/06/2014, Tablas 1 y 2",
+      "url": "https://www.sedema.cdmx.gob.mx/storage/app/media/uploaded-files/Hoy%20No%20Circula.jpg",
+      "fechaVerificacion": "2026-10-20"
+    },
+    "hologramas": {
+      "EXENTO": {
+        "restriccionEntreSemana": false,
+        "restriccionSabado": "ninguna",
+        "detalle": "Exento de todas las limitaciones del programa.",
+        "fuente": "Programa de Verificación Vehicular Obligatoria CDMX 2o semestre 2026 (GOCDMX 01/07/2026), numeral 14.1 fracc. X",
+        "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+        "fechaVerificacion": "2026-10-20"
+      },
+      "00": {
+        "restriccionEntreSemana": false,
+        "restriccionSabado": "ninguna",
+        "detalle": "Exento por dos años, salvo cuando haya contingencia ambiental y la CAMe emita restricciones para este holograma.",
+        "fuente": "PVVO CDMX 2o semestre 2026 (GOCDMX 01/07/2026), numeral 14.1 fracc. XI",
+        "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+        "fechaVerificacion": "2026-10-20"
+      },
+      "0": {
+        "restriccionEntreSemana": false,
+        "restriccionSabado": "ninguna",
+        "detalle": "Exento por seis meses, salvo cuando haya contingencia ambiental y la CAMe emita restricciones para este holograma.",
+        "fuente": "PVVO CDMX 2o semestre 2026 (GOCDMX 01/07/2026), numeral 14.1 fracc. XII",
+        "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+        "fechaVerificacion": "2026-10-20"
+      },
+      "1": {
+        "restriccionEntreSemana": true,
+        "sabados": {
+          "primero": "impares",
+          "segundo": "pares",
+          "tercero": "impares",
+          "cuarto": "pares",
+          "quinto": "circula (salvo aviso de SEDEMA o CAMe)"
+        },
+        "detalle": "Un día entre semana y dos sábados al mes. Impares (1,3,5,7,9) descansan el 1o y 3er sábado; pares (0,2,4,6,8) el 2o y 4o. En el quinto sábado 'podrán circular de acuerdo con las condiciones ambientales que se presenten y sean definidas en el programa y/o aviso correspondiente que en su caso dé a conocer la Secretaría o la Comisión Ambiental de la Megalópolis'.",
+        "fuente": "PVVO CDMX 2o semestre 2026 (GOCDMX 01/07/2026), numeral 14.2 fracc. I; Decreto GODF 19/06/2014, numeral IV.3 y Tabla 1; SEDEMA, infografía 'Hoy No Circula sábado'",
+        "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+        "urlApoyo": "https://www.sedema.cdmx.gob.mx/storage/app/media/uploaded-files/Hoy%20No%20Circula2.jpg",
+        "fechaVerificacion": "2026-10-20",
+        "evidenciaQuintoSabado": {
+          "descripcion": "En la portada oficial de aire.cdmx.gob.mx archivada el jueves 27/08/2026 (víspera del quinto sábado 29/08/2026) el recuadro decía 'Próx. sábado: H1 No aplica, H2 Todos'. Lo mismo el 24/05/2026 (quinto sábado 30/05/2026).",
+          "fuente": "Copia archivada de la portada oficial aire.cdmx.gob.mx (Internet Archive), apoyo",
+          "url": "https://web.archive.org/web/20260827162514/http://www.aire.cdmx.gob.mx/default.php",
+          "fechaVerificacion": "2026-10-20"
+        }
+      },
+      "2": {
+        "restriccionEntreSemana": true,
+        "sabados": {
+          "primero": "todos",
+          "segundo": "todos",
+          "tercero": "todos",
+          "cuarto": "todos",
+          "quinto": "todos"
+        },
+        "detalle": "Un día entre semana y todos los sábados del mes, sin importar terminación.",
+        "fuente": "PVVO CDMX 2o semestre 2026 (GOCDMX 01/07/2026), numeral 14.2 fracc. II; Decreto GODF 19/06/2014, numeral IV.4 y Tabla 2",
+        "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+        "fechaVerificacion": "2026-10-20"
+      }
+    },
+    "casosEspeciales": [
+      {
+        "caso": "Vehículo matriculado en CDMX sin holograma vigente (incluye a quien ya pagó multa por verificación extemporánea)",
+        "regla": "Se trata como holograma 2: un día entre semana según terminación y todos los sábados.",
+        "fuente": "PVVO CDMX 2o semestre 2026, numeral 14.2 fracc. V",
+        "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+        "fechaVerificacion": "2026-10-20"
+      },
+      {
+        "caso": "Auto nuevo matriculado por primera vez en CDMX",
+        "regla": "Exento los primeros 30 días naturales desde la expedición de la tarjeta de circulación; después, como holograma 2 hasta que verifique (tiene 180 días para verificar). Excepción: días de contingencia por ozono.",
+        "fuente": "PVVO CDMX 2o semestre 2026, numeral 14.2 fracc. VII",
+        "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+        "fechaVerificacion": "2026-10-20"
+      },
+      {
+        "caso": "Permiso para circular sin placas y sin tarjeta de circulación",
+        "regla": "Como holograma 2: no circula el viernes, todos los sábados y de lunes a jueves de 05:00 a 11:00 h.",
+        "fuente": "PVVO CDMX 2o semestre 2026, numeral 14.2 fracc. III",
+        "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+        "fechaVerificacion": "2026-10-20"
+      },
+      {
+        "caso": "Placas formadas solo por letras",
+        "regla": "Descansan el día del engomado azul (viernes) y se consideran terminación par.",
+        "fuente": "Decreto Programa Hoy No Circula (GODF 19/06/2014), numeral X",
+        "url": "https://www.sedema.cdmx.gob.mx/storage/app/media/programas/hoy-no-circula/decreto-programa-hoy-no-circula-segundo-semestre-2016.pdf",
+        "fechaVerificacion": "2026-10-20"
+      },
+      {
+        "caso": "Placas con dos series de números",
+        "regla": "El decreto de 2014 manda usar el último dígito numérico de la PRIMERA serie. El PVVO 2026 dice que si el último dígito de la placa no corresponde con el color del engomado, se respeta el Hoy No Circula 'conforme al último dígito numérico de la matrícula'.",
+        "fuente": "Decreto GODF 19/06/2014 numeral X; PVVO CDMX 2o semestre 2026 numeral 5.1.3",
+        "url": "https://www.sedema.cdmx.gob.mx/storage/app/media/programas/hoy-no-circula/decreto-programa-hoy-no-circula-segundo-semestre-2016.pdf",
+        "fechaVerificacion": "2026-10-20",
+        "nota": "Las dos redacciones no son idénticas; ver pendientes."
+      },
+      {
+        "caso": "Transporte colectivo de pasajeros con autorización de SEMOVI (holograma 1 o 2)",
+        "regla": "Un día entre semana y un sábado al mes, de 10:00 a 22:00 h: 1er sábado 5 y 6; 2o 7 y 8; 3er 3 y 4; 4o 1 y 2; 5o 9 y 0 (o permisos sin placa preasignada).",
+        "fuente": "PVVO CDMX 2o semestre 2026, numeral 14.2 fracc. VI",
+        "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+        "fechaVerificacion": "2026-10-20"
+      }
+    ],
+    "exentos": {
+      "lista": [
+        "Tractores agrícolas",
+        "Maquinaria de construcción y minería",
+        "Motocicletas",
+        "Vehículos con peso bruto vehicular de 400 kg o menos",
+        "Vehículos eléctricos o con celda de combustible",
+        "Híbridos PHEV, REEV y HEV con motores de gasolina y eléctrico",
+        "Placas de auto antiguo y/o clásico expedidas únicamente por el Gobierno de la CDMX",
+        "Placas de demostración y/o traslado",
+        "Vehículos cuya tecnología impida aplicar la NOM correspondiente",
+        "Holograma Exento",
+        "Holograma 00 (dos años) y 0 (seis meses), salvo restricciones de la CAMe en contingencia",
+        "Constancia 'Permiso Especial para Circular' cuando transporten a personas con discapacidad",
+        "Constancia de 'Autorregulación' (diésel o electromovilidad en vehículos ligeros)",
+        "Placas para personas con discapacidad",
+        "Pase Turístico Metropolitano (dos veces por semestre por 7 días, o una vez por 14 días) y Pase Turístico Paisano",
+        "Oficios de ampliación al periodo de verificación vigentes",
+        "Oficio de SEDEMA para exentar la limitación"
+      ],
+      "fuente": "PVVO CDMX 2o semestre 2026 (GOCDMX 01/07/2026), numeral 14.1 fracciones I a XVIII; también publicado en la página de Verificación Vehicular de SEDEMA",
+      "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+      "fechaVerificacion": "2026-10-20",
+      "listaDecreto2014": {
+        "lista": [
+          "Servicios de emergencia, médicos, seguridad pública, bomberos, rescate, protección civil y servicios urbanos",
+          "Transporte escolar con permiso",
+          "Cortejos fúnebres y servicios funerarios en servicio y con permiso",
+          "Vehículos que transporten o sean conducidos por personas con discapacidad con placa o documento correspondiente",
+          "Emergencia médica manifiesta y urgente",
+          "Servicio público federal de transporte de pasajeros con autorización",
+          "Foráneos o extranjeros con Pase Turístico vigente"
+        ],
+        "fuente": "Decreto Programa Hoy No Circula (GODF 19/06/2014), numeral VII",
+        "url": "https://www.sedema.cdmx.gob.mx/storage/app/media/programas/hoy-no-circula/decreto-programa-hoy-no-circula-segundo-semestre-2016.pdf",
+        "fechaVerificacion": "2026-10-20"
+      },
+      "notaHibridos": "Para eléctricos e híbridos, SEDEMA otorga el holograma 'Exento' gratis a vehículos matriculados en CDMX que estén en su lista; vigencia permanente para eléctricos y de 6 años (renovable una vez) para PHEV, REEV y HEV. Los híbridos suaves (MHEV) NO son exentos: se evalúan para holograma 00 o 0."
+    },
+    "foraneos": {
+      "regla": "Vehículos con placas de otros estados o del extranjero que no porten un holograma reconocido: se tratan como holograma 2 (un día entre semana según terminación y todos los sábados, 05:00 a 22:00) y además no circulan de lunes a viernes de 05:00 a 11:00 h.",
+      "hologramasReconocidos": "CDMX reconoce los hologramas E, 00, 0, 1 y 2 de los estados de la CAMe (Estado de México, Hidalgo, Morelos, Puebla, Querétaro y Tlaxcala) y de Guanajuato (convenio vigente), otorgados con los mismos criterios. No reconoce verificaciones voluntarias hechas en Guanajuato, Hidalgo, Michoacán, Morelos, Puebla, Querétaro y Tlaxcala.",
+      "paseTuristico": "Gratuito en paseturistico.cdmx.gob.mx para vehículos de modelo 2011 o posterior con placas de fuera de la CDMX, Edomex, Hidalgo, Morelos, Puebla, Querétaro y Tlaxcala, o extranjeras: una vez por semestre por 14 días o dos veces por 7 días.",
+      "fuente": "PVVO CDMX 2o semestre 2026 (GOCDMX 01/07/2026), numerales 14.2 fracc. IV, 14.3, 14.4 y 19.1.7; SEDEMA, tabla oficial 'Vehículos foráneos con placas extranjeras'",
+      "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+      "urlPaseTuristico": "https://paseturistico.cdmx.gob.mx",
+      "fechaVerificacion": "2026-10-20"
+    },
+    "diasFestivos": {
+      "regla": "El programa aplica también en días festivos, salvo que la autoridad ambiental publique un aviso que lo suspenda para ese día (festivos, inhábiles, descanso obligatorio o vacaciones).",
+      "comoSaberlo": "No hay calendario anual publicado. Hay que leer el aviso de SEDEMA/CAMe o el recuadro 'Hoy no circulan' de aire.cdmx.gob.mx ese día.",
+      "listaSuspensiones2026": null,
+      "fuente": "Decreto Programa Hoy No Circula (GODF 19/06/2014), numeral XI 'Suspensión del programa'",
+      "url": "https://www.sedema.cdmx.gob.mx/storage/app/media/programas/hoy-no-circula/decreto-programa-hoy-no-circula-segundo-semestre-2016.pdf",
+      "fechaVerificacion": "2026-10-20"
+    },
+    "sanciones": {
+      "multaUMA": { "minimo": 20, "maximo": 30 },
+      "valorUMA2026": 117.31,
+      "multaPesosCalculada": { "minimo": 2346.20, "maximo": 3519.30, "nota": "Cálculo propio: UMA diaria 2026 de INEGI x 20 y x 30." },
+      "detalle": "Multa por circular en día y horario restringido: 20 a 30 UMA (Reglamento 2026). El PVVO fija el pago en 20 UMA para el Programa de Vehículos Contaminantes. Además el vehículo puede ser remitido al depósito.",
+      "fuente": "Reglamento de la Ley Ambiental de la CDMX en Materia de Verificación Vehicular (GOCDMX 19/05/2026), art. 50; PVVO CDMX 2o semestre 2026 numeral 13.9.3; Decreto GODF 19/06/2014 numeral XII; INEGI, valor de la UMA 2026",
+      "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-05-19_GOBIERNO.pdf",
+      "urlUMA": "https://www.inegi.org.mx/temas/uma/",
+      "fechaVerificacion": "2026-10-20"
+    }
+  },
+
+  "estadoDeMexico": {
+    "zmvm18Municipios": {
+      "municipios": [
+        "Atizapán de Zaragoza", "Coacalco de Berriozábal", "Cuautitlán", "Cuautitlán Izcalli", "Chalco", "Chimalhuacán",
+        "Chicoloapan", "Ecatepec de Morelos", "Huixquilucan", "Ixtapaluca", "La Paz", "Naucalpan de Juárez",
+        "Nezahualcóyotl", "Nicolás Romero", "Tecámac", "Tlalnepantla de Baz", "Tultitlán", "Valle de Chalco"
+      ],
+      "horario": { "inicio": "05:00", "fin": "22:00", "dias": "lunes a sábado" },
+      "tablaEntreSemana": [
+        { "dia": "lunes", "engomado": "amarillo", "terminaciones": [5, 6] },
+        { "dia": "martes", "engomado": "rosa", "terminaciones": [7, 8] },
+        { "dia": "miercoles", "engomado": "rojo", "terminaciones": [3, 4] },
+        { "dia": "jueves", "engomado": "verde", "terminaciones": [1, 2] },
+        { "dia": "viernes", "engomado": "azul", "terminaciones": [9, 0], "incluye": "permisos y matrículas sin número" }
+      ],
+      "sabados": {
+        "holograma1": "1er y 3er sábado impares; 2o y 4o sábado pares",
+        "holograma2": "todos los sábados",
+        "quinto": "El acuerdo de 2014 no lo menciona; ver pendientes."
+      },
+      "aplicaA": "Vehículos de combustión interna con holograma 1 y 2 (y foráneos tratados como 2). Transporte local público de pasajeros: de 10:00 a 22:00.",
+      "foraneos": "Placas del extranjero o de estados fuera de la CAMe sin holograma Exento, 00 o 0: como holograma 2 y además no circulan de lunes a viernes de 05:00 a 11:00 h.",
+      "exentos": [
+        "Holograma Exento (E), 00 y 0 de los estados de la CAMe y de estados con convenio de homologación",
+        "Servicios médicos, seguridad pública, bomberos, rescate, protección civil y servicios urbanos",
+        "Vehículos que no emiten contaminantes de combustión (eléctricos, solares, etc.)",
+        "Transporte escolar acreditado",
+        "Carrozas y servicios funerarios en servicio",
+        "Vehículos que transporten a personas con discapacidad con placa o documento",
+        "Emergencia médica",
+        "Servicio público federal de pasajeros",
+        "Transporte público local de pasajeros solo durante contingencia",
+        "Placas de auto antiguo",
+        "Motocicletas"
+      ],
+      "diasFestivos": "La Secretaría del Medio Ambiente estatal puede suspender el acuerdo en festivos o vacaciones si la calidad del aire lo permite.",
+      "fuente": "Acuerdo que establece las medidas para limitar la circulación en los municipios conurbados del Estado de México de la ZMVM (Hoy No Circula), Gaceta del Gobierno del Estado de México, 01/07/2014, acuerdos Primero a Noveno y transitorio Tercero",
+      "url": "https://legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/gct/2014/jul015.PDF",
+      "urlApoyo": "https://sma.edomex.gob.mx/hoynocircula",
+      "fechaVerificacion": "2026-10-20",
+      "notaHibridos": "La infografía oficial de SMADS Edomex lista como exentos 'Hologramas D, E, 00 y 0. Vehículos eléctricos e híbridos'. En Edomex los híbridos HEV, PHEV y REEV obtienen holograma E por 6 años; eléctricos, permanente.",
+      "urlInfografia": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/HoyNoCircula/HNCW_SLIDER06_1_1.png"
+    },
+    "toluca": {
+      "existeProgramaPropio": true,
+      "nombre": "Hoy No Circula en las Zonas Metropolitanas del Valle de Toluca (ZMVT) y de Santiago Tianguistenco (ZMST)",
+      "vigencia": "Vigente desde el 1 de julio de 2025; las multas aplican desde el 1 de enero de 2026.",
+      "municipiosZMVT": [
+        "Almoloya de Juárez", "Calimaya", "Chapultepec", "Lerma", "Metepec", "Mexicaltzingo", "Ocoyoacac", "Otzolotepec",
+        "San Antonio la Isla", "San Mateo Atenco", "Rayón", "Temoaya", "Tenango del Valle", "Toluca", "Xonacatlán", "Zinacantepec"
+      ],
+      "municipiosZMST": ["Almoloya del Río", "Atizapán", "Capulhuac", "Texcalyacac", "Tianguistenco", "Xalatlaco"],
+      "horario": { "inicio": "05:00", "fin": "22:00", "dias": "lunes a sábado" },
+      "aplicaA": "Vehículos de combustión interna con holograma 1 y 2. Transporte local público de pasajeros: de 10:00 a 22:00.",
+      "tablaEntreSemana": [
+        { "dia": "lunes", "engomado": "amarillo", "terminaciones": [5, 6] },
+        { "dia": "martes", "engomado": "rosa", "terminaciones": [7, 8] },
+        { "dia": "miercoles", "engomado": "rojo", "terminaciones": [3, 4] },
+        { "dia": "jueves", "engomado": "verde", "terminaciones": [1, 2] },
+        { "dia": "viernes", "engomado": "azul", "terminaciones": [9, 0], "incluye": "permisos y matrículas sin número" }
+      ],
+      "sabados": {
+        "holograma1": "1er y 3er sábado impares (1,3,5,7,9); 2o y 4o sábado pares (2,4,6,8,0)",
+        "holograma2": "todos los sábados, igual que permisos y matrículas sin número",
+        "quinto": "Se observa lo que estipule la CAMe para el Hoy No Circula de la Zona Metropolitana del Valle de México."
+      },
+      "foraneos": "Placas del extranjero o de estados distintos a los de la CAMe sin holograma Exento, 00 o 0: como holograma 2 y además no circulan de lunes a viernes de 05:00 a 11:00 h.",
+      "hologramasReconocidos": "E, discapacidad, 00, 0, 1 y 2 de Edomex y de los estados de la CAMe (CDMX, Hidalgo, Morelos, Puebla, Querétaro y Tlaxcala); 00 y 0 de Guanajuato y Michoacán por convenio.",
+      "exentos": [
+        "Holograma E, Discapacidad, 00 y 0; holograma de autorregulación 'A' de Edomex",
+        "Servicios médicos, seguridad pública, bomberos, rescate, protección civil y servicios urbanos",
+        "Vehículos que no emiten contaminantes de combustión (eléctricos, solares, etc.)",
+        "Transporte escolar acreditado",
+        "Carrozas y servicios funerarios en servicio",
+        "Vehículos que transporten a personas con discapacidad con placa o documento",
+        "Emergencia médica",
+        "Servicio público federal de pasajeros",
+        "Transporte público local de pasajeros solo durante contingencia",
+        "Placas de auto antiguo",
+        "Motocicletas"
+      ],
+      "contingencias": "Se aplican según el Programa para la atención de Contingencias Ambientales Atmosféricas en la ZMVT y la ZMST (Gaceta del Gobierno, 18/02/2022).",
+      "diasFestivos": "SMADS puede suspender el acuerdo en festivos o temporadas vacacionales si la calidad del aire lo permite.",
+      "sanciones": "Las del Reglamento de Tránsito del Estado de México (monto no verificado; ver pendientes).",
+      "fuente": "Acuerdo que establece las medidas para limitar la circulación de los vehículos automotores en los municipios de la ZMVT y la ZMST (Hoy No Circula), Periódico Oficial 'Gaceta del Gobierno', 30/06/2025, artículos Primero a Octavo y transitorios; publicado hoy en la página oficial del programa",
+      "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/files/TramitesServicios/VerificacioVehicular/HoyNoCircula/jun301c.pdf",
+      "urlApoyo": "https://sma.edomex.gob.mx/hoynocircula",
+      "fechaVerificacion": "2026-10-20"
+    }
+  },
+
+  "diferencias": [
+    {
+      "tema": "Ámbito",
+      "cdmx": "Toda la CDMX.",
+      "edomex": "Solo los 18 municipios conurbados de la ZMVM y, desde 2025-2026, los 22 municipios de Toluca (ZMVT) y Santiago Tianguistenco (ZMST). En el resto del estado no hay Hoy No Circula.",
+      "fuente": "Acuerdos Edomex del 01/07/2014 y 30/06/2025; infografía oficial SMADS 'Dónde aplica el Hoy No Circula'",
+      "url": "https://sma.edomex.gob.mx/hoynocircula",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "tema": "Autos antiguos",
+      "cdmx": "Exentos solo con placa de auto antiguo/clásico expedida por la CDMX.",
+      "edomex": "Exentos con placas de auto antiguo (sin esa limitación en el texto).",
+      "fuente": "PVVO CDMX 2026 numeral 14.1 fracc. VII; Acuerdos Edomex 2014 y 2025, artículo Sexto",
+      "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "tema": "Quinto sábado (holograma 1)",
+      "cdmx": "Circula, salvo aviso de SEDEMA o CAMe.",
+      "edomex": "ZMVT/ZMST: lo que estipule la CAMe para la ZMVM. ZMVM Edomex: el acuerdo de 2014 no lo menciona.",
+      "fuente": "PVVO CDMX 2026 numeral 14.2 fracc. I; Acuerdo Edomex 30/06/2025 Tabla 1",
+      "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/files/TramitesServicios/VerificacioVehicular/HoyNoCircula/jun301c.pdf",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "tema": "Autos nuevos sin verificar",
+      "cdmx": "30 días exentos desde la tarjeta de circulación; luego como holograma 2 hasta verificar.",
+      "edomex": "El acuerdo de Hoy No Circula no tiene una regla equivalente; el PVVO Edomex da 30 días para verificar tras alta de placas.",
+      "fuente": "PVVO CDMX 2026 numeral 14.2 fracc. VII; PVVO Edomex 2o semestre 2026 numeral 2.10.1.2",
+      "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/jun301c.pdf",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+
+  "pendientes": [
+    "Lista oficial de días festivos de 2026 en que SEDEMA/CAMe suspendió o suspenderá el Hoy No Circula (no hay calendario anual; se publica aviso por fecha). Próximos festivos: lunes 16/11/2026 y viernes 25/12/2026.",
+    "Quinto sábado en los 18 municipios de la ZMVM del Edomex: el acuerdo de 2014 no lo menciona; confirmar con SMADS Edomex si siguen el criterio de la CAMe (circula holograma 1).",
+    "Placas con dos series numéricas: confirmar con SEDEMA si para el Hoy No Circula manda la primera serie (decreto 2014) o el último dígito de la placa (PVVO 2026).",
+    "Monto de la multa por Hoy No Circula en el Estado de México (Reglamento de Tránsito del Estado de México); no se verificó en fuente oficial.",
+    "Las cifras en pesos de multas son cálculo propio (UMA x veces); confirmar si la autoridad redondea."
+  ]
+}

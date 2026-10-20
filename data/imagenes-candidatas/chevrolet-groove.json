@@ -1,0 +1,63 @@
+{
+  "marca": "Chevrolet",
+  "modelo": "Groove",
+  "marcaSlug": "chevrolet",
+  "modeloSlug": "groove",
+  "generacionMexico": "2.ª generación (310S), 2026",
+  "notasModelo": "Groove 2026 de México: nueva generación más larga con motor turbo (Motorpasión). Las fotos de Baojun 510/CN180S son de la generación anterior.",
+  "actualizado": "2026-10-20",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Chevrolet_Groove_310S_1.5T_RS_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Groove_310S_1.5T_RS_interior.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Ethan Llamas",
+      "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4896,
+      "alto": 3264,
+      "anioOGeneracion": "2026 · 2.ª generación (310S), 2026",
+      "angulo": "interior",
+      "coincideConMexico": null,
+      "verificadoEl": "2026-10-20",
+      "notas": "Archivo: Chevrolet Groove 310S 1.5T RS interior. Foto de 2026. Categoría Commons: Chevrolet Groove (310S). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Chevrolet_Groove_II_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Groove_II_002.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "JustAnotherCarDesigner",
+      "credito": "Foto: JustAnotherCarDesigner / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 3477,
+      "alto": 2608,
+      "anioOGeneracion": "2026 · 2.ª generación (310S), 2026",
+      "angulo": "desconocido",
+      "coincideConMexico": null,
+      "verificadoEl": "2026-10-20",
+      "notas": "Archivo: Chevrolet Groove II 002. Foto de 2026. Categoría Commons: Chevrolet Groove (310S). Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chevrolet_Groove_310S_1.5T_RS_Black_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Groove_310S_1.5T_RS_Black_01.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Ethan Llamas",
+      "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4464,
+      "alto": 2976,
+      "anioOGeneracion": "2026 · 2.ª generación (310S), 2026",
+      "angulo": "desconocido",
+      "coincideConMexico": null,
+      "verificadoEl": "2026-10-20",
+      "notas": "Archivo: Chevrolet Groove 310S 1.5T RS Black 01. Foto de 2026. Categoría Commons: Chevrolet Groove (310S). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

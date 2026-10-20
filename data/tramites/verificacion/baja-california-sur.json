@@ -1,0 +1,20 @@
+{
+  "estado": "Baja California Sur",
+  "slug": "baja-california-sur",
+  "programa": null,
+  "obligatoria": false,
+  "calendario": null,
+  "costo2026": null,
+  "portalCita": null,
+  "estatus": "Sin programa de verificación vehicular en 2026. La tabla oficial de SEMARNAT (gob.mx, 21-ago-2026; datos de los gobiernos locales entre mayo y agosto de 2026) marca a Baja California Sur como 'No (N/R)', es decir, sin programa y sin información reportada. El trámite de revista vehicular exige una 'revisión electromecánica' ($139 en la ficha oficial), que es una revisión mecánica, no una verificación de emisiones. Nexu (prensa) indica que en BCS la verificación es voluntaria en establecimientos particulares.",
+  "fuentes": [
+    {"nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026 (Baja California Sur: No (N/R))", "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv", "tipo": "oficial"},
+    {"nombre": "SEMARNAT: Tabla_PVV_2026.png", "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png", "tipo": "oficial"},
+    {"nombre": "Ficha 'Pago de Revista' de BCS (revisión electromecánica)", "url": "https://tramites.bcs.gob.mx/catX/pago-de-revista/", "tipo": "oficial"},
+    {"nombre": "Nexu: verificación vehicular 2026 (BCS: voluntaria en establecimientos particulares)", "url": "http://www.nexu.mx/blog/verificacion-vehicular/", "tipo": "prensa (apoyo)"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "SEMARNAT anota 'N/R' (no reportó información) para BCS; no se localizó una declaración de la Secretaría de Medio Ambiente estatal que confirme la ausencia de programa."
+  ]
+}

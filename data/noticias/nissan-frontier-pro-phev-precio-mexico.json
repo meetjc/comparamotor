@@ -1,0 +1,79 @@
+{
+  "slug": "nissan-frontier-pro-phev-precio-mexico",
+  "titulo": "Nissan Frontier PRO PHEV llega a México como la primera pickup híbrida enchufable de la marca en el país",
+  "tema": "electricos",
+  "fechaFuente": "2026-10-08",
+  "fuentes": [
+    {
+      "nombre": "Autos Actual, Nissan Frontier PRO PHEV 2026 llega a México: precio, versiones y características",
+      "url": "https://www.autosactual.mx/2026/10/08/nissan-frontier-pro-phev-2026-llega-a-mexico/",
+      "fecha": "2026-10-08"
+    },
+    {
+      "nombre": "Motorpasión México, Nueva pick-up híbrida con capacidad todoterreno y sello japonés en México",
+      "url": "https://www.motorpasion.com.mx/industria/nissan-frontier-pro-tiene-precio-mexico-su-pick-up-popular-ahora-hibrida-enchufables",
+      "fecha": "2026-10-08",
+      "nota": "Fecha según la marca de tiempo UTC de la página"
+    }
+  ],
+  "datosClave": [
+    {
+      "dato": "Precio Frontier PRO PHEV LE",
+      "valor": "$899,900",
+      "fuente": "Autos Actual, 8 oct 2026 y Motorpasión México, 8 oct 2026"
+    },
+    {
+      "dato": "Precio Frontier PRO PHEV Platinum",
+      "valor": "$969,900",
+      "fuente": "Autos Actual, 8 oct 2026 y Motorpasión México, 8 oct 2026"
+    },
+    {
+      "dato": "Potencia y par combinados",
+      "valor": "Hasta 350 hp y 660 Nm",
+      "fuente": "Autos Actual, 8 oct 2026"
+    },
+    {
+      "dato": "Batería",
+      "valor": "20 kWh, recargable con conexión externa",
+      "fuente": "Autos Actual, 8 oct 2026"
+    },
+    {
+      "dato": "Autonomía total",
+      "valor": "Cercana a 1,000 km, según Nissan",
+      "fuente": "Autos Actual, 8 oct 2026"
+    },
+    {
+      "dato": "Autonomía en modo eléctrico",
+      "valor": "75 km, según el encabezado de Motorpasión",
+      "fuente": "Motorpasión México, 8 oct 2026"
+    },
+    {
+      "dato": "Capacidades de trabajo",
+      "valor": "Tracción 4x4, bloqueo de diferencial trasero, hasta 815 kg de carga y 3.5 toneladas de arrastre",
+      "fuente": "Autos Actual, 8 oct 2026"
+    },
+    {
+      "dato": "Asistencias a la conducción",
+      "valor": "10 tecnologías desde la versión LE (incluye ProPILOT Assist); la Platinum añade 9 más",
+      "fuente": "Autos Actual, 8 oct 2026"
+    },
+    {
+      "dato": "Posición en el mercado",
+      "valor": "Primera pickup híbrida enchufable de Nissan en México y primer mercado de América Latina en recibirla",
+      "fuente": "Autos Actual, 8 oct 2026"
+    },
+    {
+      "dato": "Origen",
+      "valor": "Motorpasión indica que viene de China, dentro de la alianza de Nissan con Dongfeng",
+      "fuente": "Motorpasión México, 8 oct 2026"
+    }
+  ],
+  "resumen": "Nissan presentó en México la Frontier PRO PHEV, su primera pickup híbrida enchufable en el país y la primera de la marca en América Latina. Combina un motor de gasolina con uno eléctrico y una batería de 20 kWh para entregar hasta 350 hp y 660 Nm, y conserva tracción 4x4, bloqueo de diferencial trasero y 3.5 toneladas de arrastre. Se vende en dos versiones: LE en 899,900 pesos y Platinum en 969,900. Nissan habla de una autonomía total cercana a 1,000 km y Motorpasión cita 75 km en modo eléctrico.",
+  "modelosMencionados": [
+    {
+      "marca": "Nissan",
+      "modelo": "Frontier PRO PHEV"
+    }
+  ],
+  "fechaVerificacion": "2026-10-20"
+}

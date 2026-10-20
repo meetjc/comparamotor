@@ -1,0 +1,743 @@
+{
+  "titulo": "Modelos 2027 lanzados o anunciados para México en 2026",
+  "fechaVerificacion": "2026-10-20",
+  "alcance": "Lanzamientos de año modelo 2027 con precio o fecha publicados en México entre marzo y octubre de 2026. Los precios son de lista o de lanzamiento en pesos mexicanos, según se indica, y deben revalidarse antes de publicarse.",
+  "fuentePrincipal": {
+    "nombre": "Autocosmos, etiqueta Lanzamientos 2027",
+    "url": "https://noticias.autocosmos.com.mx/listado?t=lanzamientos%202027",
+    "fechaConsulta": "2026-10-20"
+  },
+  "totalModelos": 21,
+  "lanzamientos": [
+    {
+      "marca": "Kia",
+      "modelo": "K4 Hatchback",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-03-13",
+      "estatus": "disponible",
+      "carroceria": "hatchback",
+      "notas": "Se fabrica en Pesquería, Nuevo León. La novedad es la versión de entrada EX.",
+      "precios": [
+        {
+          "version": "K4 EX IVT",
+          "precioMXN": 489900
+        },
+        {
+          "version": "K4 GT-Line IVT",
+          "precioMXN": 528900
+        },
+        {
+          "version": "K4 GT-Line Turbo",
+          "precioMXN": 581200
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Kia K4 Hatchback 2027 llega a México, suma una nueva versión de entrada",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/03/13/kia-k4-hatchback-2027-llega-a-mexico-suma-una-nueva-version-de-entrada",
+          "fecha": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "marca": "GWM",
+      "modelo": "ORA 5",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-06-17",
+      "estatus": "disponible",
+      "motorizacion": "gasolina, híbrida y eléctrica",
+      "precios": [
+        {
+          "version": "Gasolina Premium",
+          "precioMXN": 449900
+        },
+        {
+          "version": "Híbrida Luxury",
+          "precioMXN": 574900
+        },
+        {
+          "version": "Eléctrica Luxury",
+          "precioMXN": 644900
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "GWM ORA 5 2027 llega a México, una nueva SUV con versiones ICE, HEV y EV",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/06/17/gwm-ora-5-2027-llega-a-mexico-una-nueva-suv-con-versiones-ice-hev-y-ev-conoce-precios-y-versiones",
+          "fecha": "2026-06-17"
+        }
+      ]
+    },
+    {
+      "marca": "Suzuki",
+      "modelo": "Swift",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-07-17",
+      "estatus": "disponible",
+      "carroceria": "hatchback",
+      "notas": "Sistema micro híbrido Boostergreen.",
+      "precios": [
+        {
+          "version": "Versiones 2027 (cuatro; Autocosmos no asocia cada precio a su nombre en el texto)",
+          "precioMXN": 343990,
+          "nota": "Precios 2027: 343,990; 363,990; 369,990 y 389,990. Subida de 4,000 a 7,000 pesos frente al año modelo 2026."
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Suzuki Swift 2027 llega a México, nuevos colores y más equipamiento",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/07/17/suzuki-swift-2027-llega-a-mexico-nuevos-colores-y-mas-equipamiento",
+          "fecha": "2026-07-17"
+        }
+      ]
+    },
+    {
+      "marca": "Toyota",
+      "modelo": "GR Yaris Aero Performance Package",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-07-21",
+      "estatus": "disponible",
+      "precios": [
+        {
+          "version": "GR Yaris Aero Performance Package",
+          "precioMXN": 898200
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Toyota GR Yaris Aero Performance Package 2027 llega a México",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/07/21/toyota-gr-yaris-aero-performance-package-2027-llega-a-mexico-mejoras-aerodinamicas-gracias-al-wrc",
+          "fecha": "2026-07-21"
+        }
+      ]
+    },
+    {
+      "marca": "Toyota",
+      "modelo": "Hilux",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-08-06",
+      "estatus": "disponible",
+      "carroceria": "pickup mediana",
+      "notas": "Novena generación.",
+      "precios": [
+        {
+          "version": "Doble Cabina Base",
+          "precioMXN": 570900
+        },
+        {
+          "version": "Doble Cabina SR",
+          "precioMXN": 620900
+        },
+        {
+          "version": "Diésel 4x4 Manual",
+          "precioMXN": 720900
+        },
+        {
+          "version": "Diésel 4x4 Automática MHEV",
+          "precioMXN": 880900
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Toyota Hilux 2027, precios y versiones en México de la nueva generación",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/08/06/toyota-hilux-2027-precios-y-versiones-en-mexico-de-la-nueva-generacion",
+          "fecha": "2026-08-06"
+        }
+      ]
+    },
+    {
+      "marca": "Volkswagen",
+      "modelo": "Jetta",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-08-20",
+      "estatus": "disponible",
+      "carroceria": "sedán",
+      "motorizacion": "turbo 1.4 L y turbo 2.0 L",
+      "precios": [
+        {
+          "version": "Trendline",
+          "precioMXN": 449290
+        },
+        {
+          "version": "Comfortline",
+          "precioMXN": 498290
+        },
+        {
+          "version": "Sportline",
+          "precioMXN": 565690
+        },
+        {
+          "version": "GLI",
+          "precioMXN": 691190
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Volkswagen Jetta 2027 llega a México, mismo diseño pero con mayor equipamiento",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/08/20/volkswagen-jetta-2027-llega-a-mexico-mismo-diseno-pero-con-mayor-equipamiento",
+          "fecha": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "marca": "Suzuki",
+      "modelo": "Across BoosterGreen",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-08-25",
+      "estatus": "disponible",
+      "precios": [
+        {
+          "version": "GLX",
+          "precioMXN": 529990
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Suzuki Across BoosterGreen 2027: precio, equipamiento y seguridad en México",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/08/25/suzuki-across-boostergreen-2027-precio-equipamiento-y-seguridad-en-mexico",
+          "fecha": "2026-08-25"
+        }
+      ]
+    },
+    {
+      "marca": "Nissan",
+      "modelo": "Kait",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-08-31",
+      "estatus": "disponible",
+      "precios": [
+        {
+          "version": "Advance CVT",
+          "precioMXN": 429990
+        },
+        {
+          "version": "Exclusive CVT",
+          "precioMXN": 446990
+        },
+        {
+          "version": "Platinum CVT",
+          "precioMXN": 465990
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Nissan Kait 2027 es todo lo que está bien",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/08/31/nissan-kait-2027-es-todo-lo-que-esta-bien",
+          "fecha": "2026-08-31"
+        }
+      ]
+    },
+    {
+      "marca": "Kia",
+      "modelo": "Sportage",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-09-02",
+      "estatus": "disponible",
+      "notas": "Incorpora motor turbo 1.5 L y versiones híbridas.",
+      "precios": [
+        {
+          "version": "EX 2.5L",
+          "precioMXN": 647900
+        },
+        {
+          "version": "SX 1.5L Turbo",
+          "precioMXN": 694900
+        },
+        {
+          "version": "X-Line 1.5L Turbo",
+          "precioMXN": 775900
+        },
+        {
+          "version": "EX Pack HEV",
+          "precioMXN": 799900
+        },
+        {
+          "version": "X-Line HEV",
+          "precioMXN": 894200
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Kia Sportage 2027: con motor turbo, nuevas versiones y precios",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/09/02/kia-sportage-2027-con-motor-turbo-nuevas-versiones-y-precios",
+          "fecha": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "marca": "Jetour",
+      "modelo": "T2 i-DM XWD",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-09-03",
+      "estatus": "disponible",
+      "carroceria": "SUV",
+      "motorizacion": "híbrida enchufable, 597 hp, batería de 43.2 kWh, hasta 173 km eléctricos",
+      "precios": [
+        {
+          "version": "T2 i-DM XWD",
+          "precioMXN": 929900,
+          "nota": "Precio de lanzamiento"
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Jetour T2 i-DM XWD 2027 llega a México con 597 hp y este es el precio",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/09/03/jetour-t2-i-dm-xwd-2027-llega-a-mexico-con-597-hp-y-este-es-el-precio",
+          "fecha": "2026-09-03"
+        }
+      ]
+    },
+    {
+      "marca": "Kia",
+      "modelo": "Seltos",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-09-10",
+      "estatus": "disponible (gasolina); HEV en preventa con entregas desde la segunda mitad de octubre",
+      "carroceria": "SUV subcompacta",
+      "notas": "Segunda generación; primera Seltos híbrida en México.",
+      "precios": [
+        {
+          "version": "LX 1.5L IVT",
+          "precioMXN": 499900,
+          "nota": "El texto de la nota imprime $499,00; el catálogo de la misma página indica $499,900"
+        },
+        {
+          "version": "EX 1.5L IVT",
+          "precioMXN": 529900
+        },
+        {
+          "version": "EX Pack 1.5T 8 AT",
+          "precioMXN": 554900
+        },
+        {
+          "version": "SX 1.5T 8 AT",
+          "precioMXN": 619900
+        },
+        {
+          "version": "SXL HEV (preventa)",
+          "precioMXN": 649900
+        },
+        {
+          "version": "X-Line HEV (preventa)",
+          "precioMXN": 704900
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Kia Seltos 2027 llega a México, una nueva generación y versión híbrida",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/09/10/kia-seltos-2027-llega-a-mexico-una-nueva-generacion-y-version-hibrida",
+          "fecha": "2026-09-10"
+        },
+        {
+          "nombre": "Kia Seltos híbrida 2027: continúa preventa a través de Mercado Libre",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/09/25/kia-seltos-hibrida-2027-continua-preventa-a-traves-de-mercado-libre",
+          "fecha": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "marca": "Hyundai",
+      "modelo": "Venue",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-09-21",
+      "estatus": "disponible desde el 8 de octubre de 2026",
+      "carroceria": "SUV",
+      "motorizacion": "1.0 L turbo",
+      "notas": "Primera vez que el Venue entra al portafolio de Hyundai en México; 75 distribuidores.",
+      "precios": [
+        {
+          "version": "Venue GL TM",
+          "precioMXN": 395000,
+          "nota": "Precio especial de lanzamiento por tiempo limitado"
+        },
+        {
+          "version": "Venue Limited DCT",
+          "precioMXN": 449000,
+          "nota": "Precio especial de lanzamiento por tiempo limitado"
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Hyundai Venue 2027 llega a México: versiones, precios y equipamiento",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/09/21/hyundai-venue-2027-llega-a-mexico-versiones-precios-y-equipamiento",
+          "fecha": "2026-09-21"
+        },
+        {
+          "nombre": "Hyundai VENUE 2027 ya está en México: precio y versiones",
+          "medio": "Autos Actual",
+          "url": "https://www.autosactual.mx/2026/10/08/hyundai-venue-2027-mexico-precio-y-versiones/",
+          "fecha": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "marca": "Toyota",
+      "modelo": "Prius",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-09-21",
+      "estatus": "disponible",
+      "motorizacion": "híbrido, 1.8 L, 138 hp",
+      "notas": "Estrena Connected Services; sin cambios mecánicos.",
+      "precios": [
+        {
+          "version": "Prius Base",
+          "precioMXN": 525500
+        },
+        {
+          "version": "Prius Premium",
+          "precioMXN": 599500
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Toyota Prius 2027 llega a México, más tecnología, conectividad y eficiencia",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/09/21/toyota-prius-2027-llega-a-mexico-mas-tecnologia-conectividad-y-eficiencia",
+          "fecha": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "marca": "Kia",
+      "modelo": "K3 Sedán GT-Line",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-09-28",
+      "estatus": "disponible",
+      "carroceria": "sedán",
+      "notas": "Nuevo tope de gama del K3, el tercer auto más vendido del acumulado enero-septiembre.",
+      "precios": [
+        {
+          "version": "K3 Sedán GT-Line 1.6L",
+          "precioMXN": 446400
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Kia K3 Sedán GT-Line 2027, precio en México del nuevo tope de gama",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/09/28/kia-k3-sedan-gt-line-2027-precio-en-mexico-del-nuevo-tope-de-gama",
+          "fecha": "2026-09-28"
+        }
+      ]
+    },
+    {
+      "marca": "GWM",
+      "modelo": "Haval H7",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-09-28",
+      "estatus": "disponible",
+      "carroceria": "SUV mediana",
+      "motorizacion": "híbrida (HEV) e híbrida enchufable (PHEV), tracción integral Hi4",
+      "precios": [
+        {
+          "version": "Haval H7 Luxury HEV",
+          "precioMXN": 779900
+        },
+        {
+          "version": "Haval H7 Luxury PHEV",
+          "precioMXN": 859900
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "GWM Haval H7 2027 llega a México, la nueva SUV mediana con versiones HEV y PHEV",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/09/28/gwm-haval-h7-2027-llega-a-mexico-la-nueva-suv-mediana-con-versiones-hev-y-phev",
+          "fecha": "2026-09-28"
+        },
+        {
+          "nombre": "Los 10 SUVs más vendidos en septiembre 2026 (22 unidades del H7 en su primer mes)",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/10/08/los-10-suvs-mas-vendidos-en-septiembre-2026",
+          "fecha": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "marca": "GWM",
+      "modelo": "P300 (antes Poer)",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-09-29",
+      "estatus": "disponible",
+      "carroceria": "pickup mediana",
+      "notas": "Primera pickup mediana híbrida enchufable del segmento, según la nota.",
+      "precios": [
+        {
+          "version": "Commercial Premium",
+          "precioMXN": 469900
+        },
+        {
+          "version": "Commercial Luxury",
+          "precioMXN": 499900
+        },
+        {
+          "version": "Passenger Premium",
+          "precioMXN": 559900
+        },
+        {
+          "version": "Passenger Luxury 4x2",
+          "precioMXN": 599900
+        },
+        {
+          "version": "Passenger Luxury 4x4",
+          "precioMXN": 644900
+        },
+        {
+          "version": "Passenger Luxury PHEV",
+          "precioMXN": 854900
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "GWM P300 2027 llega a México, la Poer se renueva y estrena versión híbrida enchufable",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/09/29/gwm-p300-2027-llega-a-mexico-la-poer-se-renueva-y-estrena-version-hibrida-enchufable",
+          "fecha": "2026-09-29"
+        }
+      ]
+    },
+    {
+      "marca": "BMW",
+      "modelo": "X5",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-10-01",
+      "estatus": "disponible (una sola versión de momento)",
+      "carroceria": "SUV",
+      "motorizacion": "6 cilindros en línea 3.0 L con hibridación ligera, 394 hp",
+      "notas": "Quinta generación.",
+      "precios": [
+        {
+          "version": "X5 40 xDrive",
+          "precioMXN": 1729900
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "BMW X5 2027 llega a México, una nueva generación con estilo inspirado en la Neue Klasse",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/10/01/bmw-x5-2027-llega-a-mexico-una-nueva-generacion-con-estilo-inspirado-en-la-neue-klasse",
+          "fecha": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "marca": "Jetour",
+      "modelo": "F700",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-10-09",
+      "estatus": "disponible",
+      "carroceria": "pickup",
+      "motorizacion": "híbrida enchufable, 892 hp, batería de 34.1 kWh",
+      "precios": [
+        {
+          "version": "F700 Wild",
+          "precioMXN": 1209900,
+          "nota": "Precio de lanzamiento; precio de lista $1,249,900"
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Jetour F700 2027 llega a México, una nueva pickup híbrida enchufable con capacidades todoterreno",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/10/09/jetour-f700-2027-llega-a-mexico-una-nueva-pickup-hibrida-enchufable-con-capacidades-todoterreno",
+          "fecha": "2026-10-09"
+        },
+        {
+          "nombre": "Las 10 pickups más vendidas en septiembre 2026 (16 unidades reportadas antes del lanzamiento oficial)",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/10/09/las-10-pickups-mas-vendidas-en-septiembre-2026",
+          "fecha": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "marca": "Volkswagen",
+      "modelo": "Teramont",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-10-14",
+      "estatus": "precio anunciado; disponible desde el 9 de noviembre de 2026",
+      "carroceria": "SUV de tres filas",
+      "motorizacion": "2.0 L turbo, 282 hp, tracción delantera o 4Motion",
+      "precios": [
+        {
+          "version": "Trendline",
+          "precioMXN": 929990
+        },
+        {
+          "version": "Comfortline",
+          "precioMXN": 1083990
+        },
+        {
+          "version": "R-Line",
+          "precioMXN": 1183990
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Volkswagen Teramont 2027 llega a México, más tecnológico y seguro",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/10/14/volkswagen-teramont-2027-llega-a-mexico-mas-tecnologico-y-seguro",
+          "fecha": "2026-10-14"
+        },
+        {
+          "nombre": "La Volkswagen Teramont 2027 ya tiene precio en México",
+          "medio": "Motorpasión México",
+          "url": "https://www.motorpasion.com.mx/industria/volkswagen-teramont-2027-tiene-precio-mexico-camioneta-tres-filas-asientos-vw-llega-renovada-a-profundidad",
+          "fecha": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "marca": "Geely",
+      "modelo": "Monjaro EM-i",
+      "anioModelo": "2027",
+      "fechaFuente": "2026-10-15",
+      "estatus": "disponible",
+      "carroceria": "SUV mediana",
+      "motorizacion": "híbrida enchufable, 275 hp (GL) o 335 hp (GF); batería de 18.4 o 29.8 kWh",
+      "notas": "Los primeros 500 clientes reciben bono de lanzamiento de 20,000 pesos.",
+      "precios": [
+        {
+          "version": "Monjaro EM-i GL",
+          "precioMXN": 747900
+        },
+        {
+          "version": "Monjaro EM-i GF",
+          "precioMXN": 819900
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "Geely Monjaro EM-i 2027 llega a México, la SUV mediana se vuelve híbrida enchufable",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/10/15/geely-monjaro-em-i-2027-llega-a-mexico-la-suv-mediana-se-vuelve-hibrida-enchufable",
+          "fecha": "2026-10-15"
+        }
+      ]
+    },
+    {
+      "marca": "Geely",
+      "modelo": "Starray (nueva generación) y Cityray (actualizado)",
+      "anioModelo": "2027 (por confirmar)",
+      "fechaFuente": "2026-10-19",
+      "estatus": "confirmado para México antes de que termine 2026; sin precio ni fecha",
+      "notas": "Las especificaciones definitivas se darán a conocer en su presentación, antes de que termine el cuarto trimestre de 2026.",
+      "precios": [],
+      "fuentes": [
+        {
+          "nombre": "Geely confirma la llegada a México de los renovados Cityray y Starray en 2026",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/10/19/geely-confirma-la-llegada-a-mexico-de-los-renovados-cityray-y-starray-en-2026",
+          "fecha": "2026-10-19"
+        }
+      ]
+    }
+  ],
+  "anunciadosSinConfirmarParaMexico": [
+    {
+      "marca": "Volkswagen",
+      "modelo": "Tukan",
+      "fechaFuente": "2026-08-21",
+      "estatus": "anunciado; llegaría a México en 2027, sin fecha ni precio",
+      "nota": "Pickup de acceso que reemplazaría a la Saveiro; ventas en Brasil en el primer semestre de 2027.",
+      "fuentes": [
+        {
+          "nombre": "Así es la Volkswagen Tukan, la nueva pick-up barata de VW que llegará a México en 2027",
+          "medio": "Motorpasión México",
+          "url": "https://www.motorpasion.com.mx/industria/asi-volkswagen-tukan-nueva-pick-up-barata-vw-que-llegara-a-mexico-2027",
+          "fecha": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "marca": "Volkswagen",
+      "modelo": "Lamando L",
+      "fechaFuente": "2026-10-09",
+      "estatus": "sin confirmación oficial de Volkswagen de México",
+      "nota": "Según SAIC-Volkswagen, el primer lote hacia México estaba por zarpar de China; El Economista indica que la filial mexicana no había confirmado su llegada.",
+      "fuentes": [
+        {
+          "nombre": "Volkswagen Lamando L llegará a México: el primer VW hecho en China en su alineación",
+          "medio": "El Economista",
+          "url": "https://www.eleconomista.com.mx/autos/volkswagen-lamando-l-mexico-auto-hecho-china-20261009-837798.html",
+          "fecha": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "marca": "BMW",
+      "modelo": "iX4",
+      "anio": "2027",
+      "fechaFuente": "2026-10-10",
+      "estatus": "comercialización global prevista para marzo de 2027; sin fecha ni precio para México",
+      "fuentes": [
+        {
+          "nombre": "BMW iX4 2027: el SUV eléctrico que promete hasta 828 km de autonomía",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/10/10/bmw-ix4-2027-el-suv-electrico-que-promete-hasta-828-km-de-autonomia",
+          "fecha": "2026-10-10"
+        }
+      ]
+    },
+    {
+      "marca": "Renault",
+      "modelo": "Kwid",
+      "anio": "2027",
+      "fechaFuente": "2026-08-27",
+      "estatus": "renovación presentada para Brasil; la nota no confirma llegada ni precios para México",
+      "fuentes": [
+        {
+          "nombre": "Renault Kwid 2027 evoluciona donde importa más: conectividad, diseño y equipamiento",
+          "medio": "Autocosmos",
+          "url": "https://noticias.autocosmos.com.mx/2026/08/27/renault-kwid-2027-evoluciona-donde-importa-mas-conectividad-diseno-y-equipamiento",
+          "fecha": "2026-08-27"
+        }
+      ]
+    }
+  ],
+  "otrosLanzamientosRelevantes": [
+    {
+      "marca": "Nissan",
+      "modelo": "Frontier PRO PHEV",
+      "anioModelo": "2026",
+      "fechaFuente": "2026-10-08",
+      "estatus": "disponible",
+      "precios": [
+        {
+          "version": "LE",
+          "precioMXN": 899900
+        },
+        {
+          "version": "Platinum",
+          "precioMXN": 969900
+        }
+      ],
+      "notas": "Primera pickup híbrida enchufable de Nissan en México; no es año modelo 2027.",
+      "fuentes": [
+        {
+          "nombre": "Nissan Frontier PRO PHEV 2026 llega a México: precio, versiones y características",
+          "medio": "Autos Actual",
+          "url": "https://www.autosactual.mx/2026/10/08/nissan-frontier-pro-phev-2026-llega-a-mexico/",
+          "fecha": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "notas": [
+    "fechaFuente es la fecha de publicación de la nota que reporta el lanzamiento, no necesariamente la fecha de disponibilidad en agencias; la disponibilidad se indica en el campo estatus cuando la fuente la menciona.",
+    "Casi todos los datos de este archivo provienen de Autocosmos; Venue, Teramont, Seltos y Frontier PRO PHEV tienen una segunda fuente que coincide en precios."
+  ]
+}

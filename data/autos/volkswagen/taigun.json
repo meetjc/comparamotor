@@ -1,0 +1,65 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "Taigun",
+  "slug": "taigun",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Comfortline",
+      "anio": 2026,
+      "precio": 475990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.0 L 3 cil. TSI",
+      "potenciaHp": 114,
+      "rendimientoCombinadoKmL": 18.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/taigun.app",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina, según ficha). Tiptronic de 8 velocidades, tracción delantera. Incluye asistente de colisión frontal con freno de emergencia. Precio de lista con IVA e ISAN según VW."
+    },
+    {
+      "nombre": "GT",
+      "anio": 2026,
+      "precio": 501990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.0 L 3 cil. TSI",
+      "potenciaHp": 114,
+      "rendimientoCombinadoKmL": 18.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/taigun.app",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina, según ficha). Tiptronic de 8 velocidades, tracción delantera. Incluye asistente de colisión frontal con freno de emergencia. Precio de lista con IVA e ISAN según VW."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años de protección VW: garantía, asistencia vial, robo de autopartes y protección de llantas (la página de Taigun no detalla km; en Virtus, Jetta y Taos VW publica 5 años defensa a defensa o hasta 100,000 km)",
+    "fuente": "Volkswagen de México (sitio oficial, página del modelo)",
+    "url": "https://www.vw.com.mx/es/autos-suvs/taigun.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.vw.com.mx/es/autos-suvs/taigun.html",
+    "https://www.vw.com.mx/es/configurador.html/__app/taigun.app",
+    "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2026/volkswagen-nuevo-taigun-2026-ficha-tecnica.pdf",
+    "https://www.vw.com.mx/es/autos-suvs/t-cross.html"
+  ],
+  "pendientes": [
+    "Archivo extra: Taigun es el SUV subcompacto que VW vende hoy en México; la URL vw.com.mx/es/autos-suvs/t-cross.html redirige a la página de Nuevo Taigun",
+    "Rendimiento combinado 18.9 km/l tomado de la página del modelo; el extracto de la ficha técnica solo mostró carretera (22.5 km/l) y ciudad (16.6 km/l)",
+    "Condiciones exactas de la garantía de Taigun (km) no confirmadas en su página",
+    "Sin promoción de Taigun verificada con vigencia; el listado general de VW menciona bono de hasta $12,180 o seguro gratis, sin leer sus condiciones"
+  ]
+}

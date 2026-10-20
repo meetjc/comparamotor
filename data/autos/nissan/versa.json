@@ -1,0 +1,151 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "Versa",
+  "slug": "versa",
+  "carroceria": "sedan",
+  "segmento": "subcompacto",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Sense Base TM",
+      "anio": 2026,
+      "precio": 374900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 118,
+      "rendimientoCombinadoKmL": 19.06,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/versa.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $309,990 (vigencia 07-oct a 02-nov-2026). Transmisión manual de 5 velocidades. Rendimiento 19.06 km/l combinado (ciudad 16.48, carretera 23.58) según la comparación de versiones de nissan.com.mx; el catálogo PDF 2026 publica 18.81 km/l (fuentes oficiales difieren). Frenado: la comparación oficial lista Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal (FCW); la ficha de esta versión no menciona detección de peatones."
+    },
+    {
+      "nombre": "Sense TM",
+      "anio": 2026,
+      "precio": 382900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 118,
+      "rendimientoCombinadoKmL": 19.06,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/versa.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $326,990 (vigencia 07-oct a 02-nov-2026). Transmisión manual de 5 velocidades. Rendimiento 19.06 km/l combinado (ciudad 16.48, carretera 23.58) según la comparación de versiones de nissan.com.mx; el catálogo PDF 2026 publica 18.81 km/l (fuentes oficiales difieren). Incluye Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) según la ficha de la versión."
+    },
+    {
+      "nombre": "Sense CVT",
+      "anio": 2026,
+      "precio": 406900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 118,
+      "rendimientoCombinadoKmL": 20.69,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/versa.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $351,990 (vigencia 07-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 20.69 km/l combinado (ciudad 18.29, carretera 24.64) según la comparación de versiones de nissan.com.mx; el catálogo PDF 2026 publica 18.77 km/l (fuentes oficiales difieren). Incluye I-FEB+PED según la ficha de la versión."
+    },
+    {
+      "nombre": "Advance TM",
+      "anio": 2026,
+      "precio": 428900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 118,
+      "rendimientoCombinadoKmL": 19.06,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/versa.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $348,990 (vigencia 07-oct a 02-nov-2026). Transmisión manual de 5 velocidades. Rendimiento 19.06 km/l combinado (ciudad 16.48, carretera 23.58) según la comparación de versiones de nissan.com.mx; el catálogo PDF 2026 publica 18.81 km/l (fuentes oficiales difieren). Incluye I-FEB+PED y Monitor de Visión Periférica según la ficha de la versión."
+    },
+    {
+      "nombre": "Advance CVT",
+      "anio": 2026,
+      "precio": 439900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 118,
+      "rendimientoCombinadoKmL": 20.69,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/versa.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $359,990 (vigencia 07-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 20.69 km/l combinado (ciudad 18.29, carretera 24.64) según la comparación de versiones de nissan.com.mx; el catálogo PDF 2026 publica 18.77 km/l (fuentes oficiales difieren). Incluye I-FEB+PED y Monitor de Visión Periférica según la ficha de la versión."
+    },
+    {
+      "nombre": "Exclusive CVT",
+      "anio": 2026,
+      "precio": 470900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 118,
+      "rendimientoCombinadoKmL": 20.94,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/versa.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $406,990 (vigencia 07-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 20.94 km/l combinado (ciudad 18.5, carretera 24.95) según la comparación de versiones de nissan.com.mx; el catálogo PDF 2026 publica 18.77 km/l (fuentes oficiales difieren). Suma Intervención Inteligente de Punto Ciego, pantalla de 12.3 pulgadas y audio BOSE de 8 bocinas según la ficha de la versión."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía de fábrica; requiere servicios cada 6 meses o 10,000 km)",
+    "fuente": "Nissan México (Portal de Clientes oficial, artículo del 28-mar-2025)",
+    "url": "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Precio especial CrediNissan por versión: Sense Base TM $309,990; Sense TM $326,990; Sense CVT $351,990; Advance TM $348,990; Advance CVT $359,990; Exclusive CVT $406,990. Aplica en todas las versiones Versa 2026 y no se combina con otras promociones.",
+      "precioOferta": 309990,
+      "condicion": "Solo crédito tradicional con NR Finance México, sujeto a aprobación y comportamiento crediticio. Sin crédito rige el precio de lista.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/versa.html",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "descripcion": "Hasta 48 meses sin intereses + 0% de comisión por apertura (leyenda del encabezado de la página del modelo).",
+      "precioOferta": null,
+      "condicion": "Leyenda sin términos en la página; Nissan indica que las condiciones se consultan con el distribuidor. Vigencia no publicada junto a esta leyenda.",
+      "vigenciaHasta": null,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/versa.html",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.nissan.com.mx/vehiculos/todos/versa.html",
+    "https://www.nissan.com.mx/vehiculos/todos/versa/precios-y-versiones.html",
+    "https://www.nissan.com.mx/content/dam/Nissan/mexico/assets/versa/my26/vlp/catalogos/nissan-2026-versa-catalogo.pdf",
+    "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
+  ],
+  "pendientes": [
+    "Rendimiento combinado: la comparación de versiones del sitio (19.06 TM, 20.69 CVT Sense/Advance, 20.94 Exclusive) y el catálogo PDF 2026 (18.81 TM, 18.77 CVT) no coinciden; confirmar con la etiqueta de eficiencia/Conuee antes de publicar.",
+    "Matriz de equipamiento por versión del catálogo PDF y de la tabla web no es legible; I-FEB+PED por versión se tomó de las fichas de cada versión y de la fila I-EB+FCW de la comparación.",
+    "Vigencia de la leyenda 'hasta 48 MSI' no publicada; solo la tabla CrediNissan indica 07-oct a 02-nov-2026."
+  ]
+}

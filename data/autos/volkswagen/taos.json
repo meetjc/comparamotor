@@ -1,0 +1,109 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "Taos",
+  "slug": "taos",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Trendline",
+      "anio": 2026,
+      "precio": 502390,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (TSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 17.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/taos.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina). Tiptronic de 8 velocidades, tracción delantera. Incluye asistente de colisión frontal con freno de emergencia y Lane Assist. Precio de lista con IVA e ISAN según VW."
+    },
+    {
+      "nombre": "Edición Especial GOAL",
+      "anio": 2026,
+      "precio": 519990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (TSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 17.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/taos.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina). Tiptronic de 8 velocidades, tracción delantera. Incluye asistente de colisión frontal con freno de emergencia y Lane Assist. Precio de lista con IVA e ISAN según VW. Edición especial; precio de lista desde $519,990 según VW."
+    },
+    {
+      "nombre": "Comfortline",
+      "anio": 2026,
+      "precio": 554990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (TSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 18.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/taos.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina). Tiptronic de 8 velocidades, tracción delantera. Incluye asistente de colisión frontal con freno de emergencia y Lane Assist. Precio de lista con IVA e ISAN según VW."
+    },
+    {
+      "nombre": "Highline",
+      "anio": 2026,
+      "precio": 616190,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (TSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 18.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/taos.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "6 bolsas de aire (frontales, laterales y cortina). Tiptronic de 8 velocidades, tracción delantera. Incluye asistente de colisión frontal con freno de emergencia y Lane Assist. Precio de lista con IVA e ISAN según VW."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años de garantía defensa a defensa o hasta 100,000 km (Protección VW; incluye seguro de robo de autopartes, asistencia vial y protección de llantas)",
+    "fuente": "Volkswagen de México (sitio oficial, página del modelo)",
+    "url": "https://www.vw.com.mx/es/autos-suvs/taos.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Taos Highline 2026: tasa de 9.9% + seguro gratis, o bono de $42,400 + seguro gratis",
+      "precioOferta": null,
+      "condicion": "Tasa: persona física asalariada, enganche 32.5%, 24 meses, tasa fija ordinaria 9.99%, CAT sin IVA 13.6% (calculado al 28-sep-2026). El bono incluye IVA y se aplica solo como descuento al precio de lista o subvención a la tasa. Seguro gratis: cobertura amplia el primer año. No aplica con otras promociones; sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Volkswagen de México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.vw.com.mx/es/promociones/taos.html",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.vw.com.mx/es/autos-suvs/taos.html",
+    "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2026/volkswagen-taos-goal-2026-ficha-tecnica.pdf",
+    "https://www.vw.com.mx/es/promociones/taos.html",
+    "https://www.vw.com.mx/es/configurador.html"
+  ],
+  "pendientes": [
+    "Rendimiento: la página del modelo dice 16.8 km/l, pero la ficha técnica 2026 da 17.1 km/l (Trendline y GOAL) y 18.0 km/l (Comfortline y Highline); se usó la ficha",
+    "La ficha técnica no rotula las columnas por versión; el orden Trendline, GOAL, Comfortline, Highline se dedujo del equipamiento de cada columna (etiqueta GOAL, asiento eléctrico, Light Assist)",
+    "Solo hay Taos 2026 en el sitio de VW (no hay año modelo 2027)",
+    "Clasificación del segmento (suv-compacta) es criterio editorial, no viene de la marca"
+  ]
+}

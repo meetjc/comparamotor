@@ -1,0 +1,105 @@
+{
+  "marca": "Kia",
+  "marcaSlug": "kia",
+  "modelo": "Sonet",
+  "slug": "sonet",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "coreana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "LX MT",
+      "anio": 2027,
+      "precio": 398400,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 113,
+      "rendimientoCombinadoKmL": 15.14,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/sonet/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Manual de 6 velocidades. Rines de aluminio de 16\". La tabla oficial de seguridad marca el sistema de evasión de colisión frontal (FCA) solo en la versión SX IVT; todas incluyen frenos multicolisión (MCB), que no es frenado autónomo."
+    },
+    {
+      "nombre": "LX IVT",
+      "anio": 2027,
+      "precio": 411900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 113,
+      "rendimientoCombinadoKmL": 18.03,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/sonet/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Kia la nombra IVT (transmisión variable inteligente, de tipo continuamente variable). Sin FCA según la tabla oficial."
+    },
+    {
+      "nombre": "EX IVT",
+      "anio": 2027,
+      "precio": 433000,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 113,
+      "rendimientoCombinadoKmL": 18.03,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/sonet/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "IVT. Sin FCA según la tabla oficial; suma control crucero y limitador de velocidad manual frente a LX."
+    },
+    {
+      "nombre": "SX IVT",
+      "anio": 2027,
+      "precio": 475900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 113,
+      "rendimientoCombinadoKmL": 18.03,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/sonet/specification.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "IVT. Única versión con FCA (sistema de evasión de colisión frontal) en la tabla oficial; además trae asistente de mantenimiento y seguimiento de carril, luces de carretera automáticas y alerta de atención del conductor."
+    }
+  ],
+  "garantia": {
+    "texto": "Tren motriz 7 años o 150,000 km; garantía básica (defensa a defensa) 5 años o 100,000 km (lo que ocurra primero)",
+    "fuente": "Kia México (sitio oficial), página de promociones",
+    "url": "https://www.kia.com/mx/shopping-tools/promociones-new.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Kia Sonet 2027, todas las versiones: bono de $30,000 (IVA incluido) al enganche + 'Compra ahora y paga en diciembre'",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Autoexpress Inbursa; CAT promedio 26.6% sin IVA calculado al 01-oct-2026 (importe promedio a financiar $247,008, 60 meses, enganche 30%, tasa fija 11.84%, comisión 2%); pago a partir de diciembre de 2026; sujeto a aprobación de crédito.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-sonet.html",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.kia.com/mx/showroom/sonet/specification.html",
+    "https://www.kia.com/mx/shopping-tools/promociones-new.html",
+    "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-sonet.html"
+  ],
+  "pendientes": [
+    "El widget de apartado (apartatukia.com) mostraba el Sonet 'desde $396,000', distinto del precio de $398,400 del sitio oficial kia.com/mx; se usó el del sitio oficial"
+  ]
+}

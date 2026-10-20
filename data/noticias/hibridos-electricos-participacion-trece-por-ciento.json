@@ -1,0 +1,79 @@
+{
+  "slug": "hibridos-electricos-participacion-trece-por-ciento",
+  "titulo": "Los híbridos y eléctricos suman 16,824 unidades en septiembre y ya son 13% de las ventas de autos nuevos",
+  "tema": "electricos",
+  "fechaFuente": "2026-10-07",
+  "fuentes": [
+    {
+      "nombre": "Visión Automotriz, El récord de autos vendidos en México cuenta solo la mitad de la historia (cifras de AMIA con datos del INEGI)",
+      "url": "https://www.visionautomotriz.com.mx/51759/ventas-autos-2026/",
+      "fecha": "2026-10-07"
+    },
+    {
+      "nombre": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (ventas de vehículos híbridos y eléctricos)",
+      "url": "https://www.amda.mx/wp-content/uploads/2609_ligeros.pdf",
+      "fecha": "2026-10-07"
+    },
+    {
+      "nombre": "INEGI, RAIAVL: presentación y calendario (el registro publica híbridos y eléctricos por entidad federativa)",
+      "url": "https://www.inegi.org.mx/datosprimarios/iavl/",
+      "fecha": "2026-10-20",
+      "nota": "Página institucional consultada el 20 de octubre de 2026"
+    }
+  ],
+  "datosClave": [
+    {
+      "dato": "Híbridos, híbridos enchufables y eléctricos vendidos en septiembre 2026",
+      "valor": "16,824 unidades, +37.5% frente a 12,237 de septiembre de 2025",
+      "fuente": "Visión Automotriz (AMIA/INEGI) y AMDA, 7 oct 2026"
+    },
+    {
+      "dato": "Peso en las ventas del mes",
+      "valor": "13.0% de las ventas nacionales de septiembre",
+      "fuente": "Visión Automotriz (AMIA/INEGI), 7 oct 2026"
+    },
+    {
+      "dato": "Híbridos convencionales, septiembre",
+      "valor": "11,063 unidades",
+      "fuente": "Visión Automotriz (AMIA/INEGI), 7 oct 2026"
+    },
+    {
+      "dato": "Híbridos enchufables, septiembre",
+      "valor": "3,267 unidades, +222.2% frente a septiembre de 2025",
+      "fuente": "Visión Automotriz (AMIA/INEGI), 7 oct 2026"
+    },
+    {
+      "dato": "Eléctricos, septiembre",
+      "valor": "2,494 unidades",
+      "fuente": "Visión Automotriz (AMIA/INEGI), 7 oct 2026"
+    },
+    {
+      "dato": "Acumulado enero-septiembre 2026",
+      "valor": "146,183 unidades, +45.1% frente a 100,766 de 2025",
+      "fuente": "Visión Automotriz (AMIA/INEGI) y AMDA, 7 oct 2026"
+    },
+    {
+      "dato": "Participación en el total de ventas, enero-septiembre",
+      "valor": "12.8% en 2026, contra 9.3% en 2025",
+      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+    },
+    {
+      "dato": "Participación de los eléctricos puros, enero-septiembre",
+      "valor": "1.91% en 2026, contra 1.41% en 2025",
+      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+    },
+    {
+      "dato": "Mezcla por tecnología, enero-septiembre 2026",
+      "valor": "Híbridos 67.82%, híbridos enchufables 17.27%, eléctricos 14.91%",
+      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+    },
+    {
+      "dato": "Crédito en híbridos y eléctricos",
+      "valor": "51.4% de las ventas con financiamiento al corte de julio de 2026 (-2.6 puntos porcentuales)",
+      "fuente": "AMDA, reporte de financiamiento (publicado el 1 sep 2026)"
+    }
+  ],
+  "resumen": "Uno de cada ocho autos nuevos que se venden en México ya es híbrido o eléctrico: en septiembre fueron 16,824 unidades, 37.5% más que un año antes y 13.0% del mercado del mes. Los híbridos convencionales siguen siendo la mayoría (11,063), pero los enchufables crecieron 222.2% hasta 3,267 unidades y los eléctricos puros sumaron 2,494. Entre enero y septiembre el conjunto acumula 146,183 vehículos, 45.1% más que en 2025 y 12.8% del mercado. Los eléctricos puros pesan 1.91% de las ventas del año, según la AMDA con datos del INEGI.",
+  "modelosMencionados": [],
+  "fechaVerificacion": "2026-10-20"
+}

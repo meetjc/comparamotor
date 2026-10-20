@@ -1,0 +1,34 @@
+{
+  "estado": "Puebla",
+  "slug": "puebla",
+  "cobraTenencia2026": true,
+  "tenencia": "Puebla mantiene el Impuesto sobre Tenencia o Uso de Vehículos (art. 46 de la Ley de Hacienda del Estado). En 2026 opera un Programa de Apoyo del 100% en el pago de ese impuesto (art. 46 de la Ley de Hacienda y último párrafo del art. 17 de la Ley de Ingresos 2026), reglamentado por Reglas de Carácter General publicadas en el Periódico Oficial el 22 de diciembre de 2025 (Núm. 16, Cuarta Sección, Tomo DCVIII). Condiciones para acceder: estar inscrito en el Registro Estatal Vehicular, estar al corriente en tenencia y en los derechos vinculados al vehículo, actualizar datos en el Registro y no tener créditos fiscales pendientes por sanciones de fotomultas por exceso de velocidad. Se considera 'al corriente' quien pague a más tardar el 31 de marzo de 2026. Quien paga a tiempo el Control Vehicular recibe el 100% de apoyo en tenencia; fuera de plazo debe pagar también la tenencia con actualización y recargos. Vehículos eléctricos e híbridos eléctricos: exentos del pago de control vehicular ($0.00 en 2026). Tarifa de tenencia publicada en la ficha oficial para vehículos usados de más de diez años de servicio particular: motocicleta $235; hasta 4 cilindros $430; 5 y 6 cilindros $670; más de 6 cilindros $890. Para vehículos nuevos y de 1 a 9 años la tenencia depende del valor de factura y año modelo (la ficha no publica la tarifa).",
+  "refrendo": {
+    "nombreLocal": "Derechos por los Servicios de Control Vehicular (Control Vehicular)",
+    "monto2026": 700,
+    "unidad": "MXN",
+    "detalle": "$700.00 para cualquier vehículo; $0.00 para eléctricos e híbridos. Cifra confirmada en el Comunicado SPFA 003/2026 (14 de enero de 2026) y en la ficha oficial del trámite SPFyA-30167-T (Ley de Ingresos 2026, art. 31)."
+  },
+  "fechaLimite": "31 de marzo de 2026, ampliada hasta el 30 de abril de 2026 sin actualización, recargos ni multas (Comunicado SPFA 013/2026, 31 de marzo de 2026). Ese plazo ya venció al 20 de octubre de 2026.",
+  "descuentos": [
+    "Programa de Apoyo 100% en tenencia para quien pagó el Control Vehicular 2026 dentro del plazo y cumple las reglas (ver campo tenencia).",
+    "Programa 'Ponte al Día' (del 1 de septiembre al 30 de noviembre de 2026): hasta 73% de descuento en adeudos vehiculares (tenencia, control vehicular, multas, recargos y actualizaciones) y hasta 100% en costo de canje de placas, tarjeta de circulación y baja de placas, para vehículos con placas no vigentes y adeudos. El monto exacto se consulta con la placa en pontealdia.puebla.gob.mx. Los porcentajes por concepto no se localizaron en la fuente oficial consultada."
+  ],
+  "portalPago": "https://rl.puebla.gob.mx",
+  "portalesComplementarios": ["https://pontealdia.puebla.gob.mx/"],
+  "fuentes": [
+    { "nombre": "Ficha oficial 'Pago de Tenencia y Control Vehicular' (SPFyA-30167-T), Ventanilla Digital Puebla", "url": "https://ventanilla.puebla.gob.mx/web/fichaAsunto.do?opcion=0&asas_ide_asu=1602&ruta=%2Fweb%2FasuntosMasUsuales.do%3Fopcion" },
+    { "nombre": "Comunicado SPFA 003/2026 (14-ene-2026): Gobierno de Puebla otorga beneficio fiscal mediante Control Vehicular", "url": "https://puebla.gob.mx/index.php/noticias/item/22128-gobierno-de-puebla-otorga-beneficio-fiscal-mediante-control-vehicular" },
+    { "nombre": "Comunicado SPFA 013/2026 (31-mar-2026): Amplía Gobierno de Puebla plazo para pago de control vehicular", "url": "https://puebla.gob.mx/index.php/noticias/item/23099-amplia-gobierno-de-puebla-plazo-para-pago-de-control-vehicular" },
+    { "nombre": "Reglas de Carácter General del Programa de Apoyo del 100% en tenencia (Periódico Oficial de Puebla, 22-dic-2025, Orden Jurídico Poblano)", "url": "https://ojp.puebla.gob.mx/media/k2/attachments/Reglas_de_Car%C3%A1cter_General_que_facilitan_el_acceso_al_Programa_de_Apoyo_del_100%25_en_el_pago_del_Impuesto_Sobre_Tenencia_T4_22122025.pdf" },
+    { "nombre": "Ley de Ingresos del Estado de Puebla para el Ejercicio Fiscal 2026 (Periódico Oficial, 27-nov-2025, Orden Jurídico Poblano)", "url": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_de_Ingresos_del_Estado_de_Puebla,_para_el_Ejercicio_Fiscal_2026_EV_27112025.pdf" },
+    { "nombre": "Programa 'Ponte al Día' (comunicado oficial, 31-ago-2026)", "url": "https://www.puebla.gob.mx/index.php/noticias/item/24982-programa-ponte-al-dia-ofrece-descuentos-historicos-para-regularizar-vehiculos-en-puebla" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se leyó directamente el texto de los arts. 17 y 31 de la Ley de Ingresos 2026 (se citan tal como los refiere la ficha oficial del trámite y las Reglas).",
+    "Tarifa de tenencia para vehículos nuevos y de 1 a 9 años de antigüedad: no publicada en la ficha; depende de la Ley de Hacienda (art. 31 y ss.), no extraída.",
+    "Porcentajes exactos por concepto del programa 'Ponte al Día' 2026 no localizados (se remite al portal pontealdia.puebla.gob.mx).",
+    "El Control Vehicular 2027 aún no está publicado (Ley de Ingresos 2027 pendiente de aprobación)."
+  ]
+}

@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+dist/
+.cache/
+*.log
+dist-preview/
+scripts/guias/spec_*.txt
+scripts/guias/err_*.txt

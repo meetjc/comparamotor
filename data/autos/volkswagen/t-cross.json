@@ -1,0 +1,28 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "T-Cross",
+  "slug": "t-cross",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [],
+  "garantia": {
+    "texto": null,
+    "fuente": "No aplica: el modelo ya no aparece en el sitio oficial de VW México",
+    "url": "https://www.vw.com.mx/es/autos-suvs/t-cross.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.vw.com.mx/es/autos-suvs/t-cross.html",
+    "https://www.vw.com.mx/es/comparador-autos.html",
+    "https://www.vw.com.mx/es/configurador.html"
+  ],
+  "pendientes": [
+    "T-Cross ya no se vende en México según el sitio oficial: vw.com.mx/es/autos-suvs/t-cross.html redirige a la página de Nuevo Taigun, y ni el comparador ni el configurador de VW México (12 modelos, octubre 2026) listan T-Cross",
+    "El SUV subcompacto vigente de VW en México es Taigun; ver data/autos/volkswagen/taigun.json",
+    "Decidir si se conserva este archivo vacío, se elimina el slug t-cross o se redirige a taigun en el sitio"
+  ]
+}

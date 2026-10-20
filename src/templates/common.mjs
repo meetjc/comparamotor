@@ -1,0 +1,91 @@
+// Piezas compartidas por las plantillas: siluetas, fotos con crédito, tablas, fuentes, preguntas y tarjetas.
+import { esc, mxn, num, fechaCorta, fechaLarga, SITE } from '../lib.mjs';
+
+export const CARRO = { hatchback: 'sil-hatchback', sedan: 'sil-sedan', suv: 'sil-suv', pickup: 'sil-pickup', van: 'sil-suv', coupe: 'sil-sedan' };
+export const CARRO_N = { hatchback: 'Hatchback', sedan: 'Sedán', suv: 'SUV', pickup: 'Pickup', van: 'Van', coupe: 'Coupé' };
+export const PROP_N = { gasolina: 'Gasolina', hibrido: 'Híbrido', 'hibrido-enchufable': 'Híbrido enchufable', electrico: 'Eléctrico', diesel: 'Diésel', 'hibrido-ligero': 'Híbrido ligero' };
+export const TRANS_N = { manual: 'Manual', automatica: 'Automática', cvt: 'CVT', 'doble-embrague': 'Doble embrague', 'e-cvt': 'e-CVT', directa: 'Directa (eléctrico)' };
+
+export function sil(carroceria, { color = 'currentColor', flip = false, label = '' } = {}) {
+  const id = CARRO[carroceria] || 'sil-sedan';
+  return `<svg viewBox="0 0 120 48" ${label ? `role="img" aria-label="${esc(label)}"` : 'aria-hidden="true"'}${flip ? ' style="transform:scaleX(-1)"' : ''}><use href="#${id}" fill="${color}"/></svg>`;
+}
+
+// Imagen registrada (IA o foto con crédito). `reg` viene de data/imagenes.json
+export function img(ctx, reg, file, alt, { w = 1200, h = 800, lazy = true, cls = '', sizes = '' } = {}) {
+  const r = reg[file];
+  if (!r) throw new Error(`Imagen sin registro en data/imagenes.json: ${file}`);
+  const src = r.archivoLocal ? ctx.asset('img/' + r.archivoLocal) : ctx.asset('img/' + file);
+  return `<img src="${src}" alt="${esc(alt)}"${lazy ? ' loading="lazy" decoding="async"' : ' fetchpriority="high"'} width="${w}" height="${h}"${cls ? ` class="${cls}"` : ''}${sizes ? ` sizes="${sizes}"` : ''}>`;
+}
+
+// Pie de crédito obligatorio para fotos reales; para IA, leyenda «Imagen ilustrativa»
+export function credito(reg, file) {
+  const r = reg[file];
+  if (!r) return '';
+  if (r.licencia === 'ia-magnific') return `<span class="credito">Imagen ilustrativa</span>`;
+  if (r.licencia === 'propia') return '';
+  const lic = r.licenciaUrl ? ` · <a href="${esc(r.licenciaUrl)}" target="_blank" rel="noopener license">${esc(licNombre(r.licencia))}</a>` : '';
+  const src = r.paginaUrl ? `<a href="${esc(r.paginaUrl)}" target="_blank" rel="noopener">${esc(r.credito || 'Fuente')}</a>` : esc(r.credito || '');
+  return `<span class="credito">Foto: ${src}${lic}</span>`;
+}
+export const licNombre = (l) => ({ 'cc-by': 'CC BY', 'cc-by-sa': 'CC BY-SA', cc0: 'CC0', 'dominio-publico': 'Dominio público', 'prensa-marca': 'Uso editorial' }[l] || l);
+
+export function answer(html) { return `<p class="answer">${html}</p>`; }
+
+export function table({ head, rows, caption = '', cls = '' }) {
+  return `<div class="tbl-wrap"><table class="tbl ${cls}">${caption ? `<caption>${caption}</caption>` : ''}<thead><tr>${head.map((h) => `<th scope="col"${h.n ? ' class="n"' : ''}>${h.t ?? h}</th>`).join('')}</tr></thead><tbody>${rows.map((r) => `<tr>${r.map((c, i) => { const n = head[i] && head[i].n; return i === 0 ? `<th scope="row" style="font-weight:500">${c}</th>` : `<td${n ? ' class="n"' : ''}>${c}</td>`; }).join('')}</tr>`).join('')}</tbody></table></div>`;
+}
+
+// Lista de fuentes con liga y fecha (las URL se muestran como nombre, nunca se inventan)
+export function fuentes(list, fecha) {
+  const items = (list || []).map((f) => (typeof f === 'string' ? { nombre: hostOf(f), url: f } : f)).filter((f) => f && (f.url || f.nombre));
+  if (!items.length) return '';
+  return `<aside class="srcs"><h2>Fuentes</h2><ol>${items.map((f) => `<li>${f.url ? `<a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.nombre || hostOf(f.url))}</a>` : esc(f.nombre)}${f.tipo ? ` <span class="tbl src">(${esc(f.tipo)})</span>` : ''}</li>`).join('')}</ol>${fecha ? `<p class="fine" style="margin-top:8px">Verificado el ${esc(fechaLarga(fecha))}.</p>` : ''}</aside>`;
+}
+export function hostOf(u) { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return u; } }
+
+// Preguntas frecuentes visibles + schema FAQPage
+export function faq(items) {
+  if (!items || !items.length) return { html: '', schema: null };
+  const html = `<div class="faq">${items.map((q, i) => `<details${i === 0 ? ' open' : ''}><summary>${esc(q.q)}</summary><p>${q.a}</p></details>`).join('')}</div>`;
+  const schema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: items.map((q) => ({ '@type': 'Question', name: q.q, acceptedAnswer: { '@type': 'Answer', text: q.a.replace(/<[^>]+>/g, '') } })) };
+  return { html, schema };
+}
+
+// Encabezado de página interna
+export function ph({ h1, lede = '', meta = '', dark = false, kicker = '' }) {
+  return `<header class="ph${dark ? ' dark' : ''}"><div class="wrap">${kicker ? `<span class="tag red" style="justify-self:start">${kicker}</span>` : ''}<h1>${h1}</h1>${lede ? `<p class="lede">${lede}</p>` : ''}${meta ? `<div class="meta">${meta}</div>` : ''}</div></header>`;
+}
+
+export function actualizado(fecha, autor = 'Redacción ComparaMotor', ctx) {
+  if (!fecha) return '';
+  const a = ctx ? `<a href="${ctx.u('/autores/')}" style="text-decoration:underline;text-underline-offset:3px">${esc(autor)}</a>` : esc(autor);
+  return `<span>Actualizado el <time datetime="${fecha}">${esc(fechaLarga(fecha))}</time></span><span>Por ${a}</span>`;
+}
+
+// Precio «desde» y versión de entrada de un modelo
+export function entrada(auto) {
+  const vs = (auto.versiones || []).filter((v) => typeof v.precio === 'number' && v.precio > 0).sort((a, b) => a.precio - b.precio);
+  return vs[0] || null;
+}
+export function tope(auto) {
+  const vs = (auto.versiones || []).filter((v) => typeof v.precio === 'number' && v.precio > 0).sort((a, b) => b.precio - a.precio);
+  return vs[0] || null;
+}
+export function fechaMax(auto) {
+  return (auto.versiones || []).map((v) => v.fechaVerificacion).filter(Boolean).sort().pop() || null;
+}
+export function rendimiento(auto) {
+  const r = (auto.versiones || []).map((v) => v.rendimientoCombinadoKmL).filter((x) => typeof x === 'number' && x > 0);
+  return r.length ? Math.max(...r) : null;
+}
+
+export function autoCard(ctx, a, { extra = '' } = {}) {
+  const e = entrada(a);
+  const q = `${a.marca} ${a.modelo} ${CARRO_N[a.carroceria] || ''} ${PROP_N[a.propulsion] || ''}`.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  return `<a class="tile rv" href="${ctx.u(`/autos/${a.marcaSlug}/${a.slug}/`)}" data-q="${esc(q)}" data-cat="${esc([a.carroceria, a.propulsion, a.origenMarca].filter(Boolean).join(' '))}"><span class="sil">${sil(a.carroceria)}</span><span class="k">${esc(a.marca)}</span><h3>${esc(a.modelo)}</h3><p>${e ? `Desde <b class="num">${mxn(e.precio)}</b>` : 'Precio por confirmar'}${extra}</p><p class="fine">${esc(CARRO_N[a.carroceria] || '')}${a.propulsion ? ' · ' + esc(PROP_N[a.propulsion] || a.propulsion) : ''}</p></a>`;
+}
+
+export const fmtFecha = fechaCorta;
+export { esc, mxn, num, SITE };

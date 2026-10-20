@@ -1,0 +1,34 @@
+{
+  "estado": "Chihuahua",
+  "slug": "chihuahua",
+  "cobraTenencia2026": false,
+  "tenencia": "No se cobra tenencia estatal. La tenencia estatal se abrogó el 1 de enero de 2011 (reformas a la Ley de Hacienda del Estado publicadas en el Periódico Oficial el 29-dic-2010, según un documento del H. Ayuntamiento de Juárez de nov-2025). En la Ley de Ingresos del Estado de Chihuahua 2026 el único renglón de tenencia es 'Adeudo sobre el Impuesto sobre Tenencia o Uso de Vehículos' dentro de incentivos de la colaboración fiscal, es decir, cobranza de adeudos antiguos. Lo que se paga cada año es el Derecho de Control Vehicular (revalidación vehicular).",
+  "refrendo": {
+    "nombreLocal": "Revalidación Vehicular (Derecho de Control Vehicular, Ley Estatal de Derechos)",
+    "monto2026": 2749,
+    "moneda": "MXN",
+    "detalle": "Costo ordinario desde el 1 de mayo de 2026: $2,749 para todos los modelos (comunicado de la Secretaría de Hacienda del 20-abr-2026). Con estímulo (febrero, marzo, abril) el costo por año-modelo fue: 2021-2027: $2,325 / $2,427 / $2,529; 2016-2020: $2,272 / $2,374 / $2,476; 2011-2015: $2,068 / $2,170 / $2,272; 2006-2010: $1,915 / $2,017 / $2,119; 2001-2005: $1,762 / $1,864 / $1,966; 1996-2000: $1,660 / $1,762 / $1,864; 1995 y anteriores: $1,507 / $1,558 / $1,609. El cobro incluye el derecho de control vehicular, la tarjeta de circulación, la aportación a la Cruz Roja y el Impuesto Universitario. La cuota base es de 20.0849 UMA según el documento municipal de Juárez (UMA 2026: $117.31); el comunicado dice que el número de UMA se mantiene igual que el año anterior."
+  },
+  "fechaLimite": "Ley de Ingresos 2026, art. sexto: el Derecho de Control Vehicular se paga dentro de febrero, marzo y abril de 2026 con estímulos fiscales; a partir del 1 de mayo de 2026 el costo es $2,749 para todos los modelos. No se localizó una fecha límite adicional ni recargos.",
+  "descuentos": [
+    "Estímulo fiscal en pesos por año-modelo (Ley de Ingresos 2026, art. sexto), febrero / marzo / abril: 2021-2027: $400.00 / $303.85 / $207.70; 2016-2020: $450.00 / $353.85 / $257.69; 2011-2015: $642.31 / $546.15 / $450.00; 2006-2010: $786.54 / $690.38 / $594.23; 2001-2005: $930.77 / $834.62 / $738.46; 1996-2000: $1,026.92 / $930.77 / $834.62; 1995 y anteriores: $1,171.15 / $1,123.08 / $1,075.00. Requiere pagar en el plazo, estar al corriente en tenencia, control vehicular e infracciones de tránsito y tener licencia vigente.",
+    "Vehículos eléctricos: tasa 0% y vehículos híbridos: tasa 50% del Derecho de Control Vehicular 2026, con las mismas condiciones (Ley de Ingresos 2026, art. sexto).",
+    "Convenio de pago: adeudos que, sumados a la revalidación 2026, superen $10,000 pueden pagar 20% del total y liquidar el resto hasta en 12 meses (comunicado de Hacienda, ene-2026)."
+  ],
+  "portalPago": "https://ipagos.chihuahua.gob.mx/",
+  "fuentes": [
+    {"nombre": "Ley de Ingresos del Estado de Chihuahua para el Ejercicio Fiscal 2026 (Periódico Oficial, anexo 24-dic-2025; Transparencia Fiscal)", "url": "https://ihacienda.chihuahua.gob.mx/tfiscal/indtfisc/ley_ingresoschih2026.pdf", "tipo": "oficial"},
+    {"nombre": "Secretaría de Hacienda de Chihuahua: Presenta descuentos en Revalidación Vehicular 2026 (29-ene-2026)", "url": "https://chihuahua.gob.mx/prensa/presenta-secretaria-de-hacienda-descuentos-en-revalidacion-vehicular-2026", "tipo": "oficial"},
+    {"nombre": "Secretaría de Hacienda de Chihuahua: Invita a aprovechar últimos días de descuentos (20-abr-2026; costo desde mayo)", "url": "https://beta.chihuahua.gob.mx/prensa/invita-hacienda-aprovechar-ultimos-dias-de-descuentos-en-revalidacion-vehicular", "tipo": "oficial"},
+    {"nombre": "Gobierno de Chihuahua: Descuentos en Revalidación Vehicular 2026 en Ciudad Juárez (3-feb-2026)", "url": "https://chihuahua.gob.mx/prensa/presenta-gobierno-del-estado-descuentos-en-revalidacion-vehicular-2026-en-ciudad-juarez", "tipo": "oficial"},
+    {"nombre": "H. Ayuntamiento de Juárez: proyecto de acuerdo de la regidora Ma. Dolores Adame (6-nov-2025), antecedentes de la abrogación de la tenencia y cuota de 20.0849 UMA", "url": "https://juarez.gob.mx/cabildo/docs/cab_575_sesion_28_orden_dia_9.pdf", "tipo": "oficial (municipal, propuesta)"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "La fecha de abrogación de la tenencia (1-ene-2011) proviene de un documento municipal de Juárez (propuesta de una regidora); no se leyó el texto de la Ley de Hacienda estatal ni el decreto del 29-dic-2010. La Ley de Ingresos 2026 sí confirma que solo quedan 'adeudos' de tenencia.",
+    "El monto del estímulo del art. sexto no cuadra al peso con la diferencia contra $2,749 (por ejemplo, 2021-2027 en febrero: $2,749 menos $400 daría $2,349, pero el comunicado dice $2,325); se usan los montos del comunicado oficial.",
+    "El comunicado menciona el portal 'ipagos.gob.mx'; el dominio institucional que apareció en buscadores es ipagos.chihuahua.gob.mx y no respondió desde esta red. Confirmar URL de pago.",
+    "Después de mayo no se verificó si hay nuevas campañas de descuento en el segundo semestre ni recargos por pago extemporáneo.",
+    "Sin descuentos específicos para adultos mayores o discapacidad localizados en fuente oficial."
+  ]
+}

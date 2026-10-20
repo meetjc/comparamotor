@@ -1,0 +1,31 @@
+{
+  "estado": "Aguascalientes",
+  "slug": "aguascalientes",
+  "cobraTenencia2026": false,
+  "tenencia": "No se cobra. El Capítulo III 'Del Impuesto Sobre Tenencia o Uso de Vehículos Automotores' de la Ley de Hacienda del Estado de Aguascalientes está derogado desde el 1 de enero de 2016 (Artículo Segundo Transitorio del decreto publicado el 31 de diciembre de 2014). La Ley de Ingresos 2026 solo lo menciona como ingreso de ejercicios anteriores pendiente de cobro. Lo que sí existe es el Impuesto sobre Adquisición de Vehículos Usados de Motor, que paga quien compra un vehículo usado dentro de los 15 días naturales siguientes a la adquisición (Ley de Hacienda arts. 59 y 60).",
+  "refrendo": {
+    "nombreLocal": "Derechos de Control Vehicular (refrendo anual)",
+    "monto2026": 960,
+    "moneda": "MXN",
+    "detalle": "Ley de Ingresos 2026, art. 8 fracc. III: $960 por automóviles, camionetas, camiones, autobuses, remolques y vehículos todo terreno (particular, oficial, transporte público y demostración) y $960 por motocicletas y similares. Los derechos se causan por refrendo anual, cambio de propietario y canje de placas."
+  },
+  "fechaLimite": "31 de marzo de 2026 (Ley de Hacienda art. 36: refrendar a más tardar el 31 de marzo). Quien no pague del 1 de enero al 31 de marzo de 2026 se hace acreedor a una sanción del 80% al 90% de la contribución omitida (Ley de Ingresos 2026, art. 24 fracc. II, con base en el art. 68 BIS del Código Fiscal estatal).",
+  "descuentos": [
+    "10% de descuento en los Derechos de Control Vehicular para propietarios de automóviles, camionetas, remolques y vehículos pesados que paguen en enero, febrero o marzo de 2026 (Ley de Ingresos 2026, art. 40). Con el monto base de $960 equivale a $864.",
+    "La Ley de Hacienda prevé reglas de exención o beneficio en sus arts. 35 y 36-F (la consulta de la ley menciona personas con discapacidad permanente, pensionados, jubilados, adultos mayores y vehículos eléctricos/híbridos); las condiciones exactas no se verificaron."
+  ],
+  "portalPago": "https://epagos.aguascalientes.gob.mx/controlvehicular",
+  "fuentes": [
+    {"nombre": "Ley de Ingresos del Estado de Aguascalientes para el Ejercicio Fiscal 2026 (Periódico Oficial, 26-dic-2025)", "url": "https://eservicios2.aguascalientes.gob.mx/NormatecaAdministrador/archivos/EDO-18-220.pdf", "tipo": "oficial"},
+    {"nombre": "Ley de Hacienda del Estado de Aguascalientes (Normateca, Secretaría de Finanzas)", "url": "https://tramites.aguascalientes.gob.mx/download/normateca/D20250807104846_EDO-18-27%20Ley%20de%20Hacienda.pdf", "tipo": "oficial"},
+    {"nombre": "Portal de Contribuciones Vehiculares - Secretaría de Finanzas de Aguascalientes", "url": "https://epagos.aguascalientes.gob.mx/controlvehicular", "tipo": "oficial"},
+    {"nombre": "Trámite EDO-SEFI-17 Cambio de Propietario (Secretaría de Finanzas; cita la Ley de Hacienda con publicación 31/12/2025)", "url": "https://www.aguascalientes.gob.mx/tramites/tramite/EDO-SEFI-17", "tipo": "oficial"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "La versión de la Ley de Hacienda consultada es la del PDF de Normateca (archivo del 7-ago-2025); la ficha oficial del trámite cita la publicación del 31-dic-2025. Confirmar que arts. 36 y 36-F no cambiaron.",
+    "Publicaciones en redes oficiales de la Secretaría de Finanzas (Facebook, resumen de buscador, no se pudo abrir) hablan de un 2% adicional con tarjeta de débito en medios digitales; no se verificó en página oficial ni en la ley.",
+    "Condiciones exactas de las exenciones de los arts. 35 y 36-F de la Ley de Hacienda (discapacidad, pensionados, adultos mayores, eléctricos/híbridos) sin detallar.",
+    "Portal de consulta por placa pide reCAPTCHA; no se consultó un monto individual."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "estado": "Veracruz",
+  "slug": "veracruz",
+  "cobraTenencia2026": true,
+  "tenencia": "Veracruz mantiene el Impuesto Estatal sobre Tenencia o Uso de Vehículos (IESTUV), pero en 2026 se subsidia al 100% a quien pague los Derechos de Control Vehicular dentro del periodo del programa. Las fuentes oficiales del propio gobierno no coinciden en el periodo: el comunicado de la Secretaría de Finanzas y Planeación (Sefiplan) del 6 de enero de 2026 dice que el subsidio aplica pagando el Control Vehicular entre enero y abril; la página oficial del programa en la Oficina Virtual de Hacienda dice enero, febrero y marzo de 2026; un comunicado del 30 de diciembre de 2025 menciona 'enero y abril'. Pasado el periodo se cobra el impuesto completo. Adeudos: subsidio de 100% en adeudos de tenencia, control vehicular y accesorios de 2020 y años anteriores, y de 99% en recargos, multas y actualizaciones de 2021 a 2025, al ponerse al corriente (Programa de Reemplacamiento 2026).",
+  "refrendo": {
+    "nombreLocal": "Derechos de Control Vehicular",
+    "monto2026": 1119.42,
+    "unidad": "MXN",
+    "detalle": "Automóvil, camión y ómnibus de servicio privado: 9.5424 UMA = $1,119.42; con el Impuesto Adicional para el Fomento de la Educación el total publicado es $1,287. Remolques: 5.3013 UMA = $622 ($715 con fomento a la educación). Fuente: tabla del Programa Canje de Placa Vehicular 2026 en la Oficina Virtual de Hacienda. Además el Programa de Reemplacamiento 2026 (obligatorio para placas emitidas hasta noviembre de 2018) cuesta $1,655 según el comunicado de Sefiplan; la tabla de OVH muestra canje de 12.7232 UMA = $1,492.56 ($1,716 con fomento) sin descuento (julio a diciembre), 8.9062 UMA con 30% (mayo-junio) y 6.3616 UMA = $746 con 50% (enero-abril); las dos fuentes no coinciden en el costo."
+  },
+  "fechaLimite": "Control Vehicular con descuento: enero a marzo de 2026. Subsidio de tenencia: hasta el 30 de abril de 2026 según el comunicado de Sefiplan (31 de marzo según la tabla de OVH). Reemplacamiento (canje de placas): programa vigente del 1 de enero al 31 de diciembre de 2026, con 50% de descuento de enero a abril y 30% de mayo a junio. Los plazos de descuento y subsidio ya vencieron al 20 de octubre de 2026.",
+  "descuentos": [
+    "Control Vehicular 2026: 15% si se paga en enero, 8% en febrero y 7% en marzo (comunicados de Sefiplan del 30-dic-2025 y 6-ene-2026).",
+    "Tenencia: subsidio del 100% al pagar el Control Vehicular dentro del periodo (ver campo tenencia).",
+    "Reemplacamiento: 50% de descuento de enero a abril y 30% de mayo a junio de 2026; 99% de descuento en accesorios de 2021 a 2025; 100% de subsidio en la reexpedición de tarjeta de circulación si se hace con el reemplacamiento; envío de placas a domicilio sin costo entre enero y junio.",
+    "Adeudos: 100% de subsidio en tenencia, control vehicular y accesorios de 2020 y anteriores; 99% en recargos, multas y actualizaciones de 2021 a 2025; 100% de subsidio al impuesto por adquisición de vehículos usados y 99% en sus accesorios."
+  ],
+  "portalPago": "https://www.ovh.gob.mx/",
+  "portalesComplementarios": ["https://www.ovh.gob.mx/placas2026/", "https://ovh.veracruz.gob.mx/ovh/consultavehicular"],
+  "fuentes": [
+    { "nombre": "Programa de Reemplacamiento 2026 'Año nuevo, placas nuevas' (comunicado Sefiplan, 6-ene-2026)", "url": "https://www.veracruz.gob.mx/2026/01/06/programa-de-reemplacamiento-2026-ano-nuevo-placas-nuevas/" },
+    { "nombre": "Reemplacamiento 2026 en Veracruz con descuentos de hasta 50% (comunicado, 30-dic-2025)", "url": "https://www.veracruz.gob.mx/2025/12/30/reemplacamiento-2026-en-veracruz-con-descuentos-de-hasta-50-y-tramite-digital/" },
+    { "nombre": "Programa Canje de Placa Vehicular 2026 (Oficina Virtual de Hacienda, tablas de UMA y pesos)", "url": "https://www.ovh.gob.mx/placas2026/" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se localizó el decreto de 2026 en la Gaceta Oficial del Estado ni la Ley de Ingresos 2026; los datos provienen de comunicados y de la página oficial de la Oficina Virtual de Hacienda.",
+    "Conflicto entre fuentes oficiales: el subsidio de tenencia se publicó para enero-abril (comunicados) y para enero-marzo (OVH). Confirmar con Sefiplan.",
+    "El costo del canje de placas difiere entre el comunicado ($1,655) y la tabla de OVH ($1,492.56 sin descuento, $1,716 con fomento a la educación).",
+    "La página de Finanzas 'Subsidio de Tenencia y Condonación Vehicular' corresponde a 2017 y no debe usarse para 2026.",
+    "Los sitios veracruz.gob.mx y ovh.gob.mx fallan la verificación de certificado en herramientas automáticas; se leyeron con navegador.",
+    "No se confirmó el monto de tenencia para vehículos que no califiquen al subsidio."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "estado": "Querétaro",
+  "slug": "queretaro",
+  "cobraTenencia2026": true,
+  "tenencia": "Querétaro mantiene el Impuesto sobre Tenencia o Uso de Vehículos (Ley de Hacienda del Estado; la Ley de Ingresos 2026 estima $453.4 millones por este concepto). Se paga durante los primeros tres meses del año junto con el refrendo (arts. 20 y 157). Base: valor total del vehículo sin IVA; tarifa progresiva para autos nuevos de hasta 15 pasajeros (3% hasta $791,477.33, 9% hasta $1,523,154.25, 10%, 11% y 12% en tramos superiores) y factores de depreciación para usados de hasta 9 años. Vehículos eléctricos: no causan el impuesto. Programa de Apoyo Tenencia 2026 (vigente del 1 de enero al 31 de diciembre de 2026): beneficio con factor de ajuste de hasta 99% en el impuesto para automóviles, autobuses y motocicletas con valor depreciado de hasta $800,000 sin IVA, si se paga el impuesto y el refrendo de enero a marzo de 2026; personas físicas y morales no lucrativas inscritas y activas ante el SAT; deben estar al corriente de obligaciones fiscales estatales; no aplica a vehículos en arrendamiento; si el valor excede $800,000 se paga la diferencia; pago en una sola exhibición y sin devoluciones. Nuevas altas o reinscripciones durante 2026 también pueden acceder. Seguro vehicular gratuito (programa aparte) para vehículos con valor depreciado de hasta $150,000 que paguen el refrendo de enero a marzo de 2026.",
+  "refrendo": {
+    "nombreLocal": "Refrendo anual (derecho de control vehicular; art. 157, fracc. I, Ley de Hacienda del Estado de Querétaro)",
+    "monto2026": 1055.79,
+    "unidad": "MXN (cálculo: 9 UMA x $117.31)",
+    "detalle": "9 UMA para automóvil, camión, autobús, remolque y motocicleta de servicio privado; 25 UMA vehículos de demostración; 15 UMA servicio público. Una nota de prensa con cifras de la Secretaría de Finanzas de Querétaro reporta 1,056 pesos para 2026 (coincide con 9 UMA). Reducción de 50% de estos derechos para adultos mayores con INAPAM, pensionados, jubilados y personas con discapacidad (art. 164)."
+  },
+  "fechaLimite": "Del 1 de enero al 31 de marzo de 2026 para pagar tenencia y refrendo y acceder al Programa de Apoyo Tenencia 2026 (tenencia cero). Fuera de ese periodo se paga el impuesto de tenencia completo con recargos (prensa local con cifras oficiales).",
+  "descuentos": [
+    "Programa de Apoyo Tenencia 2026: factor de ajuste de hasta 99% en la tenencia si se paga en enero-marzo (vehículos hasta $800,000 depreciado).",
+    "Reducción de 50% de los derechos de refrendo para adultos mayores con INAPAM, pensionados, jubilados y personas con discapacidad (art. 164 Ley de Hacienda).",
+    "Seguro vehicular gratuito 2026 con responsabilidad civil para vehículos de uso particular con valor depreciado de hasta $150,000 (vigencia hasta el 31 de diciembre de 2026; solicitud pagando el refrendo de enero a marzo).",
+    "La Ley de Hacienda leída no contiene descuentos por mes de pago del refrendo."
+  ],
+  "portalPago": "https://portal-tributario.queretaro.gob.mx/app/ingresos",
+  "portalesComplementarios": ["https://www.queretaro.gob.mx/en/tenencia_2026", "https://asistenciaspf.queretaro.gob.mx/", "App QRO"],
+  "fuentes": [
+    { "nombre": "Tenencia 2026, Gobierno del Estado de Querétaro (Secretaría de Finanzas)", "url": "https://www.queretaro.gob.mx/en/tenencia_2026" },
+    { "nombre": "Reglas de Operación del Programa de Apoyo Tenencia 2026 (Asistencia al Contribuyente, Secretaría de Finanzas)", "url": "https://asistenciaspf.queretaro.gob.mx/Reglas_Programa.html" },
+    { "nombre": "Ley de Hacienda del Estado de Querétaro (Asistencia al Contribuyente; arts. 20, 31, 157, 164)", "url": "https://asistenciaspf.queretaro.gob.mx/Ley_Hda_Edo_Qro.html" },
+    { "nombre": "Ley de Ingresos del Estado de Querétaro para el ejercicio fiscal 2026 (Gaceta Legislativa N° 034, 13-dic-2025)", "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/SerPar/Gacetas/G034_T-I_61.pdf" },
+    { "nombre": "Seguro Vehicular 2026, Gobierno de Querétaro", "url": "https://www.queretaro.gob.mx/seguro_vehicular2026" },
+    { "nombre": "APOYO DE PRENSA: Refrendo 2026 deja 1200 mdp en Querétaro (Rotativo; cifras atribuidas a la Secretaría de Finanzas)", "url": "https://rotativo.com.mx/refrendo-vehicular-queretaro-2026-cierre-recaudacion-tenencia-cero" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "La versión de la Ley de Hacienda leída en el sitio de la Secretaría de Finanzas no muestra fecha de última reforma (la referencia más reciente es del P.O. 23-dic-2021); los montos en UMA coinciden con lo reportado para 2026, pero conviene cotejar contra 'La Sombra de Arteaga'.",
+    "La Ley de Ingresos 2026 se leyó en la Gaceta Legislativa del Congreso (13-dic-2025), no en el Periódico Oficial.",
+    "La Ley de Ingresos 2026 menciona medidas de causación al 50% de tenencia y de adquisición de vehículos no nuevos; no se detalló su alcance.",
+    "No se localizó fecha de publicación en el Periódico Oficial de las Reglas del Programa de Apoyo Tenencia 2026 ni confirmación oficial de la cifra de recaudación; el dato de 1,056 pesos viene de prensa que cita a la Secretaría de Finanzas."
+  ]
+}

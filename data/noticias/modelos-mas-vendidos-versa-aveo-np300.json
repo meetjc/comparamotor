@@ -1,0 +1,167 @@
+{
+  "slug": "modelos-mas-vendidos-versa-aveo-np300",
+  "titulo": "Nissan Versa, Chevrolet Aveo y Nissan NP300 encabezan los modelos más vendidos de septiembre",
+  "tema": "mercado",
+  "fechaFuente": "2026-10-09",
+  "fuentes": [
+    {
+      "nombre": "AutoCava, Ranking de ventas México, General, septiembre de 2026 (basado en INEGI)",
+      "url": "https://www.autocava.com.mx/rank",
+      "fecha": "2026-10-20",
+      "nota": "Página de actualización mensual; consultada el 20 de octubre de 2026"
+    },
+    {
+      "nombre": "Autocosmos, Los 10 autos más vendidos en septiembre 2026",
+      "url": "https://noticias.autocosmos.com.mx/2026/10/07/los-10-autos-mas-vendidos-en-septiembre-2026",
+      "fecha": "2026-10-07"
+    },
+    {
+      "nombre": "Autocosmos, Los 10 SUVs más vendidos en septiembre 2026",
+      "url": "https://noticias.autocosmos.com.mx/2026/10/08/los-10-suvs-mas-vendidos-en-septiembre-2026",
+      "fecha": "2026-10-08"
+    },
+    {
+      "nombre": "Autocosmos, Las 10 pickups más vendidas en septiembre 2026",
+      "url": "https://noticias.autocosmos.com.mx/2026/10/09/las-10-pickups-mas-vendidas-en-septiembre-2026",
+      "fecha": "2026-10-09"
+    },
+    {
+      "nombre": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (diez modelos más vendidos, enero-septiembre)",
+      "url": "https://www.amda.mx/wp-content/uploads/2609_ligeros.pdf",
+      "fecha": "2026-10-07"
+    }
+  ],
+  "datosClave": [
+    {
+      "dato": "1. Nissan Versa, septiembre 2026",
+      "valor": "7,985 unidades",
+      "fuente": "AutoCava, ranking General septiembre 2026 (datos INEGI); coincide con Autocosmos"
+    },
+    {
+      "dato": "2. Chevrolet Aveo Sedán, septiembre 2026",
+      "valor": "5,854 unidades",
+      "fuente": "AutoCava, ranking General septiembre 2026 (datos INEGI); coincide con Autocosmos"
+    },
+    {
+      "dato": "3. Nissan NP300 (pickup), septiembre 2026",
+      "valor": "5,550 unidades",
+      "fuente": "AutoCava, ranking General septiembre 2026 (datos INEGI); coincide con Autocosmos pickups"
+    },
+    {
+      "dato": "4. Kia K3 Sedán, septiembre 2026",
+      "valor": "3,753 unidades",
+      "fuente": "AutoCava, ranking General septiembre 2026 (datos INEGI); coincide con Autocosmos"
+    },
+    {
+      "dato": "5. Nissan March, septiembre 2026",
+      "valor": "3,287 unidades",
+      "fuente": "AutoCava, ranking General septiembre 2026 (datos INEGI); coincide con Autocosmos"
+    },
+    {
+      "dato": "6. Mazda CX-30, septiembre 2026",
+      "valor": "2,741 unidades (SUV más vendido del mes)",
+      "fuente": "AutoCava, ranking General septiembre 2026 (datos INEGI); coincide con Autocosmos SUV"
+    },
+    {
+      "dato": "7. Volkswagen Virtus, septiembre 2026",
+      "valor": "2,690 unidades",
+      "fuente": "AutoCava, ranking General septiembre 2026 (datos INEGI); coincide con Autocosmos"
+    },
+    {
+      "dato": "8. MG MG5, septiembre 2026",
+      "valor": "2,425 unidades",
+      "fuente": "AutoCava, ranking General septiembre 2026 (datos INEGI); coincide con Autocosmos"
+    },
+    {
+      "dato": "9. RAM 1200, septiembre 2026",
+      "valor": "1,957 unidades",
+      "fuente": "AutoCava, ranking General septiembre 2026 (datos INEGI); coincide con Autocosmos pickups"
+    },
+    {
+      "dato": "10. Kia Seltos o Chevrolet Captiva, septiembre 2026",
+      "valor": "Seltos 1,868 según AutoCava y 1,806 según Autocosmos; Captiva 1,864 en ambas. El décimo lugar depende de cuál cifra del Seltos sea la correcta",
+      "fuente": "AutoCava y Autocosmos SUV; discrepancia sin resolver contra la tabla primaria del INEGI"
+    },
+    {
+      "dato": "Marca más vendida de septiembre",
+      "valor": "Nissan: 24,139 unidades (+15.7%)",
+      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+    },
+    {
+      "dato": "Acumulado enero-septiembre 2026, primeros tres modelos",
+      "valor": "Nissan Versa 59,621; Chevrolet Aveo 51,698; Kia K3 43,696",
+      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+    },
+    {
+      "dato": "Cuarto al décimo lugar del acumulado",
+      "valor": "Nissan NP300 39,657; Mazda CX-30 21,875; RAM 1200 21,477; Nissan Magnite 21,185; MG5 20,881; Nissan March 19,681; Hyundai Grand i10 19,423",
+      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+    },
+    {
+      "dato": "Peso de los diez modelos principales en el acumulado",
+      "valor": "319,194 unidades, 27.9% del total de vehículos ligeros comercializados",
+      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+    },
+    {
+      "dato": "Nota sobre un dato de terceros",
+      "valor": "Autos Actual publicó 15,253 unidades para el Grand i10; la suma de los diez modelos de la AMDA (319,194) solo cierra con 19,423, que es la cifra que usamos",
+      "fuente": "Comprobación aritmética sobre AMDA y Autos Actual (8 oct 2026)"
+    }
+  ],
+  "resumen": "El Nissan Versa volvió a ser el auto más vendido de septiembre con 7,985 unidades, por delante del Chevrolet Aveo (5,854) y de la pickup Nissan NP300 (5,550). Kia K3, Nissan March, Mazda CX-30, Volkswagen Virtus, MG5 y RAM 1200 completan los primeros nueve lugares, donde las cifras coinciden entre las fuentes consultadas. El décimo puesto queda abierto porque dos publicaciones dan números distintos para el Kia Seltos y la Chevrolet Captiva está a solo cuatro unidades de ese nivel. En el acumulado de enero a septiembre el Versa suma 59,621 unidades y Nissan coloca cuatro modelos entre los diez más vendidos.",
+  "modelosMencionados": [
+    {
+      "marca": "Nissan",
+      "modelo": "Versa"
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Aveo"
+    },
+    {
+      "marca": "Nissan",
+      "modelo": "NP300"
+    },
+    {
+      "marca": "Kia",
+      "modelo": "K3"
+    },
+    {
+      "marca": "Nissan",
+      "modelo": "March"
+    },
+    {
+      "marca": "Mazda",
+      "modelo": "CX-30"
+    },
+    {
+      "marca": "Volkswagen",
+      "modelo": "Virtus"
+    },
+    {
+      "marca": "MG",
+      "modelo": "MG5"
+    },
+    {
+      "marca": "RAM",
+      "modelo": "1200"
+    },
+    {
+      "marca": "Kia",
+      "modelo": "Seltos"
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Captiva"
+    },
+    {
+      "marca": "Nissan",
+      "modelo": "Magnite"
+    },
+    {
+      "marca": "Hyundai",
+      "modelo": "Grand i10"
+    }
+  ],
+  "fechaVerificacion": "2026-10-20"
+}

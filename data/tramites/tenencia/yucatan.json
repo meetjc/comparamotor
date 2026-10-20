@@ -1,0 +1,37 @@
+{
+  "estado": "Yucatán",
+  "slug": "yucatan",
+  "cobraTenencia2026": false,
+  "tenencia": "En la versión consolidada de la Ley General de Hacienda del Estado de Yucatán (última reforma publicada en el Diario Oficial el 31 de diciembre de 2025) los artículos 47 C a 47 K del impuesto sobre tenencia o uso de vehículos aparecen 'DEROGADOS, D.O. 24 de diciembre de 2015'. El Decreto 146/2025 (Diario Oficial, 31-dic-2025), art. 4, solo reduce 100% el impuesto de tenencia causado en 2015 y años anteriores para quienes regularicen vehículos con placas de otro estado. No hay tenencia para 2026.",
+  "refrendo": {
+    "nombreLocal": "Refrendo de la tarjeta de circulación y calcomanía (art. 50 Bis de la Ley General de Hacienda); en Yucatán el trámite también se ligó al reemplacamiento",
+    "monto2026": 410.59,
+    "unidad": "MXN (cálculo: 3.50 UMA x $117.31)",
+    "detalle": "Art. 50 Bis: refrendo de tarjeta de circulación y calcomanía para automóvil, camión o camioneta, 3.50 UMA (= $410.59); art. 50 Ter: refrendo de tarjeta para motocicletas, 1.00 UMA (= $117.31). Dotación de tarjeta de circulación y calcomanía (art. 50, reformado el 26-dic-2025): automóvil, camión o camioneta de servicio particular 5.00 UMA ($586.55); motocicleta (el texto dice '1.5.00 (sic)' UMA, ambiguo); remolque 5.31 UMA. Placas nuevas (ficha oficial 'Registro de Vehículo Nuevo'): servicio particular $3,027; motocicleta $915; remolque $2,050; público $3,347. La ficha del Programa Estatal de Regularización Vehicular (renovación de placas) indica costo 'Variable'."
+  },
+  "fechaLimite": null,
+  "descuentos": [
+    "Decreto 146/2025 (Diario Oficial, 31-dic-2025), art. 7: reducción de 100% de los derechos de refrendo (arts. 50 Bis y 50 Ter) causados en los ejercicios 2012, 2016, 2021, 2023 y 2024 para propietarios de vehículos inscritos en el Registro Estatal de Control Vehicular que cumplan las condiciones del decreto (no cubre el refrendo 2026).",
+    "Decreto 146/2025, arts. 1 y 2: 50% de reducción en derechos de tarjeta de circulación y calcomanía (art. 50), control vehicular (art. 49 A) y consultas (art. 48, fracc. IX) para propietarios que obtuvieron cita en la SSP a más tardar el 31-dic-2025 para inscribir vehículos de otro estado o cambio de propietario durante 2026.",
+    "Prórroga de reemplacamiento de seis meses del 1-ene al 30-jun-2026 (comunicado 25-1956, 31-dic-2025): sin multas ni operativos por falta de placas nuevas; quien se inscribió en línea o con cita en 2025 conserva descuentos."
+  ],
+  "portalPago": "https://aafy.yucatan.gob.mx/",
+  "portalesComplementarios": ["https://aafy.yucatan.gob.mx/centros.php", "https://reemplacamiento.yucatan.gob.mx/"],
+  "verificacionNota": "No se escribió archivo de verificación para Yucatán. La Ley de Tránsito y Vialidad (versión consultada, ref. 13-dic-2019) exige 'holograma de verificación de contaminantes vigente' a todo vehículo, y la ficha oficial de SDS ('Verificación Vehicular', actualizada 30-ene-2026) indica trámite semestral con costo fijo de $375.00 en el Centro de Verificación de Mérida; la página de SDS no declara obligatoriedad, calendario ni multas, y el único programa obligatorio con calendario localizado (MIR 807) es de 2020 y solo para transporte público de pasajeros.",
+  "fuentes": [
+    { "nombre": "Ley General de Hacienda del Estado de Yucatán (compilación Consejería Jurídica, última reforma D.O. 31-dic-2025)", "url": "https://consejeria.yucatan.gob.mx/documentos/56.LEY_GENERAL_DE_HACIENDA_DEL_ESTADO_DE_YUCATAN.pdf" },
+    { "nombre": "Diario Oficial del Estado de Yucatán, 31-dic-2025 (Decreto 146/2025 beneficios fiscales vehiculares 2026)", "url": "https://www.yucatan.gob.mx/docs/diario_oficial/diarios/2025/2025-12-31_1.pdf" },
+    { "nombre": "Comunicado 'Amplían seis meses el reemplacamiento en Yucatán' (Gobierno de Yucatán, 31-dic-2025)", "url": "https://www.yucatan.gob.mx/saladeprensa/ver_nota.php?id=10274" },
+    { "nombre": "Ficha 'Registro de Vehículo Nuevo' (Registro Estatal de Trámites y Servicios, actualizada 09-sep-2026)", "url": "https://tramites.yucatan.gob.mx/tramite/ac2dae57" },
+    { "nombre": "Ficha 'Programa Estatal de Regularización Vehicular' (Registro Estatal de Trámites y Servicios)", "url": "https://tramites.yucatan.gob.mx/tramite/1285db72" },
+    { "nombre": "Ficha 'Verificación Vehicular' (SDS, Registro Estatal de Trámites y Servicios, actualizada 30-ene-2026)", "url": "https://tramites.yucatan.gob.mx/tramite/6a008186" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se localizó la fecha límite de pago del refrendo 2026 ni una tabla de descuentos por mes; no se encontró fuente oficial. Un resultado de búsqueda atribuido a Facebook de Gobierno de Yucatán (15% enero, 8% febrero, 7% marzo) repetía texto idéntico al del comunicado de Veracruz y no se usa.",
+    "El monto 2026 del refrendo es cálculo propio (3.50 UMA, art. 50 Bis, texto consolidado) y no se verificó contra una ficha oficial 2026 de pago de refrendo; el art. 50 se reformó el 26-dic-2025 pero el 50 Bis aparece con la reforma de 2016.",
+    "Un acuerdo AAFY 12/2026 y otro AAFY 15/2026 modifican las disposiciones vehiculares 2026 (Diario Oficial 30-jun-2026) y no se leyeron.",
+    "Verificación vehicular: ver verificacionNota; sin archivo en verificacion/ por falta de programa vigente confirmado para particulares."
+  ]
+}

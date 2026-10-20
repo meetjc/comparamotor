@@ -1,0 +1,47 @@
+{
+  "estado": "Querétaro",
+  "slug": "queretaro",
+  "programa": "Programa de Verificación Vehicular de la Secretaría de Desarrollo Sustentable (SEDESU) del Estado de Querétaro: verificación semestral por color de engomado y último dígito de la placa. Los calendarios y tarifas se publican en queretaro.gob.mx/sedesu; la prensa local reporta que el programa estatal se emite en el periódico oficial 'La Sombra de Arteaga' (no se leyó directamente).",
+  "obligatoria": true,
+  "calendario": {
+    "criterio": "Último dígito de la placa y color de engomado; dos verificaciones al año (una por semestre)",
+    "usoParticularYPesado": [
+      { "digito": "5 y 6", "engomado": "Amarillo", "primerSemestre": "Enero - Febrero", "segundoSemestre": "Julio - Agosto" },
+      { "digito": "7 y 8", "engomado": "Rosa", "primerSemestre": "Febrero - Marzo", "segundoSemestre": "Agosto - Septiembre" },
+      { "digito": "3 y 4", "engomado": "Rojo", "primerSemestre": "Marzo - Abril", "segundoSemestre": "Septiembre - Octubre" },
+      { "digito": "1 y 2", "engomado": "Verde", "primerSemestre": "Abril - Mayo", "segundoSemestre": "Octubre - Noviembre" },
+      { "digito": "9 y 0", "engomado": "Azul", "primerSemestre": "Mayo - Junio", "segundoSemestre": "Noviembre - Diciembre" }
+    ],
+    "servicioPublico": { "digito": "Todas las terminaciones", "primerSemestre": "Febrero - Mayo", "segundoSemestre": "Agosto - Noviembre" },
+    "notas": "Placas con dos o más series numéricas o con números y letras se verifican según el último dígito numérico. El certificado corresponde al semestre en que se realiza la prueba. Eléctricos e híbridos categoría I y II: holograma Exento (hasta 8 años desde la factura); los vehículos convertidos no reciben el holograma Exento."
+  },
+  "costo2026": {
+    "unidad": "MXN",
+    "valorUMAUsado": 117.31,
+    "tarifas": [
+      { "certificado": "Dos (uso particular y pesado)", "uma": 3.81, "pesos": 447 },
+      { "certificado": "Dos (transporte público)", "uma": 1.64, "pesos": 192 },
+      { "certificado": "Uno", "uma": 3.81, "pesos": 447 },
+      { "certificado": "Cero", "uma": 6.5, "pesos": 763 },
+      { "certificado": "Doble Cero", "uma": 15, "pesos": 1760 },
+      { "certificado": "Exento", "uma": null, "pesos": 0 },
+      { "certificado": "Rechazo", "uma": 1.11, "pesos": 130 }
+    ],
+    "detalle": "Tabla de la página oficial de tarifas de SEDESU (1 UMA = $117.31; el costo se redondea hacia arriba con centavos de 50 o más). La página no indica año explícito de vigencia pero usa la UMA 2026."
+  },
+  "portalCita": "http://189.195.154.174:8089/ConstanciaVerificacion/RegistroCitas.jsp",
+  "portalCitaNota": "Enlace 'Registra Cita VVQ' publicado en la página oficial del calendario de SEDESU; es una dirección IP, confirmar antes de publicarla como enlace al usuario.",
+  "sanciones": "Quien no verifique en su periodo puede ser sancionado conforme al Código Ambiental del Estado (dato de prensa; no se leyó el texto legal ni los montos). Hay descuentos en multas para mayores de 60 años y placas de discapacidad, y exención de sanciones para vehículos registrados en municipios de la Sierra Gorda (prensa).",
+  "fuentes": [
+    { "nombre": "Calendario de Verificación Vehicular, SEDESU Querétaro", "url": "https://queretaro.gob.mx/en/web/sedesu/calendario" },
+    { "nombre": "Tarifas Verificación Vehicular, SEDESU Querétaro", "url": "https://queretaro.gob.mx/web/sedesu/tarifas_verificacion" },
+    { "nombre": "APOYO DE PRENSA: Publican calendario de verificación vehicular para segundo semestre 2026 (Código QRO, 29-jun-2026)", "url": "https://codigoqro.mx/nota/local/2026/06/29/publican-calendario-verificacion-vehicular-segundo-semestre-2026" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se leyó el Programa estatal de verificación vehicular 2026 publicado en La Sombra de Arteaga; el calendario y las tarifas provienen de las páginas oficiales de SEDESU (la página del calendario no indica el año de forma explícita, pero sus listados mencionan septiembre de 2026 y coincide con el calendario del segundo semestre 2026 reportado por prensa).",
+    "Montos de multas por no verificar no confirmados en fuente oficial.",
+    "El portal de citas es una dirección IP enlazada desde la página oficial; verificar si existe un dominio oficial estable."
+  ]
+}

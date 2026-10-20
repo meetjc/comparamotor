@@ -1,0 +1,47 @@
+{
+  "estado": "Nuevo León",
+  "slug": "nuevo-leon",
+  "cobraTenencia2026": false,
+  "tenencia": "El dictamen de la Comisión de Presupuesto del Congreso (Exp. 20752/LXXVII) de la Ley de Ingresos del Estado 2026 registra 'Impuesto sobre tenencia' con $0 de recaudación estimada (clave 1201) y 'Tenencia o Uso de Vehículos' con $0 en incentivos federales (clave 8401). Los textos oficiales del Instituto de Control Vehicular (ICV) y de la Ley que crea el ICV no mencionan tenencia: lo que se cobra al propietario es el refrendo vehicular anual. Nota: el art. 111, fracc. III de la Ley de Hacienda del Estado aún menciona al Impuesto sobre Tenencia o Uso de Vehículos en una referencia, sin que el texto leído lo marque como derogado; se trata de una referencia residual, no de un cobro 2026.",
+  "refrendo": {
+    "nombreLocal": "Refrendo vehicular anual (Instituto de Control Vehicular de Nuevo León)",
+    "monto2026": null,
+    "unidad": "cuotas UMA",
+    "detalle": "El ICV publica el refrendo 2026 en cuotas (UMA), no en pesos: vehículos modelo 2011 y anteriores 19.5 cuotas; 2012 a 2016, 25 cuotas; 2017 en adelante, 35 cuotas; motocicletas y remolques de cualquier modelo, 7 cuotas; eléctricos registrados en 2025 o antes, 17.5 cuotas. Con la UMA 2026 de INEGI ($117.31 diaria) equivalen a: $2,287.55; $2,932.75; $4,105.85; $821.17; $2,052.93 (cálculo propio, sin multas municipales ni sanciones por rezago).",
+    "equivalenteEnPesosCalculado": {
+      "modelo2011yAnteriores": 2287.55,
+      "modelo2012a2016": 2932.75,
+      "modelo2017enAdelante": 4105.85,
+      "motocicletasYRemolques": 821.17,
+      "electricosRegistradosEn2025oAntes": 2052.93,
+      "valorUMAUsado": 117.31
+    }
+  },
+  "fechaLimite": "A más tardar el último día hábil de marzo del año de que se trate (art. 24 de la Ley que crea el ICV); para 2026, martes 31 de marzo de 2026. Después se generan sanciones por rezago.",
+  "descuentos": [
+    "Subsidio de 25% en el refrendo 2026 para personas mayores de 65 años, propietarias de un solo vehículo registrado en el Estado, modelo 2020 o anterior.",
+    "Pronto pago (febrero 2026): pago fijo de 9.5 cuotas UMA (modelos 2011 y anteriores) y 15 cuotas UMA (modelos 2012 a 2016); 5% de descuento para modelos 2017 en adelante, motocicletas, remolques y todo terreno. La página del ICV dice 'refrendo 2025' en el texto del 5%, probable errata del sitio.",
+    "Vehículos eléctricos: subsidio de 50% más 5% adicional por pronto pago (página ICV, febrero 2026); además el art. 32 Bis de la Ley del ICV exenta del refrendo anual a eléctricos nuevos por una sola ocasión tras su inscripción.",
+    "Programa permanente 'Ponlo a tu nombre / Ponlo al corriente': pago fijo de 50 cuotas UMA (vehículos 2020 o anteriores; $5,865) y 7 cuotas UMA (motocicletas y remolques; $821), sin multas municipales.",
+    "Adultos mayores: el art. 24 Bis de la Ley del ICV (adicionado el 26 de junio de 2026) prevé un descuento anual de por lo menos 20% en el refrendo."
+  ],
+  "portalPago": "https://nlinea.nl.gob.mx/modules/ventanillaDigital/procedures/pagoDeRefrendo",
+  "portalesComplementarios": ["https://www.icvnl.gob.mx/"],
+  "fuentes": [
+    { "nombre": "Dictamen del Expediente Legislativo 20752/LXXVII: Ley de Ingresos del Estado de Nuevo León, ejercicio fiscal 2026 (H. Congreso del Estado)", "url": "https://www.hcnl.gob.mx/trabajo_legislativo/pdf/lxxvii/AP_20752%20Ley%20de%20Ingresos%20del%20Estado%202026.pdf" },
+    { "nombre": "Ley de Ingresos aprobada 2026 (Gobierno de Nuevo León)", "url": "https://www.nl.gob.mx/es/publicaciones/ley-de-ingresos-aprobada-2026" },
+    { "nombre": "Ley que crea el Instituto de Control Vehicular del Estado de Nuevo León (última reforma 26-jun-2026)", "url": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/leyes/ley_que_crea_el_instituto_de_control_vehicular_del_estado_de_nuevo_leon/" },
+    { "nombre": "Refrendo Vehicular, Gobierno de Nuevo León", "url": "https://www.nl.gob.mx/es/refrendo" },
+    { "nombre": "Cumple con tu Refrendo Vehicular 2026 (ICV, marzo 2026)", "url": "https://www.icvnl.gob.mx/Marzo2026" },
+    { "nombre": "Cumple con tu Refrendo Vehicular 2026 (ICV, febrero 2026)", "url": "https://www.icvnl.gob.mx/Febrero2026" },
+    { "nombre": "Instituto de Control Vehicular (servicios y pago de refrendo)", "url": "https://www.nl.gob.mx/es/controlvehicular" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "La Ley de Ingresos 2026 se leyó en el dictamen legislativo; no se localizó el decreto final del Periódico Oficial con el mismo texto.",
+    "Conviene confirmar en el ICV si el refrendo 2026 se publicó en pesos fijos; las páginas oficiales solo lo dan en cuotas UMA (los pesos aquí son cálculo propio con UMA INEGI 2026).",
+    "Situación de los híbridos: una iniciativa del paquete fiscal 2026 proponía eliminar su exención; no se confirmó el resultado.",
+    "Verificación vehicular: no se localizó fuente oficial de un programa obligatorio de emisiones para autos particulares (ver informe; sin archivo en verificacion/)."
+  ]
+}

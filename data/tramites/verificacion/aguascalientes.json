@@ -1,0 +1,97 @@
+{
+  "estado": "Aguascalientes",
+  "slug": "aguascalientes",
+  "programa": "Programa de Verificación Vehicular Obligatoria (Reglamento de Verificación Vehicular en el Estado de Aguascalientes; operado por PROESPA, Procuraduría Estatal de Protección al Ambiente, con verificentros autorizados y sistema SIMUVE)",
+  "obligatoria": true,
+  "calendario": {
+    "fundamento": "Reglamento de Verificación Vehicular en el Estado de Aguascalientes (publicado 21-dic-2020, última reforma consultada 1-ene-2024), arts. 64 y 65. El art. 64 obliga a todos los vehículos automotores que circulen en el estado, salvo excepciones.",
+    "anual": {
+      "aplicaA": "Automóvil a nombre de persona física con uso particular; camión de hasta 5 cilindros a nombre de persona física con uso particular (y algunos de gas natural de carga menor a 3.5 t).",
+      "porUltimoDigitoDePlaca": {
+        "1": "enero",
+        "2": "febrero",
+        "3": "marzo",
+        "4": "abril",
+        "5": "mayo",
+        "6": "junio",
+        "7": "julio",
+        "8": "agosto",
+        "9": "septiembre",
+        "0": "octubre"
+      }
+    },
+    "semestral": {
+      "aplicaA": "Automóvil de persona moral; automóvil de persona física con uso mercantil; camión de 6 o más cilindros de persona física; vehículos de la Federación, Estado o municipios, entre otros.",
+      "porUltimoDigitoDePlaca": {
+        "1-2": "enero y julio",
+        "3-4": "febrero y agosto",
+        "5-6": "marzo y septiembre",
+        "7-8": "abril y octubre",
+        "9-0": "mayo y noviembre"
+      }
+    },
+    "cuatrimestral": {
+      "aplicaA": "Transporte público de pasajeros, alquiler, colectivos con concesión o permiso, autos de plataformas y carga de 3.5 t o más.",
+      "periodos": "Todos los dígitos: febrero-marzo, junio-julio y octubre-noviembre"
+    },
+    "nota": "El calendario oficial (imagen publicada en el portal SIMUVE de PROESPA) coincide con el reglamento. Una nota de prensa de adn40 (7-may-2026) habla de verificar 'dos veces al año' los vehículos a gasolina, lo que corresponde solo a las categorías semestrales; para un auto particular de persona física el reglamento y el calendario oficial marcan verificación anual."
+  },
+  "costo2026": {
+    "gasolinaOGas": 435,
+    "diesel": 585,
+    "moneda": "MXN",
+    "descuentos": "Según prensa local: 10% al verificar en los primeros días de cada mes y 20% para mayores de 65 años.",
+    "confiabilidad": "Cifras de prensa local (Metropolitano Aguascalientes, 9-ene-2026; ajuste de 7.4%, de $405 a $435). No se localizó el acuerdo de tarifas en el Periódico Oficial. El reglamento (arts. 74 y 77) dice que la SSMAA publica las tarifas en la segunda quincena de diciembre de cada año."
+  },
+  "sancion": "Prensa (adn40, 7-may-2026) cita multa de 20 a 40 UMA por omitir la verificación; no se verificó en la norma.",
+  "portalCita": "https://eservicios2.aguascalientes.gob.mx/MultasPROESPA/ui/ciudadano/consulta.aspx",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026 (Aguascalientes: Sí, estática y opacidad, obligatorio)",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Reglamento de Verificación Vehicular en el Estado de Aguascalientes (Normateca)",
+      "url": "https://eservicios2.aguascalientes.gob.mx/NormatecaAdministrador/archivos/EDO-26-274.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Calendario de verificación (imagen oficial, SIMUVE/PROESPA)",
+      "url": "https://eservicios2.aguascalientes.gob.mx/MultasPROESPA/images/calendario.png",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SIMUVE - consulta ciudadana (PROESPA)",
+      "url": "https://eservicios2.aguascalientes.gob.mx/MultasPROESPA/ui/ciudadano/consulta.aspx",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "PROESPA - Gobierno del Estado de Aguascalientes",
+      "url": "https://www.aguascalientes.gob.mx/proespa/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Metropolitano Aguascalientes: nuevas tarifas de verificación 2026",
+      "url": "https://metropolitanoaguascalientes.com.mx/estas-son-las-nuevas-tarifas-de-verificacion-vehicular-en-aguascalientes/",
+      "tipo": "prensa (apoyo)"
+    },
+    {
+      "nombre": "adn40: placas que verifican en mayo en Aguascalientes",
+      "url": "https://www.adn40.mx/tramites/2026-05-07/confirmado-en-aguascalientes-todas-estas-placas-tienen-hasta-el-31-de-mayo-para-realizar-la-verificacion-vehicular/",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "Costo 2026 solo respaldado por prensa local; falta el acuerdo de tarifas en el Periódico Oficial (diciembre 2025).",
+    "Portal de cita: el sistema SIMUVE sirve para consultar multas y estatus; no se confirmó que sea el portal de agenda de citas (la nota de adn40 lo menciona).",
+    "Excepciones del art. 64 del reglamento (vehículos exentos) sin detallar.",
+    "Existe descuento de hasta 70% en multas por rezago en verificación (aviso en el sitio de PROESPA); vigencia no verificada."
+  ]
+}

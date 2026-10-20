@@ -1,0 +1,34 @@
+{
+  "estado": "Baja California Sur",
+  "slug": "baja-california-sur",
+  "cobraTenencia2026": false,
+  "tenencia": "No hay tenencia vigente para el parque vehicular común. La prensa local (Diario El Independiente, 15-ene-2015) reporta que el Impuesto Estatal Vehicular quedó eliminado por decreto publicado en el Boletín Oficial el 30-dic-2014, a partir del ejercicio 2015. La Ley de Hacienda del Estado (Decreto 1586, PDF de la Secretaría de Finanzas) no contiene un impuesto de tenencia vigente. La Ley de Ingresos 2026 todavía lista 'Impuesto sobre Tenencia o Uso de Vehículos (IEV)' con solo $24,895 estimados (art. 1; arts. 8 y 14 reparten 20% a municipios), lo que corresponde a cobranza residual de ejercicios anteriores. La ficha oficial de 'Pago de Revista' exige no tener adeudos de tenencias ni revalidaciones anteriores.",
+  "refrendo": {
+    "nombreLocal": "Revista vehicular (calcomanía de revalidación anual)",
+    "monto2026": 556,
+    "moneda": "MXN",
+    "detalle": "Ficha oficial 'Pago de Revista' del portal de Trámites y Servicios de BCS: automóviles $556; camiones y camionetas $693; motocicletas $417; más $139 por revisión electromecánica. La Ley de Derechos y Productos del Estado (última reforma 14-may-2026) muestra para la calcomanía de revalidación cifras menores: automóviles $375, camiones/camionetas/pick-up $469, motocicletas $282 y revisión electromecánica $94 (las cifras de la ficha equivalen a 4, 5 y 3 veces $139 y las de la ley a 4, 5 y 3 veces unos $94, es decir, la ficha parece reflejar un valor actualizado). Se toma la ficha como monto 2026 vigente; confirmar."
+  },
+  "fechaLimite": "30 de abril de 2026 para pagar la revista vehicular 2026 sin actualización, recargos ni multas (boletín oficial de la Secretaría de Finanzas y Administración, abril 2026; la Ley de Derechos y Productos dice 'durante los primeros cuatro meses del año'). Fuera de plazo se causan actualización y recargos.",
+  "descuentos": [
+    "Pensionados, jubilados, adultos mayores de 60 años y personas con discapacidad: reducción del 50% en los derechos de control vehicular solo para placas o tarjeta de circulación de un solo vehículo de su propiedad, una vez por año y previa acreditación (Ley de Derechos y Productos, art. 5).",
+    "No se localizó en fuente oficial el esquema de descuentos por pronto pago (enero a marzo) para la revista 2026; publicaciones de buscador sobre porcentajes mezclan estados y no se usaron."
+  ],
+  "portalPago": "https://apps3.bcs.gob.mx/portal/publico",
+  "fuentes": [
+    {"nombre": "Ficha 'Pago de Revista' - Trámites y Servicios del Gobierno de BCS (Secretaría de Finanzas y Administración)", "url": "https://tramites.bcs.gob.mx/catX/pago-de-revista/", "tipo": "oficial"},
+    {"nombre": "Boletín SFyAD: Vence el 30 de abril el plazo para pagar revista vehicular 2026 sin recargos", "url": "https://finanzas.bcs.gob.mx/vence-el-30-de-abril-el-plazo-para-pagar-revista-vehicular-2026-sin-recargos-sfyad/", "tipo": "oficial"},
+    {"nombre": "Ley de Derechos y Productos del Estado de Baja California Sur (Congreso del Estado, reforma 14-may-2026)", "url": "https://www.cbcs.gob.mx/LEYES-BCS/LDerechosProductosBCS-.doc", "tipo": "oficial"},
+    {"nombre": "Ley de Ingresos del Estado de Baja California Sur 2026 (Secretaría de Finanzas)", "url": "https://finanzas.bcs.gob.mx/wp-content/themes/voice/assets/images/armonizacion_contable/cumpl_V/anual/2026/01.-%20Ley%20de%20Ingresos%20para%20el%20Ejercicio%20Fiscal%202026.pdf", "tipo": "oficial"},
+    {"nombre": "Ley de Hacienda del Estado de Baja California Sur (Decreto 1586, Secretaría de Finanzas)", "url": "https://finanzas.bcs.gob.mx/wp-content/themes/voice/assets/img/normatividad/Leyes%20Estatales/LeydeHaciendaBCS.pdf", "tipo": "oficial"},
+    {"nombre": "Diario El Independiente: Quedó eliminado para siempre el Impuesto Estatal Vehicular (15-ene-2015)", "url": "https://www.diarioelindependiente.mx/2015/01/quedo-eliminado-para-siempre-el-impuesto-estatal-vehicular", "tipo": "prensa (apoyo)"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se localizó el decreto oficial de 2014 que eliminó el Impuesto Estatal Vehicular ni la 'Ley del Impuesto Estatal Vehicular' que cita la Ley de Ingresos 2026; la afirmación de que no hay tenencia vigente se apoya en la Ley de Ingresos (monto residual de $24,895), la Ley de Hacienda sin capítulo de tenencia y prensa de 2015.",
+    "Un blog de Kavak (19-ago-2026) afirma que BCS cobra 3% sobre el excedente de $500,000 a autos más caros; no se encontró respaldo oficial, por lo que no se incluyó.",
+    "Descuentos por pronto pago 2026 (enero a marzo) y estímulos del Boletín Oficial 2026 sin confirmar en fuente oficial.",
+    "Discrepancia entre la ficha de trámites ($556 autos) y la Ley de Derechos y Productos ($375 autos); confirmar con la Secretaría de Finanzas o el Boletín Oficial cuál rige en 2026.",
+    "Una publicación en redes atribuida al Gobierno de BCS que el buscador resume como 'refrendo 2026 de 990 pesos para automóviles y 731 para motocicletas' aparece también en una publicación de la SAF de Tabasco; no se pudo abrir y no se usó."
+  ]
+}

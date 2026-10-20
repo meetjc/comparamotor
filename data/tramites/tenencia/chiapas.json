@@ -1,0 +1,33 @@
+{
+  "estado": "Chiapas",
+  "slug": "chiapas",
+  "cobraTenencia2026": false,
+  "tenencia": "No se cobra: la Ley de Ingresos del Estado de Chiapas para el Ejercicio Fiscal 2026 detalla sus impuestos (hospedaje, juegos y rifas, erogaciones en juegos, adquisición de vehículos automotores usados, nóminas, ecológicos y otros) y no incluye ningún concepto de tenencia o uso de vehículos, ni siquiera en el renglón de impuestos de ejercicios anteriores pendientes (0 pesos). Sí existe el impuesto sobre adquisición de vehículos automotores usados (estimado en $144,836,979). Conclusión inferida de la ley de ingresos; no se localizó una declaración oficial que diga 'no hay tenencia'.",
+  "refrendo": {
+    "nombreLocal": "Refrendo vehicular anual (derecho de la Ley de Derechos del Estado de Chiapas, art. 25 fracc. IV; también 'Refrendo o canje de placas')",
+    "monto2026": 1219,
+    "moneda": "MXN",
+    "detalle": "Infografía oficial de Costos 2026 de la Secretaría de Finanzas de Chiapas (publicada en el portal de la Subsecretaría de Ingresos, actualizado 20-feb-2026): refrendo servicio particular, automóvil $1,219 y moto $1,043; servicio público, automóvil $1,803 y moto $1,219. Emplacamiento (alta) y canje: particular $2,468 automóvil y $2,159 moto; público $4,833 automóvil y $2,776 moto. Baja: $293 (placas de Chiapas) o $1,344 (de otro estado). Son montos base sin descuento."
+  },
+  "fechaLimite": null,
+  "descuentos": [
+    "Pronto pago del refrendo vehicular 2026: 15% en enero, 10% en febrero y 5% en marzo (Ley de Ingresos 2026, estímulos del transitorio, fracc. III; refrendo del art. 25 fracc. IV de la Ley de Derechos).",
+    "Personas con discapacidad (vehículos del servicio privado que las trasladen o conduzcan): 50% en el refrendo anual y/o reposición de tarjeta de circulación, y sustitución de placas sin costo si se solicita a más tardar el 31-dic-2026 y se está al corriente (Ley de Ingresos 2026).",
+    "Motocicletas de servicio privado y público: condonación del 100% de derechos, recargos, gastos de ejecución, actualizaciones y multas de adeudos 2025 y anteriores si se paga el total a más tardar el último día hábil de marzo de 2026 (Ley de Ingresos 2026; ya venció)."
+  ],
+  "portalPago": "https://soluciones.finanzaschiapas.gob.mx/liquidacion_vehicular/default.aspx",
+  "fuentes": [
+    {"nombre": "Ley de Ingresos del Estado de Chiapas, Ejercicio Fiscal 2026 (Oficialía Mayor del Gobierno de Chiapas)", "url": "https://oficialiamayor.chiapas.gob.mx/doc/Marco%20Juridico/Ley_de_Ingresos_del_Edo_de_Chiapas_Ejercicio_fiscal_2026.pdf", "tipo": "oficial"},
+    {"nombre": "Secretaría de Finanzas de Chiapas: Requisitos y Costos Vehiculares (infografía Costos 2026)", "url": "http://www.ingresos.haciendachiapas.gob.mx/servicios/req-costos-vehic.asp", "tipo": "oficial"},
+    {"nombre": "Infografía oficial 'Costos' emplacamiento, canje, refrendo y baja 2026 (imagen)", "url": "http://www.ingresos.haciendachiapas.gob.mx/img/servicios/costos-vehiculares.jpg", "tipo": "oficial"},
+    {"nombre": "Subsecretaría de Ingresos de Chiapas: servicios vehiculares (Refrendo 2026)", "url": "http://www.ingresos.haciendachiapas.gob.mx/servicios/vehicular.asp", "tipo": "oficial"},
+    {"nombre": "TV Azteca: costo del refrendo en Chiapas 2026 (cita $924 autos y $757 motos de la Secretaría de Hacienda; cifras que no coinciden con la infografía)", "url": "https://www.tvazteca.com/aztecanoticias/costo-refrendo-chiapas-2026-quienes-pueden-obtener-descuento/", "tipo": "prensa (apoyo)"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se localizó la fecha límite oficial del refrendo 2026 ni el texto del art. 25 de la Ley de Derechos del Estado de Chiapas; los descuentos solo llegan hasta marzo.",
+    "TV Azteca (25-ene-2026) reporta $924 para automóviles particulares y $757 para motos con '15% de descuento' y un blog no oficial menciona el 30 de abril; la infografía oficial dice $1,219 y $1,043. Se usó la infografía. Confirmar si $924 es el monto ya con descuento u otro año.",
+    "La conclusión sobre tenencia se basa en la ausencia del concepto en la Ley de Ingresos 2026; confirmar con el Código de la Hacienda Pública del Estado de Chiapas o con la Secretaría de Finanzas.",
+    "La infografía oficial es una imagen (se leyó con OCR local); verificar visualmente las cifras antes de publicar."
+  ]
+}

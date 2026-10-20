@@ -1,0 +1,98 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "Kicks",
+  "slug": "kicks",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Advance CVT",
+      "anio": 2026,
+      "precio": 562990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil.",
+      "potenciaHp": 142,
+      "rendimientoCombinadoKmL": 18.64,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kicks.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $476,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 18.64 km/l combinado (ciudad 16.83, carretera 21.46), igual en el catálogo PDF 2026 y en la comparación web. Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo."
+    },
+    {
+      "nombre": "Exclusive CVT",
+      "anio": 2026,
+      "precio": 592990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil.",
+      "potenciaHp": 142,
+      "rendimientoCombinadoKmL": 18.64,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kicks.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $506,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 18.64 km/l combinado (ciudad 16.83, carretera 21.46), igual en el catálogo PDF 2026 y en la comparación web. Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo."
+    },
+    {
+      "nombre": "Platinum CVT",
+      "anio": 2026,
+      "precio": 633990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil.",
+      "potenciaHp": 142,
+      "rendimientoCombinadoKmL": 18.64,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kicks.html",
+      "fechaVerificacion": "2026-10-20",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $547,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Incluye ProPILOT Assist y audio BOSE de 10 bocinas. Rendimiento 18.64 km/l combinado (ciudad 16.83, carretera 21.46), igual en el catálogo PDF 2026 y en la comparación web. Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía de fábrica; requiere servicios cada 6 meses o 10,000 km)",
+    "fuente": "Nissan México (Portal de Clientes oficial, artículo del 28-mar-2025)",
+    "url": "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Precio especial CrediNissan: Advance CVT $476,990; Exclusive CVT $506,990; Platinum CVT $547,990.",
+      "precioOferta": 476990,
+      "condicion": "Solo crédito tradicional con NR Finance México, sujeto a aprobación. Sin crédito rige el precio de lista.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kicks.html",
+      "fechaVerificacion": "2026-10-20"
+    },
+    {
+      "descripcion": "Hasta 36 meses sin intereses + 1 año de seguro gratis + 0% de comisión por apertura (alternativa al precio especial desde $476,990).",
+      "precioOferta": null,
+      "condicion": "Términos y condiciones en la página del modelo; la vigencia 01-oct a 02-nov-2026 se publica en la tabla de precios, no en esta leyenda. Sujeto a aprobación de crédito.",
+      "vigenciaHasta": null,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kicks.html",
+      "fechaVerificacion": "2026-10-20"
+    }
+  ],
+  "fuentes": [
+    "https://www.nissan.com.mx/vehiculos/todos/kicks.html",
+    "https://www.nissan.com.mx/vehiculos/todos/kicks/precios-y-versiones.html",
+    "https://www.nissan.com.mx/content/dam/Nissan/mexico/assets/kicks/my26/vlp/catalogos/nissan-2026-kicks-catalogo.pdf",
+    "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
+  ],
+  "pendientes": [
+    "El texto legal de la promoción de meses sin intereses con 1 año de seguro no se desplegó en la página; solo se confirmó la vigencia de la tabla de precios."
+  ]
+}
