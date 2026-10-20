@@ -1,0 +1,48 @@
+{
+  "estado": "Durango",
+  "slug": "durango",
+  "cobraTenencia2026": true,
+  "tenencia": "El Impuesto sobre Tenencia o Uso de Vehículos Estatal sigue vigente en la Ley de Hacienda del Estado de Durango (Título Segundo, Capítulo VIII; la Ley de Ingresos 2026 lo estima en $885,752,084 y fija su tarifa en el art. 4), pero para 2026 se subsidia al 100% a todas las personas físicas y morales propietarias, tenedoras o usuarias de vehículos que cumplan los requisitos del art. 68 de la Ley de Hacienda (Ley de Ingresos 2026, art. 9 apartado A fracc. I): estar al corriente en el impuesto de tenencia estatal; estar al corriente en los derechos e impuestos de la Ley de Hacienda vinculados al vehículo; comprobar la adquisición en territorio del estado si el vehículo es nuevo; y tener actualizados los datos en el Registro Estatal Vehicular. En la práctica, quien está al corriente no paga tenencia en 2026.",
+  "refrendo": {
+    "nombreLocal": "Derechos de control vehicular: refrendo anual (más holograma de refrendo); canje o replaqueo cada seis años",
+    "monto2026": null,
+    "moneda": "MXN",
+    "tarifaEnUMA": {
+      "automovilesCamionesYAutobusesParticulares": 16,
+      "camionesCargaGruasAutomovilesYAutobusesServicioPublico": 21,
+      "remolquesYTractores": 14,
+      "motocicletas": 6,
+      "bicicletas": 1
+    },
+    "montoCalculadoConUMA2026": {
+      "umaDiaria2026": 117.31,
+      "automovilParticular16UMA": 1876.96,
+      "motocicleta6UMA": 703.86,
+      "nota": "Cálculo propio: tarifa en UMA del art. 130 apartado A fracc. II de la Ley de Hacienda por la UMA 2026 ($117.31 desde el 1-feb-2026). No incluye el holograma ni otros conceptos que cobre el sistema."
+    },
+    "detalle": "Ley de Hacienda del Estado de Durango (reforma P.O. 14-dic-2025), art. 130 A.II: el refrendo se cobra en UMA diaria. Prensa local (Posta Durango) reporta un costo total de $2,745 para automóviles, camiones y camionetas y $1,989 en enero con descuento de 26%; esa cifra incluye conceptos que la ley no desglosa en el artículo consultado, por lo que no se usó como monto oficial."
+  },
+  "fechaLimite": "Ley de Hacienda, art. 133: los derechos de refrendo y canje de placas se pagan dentro de los primeros tres meses del año (31 de marzo). La Ley de Ingresos 2026 art. 9 apartado B dio descuentos hasta el 30 de abril de 2026. El pago extemporáneo causa recargos (art. 135) y cobro por procedimiento administrativo de ejecución (art. 136). Prensa indica que desde mayo el costo es el completo.",
+  "descuentos": [
+    "Pronto pago en efectivo del refrendo 2026 (Ley de Ingresos 2026, art. 9 apartado B fracc. I): 26% hasta el 31 de enero; 15% del 1 al 28 de febrero; 10% del 1 al 31 de marzo; 5% del 1 al 30 de abril. Sobre el costo total. Ya vencieron.",
+    "50% de subsidio en el refrendo 2026 para personas con discapacidad, jubiladas y pensionadas y de la tercera edad, aplicable a un vehículo de su propiedad, con acreditación; no aplica a quien no esté en el Padrón Estatal Vehicular o no esté al corriente en obligaciones vehiculares (Ley de Ingresos 2026, art. 9 apartado B fracc. II).",
+    "Tenencia: subsidio del 100% a quien cumpla el art. 68 de la Ley de Hacienda (ver campo 'tenencia')."
+  ],
+  "portalPago": "https://www.pagos.durango.gob.mx/",
+  "fuentes": [
+    {"nombre": "Ley de Ingresos del Estado de Durango para el Ejercicio Fiscal 2026 (Congreso del Estado, dictamen)", "url": "https://congresodurango.gob.mx/Archivos/LXX/LEYES-INGRESOS/2026/INGRESOS%20ESTADO%20DE%20DURANGO%202026.pdf", "tipo": "oficial"},
+    {"nombre": "Ley de Hacienda del Estado de Durango (reforma Dec. 304, P.O. 100, 14-dic-2025)", "url": "https://congresodurango.gob.mx/Archivos/legislacion/LEY%20DE%20HACIENDA%20DEL%20ESTADO%20DE%20DURANGO.pdf", "tipo": "oficial"},
+    {"nombre": "INEGI/DOF: valor de la UMA 2026 ($117.31 diaria desde el 1-feb-2026)", "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/uma/uma2026.pdf", "tipo": "oficial"},
+    {"nombre": "Gobierno de Durango: portal de pagos", "url": "https://www.pagos.durango.gob.mx/", "tipo": "oficial"},
+    {"nombre": "Posta Durango: esto costará el refrendo en Durango en 2026", "url": "https://www.posta.com.mx/durango/esto-costara-el-refrendo-en-durango-en-el-2026/vl2143968", "tipo": "prensa (apoyo)"},
+    {"nombre": "Posta Durango: refrendo en Durango, esto cuesta de mayo a diciembre de 2026 tras el fin de la campaña de descuentos", "url": "https://www.posta.com.mx/durango/refrendo-en-durango-esto-cuesta-de-mayo-a-diciembre-de-2026-tras-el-fin-de-la-campana-de-descuentos/vl2198181", "tipo": "prensa (apoyo)"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se pudo abrir el boletín oficial del Gobierno de Durango sobre descuentos de hasta 26% (la URL devolvió 404); el esquema de descuentos se confirmó en la Ley de Ingresos 2026.",
+    "Monto total oficial que paga un automóvil en 2026 (incluye holograma y otros conceptos): sin confirmar en fuente oficial; prensa da $2,745 desde mayo.",
+    "Prensa menciona pago en parcialidades (6, 9 y 12 meses sin intereses con tarjetas participantes) y el programa 'Ponte al Tiro' para refrendos atrasados; sin respaldo oficial leído.",
+    "No se leyó la tarifa de tenencia (Ley de Ingresos art. 4) ni los factores por antigüedad; solo el subsidio y sus requisitos.",
+    "Portal de pago tomado del dominio institucional (redirige de pagos.durango.gob.mx a www.pagos.durango.gob.mx); no se probó una consulta."
+  ]
+}

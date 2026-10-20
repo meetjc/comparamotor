@@ -1,0 +1,973 @@
+{
+ "_nota": "Fotos de salas de prensa recopiladas el 2026-10-20 (URLs tal como aparecen en cada galería; no se descargó nada). merge-prensa.mjs las pasa a data/imagenes-candidatas/ si la fuente no es «No usable». Las URLs de Google Drive (Renault) son páginas de vista previa, no archivos directos.",
+ "galerias": [
+  {
+   "fuenteId": "prensa-nissan-mx",
+   "modelo": "versa",
+   "url": "https://mexico.nissannews.com/es-MX/releases/release-e753262aecb841cf03e379a163160058?gallery=release-e753262aecb841cf03e379a163160058&viewallTab=photos",
+   "coincideConMexico": true,
+   "notas": "Kit de prensa Nissan Versa 2026 (10 mar 2026), nueva generación producida en Aguascalientes para México. 29 fotos.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-7bd73b5246aa82d26c1f6742ff092f84-foto-4_jpg&dlid=7056697e54138e4640112ad64981b5878dc255c3",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-e753262aecb841cf03e379a163160058?gallery=release-e753262aecb841cf03e379a163160058&viewallTab=photos",
+     "titulo": "Fotografía de Nissan Versa 2026 de la esquina",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 frontal",
+     "anioOGeneracion": "Versa 2026",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/7056697e54138e4640112ad64981b5878dc255c3/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-7bd73b5246aa82d26c1f6742ff0939e5-foto-3_jpg&dlid=15fab48dd334364ea5c4b032982850853b329d53",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-e753262aecb841cf03e379a163160058?gallery=release-e753262aecb841cf03e379a163160058&viewallTab=photos",
+     "titulo": "Fotografía de Nissan Versa 2026 de lado",
+     "ancho": null,
+     "alto": null,
+     "angulo": "perfil",
+     "anioOGeneracion": "Versa 2026",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/15fab48dd334364ea5c4b032982850853b329d53/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-7bd73b5246aa82d26c1f6742ff099251-foto-14_jpg&dlid=a149c54e8e677911dbd76cfe38cfa24b9bb6a548",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-e753262aecb841cf03e379a163160058?gallery=release-e753262aecb841cf03e379a163160058&viewallTab=photos",
+     "titulo": "Fotografía de Nissan Versa 2026 parte trasera derecho",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 trasero",
+     "anioOGeneracion": "Versa 2026",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/a149c54e8e677911dbd76cfe38cfa24b9bb6a548/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-7bd73b5246aa82d26c1f6742ff0a19e4-foto-27_jpg&dlid=d4c943e247c73e1dca24fd54102d348cdd895898",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-e753262aecb841cf03e379a163160058?gallery=release-e753262aecb841cf03e379a163160058&viewallTab=photos",
+     "titulo": "Interior Nissan Versa 2026",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "Versa 2026",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/d4c943e247c73e1dca24fd54102d348cdd895898/thumbnail-720x404.jpg"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-nissan-mx",
+   "modelo": "march",
+   "url": "https://mexico.nissannews.com/es-MX/releases/release-14ae9e83dd1b5fe46634b62a5b0002f9?gallery=release-14ae9e83dd1b5fe46634b62a5b0002f9&viewallTab=photos",
+   "coincideConMexico": true,
+   "notas": "No hay kit de prensa reciente del March. La galería más reciente es del comunicado 'Nissan March: el referente absoluto...' (19 sep 2023), misma generación que sigue en nissan.com.mx (la página del March responde el 20 oct 2026). Las fotos no tienen pie de foto: solo la 1 se identificó visualmente (March rojo, 3/4 frontal). Hay un kit nuevo de Nissan Kait 2027 (SUV de entrada, 13 may 2026); verificar si sustituye al March.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-c445a579d87a49ad70c083f75f2fac54-foto-1_jpg&dlid=026754a388bc8880f1c479470a4b5472f09a6f16",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-14ae9e83dd1b5fe46634b62a5b0002f9?gallery=release-14ae9e83dd1b5fe46634b62a5b0002f9&viewallTab=photos",
+     "titulo": "Nissan March (foto 1)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 frontal",
+     "anioOGeneracion": "March K13, foto de 2023",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/026754a388bc8880f1c479470a4b5472f09a6f16/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-c445a579d87a49ad70c083f75f2fbce7-foto-2_jpg&dlid=828c5b19503d20b466be172cf2a21a402cc2602c",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-14ae9e83dd1b5fe46634b62a5b0002f9?gallery=release-14ae9e83dd1b5fe46634b62a5b0002f9&viewallTab=photos",
+     "titulo": "Nissan March (foto 2)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "March K13, foto de 2023",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/828c5b19503d20b466be172cf2a21a402cc2602c/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-c445a579d87a49ad70c083f75f2fadec-foto-3_jpg&dlid=25ad5846bc6c67123babe2605e24ae40d9e957fb",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-14ae9e83dd1b5fe46634b62a5b0002f9?gallery=release-14ae9e83dd1b5fe46634b62a5b0002f9&viewallTab=photos",
+     "titulo": "Nissan March (foto 3)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "March K13, foto de 2023",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/25ad5846bc6c67123babe2605e24ae40d9e957fb/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-c445a579d87a49ad70c083f75f2fd6b7-foto-5_jpg&dlid=7fda51da268fe0a5014cfdc7cf7cb266126c31bb",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-14ae9e83dd1b5fe46634b62a5b0002f9?gallery=release-14ae9e83dd1b5fe46634b62a5b0002f9&viewallTab=photos",
+     "titulo": "Nissan March (foto 5)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "March K13, foto de 2023",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/7fda51da268fe0a5014cfdc7cf7cb266126c31bb/thumbnail-720x404.jpg"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-nissan-mx",
+   "modelo": "kicks",
+   "url": "https://mexico.nissannews.com/es-MX/releases/release-7158e34dea36832d3dfb3c2b87015e5f?gallery=release-7158e34dea36832d3dfb3c2b87015e5f&viewallTab=photos",
+   "coincideConMexico": true,
+   "notas": "El Kicks de tercera generación se fabrica en Aguascalientes. El 'Nissan Kicks 2025 kit de prensa' (publicado el 24 sep 2026) no trae galería, y el 'Kicks 2026 kit de prensa' da 404. Solo se halló 1 foto útil, en el comunicado de preventa (9 oct 2024). Alternativa: la sala de prensa de EE. UU. (usa.nissannews.com) tiene el mismo Kicks hecho en Aguascalientes, con términos editoriales similares. No se revisó.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-7158e34dea36832d3dfb3c2b87016d09-foto-1_jpg&dlid=859a68b9e87ee255f7fb1ab279e72e041a840d54",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-7158e34dea36832d3dfb3c2b87015e5f?gallery=release-7158e34dea36832d3dfb3c2b87015e5f&viewallTab=photos",
+     "titulo": "Nuevo Nissan Kicks 2025 en gris Oxford, estacionado al fondo pared de colores",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Kicks 2025 (3a gen.)",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/859a68b9e87ee255f7fb1ab279e72e041a840d54/thumbnail-720x404.jpg"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-nissan-mx",
+   "modelo": "sentra",
+   "url": "https://mexico.nissannews.com/es-MX/releases/release-e753262aecb841cf03e379a16315f6b7?gallery=release-e753262aecb841cf03e379a16315f6b7&viewallTab=photos",
+   "coincideConMexico": true,
+   "notas": "Comunicado 'Nissan Sentra 2026' (10 mar 2026), lanzamiento en México. 29 fotos.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-7bd73b5246aa82d26c1f6742ff07ef24-inicia-la-era-de-los-nuevos-nissan-sentra-y-nissan-versa-en-mexico&dlid=2a6d7c8850e18c93306a897f56e898c0591b3296",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-e753262aecb841cf03e379a16315f6b7?gallery=release-e753262aecb841cf03e379a16315f6b7&viewallTab=photos",
+     "titulo": "Foto angular lado izquierdo de Nissan Sentra 2026",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 frontal",
+     "anioOGeneracion": "Sentra 2026",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/2a6d7c8850e18c93306a897f56e898c0591b3296/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-7bd73b5246aa82d26c1f6742ff07ef8d-inicia-la-era-de-los-nuevos-nissan-sentra-y-nissan-versa-en-mexico&dlid=b2427c5155a145397a3ece3d566519cadcbb0082",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-e753262aecb841cf03e379a16315f6b7?gallery=release-e753262aecb841cf03e379a16315f6b7&viewallTab=photos",
+     "titulo": "Foto costado izquierdo Nissan Sentra 2026",
+     "ancho": null,
+     "alto": null,
+     "angulo": "perfil",
+     "anioOGeneracion": "Sentra 2026",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/b2427c5155a145397a3ece3d566519cadcbb0082/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-7bd73b5246aa82d26c1f6742ff07c1e3-inicia-la-era-de-los-nuevos-nissan-sentra-y-nissan-versa-en-mexico&dlid=3f55a499dc1232964063e40042ea037171a6154b",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-e753262aecb841cf03e379a16315f6b7?gallery=release-e753262aecb841cf03e379a16315f6b7&viewallTab=photos",
+     "titulo": "Foto lateral trasera Nissan Sentra 2026",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 trasero",
+     "anioOGeneracion": "Sentra 2026",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/3f55a499dc1232964063e40042ea037171a6154b/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-7bd73b5246aa82d26c1f6742ff07e182-inicia-la-era-de-los-nuevos-nissan-sentra-y-nissan-versa-en-mexico&dlid=67f237360aff02b88e8500c0a7bb84630db5ab42",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-e753262aecb841cf03e379a16315f6b7?gallery=release-e753262aecb841cf03e379a16315f6b7&viewallTab=photos",
+     "titulo": "Foto asientos Nissan Sentra 2026",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "Sentra 2026",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/67f237360aff02b88e8500c0a7bb84630db5ab42/thumbnail-720x404.jpg"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-nissan-mx",
+   "modelo": "x-trail",
+   "url": "https://mexico.nissannews.com/es-MX/releases/release-65e24305f6b3e18c6613d7db94049427?gallery=release-65e24305f6b3e18c6613d7db94049427&viewallTab=photos",
+   "coincideConMexico": true,
+   "notas": "El kit 'Nissan X-Trail 2027' (2 jun 2026) no trae fotos. Se usó la galería del comunicado del 13 may 2026 ('Nissan robustece su portafolio de SUVs...'), que renueva el X-Trail para México. Solo trae 2 fotos del X-Trail; las demás son de Kait y Pathfinder. Las galerías de 2022-2023 son del X-Trail antes de la renovación.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-65e24305f6b3e18c6613d7db9405a207-foto-25_jpg&dlid=160477492f60a0ffc03b480453b5633ec292106c",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-65e24305f6b3e18c6613d7db94049427?gallery=release-65e24305f6b3e18c6613d7db94049427&viewallTab=photos",
+     "titulo": "Foto Xtrail diagonal de la parte trasera del vehículo",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 trasero",
+     "anioOGeneracion": "X-Trail 2027 (renovado)",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/160477492f60a0ffc03b480453b5633ec292106c/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-65e24305f6b3e18c6613d7db94059c40-foto-26_jpg&dlid=2c985e86053edf51a040f22add32733e373bac46",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-65e24305f6b3e18c6613d7db94049427?gallery=release-65e24305f6b3e18c6613d7db94049427&viewallTab=photos",
+     "titulo": "Foto Xtrail lateral del lado derecho",
+     "ancho": null,
+     "alto": null,
+     "angulo": "perfil",
+     "anioOGeneracion": "X-Trail 2027 (renovado)",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/2c985e86053edf51a040f22add32733e373bac46/thumbnail-720x404.jpg"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-nissan-mx",
+   "modelo": "np300",
+   "url": "https://mexico.nissannews.com/es-MX/releases/release-f94c5652c64be4da8411eff58c0d8abf?gallery=release-f94c5652c64be4da8411eff58c0d8abf&viewallTab=photos",
+   "coincideConMexico": true,
+   "notas": "No hay kit reciente de la NP300. La galería es del comunicado 'Nissan arranca la preventa exclusiva de NP300 y Frontier 2021' (23 nov 2020), de la generación renovada D23 que sigue a la venta (nissan.com.mx/np300 responde). Las fotos no tienen pie. La foto principal es una Frontier PRO-4X en 3/4 frontal: misma carrocería que la NP300, pero de versión alta. Verificar visualmente cuáles muestran la NP300 de trabajo.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-f94c5652c64be4da8411eff58c0d8d1f-foto-1_jpg&dlid=82727db9fc52b3592b779855693503944eb92a14",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-f94c5652c64be4da8411eff58c0d8abf?gallery=release-f94c5652c64be4da8411eff58c0d8abf&viewallTab=photos",
+     "titulo": "NP300 / Frontier 2021 (foto 1)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 frontal",
+     "anioOGeneracion": "NP300/Frontier D23 2021+",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/82727db9fc52b3592b779855693503944eb92a14/thumbnail-720x404.jpg",
+     "notas": "Probable foto principal (Frontier PRO-4X); verificar"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-f94c5652c64be4da8411eff58c0da0fe-foto-2_jpg&dlid=38965585679351a47efd5182191afb1dfb5b9cd8",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-f94c5652c64be4da8411eff58c0d8abf?gallery=release-f94c5652c64be4da8411eff58c0d8abf&viewallTab=photos",
+     "titulo": "NP300 / Frontier 2021 (foto 2)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "NP300/Frontier D23 2021+",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/38965585679351a47efd5182191afb1dfb5b9cd8/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-f94c5652c64be4da8411eff58c0d9841-foto-3_jpg&dlid=257a6db88c8fc7efb2743ca64e22dbdaaa7bca00",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-f94c5652c64be4da8411eff58c0d8abf?gallery=release-f94c5652c64be4da8411eff58c0d8abf&viewallTab=photos",
+     "titulo": "NP300 / Frontier 2021 (foto 3)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "NP300/Frontier D23 2021+",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/257a6db88c8fc7efb2743ca64e22dbdaaa7bca00/thumbnail-720x404.jpg"
+    },
+    {
+     "archivoUrl": "https://mexico.nissannews.com/photos/downloadSource?idWithExtraText=photo-f94c5652c64be4da8411eff58c0d9a86-foto-4_jpg&dlid=e91b87b4c560b20c4ab476e33e80f523418a9f90",
+     "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/release-f94c5652c64be4da8411eff58c0d8abf?gallery=release-f94c5652c64be4da8411eff58c0d8abf&viewallTab=photos",
+     "titulo": "NP300 / Frontier 2021 (foto 4)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "NP300/Frontier D23 2021+",
+     "miniaturaUrl": "https://wieck-nissanao-production.s3.amazonaws.com/photos/e91b87b4c560b20c4ab476e33e80f523418a9f90/thumbnail-720x404.jpg"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-chevrolet-mx",
+   "modelo": "aveo",
+   "url": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2023/may/0531-AveoSedan-2023.html",
+   "coincideConMexico": true,
+   "notas": "Aveo de generación actual (lanzado como Aveo 2024; el Aveo 2026 sigue en esta generación según la prensa automotriz). Comunicado del sedán (31 may 2023). Solo hay versiones de 1024 px. El texto alternativo de algunas fotos dice 'Chevrolet Trax' por error; visualmente son el Aveo Sedán. Hay comunicado de Aveo Black Edition 2025 (21 oct 2024), pero sus fotos son de la Captiva. No hay comunicado del Aveo 2026.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/content/Pages/news/mx/es/2023/may/0531-AveoSedan-2023/_jcr_content/image.resize.maxw_1024.jpg/1685552759545.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2023/may/0531-AveoSedan-2023.html",
+     "titulo": "Chevrolet Aveo Sedán 2024 (foto principal)",
+     "ancho": 1024,
+     "alto": 684,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Aveo Sedán 2024 (generación vigente)",
+     "notas": "1024 px de ancho"
+    },
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/content/Pages/news/mx/es/2023/may/0531-AveoSedan-2023/_jcr_content/rightpar/imagewithmodal_1755179101/image.resize.maxw_1024.jpg/1685552759545.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2023/may/0531-AveoSedan-2023.html",
+     "titulo": "Chevrolet Aveo Sedán 2024 en carretera",
+     "ancho": 1024,
+     "alto": null,
+     "angulo": "3/4 frontal",
+     "anioOGeneracion": "Aveo Sedán 2024",
+     "notas": "1024 px; toma lejana"
+    },
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/content/Pages/news/mx/es/2023/may/0531-AveoSedan-2023/_jcr_content/rightpar/imagewithmodal_2117368071/image.resize.maxw_1024.jpg/1685552759545.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2023/may/0531-AveoSedan-2023.html",
+     "titulo": "Chevrolet Aveo Sedán 2024 rodando",
+     "ancho": 1024,
+     "alto": 907,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Aveo Sedán 2024",
+     "notas": "1024 px; toma lejana"
+    },
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/content/Pages/news/mx/es/2023/may/0531-AveoSedan-2023/_jcr_content/rightpar/imagewithmodal_1099318214/image.resize.maxw_1024.jpg/1685552759545.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2023/may/0531-AveoSedan-2023.html",
+     "titulo": "Interior Chevrolet Aveo Sedán 2024 (asientos)",
+     "ancho": 1024,
+     "alto": 682,
+     "angulo": "interior",
+     "anioOGeneracion": "Aveo Sedán 2024",
+     "notas": "1024 px"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-chevrolet-mx",
+   "modelo": "onix",
+   "url": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2022/jun/2022-06-23-Chevrolet-Onix-2023-Mexico-Premier-Redline.html",
+   "coincideConMexico": null,
+   "notas": "No hay comunicado reciente del Onix en el sitio de prensa México. El más reciente es el del Onix 2023 (23 jun 2022), que dice que se produce en la planta Dong Yue de GM (Yantai, China). No se verificó si el Onix 2026 que se vende en México tiene cambios de diseño frente a esas fotos. Solo hay versiones de 1024 px.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/content/Pages/news/mx/es/2022/jun/2022-06-23-Chevrolet-Onix-2023-Mexico-Premier-Redline/_jcr_content/image.resize.maxw_1024.jpg/1656623487077.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2022/jun/2022-06-23-Chevrolet-Onix-2023-Mexico-Premier-Redline.html",
+     "titulo": "Chevrolet Onix 2023 (foto principal)",
+     "ancho": 1024,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Onix 2023",
+     "notas": "1024 px"
+    },
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/content/Pages/news/mx/es/2022/jun/2022-06-23-Chevrolet-Onix-2023-Mexico-Premier-Redline/_jcr_content/rightpar/imagewithmodal_1048236258/image.resize.maxw_1024.jpg/1656623487077.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2022/jun/2022-06-23-Chevrolet-Onix-2023-Mexico-Premier-Redline.html",
+     "titulo": "Chevrolet Onix 2023 estacionado",
+     "ancho": 1024,
+     "alto": null,
+     "angulo": "frontal",
+     "anioOGeneracion": "Onix 2023",
+     "notas": "1024 px"
+    },
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/content/Pages/news/mx/es/2022/jun/2022-06-23-Chevrolet-Onix-2023-Mexico-Premier-Redline/_jcr_content/rightpar/imagewithmodal_1723212203/image.resize.maxw_1024.jpg/1656623487077.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2022/jun/2022-06-23-Chevrolet-Onix-2023-Mexico-Premier-Redline.html",
+     "titulo": "Chevrolet Onix 2023 Premier Redline, rin",
+     "ancho": 1024,
+     "alto": null,
+     "angulo": "detalle",
+     "anioOGeneracion": "Onix 2023",
+     "notas": "1024 px"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-chevrolet-mx",
+   "modelo": "tracker",
+   "url": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/oct/1029_Tracker26MY.html",
+   "coincideConMexico": true,
+   "notas": "Comunicado 'Chevrolet Tracker 2026 llega a México con un diseño renovado' (10 nov 2025). 7 fotos en alta resolución; los ángulos se identificaron visualmente en las miniaturas.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/dld/content/dam/Media/images/MX/Vehicles/Chevrolet/suv/Tracker/2026/Chevrolet-Tracker-2026-1765298956669-4.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/oct/1029_Tracker26MY.html",
+     "titulo": "Chevrolet Tracker 2026",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 frontal",
+     "anioOGeneracion": "Tracker 2026 (renovada)"
+    },
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/dld/content/dam/Media/images/MX/Vehicles/Chevrolet/suv/Tracker/2026/Chevrolet-Tracker-2026-1765298956669-6.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/oct/1029_Tracker26MY.html",
+     "titulo": "Chevrolet Tracker 2026 en calle",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 frontal",
+     "anioOGeneracion": "Tracker 2026 (renovada)",
+     "notas": "Toma ambiental, más lejana"
+    },
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/dld/content/dam/Media/images/MX/Vehicles/Chevrolet/suv/Tracker/2026/Chevrolet-Tracker-2026-1765298956669-5.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/oct/1029_Tracker26MY.html",
+     "titulo": "Chevrolet Tracker 2026 en calle",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 trasero",
+     "anioOGeneracion": "Tracker 2026 (renovada)"
+    },
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/dld/content/dam/Media/images/MX/Vehicles/Chevrolet/suv/Tracker/2026/Chevrolet-Tracker-2026-1765298956669-1.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/oct/1029_Tracker26MY.html",
+     "titulo": "Chevrolet Tracker 2026 tablero",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "Tracker 2026 (renovada)"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-chevrolet-mx",
+   "modelo": "groove",
+   "url": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/jul/0722-GrooveMexico.html",
+   "coincideConMexico": true,
+   "notas": "Comunicado 'Llega a México la nueva generación de Chevrolet Groove' (22 jul 2025), Groove 2026 de segunda generación. 7 fotos en alta resolución, sin interior. Los ángulos se identificaron visualmente en las miniaturas.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/dld/content/dam/Media/images/MX/Vehicles/Chevrolet/suv/Groove/2026/Chevrolet-Groove-2026-.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/jul/0722-GrooveMexico.html",
+     "titulo": "Chevrolet Groove 2026 en exterior",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 frontal",
+     "anioOGeneracion": "Groove 2026 (2a gen.)"
+    },
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/dld/content/dam/Media/images/MX/Vehicles/Chevrolet/suv/Groove/2026/Chevrolet-Groove-2026-9.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/jul/0722-GrooveMexico.html",
+     "titulo": "Chevrolet Groove 2026 frente",
+     "ancho": null,
+     "alto": null,
+     "angulo": "frontal",
+     "anioOGeneracion": "Groove 2026 (2a gen.)"
+    },
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/dld/content/dam/Media/images/MX/Vehicles/Chevrolet/suv/Groove/2026/Chevrolet-Groove-2026-8.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/jul/0722-GrooveMexico.html",
+     "titulo": "Chevrolet Groove 2026 parte trasera",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 trasero",
+     "anioOGeneracion": "Groove 2026 (2a gen.)"
+    },
+    {
+     "archivoUrl": "https://pressroom.chevrolet.com.mx/dld/content/dam/Media/images/MX/Vehicles/Chevrolet/suv/Groove/2026/Chevrolet-Groove-2026-10.jpg",
+     "paginaUrl": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/jul/0722-GrooveMexico.html",
+     "titulo": "Chevrolet Groove 2026 en exterior",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Groove 2026 (2a gen.)",
+     "notas": "Toma de paisaje; ángulo no confirmado"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-toyota-global",
+   "modelo": "hilux",
+   "url": "https://global.toyota/en/newsroom/toyota/44397819.html",
+   "coincideConMexico": null,
+   "notas": "'Toyota Launches New Hilux in Japan' (28 may 2026): Hilux de nueva generación, versión japonesa Z 'Adventure' hecha en Tailandia. No se verificó si la Hilux que vende México en 2026 (desde $570,900 en toyota.mx, importada de Argentina) ya es esta generación. Galería de modelo: https://global.toyota/en/mobility/toyota-brand/gallery/hilux.html",
+   "imagenes": [
+    {
+     "archivoUrl": "https://global.toyota/pages/news/images/2026/05/28/1330_hilux/20260528_01_kv_w1920.jpg",
+     "paginaUrl": "https://global.toyota/en/newsroom/toyota/44397819.html",
+     "titulo": "Toyota Launches New Hilux in Japan (imagen principal)",
+     "ancho": 1920,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Hilux nueva generación (Japón 2026)"
+    },
+    {
+     "archivoUrl": "https://global.toyota/pages/news/images/2026/05/28/1330_hilux/001.jpg",
+     "paginaUrl": "https://global.toyota/en/newsroom/toyota/44397819.html",
+     "titulo": "Z \"Adventure\"",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Hilux nueva generación (Japón 2026)"
+    },
+    {
+     "archivoUrl": "https://global.toyota/pages/news/images/2026/05/28/1330_hilux/002.jpg",
+     "paginaUrl": "https://global.toyota/en/newsroom/toyota/44397819.html",
+     "titulo": "Z \"Adventure\"",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Hilux nueva generación (Japón 2026)"
+    },
+    {
+     "archivoUrl": "https://global.toyota/pages/news/images/2026/05/28/1330_hilux/003.jpg",
+     "paginaUrl": "https://global.toyota/en/newsroom/toyota/44397819.html",
+     "titulo": "Z \"Adventure\" (Interior color: Mineral)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "Hilux nueva generación (Japón 2026)"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-toyota-global",
+   "modelo": "rav4",
+   "url": "https://global.toyota/en/newsroom/toyota/43740895.html",
+   "coincideConMexico": null,
+   "notas": "'Toyota Launches New RAV4 in Japan' (17 dic 2025): RAV4 de sexta generación, versión japonesa. toyota.mx vende RAV4 HEV y PHEV; no se verificó si en México ya es esta generación. Las fotos solo tienen el texto alternativo 'RAV4'; exterior o interior se infirió por la sección del comunicado. También existe el estreno mundial (21 may 2025, fotos de prototipo): https://global.toyota/en/newsroom/toyota/42758168.html",
+   "imagenes": [
+    {
+     "archivoUrl": "https://global.toyota/pages/news/images/2025/12/17/1330/20251217_01_kv_w1920.jpg",
+     "paginaUrl": "https://global.toyota/en/newsroom/toyota/43740895.html",
+     "titulo": "Toyota Launches New RAV4 in Japan (imagen principal)",
+     "ancho": 1920,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "RAV4 6a gen. (Japón)"
+    },
+    {
+     "archivoUrl": "https://global.toyota/pages/news/images/2025/12/17/1330/001.jpg",
+     "paginaUrl": "https://global.toyota/en/newsroom/toyota/43740895.html",
+     "titulo": "Z (HEV) (Models with options shown)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "RAV4 6a gen. (Japón)",
+     "notas": "Exterior"
+    },
+    {
+     "archivoUrl": "https://global.toyota/pages/news/images/2025/12/17/1330/005.jpg",
+     "paginaUrl": "https://global.toyota/en/newsroom/toyota/43740895.html",
+     "titulo": "RAV4 (diseño frontal/trasero grado Z)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "RAV4 6a gen. (Japón)",
+     "notas": "Exterior, inferido"
+    },
+    {
+     "archivoUrl": "https://global.toyota/pages/news/images/2025/12/17/1330/004.jpg",
+     "paginaUrl": "https://global.toyota/en/newsroom/toyota/43740895.html",
+     "titulo": "RAV4 (interior)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "RAV4 6a gen. (Japón)",
+     "notas": "Inferido por la sección del comunicado"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-volkswagen-mx",
+   "modelo": "jetta",
+   "url": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-presenta-el-nuevo-jetta-y-nuevo-gli-2025",
+   "coincideConMexico": true,
+   "notas": "Comunicado del 15 ago 2024 del Jetta y GLI 2025 (renovación vigente, hecho en Puebla). Hay 48 adjuntos descargables (Nuevo Jetta 1 a 7, detalles GLI y Jetta 70 años). Los ángulos no vienen etiquetados. También hay fotos del Jetta GOAL 2026 en https://volkswagen-mexico.prezly.com/la-marca-volkswagen-anuncia-la-llegada-de-las-ediciones-especiales-goal-de-jetta-taos-y-tiguan",
+   "imagenes": [
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/1e46d1ae-036d-4074-8497-69b6347e263a/-/preview/-/format/auto/Nuevo%20Jetta%202025.png",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-presenta-el-nuevo-jetta-y-nuevo-gli-2025",
+     "titulo": "Nuevo Jetta 2025 (imagen principal)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Jetta 2025 (renovación Mk7, vigente 2026)"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/832e2b6c-03e6-4d7f-bd80-ca1caadf6463/-/inline/no/Nuevo%20Jetta%201.jpeg",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-presenta-el-nuevo-jetta-y-nuevo-gli-2025",
+     "titulo": "Nuevo Jetta 1",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Jetta 2025"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/a4b1094b-7d4b-4cf6-910f-acd9d0e6e61e/-/inline/no/Nuevo%20Jetta%202.jpeg",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-presenta-el-nuevo-jetta-y-nuevo-gli-2025",
+     "titulo": "Nuevo Jetta 2",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Jetta 2025"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/43f88c37-abf8-4423-bfe2-17e5dad78fee/-/inline/no/Jetta_70a%E0%B8%84os_Tablero.jpg",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-presenta-el-nuevo-jetta-y-nuevo-gli-2025",
+     "titulo": "Jetta 70 años: tablero (el nombre del archivo trae un carácter mal codificado)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "Jetta 2025 edición 70 años"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-volkswagen-mx",
+   "modelo": "taos",
+   "url": "https://volkswagen-mexico.prezly.com/nuevo-vw-taos-2025-llega-a-mexico-con-renovada-apariencia-y-mas-tecnologia",
+   "coincideConMexico": true,
+   "notas": "Comunicado del 12 nov 2024 del Taos 2025 renovado (hecho en Puebla). 40+ fotos descargables con nombres VW_TAOS_FEAT/MGA/MGB del set de agosto 2024; parecen fotos del set de Volkswagen de América, así que versiones y detalles pueden diferir de los de México. Fotos del Taos GOAL 2026 en https://volkswagen-mexico.prezly.com/la-marca-volkswagen-anuncia-la-llegada-de-las-ediciones-especiales-goal-de-jetta-taos-y-tiguan",
+   "imagenes": [
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/f4cf423e-3c23-4e52-a194-daddcf9ff946/-/inline/no/VW%20Taos%202025.JPG",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/nuevo-vw-taos-2025-llega-a-mexico-con-renovada-apariencia-y-mas-tecnologia",
+     "titulo": "VW Taos 2025 (imagen principal)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Taos 2025 renovado"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/e8ac4492-970c-41f5-9cdd-6472132182a8/-/inline/no/VW_TAOS_MGA_001_WEB_RGB_0358_M08Y24.JPG",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/nuevo-vw-taos-2025-llega-a-mexico-con-renovada-apariencia-y-mas-tecnologia",
+     "titulo": "VW_TAOS_MGA_001",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Taos 2025 renovado"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/94fbeb1c-c7e5-4d8a-860e-f962b5ec9477/-/inline/no/VW_TAOS_MGB_001_WEB_RGB_2654_M08Y24.JPG",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/nuevo-vw-taos-2025-llega-a-mexico-con-renovada-apariencia-y-mas-tecnologia",
+     "titulo": "VW_TAOS_MGB_001",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Taos 2025 renovado"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/0cf64175-0958-4048-9947-68d0574f0019/-/inline/no/VW_TAOS_MGB_002_WEB_RGB_2708_M08Y24.JPG",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/nuevo-vw-taos-2025-llega-a-mexico-con-renovada-apariencia-y-mas-tecnologia",
+     "titulo": "VW_TAOS_MGB_002",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Taos 2025 renovado"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-volkswagen-mx",
+   "modelo": "virtus",
+   "url": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-anuncia-la-llegada-de-la-edicion-especial-virtus-sound",
+   "coincideConMexico": true,
+   "notas": "El Virtus de México viene de India (planta de Pune) desde 2022, no de Brasil (comunicado de VW México de marzo 2022). Fotos de la edición especial Virtus Sound (25 sep 2024): auto mexicano con calcomanías y detalles de esa edición. Comunicado de lanzamiento del Virtus indio (6 sep 2022, solo encabezado): https://volkswagen-mexico.prezly.com/nuevo-virtus-llega-a-mexico-mas-dinamico-y-eficiente",
+   "imagenes": [
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/16bb84d3-bdf4-4d65-8908-f4df57b86440/-/preview/-/format/auto/Edici%C3%B3n%20especial%20Virtus%20Sounds.jpeg",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-anuncia-la-llegada-de-la-edicion-especial-virtus-sound",
+     "titulo": "Edición especial Virtus Sound (imagen principal)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Virtus de India, edición Sound 2024-2025"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/40716d78-9305-4b3d-979e-484607fc7de2/-/inline/no/Virtus_Sound.jpg",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-anuncia-la-llegada-de-la-edicion-especial-virtus-sound",
+     "titulo": "Virtus Sound",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Virtus de India, edición Sound"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/1be73b4d-8f9d-4b00-8592-41f9f2abc44b/-/inline/no/Virtus_Sound_Vestiduras.jpg",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-anuncia-la-llegada-de-la-edicion-especial-virtus-sound",
+     "titulo": "Virtus Sound: vestiduras",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "Virtus de India, edición Sound"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/8e437548-5153-41b0-a83b-5ec49141610a/-/inline/no/Virtus_Sound_Carcasa.jpg",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-anuncia-la-llegada-de-la-edicion-especial-virtus-sound",
+     "titulo": "Virtus Sound: carcasa de espejo",
+     "ancho": null,
+     "alto": null,
+     "angulo": "detalle",
+     "anioOGeneracion": "Virtus de India, edición Sound"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-volkswagen-mx",
+   "modelo": "taigun",
+   "url": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-anuncia-la-llegada-del-nuevo-taigun-e-incorpora-por-primera-vez-la-version-gt",
+   "coincideConMexico": true,
+   "notas": "Nuevo Taigun MY26 (renovación, versión GT nueva), comunicado del 18 ago 2026. Es el sucesor en México del T-Cross. Fotos de galería sin ángulo etiquetado (exterior1, exterior2, exterior 3, exterior 7, exterior 9, taigun 7, motor, bolsas de aire GT).",
+   "imagenes": [
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/658c095f-0cff-40e1-bbec-6ebe26fca51d/-/preview/-/format/auto/VW_Nuevo%20Taigun%20(1).jpg",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-anuncia-la-llegada-del-nuevo-taigun-e-incorpora-por-primera-vez-la-version-gt",
+     "titulo": "VW Nuevo Taigun",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Taigun MY26 renovado"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/29986371-cb23-45b5-95ab-a19a981e1e88/-/preview/-/format/auto/exterior1%20(1).jpg",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-anuncia-la-llegada-del-nuevo-taigun-e-incorpora-por-primera-vez-la-version-gt",
+     "titulo": "exterior1",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Taigun MY26 renovado"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/4b38c517-e443-4c37-a7d6-26c1a9a412d6/-/preview/-/format/auto/exterior2%20(1).jpg",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-anuncia-la-llegada-del-nuevo-taigun-e-incorpora-por-primera-vez-la-version-gt",
+     "titulo": "exterior2",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Taigun MY26 renovado"
+    },
+    {
+     "archivoUrl": "https://cdn.assets.prezly.com/ae340948-b801-4fa3-8996-2487a70835b7/-/preview/-/format/auto/exterior%203%20(1).jpg",
+     "paginaUrl": "https://volkswagen-mexico.prezly.com/la-marca-volkswagen-en-mexico-anuncia-la-llegada-del-nuevo-taigun-e-incorpora-por-primera-vez-la-version-gt",
+     "titulo": "exterior 3",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Taigun MY26 renovado"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-volkswagen-br",
+   "modelo": "t-cross",
+   "url": "https://www.vwnews.com.br/news/2141",
+   "coincideConMexico": false,
+   "notas": "Comunicado «Novo T-Cross» del 16 may 2024 (renovación brasileña). En México el T-Cross se sustituyó por el Taigun indio desde 2023, así que estas fotos no son del auto que se vende en México. URLs originales tomadas del API público que alimenta la página (la página muestra versiones _low y _medium). Ángulos inferidos solo por la sección del comunicado.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://vw-digital-cdn-br.itd.vw.com.br/assets/newsroom-cdn-br-ps/83fb045f-7249-4bc5-832d-af672b775dd9.jpeg",
+     "paginaUrl": "https://www.vwnews.com.br/news/2141",
+     "titulo": "Novo T-Cross (imagen principal del comunicado)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "T-Cross Brasil renovado 2025"
+    },
+    {
+     "archivoUrl": "https://vw-digital-cdn-br.itd.vw.com.br/assets/newsroom-cdn-br-ps/b618d667-8855-449f-a96e-fe6578dc2bbe.png",
+     "paginaUrl": "https://www.vwnews.com.br/news/2141",
+     "titulo": "Novo T-Cross, foto 1 del cuerpo",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "T-Cross Brasil renovado 2025"
+    },
+    {
+     "archivoUrl": "https://vw-digital-cdn-br.itd.vw.com.br/assets/newsroom-cdn-br-ps/aa347d70-e4e3-4032-aa3e-96a5e20bbcff.png",
+     "paginaUrl": "https://www.vwnews.com.br/news/2141",
+     "titulo": "Novo T-Cross, sección «Nova iluminação e design»",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "T-Cross Brasil renovado 2025"
+    },
+    {
+     "archivoUrl": "https://vw-digital-cdn-br.itd.vw.com.br/assets/newsroom-cdn-br-ps/bae68585-3560-4908-8f44-ab6a41b05466.png",
+     "paginaUrl": "https://www.vwnews.com.br/news/2141",
+     "titulo": "Novo T-Cross, sección «Interior atualizado» (ángulo inferido)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "T-Cross Brasil renovado 2025"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-kia-us",
+   "modelo": "sportage",
+   "url": "https://www.kiamedia.com/us/en/media/pressreleases/24749/gallery",
+   "coincideConMexico": true,
+   "notas": "Galería del comunicado «2026 Kia Sportage» (16 fotos: Sportage, Sportage HEV y familia). Misma renovación y misma distancia entre ejes que el Sportage 2026 de México, pero son versiones de EUA (rines, versiones y algunos detalles cambian). Los títulos no indican el ángulo.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://www.kiamedia.com/us/en/download/22806/high/jpg/",
+     "paginaUrl": "https://www.kiamedia.com/us/en/media/pressreleases/24749/gallery",
+     "titulo": "2026 Sportage (original .jpg, 4.2 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Sportage 2026 (5.ª gen renovada)"
+    },
+    {
+     "archivoUrl": "https://www.kiamedia.com/us/en/download/22807/high/jpg/",
+     "paginaUrl": "https://www.kiamedia.com/us/en/media/pressreleases/24749/gallery",
+     "titulo": "2026 Sportage (original .jpg, 2.8 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Sportage 2026 (5.ª gen renovada)"
+    },
+    {
+     "archivoUrl": "https://www.kiamedia.com/us/en/download/22811/high/jpg/",
+     "paginaUrl": "https://www.kiamedia.com/us/en/media/pressreleases/24749/gallery",
+     "titulo": "2026 Sportage HEV (original .jpg, 3.8 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Sportage HEV 2026"
+    },
+    {
+     "archivoUrl": "https://www.kiamedia.com/us/en/download/22832/high/jpg/",
+     "paginaUrl": "https://www.kiamedia.com/us/en/media/pressreleases/24749/gallery",
+     "titulo": "2026 Sportage Family Lineup (original .jpg, 4.5 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Sportage 2026, familia"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-mazda-us",
+   "modelo": "cx-5",
+   "url": "https://news.mazdausa.com/vehicles-2026-cx-5",
+   "coincideConMexico": true,
+   "notas": "93 fotos de la nueva generación del CX-5 2026, la misma que llegó a México en abril 2026. Fotos de EUA: versiones y rines pueden cambiar. Los nombres solo dicen Exterior/Interior, sin ángulo. Exterior_03 pesa 39.4 MB (no se incluyó).",
+   "imagenes": [
+    {
+     "archivoUrl": "https://news.mazdausa.com/download/2026_CX5_Exterior_01-HR6126.png",
+     "paginaUrl": "https://news.mazdausa.com/vehicles-2026-cx-5",
+     "titulo": "2026 CX-5 Exterior 01 (Hi Res PNG, 2.6 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "CX-5 3.ª gen (2026)"
+    },
+    {
+     "archivoUrl": "https://news.mazdausa.com/download/2026_CX5_Exterior_02-HR6126.png",
+     "paginaUrl": "https://news.mazdausa.com/vehicles-2026-cx-5",
+     "titulo": "2026 CX-5 Exterior 02 (Hi Res PNG, 5.2 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "CX-5 3.ª gen (2026)"
+    },
+    {
+     "archivoUrl": "https://news.mazdausa.com/download/2026_CX5_Exterior_04-HR6126.png",
+     "paginaUrl": "https://news.mazdausa.com/vehicles-2026-cx-5",
+     "titulo": "2026 CX-5 Exterior 04 (Hi Res PNG, 8 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "CX-5 3.ª gen (2026)"
+    },
+    {
+     "archivoUrl": "https://news.mazdausa.com/download/2026_CX5_Interior_01-HR6126.png",
+     "paginaUrl": "https://news.mazdausa.com/vehicles-2026-cx-5",
+     "titulo": "2026 CX-5 Interior 01 (Hi Res PNG, 6.2 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "CX-5 3.ª gen (2026)"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-mazda-us",
+   "modelo": "mazda3",
+   "url": "https://news.mazdausa.com/2026-Mazda3",
+   "coincideConMexico": true,
+   "notas": "La galería del Mazda3 2026 reutiliza fotos de 2019-2020 de la misma generación (BP) que se vende en México en sedán y hatchback. Colores, rines y versiones son de EUA.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://news.mazdausa.com/download/Mazda3-1.jpg",
+     "paginaUrl": "https://news.mazdausa.com/2026-Mazda3",
+     "titulo": "Mazda3-1 (Hi Res, 3.6 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Mazda3 4.ª gen (BP), fotos 2019-2020"
+    },
+    {
+     "archivoUrl": "https://news.mazdausa.com/download/Mazda3-2.jpg",
+     "paginaUrl": "https://news.mazdausa.com/2026-Mazda3",
+     "titulo": "Mazda3-2 (Hi Res, 3.1 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Mazda3 4.ª gen (BP), fotos 2019-2020"
+    },
+    {
+     "archivoUrl": "https://news.mazdausa.com/download/2020_Mazda3_3.jpg",
+     "paginaUrl": "https://news.mazdausa.com/2026-Mazda3",
+     "titulo": "2020 Mazda3 3 (Hi Res, 3.8 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Mazda3 4.ª gen (BP), 2020"
+    },
+    {
+     "archivoUrl": "https://news.mazdausa.com/download/2020_Mazda3_26.jpg",
+     "paginaUrl": "https://news.mazdausa.com/2026-Mazda3",
+     "titulo": "2020 Mazda3 26 (Hi Res, 2.7 MB)",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Mazda3 4.ª gen (BP), 2020"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-renault-mx",
+   "modelo": "kwid",
+   "url": "https://drive.google.com/drive/folders/1f90J7AH8bCrIioyR3w9J9ftozbEHuTfg",
+   "coincideConMexico": true,
+   "notas": "Carpeta «Renault Kwid Intens TM 2026» enlazada desde la portada de la sala de prensa, junto al comunicado https://prensa.ren-mex.com/prensa/renault-kwid-intens-tm-2026-el-vehiculo-mas-asequible-del-mercado-mexicano/ (5 jun 2026). Contiene 8 archivos (5 PNG del exterior y 3 WEBP de detalle: pantalla de 8 pulgadas, rines, tapicería). Los PNG no tienen ángulo en el nombre (no se abrieron). Archivos no incluidos abajo: kwid itens 4.png https://drive.google.com/file/d/1bG-d6pfxZbH0C6olblS8yYAbB_7ArE1K/view, kwid itens 5.png https://drive.google.com/file/d/1By7BRnWdPjsoPrwi4jIwexaPemIlT7KO/view, Pantalla táctil https://drive.google.com/file/d/1fb3pa8K4fr9DxSvwOUVzuNj8KvsSdpN7/view, Rines https://drive.google.com/file/d/1OQMPULdekb0jyRNNHLxYNzl_0b5sEfkK/view. Imagen del comunicado: https://prensa.ren-mex.com/wp-content/uploads/2026/06/KWID-ITENS-e1780860287120.png (920x384). Kwid E-Tech: solo hay el comunicado de lanzamiento de nov 2023 (https://prensa.ren-mex.com/prensa/kwid-e-tech-100-electrico-el-auto-cero-emisiones-llega-a-mexico-directo-a-tu-hogar/), sin galería revisada.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://drive.google.com/file/d/18RR2PDmhFZRj6nJLJLw97T5htJPxdlyF/view?usp=drive_web",
+     "paginaUrl": "https://drive.google.com/drive/folders/1f90J7AH8bCrIioyR3w9J9ftozbEHuTfg",
+     "titulo": "KWID ITENS.png",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Kwid Intens TM 2026 (frente 2023+)"
+    },
+    {
+     "archivoUrl": "https://drive.google.com/file/d/1EWKhkLN3EMFOIO4SEGHHjqM6gJlzXGYO/view?usp=drive_web",
+     "paginaUrl": "https://drive.google.com/drive/folders/1f90J7AH8bCrIioyR3w9J9ftozbEHuTfg",
+     "titulo": "KWID ITENS 2.png",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Kwid Intens TM 2026 (frente 2023+)"
+    },
+    {
+     "archivoUrl": "https://drive.google.com/file/d/1U3rMVru0cJASKMkJFbGfCXTJ7181UR0a/view?usp=drive_web",
+     "paginaUrl": "https://drive.google.com/drive/folders/1f90J7AH8bCrIioyR3w9J9ftozbEHuTfg",
+     "titulo": "KWID ITENS 3.png",
+     "ancho": null,
+     "alto": null,
+     "angulo": "desconocido",
+     "anioOGeneracion": "Kwid Intens TM 2026 (frente 2023+)"
+    },
+    {
+     "archivoUrl": "https://drive.google.com/file/d/18sb6HLGaEt8qyMGcoFA94b23qASHoUd6/view?usp=drive_web",
+     "paginaUrl": "https://drive.google.com/drive/folders/1f90J7AH8bCrIioyR3w9J9ftozbEHuTfg",
+     "titulo": "Tapicería.webp",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "Kwid Intens TM 2026"
+    }
+   ]
+  },
+  {
+   "fuenteId": "prensa-mg-europa",
+   "modelo": "zs",
+   "url": "https://news.mgmotor.eu/es/press/mg-zs-hybrid-premio/",
+   "coincideConMexico": true,
+   "notas": "Comunicado del 22 abr 2026 (premio Great British Fleet Awards) con 6 imágenes del MG ZS Hybrid+ de segunda generación, la misma carrocería que se vende en México. No se verificó si las fotos son de una unidad con volante a la derecha (premio británico) ni si el equipamiento y los rines coinciden con México. Sin vista 3/4 trasera. ZIP de la galería: https://news.mgmotor.eu/es/wp-json/download/zip//?ids=3645884,3645872,3645860,3645848,3645836,3645824. Contacto: José Antonio Galve (Product Manager & PR, MG España), correo ofuscado en la página.",
+   "imagenes": [
+    {
+     "archivoUrl": "https://news.mgmotor.eu/wp-content/uploads/2026/05/Left-front-80-1.jpg",
+     "paginaUrl": "https://news.mgmotor.eu/es/press/mg-zs-hybrid-premio/",
+     "titulo": "Left front",
+     "ancho": null,
+     "alto": null,
+     "angulo": "3/4 frontal",
+     "anioOGeneracion": "MG ZS Hybrid+ 2.ª generación (2026)"
+    },
+    {
+     "archivoUrl": "https://news.mgmotor.eu/wp-content/uploads/2026/05/The-front.jpg",
+     "paginaUrl": "https://news.mgmotor.eu/es/press/mg-zs-hybrid-premio/",
+     "titulo": "The front",
+     "ancho": null,
+     "alto": null,
+     "angulo": "frontal",
+     "anioOGeneracion": "MG ZS Hybrid+ 2.ª generación (2026)"
+    },
+    {
+     "archivoUrl": "https://news.mgmotor.eu/wp-content/uploads/2026/05/Copilot-Desk.jpg",
+     "paginaUrl": "https://news.mgmotor.eu/es/press/mg-zs-hybrid-premio/",
+     "titulo": "Copilot Desk",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "MG ZS Hybrid+ 2.ª generación (2026)"
+    },
+    {
+     "archivoUrl": "https://news.mgmotor.eu/wp-content/uploads/2026/05/Side-large-Interior.jpg",
+     "paginaUrl": "https://news.mgmotor.eu/es/press/mg-zs-hybrid-premio/",
+     "titulo": "Side large Interior",
+     "ancho": null,
+     "alto": null,
+     "angulo": "interior",
+     "anioOGeneracion": "MG ZS Hybrid+ 2.ª generación (2026)"
+    }
+   ]
+  }
+ ]
+}

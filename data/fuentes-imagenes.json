@@ -1,0 +1,707 @@
+{
+  "_nota": "Fuentes de imágenes revisadas para ComparaMotor. Cada afirmación sobre términos se verificó el 2026-10-20 en la URL indicada (salas de prensa: agentes de investigación con Firecrawl, curl, WebFetch y navegador; Commons, Flickr, Unsplash, Pexels y CC: revisión directa). Veredicto: Usable / Usable con condiciones / No usable.",
+  "verificadoEl": "2026-10-20",
+  "fuentes": [
+    {
+      "id": "wikimedia-commons",
+      "nombre": "Wikimedia Commons",
+      "tipo": "wikimedia",
+      "marca": null,
+      "url": "https://commons.wikimedia.org/",
+      "terminosUrl": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia",
+      "clausulaClave": "«some licenses require that the original creator be attributed» (Commons: Reusing content outside Wikimedia, editada el 11 ago 2026)",
+      "usosPermitidos": [
+        "cualquier uso, incluso comercial, según la licencia de cada archivo",
+        "se aceptan solo CC0, dominio público, CC BY y CC BY-SA"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": true,
+      "creditoFormato": "Foto: {autor} / Wikimedia Commons, {licencia} (con liga a la página del archivo y a la licencia)",
+      "restricciones": [
+        "La licencia es por archivo: revisar la página de cada uno antes de publicar",
+        "CC BY-SA: la versión editada (recorte, color) se publica con la misma licencia y se indica el cambio",
+        "Marcas y patentes no se licencian: «Los derechos de patentes y marcas no son objeto de esta Licencia Pública» (CC BY-SA 4.0, sección 2.b.2)",
+        "Personas identificables: el uso comercial puede requerir su consentimiento (Commons)",
+        "No usar hotlinking: descargar y servir desde el CDN propio cuando JC lo autorice",
+        "Descartar NC, ND, GFDL sola y capturas de video sin revisión de licencia"
+      ],
+      "veredicto": "Usable",
+      "porQue": "Las licencias CC0, CC BY y CC BY-SA permiten uso comercial y modificación con atribución; la API devuelve autor y licencia de cada archivo. Es la fuente principal para fichas y comparativas.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Fichas, comparativas, notas y redes con el pie completo. En anuncios pagados solo con cuidado (sin sugerir respaldo de la marca) y nunca fotos con personas identificables."
+    },
+    {
+      "id": "flickr-cc",
+      "nombre": "Flickr (licencias Creative Commons comerciales)",
+      "tipo": "flickr-cc",
+      "marca": null,
+      "url": "https://www.flickr.com/creativecommons/",
+      "terminosUrl": "https://www.flickr.com/creativecommons/",
+      "clausulaClave": "Flickr ofrece CC BY, CC BY-SA, CC0 y Public Domain Mark además de variantes NC y ND (página de licencias, 20 oct 2026)",
+      "usosPermitidos": [
+        "comercial y con modificación solo en CC BY, CC BY-SA, CC0 y Public Domain Mark"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": true,
+      "creditoFormato": "Foto: {autor} / Flickr, {licencia} (con liga a la foto y a la licencia)",
+      "restricciones": [
+        "Excluir NC (no comercial) y ND (sin derivadas)",
+        "Verificar la licencia en vivo antes de descargar: el autor puede cambiarla (flickr-cc.mjs lo hace con el oEmbed de Flickr)",
+        "Mismas salvedades de marcas y personas que en Commons",
+        "CC BY-SA: compartir igual si se edita"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "Las licencias comerciales de Flickr permiten el uso con atribución, pero hay muchas fotos mal etiquetadas o subidas por terceros. Cada foto se revisa a ojo y se verifica su licencia el día que se descarga.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Complemento de Commons para fichas y notas cuando falte un ángulo."
+    },
+    {
+      "id": "unsplash",
+      "nombre": "Unsplash",
+      "tipo": "stock",
+      "marca": null,
+      "url": "https://unsplash.com/",
+      "terminosUrl": "https://unsplash.com/license",
+      "clausulaClave": "Uso «including for commercial purposes, without permission from or attributing the photographer»; los términos excluyen «Trademarks, logos, or brands that appear in Images»",
+      "usosPermitidos": [
+        "comercial y no comercial",
+        "modificar"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": true,
+      "creditoFormato": "Foto: {autor} / Unsplash (no obligatorio, recomendado)",
+      "restricciones": [
+        "No vender imágenes sin modificación significativa",
+        "No compilar imágenes para replicar un servicio similar o competidor",
+        "La licencia no cubre marcas, logotipos ni personas reconocibles: puede requerir permiso del titular (unsplash.com/terms, sección 5)"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "La licencia permite uso comercial sin crédito, pero no cubre marcas ni logotipos de los autos y casi nunca identifica la versión o generación del modelo. Sirve para fotos de ambiente (carretera, ciudad, agencia genérica), no para ilustrar un modelo concreto.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Ambientes y portadas genéricas sin un modelo protagonista; nunca como foto de ficha."
+    },
+    {
+      "id": "pexels",
+      "nombre": "Pexels",
+      "tipo": "stock",
+      "marca": null,
+      "url": "https://www.pexels.com/",
+      "terminosUrl": "https://www.pexels.com/license/",
+      "clausulaClave": "«Don't imply endorsement of your product by people or brands on the imagery.» (licencia de Pexels)",
+      "usosPermitidos": [
+        "uso libre, incluso en anuncios",
+        "modificar"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": true,
+      "creditoFormato": "Foto: {autor} / Pexels (no obligatorio, recomendado)",
+      "restricciones": [
+        "No sugerir respaldo de personas o marcas que aparecen en la imagen",
+        "No vender copias sin modificar ni redistribuir en otras plataformas de stock",
+        "No usar como parte de una marca o nombre comercial",
+        "Personas identificables: no mostrarlas de forma ofensiva"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "Permite uso comercial sin crédito, pero prohíbe sugerir respaldo de las marcas que aparecen y no identifica modelos ni generaciones con fiabilidad.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Ambientes y portadas genéricas; nunca como foto de ficha ni en anuncios con un auto de marca visible."
+    },
+    {
+      "id": "prensa-nissan-mx",
+      "nombre": "Sala de prensa oficial de Nissan México (Nissan Mexicana)",
+      "tipo": "prensa-marca",
+      "marca": "nissan",
+      "url": "https://mexico.nissannews.com/es-MX",
+      "terminosUrl": "https://mexico.nissannews.com/es-MX/pages/derechos_reservados_2024_nissan",
+      "clausulaClave": "\"Los Recursos Creativos de la sala de redacción de Nissan [...] son exclusivamente para uso editorial.\"",
+      "usosPermitidos": [
+        "solo editorial/noticias (periodistas acreditados)"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: Nissan Mexicana",
+      "restricciones": [
+        "Prohibido usar para publicidad, marketing, anuncios, promociones, publirreportajes o venta (página Derechos Reservados 2024)",
+        "El aviso legal (es-tos) dice que el uso editorial es para periodistas acreditados de medios impresos, de radiodifusión y electrónicos",
+        "El aviso legal dice que los objetos del sitio no pueden modificarse ni utilizarse en otros sitios, salvo el uso editorial de periodistas acreditados; no menciona recortes",
+        "Usos no editoriales: pedir permiso por correo (la página remite a website-support@nissan-usa.com)",
+        "No usar logotipos de Nissan como si Nissan respaldara ComparaMotor (inferencia prudente, no hay cláusula específica)"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "Las descargas en alta resolución están abiertas sin registro, pero los términos limitan el uso a fines editoriales y a periodistas acreditados, y prohíben expresamente el marketing y la venta. Sirven para artículos y notas editoriales de ComparaMotor. Las fichas del comparador con precios, cotización o enlaces a distribuidores pueden verse como uso comercial o de venta: ahí hace falta permiso por escrito de Comunicación Corporativa de Nissan Mexicana. También conviene que ComparaMotor se acredite como medio.",
+      "correoPrensa": "ComunicacionCorporativa@nissan.com.mx",
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Solo notas editoriales (noticias, lanzamientos, pruebas) con crédito, salvo que la marca autorice por escrito su uso en fichas y comparativas. Nunca en anuncios."
+    },
+    {
+      "id": "prensa-chevrolet-mx",
+      "nombre": "Sitio de Prensa de Chevrolet México (General Motors de México)",
+      "tipo": "prensa-marca",
+      "marca": "chevrolet",
+      "url": "https://pressroom.chevrolet.com.mx/gmbx/mx/es/chevrolet/pressroom.html",
+      "terminosUrl": "https://creativecommons.org/licenses/by/4.0/deed.es",
+      "clausulaClave": "El pie de página del sitio de prensa dice \"© General Motors de México\" y enlaza \"Creative Commons\" a la licencia CC BY 4.0. No hay texto que aclare qué contenido cubre.",
+      "usosPermitidos": [
+        "por confirmar: si aplica CC BY 4.0, cualquier uso con atribución, incluso comercial"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": null,
+      "creditoFormato": "Foto: General Motors de México",
+      "restricciones": [
+        "Contradicción: el sitio de prensa enlaza CC BY 4.0, pero los legales de chevrolet.com.mx dicen que no se concede licencia sobre su propiedad intelectual",
+        "No hay términos propios del sitio de prensa ni aviso de uso editorial",
+        "Las marcas y logotipos (corbatín de Chevrolet) no quedan cubiertos por CC BY; no sugerir respaldo de GM",
+        "Galería 'Imágenes' solo trae logotipos; las fotos de modelos están en cada comunicado"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "Las fotos se descargan en alta resolución sin registro (/dld/), y el pie del sitio de prensa enlaza a CC BY 4.0, lo que permitiría cualquier uso con atribución. Pero no hay un texto que diga explícitamente que las fotos están bajo esa licencia, y los legales del sitio de consumidor niegan cualquier licencia. Antes de usarlas fuera de notas editoriales, pedir a Comunicación de GM de México que confirme por correo que aplica CC BY 4.0 y la fórmula de crédito.",
+      "correoPrensa": "juanangel.martinezcruz@gm.com",
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "El pie del sitio de prensa enlaza «Creative Commons» a CC BY 4.0 (verificado en el navegador el 20 oct 2026). Si GM de México lo confirma por correo, sus fotos servirían en notas, fichas y comparativas con crédito «Foto: General Motors de México, CC BY 4.0». Mientras tanto, solo notas editoriales.",
+      "licenciaResumen": "CC BY 4.0 enlazada en el pie (por confirmar con GM de México)"
+    },
+    {
+      "id": "prensa-toyota-global",
+      "nombre": "Toyota Global Newsroom (Toyota Motor Corporation)",
+      "tipo": "prensa-marca",
+      "marca": "toyota",
+      "url": "https://global.toyota/en/newsroom/",
+      "terminosUrl": "https://global.toyota/en/downloadable-assets/",
+      "clausulaClave": "\"The Content may only be used for editorial or personal, non-commercial purposes.\" (Download Agreement)",
+      "usosPermitidos": [
+        "solo editorial",
+        "personal no comercial"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": null,
+      "creditoFormato": "Foto: Toyota Motor Corporation",
+      "restricciones": [
+        "Prohibido el uso comercial: \"advertising, marketing and merchandising\" (Download Agreement)",
+        "Antes de descargar hay que aceptar el Download Agreement: no se aceptó; lo hace JC",
+        "Los términos generales prohíben modificar el contenido salvo lo que permita el Download Agreement, que no menciona recortes",
+        "Prohibido usar logotipos de Toyota",
+        "No hay sala de prensa pública de Toyota México: toyota.mx no tiene sección de prensa, /prensa da 404 y la lista de salas regionales de Toyota no incluye México"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "Las fotos de comunicados están en URLs públicas y no piden registro, pero el Download Agreement las limita a uso editorial o personal no comercial y exige aceptarlo antes de descargar. Además, las fotos globales suelen ser versiones de Japón o Asia que pueden no coincidir con el modelo de México. Sirven solo para notas editoriales, una vez que JC acepte el acuerdo. Para fichas del comparador hace falta permiso de Toyota Motor Sales de México.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Solo notas editoriales (noticias, lanzamientos, pruebas) con crédito, salvo que la marca autorice por escrito su uso en fichas y comparativas. Nunca en anuncios."
+    },
+    {
+      "id": "prensa-toyota-na",
+      "nombre": "Toyota USA Newsroom (Toyota Motor North America)",
+      "tipo": "prensa-marca",
+      "marca": "toyota",
+      "url": "https://pressroom.toyota.com/",
+      "terminosUrl": "https://pressroom.toyota.com/terms-agreements/",
+      "clausulaClave": "\"All materials on this site are for editorial use only.\" (aviso de los álbumes; texto obtenido vía buscador)",
+      "usosPermitidos": [
+        "solo editorial"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: Toyota Motor North America",
+      "restricciones": [
+        "Prohibido usarlo en publicidad, marketing o cualquier fin comercial",
+        "Se permite recortar, pero no otra modificación: \"may be cropped but not otherwise modified\"",
+        "Para descargar hay que marcar 'I agree to the terms': no se aceptó; lo hace JC",
+        "Cualquier otro uso requiere consentimiento previo por escrito de Toyota",
+        "Términos vigentes desde el 4 may 2011, según el buscador; confirmar en la página"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "Es la sala de prensa regional que Toyota asigna a Norteamérica, y sus modelos coinciden mejor con México (Tacoma hecha en México, Corolla Cross y Corolla norteamericanos). Pero es solo para uso editorial, exige aceptar los términos antes de descargar y bloqueó el acceso automatizado con una verificación de Cloudflare, que no se intentó saltar. Por eso no se recopilaron URLs de imágenes. JC puede entrar desde su navegador, aceptar los términos y elegir las fotos de Corolla, Corolla Cross, RAV4 y Tacoma.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Solo notas editoriales (noticias, lanzamientos, pruebas) con crédito, salvo que la marca autorice por escrito su uso en fichas y comparativas. Nunca en anuncios."
+    },
+    {
+      "id": "prensa-honda-us",
+      "nombre": "Honda Newsroom (American Honda Motor Co.)",
+      "tipo": "prensa-marca",
+      "marca": "honda",
+      "url": "https://hondanews.com/en-US",
+      "terminosUrl": "https://www.honda.com/privacy/terms-and-conditions",
+      "clausulaClave": "\"Except as expressly authorized by American Honda [...] you agree not to [...] copy, reproduce, [...] publicly display, publish, adapt, edit\"",
+      "usosPermitidos": [],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: American Honda Motor Co.",
+      "restricciones": [
+        "Los términos que enlaza el pie de hondanews.com no contienen ninguna autorización para medios ni para uso editorial",
+        "Los términos prohíben usar software manual o automatizado para hacer 'crawl', 'scrape' o 'spider' del sitio",
+        "Los términos dicen que el sitio está pensado para uso dentro de Estados Unidos",
+        "Hay un enlace 'Login' en el sitio, pero las descargas en alta resolución (6788×3852) aparecen sin iniciar sesión",
+        "No se encontró sala de prensa pública de Honda de México: honda.mx/prensa da 404"
+      ],
+      "veredicto": "No usable",
+      "porQue": "Los únicos términos escritos que aplican (honda.com, enlazados desde hondanews.com) prohíben reproducir, publicar o editar el contenido salvo autorización expresa, y no hay cláusula de uso editorial para medios. Hace falta pedir permiso por escrito a Honda de México, o a American Honda vía hondanews.com/en-US/contact. Por la cláusula contra el scraping, no se recopilaron URLs de imagen en lote; solo se anotó la galería.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "No publicar hasta tener permiso escrito de la marca."
+    },
+    {
+      "id": "prensa-volkswagen-mx",
+      "nombre": "Sala de prensa de Volkswagen de México (Prezly)",
+      "tipo": "prensa-marca",
+      "marca": "volkswagen",
+      "url": "https://volkswagen-mexico.prezly.com/",
+      "terminosUrl": null,
+      "clausulaClave": null,
+      "usosPermitidos": [
+        "No declarados: la sala no publica términos de uso de imágenes (solo aviso de privacidad y de cookies)"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": null,
+      "creditoFormato": "Foto: Volkswagen de México",
+      "restricciones": [
+        "Sin licencia escrita: el uso es por costumbre de prensa, no por permiso explícito",
+        "Los comunicados en PDF llevan la etiqueta de clasificación «INTERNAL» en el encabezado (rareza del documento, no es una restricción de uso escrita)",
+        "No sugerir respaldo de la marca; usar solo en contexto editorial"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "Las fotos y los comunicados se descargan sin registro y están pensados para medios, pero no hay términos que definan usos, edición ni crédito. Conviene pedir confirmación por correo a prensa antes de usarlas en el comparador (uso comercial) y usarlas en notas editoriales con crédito a la marca.",
+      "correoPrensa": "javier.diazl@vw.com.mx",
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Notas editoriales con crédito, de forma prudente; pedir confirmación escrita antes de usarlas en fichas o comparativas. No hay términos publicados."
+    },
+    {
+      "id": "prensa-volkswagen-br",
+      "nombre": "VW News BR, sala de prensa de Volkswagen do Brasil",
+      "tipo": "prensa-marca",
+      "marca": "volkswagen",
+      "url": "https://www.vwnews.com.br/",
+      "terminosUrl": "https://www.vwnews.com.br/termos-legais/termoDownload",
+      "clausulaClave": "«podendo ser utilizados em ... editoriais jornalísticos ... não podendo ser utilizados para fins comerciais»",
+      "usosPermitidos": [
+        "editorial periodístico",
+        "editorial en redes sociales",
+        "editorial de influencers",
+        "comunicación interna de empresas"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": null,
+      "creditoFormato": "Foto: Volkswagen do Brasil",
+      "restricciones": [
+        "Prohibido el uso comercial",
+        "Prohibido usar el material de forma que contradiga la realidad para la que fue creado",
+        "Para descargar hay que aceptar en una ventana el «Termo de Uso – Download» (clic de aceptación, sin cuenta): lo hace JC",
+        "Aplican también los Termos e Condições Gerais de Uso de la VW News BR"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "Los términos permiten expresamente el uso editorial y prohíben el comercial. Sirve para notas del medio, no para el comparador ni anuncios. Además, los modelos de Brasil no coinciden con los de México: el Virtus mexicano viene de India y el T-Cross ya no se vende en México.",
+      "correoPrensa": "imprensa.volkswagen@volkswagen.com.br",
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Solo notas editoriales (noticias, lanzamientos, pruebas) con crédito, salvo que la marca autorice por escrito su uso en fichas y comparativas. Nunca en anuncios."
+    },
+    {
+      "id": "prensa-kia-us",
+      "nombre": "Kia America Media (kiamedia.com/us)",
+      "tipo": "prensa-marca",
+      "marca": "kia",
+      "url": "https://www.kiamedia.com/us/en",
+      "terminosUrl": "https://www.kiamedia.com/us/en/corporate/terms-of-use",
+      "clausulaClave": "«Images on this website are for editorial use only.» (aviso en cada galería)",
+      "usosPermitidos": [
+        "solo editorial"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": null,
+      "creditoFormato": "Foto: Kia America",
+      "restricciones": [
+        "Solo uso editorial; los distribuidores deben usar sus propios materiales de publicidad",
+        "Los términos generales del sitio dan licencia personal y no comercial",
+        "No sugerir respaldo de la marca"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "La galería dice expresamente que las imágenes son solo para uso editorial y se descargan sin cuenta. Sirve para notas del medio; para el comparador (uso comercial) hay que pedir permiso. Solo cubre el Sportage: el K3 de México (Pesquería) no se vende en EUA (allá es el K4, otro auto) y el Sonet tampoco.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Solo notas editoriales (noticias, lanzamientos, pruebas) con crédito, salvo que la marca autorice por escrito su uso en fichas y comparativas. Nunca en anuncios."
+    },
+    {
+      "id": "prensa-kia-global",
+      "nombre": "Kia Worldwide Newsroom",
+      "tipo": "prensa-marca",
+      "marca": "kia",
+      "url": "https://worldwide.kia.com/en/newsroom",
+      "terminosUrl": "https://worldwide.kia.com/en/terms-and-conditions/",
+      "clausulaClave": "Si el comunicado no fija condiciones: «such materials may not be used for commercial purposes without the Company’s prior approval»",
+      "usosPermitidos": [
+        "según las condiciones de cada comunicado",
+        "sin condiciones: nada comercial sin aprobación previa"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: Kia Corporation",
+      "restricciones": [
+        "Los términos prohíben reproducir o modificar el contenido del sitio sin permiso escrito, salvo lo que cada comunicado permita",
+        "El sitio no tiene registro ni inicio de sesión"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "Hay que revisar las condiciones de cada comunicado. No se encontró galería del K3 de México ni del Sonet: la búsqueda del sitio no devolvió comunicados de esos modelos. El sitio carga con JavaScript y no se pudo revisar a fondo.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Solo notas editoriales (noticias, lanzamientos, pruebas) con crédito, salvo que la marca autorice por escrito su uso en fichas y comparativas. Nunca en anuncios."
+    },
+    {
+      "id": "prensa-kia-mx",
+      "nombre": "Kia México (kia.com/mx), sin sala de prensa pública",
+      "tipo": "prensa-marca",
+      "marca": "kia",
+      "url": "https://www.kia.com/mx/main.html",
+      "terminosUrl": "https://www.kia.com/mx/util/legal.html",
+      "clausulaClave": "Permite copiar material «únicamente dentro de México ... solo con fines informativos y no comerciales»",
+      "usosPermitidos": [
+        "informativo y no comercial, solo dentro de México"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": null,
+      "creditoFormato": "Foto: Kia México",
+      "restricciones": [
+        "kia.com/mx no tiene sección de prensa ni galerías para medios; el newsroom global de Kia tampoco lista a México entre sus salas regionales",
+        "Uso no comercial: un comparador con anuncios o generación de prospectos es uso comercial",
+        "Prohibido modificar o usar las marcas y logotipos de Kia"
+      ],
+      "veredicto": "No usable",
+      "porQue": "No hay sala de prensa ni licencia para medios. Las fotos del sitio de producto solo se pueden usar con fines informativos y no comerciales, y ComparaMotor es un negocio. Para K3 y Sonet de México hay que pedir fotos y permiso por escrito a Kia México; no se encontró correo de prensa público.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "No publicar hasta tener permiso escrito de la marca."
+    },
+    {
+      "id": "prensa-mazda-us",
+      "nombre": "Mazda USA Newsroom (Mazda North American Operations)",
+      "tipo": "prensa-marca",
+      "marca": "mazda",
+      "url": "https://news.mazdausa.com/",
+      "terminosUrl": "https://news.mazdausa.com/vehicles-2026-cx-5",
+      "clausulaClave": "Ventana «Download Authorization – License Agreement»: «for editorial use only. Commercial use ... is strictly prohibited»",
+      "usosPermitidos": [
+        "solo editorial"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": null,
+      "creditoFormato": "Foto: Mazda North American Operations",
+      "restricciones": [
+        "Prohibido el uso comercial, incluida la publicidad, el marketing y el merchandising",
+        "Para descargar hay que marcar la casilla de aceptación de la licencia (sin cuenta): lo hace JC",
+        "Términos generales del sitio: https://www.mazdausa.com/site/terms-of-use"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "La licencia de descarga permite el uso editorial y prohíbe el comercial. Sirve para notas del medio; para el comparador hay que pedir permiso. Mazda North American Operations también supervisa la operación en México, así que es el canal lógico para pedirlo.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Solo notas editoriales (noticias, lanzamientos, pruebas) con crédito, salvo que la marca autorice por escrito su uso en fichas y comparativas. Nunca en anuncios."
+    },
+    {
+      "id": "prensa-mazda-mx",
+      "nombre": "Mazda de México, Newsroom en mazda.mx",
+      "tipo": "prensa-marca",
+      "marca": "mazda",
+      "url": "https://www.mazda.mx/comunidad-mazda/newsroom",
+      "terminosUrl": "https://www.mazda.mx/nuestras-politicas/terminos-y-condiciones",
+      "clausulaClave": "El material «no se puede copiar para el uso o distribución comercial, ni ... publicar en otros sitios»",
+      "usosPermitidos": [
+        "ver y descargar para uso personal y no comercial"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: Mazda de México",
+      "restricciones": [
+        "Prohibido publicar el material en otros sitios",
+        "Prohibido modificarlo",
+        "Los boletines no traen términos propios para prensa"
+      ],
+      "veredicto": "No usable",
+      "porQue": "El newsroom es parte del sitio comercial y sus términos prohíben publicar o modificar el material en otros sitios. Hay que pedir permiso por escrito a Mazda de México o usar el newsroom de Mazda USA para notas editoriales.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "No publicar hasta tener permiso escrito de la marca."
+    },
+    {
+      "id": "prensa-hyundai-mx",
+      "nombre": "Hyundai Motor de México, sección Noticias",
+      "tipo": "prensa-marca",
+      "marca": "hyundai",
+      "url": "https://www.hyundai.com.mx/noticias/",
+      "terminosUrl": "https://www.hyundai.com.mx/terminos",
+      "clausulaClave": "«Ningún material ... puede ser reproducido, ni alterado sin el consentimiento previo y por escrito»",
+      "usosPermitidos": [
+        "ver la información, solo con fines personales no comerciales"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: Hyundai Motor de México",
+      "restricciones": [
+        "Reproducir o alterar requiere consentimiento previo y por escrito de Hyundai Motor Company",
+        "Los derechos de imágenes y fotografías son de Hyundai Motor Company",
+        "No hay sala de prensa con licencia para medios"
+      ],
+      "veredicto": "No usable",
+      "porQue": "Los términos prohíben reproducir el material sin permiso escrito y no hay portal de medios con licencia. Hay que pedir fotos y permiso a Hyundai Motor de México; no se encontró correo de prensa público.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "No publicar hasta tener permiso escrito de la marca."
+    },
+    {
+      "id": "prensa-hyundai-global",
+      "nombre": "Hyundai Worldwide Newsroom",
+      "tipo": "prensa-marca",
+      "marca": "hyundai",
+      "url": "https://www.hyundai.com/worldwide/en/newsroom",
+      "terminosUrl": "https://www.hyundai.com/worldwide/en/footer/contact-legal/legal",
+      "clausulaClave": "«may not copy, reproduce, modify, distribute, republish ... without the written permission of HMC»",
+      "usosPermitidos": [
+        "uso personal; el sitio no es para fines comerciales"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: Hyundai Motor Company",
+      "restricciones": [
+        "Copiar, reproducir, modificar o republicar requiere permiso escrito de Hyundai Motor Company",
+        "No se encontraron términos específicos para medios en el newsroom"
+      ],
+      "veredicto": "No usable",
+      "porQue": "El aviso legal del sitio global prohíbe republicar sin permiso escrito y no se encontró una licencia de prensa aparte. hyundainews.com (EUA) y hyundai.news (Europa) no venden la Creta. Hyundai India tiene media center (https://www.hyundai.com/in/en/hyundai-story/media-center/india-news) pero no se verificaron sus términos.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "No publicar hasta tener permiso escrito de la marca."
+    },
+    {
+      "id": "prensa-renault-mx",
+      "nombre": "Sala de prensa Renault México (prensa.ren-mex.com)",
+      "tipo": "prensa-marca",
+      "marca": "renault",
+      "url": "https://prensa.ren-mex.com/",
+      "terminosUrl": "https://www.renault.com.mx/terminos-y-condiciones.html",
+      "clausulaClave": "renault.com.mx: imágenes descargadas «usado de forma personal, quedando estrictamente prohibida su reproducción para cualquier otro propósito». La sala de prensa no publica términos propios.",
+      "usosPermitidos": [
+        "sin licencia escrita para medios; material distribuido a prensa por carpeta pública de Google Drive",
+        "uso editorial solo con autorización de prensa"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: Renault México",
+      "restricciones": [
+        "La sala de prensa (WordPress operado por Renault Sofasa) no tiene aviso legal ni términos de uso de imágenes",
+        "Los términos de renault.com.mx prohíben reproducir, modificar o republicar el contenido salvo uso personal",
+        "Prohibido alterar o suprimir datos de titularidad (términos renault.com.mx)",
+        "No usar en publicidad ni sugerir respaldo de la marca"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "Renault México publica un comunicado del Kwid Intens TM 2026 (5 jun 2026) con carpeta pública de fotos para medios, pero ni la sala de prensa ni el sitio dan licencia de uso; los términos de renault.com.mx prohíben la reproducción salvo uso personal. Falta pedir por correo a prensa una autorización escrita para uso editorial en ComparaMotor (fichas y notas) con crédito. Sin esa respuesta, no publicar.",
+      "correoPrensa": "marcos.martinez@renault.com (Head de Comunicación); agencia RP México: mariceni@etcmexico.com",
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Ninguno hasta que prensa de Renault México lo autorice por escrito (no hay términos para medios)."
+    },
+    {
+      "id": "prensa-renault-global",
+      "nombre": "Renault global media website (media.renault.com)",
+      "tipo": "prensa-marca",
+      "marca": "renault",
+      "url": "https://media.renault.com/?lang=eng",
+      "terminosUrl": "https://media.renault.com/legal-information/?lang=eng",
+      "clausulaClave": "Licencia personal «to the exclusion of any commercial or for-profit use»; reproducciones solo para uso personal.",
+      "usosPermitidos": [
+        "uso personal del sitio (dirigido a periodistas)",
+        "prohibido uso comercial, publicitario o informativo sin autorización previa de Renault"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: Renault",
+      "restricciones": [
+        "Excluye uso comercial o con fines de lucro",
+        "Reproducción solo para uso personal; excluye publicidad, fines comerciales y fines informativos",
+        "Prohíbe adaptar o modificar el contenido",
+        "Cualquier otro uso requiere autorización previa de Renault"
+      ],
+      "veredicto": "No usable",
+      "porQue": "El aviso legal (actualizado 18 jun 2026) excluye el uso comercial e incluso la reproducción con fines informativos sin autorización previa de Renault. Además, la sección Kwid solo tiene el lanzamiento en Argentina de 2017 (frente anterior), que no corresponde al Kwid que se vende en México en 2026.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "No publicar hasta tener permiso escrito de la marca."
+    },
+    {
+      "id": "prensa-byd-mx",
+      "nombre": "BYD México (byd.com/mx, sin sala de prensa)",
+      "tipo": "prensa-marca",
+      "marca": "byd",
+      "url": "https://www.byd.com/mx/news-list",
+      "terminosUrl": "https://www.byd.com/mx/legal/terms-of-use",
+      "clausulaClave": "Logos, imágenes y marcas no pueden usarse, descargarse ni copiarse «sin el previo consentimiento por escrito de BYD».",
+      "usosPermitidos": [
+        "ninguno sin consentimiento previo por escrito de BYD"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: BYD México",
+      "restricciones": [
+        "Prohíbe copiar, modificar, reproducir o descargar materiales sin consentimiento previo por escrito",
+        "No hay sala de prensa, kit de prensa ni descargas para medios en byd.com/mx (la sección «Boletines» aparece vacía)"
+      ],
+      "veredicto": "No usable",
+      "porQue": "BYD México no tiene portal de medios y sus términos de uso exigen consentimiento previo por escrito para usar o descargar imágenes. Falta pedir permiso por correo a prensa de BYD Latinoamérica.",
+      "correoPrensa": "jose.miranda@byd.com (prensa BYD Latinoamérica, según comunicado global de mar 2024; verificar vigencia)",
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "No publicar hasta tener permiso escrito de la marca."
+    },
+    {
+      "id": "prensa-byd-europa",
+      "nombre": "BYD Europe media site (media.byd.com)",
+      "tipo": "prensa-marca",
+      "marca": "byd",
+      "url": "https://media.byd.com/byd-dolphin-surf/?lang=eng",
+      "terminosUrl": "https://www.byd.com/eu/terms-of-use",
+      "clausulaClave": "Fuera del uso personal, materials are prohibited to use «without obtaining BYD's prior written consent». Descargas: login obligatorio.",
+      "usosPermitidos": [
+        "descarga solo para usuarios registrados (periodistas)",
+        "términos del área registrada no visibles sin cuenta"
+      ],
+      "requiereRegistro": true,
+      "permiteEdicion": null,
+      "creditoFormato": "Foto: BYD Europe",
+      "restricciones": [
+        "Requiere registro, lo hace JC (https://media.byd.com/register?lang=eng)",
+        "Términos públicos de byd.com/eu: uso solo personal y no comercial salvo consentimiento previo por escrito",
+        "El modelo europeo (Dolphin Surf) no es idéntico al Dolphin Mini mexicano"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "La galería del Dolphin Surf (12 oct 2025, actualizada 14 oct 2026) se ve sin cuenta, pero descargar exige iniciar sesión, y los términos públicos piden consentimiento previo por escrito. Falta que JC se registre, lea las condiciones del área de medios y, si no dan licencia editorial clara, pida permiso a PressEU@byd.com. Aun con licencia, las fotos son del Dolphin Surf europeo.",
+      "correoPrensa": "PressEU@byd.com",
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Solo notas editoriales (noticias, lanzamientos, pruebas) con crédito, salvo que la marca autorice por escrito su uso en fichas y comparativas. Nunca en anuncios."
+    },
+    {
+      "id": "prensa-byd-uk",
+      "nombre": "BYD UK Media Site (bydukmedia.com)",
+      "tipo": "prensa-marca",
+      "marca": "byd",
+      "url": "https://bydukmedia.com/en/galleries/models/byd-dolphin-surf.html",
+      "terminosUrl": "https://bydukmedia.com/en/terms-and-conditions.html",
+      "clausulaClave": "Assets «copyright free for editorial and media use only», salvo crédito indicado en archivo o pie.",
+      "usosPermitidos": [
+        "solo editorial y medios"
+      ],
+      "requiereRegistro": null,
+      "permiteEdicion": null,
+      "creditoFormato": "Foto: BYD UK",
+      "restricciones": [
+        "Solo uso editorial y de medios; no publicidad",
+        "Respetar el crédito o copyright adicional indicado en el nombre de archivo o el pie",
+        "Página de términos y galerías individuales bloqueadas (HTTP 403) para lectura automática; no se pudo confirmar si la descarga pide registro (el sitio tiene login y registro)",
+        "Fotos del modelo británico con volante a la derecha"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "Es la licencia más clara del grupo BYD (uso editorial y de medios), pero las fotos son del Dolphin Surf británico con volante a la derecha y carrocería europea, que no coincide con el Dolphin Mini de México. Falta leer los términos completos (bloqueados) y confirmar si la descarga exige registro. Úsese solo como respaldo editorial, nunca en fichas del modelo mexicano.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Solo notas editoriales (noticias, lanzamientos, pruebas) con crédito, salvo que la marca autorice por escrito su uso en fichas y comparativas. Nunca en anuncios."
+    },
+    {
+      "id": "prensa-mg-mx",
+      "nombre": "MG Motor México (mgmotor.com.mx, sin sala de prensa)",
+      "tipo": "prensa-marca",
+      "marca": "mg",
+      "url": "https://www.mgmotor.com.mx/noticias/locales",
+      "terminosUrl": "https://www.mgmotor.com.mx/terminos-y-condiciones",
+      "clausulaClave": "Salvo excepción expresa por escrito, el contenido «no puede ser copiado, difundido, alterado» con fines comerciales.",
+      "usosPermitidos": [
+        "ninguno con fines comerciales sin excepción expresa por escrito"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: MG Motor México",
+      "restricciones": [
+        "Prohíbe copiar, difundir, alterar o poner a disposición del público con fines comerciales sin excepción expresa por escrito",
+        "No hay sala de prensa, kit de prensa ni descargas para medios (el Newsroom solo tiene notas Locales, Globales y Reseñas, ninguna del ZS en la primera página)"
+      ],
+      "veredicto": "No usable",
+      "porQue": "MG Motor México no ofrece material de prensa descargable y sus términos prohíben el uso comercial del contenido sin autorización escrita. Falta pedir permiso; el único correo publicado es el general.",
+      "correoPrensa": "contacto@mgmotor.com.mx (general, no de prensa)",
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "No publicar hasta tener permiso escrito de la marca."
+    },
+    {
+      "id": "prensa-mg-europa",
+      "nombre": "MG Motor Europe Newsroom, edición España (news.mgmotor.eu)",
+      "tipo": "prensa-marca",
+      "marca": "mg",
+      "url": "https://news.mgmotor.eu/es/press/",
+      "terminosUrl": "https://www.mgmotor.es/impressum",
+      "clausulaClave": "Sin cláusula de uso de imágenes en el newsroom ni en el Impressum de MG España (revisado el 20 oct 2026).",
+      "usosPermitidos": [
+        "descarga libre para prensa (sin licencia escrita)",
+        "se asume solo uso editorial"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": null,
+      "creditoFormato": "Foto: MG Motor Europe",
+      "restricciones": [
+        "No hay términos de uso publicados para el material de prensa",
+        "Usar solo en contexto editorial (notas, reseñas, comparativas); no en publicidad ni sugiriendo respaldo",
+        "No alterar el vehículo ni los logotipos"
+      ],
+      "veredicto": "Usable con condiciones",
+      "porQue": "El newsroom deja descargar fotos y ZIP sin registro, pero no publica licencia ni condiciones; el Impressum tampoco. Falta confirmar por escrito con prensa de MG (España o México) que se permite el uso editorial con crédito.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "Notas editoriales con crédito, de forma prudente; pedir confirmación escrita antes de usarlas en fichas o comparativas. No hay términos publicados."
+    },
+    {
+      "id": "prensa-chirey-mx",
+      "nombre": "Chirey Motor México (chirey.mx, sin sala de prensa)",
+      "tipo": "prensa-marca",
+      "marca": "chirey",
+      "url": "https://www.chirey.mx/blog/noticias/",
+      "terminosUrl": "https://www.chirey.mx/legales/terminos-y-condiciones/",
+      "clausulaClave": "Sin cláusula de propiedad intelectual ni de uso de imágenes; solo «© 2026 Chirey Motor México».",
+      "usosPermitidos": [
+        "sin licencia publicada"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": null,
+      "creditoFormato": "Foto: Chirey Motor México",
+      "restricciones": [
+        "No hay sala de prensa, kit de prensa ni descarga de fotos; el blog de noticias no tiene comunicado del Tiggo 7 Pro 2026 en su primera página",
+        "Términos y condiciones solo cubren promociones; no hay licencia de uso de imágenes",
+        "Todos los derechos reservados (©)"
+      ],
+      "veredicto": "No usable",
+      "porQue": "Chirey México no publica material de prensa del Tiggo 7 Pro ni una licencia; las imágenes del sitio son de producto, con todos los derechos reservados. Falta pedir permiso a su área de PR. El comunicado más reciente con fotos en PR Newswire (8 ene 2026) es del Tiggo 7 CSH, otro modelo.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "No publicar hasta tener permiso escrito de la marca."
+    },
+    {
+      "id": "prensa-chery-internacional",
+      "nombre": "Chery International (cheryinternational.com)",
+      "tipo": "prensa-marca",
+      "marca": "chirey",
+      "url": "https://www.cheryinternational.com/pc/news/news1/index.shtml",
+      "terminosUrl": "https://www.cheryinternational.com/pc/home/legal_notice/index.shtml",
+      "clausulaClave": "Textos e imágenes «may not be copied for commercial use or distribution», ni modificarse o republicarse.",
+      "usosPermitidos": [
+        "ninguno comercial; el aviso legal dice que no concede licencias"
+      ],
+      "requiereRegistro": false,
+      "permiteEdicion": false,
+      "creditoFormato": "Foto: Chery",
+      "restricciones": [
+        "Prohíbe copiar para uso comercial o distribución",
+        "Prohíbe modificar o republicar",
+        "Cláusula «No Licenses»: el sitio no concede licencia sobre su material",
+        "No hay área de medios ni descarga de fotos de prensa"
+      ],
+      "veredicto": "No usable",
+      "porQue": "El aviso legal prohíbe copiar, modificar o republicar imágenes y aclara que no concede licencias; no existe portal de medios con fotos del Tiggo 7 Pro. Falta pedir permiso a Chirey México.",
+      "correoPrensa": null,
+      "verificadoEl": "2026-10-20",
+      "usoEnComparamotor": "No publicar hasta tener permiso escrito de la marca."
+    }
+  ]
+}

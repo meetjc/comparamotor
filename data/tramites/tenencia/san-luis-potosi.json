@@ -1,0 +1,35 @@
+{
+  "estado": "San Luis Potosí",
+  "slug": "san-luis-potosi",
+  "cobraTenencia2026": false,
+  "tenencia": "La Secretaría de Finanzas del Estado informó el 3 de enero de 2026 (nota 'Reduce costo del control vehicular en 2026') que 'en el Estado no se cobra tenencia vehicular'. La Ley de Hacienda del Estado (última reforma 30 de enero de 2026) lista como impuesto vehicular solo el Impuesto sobre adquisición de vehículos automotores usados. El pago anual del propietario es el control vehicular.",
+  "refrendo": {
+    "nombreLocal": "Control Vehicular (canje anual de holograma; la tarjeta de circulación es trianual)",
+    "monto2026": 1400,
+    "unidad": "MXN",
+    "detalle": "Sefin: el costo del control vehicular pasa de $2,240 en 2025 a $1,400 en 2026; el pago de 2026 queda integrado únicamente por el canje anual y no se cobra tarjeta de circulación porque las tarjetas emitidas en 2025 conservan validez hasta 2028. Ley de Hacienda, art. 64: dotación de placas con tarjeta y calcomanía 16.70 UMA para automóviles, camiones y ómnibus; los vehículos de servicio particular de hasta $350,000 con IVA, remolques y motocicletas de hasta 350 c.c. no pagan dotación de placas (salvo vehículos de otras entidades o importados regularizados). Canje de placas cada tres años."
+  },
+  "fechaLimite": null,
+  "descuentos": [
+    "Descuento de 100% en multas y recargos de control vehicular, exclusivamente por medios electrónicos (portal de Finanzas, kioscos, WhatsApp y bancos participantes); anunciado en enero de 2026 y ampliado todo febrero de 2026 (notas de Sefin del 12-ene y 6-feb-2026). No se localizó confirmación de vigencia posterior a febrero.",
+    "Adeudos mayores a cinco años: solo se pagan los periodos a partir de 2021 más el canje anual 2026 (nota de Sefin del 6-feb-2026)."
+  ],
+  "portalPago": "https://enlacesipel.slp.gob.mx/ControlVehicular_Liquidacion",
+  "portalesComplementarios": ["https://finanzas.slp.gob.mx/"],
+  "verificacionNota": "No se escribió archivo de verificación para San Luis Potosí. La Ley de Tránsito del Estado (compilación al 30-abr-2026), art. 78, obliga a presentar los vehículos a verificación de emisiones una vez al año en centros autorizados por el Ejecutivo y en periodos preestablecidos, y exige constancia de verificación anticontaminante para obtener placas; no se localizó el programa 2026, calendario, tarifa ni centros de la autoridad ambiental. El 'holograma 2026' que entregan las recaudadoras es del control vehicular, no de emisiones.",
+  "fuentes": [
+    { "nombre": "Sefin SLP: Reduce costo del control vehicular en 2026 (3-ene-2026, actualizada 17-feb-2026)", "url": "https://finanzas.slp.gob.mx/noticias/2026/1/3/reduce-costo-del-control-vehicular-en-2026/" },
+    { "nombre": "Sefin SLP: Control vehicular con descuentos solo a través de medios digitales y bancos (12-ene-2026)", "url": "https://finanzas.slp.gob.mx/noticias/2026/1/12/control-vehicular-con-descuentos-solo-a-trav%C3%A9s-de-medios-digitales-y-bancos/" },
+    { "nombre": "Sefin SLP: Alivio al bolsillo, continúan descuentos totales en control vehicular (6-feb-2026)", "url": "https://finanzas.slp.gob.mx/noticias/2026/2/6/alivio-al-bolsillo-contin%C3%BAan-descuentos-totales-en-control-vehicular/" },
+    { "nombre": "Ley de Hacienda del Estado de San Luis Potosí (última reforma 30-ene-2026; Congreso del Estado)", "url": "http://congresosanluis.gob.mx/sites/default/files/unpload/legislacion/leyes/2026/02/Ley%20de%20Hacienda%20del%20Estado%20%28al%2030%20enero%202026%29.pdf" },
+    { "nombre": "Ley de Tránsito del Estado de San Luis Potosí (al 30-abr-2026; Congreso del Estado)", "url": "https://congresosanluis.gob.mx/sites/default/files/unpload/legislacion/leyes/2026/05/Ley%20de%20Transito%20del%20Estado%20de%20San%20Luis%20Potosi%20(al%2030%20de%20abril%20de%202026).pdf" },
+    { "nombre": "Control Vehicular, Enlace SIPEL (cotización y pago en línea)", "url": "https://enlacesipel.slp.gob.mx/ControlVehicular_Liquidacion" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se localizó fecha límite de pago del control vehicular 2026; las notas de Sefin solo hablan de descuentos mensuales.",
+    "El Decreto 0337 (Ley de Ingresos 2026, P.O. 24-dic-2025) pesa más de 10 MB y no se pudo leer; un resumen de búsqueda le atribuye 50% de subsidio a adultos de 60 años o más (art. 11) y a motocicletas de hasta $30,000 (art. 13), sin verificar.",
+    "Una publicación de redes oficiales de Sefin (no leída) menciona 'mil 25 pesos' en enero; no concilia con el costo de $1,400 y no se usa.",
+    "Verificación de emisiones: sin programa 2026 confirmado (ver verificacionNota)."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "notas": [
+    {
+      "sitio": "El Universal",
+      "url": "https://www.eluniversal.com.mx/autopistas/cuanto-cuesta-el-nissan-kicks-2026-mas-barato/",
+      "dominios_fotos": [
+        "www.eluniversal.com.mx"
+      ],
+      "texto_exacto_credito": "Foto: Nissan",
+      "ubicacion_credito": "pie de foto y alt",
+      "tipo_fotos": "prensa de la marca"
+    },
+    {
+      "sitio": "Autocosmos",
+      "url": "https://noticias.autocosmos.com.mx/2026/01/26/nissan-kicks-el-suv-subcompacto-que-lidera-su-segmento-en-mexico",
+      "dominios_fotos": [
+        "acnews.blob.core.windows.net"
+      ],
+      "texto_exacto_credito": null,
+      "ubicacion_credito": null,
+      "tipo_fotos": "prensa de la marca"
+    },
+    {
+      "sitio": "Motorpasión México",
+      "url": "https://www.motorpasion.com.mx/pruebas-de-coches/chirey-tiggo-7-pro-mexico-video-opiniones-prueba",
+      "dominios_fotos": [
+        "i.blogs.es"
+      ],
+      "texto_exacto_credito": "Agradecemos a Estacionamientos Deprisa por el espacio para la realización de la sesión fotográfica.",
+      "ubicacion_credito": "final de la nota",
+      "tipo_fotos": "prueba de manejo"
+    },
+    {
+      "sitio": "km77.com",
+      "url": "https://www.km77.com/coches/mg/zs/2025/estandar/informacion/mg-zs-hybrid-2025-cambios-en-la-informacion",
+      "dominios_fotos": null,
+      "texto_exacto_credito": null,
+      "ubicacion_credito": null,
+      "tipo_fotos": "prueba de manejo y prensa"
+    },
+    {
+      "sitio": "Autoproyecto",
+      "url": "https://autoproyecto.com",
+      "dominios_fotos": [
+        "autoproyecto.com"
+      ],
+      "texto_exacto_credito": "Foto: Toyota",
+      "ubicacion_credito": "pie de foto y alt",
+      "tipo_fotos": "prensa de la marca"
+    }
+  ],
+  "sources": [
+    "https://www.eluniversal.com.mx/autopistas/cuanto-cuesta-el-nissan-kicks-2026-mas-barato/",
+    "https://noticias.autocosmos.com.mx/2026/01/26/nissan-kicks-el-suv-subcompacto-que-lidera-su-segmento-en-mexico",
+    "https://www.motorpasion.com.mx/pruebas-de-coches/chirey-tiggo-7-pro-mexico-video-opiniones-prueba",
+    "https://www.km77.com/coches/mg/zs/2025/estandar/informacion/mg-zs-hybrid-2025-cambios-en-la-informacion",
+    "https://autoproyecto.com/2026/pruebas-de-autos/enlace-patrocinado/toyota-rav4-limited-2026.html"
+  ]
+}
