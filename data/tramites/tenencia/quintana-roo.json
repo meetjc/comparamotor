@@ -1,0 +1,37 @@
+{
+  "estado": "Quintana Roo",
+  "slug": "quintana-roo",
+  "cobraTenencia2026": true,
+  "tenencia": "Quintana Roo cobra el Impuesto Sobre Uso o Tenencia Vehicular (ISUTV; Ley de Hacienda del Estado, Título II, Capítulo II). La Ley de Ingresos 2026 (Decreto 197, Periódico Oficial del 18 de diciembre de 2025) estima $272.4 millones por este impuesto. El Acuerdo que concede diversos estímulos fiscales para el ejercicio 2026 (Periódico Oficial, 31 de diciembre de 2025), art. 27, otorga: 100% del impuesto, vigente del 1 de enero al 31 de diciembre de 2026, a vehículos nuevos no inscritos en ningún padrón que se den de alta en el Registro Estatal Vehicular dentro de 30 días naturales de la factura (o de la legal introducción al país); 100% del 1 de enero al 31 de marzo de 2026 a vehículos ya inscritos y al corriente en el impuesto, y a vehículos de otra entidad que se matriculen sin adeudos de tenencia; y 20% del 1 de enero al 31 de marzo de 2026 sobre impuesto, actualizaciones y recargos a quien no esté al corriente y regularice. No es sujeto del estímulo el concesionario de renta de vehículos sin chofer (arrendadoras: 60% y 20% con las mismas vigencias, art. 28). Desde 2026 la inscripción en el Registro Estatal de Contribuyentes es requisito previo para cualquier trámite vehicular (art. 24 del Código Fiscal, boletín SEFIPLAN 2-ene-2026). El plazo del subsidio venció el 31 de marzo de 2026 (comunicado del Gobierno de Quintana Roo, 31-mar-2026).",
+  "refrendo": {
+    "nombreLocal": "Refrendo de placas vehiculares y tarjeta de circulación (derechos por control vehicular); cada tres años, canje de placas",
+    "monto2026": 785.98,
+    "unidad": "MXN (cálculo propio: 5.45 UMA + 1.25 UMA con UMA 2026 = $117.31)",
+    "detalle": "Ley de Derechos del Estado de Quintana Roo (texto con reforma POE 10-ene-2025): refrendo de placas para automóviles, camionetas, camiones, autobuses y remolques 5.45 UMA ($639.34); motocicletas servicio particular 3.15 UMA ($369.53) y público 2.50 UMA; tarjeta de circulación por un año 1.25 UMA ($146.64; el SATQ publica $147). Pago en los primeros tres meses de cada año. Canje de placas cada tres años (2026 es año de canje para el ciclo 2023): automóviles, camionetas, camiones y autobuses 13.50 UMA ($1,583.69; SATQ publica $1,584 más $147 de tarjeta), remolques 6.25 UMA, motocicletas 4.50 UMA; el boletín de SEFIPLAN de enero de 2026 anunció $1,527 más $141 con el valor anterior de la UMA. Las personas afiliadas al INAPAM tienen 50% de descuento en el derecho por control vehicular de embarcaciones; no se confirmó un descuento equivalente para autos en el texto leído. El monto de $785.98 (refrendo más tarjeta) aplica a un año sin canje y no a vehículos que canjean placas en 2026."
+  },
+  "fechaLimite": "31 de marzo de 2026 (refrendo, canje de placas y subsidio de tenencia 100% a vehículos al corriente). Después del 31 de marzo se paga el impuesto de tenencia con los estímulos restantes del acuerdo.",
+  "descuentos": [
+    "Tenencia: 100% para vehículos inscritos y al corriente (1-ene al 31-mar-2026) y para vehículos nuevos dados de alta en 30 días (todo 2026); 20% para quien regulariza adeudos (1-ene al 31-mar-2026).",
+    "Seguro de responsabilidad civil gratuito para quien hizo el canje de placas 2026 entre enero y marzo y estaba al corriente en tenencia (folleto SATQ; excluye taxis y vehículos de plataformas).",
+    "Diciembre de 2025: descuento de 50% en adeudos vehiculares pendientes hasta el 22 de diciembre (vencido y de 2025)."
+  ],
+  "portalPago": "https://satq.qroo.gob.mx/controlvehicular/",
+  "portalesComplementarios": ["https://shacienda.qroo.gob.mx/tributanet/", "https://tenencias.gob.mx/"],
+  "fuentes": [
+    { "nombre": "Acuerdo que concede diversos estímulos fiscales para el ejercicio 2026 (Periódico Oficial de Quintana Roo, 31-dic-2025; SATQ)", "url": "https://satq.qroo.gob.mx/contenidos/dmarcolegal/4d90fe02-0e93-11f1-b1f4-005056a29996" },
+    { "nombre": "Ley de Ingresos del Estado de Quintana Roo para el ejercicio fiscal 2026 (Decreto 197, Congreso del Estado)", "url": "https://documentos.congresoqroo.gob.mx/leyes/L355-XVIII-20251216-L1820251218197-Ley-de-Ingresos-del-Estado.pdf" },
+    { "nombre": "Ley de Derechos del Estado de Quintana Roo (Congreso del Estado; texto con reforma POE 10-ene-2025)", "url": "https://documentos.congresoqroo.gob.mx/leyes/L195-XVIII-20250110-L1820250110089.pdf" },
+    { "nombre": "Boletín SEFIPLAN: Quintana Roo inicia Canje de Placas 2026 (2-ene-2026)", "url": "https://sefiplan.qroo.gob.mx/site/contenido/211" },
+    { "nombre": "Comunicado del Gobierno de Quintana Roo: último día para subsidio de tenencia (31-mar-2026)", "url": "https://qroo.gob.mx/invita-mara-lezama-aprovechar-ultimo-dia-para-subsidio-y-evitar-pago-de-tenencia-en-quintana-roo/" },
+    { "nombre": "Preguntas frecuentes SATQ (tenencia: 100% si estás al corriente, 20% si no)", "url": "https://satq.qroo.gob.mx/sitio/preguntas" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "La Ley de Derechos leída es la versión con reforma POE 10-ene-2025; la de 2026 podría haber cambiado cuotas (las cifras de canje y tarjeta de 2026 publicadas por el SATQ coinciden con 13.50 y 1.25 UMA).",
+    "El refrendo de $785.98 es cálculo propio y aplica a años sin canje; no se confirmó con una ficha oficial del SATQ.",
+    "No se leyó el art. 27 completo con la tabla íntegra de motocicletas, ni la modificación del 24-feb-2026 (Acuerdo que deroga y adiciona).",
+    "No se obtuvo la tarifa del ISUTV de la Ley de Hacienda para quien no califica al subsidio.",
+    "Verificación vehicular: no se encontró programa estatal de verificación de emisiones en Quintana Roo (sin archivo en verificacion/)."
+  ]
+}

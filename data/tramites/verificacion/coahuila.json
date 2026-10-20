@@ -1,0 +1,26 @@
+{
+  "estado": "Coahuila",
+  "slug": "coahuila",
+  "alcance": "Municipal: no hay programa estatal. Según SEMARNAT operan programas en Piedras Negras (voluntario), Monclova (obligatorio), Ramos Arizpe (obligatorio), Saltillo (voluntario) y Torreón (obligatorio).",
+  "programa": "Programas municipales de verificación vehicular (por ejemplo, Reglamento de Desarrollo Sustentable y Protección al Ambiente del Municipio de Torreón)",
+  "obligatoria": true,
+  "calendario": {
+    "torreon": "Vigencia de 1 año para vehículos particulares y de 6 meses para servicio público y uso intensivo; no se localizó calendario por terminación de placa."
+  },
+  "costo2026": {
+    "torreon": {"monto": 285, "moneda": "MXN", "nota": "Ficha de trámite MA-010 del Ayuntamiento de Torreón: $285 por vehículo más 1% de bomberos e impresión del recibo; el aviso de derechos de la página dice 2025, no confirma si es la tarifa 2026."}
+  },
+  "portalCita": null,
+  "estatus": "Obligatoria solo en los municipios de Monclova, Ramos Arizpe y Torreón; voluntaria en Piedras Negras y Saltillo; sin programa en el resto del estado (tabla oficial de SEMARNAT, 21-ago-2026, con datos de los gobiernos locales entre mayo y agosto de 2026). Torreón: la ficha oficial dice que es obligatorio que todo vehículo motorizado que circule en el municipio realice la verificación de emisiones.",
+  "fuentes": [
+    {"nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026 (Coahuila: municipal)", "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv", "tipo": "oficial"},
+    {"nombre": "SEMARNAT: Tabla_PVV_2026.png", "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png", "tipo": "oficial"},
+    {"nombre": "Ayuntamiento de Torreón: trámite Verificación Vehicular (MA-010)", "url": "https://www.torreon.gob.mx/InfoTramite.php?tramite=d352c3fc-eda1-11ea-b289-0050569888fd&dependencia=03252609-e31e-11ea-bebf-0050569888fd", "tipo": "oficial (municipal)"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "Faltan tarifas y calendarios 2026 de Monclova, Ramos Arizpe, Saltillo y Piedras Negras, y el calendario por terminación de placa de Torreón.",
+    "Confirmar vigencia 2026 de la tarifa de $285 de Torreón.",
+    "SEMARNAT reporta porcentajes de verificados de 2025: Piedras Negras 7.15%, Ramos Arizpe 5%, Torreón 2.8% (indica bajo cumplimiento)."
+  ]
+}

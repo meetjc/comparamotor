@@ -1,0 +1,33 @@
+{
+  "estado": "Oaxaca",
+  "slug": "oaxaca",
+  "cobraTenencia2026": true,
+  "tenencia": "Oaxaca mantiene el Impuesto sobre Tenencia o Uso de Vehículos (la Ley de Ingresos 2026 estima $8.5 millones por este concepto), pero el art. 10 de la Ley de Ingresos 2026 (PPOE extraordinario del 10 de diciembre de 2025) otorga a propietarios y tenedores de vehículos un estímulo fiscal del 100% del impuesto 2026 y de actualizaciones y recargos de derechos vehiculares relacionados, excepto aeronaves, embarcaciones, vehículos nuevos, servicio público estatal y servicio público federal. Para obtenerlo hay que: (I) estar al corriente en tenencia y derechos vehiculares de ejercicios anteriores y (II) pagar los derechos de control vehicular y de verificación de emisiones a la atmósfera de la Ley Estatal de Derechos a más tardar el 18 de diciembre de 2026. Vehículos nuevos de servicio privado (art. 11): 100% del impuesto 2026 si se dan de alta dentro de 90 días naturales de la adquisición y se paga junto con el control vehicular y el semestre de verificación. Servicio público (art. 14): 100% con las mismas condiciones del art. 10. Art. 12: exención de tenencia y derechos desde el ejercicio siguiente para vehículos con pérdida total, robo o siniestro sin baja (ejercicios 2022 a 2026), con carpeta de investigación o dictamen.",
+  "refrendo": {
+    "nombreLocal": "Derechos de control vehicular (uso, goce o aprovechamiento de placas y calcomanía; tarjeta de circulación), art. 29 de la Ley Estatal de Derechos de Oaxaca",
+    "monto2026": null,
+    "unidad": "UMA; pesos calculados con UMA 2026 = $117.31",
+    "detalle": "Servicio privado: uso, goce o aprovechamiento de placas y calcomanía, automóviles 8.80 UMA ($1,032.33) y motocicletas 0.90 UMA ($105.58); tarjeta de circulación por 1 año 4.60 UMA ($539.63); reposición de tarjeta 4.60 UMA; baja de placas 1.80 UMA; placas y calcomanía por alta o canje total, automóviles 9.70 UMA y motocicletas 4.20 UMA. Servicio público: automóviles 11.00 UMA y motocicletas 3.80 UMA. Los pagos se vinculan además al Impuesto para el Desarrollo Social sobre los derechos (tasa no extraída). No se fija un monto total en pesos porque la combinación exacta que cobra el portal SIOX no se confirmó. Para regularizar adeudos 2022 a 2025 el art. 13 de la Ley de Ingresos fija cuotas por ejercicio, por ejemplo servicio particular automóvil: 2022 $949; 2023 $1,023; 2024 $1,629; 2025 $2,299 (motocicleta: $97; $104; $669; $696)."
+  },
+  "fechaLimite": "Derechos de control vehicular: los tres primeros meses del año (art. 29, Ley Estatal de Derechos). Para el estímulo de 100% en tenencia 2026: pagar control vehicular y verificación a más tardar el 18 de diciembre de 2026 (art. 10 de la Ley de Ingresos); regularización de adeudos 2022-2025 al 100% también hasta el 18 de diciembre de 2026 (art. 13).",
+  "descuentos": [
+    "Tenencia 2026: 100% de estímulo, con las condiciones del art. 10 de la Ley de Ingresos 2026 (ver campo tenencia).",
+    "Adeudos de tenencia, control vehicular e Impuesto para el Desarrollo Social de 2022 a 2025: 100% de estímulo en adeudos y accesorios si se regulariza a más tardar el 18 de diciembre de 2026 pagando las cuotas por ejercicio del art. 13.",
+    "Verificación de emisiones: en 2025 la Secretaría de Medio Ambiente dio 30% de incentivo a quien verificó en el primer semestre y 10% a quien pagó y no verificó; no se localizó el comunicado equivalente de 2026."
+  ],
+  "portalPago": "https://siox.finanzasoaxaca.gob.mx/pagoTenencia",
+  "portalesComplementarios": ["https://siox.finanzasoaxaca.gob.mx/pagos/pago-en-linea#!/vehicular", "https://www.finanzasoaxaca.gob.mx/"],
+  "fuentes": [
+    { "nombre": "Ley de Ingresos del Estado de Oaxaca para el ejercicio fiscal 2026 (PPOE 10-dic-2025; Secretaría de Finanzas)", "url": "https://www.finanzasoaxaca.gob.mx/pdf/asistencia/leyes_fiscales/VIGENTES/pdf/LEY_DE_INGRESOS_DEL_ESTADO_DE_OAXACA_2026.pdf" },
+    { "nombre": "Ley Estatal de Derechos de Oaxaca (última reforma 31-ene-2026; Secretaría de Finanzas)", "url": "https://www.finanzasoaxaca.gob.mx/pdf/asistencia/leyes_fiscales/VIGENTES/pdf/LEY_ESTATAL_DERECHOS_OAXACA_2026.pdf" },
+    { "nombre": "Portal de pagos vehicular, Secretaría de Finanzas - SIOX", "url": "https://siox.finanzasoaxaca.gob.mx/pagoTenencia" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se localizó un comunicado de Sefin Oaxaca de 2026 sobre el estímulo de tenencia; los datos salen de la Ley de Ingresos 2026 y de la Ley Estatal de Derechos.",
+    "El monto total del refrendo en pesos no se confirmó (la ley lo da en UMA y existe además el Impuesto para el Desarrollo Social); consultar con placa en SIOX.",
+    "Una cifra de 'refrendo 2026 de $990 automóviles y $731 motocicletas' aparece en resultados de búsqueda asociados a publicaciones de redes oficiales de varios estados (Sinaloa, Oaxaca, Nayarit, Querétaro, Tlaxcala); se descartó por inconsistente y no coincide con la ley oaxaqueña.",
+    "El sitio oaxaca.gob.mx bloquea el rastreo del comunicado 'Se amplía el plazo para el pago de tenencia hasta el 31 de mayo' (no se leyó su año)."
+  ]
+}

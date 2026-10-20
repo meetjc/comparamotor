@@ -106,7 +106,7 @@ ${heroDark ? '' : `<div class="page-top">${crumbs(ctx, crumbsItems)}</div>`}
 ${body}
 </main>
 ${footer(ctx, updated)}
-<div class="consent" id="consent-bar" hidden><p>Usamos cookies de medición (Google Analytics) para saber qué páginas sirven. Puedes aceptarlas o seguir sin ellas. <a href="${ctx.u('/aviso-de-privacidad/')}">Aviso de privacidad</a>.</p><div><button class="pill p-subtle" type="button" data-consent="no">Solo necesarias</button><button class="pill p-primary" type="button" data-consent="si">Aceptar medición</button></div></div>
+${gtm ? `<div class="consent" id="consent-bar" hidden><p>Usamos cookies de medición (Google Analytics) para saber qué páginas sirven. Puedes aceptarlas o seguir sin ellas. <a href="${ctx.u('/aviso-de-privacidad/')}">Aviso de privacidad</a>.</p><div><button class="pill p-subtle" type="button" data-consent="no">Solo necesarias</button><button class="pill p-primary" type="button" data-consent="si">Aceptar medición</button></div></div>` : ''}
 ${dataJSON ? `<script type="application/json" id="cm-data">${JSON.stringify(dataJSON).replace(/</g, '\\u003c')}</script>` : ''}
 <script src="${ctx.asset('js/site.js')}" defer></script>
 </body>

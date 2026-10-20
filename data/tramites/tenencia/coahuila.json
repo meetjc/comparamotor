@@ -1,0 +1,43 @@
+{
+  "estado": "Coahuila",
+  "slug": "coahuila",
+  "cobraTenencia2026": false,
+  "tenencia": "No se cobra. El Decreto 715 (Periódico Oficial No. 103, 23-dic-2016), en vigor desde el 1 de enero de 2017, suprimió el Impuesto sobre Tenencia o Uso de Vehículos; en la Ley de Hacienda para el Estado de Coahuila de Zaragoza solo quedan transitorios que obligan a pagar con las reglas anteriores las obligaciones pendientes del ejercicio 2016 y anteriores. Lo que se paga cada año es el refrendo (control vehicular). Existe también el Impuesto sobre Enajenación de Vehículos de Motor, que no es tenencia.",
+  "refrendo": {
+    "nombreLocal": "Derechos de Control Vehicular (refrendo anual de placas, tarjeta de circulación y calcomanía)",
+    "monto2026": 2441,
+    "moneda": "MXN",
+    "detalle": "Ley de Hacienda para el Estado de Coahuila de Zaragoza, art. 96 fracc. I num. 1 (reforma P.O. 30-dic-2025): $2,441.00 de refrendo para automóviles, camiones, camionetas, remolques, motocicletas, motocicletas todo terreno de cuatro llantas, vehículos utilitarios recreacionales y vehículos de servicio público en todas sus modalidades. Prensa (Vanguardia, Posta) informa que el estado de cuenta en PagaFácil suma conceptos obligatorios (Cruz Roja $75, fomento a la educación y seguridad pública $549, fomento al deporte $10) y llega a $3,075, y que el incremento fue de 4% frente a 2025. Dotación de placas metálicas (vigencia de tres años): $1,171.00. Reposición de tarjeta de circulación: $153.00."
+  },
+  "fechaLimite": "Primeros tres meses de cada año: el refrendo anual de placas metálicas debe pagarse dentro de los primeros tres meses (31 de marzo), según la Ley de Hacienda. La adquisición de placas, tarjeta y engomado cuando vence su vigencia también se hace dentro de los tres primeros meses del año siguiente. Prensa indica que desde el 1 de abril se pueden cobrar recargos.",
+  "descuentos": null,
+  "portalPago": "https://www.pagafacil.gob.mx/",
+  "fuentes": [
+    {
+      "nombre": "Ley de Hacienda para el Estado de Coahuila de Zaragoza, última reforma P.O. 30-dic-2025 (Congreso del Estado)",
+      "url": "https://www.congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa25.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Administración Fiscal General de Coahuila: decretos de estímulos fiscales P.O. 27-dic-2024 (ejercicio 2025, referencia)",
+      "url": "http://www.afgcoahuila.gob.mx/fiscalizacion/104-ORD-27-DIC-2024_Decretos%20Estimulos.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Vanguardia: habilitan portal PagaFácil para el pago del control vehicular 2026",
+      "url": "https://vanguardia.com.mx/coahuila/coahuila-habilitan-portal-pagafacil-para-el-pago-del-control-vehicular-2026-PH18796845",
+      "tipo": "prensa (apoyo)"
+    },
+    {
+      "nombre": "Posta Coahuila: ¿se paga tenencia en Coahuila 2026?",
+      "url": "https://www.posta.com.mx/coahuila/se-paga-tenencia-en-coahuila-2026-lo-que-todo-dueno-de-auto-debe-saber-/vl2194744",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se localizó el decreto de estímulos fiscales 2026 (Periódico Oficial de fines de 2025): descuentos por mes y por tipo de contribuyente sin confirmar en fuente oficial. Vanguardia reporta descuentos de alrededor de 44% al inicio de 2026 (pago aproximado de $1,702, no acumulables, se aplica el más favorable) y UnoTV una venta nocturna de septiembre de 2026 con 50% de descuento en adeudos de control vehicular; ninguno está respaldado por documento oficial hallado. El decreto 2025 daba estímulos a adultos mayores, pensionados y vehículos con más de 10 y hasta 20 años.",
+    "Fecha límite 2026: la ley fija tres primeros meses; no se confirmó si el decreto 2026 amplió el plazo.",
+    "El portal de pago www.pagafacil.gob.mx se tomó de notas de prensa (Posta y Vanguardia) que lo identifican como el portal oficial; no se pudo abrir el sitio para verificarlo."
+  ]
+}

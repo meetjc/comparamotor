@@ -20,6 +20,30 @@ function tablaOtorgantes(list) {
   });
 }
 
+
+const pct = (x) => (x == null ? '—' : `${String(x).replace('.', '.')}%`);
+function credTablas(c) {
+  if (!c) return '<p>Estamos verificando tasas y CAT. Usa la calculadora con la tasa que te ofrezcan.</p>';
+  const fm = (c.financieras_de_marca || []).filter((f) => (f.cat_promedio || []).length);
+  const rowsF = fm.flatMap((f) => f.cat_promedio.map((p, i) => [i ? '' : `<b>${esc(f.institucion.split(',')[0])}</b><br><span class="fine">${esc((f.marcas || []).join(', '))}</span>`, esc(p.producto || ''), `<b>${pct(p.cat_pct_sin_iva)}</b>`, esc(fechaCorta(p.fecha_calculo)), p.url || f.url ? `<a class="src" href="${esc(p.url || f.url)}" target="_blank" rel="noopener">Ver fuente</a>` : '']));
+  const bancos = (c.bancos || []);
+  const tasaDe = (b) => { if (b.tasa_fija_anual_desde_pct != null) return b.tasa_fija_anual_desde_pct; const t = b.tasa_fija_anual_sin_iva_pct; if (t && typeof t === 'object') return Object.values(t)[0]; return t ?? null; };
+  const catDe = (b) => b.cat_promedio_pct_sin_iva ?? b.cat_pct_sin_iva ?? null;
+  const rowsB = bancos.map((b) => [`<b>${esc(b.institucion)}</b><br><span class="fine">${esc(b.producto || '')}</span>`, tasaDe(b) != null ? 'desde ' + pct(tasaDe(b)) : '<span class="fine">No publica</span>', catDe(b) != null ? `<b>${pct(catDe(b))}</b>` : '<span class="fine">No publica</span>', esc(fechaCorta(b.fecha_calculo) || '—'), b.url ? `<a class="src" href="${esc(b.url)}" target="_blank" rel="noopener">Ver fuente</a>` : '']);
+  const m = c.mercado && c.mercado.banxico_tasa_promedio_ponderada;
+  return `${rowsF.length ? `<h3>Financieras de marca</h3>${table({ head: ['Financiera', 'Producto', 'CAT promedio sin IVA', 'Calculado al', 'Fuente'], rows: rowsF, caption: 'CAT promedio publicado por cada financiera, sin IVA, para fines informativos y de comparación. Revisa la vigencia en su fuente.' })}` : ''}
+  ${rowsB.length ? `<h3>Bancos</h3>${table({ head: ['Banco', 'Tasa anual', 'CAT promedio sin IVA', 'Calculado al', 'Fuente'], rows: rowsB, caption: 'Tasas y CAT publicados por cada banco en su sitio. «No publica»: el banco no muestra el dato en su página.' })}` : ''}
+  ${m ? `<p class="fine">Para comparar: el Banco de México reporta una tasa promedio ponderada de ${esc(String(m.cartera_total_pct || m.valor || m.tasa || '14.3'))}% en crédito automotriz (último reporte disponible).</p>` : ''}`;
+}
+function segTabla(sg) {
+  const e = sg && sg.costo_referencia_condusef && sg.costo_referencia_condusef.ejercicio_mas_reciente;
+  if (!e) return '<p>Estamos reuniendo cotizaciones con fuente.</p>';
+  const c = e.costo_anual_total_mxn_incluye_derechos_de_poliza_e_iva;
+  const fila = (n, k) => [n, mxn(c[k].minimo), mxn(c[k].maximo), `<b>${mxn(c[k].promedio_simple)}</b>`];
+  return `${answer(`En el ejercicio más reciente de la CONDUSEF (${esc(fechaLarga(e.fecha_simulacion))}), una cobertura amplia costó entre <b>${mxn(c.amplia.minimo)}</b> y <b>${mxn(c.amplia.maximo)}</b> al año. Es un perfil concreto: ${esc(e.perfil)}. Tu precio cambia con tu auto, tu edad y tu código postal.`)}
+  ${table({ head: ['Cobertura', { t: 'Mínimo', n: true }, { t: 'Máximo', n: true }, { t: 'Promedio de 4 cotizaciones', n: true }], rows: [fila('Responsabilidad civil', 'responsabilidad_civil'), fila('Limitada', 'limitada'), fila('Amplia', 'amplia')], caption: `Costo anual con derechos de póliza e IVA. Fuente: <a href="${esc(e.fuente)}" target="_blank" rel="noopener">CONDUSEF, Quién es Quién en seguros de auto</a>. El promedio lo calculamos nosotros.` })}`;
+}
+
 export function paginas(C, D) {
   const out = [], s = SITE.supuestos;
   const cred = readJSON(path.join(ROOT, 'data/finanzas/credito.json'));
@@ -36,16 +60,16 @@ export function paginas(C, D) {
       { q: '¿Me conviene el crédito de la marca o el del banco?', a: 'Compara el CAT y el total a pagar, no solo la mensualidad. Las financieras de marca suelen ligar el bono o el precio especial a su crédito; el banco puede tener mejor tasa sin ese bono.' },
       { q: '¿Cuánto pago al mes por un auto de $300,000?', a: `Con ${s.eng}% de enganche a ${s.plazo} meses y una tasa de ejemplo de ${s.tasa}%, unos ${mxn(300000 * (1 - s.eng / 100) * (s.tasa / 1200) / (1 - Math.pow(1 + s.tasa / 1200, -s.plazo)))} al mes.` },
     ]);
-    const body = `${ph({ h1: 'Crédito automotriz: <em>calcula tu mensualidad</em>', lede: 'Escribe el precio, el enganche, el plazo y la tasa. Ves la mensualidad, el total a crédito y los intereses al instante.', meta: actualizado(cred && cred.fechaVerificacion || D.hoy, 'Redacción ComparaMotor', ctx) })}
+    const body = `${ph({ h1: 'Crédito automotriz: <em>calcula tu mensualidad</em>', lede: 'Escribe el precio, el enganche, el plazo y la tasa. Ves la mensualidad, el total a crédito y los intereses al instante.', meta: actualizado(cred && cred.meta && cred.meta.fecha_verificacion || D.hoy, 'Redacción ComparaMotor', ctx) })}
     <div class="wrap"><div class="article"><div class="prose">
       ${answer(`Para un auto de <b>${mxn(350000)}</b> con ${s.eng}% de enganche a ${s.plazo} meses y una tasa anual de ejemplo de ${s.tasa}%, la mensualidad queda en unos <b>${mxn(350000 * (1 - s.eng / 100) * (s.tasa / 1200) / (1 - Math.pow(1 + s.tasa / 1200, -s.plazo)))}</b>. Antes de firmar compara el CAT de cada otorgante y el total a pagar.`)}
       ${calcCredito(350000)}
       <h2>¿Qué tasas y CAT dan los bancos y las financieras?</h2>
-      ${tablaOtorgantes(listaCred) || '<p>Estamos verificando las tasas y el CAT publicados por bancos y financieras de marca. Mientras, usa la calculadora con la tasa que te ofrezcan.</p>'}
+      ${credTablas(cred)}
       <h2>¿Qué revisar antes de firmar un crédito de auto?</h2>
       <ul><li><b>El CAT y el total a pagar</b>, no solo la mensualidad.</li><li><b>Comisión por apertura</b> y si se financia.</li><li><b>Seguro financiado</b>: súmalo al total y cotiza por fuera.</li><li><b>Condiciones del bono</b>: muchos solo aplican con la financiera de la marca.</li><li><b>Pagos anticipados</b>: pregunta si hay penalización.</li></ul>
       <h2>Preguntas frecuentes</h2>${f.html}
-      ${cred ? fuentes(cred.fuentes, cred.fechaVerificacion) : ''}
+      ${cred && cred.simulador_condusef ? `<p>También puedes comparar créditos en el <a href="${esc(cred.simulador_condusef.url)}" target="_blank" rel="noopener">simulador de crédito automotriz de la CONDUSEF</a>.</p>` : ''}
     </div><aside class="aside"><div class="tile"><span class="k">Siguiente paso</span><h3>Suma seguro, gasolina y servicios</h3><a class="pill p-black" href="${ctx.u('/costo-total/')}">Costo total a 5 años</a></div></aside></div></div>`;
     out.push({ route: '/credito-automotriz/', grupo: 'guias', html: page(ctx, { title: 'Calculadora de crédito automotriz: mensualidad, CAT e intereses', description: 'Calcula la mensualidad de tu crédito de auto con enganche, plazo y tasa. Total a pagar, intereses y qué revisar del CAT antes de firmar.', body, crumbsItems: CR([{ name: 'Crédito automotriz', url: '/credito-automotriz/' }]), schema: [f.schema] }) });
   }
@@ -91,25 +115,30 @@ export function paginas(C, D) {
       <h2>¿Qué cubre una póliza amplia, limitada y de responsabilidad civil?</h2>
       ${table({ head: ['Cobertura', 'Amplia', 'Limitada', 'Responsabilidad civil'], rows: [['Daños a terceros', 'Sí', 'Sí', 'Sí'], ['Robo total', 'Sí', 'Sí', 'No'], ['Daños materiales a tu auto', 'Sí', 'No', 'No'], ['Gastos médicos de ocupantes', 'Sí', 'Sí', 'Según póliza'], ['Asistencia vial y legal', 'Según póliza', 'Según póliza', 'Según póliza']], caption: 'Estructura típica de coberturas en México. Revisa siempre las condiciones generales de tu póliza.' })}
       <h2>¿Qué precios encontramos?</h2>
-      ${tablaOtorgantes(listaSeg) || '<p>Estamos reuniendo ejemplos de cotización con fuente. Mientras, usa la calculadora de costo total con tu cotización.</p>'}
+      ${segTabla(seg)}
       <h2>Preguntas frecuentes</h2>${f.html}
-      ${seg ? fuentes(seg.fuentes, seg.fechaVerificacion) : ''}
+      ${seg && seg.comparador_oficial ? `<p>Compara cotizaciones en el <a href="${esc(seg.comparador_oficial.url)}" target="_blank" rel="noopener">simulador de seguro de auto de la CONDUSEF</a>.</p>` : ''}
     </div><aside class="aside"><div class="tile"><span class="k">Calcula</span><a class="pill p-black" href="${ctx.u('/costo-total/')}">Costo total a 5 años</a></div></aside></div></div>`;
     out.push({ route: '/seguro-de-auto/', grupo: 'guias', html: page(ctx, { title: 'Seguro de auto en México: coberturas, costo y qué revisar', description: 'Qué cubre un seguro de auto amplio, limitado y de responsabilidad civil, cuánto suma en cinco años y qué revisar del seguro de la agencia.', body, crumbsItems: CR([{ name: 'Seguro de auto', url: '/seguro-de-auto/' }]), schema: [f.schema] }) });
   }
 
-  // Promociones
+  // Promociones (data/finanzas/promociones.json, solo vigentes hoy)
   {
     const ctx = C('/promociones/');
-    const ps = D.promos;
-    const fecha = ps.map((p) => p.fechaVerificacion).filter(Boolean).sort().pop() || D.hoy;
-    const body = `${ph({ h1: 'Promociones de autos nuevos <em>con su letra chiquita</em>', lede: `${ps.length} promociones vigentes publicadas por las marcas, con la condición al mismo tamaño que el precio.`, meta: actualizado(fecha, 'Redacción ComparaMotor', ctx) })}
+    const PJ = readJSON(path.join(ROOT, 'data/finanzas/promociones.json'), { promociones: [] });
+    const ps = (PJ.promociones || []).filter((p) => !p.vigencia_fin || p.vigencia_fin >= D.hoy).sort((x, y) => x.marca.localeCompare(y.marca, 'es') || (x.vigencia_fin || '9').localeCompare(y.vigencia_fin || '9'));
+    const fecha = (PJ.meta && PJ.meta.fecha_verificacion) || D.hoy;
+    const marcas = [...new Set(ps.map((p) => p.marca))];
+    const exigen = ps.filter((p) => p.exige_financiar_con_marca === true).length;
+    const slug = (m) => m.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-');
+    const body = `${ph({ h1: 'Promociones de autos nuevos <em>con su letra chiquita</em>', lede: `${ps.length} promociones vigentes de ${marcas.length} marcas, con la condición al mismo tamaño que el precio.`, meta: actualizado(fecha, 'Redacción ComparaMotor', ctx) })}
     <div class="wrap blk" style="padding-top:0">
-      ${answer(`La mayoría de los precios «desde» que anuncian las marcas exigen financiar con su financiera o aplican a una sola versión. Aquí están las ${ps.length} promociones vigentes que verificamos, ordenadas por la que vence primero.`)}
-      ${table({ head: ['Promoción', 'Condición', 'Vence', 'Fuente'], rows: ps.map((p) => [`<a href="${ctx.u(fichaURL(p.auto))}" style="text-decoration:underline"><b>${esc(p.auto.marca + ' ' + p.auto.modelo)}</b></a><br>${esc(p.oferta.descripcion || '')}`, esc(p.condicion || 'La fuente no publica la condición.'), p.vigenciaHasta ? `<b>${esc(fechaCorta(p.vigenciaHasta))}</b>` : 'Por confirmar', `<a class="src" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.fuente)}</a>`]) })}
-      <p class="fine" style="margin-top:12px">Promociones publicadas por cada marca y consultadas el ${esc(fechaLarga(fecha))}. Confirma con la agencia antes de apartar.</p>
+      ${answer(`De las <b>${ps.length} promociones vigentes</b> que verificamos en los sitios oficiales, <b>${exigen} exigen financiar con la financiera de la marca</b>. Si pagas de contado o con tu banco, normalmente pagas el precio de lista. Cada promoción lleva su vigencia, su condición y su fuente.`)}
+      <div class="topics" style="margin:20px 0">${marcas.map((m) => `<a class="pill p-white" href="#${slug(m)}">${esc(m)}</a>`).join('')}</div>
+      ${marcas.map((m) => `<h2 id="${slug(m)}" style="margin-top:32px">Promociones de ${esc(m)}</h2>${table({ head: ['Modelo y promoción', 'Condición', 'Vence', 'Fuente'], rows: ps.filter((p) => p.marca === m).map((p) => [`<b>${esc(p.modelo)}</b><br>${esc(p.descripcion)}${p.exige_financiar_con_marca ? '<br><span class="tag red">Exige crédito de la marca</span>' : ''}`, `${esc(p.condicion || 'La fuente no publica la condición.')}${p.cat_promedio_publicado ? `<br><span class="fine">${esc(p.cat_promedio_publicado)}</span>` : ''}`, p.vigencia_fin ? `<b>${esc(fechaCorta(p.vigencia_fin))}</b>` : 'Por confirmar', p.url ? `<a class="src" href="${esc(p.url)}" target="_blank" rel="noopener">Sitio oficial</a>` : '']) })}`).join('')}
+      <p class="fine" style="margin-top:16px">Promociones publicadas por cada marca y consultadas el ${esc(fechaLarga(fecha))}. Pueden cambiar sin aviso: confirma con la agencia antes de apartar.</p>
     </div>`;
-    out.push({ route: '/promociones/', grupo: 'fichas', html: page(ctx, { title: 'Promociones de autos nuevos en México este mes', description: `Promociones vigentes de autos nuevos en México con su condición, vigencia y fuente oficial: bonos, precios especiales y meses sin intereses.`, body, crumbsItems: CR([{ name: 'Promociones', url: '/promociones/' }]), updated: fechaLarga(fecha) }) });
+    out.push({ route: '/promociones/', grupo: 'fichas', html: page(ctx, { title: 'Promociones de autos nuevos en México este mes, con su letra chiquita', description: `${ps.length} promociones vigentes de autos nuevos en México con su condición, vigencia, CAT publicado y fuente oficial.`, body, crumbsItems: CR([{ name: 'Promociones', url: '/promociones/' }]), updated: fechaLarga(fecha) }) });
   }
 
   // Hub

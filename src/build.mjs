@@ -72,7 +72,7 @@ for (const c of D.comparativasList) add(c.url, comparativa(C(c.url), c, D), 'fic
 add('/que-me-alcanza/', alcanzaPage(C('/que-me-alcanza/'), D), 'fichas');
 
 // Módulos opcionales (se agregan conforme existen)
-for (const mod of ['mejores', 'dinero', 'tramites', 'noticias', 'info']) {
+for (const mod of ['mejores', 'dinero', 'tramites', 'noticias', 'info']) { // trámites antes que info: define D.hncData para Mi garage
   const file = path.join(ROOT, 'src/templates', mod + '.mjs');
   if (!fs.existsSync(file)) continue;
   const m = await import(file);

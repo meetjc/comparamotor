@@ -60,7 +60,7 @@
     [['a', ra], ['b', rb]].forEach(function (p) {
       var s = p[0], r = p[1], tr = $('tr-' + s), avail = tr.clientWidth - 4;
       $('bl-' + s).innerHTML = '<span class="dot" style="width:10px;height:10px;border-radius:3px;display:inline-block;background:' + (s === 'a' ? '#000' : '#d42a2c') + '"></span>' + esc(r.a.modelo);
-      [].forEach.call(tr.children, function (seg) { seg.style.width = Math.max(0, r.parts[seg.dataset.c] / max * avail).toFixed(1) + 'px'; seg.setAttribute('aria-label', r.a.modelo + ': ' + mxn.format(r.parts[seg.dataset.c])); });
+      [].forEach.call(tr.children, function (seg) { seg.style.width = Math.max(0, r.parts[seg.dataset.c] / max * 99).toFixed(2) + '%'; seg.setAttribute('aria-label', r.a.modelo + ': ' + mxn.format(r.parts[seg.dataset.c])); });
     });
     var lg = '<span></span><span class="hd"></span><span class="hd">' + esc(ra.a.modelo) + '</span><span class="hd">' + esc(rb.a.modelo) + '</span>';
     CATS.forEach(function (c) { lg += '<span class="sw" style="background:' + c.c + '"></span><span class="n">' + (c.id === 'compra' && st.modo === 'contado' ? c.nc : c.n) + '</span><span class="a">' + mxn.format(ra.parts[c.id]) + '</span><span class="b">' + mxn.format(rb.parts[c.id]) + '</span>'; });

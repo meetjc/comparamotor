@@ -206,3 +206,5 @@ a.tile:active { transform: translateY(0) scale(.99); }
 .galeria { display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: repeat(2, minmax(0, 1fr)); gap: 8px; aspect-ratio: 16 / 7; }
 .galeria .foto:first-child { grid-row: span 2; }
 @media (max-width: 700px) { .galeria { grid-template-columns: minmax(0, 1fr); grid-template-rows: none; aspect-ratio: auto; } .galeria .foto { aspect-ratio: 16 / 10; } .galeria .foto:first-child { grid-row: auto; } }
+.prose .pill, .calc .pill { white-space: normal; height: auto; min-height: 44px; text-align: center; }
+.bars .track { min-width: 0; overflow: hidden; }

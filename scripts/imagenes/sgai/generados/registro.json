@@ -1,0 +1,26 @@
+{
+  "chevrolet-tracker": {
+    "url": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/oct/1029_Tracker26MY.html",
+    "ok": true,
+    "seg": 13
+  },
+  "chevrolet-groove": {
+    "url": "https://pressroom.chevrolet.com.mx/content/gmbx/mx/es/chevrolet/pressroom/news.detail.html/Pages/news/mx/es/2025/jul/0722-GrooveMexico.html",
+    "ok": true,
+    "seg": 24
+  },
+  "nissan-versa": {
+    "url": "https://mexico.nissannews.com/es-MX/releases/release-e753262aecb841cf03e379a163160058?gallery=release-e753262aecb841cf03e379a163160058&viewallTab=photos",
+    "ok": true,
+    "seg": 20
+  },
+  "mg-zs-europa": {
+    "url": "https://news.mgmotor.eu/es/press/mg-zs-hybrid-premio/",
+    "ok": true,
+    "seg": 34
+  },
+  "multi-chevrolet": {
+    "ok": true,
+    "seg": 46
+  }
+}

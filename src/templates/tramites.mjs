@@ -6,6 +6,7 @@ import { fileURLToPath } from 'node:url';
 import { page } from '../layout.mjs';
 import { esc, mxn, num, fechaCorta, fechaLarga, diaSemana, readJSON, listJSON, SITE } from '../lib.mjs';
 import { answer, table, fuentes, faq, ph, actualizado } from './common.mjs';
+import { hncPaginas, hncCompacto } from './hnc.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const NO_GOB = '<p class="callout info" style="margin-top:16px">ComparaMotor es un sitio informativo independiente: no pertenece a ningún gobierno ni cobra trámites. Haz tus pagos solo en el portal oficial.</p>';
@@ -92,7 +93,31 @@ export function paginas(C, D) {
   if (ten.length) out.push({ route: '/tenencia/', grupo: 'tramites', html: indice(C('/tenencia/'), 'tenencia', ten) });
   if (ver.length) out.push({ route: '/verificacion-vehicular/', grupo: 'tramites', html: indice(C('/verificacion-vehicular/'), 'verificacion', ver) });
 
-  const hnc = D.hncData ? D.hncPages(C, D) : [];
+  const G = readJSON(path.join(ROOT, 'data/tramites/gasolina.json'));
+  if (G && G.ejemplo_descargado_hoy) {
+    D.gasolina = true;
+    const e = G.ejemplo_descargado_hoy, pr = e.precios_promedio_mxn_por_litro, ref = e.referencia_oficial_publicada_xlsx_septiembre_2026 || {};
+    const f2 = (x) => (x == null ? '—' : '$' + Number(x).toFixed(2));
+    const nac = pr.nacional, cd = pr.cdmx || {};
+    const fecha = e.fecha_descarga || G.meta.fecha_verificacion;
+    const ctx = C('/precio-gasolina/');
+    const val = (o, k) => o && o[k] && (o[k].promedio_filtrado_10_40 ?? o[k].promedio ?? o[k]);
+    const f = faq([
+      { q: '¿Cuánto cuesta la gasolina hoy en México?', a: `Al ${fechaLarga(fecha)}, el promedio nacional fue de ${f2(val(nac, 'regular'))} por litro la regular, ${f2(val(nac, 'premium'))} la premium y ${f2(val(nac, 'diesel'))} el diésel, con datos de la Comisión Nacional de Energía.` },
+      { q: '¿De dónde salen estos precios?', a: 'De los precios que cada gasolinera reporta a la Comisión Nacional de Energía (antes CRE), publicados como datos abiertos. Calculamos el promedio simple de todas las estaciones.' },
+    ]);
+    const body = `${ph({ h1: 'Precio de la gasolina en México <em>hoy</em>', lede: 'Promedio nacional y de la Ciudad de México con los precios que reportan las gasolineras a la autoridad.', meta: actualizado(fecha, 'Redacción ComparaMotor', ctx) })}
+    <div class="wrap"><div class="article"><div class="prose">
+      ${answer(`Al <b>${esc(fechaLarga(fecha))}</b> el litro de gasolina regular promedia <b>${f2(val(nac, 'regular'))}</b> en México, la premium <b>${f2(val(nac, 'premium'))}</b> y el diésel <b>${f2(val(nac, 'diesel'))}</b>.`)}
+      ${table({ head: ['Combustible', { t: 'Promedio nacional', n: true }, { t: 'Ciudad de México', n: true }, { t: 'Promedio sep. 2026 (oficial)', n: true }], rows: [['Regular', `<b>${f2(val(nac, 'regular'))}</b>`, f2(val(cd, 'regular')), f2(ref.promedio_mensual_septiembre_2026 && ref.promedio_mensual_septiembre_2026.nacional.regular)], ['Premium', `<b>${f2(val(nac, 'premium'))}</b>`, f2(val(cd, 'premium')), f2(ref.promedio_mensual_septiembre_2026 && ref.promedio_mensual_septiembre_2026.nacional.premium)], ['Diésel', `<b>${f2(val(nac, 'diesel'))}</b>`, f2(val(cd, 'diesel')), f2(ref.promedio_mensual_septiembre_2026 && ref.promedio_mensual_septiembre_2026.nacional.diesel)]], caption: 'Pesos por litro. Promedio simple de las estaciones que reportan a la Comisión Nacional de Energía; se excluyen valores fuera de $10 a $40.' })}
+      <h2>¿Cuánto gastas en gasolina al año?</h2><p>Con ${num(SITE.supuestos.km)} km al año y un auto que rinde 15 km por litro, a ${f2(val(nac, 'regular'))} el litro gastas unos <b>${mxn(SITE.supuestos.km / 15 * val(nac, 'regular'))}</b> al año. Calcula tu caso en el <a href="${ctx.u('/costo-total/')}">costo total a cinco años</a>.</p>
+      <h2>Preguntas frecuentes</h2>${f.html}
+      ${fuentes([{ nombre: G.fuente_principal.nombre + ' (' + G.fuente_principal.institucion + ')', url: G.fuente_principal.pagina_oficial || G.fuente_principal.url_precios }, { nombre: G.fuente_historica_oficial.nombre, url: G.fuente_historica_oficial.pagina_listado }], fecha)}
+    </div><aside class="aside"><div class="tile"><span class="k">Rendimiento</span><p>Revisa los km por litro oficiales de cada modelo.</p><a class="pill p-black" href="${ctx.u('/mejores/autos-hibridos/')}">Autos híbridos</a></div></aside></div></div>`;
+    out.push({ route: '/precio-gasolina/', grupo: 'tramites', lastmod: fecha, html: page(ctx, { title: `Precio de la gasolina hoy en México: regular, premium y diésel`, description: `Precio promedio de la gasolina en México y la CDMX: regular ${f2(val(nac, 'regular'))}, premium ${f2(val(nac, 'premium'))}, diésel ${f2(val(nac, 'diesel'))} por litro, con datos oficiales.`, body, crumbsItems: CR([{ name: 'Precio de la gasolina', url: '/precio-gasolina/' }]), updated: fechaLarga(fecha), schema: [f.schema] }) });
+  }
+  D.hncData = hncCompacto();
+  const hnc = D.hncData ? hncPaginas(C, D) : [];
   out.push(...hnc);
 
   const ctx = C('/tramites/');

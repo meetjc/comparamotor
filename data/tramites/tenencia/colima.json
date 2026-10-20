@@ -1,0 +1,34 @@
+{
+  "estado": "Colima",
+  "slug": "colima",
+  "cobraTenencia2026": true,
+  "tenencia": "Sí existe el Impuesto sobre Tenencia o Uso de Vehículos (Ley de Hacienda del Estado de Colima, Título Primero, Capítulo VIII, arts. 41 W y siguientes; la Ley de Ingresos 2026 lo estima en $710,708,638), pero en 2026 se subsidia al 100% a quien cumpla requisitos. Ley de Ingresos 2026, art. 11 fracc. II: (a) vehículos inscritos en el Registro Público Vehicular en 2025 o antes tienen subsidio equivalente al 100% de la tenencia 2026 si no tienen adeudos de 2025 y anteriores (impuestos, derechos y aprovechamientos estatales; créditos federales que administra el estado; predial, agua y multas federales no fiscales municipales) y si pagan sus contribuciones vehiculares conforme al art. 41 Z BIS 12 (primeros tres meses del año); (b) vehículos que se inscriban en 2026, o nuevos/importados adquiridos entre el 2-oct y el 31-dic-2025 sin inscribir, tienen subsidio del 100% si se inscriben dentro de 60 días de la compra y no tienen adeudos 2025 y anteriores ni vencidos en 2026. Quien no pagó en el plazo perdió el subsidio de la ley, pero el Decreto 274 (Periódico Oficial 29-abr-2026) abrió un subsidio gradual de la tenencia 2026: 80% en abril y mayo, 70% junio, 60% julio, 50% agosto, 40% septiembre y 30% octubre de 2026 (vigente hasta el 31-oct-2026; vehículos nuevos o importados pagan dentro de 60 días de la compra). No pagan, por ejemplo, vehículos eléctricos del transporte público, de gobierno para servicios de emergencia, importados temporalmente y los de agencias sin placas (art. 41 Z BIS 13).",
+  "refrendo": {
+    "nombreLocal": "Calcomanía fiscal vehicular (derecho por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular)",
+    "monto2026": 1408,
+    "moneda": "MXN",
+    "detalle": "Ley de Hacienda del Estado de Colima, art. 53 fracc. IV: 12 UMA anuales por vehículo inscrito en el Registro Público Vehicular al 1 de enero. Con la UMA 2026 de $117.31 son $1,407.72 y la ficha oficial de trámites de Colima (actualizada 31-ene-2026) indica $1,408.00."
+  },
+  "fechaLimite": "Ordinaria: a más tardar el 31 de marzo (Ley de Hacienda, art. 53 fracc. IV y art. 41 Z BIS 12). El Decreto 274 (Periódico Oficial 29-abr-2026) amplió al 31 de octubre de 2026 el plazo para pagar la calcomanía fiscal vehicular 2026, es decir, el plazo vence en 11 días a partir de la fecha de verificación (20-oct-2026). Vehículos nuevos o importados: tenencia dentro de los 60 días siguientes a la adquisición o importación.",
+  "descuentos": [
+    "Jubilados, pensionados, personas con discapacidad acreditada y adultos mayores: 50% de descuento en la cuota de la calcomanía por un vehículo de uso particular de su propiedad (Ley de Hacienda, art. 53 fracc. IV).",
+    "Tenencia 2026 con subsidio del 100% por ley (requisitos y plazo ordinario al 31 de marzo, ver campo 'tenencia'); desde el 29-abr-2026 y hasta el 31-oct-2026, subsidio gradual de 80% a 30% según el mes (Decreto 274).",
+    "Decreto 274 (vencidos): 50% de descuento en tenencia de 2025 y anteriores y en la calcomanía de 2023 y anteriores (artículos tercero a quinto), y 50% en multas y recargos de tenencia y calcomanía de 2026 y anteriores (artículo sexto), solo hasta el 30-jun-2026; ya no están vigentes."
+  ],
+  "portalPago": "https://www.col.gob.mx/finanzas/contenido/MTAyNjg=",
+  "fuentes": [
+    {"nombre": "Ley de Ingresos del Estado de Colima para el Ejercicio Fiscal 2026 (Congreso del Estado, Periódico Oficial 18-dic-2025)", "url": "https://admiweb.col.gob.mx/archivos_prensa/banco_img/file_69d6a37dd2a8a_Ley_de_Ingresos_del_Estado_de_Colima_para_el_Ejercicio_Fiscal_2026.pdf", "tipo": "oficial"},
+    {"nombre": "Ley de Hacienda del Estado de Colima (Congreso del Estado, versión 30-jun-2026)", "url": "https://congresocol.gob.mx/web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ley_de_hacienda_30junio2026.pdf", "tipo": "oficial"},
+    {"nombre": "Periódico Oficial El Estado de Colima, 29-abr-2026: Decreto 274, estímulos fiscales temporales en tenencia y calcomanía", "url": "https://periodicooficial.col.gob.mx/p/29042026/p26042901.pdf", "tipo": "oficial"},
+    {"nombre": "Gobierno de Colima: trámite Expedición o renovación anual de la calcomanía fiscal (costo $1,408, actualizado 31-ene-2026)", "url": "https://www.col.gob.mx/Portal/DetalleTramiteReTYS/020121160901/1365", "tipo": "oficial"},
+    {"nombre": "Gobierno de Colima: Pagos en línea (Finanzas)", "url": "https://www.col.gob.mx/finanzas/contenido/MTAyNjg=", "tipo": "oficial"}
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se leyó la tarifa del Capítulo VIII (cálculo de la tenencia por valor del vehículo y antigüedad); solo el objeto, sujetos, plazo y exenciones.",
+    "No se confirmó en el portal que el Decreto 274 siga aplicándose en línea al 20-oct-2026 ni si hubo ampliación posterior del plazo del 31-oct-2026.",
+    "La exención de vehículos eléctricos en Colima parece limitarse a los del transporte público de personas (art. 41 Z BIS 13 fracc. I); se leyó solo el inicio del artículo. Confirmar el resto de exenciones.",
+    "Descuentos por pronto pago adicionales de la calcomanía en enero a marzo de 2026 no se localizaron en fuente oficial.",
+    "No se verificó cuánto es el monto exacto de tenencia para un auto típico."
+  ]
+}

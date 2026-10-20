@@ -32,6 +32,13 @@ const MAX_PAGES = Number(opt('--paginas', 4)); // 50 archivos por página
 const DRY = flag('--dry');
 const filtros = args.filter((a, i) => !a.startsWith('--') && !['--max', '--min-ancho', '--paginas'].includes(args[i - 1]));
 
+const normTitulo = (u) => { try { return decodeURIComponent(String(u).split('/wiki/')[1] || '').replace(/_/g, ' '); } catch { return String(u); } };
+let REVISION = {};
+try {
+  const r = JSON.parse(await readFile(join(HERE, 'revision-visual.json'), 'utf8'));
+  for (const [k, v] of Object.entries(r.archivos || {})) REVISION[normTitulo(k)] = v;
+} catch {}
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function api(params, intento = 1) {
@@ -124,6 +131,7 @@ const PESO_ANGULO = { '3/4 frontal': 30, '3/4 trasero': 24, interior: 22, perfil
 const CUPO = { '3/4 frontal': 2, '3/4 trasero': 1, perfil: 1, interior: 1, desconocido: 2 };
 
 function evaluar(f, cfg, coincideCat) {
+  // coincideCat puede ajustarse con la revisión visual
   const ii = f.ii;
   if (!/image\/(jpeg|png|webp)/.test(ii.mime)) return null;
   if ((ii.width || 0) < MIN_W) return null;
@@ -135,16 +143,20 @@ function evaluar(f, cfg, coincideCat) {
   if (!lic) return null;
   const restr = limpiar(meta(ii, 'Restrictions'));
   const anio = anioFoto(ii, f.title);
-  const ang = angulo(texto);
+  const rev = REVISION[normTitulo(ii.descriptionurl)];
+  if (rev?.descartar) return null;
+  const ang = rev?.angulo || angulo(texto);
   const evalua = limpiar(meta(ii, 'Assessments'));
   let s = PESO_ANGULO[ang] + Math.min(ii.width, 6000) / 500;
   if (anio && cfg.desde) s += anio >= cfg.desde ? 15 : -12;
   if (/featured|quality|valued/i.test(evalua)) s += 10;
   if (lic.tipo !== 'by-sa') s += 2;
+  if (rev) coincideCat = rev.coincideConMexico ?? coincideCat;
+  if (rev) s += 3;
   if (coincideCat === true) s += 10; else if (coincideCat === false) s -= 25;
   let autor = limpiar(meta(ii, 'Artist')) || limpiar(meta(ii, 'Credit')) || 'Autor en Wikimedia Commons';
   if (autor.length > 120) autor = autor.slice(0, 117) + '…';
-  const coincide = coincideCat === false ? false : (anio && cfg.desde && anio < cfg.desde ? false : coincideCat);
+  const coincide = rev?.coincideConMexico === true ? true : coincideCat === false ? false : (anio && cfg.desde && anio < cfg.desde ? false : coincideCat);
   const credito = lic.tipo === 'pd' ? `Foto: ${autor} / Wikimedia Commons (dominio público)`
     : lic.tipo === 'cc0' ? `Foto: ${autor} / Wikimedia Commons (CC0)`
     : `Foto: ${autor} / Wikimedia Commons, ${lic.licencia}`;
@@ -158,7 +170,8 @@ function evaluar(f, cfg, coincideCat) {
     restr ? `Restricciones declaradas en Commons: ${restr}.` : '',
     /youtube/i.test(limpiar(meta(ii, 'Credit')) + desc) ? 'Captura de un video de YouTube publicado con licencia CC BY: confirmar en la página que tiene la revisión de licencia (License review) antes de usarla.' : '',
     /featured|quality|valued/i.test(evalua) ? `Evaluación Commons: ${evalua}.` : '',
-    ang === 'desconocido' ? 'Ángulo no indicado en el nombre: revisar a ojo.' : '',
+    rev?.nota ? `Revisión visual: ${rev.nota}.` : '',
+    !rev && ang === 'desconocido' ? 'Ángulo no indicado en el nombre: revisar a ojo.' : '',
     'Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio.',
   ].filter(Boolean).join(' ');
   return {
@@ -177,6 +190,7 @@ function evaluar(f, cfg, coincideCat) {
       anioOGeneracion: `${anio ?? 's/f'} · ${cfg.generacion}`,
       angulo: ang,
       coincideConMexico: coincide ?? null,
+      revisadaAOjo: Boolean(rev),
       verificadoEl: HOY,
       notas,
     },

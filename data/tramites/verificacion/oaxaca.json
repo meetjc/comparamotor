@@ -1,0 +1,45 @@
+{
+  "estado": "Oaxaca",
+  "slug": "oaxaca",
+  "programa": "Programa Obligatorio de Verificación Vehicular para el Estado de Oaxaca (reforma publicada en el Periódico Oficial el 5 de agosto de 2024), operado por la Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad (SEMABIESO). Desde 2008 se verifica dos veces al año, por semestre, solo en Centros de Verificación o Unidades Móviles autorizadas.",
+  "obligatoria": true,
+  "calendario": {
+    "criterio": "Dos semestres al año: del 1 de enero al 30 de junio y del 1 de julio al 31 de diciembre (la página oficial escribe '31 de junio').",
+    "segundoSemestre2025": [
+      { "terminacion": "Dígito non (1, 3, 5, 7, 9)", "periodo": "1 de septiembre al 31 de octubre de 2025" },
+      { "terminacion": "Dígito par (0, 2, 4, 6, 8)", "periodo": "1 de noviembre al 31 de diciembre de 2025" }
+    ],
+    "calendario2026PorTerminacion": null,
+    "notas": "Exentos en el comunicado del segundo semestre de 2025: híbridos, eléctricos, eléctricos de rango extendido, tractores agrícolas y motocicletas (los híbridos tramitan una Constancia de No Verificación). En 2024 hubo una moratoria de operativos de Policía Vial (comunicado del 4-oct-2024) que debía terminar en 2025."
+  },
+  "costo2026": {
+    "unidad": "UMA y MXN (UMA 2026 = $117.31)",
+    "fundamento": "Ley Estatal de Derechos de Oaxaca (última reforma 31-ene-2026), art. 42 A, fracc. II, inciso g): verificación de emisiones a la atmósfera y holograma, por semestre.",
+    "tarifas": [
+      { "tipo": "Particulares", "uma": 4.75, "pesos": 557.22 },
+      { "tipo": "Doble Cero", "uma": 5.0, "pesos": 586.55 },
+      { "tipo": "Uso intensivo", "uma": 6.4, "pesos": 750.78 },
+      { "tipo": "Constancia de rechazo", "uma": 1.7, "pesos": 199.43 }
+    ],
+    "detalle": "Los pesos son cálculo propio (UMA x $117.31). El pago se hace en línea en el SIOX de la Secretaría de Finanzas (sección pago vehicular)."
+  },
+  "portalCita": null,
+  "portalPago": "https://siox.finanzasoaxaca.gob.mx/pagos/pago-en-linea#!/vehicular",
+  "centros": "Más de 20 centros y unidades móviles autorizados (CVV-01 a CVV-24 y UV-05), de lunes a viernes de 9:00 a 18:00 y sábados de 9:00 a 15:00, según la página oficial de SEMABIESO.",
+  "relacionConTenencia": "El estímulo del 100% en tenencia 2026 exige pagar los derechos de control vehicular y de verificación de emisiones a más tardar el 18 de diciembre de 2026 (art. 10, Ley de Ingresos 2026).",
+  "fuentes": [
+    { "nombre": "Verificación Vehicular, Secretaría de Medio Ambiente de Oaxaca", "url": "https://www.oaxaca.gob.mx/medioambiente/verificacion-vehicular/" },
+    { "nombre": "Comunicado: Anuncia Gobierno del Estado segundo semestre de verificación vehicular 2025", "url": "https://www.oaxaca.gob.mx/comunicacion/anuncia-gobierno-del-estado-segundo-semestre-de-verificacion-vehicular-2025/" },
+    { "nombre": "Comunicado: moratoria para la verificación vehicular (4-oct-2024)", "url": "https://www.oaxaca.gob.mx/comunicacion/anuncia-gobierno-de-oaxaca-moratoria-para-la-verificacion-vehicular/" },
+    { "nombre": "Ley Estatal de Derechos de Oaxaca (última reforma 31-ene-2026)", "url": "https://www.finanzasoaxaca.gob.mx/pdf/asistencia/leyes_fiscales/VIGENTES/pdf/LEY_ESTATAL_DERECHOS_OAXACA_2026.pdf" },
+    { "nombre": "Ley de Ingresos del Estado de Oaxaca 2026 (art. 10)", "url": "https://www.finanzasoaxaca.gob.mx/pdf/asistencia/leyes_fiscales/VIGENTES/pdf/LEY_DE_INGRESOS_DEL_ESTADO_DE_OAXACA_2026.pdf" },
+    { "nombre": "Valor UMA 2026 (INEGI)", "url": "https://www.inegi.org.mx/temas/uma/" }
+  ],
+  "fechaVerificacion": "2026-10-20",
+  "pendientes": [
+    "No se localizó el calendario 2026 por terminación de placa (solo el del segundo semestre de 2025 y la estructura semestral); confirmar en la Secretaría de Medio Ambiente.",
+    "No se confirmó que en 2026 se repita el incentivo de 30% para quien verificó en el primer semestre (resultados de redes de Sefin lo sugieren, no se pudieron leer).",
+    "No se localizó portal de citas; la verificación se realiza en centros autorizados.",
+    "El texto de la Ley Estatal de Derechos fija las tarifas en UMA; los pesos son cálculo propio."
+  ]
+}
