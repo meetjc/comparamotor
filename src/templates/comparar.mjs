@@ -2,7 +2,7 @@
 import { page } from '../layout.mjs';
 import { home } from './home.mjs';
 import { esc, mxn, num, fechaCorta, fechaLarga, mensualidad, costo5, SITE } from '../lib.mjs';
-import { sil, answer, table, fuentes, faq, ph, actualizado, img, CARRO_N, TRANS_N, PROP_N } from './common.mjs';
+import { sil, answer, table, fuentes, faq, ph, actualizado, img, credito, CARRO_N, TRANS_N, PROP_N } from './common.mjs';
 import { fichaURL, calcCredito } from './autos.mjs';
 
 const REND = { hatchback: 16, sedan: 15, suv: 13, pickup: 10 };
@@ -38,6 +38,8 @@ export function comparativa(ctx, c, D) {
   const aebEA = ea.frenadoAutonomoEmergencia, aebEB = eb.frenadoAutonomoEmergencia;
   const gA = A.garantia && A.garantia.texto, gB = B.garantia && B.garantia.texto;
   const N = { a: na, b: nb };
+  const fotoDe = (X) => (D.fotos || {})[`${X.marcaSlug}-${X.slug}`];
+  const tileImg = (X, color, flip) => { const f = fotoDe(X); return f ? `<figure class="foto" style="aspect-ratio:16/10;margin:-4px -4px 6px">${img(ctx, D.reg, f.archivo, f.alt)}${credito(D.reg, f.archivo)}</figure>` : `<div class="foto" style="aspect-ratio:16/10;margin:-4px -4px 6px;display:grid;place-items:center;background:var(--canvas-soft)"><span style="width:62%">${sil(X.carroceria, { color, flip })}</span><span class="credito">Silueta ilustrativa</span></div>`; };
 
   // Veredicto con datos, sin adjetivos: quién gana en qué
   const puntos = [];
@@ -86,7 +88,7 @@ export function comparativa(ctx, c, D) {
     <div class="article">
       <div class="prose">
         ${answer(resp)}
-        <div class="grid2" style="margin-top:20px"><div class="tile"><span class="sil">${sil(A.carroceria, { color: '#171513' })}</span><span class="k">${esc(A.marca)}</span><h3>${esc(na)}</h3><p>Desde <b>${mxn(ea.precio)}</b></p><a href="${ctx.u(fichaURL(A))}" style="text-decoration:underline">Ficha completa</a></div><div class="tile"><span class="sil">${sil(B.carroceria, { color: '#d42a2c', flip: true })}</span><span class="k">${esc(B.marca)}</span><h3>${esc(nb)}</h3><p>Desde <b>${mxn(eb.precio)}</b></p><a href="${ctx.u(fichaURL(B))}" style="text-decoration:underline">Ficha completa</a></div></div>
+        <div class="grid2" style="margin-top:20px"><div class="tile">${tileImg(A, '#171513', false)}<span class="k">${esc(A.marca)}</span><h3>${esc(na)}</h3><p>Desde <b>${mxn(ea.precio)}</b></p><a href="${ctx.u(fichaURL(A))}" style="text-decoration:underline">Ficha completa</a></div><div class="tile">${tileImg(B, '#d42a2c', true)}<span class="k">${esc(B.marca)}</span><h3>${esc(nb)}</h3><p>Desde <b>${mxn(eb.precio)}</b></p><a href="${ctx.u(fichaURL(B))}" style="text-decoration:underline">Ficha completa</a></div></div>
         <h2>¿En qué gana cada uno?</h2>
         <ul>${puntos.map((p) => `<li>${p}</li>`).join('')}</ul>
         <h2>${esc(na)} contra ${esc(nb)}, dato por dato</h2>
@@ -101,7 +103,7 @@ export function comparativa(ctx, c, D) {
         ${fuentes([...new Map([...va, ...vb].map((v) => [v.url, { nombre: v.fuente, url: v.url }])).values()], fecha)}
       </div>
       <aside class="aside">
-        <figure class="foto" style="aspect-ratio:4/3">${img(ctx, D.reg, c.imagen, c.imagenAlt)}<figcaption>Imagen ilustrativa</figcaption></figure>
+        ${fotoDe(A) || fotoDe(B) ? '' : `<figure class="foto" style="aspect-ratio:4/3">${img(ctx, D.reg, c.imagen, c.imagenAlt)}<figcaption>Imagen ilustrativa</figcaption></figure>`}
         <div class="tile"><span class="k">Gana en cinco años</span><b class="big">${esc(N[barato])}</b><p>${mxn(dif)} menos con los supuestos de ejemplo</p></div>
         ${calcCredito(Math.min(ea.precio, eb.precio), 'Calcula tu mensualidad')}
       </aside>

@@ -92,6 +92,7 @@ export function ficha(ctx, a, D) {
         <div class="byline2">${actualizado(fecha, 'Redacción ComparaMotor', ctx)}</div>
         ${answer(resp)}
         <div class="kpis" style="margin-top:20px"><div><b class="num">${mxn(e.precio)}</b><span>Precio de entrada</span></div><div><b class="num">${vs.length}</b><span>Versiones</span></div><div><b class="num">${rend ? num(rend) + ' km/l' : '—'}</b><span>${rend ? 'Rendimiento oficial máx.' : 'Rendimiento por confirmar'}</span></div><div><b>${esc((a.garantia && a.garantia.texto) || '—')}</b><span>Garantía</span></div></div>
+        ${foto && foto.galeria && foto.galeria.length > 1 ? `<h2 id="fotos">Fotos del ${esc(a.modelo)}</h2><div class="galeria">${foto.galeria.map((g, i) => `<figure class="foto">${img(ctx, reg, g.archivo, g.alt, { w: g.ancho, h: g.alto })}${credito(reg, g.archivo)}</figure>`).join('')}</div><p class="fine">Fotos de terceros con licencia libre; cada una con su autor y su licencia. Pueden mostrar versiones de otros mercados.</p>` : ''}
         <h2 id="precios">¿Cuánto cuesta el ${esc(nombre)} ${anio} en México?</h2>
         <p>Estas son todas las versiones con precio publicado. El precio de lista no incluye promociones; si una oferta exige crédito con la marca, la verás en la sección de promociones.</p>
         ${tablaPrecios}
@@ -127,7 +128,7 @@ export function ficha(ctx, a, D) {
     title: `${nombre} ${anio}: precios y versiones en México`,
     description: `${nombre} ${anio} desde ${mxn(e.precio)} hasta ${mxn(t.precio)}: ${vs.length} versiones con precio, fuente y fecha, mensualidad estimada, costo total a cinco años, seguridad y rendimiento.`,
     body, crumbsItems: crumbs, updated: fechaLarga(fecha),
-    schema: [{ '@context': 'https://schema.org', '@type': ['Product', 'Car'], name: `${nombre} ${anio}`, brand: { '@type': 'Brand', name: a.marca }, model: a.modelo, vehicleModelDate: String(anio), bodyType: CARRO_N[a.carroceria], fuelType: PROP_N[a.propulsion], offers, url: SITE.url + fichaURL(a) }, f.schema].filter(Boolean),
+    schema: [{ '@context': 'https://schema.org', '@type': ['Product', 'Car'], name: `${nombre} ${anio}`, brand: { '@type': 'Brand', name: a.marca }, model: a.modelo, vehicleModelDate: String(anio), bodyType: CARRO_N[a.carroceria], fuelType: PROP_N[a.propulsion], offers, url: SITE.url + fichaURL(a), ...(foto ? { image: SITE.url + '/assets/img/' + foto.archivo } : {}) }, f.schema].filter(Boolean),
   });
 }
 

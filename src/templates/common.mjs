@@ -25,8 +25,10 @@ export function credito(reg, file) {
   if (!r) return '';
   if (r.licencia === 'ia-magnific') return `<span class="credito">Imagen ilustrativa</span>`;
   if (r.licencia === 'propia') return '';
-  const lic = r.licenciaUrl ? ` · <a href="${esc(r.licenciaUrl)}" target="_blank" rel="noopener license">${esc(licNombre(r.licencia))}</a>` : '';
-  const src = r.paginaUrl ? `<a href="${esc(r.paginaUrl)}" target="_blank" rel="noopener">${esc(r.credito || 'Fuente')}</a>` : esc(r.credito || '');
+  const nombreLic = r.licenciaNombre || licNombre(r.licencia);
+  const quien = String(r.credito || '').replace(/^Foto:\s*/, '').replace(/,\s*(CC|Dominio)[^,]*$/i, '');
+  const src = r.paginaUrl ? `<a href="${esc(r.paginaUrl)}" target="_blank" rel="noopener">${esc(quien || 'Fuente')}</a>` : esc(quien);
+  const lic = r.licenciaUrl ? `, <a href="${esc(r.licenciaUrl)}" target="_blank" rel="noopener license">${esc(nombreLic)}</a>` : nombreLic ? ', ' + esc(nombreLic) : '';
   return `<span class="credito">Foto: ${src}${lic}</span>`;
 }
 export const licNombre = (l) => ({ 'cc-by': 'CC BY', 'cc-by-sa': 'CC BY-SA', cc0: 'CC0', 'dominio-publico': 'Dominio público', 'prensa-marca': 'Uso editorial' }[l] || l);

@@ -1,0 +1,419 @@
+{
+ "byd-dolphin-mini": {
+  "archivo": "foto-byd-dolphin-mini-2.jpg",
+  "alt": "BYD Dolphin Mini, vista 3/4 trasero",
+  "galeria": [
+   {
+    "archivo": "foto-byd-dolphin-mini-2.jpg",
+    "alt": "BYD Dolphin Mini, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 973
+   },
+   {
+    "archivo": "foto-byd-dolphin-mini-3.jpg",
+    "alt": "BYD Dolphin Mini, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 1066
+   }
+  ]
+ },
+ "chevrolet-aveo": {
+  "archivo": "foto-chevrolet-aveo-1.jpg",
+  "alt": "Chevrolet Aveo, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-chevrolet-aveo-1.jpg",
+    "alt": "Chevrolet Aveo, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-chevrolet-aveo-2.jpg",
+    "alt": "Chevrolet Aveo, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1066
+   },
+   {
+    "archivo": "foto-chevrolet-aveo-3.jpg",
+    "alt": "Chevrolet Aveo, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ]
+ },
+ "chevrolet-onix": {
+  "archivo": "foto-chevrolet-onix-1.jpg",
+  "alt": "Chevrolet Onix, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-chevrolet-onix-1.jpg",
+    "alt": "Chevrolet Onix, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 965
+   },
+   {
+    "archivo": "foto-chevrolet-onix-2.jpg",
+    "alt": "Chevrolet Onix, vista perfil",
+    "angulo": "perfil",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-chevrolet-onix-3.jpg",
+    "alt": "Chevrolet Onix, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 948
+   }
+  ]
+ },
+ "chevrolet-tracker": {
+  "archivo": "foto-chevrolet-tracker-1.jpg",
+  "alt": "Chevrolet Tracker, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-chevrolet-tracker-1.jpg",
+    "alt": "Chevrolet Tracker, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-chevrolet-tracker-2.jpg",
+    "alt": "Chevrolet Tracker, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1000
+   },
+   {
+    "archivo": "foto-chevrolet-tracker-3.jpg",
+    "alt": "Chevrolet Tracker, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 916
+   }
+  ]
+ },
+ "honda-hr-v": {
+  "archivo": "foto-honda-hr-v-1.jpg",
+  "alt": "Honda HR-V, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-honda-hr-v-1.jpg",
+    "alt": "Honda HR-V, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 980
+   },
+   {
+    "archivo": "foto-honda-hr-v-2.jpg",
+    "alt": "Honda HR-V, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1035
+   },
+   {
+    "archivo": "foto-honda-hr-v-3.jpg",
+    "alt": "Honda HR-V, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ]
+ },
+ "kia-k3": {
+  "archivo": "foto-kia-k3-1.jpg",
+  "alt": "Kia K3, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-k3-1.jpg",
+    "alt": "Kia K3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 800
+   },
+   {
+    "archivo": "foto-kia-k3-2.jpg",
+    "alt": "Kia K3, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-kia-k3-3.jpg",
+    "alt": "Kia K3, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ]
+ },
+ "kia-sportage": {
+  "archivo": "foto-kia-sportage-1.jpg",
+  "alt": "Kia Sportage, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-sportage-1.jpg",
+    "alt": "Kia Sportage, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 791
+   },
+   {
+    "archivo": "foto-kia-sportage-2.jpg",
+    "alt": "Kia Sportage, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 794
+   },
+   {
+    "archivo": "foto-kia-sportage-3.jpg",
+    "alt": "Kia Sportage, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 1066
+   }
+  ]
+ },
+ "mazda-cx-5": {
+  "archivo": "foto-mazda-cx-5-2.jpg",
+  "alt": "Mazda CX-5, vista 3/4 trasero",
+  "galeria": [
+   {
+    "archivo": "foto-mazda-cx-5-2.jpg",
+    "alt": "Mazda CX-5, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 825
+   },
+   {
+    "archivo": "foto-mazda-cx-5-3.jpg",
+    "alt": "Mazda CX-5, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ]
+ },
+ "mazda-mazda3": {
+  "archivo": "foto-mazda-mazda3-1.jpg",
+  "alt": "Mazda Mazda3, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mazda-mazda3-1.jpg",
+    "alt": "Mazda Mazda3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 756
+   },
+   {
+    "archivo": "foto-mazda-mazda3-2.jpg",
+    "alt": "Mazda Mazda3, vista perfil",
+    "angulo": "perfil",
+    "ancho": 1600,
+    "alto": 601
+   },
+   {
+    "archivo": "foto-mazda-mazda3-3.jpg",
+    "alt": "Mazda Mazda3, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 971
+   }
+  ]
+ },
+ "mg-zs": {
+  "archivo": "foto-mg-zs-1.jpg",
+  "alt": "MG ZS, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mg-zs-1.jpg",
+    "alt": "MG ZS, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 860
+   },
+   {
+    "archivo": "foto-mg-zs-2.jpg",
+    "alt": "MG ZS, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 851
+   },
+   {
+    "archivo": "foto-mg-zs-3.jpg",
+    "alt": "MG ZS, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 1066
+   }
+  ]
+ },
+ "nissan-kicks": {
+  "archivo": "foto-nissan-kicks-1.jpg",
+  "alt": "Nissan Kicks, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-nissan-kicks-1.jpg",
+    "alt": "Nissan Kicks, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1001
+   },
+   {
+    "archivo": "foto-nissan-kicks-2.jpg",
+    "alt": "Nissan Kicks, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 957
+   },
+   {
+    "archivo": "foto-nissan-kicks-3.jpg",
+    "alt": "Nissan Kicks, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ]
+ },
+ "nissan-sentra": {
+  "archivo": "foto-nissan-sentra-1.jpg",
+  "alt": "Nissan Sentra, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-nissan-sentra-1.jpg",
+    "alt": "Nissan Sentra, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-nissan-sentra-2.jpg",
+    "alt": "Nissan Sentra, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-nissan-sentra-3.jpg",
+    "alt": "Nissan Sentra, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ]
+ },
+ "nissan-x-trail": {
+  "archivo": "foto-nissan-x-trail-1.jpg",
+  "alt": "Nissan X-Trail, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-nissan-x-trail-1.jpg",
+    "alt": "Nissan X-Trail, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 881
+   },
+   {
+    "archivo": "foto-nissan-x-trail-2.jpg",
+    "alt": "Nissan X-Trail, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 841
+   },
+   {
+    "archivo": "foto-nissan-x-trail-3.jpg",
+    "alt": "Nissan X-Trail, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 867
+   }
+  ]
+ },
+ "toyota-corolla": {
+  "archivo": "foto-toyota-corolla-1.jpg",
+  "alt": "Toyota Corolla, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-toyota-corolla-1.jpg",
+    "alt": "Toyota Corolla, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1001
+   }
+  ]
+ },
+ "toyota-rav4": {
+  "archivo": "foto-toyota-rav4-2.jpg",
+  "alt": "Toyota RAV4, vista general",
+  "galeria": [
+   {
+    "archivo": "foto-toyota-rav4-2.jpg",
+    "alt": "Toyota RAV4, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ]
+ },
+ "toyota-tacoma": {
+  "archivo": "foto-toyota-tacoma-1.jpg",
+  "alt": "Toyota Tacoma, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-toyota-tacoma-1.jpg",
+    "alt": "Toyota Tacoma, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-toyota-tacoma-2.jpg",
+    "alt": "Toyota Tacoma, vista perfil",
+    "angulo": "perfil",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-toyota-tacoma-3.jpg",
+    "alt": "Toyota Tacoma, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ]
+ },
+ "volkswagen-t-cross": {
+  "archivo": "foto-volkswagen-t-cross-1.jpg",
+  "alt": "Volkswagen T-Cross, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-volkswagen-t-cross-1.jpg",
+    "alt": "Volkswagen T-Cross, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 960
+   },
+   {
+    "archivo": "foto-volkswagen-t-cross-2.jpg",
+    "alt": "Volkswagen T-Cross, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 899
+   },
+   {
+    "archivo": "foto-volkswagen-t-cross-3.jpg",
+    "alt": "Volkswagen T-Cross, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ]
+ }
+}
