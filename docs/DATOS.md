@@ -1,6 +1,6 @@
 # Formato de datos de ComparaMotor
 
-Regla de oro: **ningún dato sin fuente y fecha**. Si un dato no aparece en una fuente verificable, va como `null` y se anota en `pendientes`. Nunca se infiere ni se estima.
+Regla de oro (JC, 20 oct 2026): **ningún dato, cifra, foto o imagen sin su fuente visible en la página**: precios con fuente y fecha, fotos con autor, liga de origen y licencia, imágenes de IA con «Imagen ilustrativa», notas y guías con lista de fuentes. Si un dato no aparece en una fuente verificable, va como `null` y se anota en `pendientes`. Nunca se infiere ni se estima.
 
 Fecha de verificación de esta ronda: 2026-10-20 (hora de la Ciudad de México).
 
