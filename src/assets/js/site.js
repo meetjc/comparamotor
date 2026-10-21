@@ -12,7 +12,8 @@
   var DATA = (function () { var el = $('cm-data'); if (!el) return {}; try { return JSON.parse(el.textContent); } catch (e) { return {}; } })();
   // Medición: empuja eventos al dataLayer; GTM los manda a GA4 solo si la persona aceptó la medición (ver layout.mjs).
   var tk_t = {};
-  function track(name, params) { try { var o = { event: name }; for (var k in params) o[k] = params[k]; (window.dataLayer = window.dataLayer || []).push(o); } catch (e) {} }
+  // Los valores del dataLayer persisten entre eventos: se limpian los parámetros para que cada evento lleve solo los suyos.
+  function track(name, params) { try { var o = { event: name, holograma: undefined, circula: undefined, versiones: undefined, auto_a: undefined, auto_b: undefined, modo: undefined, mensualidad: undefined, resultados: undefined, pagina: undefined, herramienta: undefined }; for (var k in params) o[k] = params[k]; (window.dataLayer = window.dataLayer || []).push(o); } catch (e) {} }
   // Para herramientas que se recalculan con cada tecla: un solo evento cuando la persona deja de teclear.
   function trackIdle(name, params) { clearTimeout(tk_t[name]); tk_t[name] = setTimeout(function () { track(name, typeof params === 'function' ? params() : params); }, 1500); }
   window.CM = { $: $, mxn: mxn, esc: esc, store: store, reduce: reduce, data: DATA, toast: toast, track: track, trackIdle: trackIdle };

@@ -16,7 +16,7 @@
   var mxn = new Intl.NumberFormat('es-MX', { style: 'currency', currency: 'MXN', maximumFractionDigits: 0 });
   // Medición: eventos al dataLayer (GTM los manda a GA4 solo con medición aceptada). Un evento por pausa al teclear.
   var tkt = {};
-  function track(n, p) { try { var o = { event: n }; for (var k in p) o[k] = p[k]; (window.dataLayer = window.dataLayer || []).push(o); } catch (e) {} }
+  function track(n, p) { try { var o = { event: n, holograma: undefined, circula: undefined, versiones: undefined, auto_a: undefined, auto_b: undefined, modo: undefined, mensualidad: undefined, resultados: undefined, pagina: undefined, herramienta: undefined }; /* limpia parámetros de eventos previos */ for (var k in p) o[k] = p[k]; (window.dataLayer = window.dataLayer || []).push(o); } catch (e) {} }
   function trackIdle(n, p) { clearTimeout(tkt[n]); tkt[n] = setTimeout(function () { track(n, p()); }, 1500); }
   var cmpEv = function () { return { herramienta: 'comparador', auto_a: st.a, auto_b: st.b, modo: st.modo }; };
   function v(id) { var n = parseFloat($(id).value); return isFinite(n) && n >= 0 ? n : 0; }
