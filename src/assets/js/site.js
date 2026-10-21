@@ -10,7 +10,12 @@
     set: function (k, v) { try { localStorage.setItem(k, JSON.stringify(v)); return true; } catch (e) { return false; } },
   };
   var DATA = (function () { var el = $('cm-data'); if (!el) return {}; try { return JSON.parse(el.textContent); } catch (e) { return {}; } })();
-  window.CM = { $: $, mxn: mxn, esc: esc, store: store, reduce: reduce, data: DATA, toast: toast };
+  // Medición: empuja eventos al dataLayer; GTM los manda a GA4 solo si la persona aceptó la medición (ver layout.mjs).
+  var tk_t = {};
+  function track(name, params) { try { var o = { event: name }; for (var k in params) o[k] = params[k]; (window.dataLayer = window.dataLayer || []).push(o); } catch (e) {} }
+  // Para herramientas que se recalculan con cada tecla: un solo evento cuando la persona deja de teclear.
+  function trackIdle(name, params) { clearTimeout(tk_t[name]); tk_t[name] = setTimeout(function () { track(name, typeof params === 'function' ? params() : params); }, 1500); }
+  window.CM = { $: $, mxn: mxn, esc: esc, store: store, reduce: reduce, data: DATA, toast: toast, track: track, trackIdle: trackIdle };
 
   var tt;
   function toast(m) {
@@ -67,6 +72,8 @@
   var reopen = $('cookies-cambiar');
   if (reopen) reopen.addEventListener('click', function () { if (bar) bar.hidden = false; });
 
+  document.addEventListener('click', function (e) { var a = e.target.closest('a[href^="mailto:"]'); if (a) track('contacto_email', { pagina: location.pathname }); });
+
   // Copiar al portapapeles (resúmenes para WhatsApp)
   window.CM.copy = function (txt, okMsg) {
     var ok = function () { toast(okMsg || 'Copiado.'); };
@@ -86,7 +93,7 @@
       out('enganche', mxn.format(e)); out('mensualidad', mxn.format(p)); out('total', mxn.format(tot)); out('intereses', mxn.format(Math.max(0, tot - precio)));
       out('ingreso', mxn.format(p / 0.3));
     }
-    box.addEventListener('input', run); run();
+    box.addEventListener('input', run); box.addEventListener('input', function () { trackIdle('calc_credito', { herramienta: 'credito' }); }); run();
   });
 
   // ---------- Costo total a 5 años ----------
@@ -100,7 +107,7 @@
       var g5 = km * 5 / rend * gas, tot = compra + seg * 5 + g5 + serv;
       out('compra', mxn.format(compra)); out('seguro', mxn.format(seg * 5)); out('gasolina', mxn.format(g5)); out('servicios', mxn.format(serv)); out('total', mxn.format(tot)); out('dia', mxn.format(tot / 1825));
     }
-    box.addEventListener('input', run); box.addEventListener('change', run); run();
+    box.addEventListener('input', run); box.addEventListener('change', run); box.addEventListener('input', function () { trackIdle('calc_costo_5_anios', { herramienta: 'costo_5_anios' }); }); run();
   });
 
   // ---------- Hoy No Circula (reglas en JSON verificadas; cálculo en el navegador) ----------
@@ -159,16 +166,20 @@
         wk.innerHTML = h; wk.hidden = false;
       }
     }
+    var hncEv = function () { trackIdle('hnc_consulta', function () { return { herramienta: 'hoy_no_circula', holograma: form.holo.value, circula: res.className.indexOf('si') >= 0 ? 'si' : 'no' }; }); };
     form.addEventListener('input', corre); form.addEventListener('change', corre);
-    form.addEventListener('submit', function (e) { e.preventDefault(); corre(); });
+    form.addEventListener('input', hncEv); form.addEventListener('change', hncEv);
+    form.addEventListener('submit', function (e) { e.preventDefault(); corre(); hncEv(); });
     var save = $('hnc-guardar');
     if (save) save.addEventListener('click', function () {
       var gg = store.get('cm-garage', {}); gg.placa = form.placa.value.trim().toUpperCase(); gg.holo = form.holo.value;
+      track('hnc_guardar_placa', { herramienta: 'hoy_no_circula' });
       toast(store.set('cm-garage', gg) ? 'Guardado solo en este teléfono. Nunca sale de tu navegador.' : 'Tu navegador no permite guardar datos.');
     });
     var ics = $('hnc-ics');
     if (ics) ics.addEventListener('click', function () {
       var dig = ultimoDigito(form.placa.value), holo = form.holo.value; if (dig == null) { toast('Escribe tu placa primero.'); form.placa.focus(); return; }
+      track('hnc_descargar_calendario', { herramienta: 'hoy_no_circula' });
       var base = new Date(hoyMX() + 'T12:00:00Z'), ev = [];
       for (var i = 0; i < 60; i++) { var dd = new Date(base.getTime() + i * 864e5), iso = dd.toISOString().slice(0, 10), rr = evaluaHNC(iso, dig, holo); if (!rr.circula) ev.push(iso.replace(/-/g, '')); }
       var stamp = new Date().toISOString().replace(/[-:]/g, '').replace(/\.\d+/, '');
@@ -191,6 +202,7 @@
       ['placa', 'holo', 'estado', 'auto'].forEach(function (k) { if (gg[k] && pf[k]) pf[k].value = gg[k]; });
       pf.addEventListener('submit', function (e) {
         e.preventDefault(); var n = {}; ['placa', 'holo', 'estado', 'auto'].forEach(function (k) { if (pf[k]) n[k] = pf[k].value.trim(); }); n.placa = (n.placa || '').toUpperCase();
+        track('garage_guardar', { herramienta: 'mi_garage' });
         toast(store.set('cm-garage', n) ? 'Guardado en este navegador.' : 'Tu navegador no permite guardar datos.'); pinta(n);
       });
       var del = $('g-borrar');
@@ -221,7 +233,7 @@
       $('alc-n').textContent = ok.length ? ok.length + (ok.length === 1 ? ' versión te alcanza' : ' versiones te alcanzan') : 'Ninguna versión te alcanza con estos datos';
       $('alc-lista').innerHTML = ok.slice(0, 24).map(function (v) { var e = Math.max(eng, 0), f = Math.max(0, v.p - e), pago = i > 0 ? f * i / (1 - Math.pow(1 + i, -n)) : f / n; return '<a class="tile" href="' + v.u + '"><span class="k">' + esc(v.m) + '</span><h3>' + esc(v.v) + '</h3><p>Precio <b>' + mxn.format(v.p) + '</b> · mensualidad ' + mxn.format(pago) + '</p></a>'; }).join('') || '<p class="fine">Prueba con más enganche o un plazo más largo.</p>';
     }
-    alc.addEventListener('input', corre); alc.addEventListener('submit', function (e) { e.preventDefault(); corre(); }); corre();
+    alc.addEventListener('input', corre); alc.addEventListener('input', function () { trackIdle('alcanza_calculo', function () { return { herramienta: 'que_auto_me_alcanza', versiones: parseInt($('alc-n').textContent, 10) || 0 }; }); }); alc.addEventListener('submit', function (e) { e.preventDefault(); corre(); }); corre();
   }
 
   // ---------- Filtros de listas (autos, precios) ----------
@@ -236,6 +248,7 @@
       if (cnt) cnt.textContent = n + (n === 1 ? ' resultado' : ' resultados');
     }
     inp.addEventListener('input', run);
+    inp.addEventListener('input', function () { trackIdle('filtro_lista', function () { return { herramienta: 'filtro', resultados: items.filter(function (it) { return !it.hidden; }).length }; }); });
   });
   [].forEach.call(document.querySelectorAll('[data-chips]'), function (bar) {
     var target = document.querySelector(bar.dataset.chips); if (!target) return;

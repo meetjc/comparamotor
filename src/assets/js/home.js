@@ -14,6 +14,11 @@
   var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
   var $ = function (id) { return document.getElementById(id); };
   var mxn = new Intl.NumberFormat('es-MX', { style: 'currency', currency: 'MXN', maximumFractionDigits: 0 });
+  // Medición: eventos al dataLayer (GTM los manda a GA4 solo con medición aceptada). Un evento por pausa al teclear.
+  var tkt = {};
+  function track(n, p) { try { var o = { event: n }; for (var k in p) o[k] = p[k]; (window.dataLayer = window.dataLayer || []).push(o); } catch (e) {} }
+  function trackIdle(n, p) { clearTimeout(tkt[n]); tkt[n] = setTimeout(function () { track(n, p()); }, 1500); }
+  var cmpEv = function () { return { herramienta: 'comparador', auto_a: st.a, auto_b: st.b, modo: st.modo }; };
   function v(id) { var n = parseFloat($(id).value); return isFinite(n) && n >= 0 ? n : 0; }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   ['sa', 'sb'].forEach(function (id) { var s = $(id); Object.keys(AUTOS).forEach(function (k) { var a = AUTOS[k], o = document.createElement('option'); o.value = k; o.textContent = a.marca + ' ' + a.modelo + (a.versionOk ? ' ' + a.version : ''); s.appendChild(o); }); });
@@ -143,11 +148,11 @@
     });
     $('fits').innerHTML = h;
   }
-  $('bud').addEventListener('input', function (e) { budget = +e.target.value; explore(); });
+  $('bud').addEventListener('input', function (e) { budget = +e.target.value; explore(); trackIdle('presupuesto_explorar', function () { return { herramienta: 'presupuesto', mensualidad: budget }; }); });
   $('fits').addEventListener('click', function (e) {
     var b = e.target.closest('[data-pick]'); if (!b) return;
     var k = b.dataset.pick; if (k === st.a) { st.a = st.b; st.b = k; } else st.b = k;
-    render(400); to('comparar'); toast('Cargamos el ' + AUTOS[k].modelo + ' en el comparador.');
+    render(400); to('comparar'); track('comparar_autos', cmpEv()); toast('Cargamos el ' + AUTOS[k].modelo + ' en el comparador.');
   });
 
   var tt;
@@ -156,16 +161,17 @@
   function load(pair) { var p = pair.split(','); st.a = p[0]; st.b = p[1]; render(450); }
 
   $('form').addEventListener('submit', function (e) { e.preventDefault(); to('desglose'); });
-  $('sa').addEventListener('change', function (e) { st.a = e.target.value; render(450); });
-  $('sb').addEventListener('change', function (e) { st.b = e.target.value; render(450); });
+  $('sa').addEventListener('change', function (e) { st.a = e.target.value; render(450); track('comparar_autos', cmpEv()); });
+  $('sb').addEventListener('change', function (e) { st.b = e.target.value; render(450); track('comparar_autos', cmpEv()); });
   document.querySelectorAll('[data-modo]').forEach(function (b) { b.addEventListener('click', function () { st.modo = b.dataset.modo; render(450); }); });
   document.querySelectorAll('[data-plazo]').forEach(function (b) { b.addEventListener('click', function () { st.plazo = +b.dataset.plazo; render(450); }); });
   $('eng').addEventListener('input', function (e) { st.eng = +e.target.value; render(0); });
   ['tasa', 'cat', 'km', 'gas', 'seguro', 'serv'].forEach(function (id) { $(id).addEventListener('input', function () { render(0); }); });
   $('desglose').addEventListener('change', function (e) { var k = e.target.dataset && e.target.dataset.k, n = parseFloat(e.target.value); if (k && n > 0) { rend[k] = n; render(450); } });
-  document.querySelectorAll('[data-load]').forEach(function (b) { b.addEventListener('click', function (e) { e.preventDefault(); load(b.dataset.load); if (b.classList.contains('cmp')) to('comparar'); }); });
+  document.querySelectorAll('[data-load]').forEach(function (b) { b.addEventListener('click', function (e) { e.preventDefault(); load(b.dataset.load); track('comparar_autos', cmpEv()); if (b.classList.contains('cmp')) to('comparar'); }); });
   [].forEach.call(document.querySelectorAll('[data-contado]'), function (b) { b.addEventListener('click', function () { var k = b.dataset.contado; if (AUTOS[k]) { if (st.b === k) st.b = st.a; st.a = k; } st.modo = 'contado'; render(450); to('comparar'); }); });
   $('b-copy').addEventListener('click', function () {
+    track('comparar_copiar', cmpEv());
     var ra = calc(st.a), rb = calc(st.b);
     function c(r) { return r.a.marca + ' ' + r.a.modelo + ' ' + r.a.version + ': precio ' + mxn.format(r.precio) + (st.modo === 'credito' ? ', mensualidad ' + mxn.format(r.pago) + ' x ' + st.plazo : ' de contado') + ', costo total 5 años ' + mxn.format(r.total) + '. Precio: ' + r.a.fuente + ', ' + r.a.fecha + '.'; }
     var txt = 'Mi comparación ComparaMotor\n' + c(ra) + '\n' + c(rb) + '\nTasa de ejemplo ' + v('tasa') + '%, CAT capturado ' + v('cat') + '% sin IVA.';
@@ -173,8 +179,8 @@
     var fb = function () { var ta = document.createElement('textarea'); ta.value = txt; ta.setAttribute('readonly', ''); ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); ok(); } catch (er) { toast('Selecciona y copia el texto a mano.'); } ta.remove(); };
     try { navigator.clipboard.writeText(txt).then(ok, fb); } catch (er) { fb(); }
   });
-  $('save-top').addEventListener('click', function () { try { localStorage.setItem('cm-cmp', JSON.stringify(st)); var g = JSON.parse(localStorage.getItem('cm-garage') || '{}'); g.comparaciones = (g.comparaciones || []).filter(function (c) { return !(c.a === st.a && c.b === st.b); }); g.comparaciones.unshift({ a: st.a, b: st.b, ma: AUTOS[st.a].marca + ' ' + AUTOS[st.a].modelo, mb: AUTOS[st.b].marca + ' ' + AUTOS[st.b].modelo, modo: st.modo, eng: st.eng, plazo: st.plazo, fecha: new Date().toISOString().slice(0, 10) }); g.comparaciones = g.comparaciones.slice(0, 12); localStorage.setItem('cm-garage', JSON.stringify(g)); } catch (e) {} });
-  if ($('b-ficha')) $('b-ficha').addEventListener('click', function (e) { e.preventDefault(); location.href = AUTOS[st.a].ficha; });
+  $('save-top').addEventListener('click', function () { track('comparar_guardar', cmpEv()); try { localStorage.setItem('cm-cmp', JSON.stringify(st)); var g = JSON.parse(localStorage.getItem('cm-garage') || '{}'); g.comparaciones = (g.comparaciones || []).filter(function (c) { return !(c.a === st.a && c.b === st.b); }); g.comparaciones.unshift({ a: st.a, b: st.b, ma: AUTOS[st.a].marca + ' ' + AUTOS[st.a].modelo, mb: AUTOS[st.b].marca + ' ' + AUTOS[st.b].modelo, modo: st.modo, eng: st.eng, plazo: st.plazo, fecha: new Date().toISOString().slice(0, 10) }); g.comparaciones = g.comparaciones.slice(0, 12); localStorage.setItem('cm-garage', JSON.stringify(g)); } catch (e) {} });
+  if ($('b-ficha')) $('b-ficha').addEventListener('click', function (e) { e.preventDefault(); track('comparar_ver_ficha', cmpEv()); location.href = AUTOS[st.a].ficha; });
   addEventListener('resize', function () { chart(calc(st.a), calc(st.b)); });
 
 
