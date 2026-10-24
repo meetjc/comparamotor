@@ -1,0 +1,35 @@
+{
+  "estado": "Guerrero",
+  "slug": "guerrero",
+  "programa": "Guerrero no tiene programa de verificación vehicular. La tabla oficial de SEMARNAT (datos reportados por los gobiernos locales, mayo-agosto 2026) marca PVV: No.",
+  "obligatoria": false,
+  "calendario": {
+    "fundamento": "Sin programa estatal de verificación vehicular obligatoria para autos particulares.",
+    "nota": "Un auto con placas de Guerrero que circule en CDMX o Edomex debe cumplir las reglas de esos programas."
+  },
+  "costo2026": {
+    "gasolinaOGas": null,
+    "diesel": null,
+    "moneda": "MXN",
+    "descuentos": "No aplica.",
+    "confiabilidad": "Oficial: SEMARNAT, tabla PVV 2026."
+  },
+  "sancion": null,
+  "portalCita": null,
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png (datos de gobiernos locales, mayo-agosto 2026)",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "No se buscó un programa municipal (p. ej. Acapulco); la tabla de SEMARNAT es estatal."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "estado": "Morelos",
+  "slug": "morelos",
+  "programa": "Programa de Verificación Vehicular Obligatoria para el Estado de Morelos (Decreto publicado en el Periódico Oficial 5775, 24-ene-2020; Secretaría de Desarrollo Sustentable). Verificentros en Cuernavaca, Cuautla y otros municipios.",
+  "obligatoria": true,
+  "calendario": {
+    "fundamento": "Decreto del programa (texto de Marco Jurídico): verificación cada semestre por engomado y último dígito de placa, salvo hologramas «00». Vehículos nuevos o recién registrados: 180 días naturales para verificar.",
+    "semestral": {
+      "aplicaA": "Vehículos particulares, dos verificaciones al año salvo holograma «00».",
+      "porUltimoDigitoDePlaca": {
+        "5-6 (amarillo)": "enero-febrero y julio-agosto",
+        "7-8 (rosa)": "febrero-marzo y agosto-septiembre",
+        "3-4 (rojo)": "marzo-abril y septiembre-octubre",
+        "1-2 (verde)": "abril-mayo y octubre-noviembre",
+        "9-0 y permisos (azul)": "mayo-junio y noviembre-diciembre"
+      }
+    },
+    "nota": "El calendario es el del decreto de 2020; la página de Marco Jurídico indica una reforma posterior (19-may-2026, sin texto obtenido). Prensa de abril-mayo de 2026 reporta placas 1-2 verificando abril-mayo, consistente con este calendario."
+  },
+  "costo2026": {
+    "gasolinaOGas": null,
+    "diesel": null,
+    "moneda": "MXN",
+    "descuentos": null,
+    "confiabilidad": "Sin dato. La página oficial de citas dice que el trámite requiere pago pero no da el monto."
+  },
+  "sancion": null,
+  "portalCita": "https://citas.morelos.gob.mx/tramite/73",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png (datos de gobiernos locales, mayo-agosto 2026)",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Decreto por el que se expide el Programa de Verificación Vehicular Obligatoria para el Estado de Morelos (Marco Jurídico)",
+      "url": "https://marcojuridico.morelos.gob.mx/documentos/2050/download",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Citas Morelos: Verificación Vehicular (Secretaría de Desarrollo Sustentable)",
+      "url": "https://citas.morelos.gob.mx/tramite/73",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "Costo 2026 de la verificación: no se encontró en fuente oficial. La prensa menciona $628, sin verificar.",
+    "Multa por no verificar: el decreto de 2020 remite a la Procuraduría; monto en UMA no extraído.",
+    "Texto vigente del programa (reforma del 19-may-2026) no obtenido; calendario tomado del decreto de 2020.",
+    "El decreto y la prensa no coinciden en el mes de los dígitos 1-2 en mayo 2026; se usa el calendario del decreto."
+  ]
+}

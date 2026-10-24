@@ -1,0 +1,48 @@
+{
+  "estado": "Guerrero",
+  "slug": "guerrero",
+  "cobraTenencia2026": true,
+  "tenencia": "Sí. Guerrero mantiene el Impuesto Sobre Tenencia o Uso de Vehículos (Ley Número 419 de Hacienda del Estado, Título Primero, Capítulo X, arts. 65 a 76). La Ley de Ingresos 2026 (Ley 468) lo estima en $203,930,900. Se paga mediante declaración en los primeros tres meses del año, salvo vehículos que se inscriben por primera vez: se calcula y paga al solicitar la inscripción o dentro de 30 días de la adquisición (art. 73, según el Acuerdo de estímulos publicado el 18-oct-2024). El cálculo depende del precio de factura y del modelo; el portal oficial lo calcula por número de serie y placa.",
+  "refrendo": {
+    "nombreLocal": "Derechos por servicios de control vehicular (refrendo anual de tarjeta de circulación)",
+    "monto2026": null,
+    "moneda": "MXN",
+    "detalle": "La tarifa está en el art. 105 de la Ley 419 de Hacienda (fracción II, refrendo anual). No se obtuvo el monto 2026 en fuente oficial. El portal de pago calcula el total por vehículo."
+  },
+  "fechaLimite": "Primeros tres meses del año (hasta el 31 de marzo de 2026) para tenencia y canje de placas, según los arts. 73 y 88 de la Ley 419 citados en el Periódico Oficial. Vehículos nuevos: al inscribirse o dentro de 30 días.",
+  "descuentos": [
+    "Descuento por pronto pago en tenencia y derechos de control vehicular, particular y público: 10% si se paga en enero, 8% en febrero, 5% en marzo de 2026 (Ley de Ingresos 2026, art. 19; confirmado en boletín del Gobierno del Estado del 9-ene-2026).",
+    "35% en tenencia y 30% en derechos estatales para adultos mayores de 60 años beneficiarios de la «Tarjeta Dorada» (exposición de motivos de la Ley de Ingresos 2026).",
+    "Estímulo en recargos y actualizaciones de tenencia para vehículos particulares y públicos (se otorga por acuerdo del Ejecutivo; condiciones no verificadas)."
+  ],
+  "portalPago": "https://esefina.ingresos-guerrero.gob.mx/Tenencia/ModuloExterno/",
+  "fuentes": [
+    {
+      "nombre": "Ley Número 468 de Ingresos del Estado de Guerrero para el Ejercicio Fiscal 2026 (Congreso del Estado)",
+      "url": "https://congresogro.gob.mx/legislacion/leyes-ingresos/2026/ley-numero-468-de-ingresos-del-estado-de-guerrero-para-el-ejercicio-fiscal-2026-f915e.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Acuerdo de estímulos fiscales, Periódico Oficial Guerrero 18-oct-2024 (cita arts. 65-76, 73 y 105 de la Ley 419)",
+      "url": "https://periodicooficial.guerrero.gob.mx/wp-content/uploads/2024/10/P.O-84-ALCANCE-III-18-OCT-2024.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Gobierno de Guerrero: estímulo fiscal en tenencia vehicular 2026 (9-ene-2026)",
+      "url": "https://www.guerrero.gob.mx/2026/01/gobierno-de-guerrero-ofrece-estimulo-fiscal-en-tenencia-vehicular-2026/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Portal oficial de pago de tenencia y derechos vehiculares (Secretaría de Finanzas y Administración)",
+      "url": "https://esefina.ingresos-guerrero.gob.mx/Tenencia/ModuloExterno/",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "Monto del refrendo 2026 (art. 105 de la Ley 419 de Hacienda): no se obtuvo el texto vigente de la ley.",
+    "Tasa o tarifa de la tenencia (arts. 65-76 de la Ley 419): no se obtuvo el texto vigente.",
+    "La página de inicio del Gobierno del Estado anuncia una ampliación de estímulos fiscales hasta el 11 de diciembre de 2026 (resumen de buscador); no se confirmó si cubre tenencia y refrendo ni cuándo se publicó.",
+    "Condiciones del acuerdo de estímulos 2026 para recargos y actualizaciones: no localizado."
+  ]
+}

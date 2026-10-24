@@ -1,0 +1,73 @@
+{
+  "estado": "Michoacán",
+  "slug": "michoacan",
+  "programa": "Programa de Verificación Vehicular del Estado de Michoacán (Secretaría del Medio Ambiente, SECMA). El programa publicado en el Periódico Oficial del 17-ene-2025 (8a. sección) establece verificación vehicular voluntaria. SEMARNAT la clasifica como voluntaria.",
+  "obligatoria": false,
+  "calendario": {
+    "fundamento": "No hay verificación obligatoria para autos particulares. El programa ofrece dos opciones voluntarias: holograma «Local» (anual, válido solo en Michoacán) y verificación homologada (hologramas 2, 1, 0 y 00, semestral, reconocida en CDMX y Edomex).",
+    "anual": {
+      "aplicaA": "Holograma Local (voluntario), periodos de cuatro meses por último dígito de placa (programa 2025).",
+      "porUltimoDigitoDePlaca": {
+        "5-6": "enero a abril",
+        "7-8": "marzo a junio",
+        "3-4": "mayo a agosto",
+        "1-2": "julio a octubre",
+        "9-0": "septiembre a diciembre"
+      }
+    },
+    "semestral": {
+      "aplicaA": "Verificación homologada (hologramas 2, 1, 0 y 00), voluntaria para circular en CDMX y Edomex.",
+      "porUltimoDigitoDePlaca": {
+        "5-6": "enero-febrero y julio-agosto",
+        "7-8": "febrero-marzo y agosto-septiembre",
+        "3-4": "marzo-abril y septiembre-octubre",
+        "1-2": "abril-mayo y octubre-noviembre",
+        "9-0": "mayo-junio y noviembre-diciembre"
+      }
+    },
+    "nota": "Calendarios del programa 2025 (el sitio oficial aún muestra «Programa 2025»). El programa 2026 no se localizó."
+  },
+  "costo2026": {
+    "gasolinaOGas": null,
+    "diesel": null,
+    "moneda": "MXN",
+    "descuentos": "Tarifas del programa 2025 en UMA: holograma Local 3 UMA; homologada: hologramas 2 y 1, 4 UMA; 0, 5 UMA; 00, 10 UMA; constancia de rechazo, 1 UMA. Incentivos por verificar pronto en el periodo: 15% el primer mes, 10% el segundo, 5% el tercero.",
+    "confiabilidad": "Oficial pero de 2025: Periódico Oficial 17-ene-2025. No se confirmó la tarifa 2026 en pesos ni el programa 2026."
+  },
+  "sancion": null,
+  "portalCita": "https://michoacan.gob.mx/verificacion-vehicular/",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png (datos de gobiernos locales, mayo-agosto 2026)",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Programa de Verificación Vehicular 2025, Periódico Oficial de Michoacán, 17-ene-2025, 8a. sección",
+      "url": "https://michoacan.gob.mx/wp-content/uploads/2025/03/PROGRAMA-DE-VERIFICACION-2025.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Gobierno de Michoacán: Verificación Vehicular (calendario, centros, incentivos)",
+      "url": "https://michoacan.gob.mx/verificacion-vehicular/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ley de Ingresos de Michoacán 2026, art. 42 (derechos por suministro de hologramas)",
+      "url": "https://satmich.michoacan.gob.mx/archivos_pdf/LEY_INGRESOS_2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "Tarifa en pesos de 2026 y programa de verificación 2026: no localizados. El sitio oficial muestra tarifas de 2025 con UMA de $113.14.",
+    "No se encontró sanción por no verificar, porque la verificación es voluntaria; el programa menciona sanciones para vehículos ostensiblemente contaminantes sin cifra consultada.",
+    "No hay un portal de citas único: se contacta a SECMA (verificacion.vehicular@michoacan.gob.mx) o al centro autorizado.",
+    "La cifra de $223 del holograma exento proviene de la Ley de Ingresos (suministro a centros y SECMA); falta confirmar a quién se cobra."
+  ]
+}

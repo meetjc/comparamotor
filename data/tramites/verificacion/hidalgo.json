@@ -1,0 +1,73 @@
+{
+  "estado": "Hidalgo",
+  "slug": "hidalgo",
+  "programa": "Programa de Verificación Vehicular Obligatorio, por semestre (Secretaría de Medio Ambiente y Recursos Naturales de Hidalgo, Semarnath). Acuerdos de primer semestre (Periódico Oficial, alcance 25, 31-dic-2025) y de segundo semestre de 2026 (alcance uno, 30-jun-2026).",
+  "obligatoria": true,
+  "calendario": {
+    "fundamento": "Programa de Verificación Vehicular Obligatorio para el segundo semestre de 2026, numeral 3.1: la prueba se hace según el último dígito de la placa; son dos verificaciones al año para hologramas 0, 1 y 2.",
+    "semestral": {
+      "aplicaA": "Vehículos con holograma 0, 1 y 2 (dos periodos por año).",
+      "porUltimoDigitoDePlaca": {
+        "5-6 (engomado amarillo)": "enero-febrero y julio-agosto",
+        "7-8 (rosa)": "febrero-marzo y agosto-septiembre",
+        "3-4 (rojo)": "marzo-abril y septiembre-octubre",
+        "1-2 (verde)": "abril-mayo y octubre-noviembre",
+        "9-0 (azul)": "mayo-junio y noviembre-diciembre"
+      }
+    },
+    "nota": "El holograma 00 dura 2 años desde la factura. El calendario viene de una imagen del Periódico Oficial del 30-jun-2026 (alcance uno). La Semarnath puede ampliar periodos por comunicado."
+  },
+  "costo2026": {
+    "gasolinaOGas": 494,
+    "diesel": null,
+    "moneda": "MXN",
+    "descuentos": "Tarifas oficiales en UMA: holograma Exento 2 UMA; 1 y 2: 4.21 UMA; 0: 6.06 UMA; 00: 12.12 UMA. Con UMA 2026 de $117.31 (INEGI) son $235, $494, $711 y $1,422 (redondeo al entero, regla 2.2 del programa). Existe un subsidio estatal del 60% al pago de la verificación (Reglas de Operación 2026 del Programa de Subsidio, Secretaría de Bienestar); condiciones no verificadas.",
+    "confiabilidad": "Tarifa en UMA: oficial (Periódico Oficial 30-jun-2026). Pesos: cálculo UMA × tarifa; prensa reporta $494 y $235 con UMA 2026."
+  },
+  "sancion": "Multa por verificar fuera de periodo: 7.5 UMA si lleva de 1 día a 6 meses sin verificar; 15 UMA si lleva más de 6 meses (tabla 3.3 del programa). Con UMA 2026 de $117.31 serían $879.83 y $1,759.65 (cálculo). Operativos «Aire Limpio» de la Procuraduría Estatal de Protección al Ambiente.",
+  "portalCita": "https://verificacionvehicular.hidalgo.gob.mx/",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png (datos de gobiernos locales, mayo-agosto 2026)",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "INEGI: valor de la UMA 2026 ($117.31 diaria, vigente desde el 1 de febrero de 2026)",
+      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/uma/uma2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Periódico Oficial de Hidalgo, 30-jun-2026, alcance uno: Programa de Verificación Vehicular Obligatorio, segundo semestre 2026 (calendario, tarifas en UMA, multas)",
+      "url": "https://periodico.hidalgo.gob.mx/POEHpdfpublic/2026_jun_30_alc1_26.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Periódico Oficial de Hidalgo: índice «Verificación vehicular 2026» (primer y segundo semestre)",
+      "url": "https://periodico.hidalgo.gob.mx/?page_id=149403",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Reglas de Operación 2026 del Programa de Subsidio al Servicio de Verificación Vehicular (validación, Bienestar)",
+      "url": "https://sair.hidalgo.gob.mx/Documentos/Formatos/0-Programa%20de%20Subsidio%20al%20Servicio%20Verificaci%C3%B3n%20Vehicular.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ley de Ingresos de Hidalgo 2026: refrendo menor si se pagó la verificación del primer semestre",
+      "url": "https://portaltributario.hidalgo.gob.mx/assets/pdf/2026%20Ley%20de%20Ingresos.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "Programa del primer semestre 2026 (alcance 25, 31-dic-2025) no leído; se tomó el del segundo semestre, que tiene la misma estructura.",
+    "Subsidio del 60%: el texto de las Reglas de Operación se extrajo mal; falta confirmar quién califica.",
+    "El portal de citas es una aplicación web que no se pudo leer; confirmar que ahí se agenda.",
+    "Costo en pesos del diésel: depende del holograma; no se calculó por tipo de motor."
+  ]
+}

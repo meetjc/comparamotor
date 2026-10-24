@@ -1,0 +1,78 @@
+{
+  "estado": "Guanajuato",
+  "slug": "guanajuato",
+  "programa": "Programa Estatal de Verificación Vehicular (Secretaría del Agua y Medio Ambiente, SAMA). Acuerdo Secretarial 18/2023 que expide el programa 2024, publicado en el Periódico Oficial del 31-dic-2023. 130 centros autorizados en 34 municipios y 3 verificentros (León, Celaya, Irapuato).",
+  "obligatoria": true,
+  "calendario": {
+    "fundamento": "Calendario oficial de la SAMA: dos verificaciones al año por último dígito de placa. Obligan a todo vehículo a gasolina, diésel, gas LP o gas natural registrado o en circulación en el estado. Exentos: placa de auto antiguo y motocicletas.",
+    "semestral": {
+      "aplicaA": "Todos los vehículos obligados, sin importar el uso.",
+      "porUltimoDigitoDePlaca": {
+        "5-6": "enero-febrero y julio-agosto",
+        "7-8": "febrero-marzo y agosto-septiembre",
+        "3-4": "marzo-abril y septiembre-octubre",
+        "1-2": "abril-mayo y octubre-noviembre",
+        "9-0": "mayo-junio y noviembre-diciembre"
+      }
+    },
+    "nota": "Boletín oficial del 20-may-2026 confirma que en mayo verifican las placas 1-2, 9 y 0 del primer semestre. Vigencia de la constancia: semestral (holograma 2 años solo para «00»). El holograma estatal «00, 0, 1 y 2» está reconocido en CDMX y Edomex."
+  },
+  "costo2026": {
+    "gasolinaOGas": 375,
+    "diesel": 375,
+    "moneda": "MXN",
+    "descuentos": "Constancia y distintivo «Usual»: $375 con IVA incluido. Reposición del documento: $102. Hologramas 00, 0, 1 y 2 (verificación o rechazo): $610 con IVA incluido; reposición $128. La constancia de rechazo permite una segunda prueba sin costo dentro del plazo de la terminación de placa.",
+    "confiabilidad": "Oficial: páginas de costos vigentes de la SAMA (distintivo usual y verificación 00, 0, 1 y 2). No se vio el acuerdo de tarifas en el Periódico Oficial."
+  },
+  "sancion": null,
+  "portalCita": "https://verifica.guanajuato.gob.mx/",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png (datos de gobiernos locales, mayo-agosto 2026)",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SAMA Guanajuato: Verificación Vehicular (calendario por terminación de placa, vehículos obligados)",
+      "url": "https://sama.guanajuato.gob.mx/verificacion-vehicular/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SAMA: Distintivo Usual, costos vigentes ($375 y reposición $102)",
+      "url": "https://sama.guanajuato.gob.mx/verificacion-vehicular/distintivo-usual",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SAMA: Verificación Doble Cero, Cero, Uno y Dos (costo $610)",
+      "url": "https://sama.guanajuato.gob.mx/verificacion-vehicular/verificacion-doble-cero",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Boletín 20-may-2026: Programa Estatal de Verificación Vehicular, centros y calendario del primer semestre",
+      "url": "https://boletines.guanajuato.gob.mx/2026/05/20/promueve-secretaria-del-agua-y-medio-ambiente-programa-estatal-de-verificacion-vehicular/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Programa Estatal de Verificación Vehicular (Periódico Oficial, 31-dic-2023, PDF escaneado)",
+      "url": "https://app.ecologiagto.mx/servicios/archivo.php?id=1153",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Sistema de citas y preguntas frecuentes (SAMA)",
+      "url": "https://verifica.guanajuato.gob.mx/preguntas-frecuentes/",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "Sanción por no verificar: no se obtuvo en fuente oficial (la FAQ remite a la tesorería o tránsito municipal; el PDF del programa es imagen escaneada).",
+    "El programa publicado es el de 2024 (POE 31-dic-2023); no se localizó el de 2026 en el Periódico Oficial.",
+    "La cita se agenda directamente en el centro o verificentro; la página de citas solo lista centros.",
+    "La FAQ de citas habla de enero-febrero o abril-mayo y julio-agosto u octubre-noviembre; el calendario por dígito de la SAMA es el que se usa aquí."
+  ]
+}

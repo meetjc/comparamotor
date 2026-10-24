@@ -1,0 +1,47 @@
+{
+  "estado": "Guanajuato",
+  "slug": "guanajuato",
+  "cobraTenencia2026": true,
+  "tenencia": "Sí, pero solo para vehículos de valor alto. La Secretaría de Finanzas la llama «Impuesto Sobre Tenencia o Uso de Vehículos» (el simulador oficial la titula «Impuesto sobre vehículos de lujo 2026»; Ley de Hacienda para el Estado de Guanajuato, art. 69). Aplica a modelo 2017 o posterior con valor factura con IVA superior a $522,000 (monto exento: $450,000 sin IVA). Sobre la diferencia se aplica 3% (hasta $450,000), 4% (hasta $900,000), 5% (hasta $1,350,000) y 6% (más). Se multiplica por un porcentaje por año modelo (2026: 100%, 2025: 90%, 2024: 80%, y así hasta 2017: 10%). Para vehículos comprados en 2026 después de enero hay un factor por mes de compra (febrero 0.92, marzo 0.83 ... diciembre 0.08). Vehículo nuevo: se paga y se da de alta en 10 días hábiles desde la fecha de la factura. Vehículo ya registrado: se paga junto con el refrendo.",
+  "refrendo": {
+    "nombreLocal": "Refrendo vehicular (derechos de control vehicular)",
+    "monto2026": 940,
+    "moneda": "MXN",
+    "detalle": "Refrendo 2026: $940 por vehículo y $200 por motocicleta (FAQ del simulador oficial de Finanzas). Placas y tarjeta de circulación de un vehículo nuevo: $1,473 para autos y $400 para motos. Con tarjeta de crédito VISA o Master Card, pagos mayores a $1,000 pueden diferirse a 6 meses sin intereses."
+  },
+  "fechaLimite": "Del 1 de enero al 31 de marzo de 2026 (Secretaría de Finanzas y SATEG). El 2 de abril de 2026 el Gobierno del Estado dio una facilidad: pago sin multa por extemporaneidad hasta el 9 de abril de 2026. Vehículo nuevo: 10 días hábiles desde la factura.",
+  "descuentos": [
+    "No se encontró un descuento por pronto pago en fuente oficial para 2026.",
+    "Sorteo «Ganas Porque Cumples» del SATEG para quien pagó el refrendo antes del 31 de marzo de 2026 (premios en efectivo y autos; no es descuento)."
+  ],
+  "portalPago": "https://refrendo.guanajuato.gob.mx/",
+  "fuentes": [
+    {
+      "nombre": "Secretaría de Finanzas: simulador y preguntas frecuentes, Impuesto sobre vehículos de lujo 2026 (tasas, factores, refrendo $940, plazo)",
+      "url": "https://finanzas.guanajuato.gob.mx/c_calculadora/index.php",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Portal de pago: Refrendo Vehicular - Tenencia y Refrendo (Secretaría de Finanzas)",
+      "url": "https://refrendo.guanajuato.gob.mx/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Boletín 2-abr-2026: facilidad para pagar el refrendo sin multas hasta el 9 de abril",
+      "url": "https://boletines.guanajuato.gob.mx/2026/04/02/en-apoyo-a-la-economia-de-las-familias-la-gobernadora-libia-dennise-anuncia-facilidades-para-el-pago-del-refrendo-sin-multas/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Boletín 9-feb-2026: SATEG, pago antes del 31 de marzo de 2026",
+      "url": "https://boletines.guanajuato.gob.mx/2026/02/09/sateg-recompensa-a-los-cumplidos/",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "No se obtuvo el texto de la Ley de Ingresos 2026 ni de la Ley de Hacienda en el Periódico Oficial; las cifras vienen del simulador oficial de la Secretaría de Finanzas.",
+    "Monto exento: el simulador dice $450,000 sin IVA y la FAQ dice $522,000 con IVA. Son la misma cifra (IVA 16%); confirmar en el art. 69 de la Ley de Hacienda.",
+    "Los $1,473 de placas y el factor por mes salen del simulador; falta la tarifa en la Ley de Ingresos.",
+    "Descuentos por pronto pago 2026: ninguno confirmado."
+  ]
+}

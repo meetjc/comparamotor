@@ -1,0 +1,57 @@
+{
+  "estado": "Morelos",
+  "slug": "morelos",
+  "cobraTenencia2026": true,
+  "tenencia": "Sí existe y se cobra a quien no cumple a tiempo. La Ley General de Hacienda del Estado de Morelos tiene el Impuesto sobre Tenencia o Uso de Vehículos (Capítulo Primero Bis, arts. 7 BIS-1 a 7 BIS-15), adicionado por el Decreto 24 (Periódico Oficial 6382, 31-dic-2024, vigente desde el 1-ene-2025). Se causa cada año y se paga dentro de los primeros cinco meses junto con los derechos de control vehicular; vehículo nuevo: dentro de 30 días de la adquisición. Autos nuevos de hasta 15 pasajeros: cuota fija más tasa sobre el excedente, de 0% hasta $300,000 a 4% sobre más de $1,000,000 (art. 7 BIS-7). Subsidio: según la Secretaría de Hacienda (17-ene-2025), la tenencia solo se cobra a quien no pague el refrendo en los primeros cinco meses. Para 2026 el programa oficial para vehículos de otras entidades da 100% de subsidio en tenencia (pagos hasta el 31 de mayo de 2026). El acuerdo general de subsidio 2026 no se localizó.",
+  "refrendo": {
+    "nombreLocal": "Refrendo anual de los derechos de control vehicular",
+    "monto2026": null,
+    "moneda": "MXN",
+    "detalle": "Auto particular: 7.5 UMA (nota oficial de la Secretaría de Hacienda, 17-ene-2025: «7.5 UMA»). Con la UMA 2026 de $117.31 serían $879.83 (cálculo; la prensa reporta $879.82). Transporte público: 6.5 UMA más canje de tarjetón. No se confirmó el monto 2026 en la Ley de Ingresos."
+  },
+  "fechaLimite": "Primeros cinco meses del año, hasta el 31 de mayo de 2026 (arts. 7 BIS-5 y 84 BIS de la Ley General de Hacienda). Después se cobra la tenencia a quien no pagó el refrendo.",
+  "descuentos": [
+    "Programa 2026 para vehículos de otras entidades que circulan en Morelos (marzo a mayo de 2026, vigente hasta el 31 de mayo): 100% de subsidio en tenencia, 50% en el refrendo de modelos 2020 y anteriores, 100% de condonación de multas, actualizaciones y recargos, y descuento de 50% o 75% en el impuesto de adquisición de vehículos usados (ISAV) según modelo.",
+    "Condonación de multas de 2024 y anteriores fue de 2025 (ya venció)."
+  ],
+  "portalPago": "https://hacienda.morelos.gob.mx/",
+  "fuentes": [
+    {
+      "nombre": "Ley General de Hacienda del Estado de Morelos (texto vigente, última reforma 03-02-2026), Capítulo Primero Bis: tenencia",
+      "url": "https://marcojuridico.morelos.gob.mx/documentos/2823/download",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Gobierno de Morelos, 17-ene-2025: refrendo 7.5 UMA y tenencia solo para quien no paga en cinco meses",
+      "url": "https://www.morelos.gob.mx/ultimas-noticias/sin-modificaciones-ni-aumentos-en-las-obligaciones-relacionadas-con-la-propiedad-de-vehiculos-gobierno-de-morelos",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Gobierno de Morelos: Subsidios 2026, Coordinación General de Movilidad y Transporte (vehículos de otras entidades)",
+      "url": "https://www.morelos.gob.mx/informacion-de-interes/subsidios-2026-coordinacion-general-de-movilidad-y-transporte",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Gobierno de Morelos, 12-mar-2026: programa de regularización de vehículos de otras entidades",
+      "url": "https://www.morelos.gob.mx/ultimas-noticias/impulsa-coordinacion-general-de-movilidad-y-transporte-programa-para-regularizar-vehiculos-de-otras-entidades",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "INEGI: valor de la UMA 2026 ($117.31 diaria, vigente desde el 1 de febrero de 2026)",
+      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/uma/uma2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "adn40: Morelos, tenencia 2026 y refrendo de $879.82 para autos particulares",
+      "url": "https://www.adn40.mx/tramites/2026-04-26/ni-queretaro-ni-guanajuato-morelos-es-el-estado-donde-aun-puedes-evitar-la-tenencia-2026-si-cumples-este-requisito/",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "No se obtuvo la Ley de Ingresos 2026 de Morelos (Periódico Oficial 6502, 16-dic-2025, quinta sección, pág. 98): el monto del refrendo 2026 queda sin confirmar en la ley.",
+    "No se localizó el acuerdo general de subsidio de tenencia 2026 para vehículos de Morelos; solo el de vehículos de otras entidades.",
+    "Texto de la Ley General de Hacienda: la versión consultada incluye historial de reformas; los artículos 84 y 84 BIS (tarifas) no se pudieron aislar.",
+    "Un vehículo nuevo comprado después del 31 de mayo de 2026 paga la tenencia en 30 días: tarifa por valor del auto en art. 7 BIS-7."
+  ]
+}

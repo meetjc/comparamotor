@@ -1,0 +1,43 @@
+{
+  "estado": "Jalisco",
+  "slug": "jalisco",
+  "cobraTenencia2026": false,
+  "tenencia": "No se cobra. La Ley de Ingresos del Estado de Jalisco 2026 (Decreto 30121/LXIV/25) solo incluye «Tenencia o Uso de Vehículos (de años anteriores)» con estimación de $0. En 2026 el pago anual de un auto particular es el refrendo.",
+  "refrendo": {
+    "nombreLocal": "Refrendo anual y tarjeta de circulación de PVC con código QR",
+    "monto2026": 1000,
+    "moneda": "MXN",
+    "detalle": "Ley de Ingresos 2026, art. 23 fracc. III: $1,000 para automóviles, camiones, camionetas, tractores automotores y remolques, de servicio particular y público. Motocicletas (fracc. III Bis): $600. Placas de demostración: $1,988. La misma ley prevé $100 que se pagan con el refrendo ($40 Cruz Roja Mexicana y $60 Hogar Cabañas). El portal oficial anuncia $1,000 y moto $600. Dotación o canje de placas de auto particular: $2,502 (fracc. I)."
+  },
+  "fechaLimite": "Del 2 de enero al último día hábil de marzo de 2026 (Ley de Ingresos 2026, art. 23 fracc. III Bis). La prórroga de canje de placas sin costo fue del 2 de enero al 31 de marzo de 2026.",
+  "descuentos": [
+    "5% de descuento si se pagó por Internet del 1 de enero al último día de febrero de 2026 (Ley de Ingresos 2026, art. 23).",
+    "Hasta 60% de descuento en multas y recargos (portal oficial del refrendo 2026; fundamento y vigencia no verificados).",
+    "Verificación vehicular gratuita en 2026 para quien pague el refrendo (portal oficial)."
+  ],
+  "portalPago": "https://gobiernoenlinea1.jalisco.gob.mx/serviciosVehiculares/",
+  "fuentes": [
+    {
+      "nombre": "Ley de Ingresos del Estado de Jalisco para el Ejercicio Fiscal 2026 (Congreso del Estado, Decreto 30121/LXIV/25)",
+      "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/Ingresos/Documentos_PDF-Ingresos/Ley%20de%20Ingresos%20del%20Estado%20de%20Jalisco-240226.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Refrendo y Verificación Increíble 2026 (Gobierno de Jalisco)",
+      "url": "https://refrendo.jalisco.gob.mx/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Portal de pago de servicios vehiculares (Hacienda Jalisco)",
+      "url": "https://gobiernoenlinea1.jalisco.gob.mx/serviciosVehiculares/",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "No se consultó la Ley de Hacienda del Estado para citar la derogación de la tenencia; la conclusión viene de la Ley de Ingresos 2026 ($0 solo de años anteriores).",
+    "Los $100 (Cruz Roja y Hogar Cabañas): la ley los menciona junto al refrendo; el portal anuncia $1,000 y la prensa suma $1,100. Confirmar el total en la línea de captura.",
+    "Descuento de hasta 60% en multas y recargos: sin norma ni fecha de término confirmadas.",
+    "Plazo posterior al 31 de marzo de 2026: no se consultó recargo ni multa."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "estado": "Hidalgo",
+  "slug": "hidalgo",
+  "cobraTenencia2026": null,
+  "tenencia": "El Impuesto sobre Tenencia o Uso de Vehículos existe en la Ley de Hacienda del Estado, pero en 2026 está exceptuado para quien cubra el refrendo dentro del programa «Circula Seguro» (2 de enero al 30 de junio de 2026; Ley de Ingresos 2026, art. 11, y Reglas de Control Vehicular 2026, regla 1.2.2). Aplica a vehículos de transporte privado, motocicletas, remolques y vehículos para personas con discapacidad inscritos en el Registro Vehicular Estatal. Quien debe años anteriores paga el impuesto de 2025 y anteriores con descuento (2021: 80%, 2022: 60%, 2023: 40%, 2024: 20%, 2025: 10%). Qué pasa con el impuesto después del 30 de junio de 2026 no se encontró en fuente oficial.",
+  "refrendo": {
+    "nombreLocal": "Refrendo de datos al Registro Vehicular Estatal (Programa «Circula Seguro»)",
+    "monto2026": 1177,
+    "moneda": "MXN",
+    "detalle": "Auto, camión o autobús de uso privado: 10.4 UMA = $1,177 si no se pagó antes la verificación del primer semestre; 9.28 UMA = $1,050 si se pagó antes la verificación del primer semestre de 2026. Las Reglas fijan la UMA en $113.14 para estos cálculos. Motocicleta o remolque: 7.26 UMA. Vehículo para personas con discapacidad: 5.2 UMA. Incluye seguro de responsabilidad civil de $150,000 y seguro de vida de $50,000 para el conductor."
+  },
+  "fechaLimite": "30 de junio de 2026 (vigencia del programa «Circula Seguro»). Después de esa fecha no se localizó el monto en fuente oficial.",
+  "descuentos": [
+    "Pago previo de verificación del primer semestre de 2026: refrendo de 9.28 UMA en lugar de 10.4 UMA (descuento de 1.12 UMA).",
+    "Exención del impuesto sobre tenencia 2026 si se cumple con el refrendo dentro del programa.",
+    "Adeudos de ejercicios anteriores: descuento de 80% (2021), 60% (2022), 40% (2023), 20% (2024) y 10% (2025) en tenencia y refrendo.",
+    "Seguro de responsabilidad civil de $150,000 (deducible de 66 UMA) y seguro de vida de $50,000."
+  ],
+  "portalPago": "https://portaltributario.hidalgo.gob.mx/impuesto-sobre-tenencia-o-usos-de-veh%C3%ADculos.html",
+  "fuentes": [
+    {
+      "nombre": "Ley de Ingresos del Estado de Hidalgo para el Ejercicio Fiscal 2026, art. 11 (Periódico Oficial, alcance uno, 31-dic-2025)",
+      "url": "https://portaltributario.hidalgo.gob.mx/assets/pdf/2026%20Ley%20de%20Ingresos.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Reglas de Carácter General en Materia de Control Vehicular 2026 y Lineamientos «Circula Seguro»",
+      "url": "https://portaltributario.hidalgo.gob.mx/assets/pdf/2026%20Reglas%20de%20Car%C3%A1cter%20General%20en%20Materia%20de%20Control%20Vehicular%20para%20el%20Ejercicio%20Fiscal%202026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Portal Tributario de Hidalgo: información sobre tenencia y refrendo 2026",
+      "url": "https://portaltributario.hidalgo.gob.mx/informacion-sobre-tenencia-y-refrendo-2026.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Criterio Hidalgo: refrendo $1,050 con verificación del primer semestre y $1,177 sin ella",
+      "url": "https://criteriohidalgo.com/noticias/hidalgo/hidalgo-estos-son-los-beneficios-para-el-refrendo-vehicular-que-continuaran-en-2026",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "Monto del refrendo y estado de la tenencia después del 30 de junio de 2026: sin fuente oficial.",
+    "La Ley de Hacienda del Estado (tarifa de tenencia) no se consultó.",
+    "Los pesos ($1,050 y $1,177) salen de multiplicar las UMA por $113.14, método fijado en el transitorio TERCERO de las Reglas; coinciden con la prensa.",
+    "cobraTenencia2026 queda en null: el impuesto existe pero estuvo exceptuado dentro del programa; falta saber su aplicación fuera de él."
+  ]
+}

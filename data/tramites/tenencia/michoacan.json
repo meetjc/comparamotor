@@ -1,0 +1,50 @@
+{
+  "estado": "Michoacán",
+  "slug": "michoacan",
+  "cobraTenencia2026": false,
+  "tenencia": "No se cobra. La Ley de Hacienda del Estado de Michoacán (Decreto 120, publicado el 27-dic-2021, última reforma 20-dic-2023) no contiene impuesto sobre tenencia entre sus impuestos. La Ley de Ingresos 2026 (Decreto 385) solo lista «Impuesto Sobre Tenencia o Uso de Vehículos» entre los impuestos de ejercicios anteriores pendientes de pago, sin monto. En 2026 el pago anual es el refrendo.",
+  "refrendo": {
+    "nombreLocal": "Refrendo anual de circulación",
+    "monto2026": 1256,
+    "moneda": "MXN",
+    "detalle": "Ley de Ingresos 2026, art. 20 fracc. II: $1,256 para autobuses, camiones, camionetas, automóviles y pipas; $626 para vehículos adaptados para personas con discapacidad; $632 remolques; $401 motocicletas; $1,433 placas de demostración. Dotación de placas de un auto: $2,260 (fracc. I)."
+  },
+  "fechaLimite": "Primeros cuatro meses del año, hasta el 30 de abril de 2026 (SATMICH, con base en la Ley de Ingresos). Después se cobran multa y recargos conforme al Código Fiscal.",
+  "descuentos": [
+    "10% de descuento en enero de 2026 (Ley de Ingresos 2026, transitorio OCTAVO): de $1,256 a $1,130 (anuncio oficial del 5-ene-2026)."
+  ],
+  "portalPago": "https://refrendodigital.michoacan.gob.mx/",
+  "fuentes": [
+    {
+      "nombre": "Ley de Ingresos del Estado de Michoacán para el Ejercicio Fiscal 2026 (Periódico Oficial, 9-dic-2025, versión de consulta sin valor legal)",
+      "url": "https://satmich.michoacan.gob.mx/archivos_pdf/LEY_INGRESOS_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ley de Hacienda del Estado de Michoacán de Ocampo (última reforma 20-dic-2023)",
+      "url": "https://sistemaanticorrupcion.michoacan.gob.mx/documentos/TRANSPARENCIA/normatividad/legislacion-local/Ley%20de%20Hacienda%20del%20Estado%20de%20Michoacan%20de%20Ocampo%202025.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SATMICH: costos vehiculares 2026 (refrendo y placas)",
+      "url": "https://satmich.michoacan.gob.mx/tramites/vehicular/CostosVehiculares",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Gobierno de Michoacán: trámite refrendo anual (cuota 2026 y plazo)",
+      "url": "https://michoacan.gob.mx/tramites/refrendo-anual/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Gobierno de Michoacán: descuento de 10% en enero (5-ene-2026)",
+      "url": "https://michoacan.gob.mx/noticias/paga-el-refrendo-vehicular-en-enero-y-recibe-descuento-del-10/",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "La versión de la Ley de Hacienda consultada es la publicada en 2025 con última reforma de dic-2023; no se revisó si hubo reformas en 2026.",
+    "El plazo de cuatro meses viene de la página del SATMICH; no se ubicó el artículo exacto en la Ley de Ingresos.",
+    "La Ley de Ingresos consultada es copia de consulta sin valor legal."
+  ]
+}
