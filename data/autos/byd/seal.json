@@ -24,7 +24,7 @@
       "fuente": "BYD México (sitio oficial)",
       "url": "https://www.byd.com/mx/order-seal",
       "fechaVerificacion": "2026-10-24",
-      "notas": "Sedán eléctrico, batería Blade de 61.44 kWh (RWD) o 82.56 kWh (AWD). Autonomía WLTC según BYD. BYD publica la potencia en kW, por eso potenciaHp va null. 8 bolsas de aire inferidas de la ficha (frontales conductor y pasajero, laterales delanteras y traseras, cortina delanteras y traseras); la ficha no da la cifra total. Frenado automático de emergencia (AEB) disponible en ambas versiones según la ficha de septiembre 2026. Precio del configurador oficial. Tracción trasera, 0-100 km/h en 7.5 s según la ficha. Consumo WLTC 15.4 kWh/100 km. Carga DC hasta 110 kW."
+      "notas": "Sedán eléctrico, batería Blade de 61.44 kWh (RWD) o 82.56 kWh (AWD). Autonomía WLTC según BYD. BYD publica la potencia en kW, no en hp. 8 bolsas de aire inferidas de la ficha (frontales conductor y pasajero, laterales delanteras y traseras, cortina delanteras y traseras); la ficha no da la cifra total. Frenado automático de emergencia (AEB) disponible en ambas versiones según la ficha de septiembre 2026. Precio del configurador oficial. Tracción trasera, 0-100 km/h en 7.5 s según la ficha. Consumo WLTC 15.4 kWh/100 km. Carga DC hasta 110 kW."
     },
     {
       "nombre": "Seal AWD 520 km",
@@ -41,7 +41,7 @@
       "fuente": "BYD México (sitio oficial)",
       "url": "https://www.byd.com/mx/order-seal",
       "fechaVerificacion": "2026-10-24",
-      "notas": "Sedán eléctrico, batería Blade de 61.44 kWh (RWD) o 82.56 kWh (AWD). Autonomía WLTC según BYD. BYD publica la potencia en kW, por eso potenciaHp va null. 8 bolsas de aire inferidas de la ficha (frontales conductor y pasajero, laterales delanteras y traseras, cortina delanteras y traseras); la ficha no da la cifra total. Frenado automático de emergencia (AEB) disponible en ambas versiones según la ficha de septiembre 2026. Precio del configurador oficial. Tracción integral, 0-100 km/h en 3.8 s según la ficha. Consumo WLTC 18.2 kWh/100 km. Carga DC hasta 150 kW."
+      "notas": "Sedán eléctrico, batería Blade de 61.44 kWh (RWD) o 82.56 kWh (AWD). Autonomía WLTC según BYD. BYD publica la potencia en kW, no en hp. 8 bolsas de aire inferidas de la ficha (frontales conductor y pasajero, laterales delanteras y traseras, cortina delanteras y traseras); la ficha no da la cifra total. Frenado automático de emergencia (AEB) disponible en ambas versiones según la ficha de septiembre 2026. Precio del configurador oficial. Tracción integral, 0-100 km/h en 3.8 s según la ficha. Consumo WLTC 18.2 kWh/100 km. Carga DC hasta 150 kW."
     }
   ],
   "garantia": {

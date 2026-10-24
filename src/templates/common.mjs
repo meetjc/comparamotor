@@ -96,11 +96,12 @@ export { esc, mxn, num, SITE };
 // Marcadores en el HTML: <!--FIG:foto:CLAVE:N--> (foto real con crédito), <!--FIG:ia:archivo.jpg--> (imagen ilustrativa registrada),
 // <!--FIG:grafica:ID--> (gráfica propia definida en el JSON de la guía, con leyenda de colores).
 export function chartBars(g) {
+  g = { ...g, datos: g.datos.map((d) => ({ ...d, valor: Number(d.valor) || 0, color: /^#[0-9a-f]{3,8}$/i.test(d.color || '') ? d.color : '#2a78d6' })) };
   const max = Math.max(...g.datos.map((d) => d.valor), 1);
   const fmt = (v) => (g.unidad === '$' ? mxn(v) : g.unidad === '%' ? `${num(v)}%` : `${num(v)}${g.unidad ? ' ' + g.unidad : ''}`);
   const rows = g.datos.map((d) => `<li><span class="gl">${esc(d.label)}</span><span class="gt" aria-hidden="true"><i style="width:${Math.max(2, (d.valor / max) * 100).toFixed(1)}%;background:${esc(d.color || '#2a78d6')}"></i></span><b class="gv num">${fmt(d.valor)}</b></li>`).join('');
   const leg = (g.leyenda || []).map((l) => `<span><i style="background:${esc(l.color)}"></i>${esc(l.texto)}</span>`).join('');
-  return `<figure class="grafica"><figcaption><b>${esc(g.titulo)}</b>${g.desc ? `<span>${esc(g.desc)}</span>` : ''}</figcaption><ul class="gbars">${rows}</ul>${leg ? `<div class="gleg" aria-label="Qué significa cada color">${leg}</div>` : ''}${g.fuente ? `<p class="gfuente">${g.fuente}</p>` : ''}</figure>`;
+  return `<figure class="grafica"><figcaption><b>${esc(g.titulo)}</b>${g.desc ? `<span>${esc(g.desc)}</span>` : ''}</figcaption><ul class="gbars">${rows}</ul>${leg ? `<div class="gleg" role="group" aria-label="Qué significa cada color">${leg}</div>` : ''}${g.fuente ? `<p class="gfuente">${g.fuente}</p>` : ''}</figure>`;
 }
 
 export function renderFigs(html, ctx, D, graficas = {}) {

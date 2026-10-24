@@ -231,7 +231,7 @@ a.tile:active { transform: translateY(0) scale(.99); }
 .subnav::-webkit-scrollbar { display: none; }
 .subnav a { flex: none; padding: 8px 14px; border-radius: var(--r-pill); background: var(--canvas); color: var(--ink); font-size: 14px; line-height: 20px; font-weight: 500; box-shadow: inset 0 0 0 1px var(--pressed); transition: background-color 160ms ease, color 160ms ease; }
 .subnav a:hover { background: var(--canvas-soft); }
-.subnav a[aria-current="page"] { background: var(--ink); color: #fff; box-shadow: none; }
+.subnav a[aria-current] { background: var(--ink); color: #fff; box-shadow: none; }
 @media (max-width: 600px) { .subnav { padding: 10px 16px 0; } }
 .prose, .tile, .srcs, .answer, .callout, .note { overflow-wrap: anywhere; }
 .prose a, .srcs a { word-break: break-word; }

@@ -263,3 +263,6 @@
 
   requestAnimationFrame(function () { document.body.classList.add('ready'); });
 })();
+
+// En celular, deja a la vista el chip activo de la subnavegación
+(function () { try { var a = document.querySelector('.subnav [aria-current]'); if (a && a.scrollIntoView) { var n = a.parentNode; n.scrollLeft = Math.max(0, a.offsetLeft - (n.clientWidth - a.offsetWidth) / 2); } } catch (e) {} })();

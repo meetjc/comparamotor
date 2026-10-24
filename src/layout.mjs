@@ -52,7 +52,7 @@ export function subnav(ctx) {
   const sec = seccionDe(ctx.route); if (!sec || ctx.route === '/') return '';
   // item activo: el de prefijo más largo que coincida con la ruta
   const actual = sec.sub.map(([, u]) => u).filter((u) => ctx.route.startsWith(u)).sort((a, b) => b.length - a.length)[0];
-  return `<nav class="subnav" aria-label="En esta sección">${sec.sub.map(([l, u]) => `<a href="${ctx.u(u)}"${u === actual ? ' aria-current="page"' : ''}>${l}</a>`).join('')}</nav>`;
+  return `<nav class="subnav" aria-label="En esta sección">${sec.sub.map(([l, u]) => `<a href="${ctx.u(u)}"${u === actual ? (u === ctx.route ? ' aria-current="page"' : ' aria-current="true"') : ''}>${l}</a>`).join('')}</nav>`;
 }
 
 export function mark(ctx, cls = 'mk', dark = true) {
