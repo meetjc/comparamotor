@@ -105,7 +105,7 @@
     {
       "descripcion": "Kwid Bitono TM 2026: la página dice 'precio desde $234,500' en el encabezado y '$241,500' en la nota legal; o precio especial desde $253,000 + tasa preferencial desde 9.99% a 60 meses con enganche mínimo de 35%",
       "precioOferta": null,
-      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación. La fuente es inconsistente entre encabezado y nota legal, por eso no se fija precioOferta. Seguro gratis con GNP con crédito 'Plan Renault' de 12 meses o más. Hasta agotar existencias.",
+      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación. La fuente es inconsistente entre encabezado y nota legal, por eso no se fija el precio de oferta. Seguro gratis con GNP con crédito 'Plan Renault' de 12 meses o más. Hasta agotar existencias.",
       "vigenciaHasta": "2026-11-01",
       "fuente": "Renault México (sitio oficial)",
       "url": "https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html",

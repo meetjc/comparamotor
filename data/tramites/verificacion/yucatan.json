@@ -1,0 +1,27 @@
+{
+  "estado": "Yucatán",
+  "slug": "yucatan",
+  "programa": null,
+  "obligatoria": false,
+  "calendario": null,
+  "costo2026": null,
+  "portalCita": null,
+  "estatus": "Sin programa de verificación vehicular. La tabla oficial de SEMARNAT (gob.mx, 21-ago-2026; datos que entregaron los gobiernos locales entre mayo y agosto de 2026) marca a Yucatán como 'No' en 'Programa de Verificación Vehicular'. La nota de la propia tabla indica: en 2025 no operó el centro de verificación vehicular estatal; actualmente se encuentra en proceso de reactivación. Por eso el estado figura como 'No' pese a tener antecedentes de programa.",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026 (Yucatán: No)",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "La tabla marca el centro estatal en proceso de reactivación: la obligatoriedad podría volver durante 2026-2027. No se encontró comunicado oficial del gobierno de Yucatán con fecha, calendario ni costos; revisar periódicamente.",
+    "SEMARNAT también cita a Yucatán en el texto de su página de PVV entre los sitios de interés; no hay costo ni calendario vigente."
+  ]
+}

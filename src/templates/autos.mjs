@@ -1,7 +1,7 @@
 // Autos nuevos: índice, marcas, fichas de modelo y lista de precios.
 import { page } from '../layout.mjs';
 import { esc, mxn, num, fechaCorta, fechaLarga, mensualidad, costo5, SITE } from '../lib.mjs';
-import { sil, answer, table, fuentes, faq, ph, actualizado, entrada, tope, fechaMax, rendimiento, autoCard, CARRO_N, PROP_N, TRANS_N, credito, img } from './common.mjs';
+import { linkify, sil, answer, table, fuentes, faq, ph, actualizado, entrada, tope, fechaMax, rendimiento, autoCard, CARRO_N, PROP_N, TRANS_N, credito, img } from './common.mjs';
 
 const ORIGEN_N = { japonesa: 'japonesa', china: 'china', coreana: 'coreana', alemana: 'alemana', estadounidense: 'estadounidense', francesa: 'francesa', 'britanica-china': 'británica de capital chino', 'britanico-china': 'británica de capital chino' };
 const si = (b) => (b === true ? 'Sí' : b === false ? 'No' : '<span class="fine">Por confirmar</span>');
@@ -58,8 +58,8 @@ export function ficha(ctx, a, D) {
 
   const ofHTML = ofertas.length ? `<div class="grid2">${ofertas.map((o) => `<div class="tile"><span class="k">${o.vigenciaHasta ? 'Vigente hasta el ' + esc(fechaLarga(o.vigenciaHasta)) : 'Vigencia por confirmar'}</span><h3>${o.precioOferta ? mxn(o.precioOferta) + ' · ' : ''}${esc(o.descripcion || 'Oferta publicada')}</h3>${o.condicion ? `<p><b>Condición:</b> ${esc(o.condicion)}</p>` : ''}<p class="fine"><a href="${esc(o.url)}" target="_blank" rel="noopener" style="text-decoration:underline">${esc(o.fuente)}</a>, consultada el ${esc(fechaCorta(o.fechaVerificacion))}</p></div>`).join('')}</div>` : `<p>No encontramos una promoción publicada por la marca para el ${esc(a.modelo)} al ${esc(fechaLarga(fecha))}.</p>`;
 
-  const notasVer = vs.filter((v) => v.notas).map((v) => `<li><b>${esc(v.nombre)}:</b> ${esc(v.notas)}</li>`).join('');
-  const pend = (a.pendientes || []).map((p) => `<li>${esc(p)}</li>`).join('');
+  const notasVer = vs.filter((v) => v.notas).map((v) => `<li><b>${esc(v.nombre)}:</b> ${linkify(v.notas)}</li>`).join('');
+  const pend = (a.pendientes || []).map((p) => `<li>${linkify(p)}</li>`).join('');
 
   const f = faq([
     { q: `¿Cuánto cuesta el ${nombre} ${anio}?`, a: `Desde ${mxn(e.precio)} en su versión ${esc(e.nombre)}${t && t !== e ? ` y hasta ${mxn(t.precio)} en la ${esc(t.nombre)}` : ''}, precio de lista con IVA según ${esc(e.fuente)} (${esc(fechaLarga(e.fechaVerificacion))}).` },

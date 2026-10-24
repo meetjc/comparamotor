@@ -1,0 +1,38 @@
+Escribe en español de México una guía larga y útil para ComparaMotor (comparador de autos nuevos y medio automotriz en México). Hoy es 24 de octubre de 2026.
+TÍTULO (H1, no lo repitas en el cuerpo): ¿Por qué el precio anunciado de un auto no es el que pagas?
+TEMAS A CUBRIR: Tipos de precio (lista, oferta, financiado), por qué difieren, tabla de lista contra oferta en las versiones de entrada, tipos de condición (crédito de la marca, toma a cuenta, vigencia, una sola versión), crédito de marca contra crédito de banco, cómo compararlo de contado y a crédito, preguntas para la agencia, cuándo sí conviene la oferta, qué hacer antes de apartar. Liga a /promociones/ y /comparar/.
+EXTENSIÓN: 2,100 a 2,600 palabras. Es una guía a fondo, no un resumen: explica los conceptos con ejemplos, di por qué importan, y cierra cada sección con una conclusión práctica de una frase.
+ESTRUCTURA OBLIGATORIA (devuelve solo HTML del cuerpo; sin <html>, <body> ni <h1>):
+1. Primer elemento: <p class="answer">…</p> con la respuesta directa en 2 o 3 frases con cifras.
+2. De 9 a 11 secciones <h2>; cada <h2> es una pregunta literal de búsqueda que empieza con ¿ y termina con ?. La primera frase debajo de cada <h2> responde directo.
+3. Al menos 3 tablas, cada una así: <div class="tbl-wrap"><table class="tbl"><thead><tr><th>…</th></tr></thead><tbody>…</tbody></table></div>, con datos de FACTS.
+4. Una sección con una lista ordenada <ol> llamada «¿Qué hacer antes de firmar?» (o «antes de decidir», según el tema) con 6 a 8 pasos concretos.
+5. Al final, una sección <h2>Preguntas frecuentes</h2> con EXACTAMENTE esta estructura: <div class="faq"><details><summary>¿Pregunta?</summary><p>Respuesta de 2 a 4 frases.</p></details> …</div> con 5 preguntas distintas a los H2.
+6. Marcadores de figura: inserta exactamente estos comentarios HTML, cada uno solo en su línea entre párrafos, en este orden y repartidos de forma pareja a lo largo del texto (uno cada 2 o 3 secciones): <!--FIG:foto:nissan-sentra:0-->  <!--FIG:grafica:lista-oferta-->. No escribas etiquetas <img>.
+7. Enlaces internos con <a href="RUTA">texto descriptivo</a> solo a estas rutas: /comparar/ /autos/ /autos/precios/ /credito-automotriz/ /costo-total/ /que-me-alcanza/ /mejores/autos-hibridos/ /mejores/autos-baratos/ /seguro-de-auto/ /promociones/ /tramites/ /hoy-no-circula/ /glosario/ /metodologia/. Pon de 4 a 6 enlaces, repartidos.
+REGLAS DE CONTENIDO (no negociables):
+- Usa SOLO las cifras de FACTS (copiadas tal cual: mismo monto, mismo porcentaje, misma fecha). No inventes precios, tasas, porcentajes, fechas, leyes, artículos, nombres de bancos, aseguradoras o modelos que no estén en FACTS. Para explicar conceptos puedes usar ejemplos sin cifras, o los números pequeños que tú derives de operaciones simples visibles (por ejemplo «el doble»). Si algo depende de cada persona, dilo sin inventar cifras.
+- Cuando cites una cifra de una marca, banco, la CONDUSEF, Banxico, la AMDA o el INEGI, di quién es la fuente y la fecha como aparece en FACTS («según el sitio de Toyota México, al 20 de octubre de 2026»).
+- Los cálculos propios se llaman «cálculo de ComparaMotor con una tasa de ejemplo», nunca «CAT». No llames «CAT» a una mensualidad calculada.
+- No des asesoría financiera, fiscal ni legal personalizada: da información y pasos para comparar. Sin promesas de ahorro garantizado. Evita «siempre» y «nunca» salvo en reglas de honestidad.
+ESTILO: frases cortas, sin clichés de IA («en la era digital», «en el mundo actual», «sin lugar a dudas», «es importante destacar», «te guiaremos», «crucial», «fundamental»). Sin signos de exclamación. Habla de tú en los consejos. Sin listas de adjetivos. Párrafos de 2 a 4 frases.
+FACTS (única fuente de cifras):
+Hoy: 24 de octubre de 2026. Supuestos del sitio: enganche 20%, plazo 60 meses, tasa anual de ejemplo 15.9%, 15,000 km al año, gasolina $24.5/l, seguro de ejemplo $9,410 al año, servicios $22,000 en 5 años.
+REGLA: el CAT de un crédito lo informa cada otorgante; ComparaMotor no inventa un CAT propio.
+== Promociones vigentes verificadas: 126; 92 exigen financiar con la financiera de la marca (promociones.json, 2026-10-20) ==
+== Versión de entrada: precio de lista contra precio de oferta publicado por la marca ==
+Chevrolet Aveo Hatchback LS Manual: lista $319,100, oferta $228,100, diferencia $91,000 (28.5%), condición: exige dejar tu auto a cuenta; fuente Chevrolet México (sitio oficial), 20 oct 2026
+Chevrolet Onix LS Manual: lista $353,100, oferta $257,100, diferencia $96,000 (27.2%), condición: exige dejar tu auto a cuenta; fuente Chevrolet México (sitio oficial), 20 oct 2026
+Chevrolet Tracker LT AT (C): lista $537,500, oferta $425,000, diferencia $112,500 (20.9%), condición: exige dejar tu auto a cuenta; fuente Chevrolet México (sitio oficial), 20 oct 2026
+Renault Kwid Intens TM: lista $252,000, oferta $199,900, diferencia $52,100 (20.7%), condición: exige crédito con la financiera de la marca; fuente Renault México (sitio oficial), 20 oct 2026
+Nissan Versa Sense Base TM: lista $374,900, oferta $309,990, diferencia $64,910 (17.3%), condición: exige crédito con la financiera de la marca; fuente Nissan México (sitio oficial), 20 oct 2026
+Nissan March Sense TM: lista $295,990, oferta $245,990, diferencia $50,000 (16.9%), condición: exige crédito con la financiera de la marca; fuente Nissan México (sitio oficial), 20 oct 2026
+Chevrolet Groove LT MT: lista $421,500, oferta $353,500, diferencia $68,000 (16.1%), condición: exige dejar tu auto a cuenta; fuente Chevrolet México (sitio oficial), 20 oct 2026
+Nissan Kicks Advance CVT: lista $562,990, oferta $476,990, diferencia $86,000 (15.3%), condición: exige crédito con la financiera de la marca; fuente Nissan México (sitio oficial), 20 oct 2026
+Volkswagen Jetta Trendline: lista $449,290, oferta $389,990, diferencia $59,300 (13.2%), condición: exige crédito con la financiera de la marca; fuente Volkswagen de México (sitio oficial) / Volkswagen Leasing, 20 oct 2026
+Nissan NP300 NP300 Chasis TM AC VDC: lista $499,990, oferta $439,990, diferencia $60,000 (12.0%), condición: exige crédito con la financiera de la marca; fuente Nissan México (sitio oficial), 20 oct 2026
+Nissan Sentra Sense CVT: lista $448,100, oferta $401,990, diferencia $46,110 (10.3%), condición: exige crédito con la financiera de la marca; fuente Nissan México (sitio oficial), 20 oct 2026
+Volkswagen Virtus Trendline MT: lista $322,490, oferta $289,990, diferencia $32,500 (10.1%), condición: exige crédito con la financiera de la marca; fuente Volkswagen de México (sitio oficial) / Volkswagen Leasing, 20 oct 2026
+Ejemplo Renault Kwid Intens: desde $199,900 con crédito NR Finance y seguro financiado, o desde $208,000 con 1 año de seguro gratis; CAT promedio 18.5% sin IVA al 1 oct 2026; lista $252,000.
+Ejemplo Nissan Versa Sense Base: lista $374,900, precio especial CrediNissan $309,990 (diferencia $64,910, 17.3%), vigente al 2 nov 2026, solo con crédito de NR Finance.
+Preguntas útiles en agencia: ¿precio de contado con IVA y trámites? ¿cuánto cambia si no financio con la marca? ¿CAT y total a pagar? ¿comisión por apertura? ¿seguro financiado?

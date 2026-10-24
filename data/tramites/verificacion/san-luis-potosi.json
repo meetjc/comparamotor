@@ -1,0 +1,31 @@
+{
+  "estado": "San Luis Potosí",
+  "slug": "san-luis-potosi",
+  "programa": null,
+  "obligatoria": false,
+  "calendario": null,
+  "costo2026": null,
+  "portalCita": null,
+  "estatus": "Sin programa de verificación vehicular. La tabla oficial de SEMARNAT (gob.mx, 21-ago-2026; datos que entregaron los gobiernos locales entre mayo y agosto de 2026) marca a San Luis Potosí como 'No' en 'Programa de Verificación Vehicular'.",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026 (San Luis Potosí: No)",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "ADN40: San Luis Potosí, placas con plazo para verificar (23-abr-2026), no verificado en fuente oficial",
+      "url": "https://www.adn40.mx/tramites/2026-04-23/es-oficial-en-san-luis-potosi-estas-placas-tienen-hasta-el-30-de-abril-para-verificar/",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "ADN40 (abril 2026) publica calendario y tarifas ($330 gasolina, $450 diésel) para San Luis Potosí sin fuente oficial y reconoce que no es obligatoria para todos los vehículos; contradice la tabla de SEMARNAT. No se encontró sitio oficial de SEGAM que confirme un programa. Confirmar antes de publicar costos."
+  ]
+}

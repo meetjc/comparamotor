@@ -1,0 +1,45 @@
+{
+  "estado": "Tabasco",
+  "slug": "tabasco",
+  "cobraTenencia2026": false,
+  "tenencia": "No se cobra. El Decreto 190 (Ley de Ingresos del Estado de Tabasco 2026 y reformas a la Ley de Hacienda, aprobado en dic-2025) estima en $0.00 el 'Impuesto Vehicular Estatal' y en $0.00 el 'Impuesto Sobre Tenencia y Uso de Vehículos Años Anteriores'. El mismo decreto declara prescritos los créditos de 'Impuesto Vehicular Estatal' anteriores a 2021. Lo que se paga es el derecho de refrendo / canje de placas.",
+  "refrendo": {
+    "nombreLocal": "Renovación (canje) de placas, tarjeta de circulación y calcomanía 2026",
+    "monto2026": 1697,
+    "moneda": "MXN",
+    "detalle": "Comunicado 1787/2026 del Gobierno de Tabasco (arranque de la renovación de placas 2026 el 5-ene-2026): $1,697 para automóviles tipo sedán, camionetas y camiones; $566 para motocicletas y motocarros. El Decreto 190 (Ley de Hacienda art. 85) fija el canje en 15.0 UMA para vehículos particulares y 5.0 UMA para motos, y homologa a ese monto el alta, la tarjeta, la calcomanía y la reposición de placas. 2026 es año de cambio de placas en Tabasco."
+  },
+  "fechaLimite": null,
+  "descuentos": [],
+  "portalPago": "https://refrendovehicular.tabasco.gob.mx",
+  "fuentes": [
+    {
+      "nombre": "Decreto 190: Ley de Ingresos 2026 y reformas a la Ley de Hacienda, Código Fiscal y otras leyes de Tabasco (Poder Legislativo, dic-2025)",
+      "url": "https://tabasco.gob.mx/sites/default/files/users/userspftabasco/DECRETO-190.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Gobierno de Tabasco, comunicado 1787/2026: arranca renovación de placas vehiculares 2026",
+      "url": "https://tabasco.gob.mx/comunicados/con-tramites-agiles-faciles-y-seguros-este-lunes-arranca-renovacion-de-placas",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Gobierno de Tabasco, comunicado 1464/2025: estímulos de regularización vehicular hasta el 31-oct-2025",
+      "url": "https://tabasco.gob.mx/comunicados/ponte-al-dia-choco-gobierno-del-pueblo-mantiene-vigente-hasta-el-31-de-octubre-los",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Todo sobre autos: cuánto cuesta emplacar en Tabasco en 2026 (refrendo ordinario $1,173, alta $1,760)",
+      "url": "https://www.todosobreautos.com/mexico/calculadora-emplacamiento/tabasco/",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "No se localizó fecha límite ni calendario de descuentos 2026 en fuente oficial (los comunicados de descuentos mensuales 20/15/10/5% corresponden a 2025).",
+    "El texto consolidado vigente de la Ley de Hacienda de Tabasco (art. 85) no se consultó: el Decreto 190 solo muestra lo reformado. Prensa de apoyo da un refrendo ordinario (sin cambio de placas) de $1,173 para años posteriores; sin verificar.",
+    "Los $1,697 corresponden a 15 UMA con la UMA 2025 ($113.14); si el monto se recalcula con la UMA 2026 ($117.31) el costo sería distinto: confirmar monto vigente en Llave Tabasco.",
+    "El portal refrendovehicular.tabasco.gob.mx lo cita el sitio oficial de comunicados, pero no abrió desde esta revisión; el pago en línea se hace en 'Llave Tabasco' (URL no verificada).",
+    "Cualquier estímulo 2026 de regularización (condonación de recargos y multas) no se verificó."
+  ]
+}

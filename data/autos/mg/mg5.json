@@ -1,0 +1,135 @@
+{
+  "marca": "MG",
+  "marcaSlug": "mg",
+  "modelo": "MG5",
+  "slug": "mg5",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "britanica-china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Style MT 2027",
+      "anio": 2027,
+      "precio": 299900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 109,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MG Motor México (sitio oficial)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $274,900 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. La página no lista frenado autónomo."
+    },
+    {
+      "nombre": "Excite MT 2027",
+      "anio": 2027,
+      "precio": 344000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 109,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MG Motor México (sitio oficial)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $284,000 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. La página no lista frenado autónomo."
+    },
+    {
+      "nombre": "Excite CVT 2027",
+      "anio": 2027,
+      "precio": 378000,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 109,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MG Motor México (sitio oficial)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $318,000 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. La página no lista frenado autónomo."
+    },
+    {
+      "nombre": "Elegance CVT 2027",
+      "anio": 2027,
+      "precio": 399000,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 109,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MG Motor México (sitio oficial)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $339,000 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. La página no lista frenado autónomo."
+    }
+  ],
+  "garantia": {
+    "texto": "Cobertura total del vehículo 60 meses o 100,000 km (lo que ocurra primero); garantía limitada de tren motriz hasta 84 meses o 150,000 km; programa Lucky Seven sin costo (7 años de garantía, asistencia vial y cobertura en autopartes robadas). Exige servicios en agencia cada 6 meses o 10,000 km",
+    "fuente": "MG Motor México (sitio oficial)",
+    "url": "https://www.mgmotor.com.mx/preguntas-frecuentes"
+  },
+  "ofertas": [
+    {
+      "descripcion": "MG5 Style MT 2027: precio especial desde $274,900 (precio de lista $299,900)",
+      "precioOferta": 274900,
+      "condicion": "El sitio publica el precio especial sin vigencia ni condiciones; la sección de promociones del MG5 decía \"Muy pronto, promociones exclusivas para ti\" al 24-oct-2026.",
+      "vigenciaHasta": null,
+      "fuente": "MG Motor México (sitio oficial)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
+      "fechaVerificacion": "2026-10-24"
+    },
+    {
+      "descripcion": "MG5 Excite MT 2027: precio especial desde $284,000 (precio de lista $344,000)",
+      "precioOferta": 284000,
+      "condicion": "El sitio publica el precio especial sin vigencia ni condiciones; la sección de promociones del MG5 decía \"Muy pronto, promociones exclusivas para ti\" al 24-oct-2026.",
+      "vigenciaHasta": null,
+      "fuente": "MG Motor México (sitio oficial)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
+      "fechaVerificacion": "2026-10-24"
+    },
+    {
+      "descripcion": "MG5 Excite CVT 2027: precio especial desde $318,000 (precio de lista $378,000)",
+      "precioOferta": 318000,
+      "condicion": "El sitio publica el precio especial sin vigencia ni condiciones; la sección de promociones del MG5 decía \"Muy pronto, promociones exclusivas para ti\" al 24-oct-2026.",
+      "vigenciaHasta": null,
+      "fuente": "MG Motor México (sitio oficial)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
+      "fechaVerificacion": "2026-10-24"
+    },
+    {
+      "descripcion": "MG5 Elegance CVT 2027: precio especial desde $339,000 (precio de lista $399,000)",
+      "precioOferta": 339000,
+      "condicion": "El sitio publica el precio especial sin vigencia ni condiciones; la sección de promociones del MG5 decía \"Muy pronto, promociones exclusivas para ti\" al 24-oct-2026.",
+      "vigenciaHasta": null,
+      "fuente": "MG Motor México (sitio oficial)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
+      "fechaVerificacion": "2026-10-24"
+    }
+  ],
+  "fuentes": [
+    "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
+    "https://www.mgmotor.com.mx/promociones/mg5nuevo",
+    "https://www.mgmotor.com.mx/preguntas-frecuentes"
+  ],
+  "pendientes": [
+    "Rendimiento combinado oficial (la página no lo publica; la ficha técnica PDF es imagen sin texto extraíble)",
+    "Frenado autónomo (no listado)",
+    "Condiciones y vigencia del precio especial",
+    "Nombre comercial en el sitio: \"MG5\" (URL mg5nuevo, MG5 MCE 2027)"
+  ]
+}

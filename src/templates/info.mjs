@@ -5,7 +5,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { page } from '../layout.mjs';
 import { esc, mxn, num, fechaLarga, fechaCorta, readJSON, SITE } from '../lib.mjs';
-import { answer, table, fuentes, faq, ph, actualizado, img, credito } from './common.mjs';
+import { answer, table, fuentes, faq, ph, actualizado, img, credito, renderFigs } from './common.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const CFG = readJSON(path.join(ROOT, 'src/config.json'), {});
@@ -178,7 +178,7 @@ export function paginas(C, D) {
 function guia(ctx, D, g) {
   const f = faq(g.preguntas || []);
   const body = `${ph({ kicker: esc(g.tema), h1: esc(g.titulo), lede: esc(g.resumen), meta: actualizado(g.actualizado || g.fecha, 'Redacción ComparaMotor', ctx) })}
-  <div class="wrap"><div class="article"><div class="prose">${g.imagen ? `<figure class="foto" style="aspect-ratio:3/2">${img(ctx, D.reg, g.imagen, g.imagenAlt, { lazy: false })}${credito(D.reg, g.imagen)}</figure>` : ''}${g.html}${f.html ? `<h2>Preguntas frecuentes</h2>${f.html}` : ''}${fuentes(g.fuentes, g.actualizado || g.fecha)}</div>
+  <div class="wrap"><div class="article"><div class="prose">${g.imagen ? `<figure class="foto" style="aspect-ratio:3/2">${img(ctx, D.reg, g.imagen, g.imagenAlt, { lazy: false })}${credito(D.reg, g.imagen)}</figure>` : ''}${renderFigs(g.html, ctx, D, g.graficas)}${f.html ? `<h2>Preguntas frecuentes</h2>${f.html}` : ''}${fuentes(g.fuentes, g.actualizado || g.fecha)}</div>
   <aside class="aside"><div class="tile"><span class="k">Herramientas</span><a href="${ctx.u('/comparar/')}" style="text-decoration:underline">Comparador</a><a href="${ctx.u('/credito-automotriz/')}" style="text-decoration:underline">Calculadora de crédito</a><a href="${ctx.u('/costo-total/')}" style="text-decoration:underline">Costo total a 5 años</a></div></aside></div></div>`;
   return page(ctx, { title: g.tituloSeo || g.titulo, description: g.descripcion || g.resumen, body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Guías', url: '/guias/' }, { name: g.titulo, url: g.url }], updated: fechaLarga(g.actualizado || g.fecha), ogImage: g.imagen ? 'img/' + g.imagen : undefined, schema: [f.schema, { '@context': 'https://schema.org', '@type': 'Article', headline: g.titulo, datePublished: g.fecha, dateModified: g.actualizado || g.fecha, inLanguage: 'es-MX', author: { '@type': 'Organization', name: 'Redacción ComparaMotor', url: SITE.url + '/autores/' }, publisher: { '@id': SITE.url + '/#org' } }].filter(Boolean) });
 }

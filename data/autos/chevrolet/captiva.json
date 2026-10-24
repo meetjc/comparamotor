@@ -1,0 +1,135 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Captiva",
+  "slug": "captiva",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "LT 5 pasajeros 2026",
+      "anio": 2026,
+      "precio": 530800,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 144,
+      "rendimientoCombinadoKmL": 15.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/captiva-mejor-camioneta-familiar/precios-y-promociones",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista; precio de contado $490,800; precio financiado/leasing $358,800 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026."
+    },
+    {
+      "nombre": "LT 7 pasajeros 2026",
+      "anio": 2026,
+      "precio": 557800,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 144,
+      "rendimientoCombinadoKmL": 14.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/captiva-mejor-camioneta-familiar/precios-y-promociones",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista; precio de contado $517,800; precio financiado/leasing $385,800 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026."
+    },
+    {
+      "nombre": "Premier 7 pasajeros 2026",
+      "anio": 2026,
+      "precio": 601900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 144,
+      "rendimientoCombinadoKmL": 14.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/captiva-mejor-camioneta-familiar/precios-y-promociones",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista; precio de contado $561,900; precio financiado/leasing $429,900 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026."
+    },
+    {
+      "nombre": "Premier Black Edition 7 pasajeros 2026",
+      "anio": 2026,
+      "precio": 614000,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 144,
+      "rendimientoCombinadoKmL": 14.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://www.chevrolet.com.mx/suvs/captiva-mejor-camioneta-familiar/precios-y-promociones",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista; precio de contado $574,000; precio financiado/leasing $442,000 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Captiva LT 5 pasajeros 2026: precio de contado $490,800 (bono de $40,000 sobre lista) y precio financiado/leasing $358,800 (bono de hasta $172,000 en financiamiento según paquete) + 60 meses sin intereses + 1 año de seguro gratis + primera mensualidad en febrero 2027",
+      "precioOferta": 358800,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones. CAT promedio 19.2% sin IVA (informativo). Vigencia 01-oct a 02-nov-2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/captiva/CHCAP01/precios.html",
+      "fechaVerificacion": "2026-10-24"
+    },
+    {
+      "descripcion": "Captiva LT 7 pasajeros 2026: precio de contado $517,800 (bono de $40,000 sobre lista) y precio financiado/leasing $385,800 (bono de hasta $172,000 en financiamiento según paquete) + 60 meses sin intereses + 1 año de seguro gratis + primera mensualidad en febrero 2027",
+      "precioOferta": 385800,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones. CAT promedio 19.2% sin IVA (informativo). Vigencia 01-oct a 02-nov-2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/captiva/CHCAP01/precios.html",
+      "fechaVerificacion": "2026-10-24"
+    },
+    {
+      "descripcion": "Captiva Premier 7 pasajeros 2026: precio de contado $561,900 (bono de $40,000 sobre lista) y precio financiado/leasing $429,900 (bono de hasta $172,000 en financiamiento según paquete) + 60 meses sin intereses + 1 año de seguro gratis + primera mensualidad en febrero 2027",
+      "precioOferta": 429900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones. CAT promedio 19.2% sin IVA (informativo). Vigencia 01-oct a 02-nov-2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/captiva/CHCAP01/precios.html",
+      "fechaVerificacion": "2026-10-24"
+    },
+    {
+      "descripcion": "Captiva Premier Black Edition 7 pasajeros 2026: precio de contado $574,000 (bono de $40,000 sobre lista) y precio financiado/leasing $442,000 (bono de hasta $172,000 en financiamiento según paquete) + 60 meses sin intereses + 1 año de seguro gratis + primera mensualidad en febrero 2027",
+      "precioOferta": 442000,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones. CAT promedio 19.2% sin IVA (informativo). Vigencia 01-oct a 02-nov-2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/captiva/CHCAP01/precios.html",
+      "fechaVerificacion": "2026-10-24"
+    }
+  ],
+  "fuentes": [
+    "https://www.chevrolet.com.mx/suvs/captiva-mejor-camioneta-familiar/precios-y-promociones",
+    "https://ppigmm.com.mx/servicios/html_gmds/2026/captiva/CHCAP01/precios.html",
+    "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/crossovers-suvs/2026-captiva/mov/02-pdf/ficha-tecnica-captiva-2026-v2.pdf",
+    "https://www.chevrolet.com.mx/garantia"
+  ],
+  "pendientes": [
+    "Frenado autónomo (no listado en la ficha)",
+    "Captiva Híbrida 2026 (desde $519,900, modelo PHEV) es aparte y no se incluyó",
+    "Rendimiento combinado: 15 en LT 5P y 14.5 en las demás, según la ficha técnica"
+  ]
+}

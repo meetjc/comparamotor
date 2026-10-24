@@ -1,0 +1,79 @@
+{
+  "marca": "Suzuki",
+  "marcaSlug": "suzuki",
+  "modelo": "Swift",
+  "slug": "swift",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "BoosterGreen: Desde (versión de entrada)",
+      "anio": 2027,
+      "precio": 343990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.2 L 3 cil. Z12E BoosterGreen (mild hybrid)",
+      "potenciaHp": 82,
+      "rendimientoCombinadoKmL": 24.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Suzuki México (sitio oficial)",
+      "url": "https://swift.suzuki.com.mx/",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio \"Desde $343,990\" de la página oficial de preventa del Swift BoosterGreen; no publica precio por versión (GLS y GLX, manual de 5 vel. o CVT). La versión de entrada no se nombra: se asume GLS manual porque la promoción oficial de octubre 2026 es para el GLS TM modelo 2027. Potencia 82 hp @ 5,700 rpm; rendimiento combinado oficial 24.7 km/l con manual de 5 vel. y 26.5 km/l con CVT (ficha del sitio de modelos). 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia: la ficha lo marca \"Sí\" en las cuatro versiones y la página describe radar y cámara frontales."
+    },
+    {
+      "nombre": "Sport: Desde (versión de entrada)",
+      "anio": null,
+      "precio": 397990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.4 L 4 cil. Boosterjet turbo",
+      "potenciaHp": 138,
+      "rendimientoCombinadoKmL": 17.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial)",
+      "url": "https://autos.suzuki.com.mx/cars/swift-sport",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio \"desde $397,990\" tomado de la descripción oficial de la página del Swift Sport; el sitio no publica precio por versión (GLX manual de 6 vel. y GLX automática de 6 vel.). Se asume la manual como entrada. Potencia 138 hp @ 5,500 rpm; rendimiento combinado 17.2 km/l con manual y 18.7 km/l con automática. 6 bolsas de aire. La ficha no lista frenado autónomo de emergencia. Año modelo no indicado en la página."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía limitada)",
+    "fuente": "Suzuki México (sitio oficial)",
+    "url": "https://autos.suzuki.com.mx/pages/garantias"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Swift BoosterGreen GLS TM 2027: bono de $15,000 y mensualidad desde $5,858.57",
+      "precioOferta": null,
+      "condicion": "Bono de $15,000 en la compra del GLS TM modelo 2027. Mensualidad con 35% de enganche, 60 meses y tasa fija anual de 14.50%; no incluye seguro (el bono puede subsidiar el año de seguro gratis). Sujeto a aprobación de crédito y disponibilidad. La página no indica fecha de vigencia.",
+      "vigenciaHasta": null,
+      "fuente": "Suzuki México (sitio oficial)",
+      "url": "https://autos.suzuki.com.mx/pages/promociones",
+      "fechaVerificacion": "2026-10-24"
+    }
+  ],
+  "fuentes": [
+    "https://swift.suzuki.com.mx/",
+    "https://autos.suzuki.com.mx/cars/swift-boostergreen",
+    "https://autos.suzuki.com.mx/cars/swift-sport",
+    "https://autos.suzuki.com.mx/pages/promociones",
+    "https://autos.suzuki.com.mx/pages/garantias"
+  ],
+  "pendientes": [
+    "Precio por versión del Swift BoosterGreen (GLS TM, GLX TM, GLS CVT, GLX CVT): suzuki.com.mx solo publica \"Desde $343,990\"; el catálogo interno muestra precios desactualizados ($0 y $354,990 / $374,990) y no se usaron",
+    "Precio por versión del Swift Sport (GLX TM y GLX TA): solo \"desde $397,990\"",
+    "Vigencia de la promoción del GLS TM (la página no la indica)",
+    "Frenado autónomo del Swift Sport no confirmado en su ficha",
+    "Clasificación de propulsión: Suzuki lo presenta como BoosterGreen con asistencia de motor eléctrico (mild hybrid); se registró como \"hibrido\"",
+    "La preventa del Swift BoosterGreen cierra el 26-oct-2026 según la página oficial",
+    "Existe también el Swift Sport Final Edition (/cars/swiftsportfe) sin precio revisado"
+  ]
+}

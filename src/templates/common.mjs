@@ -91,3 +91,33 @@ export function autoCard(ctx, a, { extra = '' } = {}) {
 
 export const fmtFecha = fechaCorta;
 export { esc, mxn, num, SITE };
+
+// ---------- Figuras dentro de textos (guías y notas) ----------
+// Marcadores en el HTML: <!--FIG:foto:CLAVE:N--> (foto real con crédito), <!--FIG:ia:archivo.jpg--> (imagen ilustrativa registrada),
+// <!--FIG:grafica:ID--> (gráfica propia definida en el JSON de la guía, con leyenda de colores).
+export function chartBars(g) {
+  const max = Math.max(...g.datos.map((d) => d.valor), 1);
+  const fmt = (v) => (g.unidad === '$' ? mxn(v) : g.unidad === '%' ? `${num(v)}%` : `${num(v)}${g.unidad ? ' ' + g.unidad : ''}`);
+  const rows = g.datos.map((d) => `<li><span class="gl">${esc(d.label)}</span><span class="gt" aria-hidden="true"><i style="width:${Math.max(2, (d.valor / max) * 100).toFixed(1)}%;background:${esc(d.color || '#2a78d6')}"></i></span><b class="gv num">${fmt(d.valor)}</b></li>`).join('');
+  const leg = (g.leyenda || []).map((l) => `<span><i style="background:${esc(l.color)}"></i>${esc(l.texto)}</span>`).join('');
+  return `<figure class="grafica"><figcaption><b>${esc(g.titulo)}</b>${g.desc ? `<span>${esc(g.desc)}</span>` : ''}</figcaption><ul class="gbars">${rows}</ul>${leg ? `<div class="gleg" aria-label="Qué significa cada color">${leg}</div>` : ''}${g.fuente ? `<p class="gfuente">${g.fuente}</p>` : ''}</figure>`;
+}
+
+export function renderFigs(html, ctx, D, graficas = {}) {
+  return String(html || '').replace(/<!--FIG:(foto|ia|grafica):([^:>]+)(?::(\d+))?-->/g, (_, tipo, clave, n) => {
+    if (tipo === 'grafica') return graficas[clave] ? chartBars(graficas[clave]) : '';
+    if (tipo === 'ia') { if (!D.reg[clave]) return ''; return `<figure class="foto fig-inline">${img(ctx, D.reg, clave, '', { w: 1200, h: 800 })}${credito(D.reg, clave)}</figure>`; }
+    const f = (D.fotos || {})[clave]; if (!f) return '';
+    const g = (f.galeria || [])[Number(n) || 0] || (f.galeria || [])[0]; if (!g || !D.reg[g.archivo]) return '';
+    return `<figure class="foto fig-inline">${img(ctx, D.reg, g.archivo, g.alt, { w: g.ancho, h: g.alto })}${credito(D.reg, g.archivo)}</figure>`;
+  });
+}
+
+// Texto con URL sueltas → enlaces con el dominio como texto (evita líneas imposibles de partir en el celular)
+export function linkify(text) {
+  const t = String(text ?? ''); let out = '', last = 0;
+  for (const m of t.matchAll(/https?:\/\/[^\s<>"')]+/g)) {
+    let u = m[0].replace(/[.,;:!?]+$/, ''); out += esc(t.slice(last, m.index)) + `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(hostOf(u))}</a>`; last = m.index + u.length;
+  }
+  return out + esc(t.slice(last));
+}

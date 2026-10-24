@@ -1,0 +1,39 @@
+{
+ "ahorro-hibrido": {
+  "titulo": "Ahorro anual de gasolina del Corolla LE HEV contra el LE CVT",
+  "desc": "Con gasolina a $24.5 por litro y rendimiento oficial.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "15,000 km al año",
+    "valor": 7463,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "25,000 km al año",
+    "valor": 12439,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "40,000 km al año",
+    "valor": 19902,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#2a78d6",
+    "texto": "Uso moderado"
+   },
+   {
+    "color": "#1baf7a",
+    "texto": "Uso alto"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Uso intensivo (plataformas)"
+   }
+  ],
+  "fuente": "Precio diferencial $58,300; rendimientos oficiales de Toyota México."
+ }
+}

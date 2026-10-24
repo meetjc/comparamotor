@@ -1,0 +1,64 @@
+{
+ "lista-oferta": {
+  "titulo": "Cuánto baja el precio con la oferta (versión de entrada)",
+  "desc": "Diferencia entre lista y oferta, en pesos. La oferta suele exigir crédito de la marca.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Chevrolet Aveo",
+    "valor": 91000,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Chevrolet Onix",
+    "valor": 96000,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Chevrolet Tracker",
+    "valor": 112500,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Renault Kwid",
+    "valor": 52100,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Nissan Versa",
+    "valor": 64910,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Nissan March",
+    "valor": 50000,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Chevrolet Groove",
+    "valor": 68000,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Nissan Kicks",
+    "valor": 86000,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#eb6834",
+    "texto": "Exige crédito con la marca"
+   },
+   {
+    "color": "#2a78d6",
+    "texto": "Exige dejar tu auto a cuenta"
+   },
+   {
+    "color": "#171513",
+    "texto": "Condición no publicada"
+   }
+  ],
+  "fuente": "Precios de los sitios oficiales de cada marca, verificados el 20 oct 2026."
+ }
+}

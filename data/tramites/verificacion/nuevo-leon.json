@@ -1,0 +1,31 @@
+{
+  "estado": "Nuevo León",
+  "slug": "nuevo-leon",
+  "programa": null,
+  "obligatoria": false,
+  "calendario": null,
+  "costo2026": null,
+  "portalCita": null,
+  "estatus": "Sin programa de verificación vehicular. La tabla oficial de SEMARNAT (gob.mx, 21-ago-2026; datos que entregaron los gobiernos locales entre mayo y agosto de 2026) marca a Nuevo León como 'No (N/R)' en 'Programa de Verificación Vehicular'. 'N/R' significa que el gobierno local no reportó información a SEMARNAT; no equivale a una confirmación escrita del estado.",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026 (Nuevo León: No (N/R))",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "ADN40: placas en Nuevo León obligadas a verificar (14-mar-2026), no verificado en fuente oficial",
+      "url": "https://www.adn40.mx/tramites/2026-03-14/estas-placas-en-nuevo-leon-ya-estan-obligadas-a-realizar-la-verificacion-vehicular/",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "Prensa (ADN40, marzo 2026) publica calendarios, costos de $330 gasolina y $450 diésel y multas para Nuevo León sin citar norma ni dependencia; contradice la tabla de SEMARNAT. No se encontró acuerdo oficial de la Secretaría de Medio Ambiente estatal. Un programa voluntario o piloto podría existir; confirmar con el gobierno de Nuevo León antes de publicar costos."
+  ]
+}

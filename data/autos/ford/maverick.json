@@ -1,0 +1,66 @@
+{
+  "marca": "Ford",
+  "marcaSlug": "ford",
+  "modelo": "Maverick",
+  "slug": "maverick",
+  "carroceria": "pickup",
+  "segmento": "pickup-compacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "XLT Híbrida 2026",
+      "anio": 2026,
+      "precio": 770700,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.5 L híbrido Atkinson iVCT 4 cil.",
+      "potenciaHp": 191,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 800,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Ford México (sitio oficial)",
+      "url": "https://www.ford.mx/camiones/maverick/hibrida/2026/",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista desde la página del modelo (ver también https://www.ford.mx/camiones/maverick/hibrida/2026/versiones-precios/). El sitio aclara en su texto legal que los precios no incluyen impuestos, accesorios, placas ni seguro: verificar IVA. Potencia combinada 191 hp y 155 lb-pie, batería de iones de litio de 1.1 kWh. Carga útil 680 kg. Capacidad de arrastre 907 kg. 7 bolsas de aire (frontales, laterales, cortina 1a y 2a fila y rodilla del conductor). Autonomía de hasta 800 km por tanque (dato de la marca, depende del manejo)."
+    },
+    {
+      "nombre": "Lariat Híbrida 2026",
+      "anio": 2026,
+      "precio": 897700,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.5 L híbrido Atkinson iVCT 4 cil.",
+      "potenciaHp": 191,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 800,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Ford México (sitio oficial)",
+      "url": "https://www.ford.mx/camiones/maverick/hibrida/2026/",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista desde la página del modelo (ver también https://www.ford.mx/camiones/maverick/hibrida/2026/versiones-precios/). El sitio aclara en su texto legal que los precios no incluyen impuestos, accesorios, placas ni seguro: verificar IVA. Potencia combinada 191 hp y 155 lb-pie, batería de iones de litio de 1.1 kWh. Carga útil 680 kg. Capacidad de arrastre 1,814 kg. Sonido B&O de 8 bocinas y pantalla de 13.2\". 7 bolsas de aire (frontales, laterales, cortina 1a y 2a fila y rodilla del conductor). Autonomía de hasta 800 km por tanque (dato de la marca, depende del manejo)."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.ford.mx/camiones/maverick/hibrida/2026/",
+    "https://www.ford.mx/camiones/maverick/hibrida/2026/versiones-precios/"
+  ],
+  "pendientes": [
+    "Nombre vigente: en México se vende como \"Maverick Híbrida 2026\" (XLT y Lariat); no hay versión de gasolina publicada en ford.mx",
+    "Transmisión asignada como e-cvt (tren híbrido), no publicada textualmente en la página",
+    "Rendimiento combinado oficial en km/L (la marca publica solo la autonomía de 800 km)",
+    "Frenado autónomo (la página lista frenado post-colisión y control crucero adaptativo, no frenado de emergencia)",
+    "Garantía oficial",
+    "Si el precio incluye IVA",
+    "Ofertas vigentes de la Maverick Híbrida"
+  ]
+}

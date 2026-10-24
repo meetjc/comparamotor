@@ -1,0 +1,65 @@
+{
+  "marca": "BYD",
+  "marcaSlug": "byd",
+  "modelo": "Seal",
+  "slug": "seal",
+  "carroceria": "sedan",
+  "segmento": "mediano",
+  "origenMarca": "china",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Seal RWD 460 km",
+      "anio": 2026,
+      "precio": 778800,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Motor eléctrico trasero 150 kW (310 N·m); batería Blade 61.44 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 460,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/mx/order-seal",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Sedán eléctrico, batería Blade de 61.44 kWh (RWD) o 82.56 kWh (AWD). Autonomía WLTC según BYD. BYD publica la potencia en kW, por eso potenciaHp va null. 8 bolsas de aire inferidas de la ficha (frontales conductor y pasajero, laterales delanteras y traseras, cortina delanteras y traseras); la ficha no da la cifra total. Frenado automático de emergencia (AEB) disponible en ambas versiones según la ficha de septiembre 2026. Precio del configurador oficial. Tracción trasera, 0-100 km/h en 7.5 s según la ficha. Consumo WLTC 15.4 kWh/100 km. Carga DC hasta 110 kW."
+    },
+    {
+      "nombre": "Seal AWD 520 km",
+      "anio": 2026,
+      "precio": 888800,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Dos motores eléctricos, 390 kW combinados (160 kW delantero + 230 kW trasero); batería Blade 82.56 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 520,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/mx/order-seal",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Sedán eléctrico, batería Blade de 61.44 kWh (RWD) o 82.56 kWh (AWD). Autonomía WLTC según BYD. BYD publica la potencia en kW, por eso potenciaHp va null. 8 bolsas de aire inferidas de la ficha (frontales conductor y pasajero, laterales delanteras y traseras, cortina delanteras y traseras); la ficha no da la cifra total. Frenado automático de emergencia (AEB) disponible en ambas versiones según la ficha de septiembre 2026. Precio del configurador oficial. Tracción integral, 0-100 km/h en 3.8 s según la ficha. Consumo WLTC 18.2 kWh/100 km. Carga DC hasta 150 kW."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.byd.com/mx/order-seal",
+    "https://www.byd.com/mx/car/seal",
+    "https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20SEAL%20flyer-ES-MX-20260911_.pdf"
+  ],
+  "pendientes": [
+    "Potencia en hp (BYD publica kW)",
+    "Garantía oficial de este modelo: no aparece en la página ni en la ficha del Seal; BYD México publica 6 años o 150,000 km (vehículo) y 8 años o 200,000 km (batería) en otros modelos, sin confirmar para el Seal",
+    "Cifra total de bolsas de aire (la ficha solo enumera tipos)",
+    "Ofertas de octubre 2026 del Seal: el PDF oficial de legales no las incluye",
+    "Autonomía: BYD la publica bajo ciclo WLTC en la ficha"
+  ]
+}

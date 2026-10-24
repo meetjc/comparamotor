@@ -1,8 +1,15 @@
 {
  "byd-dolphin-mini": {
-  "archivo": "foto-byd-dolphin-mini-2.jpg",
-  "alt": "BYD Dolphin Mini, vista 3/4 trasero",
+  "archivo": "foto-byd-dolphin-mini-1.jpg",
+  "alt": "BYD Dolphin Mini, vista 3/4 frontal",
   "galeria": [
+   {
+    "archivo": "foto-byd-dolphin-mini-1.jpg",
+    "alt": "BYD Dolphin Mini, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
    {
     "archivo": "foto-byd-dolphin-mini-2.jpg",
     "alt": "BYD Dolphin Mini, vista 3/4 trasero",
@@ -14,8 +21,8 @@
     "archivo": "foto-byd-dolphin-mini-3.jpg",
     "alt": "BYD Dolphin Mini, vista interior",
     "angulo": "interior",
-    "ancho": 1600,
-    "alto": 1066
+    "ancho": 1400,
+    "alto": 932
    }
   ]
  },
@@ -41,8 +48,35 @@
     "archivo": "foto-chevrolet-aveo-3.jpg",
     "alt": "Chevrolet Aveo, vista general",
     "angulo": "desconocido",
+    "ancho": 1400,
+    "alto": 1050
+   }
+  ]
+ },
+ "chevrolet-groove": {
+  "archivo": "foto-chevrolet-groove-1.jpg",
+  "alt": "Chevrolet Groove, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-chevrolet-groove-1.jpg",
+    "alt": "Chevrolet Groove, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   },
+   {
+    "archivo": "foto-chevrolet-groove-2.jpg",
+    "alt": "Chevrolet Groove, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
     "ancho": 1600,
     "alto": 1200
+   },
+   {
+    "archivo": "foto-chevrolet-groove-3.jpg",
+    "alt": "Chevrolet Groove, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 901
    }
   ]
  },
@@ -54,22 +88,22 @@
     "archivo": "foto-chevrolet-onix-1.jpg",
     "alt": "Chevrolet Onix, vista 3/4 frontal",
     "angulo": "3/4 frontal",
-    "ancho": 1600,
-    "alto": 965
+    "ancho": 1400,
+    "alto": 844
    },
    {
     "archivo": "foto-chevrolet-onix-2.jpg",
     "alt": "Chevrolet Onix, vista perfil",
     "angulo": "perfil",
-    "ancho": 1600,
-    "alto": 1200
+    "ancho": 1400,
+    "alto": 1050
    },
    {
     "archivo": "foto-chevrolet-onix-3.jpg",
     "alt": "Chevrolet Onix, vista 3/4 trasero",
     "angulo": "3/4 trasero",
-    "ancho": 1600,
-    "alto": 948
+    "ancho": 1400,
+    "alto": 829
    }
   ]
  },
@@ -81,15 +115,15 @@
     "archivo": "foto-chevrolet-tracker-1.jpg",
     "alt": "Chevrolet Tracker, vista 3/4 frontal",
     "angulo": "3/4 frontal",
-    "ancho": 1600,
-    "alto": 1200
+    "ancho": 1400,
+    "alto": 1050
    },
    {
     "archivo": "foto-chevrolet-tracker-2.jpg",
     "alt": "Chevrolet Tracker, vista 3/4 trasero",
     "angulo": "3/4 trasero",
-    "ancho": 1600,
-    "alto": 1000
+    "ancho": 1400,
+    "alto": 875
    },
    {
     "archivo": "foto-chevrolet-tracker-3.jpg",
@@ -97,6 +131,19 @@
     "angulo": "interior",
     "ancho": 1600,
     "alto": 916
+   }
+  ]
+ },
+ "chirey-tiggo-7-pro": {
+  "archivo": "foto-chirey-tiggo-7-pro-1.jpg",
+  "alt": "Chirey Tiggo 7 Pro, vista 3/4 trasero",
+  "galeria": [
+   {
+    "archivo": "foto-chirey-tiggo-7-pro-1.jpg",
+    "alt": "Chirey Tiggo 7 Pro, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1300
    }
   ]
  },
@@ -115,8 +162,8 @@
     "archivo": "foto-honda-hr-v-2.jpg",
     "alt": "Honda HR-V, vista 3/4 trasero",
     "angulo": "3/4 trasero",
-    "ancho": 1600,
-    "alto": 1035
+    "ancho": 1400,
+    "alto": 905
    },
    {
     "archivo": "foto-honda-hr-v-3.jpg",
@@ -162,8 +209,8 @@
     "archivo": "foto-kia-sportage-1.jpg",
     "alt": "Kia Sportage, vista 3/4 frontal",
     "angulo": "3/4 frontal",
-    "ancho": 1600,
-    "alto": 791
+    "ancho": 1400,
+    "alto": 692
    },
    {
     "archivo": "foto-kia-sportage-2.jpg",
@@ -176,15 +223,22 @@
     "archivo": "foto-kia-sportage-3.jpg",
     "alt": "Kia Sportage, vista interior",
     "angulo": "interior",
-    "ancho": 1600,
-    "alto": 1066
+    "ancho": 1400,
+    "alto": 932
    }
   ]
  },
  "mazda-cx-5": {
-  "archivo": "foto-mazda-cx-5-2.jpg",
-  "alt": "Mazda CX-5, vista 3/4 trasero",
+  "archivo": "foto-mazda-cx-5-1.jpg",
+  "alt": "Mazda CX-5, vista 3/4 frontal",
   "galeria": [
+   {
+    "archivo": "foto-mazda-cx-5-1.jpg",
+    "alt": "Mazda CX-5, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
    {
     "archivo": "foto-mazda-cx-5-2.jpg",
     "alt": "Mazda CX-5, vista 3/4 trasero",
@@ -196,8 +250,8 @@
     "archivo": "foto-mazda-cx-5-3.jpg",
     "alt": "Mazda CX-5, vista interior",
     "angulo": "interior",
-    "ancho": 1600,
-    "alto": 1200
+    "ancho": 1400,
+    "alto": 1050
    }
   ]
  },
@@ -223,8 +277,8 @@
     "archivo": "foto-mazda-mazda3-3.jpg",
     "alt": "Mazda Mazda3, vista 3/4 trasero",
     "angulo": "3/4 trasero",
-    "ancho": 1600,
-    "alto": 971
+    "ancho": 1400,
+    "alto": 849
    }
   ]
  },
@@ -236,8 +290,8 @@
     "archivo": "foto-mg-zs-1.jpg",
     "alt": "MG ZS, vista 3/4 frontal",
     "angulo": "3/4 frontal",
-    "ancho": 1600,
-    "alto": 860
+    "ancho": 1400,
+    "alto": 752
    },
    {
     "archivo": "foto-mg-zs-2.jpg",
@@ -250,8 +304,8 @@
     "archivo": "foto-mg-zs-3.jpg",
     "alt": "MG ZS, vista interior",
     "angulo": "interior",
-    "ancho": 1600,
-    "alto": 1066
+    "ancho": 1400,
+    "alto": 932
    }
   ]
  },
@@ -263,15 +317,15 @@
     "archivo": "foto-nissan-kicks-1.jpg",
     "alt": "Nissan Kicks, vista 3/4 frontal",
     "angulo": "3/4 frontal",
-    "ancho": 1600,
-    "alto": 1001
+    "ancho": 1400,
+    "alto": 876
    },
    {
     "archivo": "foto-nissan-kicks-2.jpg",
     "alt": "Nissan Kicks, vista 3/4 trasero",
     "angulo": "3/4 trasero",
-    "ancho": 1600,
-    "alto": 957
+    "ancho": 1400,
+    "alto": 837
    },
    {
     "archivo": "foto-nissan-kicks-3.jpg",
@@ -279,6 +333,46 @@
     "angulo": "interior",
     "ancho": 1600,
     "alto": 900
+   }
+  ]
+ },
+ "nissan-march": {
+  "archivo": "foto-nissan-march-1.jpg",
+  "alt": "Nissan March, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-nissan-march-1.jpg",
+    "alt": "Nissan March, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1228
+   },
+   {
+    "archivo": "foto-nissan-march-2.jpg",
+    "alt": "Nissan March, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1213
+   },
+   {
+    "archivo": "foto-nissan-march-3.jpg",
+    "alt": "Nissan March, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 973
+   }
+  ]
+ },
+ "nissan-np300": {
+  "archivo": "foto-nissan-np300-2.jpg",
+  "alt": "Nissan NP300, vista general",
+  "galeria": [
+   {
+    "archivo": "foto-nissan-np300-2.jpg",
+    "alt": "Nissan NP300, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 1032
    }
   ]
  },
@@ -290,15 +384,15 @@
     "archivo": "foto-nissan-sentra-1.jpg",
     "alt": "Nissan Sentra, vista 3/4 frontal",
     "angulo": "3/4 frontal",
-    "ancho": 1600,
-    "alto": 900
+    "ancho": 1400,
+    "alto": 787
    },
    {
     "archivo": "foto-nissan-sentra-2.jpg",
     "alt": "Nissan Sentra, vista 3/4 trasero",
     "angulo": "3/4 trasero",
-    "ancho": 1600,
-    "alto": 900
+    "ancho": 1400,
+    "alto": 787
    },
    {
     "archivo": "foto-nissan-sentra-3.jpg",
@@ -306,6 +400,33 @@
     "angulo": "interior",
     "ancho": 1600,
     "alto": 900
+   }
+  ]
+ },
+ "nissan-versa": {
+  "archivo": "foto-nissan-versa-1.jpg",
+  "alt": "Nissan Versa, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-nissan-versa-1.jpg",
+    "alt": "Nissan Versa, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1030
+   },
+   {
+    "archivo": "foto-nissan-versa-2.jpg",
+    "alt": "Nissan Versa, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 965
+   },
+   {
+    "archivo": "foto-nissan-versa-3.jpg",
+    "alt": "Nissan Versa, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 901
    }
   ]
  },
@@ -317,22 +438,55 @@
     "archivo": "foto-nissan-x-trail-1.jpg",
     "alt": "Nissan X-Trail, vista 3/4 frontal",
     "angulo": "3/4 frontal",
-    "ancho": 1600,
-    "alto": 881
-   },
-   {
-    "archivo": "foto-nissan-x-trail-2.jpg",
-    "alt": "Nissan X-Trail, vista interior",
-    "angulo": "interior",
-    "ancho": 1600,
-    "alto": 841
+    "ancho": 1400,
+    "alto": 771
    },
    {
     "archivo": "foto-nissan-x-trail-3.jpg",
     "alt": "Nissan X-Trail, vista general",
     "angulo": "desconocido",
+    "ancho": 1400,
+    "alto": 758
+   }
+  ]
+ },
+ "renault-kwid": {
+  "archivo": "foto-renault-kwid-1.jpg",
+  "alt": "Renault Kwid, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-renault-kwid-1.jpg",
+    "alt": "Renault Kwid, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
     "ancho": 1600,
-    "alto": 867
+    "alto": 960
+   },
+   {
+    "archivo": "foto-renault-kwid-2.jpg",
+    "alt": "Renault Kwid, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-renault-kwid-3.jpg",
+    "alt": "Renault Kwid, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 1008
+   }
+  ]
+ },
+ "toyota-corolla-cross": {
+  "archivo": "foto-toyota-corolla-cross-1.jpg",
+  "alt": "Toyota Corolla Cross, vista general",
+  "galeria": [
+   {
+    "archivo": "foto-toyota-corolla-cross-1.jpg",
+    "alt": "Toyota Corolla Cross, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 1216
    }
   ]
  },
@@ -344,8 +498,8 @@
     "archivo": "foto-toyota-corolla-1.jpg",
     "alt": "Toyota Corolla, vista 3/4 frontal",
     "angulo": "3/4 frontal",
-    "ancho": 1600,
-    "alto": 1001
+    "ancho": 1400,
+    "alto": 876
    }
   ]
  },
@@ -357,8 +511,8 @@
     "archivo": "foto-toyota-rav4-2.jpg",
     "alt": "Toyota RAV4, vista general",
     "angulo": "desconocido",
-    "ancho": 1600,
-    "alto": 900
+    "ancho": 1400,
+    "alto": 787
    }
   ]
  },
@@ -370,15 +524,15 @@
     "archivo": "foto-toyota-tacoma-1.jpg",
     "alt": "Toyota Tacoma, vista 3/4 frontal",
     "angulo": "3/4 frontal",
-    "ancho": 1600,
-    "alto": 1200
+    "ancho": 1400,
+    "alto": 1050
    },
    {
     "archivo": "foto-toyota-tacoma-2.jpg",
     "alt": "Toyota Tacoma, vista perfil",
     "angulo": "perfil",
-    "ancho": 1600,
-    "alto": 1200
+    "ancho": 1400,
+    "alto": 1050
    },
    {
     "archivo": "foto-toyota-tacoma-3.jpg",
@@ -386,6 +540,33 @@
     "angulo": "3/4 trasero",
     "ancho": 1600,
     "alto": 1200
+   }
+  ]
+ },
+ "volkswagen-jetta": {
+  "archivo": "foto-volkswagen-jetta-1.jpg",
+  "alt": "Volkswagen Jetta, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-volkswagen-jetta-1.jpg",
+    "alt": "Volkswagen Jetta, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 866
+   },
+   {
+    "archivo": "foto-volkswagen-jetta-2.jpg",
+    "alt": "Volkswagen Jetta, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 849
+   },
+   {
+    "archivo": "foto-volkswagen-jetta-3.jpg",
+    "alt": "Volkswagen Jetta, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 910
    }
   ]
  },
@@ -413,6 +594,46 @@
     "angulo": "interior",
     "ancho": 1600,
     "alto": 900
+   }
+  ]
+ },
+ "volkswagen-taos": {
+  "archivo": "foto-volkswagen-taos-1.jpg",
+  "alt": "Volkswagen Taos, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-volkswagen-taos-1.jpg",
+    "alt": "Volkswagen Taos, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1001
+   },
+   {
+    "archivo": "foto-volkswagen-taos-2.jpg",
+    "alt": "Volkswagen Taos, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 991
+   },
+   {
+    "archivo": "foto-volkswagen-taos-3.jpg",
+    "alt": "Volkswagen Taos, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 1066
+   }
+  ]
+ },
+ "volkswagen-virtus": {
+  "archivo": "foto-volkswagen-virtus-1.jpg",
+  "alt": "Volkswagen Virtus, vista general",
+  "galeria": [
+   {
+    "archivo": "foto-volkswagen-virtus-1.jpg",
+    "alt": "Volkswagen Virtus, vista general",
+    "angulo": "desconocido",
+    "ancho": 1600,
+    "alto": 930
    }
   ]
  }

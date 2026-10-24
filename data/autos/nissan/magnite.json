@@ -1,0 +1,140 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "Magnite",
+  "slug": "magnite",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Advance MT 2026",
+      "anio": 2026,
+      "precio": 388990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.0 L turbo 3 cil.",
+      "potenciaHp": 99,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/magnite.html",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $379,990 (vigencia 19-oct a 02-nov-2026). Manual de 5 velocidades. Motor 1.0 L turbo de 99 hp y 118 lb-pie (la ficha de la página lo publica en la versión Advance MT y como motorización del modelo). 6 bolsas de aire, VDC, asistencia de frenado, ABS y TPMS. La ficha no lista frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Advance MT Dark Armour 2026",
+      "anio": 2026,
+      "precio": 398900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.0 L turbo 3 cil.",
+      "potenciaHp": 99,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/magnite.html",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $374,900 (vigencia 19-oct a 02-nov-2026). Manual de 5 velocidades. Acabado Full Black Dark Armour. Motor 1.0 L turbo de 99 hp y 118 lb-pie (la ficha de la página lo publica en la versión Advance MT y como motorización del modelo). 6 bolsas de aire, VDC, asistencia de frenado, ABS y TPMS. La ficha no lista frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Advance CVT 2026",
+      "anio": 2026,
+      "precio": 408990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.0 L turbo 3 cil.",
+      "potenciaHp": 99,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/magnite.html",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $384,990 (vigencia 19-oct a 02-nov-2026). Transmisión CVT. Motor 1.0 L turbo de 99 hp y 118 lb-pie (la ficha de la página lo publica en la versión Advance MT y como motorización del modelo). 6 bolsas de aire, VDC, asistencia de frenado, ABS y TPMS. La ficha no lista frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Advance CVT Dark Armour 2026",
+      "anio": 2026,
+      "precio": 418900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.0 L turbo 3 cil.",
+      "potenciaHp": 99,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/magnite.html",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $394,900 (vigencia 19-oct a 02-nov-2026). CVT. Acabado Full Black Dark Armour. Motor 1.0 L turbo de 99 hp y 118 lb-pie (la ficha de la página lo publica en la versión Advance MT y como motorización del modelo). 6 bolsas de aire, VDC, asistencia de frenado, ABS y TPMS. La ficha no lista frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Exclusive MT 2026",
+      "anio": 2026,
+      "precio": 438990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.0 L turbo 3 cil.",
+      "potenciaHp": 99,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/magnite.html",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $379,990 (vigencia 19-oct a 02-nov-2026). Manual de 5 velocidades. Motor 1.0 L turbo de 99 hp y 118 lb-pie (la ficha de la página lo publica en la versión Advance MT y como motorización del modelo). 6 bolsas de aire, VDC, asistencia de frenado, ABS y TPMS. La ficha no lista frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Exclusive CVT 2026",
+      "anio": 2026,
+      "precio": 457990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.0 L turbo 3 cil.",
+      "potenciaHp": 99,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/magnite.html",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $389,990 (vigencia 19-oct a 02-nov-2026). Transmisión CVT. Motor 1.0 L turbo de 99 hp y 118 lb-pie (la ficha de la página lo publica en la versión Advance MT y como motorización del modelo). 6 bolsas de aire, VDC, asistencia de frenado, ABS y TPMS. La ficha no lista frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [
+    {
+      "descripcion": "Precio CrediNissan desde $374,900 (Advance MT Dark Armour) hasta $394,900; la página anuncia desde $379,990 + 1 año de seguro gratis",
+      "precioOferta": 374900,
+      "condicion": "Solo crédito tradicional con NR Finance México, sujeto a aprobación y comportamiento crediticio; no aplica con otras promociones. Vigencia 19-oct a 02-nov-2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/magnite.html",
+      "fechaVerificacion": "2026-10-24"
+    }
+  ],
+  "fuentes": [
+    "https://www.nissan.com.mx/vehiculos/todos/magnite.html"
+  ],
+  "pendientes": [
+    "Garantía oficial (no publicada en la página del modelo)",
+    "Rendimiento combinado oficial por versión",
+    "Frenado autónomo de emergencia (la ficha no lo menciona)",
+    "Potencia de las versiones CVT y Exclusive: se asume el mismo 1.0 L turbo de 99 hp, solo listado explícitamente en Advance MT"
+  ]
+}

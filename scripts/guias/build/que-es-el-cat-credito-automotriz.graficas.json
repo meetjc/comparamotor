@@ -1,0 +1,48 @@
+{
+ "intereses-tasa": {
+  "titulo": "Intereses totales según la tasa (auto de $350,000, enganche 20%, 60 meses)",
+  "desc": "Cuánto pagas de más solo en intereses.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Tasa 10.9%",
+    "valor": 84435,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Tasa 12.9%",
+    "valor": 101392,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Tasa 15.9%",
+    "valor": 127651,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Tasa 19.9%",
+    "valor": 164163,
+    "color": "#d42a2c"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "Tasa baja"
+   },
+   {
+    "color": "#2a78d6",
+    "texto": "Tasa media-baja"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Tasa media-alta"
+   },
+   {
+    "color": "#d42a2c",
+    "texto": "Tasa alta"
+   }
+  ],
+  "fuente": "Cálculo de ComparaMotor con anualidad a tasa fija; tasas de ejemplo."
+ }
+}

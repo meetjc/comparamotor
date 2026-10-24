@@ -1,0 +1,54 @@
+{
+  "estado": "Sonora",
+  "slug": "sonora",
+  "cobraTenencia2026": false,
+  "tenencia": "No se cobra tenencia estatal para autos. La Ley número 83 de Ingresos y Presupuesto de Ingresos del Estado de Sonora para 2026 (Boletín Oficial, Edición Especial del 12-dic-2025) no incluye un impuesto estatal sobre tenencia o uso de vehículos: el rubro 'Impuestos sobre el Patrimonio' aparece en cero. La obligación anual es la revalidación de placas (derecho). Algunas leyes municipales 2026 conservan un impuesto municipal sobre tenencia o descuentos sobre adeudos de modelos 2012 y anteriores; no aplica a autos nuevos.",
+  "refrendo": {
+    "nombreLocal": "Revalidación anual de placas",
+    "monto2026": 1914,
+    "moneda": "MXN",
+    "detalle": "Trámite oficial del Gobierno de Sonora (revalidación de placas 2026), sedán o camión de servicio particular: $1,914 en el primer trimestre ($2,180 en el segundo, $2,446 en el tercero y $2,713 en el cuarto, según la misma tabla). La página de la Secretaría de Hacienda muestra $1,909 para auto sedán y camión (sin descuento por pronto pago, recargos ni actualizaciones). Moto: $928 (trámite) / $923 (Hacienda). Particular con discapacidad: $750; jubilado, pensionado, bombero o mayor de 60 años: $902 (trámite). La base legal es el art. 312 de la Ley de Hacienda del Estado (derechos actualizados cada enero por Acuerdo de la Secretaría de Hacienda, Boletín Oficial 26-dic-2025)."
+  },
+  "fechaLimite": "31 de marzo de 2026 (la revalidación se hace en los primeros tres meses del año). Pago extemporáneo: adicional de 25% del gravamen hasta 3 meses de vencido, 50% de 3 a 6 meses, 75% de 6 a 9 y 100% después de 9 meses (Ley de Hacienda art. 312, Acuerdo de actualización 2026).",
+  "descuentos": [
+    "Pronto pago 2026 (Ley de Ingresos 2026, art. 9 fracc. IV): en portal electrónico 15% en enero, 10% en febrero y 5% en marzo; en agencias fiscales 5% en enero; en bancos y tiendas autorizadas 5% en enero y febrero. Ya vencidos.",
+    "Reducción de 75% en la revalidación de placas para vehículos y motocicletas híbridos, semihíbridos o eléctricos (Ley de Ingresos 2026, art. 9 fracc. III).",
+    "Tarifa reducida para personas con discapacidad y para jubilados, pensionados, bomberos, socorristas de Cruz Roja y mayores de 60 años (ver monto en detalle del trámite oficial)."
+  ],
+  "portalPago": "https://cuentaunica.siiafhacienda.gob.mx/Account/Login",
+  "fuentes": [
+    {
+      "nombre": "Gobierno de Sonora: Revalidación de placas para el ejercicio 2026 (trámite oficial, costos por trimestre)",
+      "url": "https://www.sonora.gob.mx/servicios-y-tramites/123-revalidacion-de-placas-para-el-ejercicio-2026",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Secretaría de Hacienda de Sonora: requisitos y costos de revalidación de placas 2026",
+      "url": "https://hacienda.sonora.gob.mx/revalidacion-placas",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Boletín Oficial de Sonora, Edición Especial 12-dic-2025: Decreto 76 (reformas a Ley de Hacienda) y Ley 83 de Ingresos 2026",
+      "url": "https://boletinoficial.sonora.gob.mx/boletin.php?id=70",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Boletín Oficial de Sonora, 26-dic-2025: Acuerdo que actualiza cuotas del Título Cuarto de la Ley de Hacienda para 2026",
+      "url": "https://boletinoficial.sonora.gob.mx/boletin.php?id=85",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "N+ Sonora: revalidación vehicular 2026, costo regular $1,909",
+      "url": "https://www.nmas.com.mx/sonora/revalidacion-vehicular-2026-sonora-cual-es-costo-tramite-y-donde-pagar/",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "Dos páginas oficiales dan montos distintos ($1,914 en sonora.gob.mx y $1,909 en hacienda.sonora.gob.mx); se usa $1,914 (primer trimestre) y queda por aclarar cuál rige.",
+    "La tabla trimestral de sonora.gob.mx llega hasta $2,713 pero la página dice que el periodo es del 1-ene al 31-mar; no se aclara cómo se aplica a pagos posteriores ni si coincide con los recargos del art. 312.",
+    "Ley de Hacienda del Estado de Sonora (texto consolidado) no consultada; el monto base del art. 312 en el decreto 76 es $1,065 antes de actualización y no se reconcilió con $1,909/$1,914.",
+    "Impuesto municipal sobre tenencia en algunos municipios (modelos 2012 y anteriores) no se detalló por municipio.",
+    "Remolque: la página oficial muestra importes desordenados por trimestre."
+  ]
+}

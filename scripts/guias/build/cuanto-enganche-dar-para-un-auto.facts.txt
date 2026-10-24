@@ -1,0 +1,16 @@
+Hoy: 24 de octubre de 2026. Supuestos del sitio: enganche 20%, plazo 60 meses, tasa anual de ejemplo 15.9%, 15,000 km al año, gasolina $24.5/l, seguro de ejemplo $9,410 al año, servicios $22,000 en 5 años.
+REGLA: el CAT de un crédito lo informa cada otorgante; ComparaMotor no inventa un CAT propio.
+== Auto $350,000, tasa 15.9%, 60 meses, según enganche ==
+Enganche 10% ($35,000): mensualidad $7,643, total pagado $493,608, intereses $143,608
+Enganche 20% ($70,000): mensualidad $6,794, total pagado $477,651, intereses $127,651
+Enganche 30% ($105,000): mensualidad $5,945, total pagado $461,695, intereses $111,695
+Enganche 40% ($140,000): mensualidad $5,096, total pagado $445,738, intereses $95,738
+== Mismo auto, enganche 20%, tasa 15.9%, según plazo ==
+36 meses: mensualidad $9,830, total pagado $423,885, intereses $73,885
+48 meses: mensualidad $7,921, total pagado $450,205, intereses $100,205
+60 meses: mensualidad $6,794, total pagado $477,651, intereses $127,651
+72 meses: mensualidad $6,058, total pagado $506,198, intereses $156,198
+Ahorro de intereses entre enganche 10% y 30%: $31,913
+Regla práctica de prudencia: que la mensualidad no pase de 30% del ingreso neto, contando otras deudas. Con mensualidad de 6,794 hace falta un ingreso neto de unos $22,647
+Enganche mínimo publicado por Banorte: 10%. Promociones de marca suelen pedir enganches de 35% a 47% (por ejemplo MG ZS Turbo con financiamiento 47%, Renault Kwid con tasa preferencial y 35% mínimo, Nissan Magnite 41%).
+== Con enganche 40% los intereses son $95,738 contra $143,608 con 10%: diferencia de casi $48,000 ==

@@ -1,0 +1,97 @@
+{
+  "marca": "Kia",
+  "marcaSlug": "kia",
+  "modelo": "Seltos",
+  "slug": "seltos",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "coreana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "LX 2027",
+      "anio": 2027,
+      "precio": 499900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L MPI 4 cil.",
+      "potenciaHp": 113,
+      "rendimientoCombinadoKmL": 17.96,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/seltos/specification.html",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Transmisión IVT (variable inteligente, clasificada aquí como cvt). Tracción 2WD. Rendimiento NOM-163 de laboratorio según la tabla de especificaciones. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina). La tabla de seguridad marca el asistente de evasión de colisión frontal (FCA) con punto en las cuatro versiones."
+    },
+    {
+      "nombre": "EX 2027",
+      "anio": 2027,
+      "precio": 529900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L MPI 4 cil.",
+      "potenciaHp": 113,
+      "rendimientoCombinadoKmL": 17.96,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/seltos/specification.html",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Transmisión IVT (variable inteligente, clasificada aquí como cvt). Tracción 2WD. Rendimiento NOM-163 de laboratorio según la tabla de especificaciones. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina). La tabla de seguridad marca el asistente de evasión de colisión frontal (FCA) con punto en las cuatro versiones."
+    },
+    {
+      "nombre": "EX PACK 2027",
+      "anio": 2027,
+      "precio": 554900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L T-GDI turbo 4 cil.",
+      "potenciaHp": 197,
+      "rendimientoCombinadoKmL": 16.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/seltos/specification.html",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Automática de 8 velocidades. Tracción 2WD. Rendimiento NOM-163 de laboratorio según la tabla de especificaciones. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina). La tabla de seguridad marca el asistente de evasión de colisión frontal (FCA) con punto en las cuatro versiones."
+    },
+    {
+      "nombre": "SX 2027",
+      "anio": 2027,
+      "precio": 619900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L T-GDI turbo 4 cil.",
+      "potenciaHp": 197,
+      "rendimientoCombinadoKmL": 16.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial)",
+      "url": "https://www.kia.com/mx/showroom/seltos/specification.html",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Automática de 8 velocidades. Tracción 2WD. Rendimiento NOM-163 de laboratorio según la tabla de especificaciones. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina). La tabla de seguridad marca el asistente de evasión de colisión frontal (FCA) con punto en las cuatro versiones."
+    }
+  ],
+  "garantia": {
+    "texto": "Tren motriz 7 años o 150,000 km; garantía básica (defensa a defensa) 5 años o 100,000 km (lo que ocurra primero)",
+    "fuente": "Kia México (sitio oficial), página de promociones",
+    "url": "https://www.kia.com/mx/shopping-tools/promociones-new.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.kia.com/mx/showroom/seltos/specification.html",
+    "https://www.kia.com/mx/showroom/seltos.html"
+  ],
+  "pendientes": [
+    "Ofertas y promociones vigentes del Seltos (no consultadas)",
+    "Seltos Híbrida 2027 (desde $649,900) es modelo aparte y no se incluyó",
+    "Garantía tomada de la página de promociones de Kia usada en Sonet; reconfirmar para Seltos 2027",
+    "El FCA marcado en la tabla se interpreta como frenado autónomo de emergencia; confirmar en el catálogo PDF"
+  ]
+}

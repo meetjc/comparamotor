@@ -59,7 +59,7 @@ function ranking(ctx, D, R) {
   </div>`;
   return page(ctx, {
     title: `${R.h1} (2026)`, description: R.desc, body, updated: fechaLarga(fecha),
-    crumbsItems: R.ruta.startsWith('/mejores/') ? [{ name: 'Inicio', url: '/' }, { name: 'Mejores autos', url: '/mejores/' }, { name: R.corto, url: R.ruta }] : [{ name: 'Inicio', url: '/' }, { name: R.corto, url: R.ruta }],
+    crumbsItems: R.ruta.startsWith('/mejores/') ? [{ name: 'Inicio', url: '/' }, { name: 'Mejores autos', url: '/mejores/' }, { name: R.corto, url: R.ruta }] : [{ name: 'Inicio', url: '/' }, { name: 'Mejores autos', url: '/mejores/' }, { name: R.corto, url: R.ruta }],
     schema: [f.schema, { '@context': 'https://schema.org', '@type': 'ItemList', name: R.h1, itemListOrder: 'https://schema.org/ItemListOrderAscending', itemListElement: rows.map((r, i) => ({ '@type': 'ListItem', position: i + 1, name: nom(r), url: SITE.url + fichaURL(r.a) })) }],
   });
 }

@@ -1,0 +1,83 @@
+{
+  "marca": "Toyota",
+  "marcaSlug": "toyota",
+  "modelo": "Yaris",
+  "slug": "yaris",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Base CVT",
+      "anio": 2026,
+      "precio": 326500,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil. VVT-i",
+      "potenciaHp": 106,
+      "rendimientoCombinadoKmL": 19.22,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Toyota México (sitio oficial)",
+      "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-hatchback/",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Motor 1.5 L 4 cil. VVT-i, 106 hp @ 6,000 rpm y 103 lb-pie (ficha técnica 2026, actualizada en agosto de 2026). 7 bolsas de aire (2 frontales, 2 laterales, 1 de rodillas y 2 de cortina). Rendimiento de combustible informativo de laboratorio publicado por Toyota: 19.22 km/l con CVT y 18.13 km/l con manual. La ficha de esta versión no incluye Toyota Safety Sense."
+    },
+    {
+      "nombre": "S MT",
+      "anio": 2026,
+      "precio": 357000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil. VVT-i",
+      "potenciaHp": 106,
+      "rendimientoCombinadoKmL": 18.13,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Toyota México (sitio oficial)",
+      "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-hatchback/",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Motor 1.5 L 4 cil. VVT-i, 106 hp @ 6,000 rpm y 103 lb-pie (ficha técnica 2026, actualizada en agosto de 2026). 7 bolsas de aire (2 frontales, 2 laterales, 1 de rodillas y 2 de cortina). Rendimiento de combustible informativo de laboratorio publicado por Toyota: 19.22 km/l con CVT y 18.13 km/l con manual. Manual de 5 velocidades. La ficha de esta versión no incluye Toyota Safety Sense."
+    },
+    {
+      "nombre": "S CVT",
+      "anio": 2026,
+      "precio": 383300,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil. VVT-i",
+      "potenciaHp": 106,
+      "rendimientoCombinadoKmL": 19.22,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial)",
+      "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-hatchback/",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Motor 1.5 L 4 cil. VVT-i, 106 hp @ 6,000 rpm y 103 lb-pie (ficha técnica 2026, actualizada en agosto de 2026). 7 bolsas de aire (2 frontales, 2 laterales, 1 de rodillas y 2 de cortina). Rendimiento de combustible informativo de laboratorio publicado por Toyota: 19.22 km/l con CVT y 18.13 km/l con manual. Incluye Toyota Safety Sense (TSS) con Sistema de Pre-Colisión (PCS) y Alerta de Cambio de Carril (LDA) según la ficha por versión. Toyota no describe en la ficha si el PCS frena de forma autónoma."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-hatchback/",
+    "https://www.toyota.mx/content/dam/tmex/yaris-hatchback/ficha-t%C3%A9cnica/Ficha_Tecnica_YARIS_HB_26_web.pdf.coredownload.pdf",
+    "https://www.toyota.mx/modelos/"
+  ],
+  "pendientes": [
+    "Garantía oficial (toyota.mx no la publica en la ficha del modelo)",
+    "Potencia en la ficha: 106 hp",
+    "El Yaris Sedán ($327,700) y el Yaris Sedán HEV ($450,000) son otras fichas en toyota.mx y no se incluyen; este archivo es el Yaris Hatchback",
+    "Toyota Yaris Cross no se vende en México: el SUV subcompacto de la marca es el Raize",
+    "Frenado autónomo del S CVT: la ficha dice \"Sistema de Pre-Colisión (PCS)\" sin detallar frenado automático; se marcó true",
+    "Precios de la ficha son \"Desde\" por versión"
+  ]
+}

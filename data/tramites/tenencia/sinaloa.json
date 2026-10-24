@@ -1,0 +1,59 @@
+{
+  "estado": "Sinaloa",
+  "slug": "sinaloa",
+  "cobraTenencia2026": false,
+  "tenencia": "No se cobra. La iniciativa de Ley de Ingresos y Presupuesto de Egresos 2026 del Ejecutivo de Sinaloa (exposición de motivos, sec. 5.2.1) dice que no se consideran recursos del Impuesto sobre Tenencia o Uso de Vehículos 'debido a que dicho gravamen permanece derogado' y solo se prevé el ingreso por adeudos pendientes (estimado 2026: 0). El texto vigente de la Ley de Hacienda del Estado de Sinaloa (última reforma P.O. 085, 17-jul-2026) ya no contiene el capítulo de tenencia; solo transitorios sobre obligaciones anteriores. Sí existe el Impuesto sobre Adquisición de Vehículos de Motor Usado (Capítulo I).",
+  "refrendo": {
+    "nombreLocal": "Revalidación anual de tarjeta de circulación y calcomanía de refrendo",
+    "monto2026": 2065,
+    "moneda": "MXN",
+    "detalle": "Ley de Hacienda del Estado de Sinaloa, art. 48 fracc. III inciso D) num. 1: 16 UMA para vehículo de servicio particular (motocicleta 6 UMA). Con UMA 2026 de $117.31: 16 x 117.31 = $1,876.96, más 10% adicional pro-educación superior (art. 111, derechos de tránsito) = $2,064.66, redondeado a $2,065. Es un cálculo con la ley y la UMA oficial, no una cifra publicada por el SATES; coincide con la cifra de prensa de apoyo ($2,065). Antes de febrero de 2026 regía la UMA 2025 ($113.14)."
+  },
+  "fechaLimite": "31 de marzo de 2026 (aviso oficial del Gobierno de Sinaloa). Prensa (ADN40) reporta prórroga al 15 de abril de 2026 sin recargos.",
+  "descuentos": [
+    "55% del principal en la revalidación 2026 para automóviles y vehículos de servicio público modelo 2011 y anteriores (estímulo fiscal, Gobierno de Sinaloa).",
+    "33.33% del principal para motocicletas modelo 2011 y anteriores.",
+    "Pago a 3 o 6 meses sin intereses con tarjetas de crédito participantes (Gobierno de Sinaloa).",
+    "El gobierno estatal anunció programas temporales de regularización (p. ej. 'Ponte al Corriente' con pago único de $6,000 para modelos 2018 y anteriores, prensa) que ya terminaron; no aplican hoy."
+  ],
+  "portalPago": "https://ciudadano.sinaloa.gob.mx",
+  "fuentes": [
+    {
+      "nombre": "Ley de Hacienda del Estado de Sinaloa, texto vigente (Congreso de Sinaloa; última reforma P.O. 085, 17-jul-2026)",
+      "url": "https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_43.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Exposición de motivos e iniciativa de Ley de Ingresos y Presupuesto de Egresos 2026 de Sinaloa (Transparencia Sinaloa)",
+      "url": "https://media.transparencia.sinaloa.gob.mx/uploads/files/1/Exposici_n_de_Motivos_e_Iniciativa_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Gobierno de Sinaloa: la fecha límite del Refrendo Vehicular 2026 es el 31 de marzo (y descuentos 55% / 33.33%)",
+      "url": "https://sinaloa.gob.mx/la-fecha-limite-de-pago-del-refrendo-vehicular-2026-es-el-31-de-marzo-del-presente-ano/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "INEGI: valor de la UMA 2026 (diario $117.31, vigente desde el 1-feb-2026; publicado en el DOF el 9-ene-2026)",
+      "url": "https://www.inegi.org.mx/temas/uma/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Todo sobre autos: cuánto cuesta emplacar en Sinaloa en 2026 (refrendo $2,065)",
+      "url": "https://www.todosobreautos.com/mexico/calculadora-emplacamiento/sinaloa/",
+      "tipo": "prensa (apoyo)"
+    },
+    {
+      "nombre": "ADN40: Sinaloa extiende plazo del refrendo al 15 de abril (3-abr-2026)",
+      "url": "https://www.adn40.mx/tramites/2026-04-03/es-oficial-sinaloa-extiende-el-plazo-para-pagar-el-refrendo-vehicular-y-esta-es-la-nueva-fecha-limite-en-abril/",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "El monto de $2,065 es cálculo propio (16 UMA + 10%); no se encontró la tabla de tarifas publicada por el SATES. No se verificó directamente en INEGI/DOF el valor $117.31 (confirmado solo en fuentes secundarias).",
+    "La Ley de Ingresos 2026 de Sinaloa publicada en el Periódico Oficial no se localizó; la afirmación de que la tenencia sigue derogada viene de la iniciativa del Ejecutivo y del texto vigente de la Ley de Hacienda.",
+    "El monto de revalidación puede cambiar si se aprueba otro decreto; el último plazo oficial (31-mar / 15-abr-2026) ya venció, por lo que hoy se pagan recargos y multas (importes no verificados).",
+    "Condiciones de otros descuentos (adultos mayores, discapacidad, eléctricos) no verificadas."
+  ]
+}

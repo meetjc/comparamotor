@@ -1,0 +1,62 @@
+{
+  "estado": "Tamaulipas",
+  "slug": "tamaulipas",
+  "cobraTenencia2026": false,
+  "tenencia": "No se cobra tenencia vigente en 2026. La Ley de Ingresos del Estado de Tamaulipas 2026 (Decreto 66-908, Periódico Oficial 16-dic-2025) no contiene ningún concepto de tenencia entre los impuestos estatales. En el anexo de distribución a municipios del Presupuesto de Egresos 2026 solo aparece 'Impuesto sobre Tenencia o Uso de Vehículos (Rezago Local)' por $89,297 (adeudos de años anteriores). Prensa de apoyo (Milenio, 2025) reporta que el estado exentó la tenencia a modelos 2018 y anteriores en 2025.",
+  "refrendo": {
+    "nombreLocal": "Derechos de control vehicular (ingreso o refrendo anual en el padrón de vehículos)",
+    "monto2026": 2346.2,
+    "moneda": "MXN",
+    "detalle": "Ley de Hacienda para el Estado de Tamaulipas, art. 73 fracc. I inciso a) (reforma del Decreto 66-907, Periódico Oficial 16-dic-2025): 20 veces el valor diario de la UMA por el ingreso o refrendo anual de vehículos de combustión interna, eléctricos, híbridos o remolques. Con la UMA 2026 de $117.31: 20 x 117.31 = $2,346.20 (con la UMA 2025 de $113.14, vigente en enero, serían $2,262.80). Expedición, reposición o canje de placas: 5 UMA (art. 73 fracc. I inciso b). Es un cálculo con la ley y la UMA oficial, no una cifra publicada por Finanzas."
+  },
+  "fechaLimite": null,
+  "descuentos": [
+    "30% de descuento en derechos de control vehicular de enero a marzo de 2026 para contribuyentes sin adeudos (acuerdo publicado en el Periódico Oficial del 22-dic-2025, según copia en vLex).",
+    "Prensa de apoyo (ADN40, 22-abr-2026, citando redes de la Secretaría de Finanzas) reporta ampliación del 30% hasta el 31 de mayo de 2026 y 50% de condonación de recargos para modelos 2018 a 2025; ya vencidos."
+  ],
+  "portalPago": "https://finanzas.tamaulipas.gob.mx/pago-de-contribuciones/control-vehicular/iniciar-tramite.php",
+  "fuentes": [
+    {
+      "nombre": "Decreto 66-907 (reformas a la Ley de Hacienda: art. 73 control vehicular), 66-908 (Ley de Ingresos 2026) y 66-909; Periódico Oficial, 16-dic-2025",
+      "url": "https://finanzas.tamaulipas.gob.mx/uploads/2026/01/convocatoria/Anexo5.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ley de Ingresos del Estado de Tamaulipas 2026, Decreto 66-908 (Transparencia Tamaulipas)",
+      "url": "https://transparencia.tamaulipas.gob.mx/wp-content/uploads/2026/02/Ley-de-Ingresos-del-Estado-2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Periódico Oficial de Tamaulipas, Extraordinario 63, 22-dic-2025: acuerdos de beneficios fiscales 2026 (copia vLex)",
+      "url": "https://vlex.com.mx/vid/periodico-oficial-legislativo-numero-1099208542",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "INEGI: valor de la UMA 2026 (diario $117.31, vigente desde el 1-feb-2026; publicado en el DOF el 9-ene-2026)",
+      "url": "https://www.inegi.org.mx/temas/uma/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Secretaría de Finanzas de Tamaulipas: Control Vehicular, pago de derechos y/o tenencia",
+      "url": "https://finanzas.tamaulipas.gob.mx/pago-de-contribuciones/control-vehicular/iniciar-tramite.php",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "ADN40: amplían fechas de descuento en control vehicular en Tamaulipas (22-abr-2026)",
+      "url": "https://www.adn40.mx/tramites/2026-04-22/aprovecha-ahora-amplian-fechas-de-descuento-en-multas-recargos-y-control-vehicular-en-tamaulipas/",
+      "tipo": "prensa (apoyo)"
+    },
+    {
+      "nombre": "Milenio: descuento de tenencia 2025 para autos chocolate en Tamaulipas",
+      "url": "https://www.milenio.com/estados/descuento-tenencia-2025-autos-chocolates-tamaulipas",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "El monto de $2,346.20 es cálculo propio (20 UMA x $117.31); el sitio de Finanzas bloquea la consulta automatizada y no se pudo ver la tarifa publicada. Prensa da cifras distintas ($2,266 UnoTV, $1,833 TramitaSeguro); no se usaron.",
+    "No se consultó el texto consolidado de la Ley de Hacienda: el impuesto local de tenencia (creado en 2011) podría seguir en la ley aunque la Ley de Ingresos 2026 no estime recaudación; confirmar con Finanzas que no se cobra a modelos recientes.",
+    "No se localizó fecha límite de pago 2026 en fuente oficial; la página de acuerdos de beneficios fiscales solo se leyó en copia vLex truncada.",
+    "Los beneficios 2026 (30% enero-marzo; ampliación a mayo) ya vencieron; descuentos vigentes hoy no verificados."
+  ]
+}

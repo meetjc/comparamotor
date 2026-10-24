@@ -1,0 +1,11 @@
+Hoy: 24 de octubre de 2026. Supuestos del sitio: enganche 20%, plazo 60 meses, tasa anual de ejemplo 15.9%, 15,000 km al año, gasolina $24.5/l, seguro de ejemplo $9,410 al año, servicios $22,000 en 5 años.
+REGLA: el CAT de un crédito lo informa cada otorgante; ComparaMotor no inventa un CAT propio.
+== Toyota Corolla 2026, versiones LE: LE CVT (gasolina) lista $466,100, 19.14 km/l oficial; LE HEV (híbrido) lista $524,400, 31.31 km/l oficial. Diferencia de precio $58,300. Fuente toyota.mx, 20 oct 2026 ==
+15,000 km al año con gasolina a $24.5: gasolina LE $19,201 al año, LE HEV $11,737 al año, ahorro $7,463 al año; se recupera la diferencia de precio en 7.8 años (sin contar intereses del crédito)
+25,000 km al año con gasolina a $24.5: gasolina LE $32,001 al año, LE HEV $19,562 al año, ahorro $12,439 al año; se recupera la diferencia de precio en 4.7 años (sin contar intereses del crédito)
+40,000 km al año con gasolina a $24.5: gasolina LE $51,202 al año, LE HEV $31,300 al año, ahorro $19,902 al año; se recupera la diferencia de precio en 2.9 años (sin contar intereses del crédito)
+En 5 años a 25,000 km: ahorro de gasolina $62,193 contra diferencia de precio $58,300
+Híbrido HEV no se enchufa; PHEV se enchufa; MHEV (híbrido ligero) no mueve el auto solo con electricidad.
+Según el programa de verificación de la CDMX del segundo semestre de 2026, los vehículos eléctricos y los híbridos (HEV, PHEV, REEV) están exentos del Hoy No Circula (SEDEMA, GOCDMX 1 jul 2026); confirma tu holograma.
+Participación de híbridos y eléctricos: 13% de las ventas de autos nuevos en septiembre 2026 (16,824 unidades; AMIA/INEGI).
+== Cálculo propio sobre la diferencia de precio de $58,300 (enganche 20%, 60 meses, tasa 15.9%): ahorro de gasolina a 5 años: $37,315 (15,000 km), $62,193 (25,000 km), $99,510 (40,000 km); enganche adicional 20%: $11,660; monto adicional a financiar (80%): $46,640; intereses adicionales: $21,263; costo total extra del híbrido financiado: $79,563 ==

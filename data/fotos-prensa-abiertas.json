@@ -1,0 +1,68 @@
+[
+  {
+    "marca": "Kia",
+    "modelo": "K3 (referencia: K4 sedán 2027 de Kia America; por confirmar que es el mismo auto que el K3 de México)",
+    "fuenteId": "prensa-kia-us",
+    "imagenUrl": "https://www.kiamedia.com/us/en/download/25133/high/jpg",
+    "paginaUrl": "https://www.kiamedia.com/us/en/media/photos/25133/2027-k4-25133",
+    "terminosUrl": "https://www.kiamedia.com/us/en/media/gallery",
+    "clausula": "Images on this website are for editorial use only.",
+    "anio": 2027,
+    "ancho": 5857,
+    "alto": 3905,
+    "angulo": "trasera tres cuartos",
+    "credito": "Foto: Kia America",
+    "restricciones": [
+      "solo uso editorial; prohibido en publicidad, anuncios pagados y materiales promocionales",
+      "no sugerir respaldo de Kia",
+      "los Terms of Use generales (https://www.kiamedia.com/us/en/corporate/terms-of-use) solo dan licencia personal no comercial y prohíben modificar contenido: tratar como sin editar y dejar a JC la decisión de riesgo",
+      "publicada 2026-09-30 (ID 25133)"
+    ],
+    "requiereRegistro": false,
+    "verificadoEl": "2026-10-24"
+  },
+  {
+    "marca": "Kia",
+    "modelo": "K3 (referencia: K4 sedán 2027 de Kia America; por confirmar que es el mismo auto que el K3 de México)",
+    "fuenteId": "prensa-kia-us",
+    "imagenUrl": "https://www.kiamedia.com/us/en/download/25142/high/jpg",
+    "paginaUrl": "https://www.kiamedia.com/us/en/media/photos/25142/2027-k4-25142",
+    "terminosUrl": "https://www.kiamedia.com/us/en/media/gallery",
+    "clausula": "Images on this website are for editorial use only.",
+    "anio": 2027,
+    "ancho": 4906,
+    "alto": 3271,
+    "angulo": "frontal tres cuartos",
+    "credito": "Foto: Kia America",
+    "restricciones": [
+      "solo uso editorial; prohibido en publicidad, anuncios pagados y materiales promocionales",
+      "no sugerir respaldo de Kia",
+      "los Terms of Use generales (https://www.kiamedia.com/us/en/corporate/terms-of-use) solo dan licencia personal no comercial y prohíben modificar contenido: tratar como sin editar y dejar a JC la decisión de riesgo",
+      "publicada 2026-09-30 (ID 25142)"
+    ],
+    "requiereRegistro": false,
+    "verificadoEl": "2026-10-24"
+  },
+  {
+    "marca": "Kia",
+    "modelo": "K3 (referencia: K4 sedán 2027 de Kia America; por confirmar que es el mismo auto que el K3 de México)",
+    "fuenteId": "prensa-kia-us",
+    "imagenUrl": "https://www.kiamedia.com/us/en/download/25135/high/jpg",
+    "paginaUrl": "https://www.kiamedia.com/us/en/media/photos/25135/2027-k4-25135",
+    "terminosUrl": "https://www.kiamedia.com/us/en/media/gallery",
+    "clausula": "Images on this website are for editorial use only.",
+    "anio": 2027,
+    "ancho": null,
+    "alto": null,
+    "angulo": "perfil lateral",
+    "credito": "Foto: Kia America",
+    "restricciones": [
+      "solo uso editorial; prohibido en publicidad, anuncios pagados y materiales promocionales",
+      "no sugerir respaldo de Kia",
+      "los Terms of Use generales (https://www.kiamedia.com/us/en/corporate/terms-of-use) solo dan licencia personal no comercial y prohíben modificar contenido: tratar como sin editar y dejar a JC la decisión de riesgo",
+      "dimensiones no medidas (ID 25135)"
+    ],
+    "requiereRegistro": false,
+    "verificadoEl": "2026-10-24"
+  }
+]

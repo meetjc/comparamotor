@@ -1,0 +1,12 @@
+Hoy: 24 de octubre de 2026. Supuestos del sitio: enganche 20%, plazo 60 meses, tasa anual de ejemplo 15.9%, 15,000 km al año, gasolina $24.5/l, seguro de ejemplo $9,410 al año, servicios $22,000 en 5 años.
+REGLA: el CAT de un crédito lo informa cada otorgante; ComparaMotor no inventa un CAT propio.
+== CONDUSEF, ejercicio del 2026-07-10: Ford Fiesta Titanium L4/1.6 automático 4 puertas, modelo 2016, circula en CDMX, conductor hombre de 36 años ==
+responsabilidad civil: mínimo $5,034, máximo $6,011, promedio simple $5,351 al año (4 cotizaciones)
+limitada: mínimo $5,680, máximo $6,487, promedio simple $6,146 al año (4 cotizaciones)
+amplia: mínimo $7,258, máximo $10,496, promedio simple $9,128 al año (4 cotizaciones)
+Definiciones del simulador CONDUSEF: responsabilidad civil cubre daños a terceros; limitada suma robo total; amplia suma daños materiales al auto.
+Prima del seguro de ejemplo del sitio: $9,410 al año; en 5 años $47,050. AMIS: primas directas de autos 1S 2026 $111,868 mdp, +6.9%.
+Seguro financiado: si se suma a un crédito de $350,000 con tasa 15.9% a 60 meses, $9,410 adicionales cuestan en intereses unos $4,290 extra (cálculo propio).
+Comparador oficial: https://webappsos.condusef.gob.mx/SimuladorSeguroAutomovil/
+En promociones de marca el seguro gratis (1 año) suele exigir crédito con la financiera; ejemplos: Renault Kwid con MAPFRE o GNP, Kia K3 con 1 año de seguro gratis o bono de $40,000.
+== Cálculo propio: seguro de $9,410 financiado a 60 meses y 15.9%: intereses extra $4,290, total $13,700. Ejemplo hipotético de valor convenido: $300,000 ==

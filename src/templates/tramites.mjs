@@ -5,7 +5,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { page } from '../layout.mjs';
 import { esc, mxn, num, fechaCorta, fechaLarga, diaSemana, readJSON, listJSON, SITE } from '../lib.mjs';
-import { answer, table, fuentes, faq, ph, actualizado } from './common.mjs';
+import { answer, table, fuentes, faq, ph, actualizado, linkify } from './common.mjs';
 import { hncPaginas, hncCompacto } from './hnc.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
@@ -19,7 +19,7 @@ function render(v, depth = 0) {
   if (v == null || v === '') return '—';
   if (typeof v === 'number') return num(v);
   if (typeof v === 'boolean') return v ? 'Sí' : 'No';
-  if (typeof v === 'string') return esc(v);
+  if (typeof v === 'string') return linkify(v);
   if (Array.isArray(v)) return v.length ? `<ul>${v.map((x) => `<li>${render(x, depth + 1)}</li>`).join('')}</ul>` : '—';
   const ks = Object.keys(v).filter((k) => ETIQ[k] !== null);
   if (ks.every((k) => /^[0-9-]+$/.test(k))) return table({ head: ['Terminación de placa', 'Mes'], rows: ks.map((k) => [esc(k), esc(String(v[k]))]) });
@@ -99,7 +99,7 @@ export function paginas(C, D) {
     const e = G.ejemplo_descargado_hoy, pr = e.precios_promedio_mxn_por_litro, ref = e.referencia_oficial_publicada_xlsx_septiembre_2026 || {};
     const f2 = (x) => (x == null ? '—' : '$' + Number(x).toFixed(2));
     const nac = pr.nacional, cd = pr.cdmx || {};
-    const fecha = e.fecha_descarga || G.meta.fecha_verificacion;
+    const fecha = (String(e.fecha_descarga || '').match(/^\d{4}-\d{2}-\d{2}/) || [G.meta.fecha_verificacion])[0];
     const ctx = C('/precio-gasolina/');
     const val = (o, k) => o && o[k] && (o[k].promedio_filtrado_10_40 ?? o[k].promedio ?? o[k]);
     const f = faq([

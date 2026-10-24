@@ -1,0 +1,35 @@
+Escribe en español de México una guía larga y útil para ComparaMotor (comparador de autos nuevos y medio automotriz en México). Hoy es 24 de octubre de 2026.
+TÍTULO (H1, no lo repitas en el cuerpo): ¿Cuánto cuesta realmente tener un auto en México?
+TEMAS A CUBRIR: El desglose a cinco años (compra, seguro, gasolina, servicios), ejemplo de $350,000 en tabla, costo por año, por mes y por día, comparación de cuatro versiones reales de entrada, el peso de la gasolina, el peso del seguro, gastos que varían por estado (tenencia o refrendo y verificación: remite a /tramites/ sin dar montos), cómo reducir el costo, qué hacer antes de comprar. Liga a /costo-total/ y /tramites/.
+EXTENSIÓN: 2,100 a 2,600 palabras. Es una guía a fondo, no un resumen: explica los conceptos con ejemplos, di por qué importan, y cierra cada sección con una conclusión práctica de una frase.
+ESTRUCTURA OBLIGATORIA (devuelve solo HTML del cuerpo; sin <html>, <body> ni <h1>):
+1. Primer elemento: <p class="answer">…</p> con la respuesta directa en 2 o 3 frases con cifras.
+2. De 9 a 11 secciones <h2>; cada <h2> es una pregunta literal de búsqueda que empieza con ¿ y termina con ?. La primera frase debajo de cada <h2> responde directo.
+3. Al menos 3 tablas, cada una así: <div class="tbl-wrap"><table class="tbl"><thead><tr><th>…</th></tr></thead><tbody>…</tbody></table></div>, con datos de FACTS.
+4. Una sección con una lista ordenada <ol> llamada «¿Qué hacer antes de firmar?» (o «antes de decidir», según el tema) con 6 a 8 pasos concretos.
+5. Al final, una sección <h2>Preguntas frecuentes</h2> con EXACTAMENTE esta estructura: <div class="faq"><details><summary>¿Pregunta?</summary><p>Respuesta de 2 a 4 frases.</p></details> …</div> con 5 preguntas distintas a los H2.
+6. Marcadores de figura: inserta exactamente estos comentarios HTML, cada uno solo en su línea entre párrafos, en este orden y repartidos de forma pareja a lo largo del texto (uno cada 2 o 3 secciones): <!--FIG:grafica:costo-5-->  <!--FIG:foto:toyota-corolla:0-->  <!--FIG:grafica:costo-versiones-->. No escribas etiquetas <img>.
+7. Enlaces internos con <a href="RUTA">texto descriptivo</a> solo a estas rutas: /comparar/ /autos/ /autos/precios/ /credito-automotriz/ /costo-total/ /que-me-alcanza/ /mejores/autos-hibridos/ /mejores/autos-baratos/ /seguro-de-auto/ /promociones/ /tramites/ /hoy-no-circula/ /glosario/ /metodologia/. Pon de 4 a 6 enlaces, repartidos.
+REGLAS DE CONTENIDO (no negociables):
+- Usa SOLO las cifras de FACTS (copiadas tal cual: mismo monto, mismo porcentaje, misma fecha). No inventes precios, tasas, porcentajes, fechas, leyes, artículos, nombres de bancos, aseguradoras o modelos que no estén en FACTS. Para explicar conceptos puedes usar ejemplos sin cifras, o los números pequeños que tú derives de operaciones simples visibles (por ejemplo «el doble»). Si algo depende de cada persona, dilo sin inventar cifras.
+- Cuando cites una cifra de una marca, banco, la CONDUSEF, Banxico, la AMDA o el INEGI, di quién es la fuente y la fecha como aparece en FACTS («según el sitio de Toyota México, al 20 de octubre de 2026»).
+- Los cálculos propios se llaman «cálculo de ComparaMotor con una tasa de ejemplo», nunca «CAT». No llames «CAT» a una mensualidad calculada.
+- No des asesoría financiera, fiscal ni legal personalizada: da información y pasos para comparar. Sin promesas de ahorro garantizado. Evita «siempre» y «nunca» salvo en reglas de honestidad.
+ESTILO: frases cortas, sin clichés de IA («en la era digital», «en el mundo actual», «sin lugar a dudas», «es importante destacar», «te guiaremos», «crucial», «fundamental»). Sin signos de exclamación. Habla de tú en los consejos. Sin listas de adjetivos. Párrafos de 2 a 4 frases.
+FACTS (única fuente de cifras):
+Hoy: 24 de octubre de 2026. Supuestos del sitio: enganche 20%, plazo 60 meses, tasa anual de ejemplo 15.9%, 15,000 km al año, gasolina $24.5/l, seguro de ejemplo $9,410 al año, servicios $22,000 en 5 años.
+REGLA: el CAT de un crédito lo informa cada otorgante; ComparaMotor no inventa un CAT propio.
+== Auto genérico de $350,000, 20% de enganche, 60 meses, tasa 15.9%, 15 km/l ==
+Compra a crédito (enganche + mensualidades): $477,651
+Seguro 5 años: $47,050
+Gasolina 5 años (75,000 km): $122,500
+Servicios: $22,000
+Costo total 5 años: $669,201; al año $133,840; al mes $11,153; al día $367
+Porcentaje del total que es compra: 71%, seguro 7%, gasolina 18%, servicios 3%
+== Costo total a 5 años con versiones reales de entrada (precio de lista, mismos supuestos) ==
+Nissan Versa Sense Base TM: lista $374,900, rendimiento 20.94 km/l oficial, costo total $668,433, mensualidad $7,278
+Chevrolet Aveo Hatchback LS Manual: lista $319,100, rendimiento 20.4 km/l oficial, costo total $594,605, mensualidad $6,194
+Toyota Corolla Base CVT: lista $435,900, rendimiento 31.31 km/l oficial, costo total $722,618, mensualidad $8,462
+Volkswagen Jetta Trendline: lista $449,290, rendimiento 18.8 km/l oficial, costo total $779,943, mensualidad $8,722
+Precio promedio de gasolina regular hoy: $23.69 por litro (promedio nacional, Comisión Nacional de Energía, 20 oct 2026).
+Otros gastos que no calculamos por no tener fuente nacional: tenencia o refrendo (varía por estado), verificación, estacionamiento, multas.

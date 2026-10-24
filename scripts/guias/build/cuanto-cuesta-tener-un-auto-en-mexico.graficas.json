@@ -1,0 +1,94 @@
+{
+ "costo-5": {
+  "titulo": "En qué se va el dinero en 5 años (auto de $350,000)",
+  "desc": "Compra, seguro, gasolina y servicios.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Compra a crédito",
+    "valor": 477651,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Gasolina",
+    "valor": 122500,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Seguro",
+    "valor": 47050,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Servicios",
+    "valor": 22000,
+    "color": "#171513"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#2a78d6",
+    "texto": "Enganche y mensualidades"
+   },
+   {
+    "color": "#1baf7a",
+    "texto": "Gasolina"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Seguro (ejemplo)"
+   },
+   {
+    "color": "#171513",
+    "texto": "Servicios"
+   }
+  ],
+  "fuente": "Cálculo de ComparaMotor con los supuestos del sitio."
+ },
+ "costo-versiones": {
+  "titulo": "Costo total a 5 años, versión de entrada",
+  "desc": "Mismos supuestos para todos.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Nissan Versa",
+    "valor": 668433,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Chevrolet Aveo Hatchback",
+    "valor": 594605,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Toyota Corolla",
+    "valor": 722618,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Volkswagen Jetta",
+    "valor": 779943,
+    "color": "#171513"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#2a78d6",
+    "texto": "Nissan Versa Sense Base TM"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Chevrolet Aveo Hatchback LS Manual"
+   },
+   {
+    "color": "#1baf7a",
+    "texto": "Toyota Corolla Base CVT"
+   },
+   {
+    "color": "#171513",
+    "texto": "Volkswagen Jetta Trendline"
+   }
+  ],
+  "fuente": "Precios de lista oficiales verificados el 20 oct 2026."
+ }
+}

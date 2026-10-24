@@ -1,0 +1,39 @@
+{
+ "seguro-cobertura": {
+  "titulo": "Costo anual de seguro, promedio de 4 cotizaciones CONDUSEF",
+  "desc": "Perfil del ejercicio: Ford Fiesta 2016, CDMX, conductor de 36 años.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Responsabilidad civil",
+    "valor": 5351,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Limitada",
+    "valor": 6146,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Amplia",
+    "valor": 9128,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "Solo daños a terceros"
+   },
+   {
+    "color": "#2a78d6",
+    "texto": "Terceros y robo total"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Todo lo anterior y daños al auto"
+   }
+  ],
+  "fuente": "CONDUSEF, Quién es Quién en seguros de auto, julio 2026; promedio calculado por ComparaMotor."
+ }
+}

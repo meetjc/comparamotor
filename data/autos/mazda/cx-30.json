@@ -1,0 +1,98 @@
+{
+  "marca": "Mazda",
+  "marcaSlug": "mazda",
+  "modelo": "CX-30",
+  "slug": "cx-30",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "i 2026",
+      "anio": 2026,
+      "precio": 451900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L SKYACTIV-G 4 cil.",
+      "potenciaHp": 186,
+      "rendimientoCombinadoKmL": 15.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Mazda México (sitio oficial)",
+      "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda-cx-30/ficha-tecnica/ficha-tecnica-mazda-cx-30-2026-v05.pdf",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Automática SKYACTIV-Drive de 6 velocidades con modo manual. Tracción delantera. Precio de contado con IVA e ISAN, sin accesorios (ficha técnica y página mazda.mx/vehiculos/cx-30/versiones). Rendimiento combinado de laboratorio de la ficha. La ficha lista bolsas frontales, laterales, de cortina y de rodillas sin publicar el total. Sistema de asistencia de frenado inteligente (SBS): no incluido (guion en la ficha)."
+    },
+    {
+      "nombre": "i Sport 2026",
+      "anio": 2026,
+      "precio": 481900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L SKYACTIV-G 4 cil.",
+      "potenciaHp": 186,
+      "rendimientoCombinadoKmL": 15.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Mazda México (sitio oficial)",
+      "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda-cx-30/ficha-tecnica/ficha-tecnica-mazda-cx-30-2026-v05.pdf",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Automática SKYACTIV-Drive de 6 velocidades con modo manual. Tracción delantera. Precio de contado con IVA e ISAN, sin accesorios (ficha técnica y página mazda.mx/vehiculos/cx-30/versiones). Rendimiento combinado de laboratorio de la ficha. La ficha lista bolsas frontales, laterales, de cortina y de rodillas sin publicar el total. Sistema de asistencia de frenado inteligente (SBS): no incluido (guion en la ficha)."
+    },
+    {
+      "nombre": "i Grand Touring 2026",
+      "anio": 2026,
+      "precio": 525900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L SKYACTIV-G 4 cil.",
+      "potenciaHp": 186,
+      "rendimientoCombinadoKmL": 15.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Mazda México (sitio oficial)",
+      "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda-cx-30/ficha-tecnica/ficha-tecnica-mazda-cx-30-2026-v05.pdf",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Automática SKYACTIV-Drive de 6 velocidades con modo manual. Tracción delantera. Precio de contado con IVA e ISAN, sin accesorios (ficha técnica y página mazda.mx/vehiculos/cx-30/versiones). Rendimiento combinado de laboratorio de la ficha. La ficha lista bolsas frontales, laterales, de cortina y de rodillas sin publicar el total. Sistema de asistencia de frenado inteligente (SBS): no incluido (guion en la ficha)."
+    },
+    {
+      "nombre": "Signature 2026",
+      "anio": 2026,
+      "precio": 585900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L turbo SKYACTIV-G 4 cil.",
+      "potenciaHp": 227,
+      "rendimientoCombinadoKmL": 14.4,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mazda México (sitio oficial)",
+      "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda-cx-30/ficha-tecnica/ficha-tecnica-mazda-cx-30-2026-v05.pdf",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Automática SKYACTIV-Drive de 6 velocidades con modo manual. Tracción integral i-ACTIV AWD. Precio de contado con IVA e ISAN, sin accesorios (ficha técnica y página mazda.mx/vehiculos/cx-30/versiones). Rendimiento combinado de laboratorio de la ficha. La ficha lista bolsas frontales, laterales, de cortina y de rodillas sin publicar el total. Sistema de asistencia de frenado inteligente (SBS): incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "6 años o 125,000 km totales sin costo adicional (Mazda 2026)",
+    "fuente": "Mazda México (sitio oficial)",
+    "url": "https://www.mazda.mx/servicio-mazda/tu-mazda/garantias-mazda"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.mazda.mx/siteassets/descargables-2026/mazda-cx-30/ficha-tecnica/ficha-tecnica-mazda-cx-30-2026-v05.pdf",
+    "https://www.mazda.mx/vehiculos/cx-30/versiones",
+    "https://www.mazda.mx/servicio-mazda/tu-mazda/garantias-mazda"
+  ],
+  "pendientes": [
+    "Total de bolsas de aire (la ficha lista tipos, no cantidad)",
+    "Ofertas/financiamiento vigentes del CX-30 (no consultadas)",
+    "Garantía tomada de la página general de Mazda y de lo publicado para CX-5 2026; reconfirmar para CX-30",
+    "Versiones nuevas 2027 del CX-30 (si existen) no verificadas"
+  ]
+}

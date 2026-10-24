@@ -1,0 +1,86 @@
+{
+ "total-enganche": {
+  "titulo": "Total pagado según el enganche (auto de $350,000, 60 meses, tasa 15.9%)",
+  "desc": "Más enganche, menos intereses.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Enganche 10%",
+    "valor": 493608,
+    "color": "#d42a2c"
+   },
+   {
+    "label": "Enganche 20%",
+    "valor": 477651,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Enganche 30%",
+    "valor": 461695,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Enganche 40%",
+    "valor": 445738,
+    "color": "#1baf7a"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#d42a2c",
+    "texto": "10%"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "20%"
+   },
+   {
+    "color": "#2a78d6",
+    "texto": "30%"
+   },
+   {
+    "color": "#1baf7a",
+    "texto": "40%"
+   }
+  ],
+  "fuente": "Cálculo de ComparaMotor; enganche más mensualidades, sin seguro ni comisiones."
+ },
+ "total-plazo": {
+  "titulo": "Total pagado según el plazo (enganche 20%, tasa 15.9%)",
+  "desc": "Menos meses, menos intereses, mensualidad más alta.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "36 meses",
+    "valor": 423885,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "48 meses",
+    "valor": 450205,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "60 meses",
+    "valor": 477651,
+    "color": "#eb6834"
+   },
+   {
+    "label": "72 meses",
+    "valor": 506198,
+    "color": "#d42a2c"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "Plazo corto"
+   },
+   {
+    "color": "#d42a2c",
+    "texto": "Plazo largo"
+   }
+  ],
+  "fuente": "Cálculo de ComparaMotor."
+ }
+}

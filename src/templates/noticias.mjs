@@ -1,7 +1,7 @@
 // Noticias: portada, temas, notas (sin fecha en la dirección), autos más vendidos y lanzamientos 2027.
 import { page } from '../layout.mjs';
 import { esc, mxn, num, fechaCorta, fechaLarga, SITE } from '../lib.mjs';
-import { answer, table, fuentes, ph, actualizado, img, credito, entrada } from './common.mjs';
+import { answer, table, fuentes, ph, actualizado, img, credito, entrada, renderFigs } from './common.mjs';
 import { fichaURL } from './autos.mjs';
 
 const notaLD = (n) => ({ '@context': 'https://schema.org', '@type': 'NewsArticle', headline: n.titulo, datePublished: n.fecha, dateModified: n.fechaVerificacion || n.fecha, inLanguage: 'es-MX', author: { '@type': 'Organization', name: 'Redacción ComparaMotor', url: SITE.url + '/autores/' }, publisher: { '@id': SITE.url + '/#org' }, image: [SITE.url + '/assets/img/' + n.imagen], mainEntityOfPage: SITE.url + n.url, isBasedOn: (n.fuentes || []).map((f) => f.url).filter(Boolean) });
@@ -21,9 +21,7 @@ function nota(ctx, D, n) {
     <div class="article">
       <div class="prose">
         <figure class="foto" style="aspect-ratio:3/2">${img(ctx, D.reg, n.imagen, n.imagenAlt, { lazy: false })}${credito(D.reg, n.imagen)}</figure>
-        ${answer(esc(lead))}
-        ${resto ? `<p>${esc(resto)}</p>` : ''}
-        ${n.paraTi ? `<h2>¿Qué significa si vas a comprar auto?</h2><p>${esc(n.paraTi)}</p>` : ''}
+        ${n.cuerpoHtml ? renderFigs(n.cuerpoHtml, ctx, D) : `${answer(esc(lead))}${resto ? `<p>${esc(resto)}</p>` : ''}${n.paraTi ? `<h2>¿Qué significa si vas a comprar auto?</h2><p>${esc(n.paraTi)}</p>` : ''}`}
         ${datos ? `<h2>Los datos clave</h2>${datos}` : ''}
         ${autosMenc.length ? `<h2>Modelos de esta nota</h2><div class="grid2">${autosMenc.map((a) => { const e = entrada(a); return `<a class="tile" href="${ctx.u(fichaURL(a))}"><span class="k">${esc(a.marca)}</span><h3>${esc(a.modelo)}</h3><p>${e ? 'Desde <b>' + mxn(e.precio) + '</b>' : 'Precio por confirmar'}</p></a>`; }).join('')}</div>` : ''}
         ${fuentes(n.fuentes, n.fechaVerificacion)}

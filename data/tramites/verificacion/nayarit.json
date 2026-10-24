@@ -1,0 +1,31 @@
+{
+  "estado": "Nayarit",
+  "slug": "nayarit",
+  "programa": null,
+  "obligatoria": false,
+  "calendario": null,
+  "costo2026": null,
+  "portalCita": null,
+  "estatus": "Sin programa de verificación vehicular. La tabla oficial de SEMARNAT (gob.mx, 21-ago-2026; datos que entregaron los gobiernos locales entre mayo y agosto de 2026) marca a Nayarit como 'No (N/R)' en 'Programa de Verificación Vehicular'. 'N/R' significa que el gobierno local no reportó información a SEMARNAT; no equivale a una confirmación escrita del estado.",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026 (Nayarit: No (N/R))",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "ADN40: 5 estados donde no te multan por no verificar tu auto en 2026 (8-jun-2026)",
+      "url": "https://www.adn40.mx/mexico/2026-06-08/ni-queretaro-ni-edomex-5-estados-en-mexico-donde-no-te-multan-por-no-verificar-tu-auto-en-2026/",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "ADN40 (junio 2026) lo lista entre las entidades donde la verificación sería voluntaria; no se encontró norma estatal ni sitio oficial de Nayarit que confirme o niegue un programa. Confirmar con la autoridad ambiental estatal."
+  ]
+}

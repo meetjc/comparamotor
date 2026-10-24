@@ -137,6 +137,7 @@
   }
 
   function explore() {
+    if (!$('bud-o') || !$('fits')) return; // /comparar/ no trae la sección «¿Qué auto te alcanza?»
     $('bud-o').textContent = mxn.format(budget);
     var list = Object.keys(AUTOS).map(function (k) { return calc(k, 'credito'); }).sort(function (x, y) { return x.pago - y.pago; });
     var n = list.filter(function (r) { return r.pago <= budget; }).length;
@@ -148,8 +149,8 @@
     });
     $('fits').innerHTML = h;
   }
-  $('bud').addEventListener('input', function (e) { budget = +e.target.value; explore(); trackIdle('presupuesto_explorar', function () { return { herramienta: 'presupuesto', mensualidad: budget }; }); });
-  $('fits').addEventListener('click', function (e) {
+  if ($('bud')) $('bud').addEventListener('input', function (e) { budget = +e.target.value; explore(); trackIdle('presupuesto_explorar', function () { return { herramienta: 'presupuesto', mensualidad: budget }; }); });
+  if ($('fits')) $('fits').addEventListener('click', function (e) {
     var b = e.target.closest('[data-pick]'); if (!b) return;
     var k = b.dataset.pick; if (k === st.a) { st.a = st.b; st.b = k; } else st.b = k;
     render(400); to('comparar'); track('comparar_autos', cmpEv()); toast('Cargamos el ' + AUTOS[k].modelo + ' en el comparador.');

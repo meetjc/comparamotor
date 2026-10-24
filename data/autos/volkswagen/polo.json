@@ -1,0 +1,55 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "Polo",
+  "slug": "polo",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Track",
+      "anio": 2026,
+      "precio": 339990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil. MPI",
+      "potenciaHp": 109,
+      "rendimientoCombinadoKmL": 16.7,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Volkswagen de México (sitio oficial)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/polo.html",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Precio de lista con IVA vigente del 1 al 31 de octubre de 2026. Motor 1.6 L MPI, 109 hp, 155 Nm; manual de 5 velocidades; rendimiento combinado 16.7 km/l (ciudad 14.9, carretera 19.6) según la ficha técnica oficial de la versión Track 2026. 4 bolsas de aire (2 frontales y 2 laterales con protección de cabeza y tórax). La ficha por versión no lista frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, defensa a defensa; incluye seguro de robo de autopartes, asistencia vial y protección de llantas",
+    "fuente": "Volkswagen de México (sitio oficial)",
+    "url": "https://www.vw.com.mx/es/autos-suvs/polo.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Polo: bono de $15,590 o comisión por apertura gratis",
+      "precioOferta": null,
+      "condicion": "Promoción de octubre 2026; términos y condiciones en el detalle de la promoción de vw.com.mx. Sujeta a aprobación de crédito y a vigencia hasta agotar existencias.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Volkswagen de México (sitio oficial)",
+      "url": "https://www.vw.com.mx/es/promociones.html",
+      "fechaVerificacion": "2026-10-24"
+    }
+  ],
+  "fuentes": [
+    "https://www.vw.com.mx/es/autos-suvs/polo.html",
+    "https://www.vw.com.mx/es/configurador.html",
+    "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2026/vw_ficha_tecnica_polo_track_26.pdf"
+  ],
+  "pendientes": [
+    "Solo se publica una versión (Track); confirmar si hay otras en el configurador cuando se abran",
+    "Frenado autónomo de emergencia no listado en la ficha de la versión Track"
+  ]
+}

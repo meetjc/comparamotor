@@ -1,0 +1,31 @@
+{
+  "estado": "Quintana Roo",
+  "slug": "quintana-roo",
+  "programa": null,
+  "obligatoria": false,
+  "calendario": null,
+  "costo2026": null,
+  "portalCita": null,
+  "estatus": "Sin programa de verificación vehicular. La tabla oficial de SEMARNAT (gob.mx, 21-ago-2026; datos que entregaron los gobiernos locales entre mayo y agosto de 2026) marca a Quintana Roo como 'No' en 'Programa de Verificación Vehicular'.",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026 (Quintana Roo: No)",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Riviera Maya News: gobierno de Quintana Roo descarta programa de verificación de emisiones",
+      "url": "https://www.rivieramayanews.mx/quintana-roo-government-rules-out-vehicle-emissions-testing-program/",
+      "tipo": "prensa (apoyo)"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "Prensa (Riviera Maya News, sin año visible) señala que la consulta de la SEMA sobre un programa de emisiones fue retirada tras la reacción pública y que los centros de verificación construidos desde 2016 nunca operaron; no se localizó el comunicado oficial. El canje de placas 2026 es un trámite distinto a la verificación ambiental."
+  ]
+}

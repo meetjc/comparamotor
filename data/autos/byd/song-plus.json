@@ -1,0 +1,59 @@
+{
+  "marca": "BYD",
+  "marcaSlug": "byd",
+  "modelo": "Song Plus DM-i",
+  "slug": "song-plus",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Song Plus DM-i 1.5T FWD 105 km (GS)",
+      "anio": 2026,
+      "precio": 778800,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.5 L turbo híbrido enchufable + motor eléctrico delantero 150 kW; batería Blade 18.3 kWh",
+      "potenciaHp": 236,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 105,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/mx/order/song-plus-dmi",
+      "fechaVerificacion": "2026-10-24",
+      "notas": "Nombre oficial vigente en BYD México: Song Plus DM-i (híbrido enchufable); la ficha la identifica como grado GS. Potencia combinada 236 hp, tracción delantera, 0-100 km/h en 8.3 s. Autonomía eléctrica 105 km (NEDC) y consumo con batería baja de 5.1 L/100 km (NEDC), equivalente a unos 19.6 km/l; no se registra como rendimiento combinado porque BYD lo da en otra unidad y ciclo. 6 bolsas de aire. Frenado automático de emergencia (AEB) y alerta de colisión frontal en la ficha de septiembre 2026. La ficha no nombra el tipo de transmisión; se marcó como directa (sin caja de cambios convencional) como en los otros BYD del catálogo, por confirmar."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [
+    {
+      "descripcion": "Song Plus DM-i modelo 2026: bono flexible de $78,000, o 60 meses sin intereses, o mensualidad de $5,637",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Banorte, sujeto a aprobación. 60 MSI: crédito $389,400, enganche 50%, tasa 0%, comisión por apertura 2%, bono de $78,000 a la tasa, CAT promedio 1.3% sin IVA. Mensualidad $5,637: 72 meses, tasa 1.33%, CAT promedio 2% sin IVA. Bono flexible aplicable a contado o financiamiento con BBVA, Santander, Banorte y Kuna (enganche mínimo 10%). Cálculos al 01-oct-2026. El cargador doméstico no incluye instalación.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "fechaVerificacion": "2026-10-24"
+    }
+  ],
+  "fuentes": [
+    "https://www.byd.com/mx/order/song-plus-dmi",
+    "https://www.byd.com/mx/car/song-plus-dmi",
+    "https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20SONG%20PLUS%20DMI%20Flyer-ES-MX-20260911.pdf",
+    "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf"
+  ],
+  "pendientes": [
+    "Nombre: en BYD México el modelo se llama Song Plus DM-i (híbrido enchufable); el slug se mantuvo como song-plus",
+    "Rendimiento combinado en km/l: BYD publica consumo NEDC con batería baja de 5.1 L/100 km, no un combinado oficial en km/l",
+    "Garantía oficial de este modelo: no aparece en la página ni en la ficha; BYD México publica 6 años o 150,000 km y batería 8 años o 200,000 km en otros modelos, sin confirmar para el Song Plus DM-i",
+    "Tipo de transmisión (BYD no la nombra en la ficha)",
+    "Potencia: 236 hp es la \"potencia combinada\" de la ficha"
+  ]
+}

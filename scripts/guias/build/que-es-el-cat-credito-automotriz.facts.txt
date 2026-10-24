@@ -1,0 +1,28 @@
+Hoy: 24 de octubre de 2026. Supuestos del sitio: enganche 20%, plazo 60 meses, tasa anual de ejemplo 15.9%, 15,000 km al año, gasolina $24.5/l, seguro de ejemplo $9,410 al año, servicios $22,000 en 5 años.
+REGLA: el CAT de un crédito lo informa cada otorgante; ComparaMotor no inventa un CAT propio.
+== Ejemplo: auto de $350,000, enganche 20% ($70,000), 60 meses ==
+Tasa anual 10.9%: mensualidad $6,074, intereses totales $84,435
+Tasa anual 12.9%: mensualidad $6,357, intereses totales $101,392
+Tasa anual 15.9%: mensualidad $6,794, intereses totales $127,651
+Tasa anual 19.9%: mensualidad $7,403, intereses totales $164,163
+Diferencia de intereses entre tasa 10.9% y 19.9%: $79,728
+== CAT publicados por financieras de marca ==
+NR Finance México (NRFM) (Nissan, Renault, Infiniti), Crédito Nissan: CAT promedio 18% sin IVA, calculado al 2026-10-01, vigencia 2026-10-01 al 2026-11-02
+NR Finance México (NRFM) (Nissan, Renault, Infiniti), Selectiviti (Nissan): CAT promedio 17.1% sin IVA, calculado al 2026-10-01, vigencia 2026-10-01 al 2026-11-02
+NR Finance México (NRFM) (Nissan, Renault, Infiniti), Oferta Tradicional (Renault): CAT promedio 18.5% sin IVA, calculado al 2026-10-01, vigencia 2026-10-01 al 2026-11-01 o hasta agotar existencias
+NR Finance México (NRFM) (Nissan, Renault, Infiniti), Oferta PYME (Renault): CAT promedio 17.7% sin IVA, calculado al 2026-10-01, vigencia 2026-10-01 al 2026-11-01 o hasta agotar existencias
+GM Financial de México (Chevrolet, Buick, GMC, Cadillac), Menudeo SR: CAT promedio 19.2% sin IVA, calculado al 2026-09-01, vigencia hasta 2026-11-02
+GM Financial de México (Chevrolet, Buick, GMC, Cadillac), Menudeo CR: CAT promedio 15.8% sin IVA, calculado al 2026-09-01, vigencia hasta 2026-11-02
+GM Financial de México (Chevrolet, Buick, GMC, Cadillac), Refinanciamiento automotriz: CAT promedio 32.2% sin IVA, calculado al 2026-09-01, vigencia hasta 2026-11-02
+Volkswagen Bank / Volkswagen Financial Services México (Volkswagen Leasing (Volkswagen, SEAT, Cupra, Audi, Porsche, Vehículos comerciales VW), Autos nuevos, 12 a 36 meses: CAT promedio 28.2% sin IVA, calculado al undefined, vigencia undefined
+Volkswagen Bank / Volkswagen Financial Services México (Volkswagen Leasing (Volkswagen, SEAT, Cupra, Audi, Porsche, Vehículos comerciales VW), Autos nuevos, 42 a 60 meses: CAT promedio 26.8% sin IVA, calculado al undefined, vigencia undefined
+Volkswagen Bank / Volkswagen Financial Services México (Volkswagen Leasing (Volkswagen, SEAT, Cupra, Audi, Porsche, Vehículos comerciales VW), Autos usados, 12 a 60 meses: CAT promedio 30.4% sin IVA, calculado al undefined, vigencia undefined
+== Bancos ==
+BBVA México, Crédito automotriz (autos nuevos y seminuevos): tasa {"autos_nuevos_enganche_desde_5pct":13.99,"seminuevos_enganche_desde_10pct":14.99,"preferencial_cliente_nomina_hibridos_electricos":9.49,"preferencial_clientes_desde":10.99}, CAT [object Object],[object Object] al 2026-06-30
+Banorte, Autoestrene Tradicional: tasa 14.99, CAT 22 al 2026-05-31
+Santander México, Crédito automotriz: tasa no publica, CAT no publica
+Scotiabank México, CrediAuto: tasa no publica, CAT no publica
+Inbursa (Banco Inbursa / Autoexpress), Autoexpress: tasa no publica, CAT no publica
+Banxico: tasa promedio ponderada del crédito automotriz 14.3% en cartera total (último reporte, datos a octubre de 2025).
+Simulador oficial de la CONDUSEF: https://phpapps.condusef.gob.mx/condusefautomotriz/index.php
+Norma: Banxico Circular 21/2009 obliga a informar el CAT sin IVA, para fines informativos y de comparación, con fecha de cálculo y vigencia.

@@ -1,0 +1,26 @@
+{
+  "estado": "Tabasco",
+  "slug": "tabasco",
+  "programa": null,
+  "obligatoria": false,
+  "calendario": null,
+  "costo2026": null,
+  "portalCita": null,
+  "estatus": "Sin programa de verificación vehicular. La tabla oficial de SEMARNAT (gob.mx, 21-ago-2026; datos que entregaron los gobiernos locales entre mayo y agosto de 2026) marca a Tabasco como 'No (N/R)' en 'Programa de Verificación Vehicular'. 'N/R' significa que el gobierno local no reportó información a SEMARNAT; no equivale a una confirmación escrita del estado.",
+  "fuentes": [
+    {
+      "nombre": "SEMARNAT: Programas de Verificación Vehicular (PVV), tabla 2026 (Tabasco: No (N/R))",
+      "url": "https://www.gob.mx/semarnat/acciones-y-programas/programas-de-verificacion-vehicular-pvv",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SEMARNAT: Tabla_PVV_2026.png",
+      "url": "https://www.gob.mx/cms/uploads/image/file/1097416/Tabla_PVV_2026.png",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-24",
+  "pendientes": [
+    "No se encontró programa estatal de verificación vehicular en la búsqueda web; confirmar con la autoridad ambiental estatal."
+  ]
+}

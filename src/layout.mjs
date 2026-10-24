@@ -36,6 +36,25 @@ export const NAV = [
   { label: 'Noticias', url: '/noticias/' },
 ];
 
+// Secciones del sitio: el menú marca la sección actual y cada página interna muestra a sus «hermanas».
+export const SECCIONES = [
+  { nav: '/comparar/', sub: [['Comparador', '/comparar/'], ['¿Qué auto me alcanza?', '/que-me-alcanza/']], extra: ['/que-me-alcanza/'] },
+  { nav: '/autos/', sub: [['Todos los autos', '/autos/'], ['Lista de precios', '/autos/precios/']] },
+  { nav: '/mejores/', sub: [['Todos los rankings', '/mejores/'], ['Baratos', '/mejores/autos-baratos/'], ['Híbridos', '/mejores/autos-hibridos/'], ['Eléctricos', '/mejores/autos-electricos/'], ['Chinos', '/autos-chinos/'], ['Camionetas', '/mejores/camionetas/'], ['Para plataformas', '/mejores/autos-para-plataformas/']], extra: ['/autos-chinos/'] },
+  { nav: '/credito-y-seguro/', sub: [['Resumen', '/credito-y-seguro/'], ['Calculadora de crédito', '/credito-automotriz/'], ['Costo total', '/costo-total/'], ['Seguro', '/seguro-de-auto/'], ['Promociones', '/promociones/']], extra: ['/credito-automotriz/', '/costo-total/', '/seguro-de-auto/', '/promociones/'] },
+  { nav: '/tramites/', sub: [['Resumen', '/tramites/'], ['Hoy No Circula', '/hoy-no-circula/'], ['Tenencia', '/tenencia/'], ['Verificación', '/verificacion-vehicular/'], ['Gasolina', '/precio-gasolina/']], extra: ['/hoy-no-circula/', '/tenencia/', '/verificacion-vehicular/', '/precio-gasolina/'] },
+  { nav: '/noticias/', sub: [['Noticias', '/noticias/'], ['Autos más vendidos', '/autos-mas-vendidos/'], ['Lanzamientos 2027', '/lanzamientos/2027/'], ['Guías', '/guias/']], extra: ['/autos-mas-vendidos/', '/lanzamientos/', '/guias/'] },
+];
+export function seccionDe(route) {
+  return SECCIONES.find((x) => route.startsWith(x.nav) || (x.extra || []).some((e) => route.startsWith(e))) || null;
+}
+export function subnav(ctx) {
+  const sec = seccionDe(ctx.route); if (!sec || ctx.route === '/') return '';
+  // item activo: el de prefijo más largo que coincida con la ruta
+  const actual = sec.sub.map(([, u]) => u).filter((u) => ctx.route.startsWith(u)).sort((a, b) => b.length - a.length)[0];
+  return `<nav class="subnav" aria-label="En esta sección">${sec.sub.map(([l, u]) => `<a href="${ctx.u(u)}"${u === actual ? ' aria-current="page"' : ''}>${l}</a>`).join('')}</nav>`;
+}
+
 export function mark(ctx, cls = 'mk', dark = true) {
   return `<svg class="${cls}" viewBox="0 0 100 100" aria-hidden="true"${dark ? ' style="--mk-a:#fff;--mk-b:#ff5a52"' : ''}><use href="#cm-mark" width="100" height="100"/></svg>`;
 }
@@ -63,7 +82,8 @@ export function page(ctx, o) {
   if (crumbsItems && crumbsItems.length > 1) lds.push(ld(breadcrumbLD(crumbsItems)));
   for (const s of schema) lds.push(ld(s));
   const gtm = ctx.opts.gtm;
-  const navLinks = NAV.map((n) => `<a href="${ctx.u(n.url)}"${ctx.route.startsWith(n.url) ? ' aria-current="page"' : ''}>${n.label}</a>`).join('');
+  const secActual = seccionDe(ctx.route);
+  const navLinks = NAV.map((n) => `<a href="${ctx.u(n.url)}"${secActual && secActual.nav === n.url ? ' aria-current="true"' : ''}>${n.label}</a>`).join('');
   return `<!doctype html>
 <html lang="es-MX">
 <head>
@@ -100,7 +120,7 @@ ${MARK}${SILS}
   </div>
 </header>
 <main id="main">
-${heroDark ? '' : `<div class="page-top">${crumbs(ctx, crumbsItems)}</div>`}
+${heroDark ? '' : `<div class="page-top">${crumbs(ctx, crumbsItems)}${subnav(ctx)}</div>`}
 ${body}
 </main>
 ${footer(ctx, updated)}
