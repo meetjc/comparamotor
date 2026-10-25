@@ -1,0 +1,16 @@
+Hoy es 24 de octubre de 2026.
+Autos nuevos con el precio de lista más bajo del catálogo de ComparaMotor.
+== Autos nuevos más baratos por precio de entrada ==
+Renault Kwid: hatchback gasolina, desde $252,000, enlace /autos/renault/kwid/
+Hyundai Grand i10: hatchback gasolina, desde $290,400, enlace /autos/hyundai/grand-i10/
+Nissan March: hatchback gasolina, desde $295,990, enlace /autos/nissan/march/
+MG MG5: sedán gasolina, desde $299,900, enlace /autos/mg/mg5/
+Kia K3 Sedán: sedán gasolina, desde $305,100, enlace /autos/kia/k3/
+Chevrolet Aveo: sedán gasolina, desde $319,100, enlace /autos/chevrolet/aveo/
+Volkswagen Virtus: sedán gasolina, desde $322,490, enlace /autos/volkswagen/virtus/
+Toyota Yaris: hatchback gasolina, desde $326,500, enlace /autos/toyota/yaris/
+Volkswagen Polo: hatchback gasolina, desde $339,990, enlace /autos/volkswagen/polo/
+Suzuki Swift: hatchback híbrido, desde $343,990, enlace /autos/suzuki/swift/
+Chevrolet Onix: sedán gasolina, desde $353,100, enlace /autos/chevrolet/onix/
+Nissan Versa: sedán gasolina, desde $374,900, enlace /autos/nissan/versa/
+El precio de lista no incluye enganche ni financiamiento; muchas marcas ofrecen precios de oferta que exigen crédito con su financiera.Ejemplo ilustrativo de enganche: para un auto hipotético de $300,000, un enganche de 10% a 20% equivale a $30,000 o $60,000.

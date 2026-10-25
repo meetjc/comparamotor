@@ -1,0 +1,28 @@
+Escribe en español de México, para alguien que está por comprar o mantener un auto. Frases cortas y claras. Sin clichés de IA ("en la era digital", "sin lugar a dudas", "es crucial"). Sin signos de exclamación. NO inventes ninguna cifra: usa EXCLUSIVAMENTE los números que aparecen en FACTS (precios, montos, porcentajes). Si un dato no está en FACTS, no lo pongas. Devuelve SOLO HTML del cuerpo (sin <html> ni <head>): empieza con <p class="answer"> que responda la pregunta del título en 2-3 líneas. Luego H2 con preguntas reales de búsqueda, párrafos de 2-4 oraciones, al menos 2 <table class="tbl"> con datos de FACTS, listas cuando ayuden. Incluye EXACTAMENTE los marcadores de figura indicados, cada uno en su propia línea, tal cual. Cierra con <h2>Preguntas frecuentes</h2> y un <div class="faq"> con 4 <details><summary>…</summary><p>…</p></details>. Pon los enlaces internos indicados con <a href="…">. Mínimo 1700 palabras. No uses la palabra "portal" para la cuenta del cliente.
+Título del artículo: "Mejores SUV 2026 en México: cuáles convienen por precio". Palabras clave a cubrir de forma natural: "mejores suv 2026 mexico", "suv hibrida 2026". Enfoca en ayudar a elegir por presupuesto (entrada, media, premium), por tipo (gasolina vs híbrida), y espacio/uso. Enlaza a la ficha de 4-5 SUV usando sus enlaces de FACTS, al comparador en <a href="/comparar/">comparar dos autos</a> y a <a href="/mejores/autos-hibridos/">mejores autos híbridos</a>. Tabla 1: SUV de entrada por precio. Tabla 2: SUV híbridas o eléctricas del catálogo con su precio. Coloca los marcadores: <!--FIG:grafica:suv-precio--> <!--FIG:foto:nissan-kicks:0--> <!--FIG:foto:hyundai-creta:0-->
+=== FACTS (únicos números permitidos) ===
+Hoy es 24 de octubre de 2026.
+Hay 22 SUV con precio verificado en el catálogo de ComparaMotor.
+== SUV por precio de entrada (versión más barata, precio de lista) ==
+Nissan Magnite: SUV gasolina, desde $388,990, origen japonesa, enlace /autos/nissan/magnite/
+Kia Sonet: SUV gasolina, desde $398,400, origen coreana, enlace /autos/kia/sonet/
+MG ZS Turbo: SUV gasolina, desde $399,900, origen britanica-china, enlace /autos/mg/zs/
+Chevrolet Groove: SUV gasolina, desde $421,500, origen estadounidense, enlace /autos/chevrolet/groove/
+Hyundai Creta: SUV gasolina, desde $451,000, origen coreana, enlace /autos/hyundai/creta/
+Mazda CX-30: SUV gasolina, desde $451,900, origen japonesa, enlace /autos/mazda/cx-30/
+Volkswagen Taigun: SUV gasolina, desde $475,990, origen alemana, enlace /autos/volkswagen/taigun/
+Kia Seltos: SUV gasolina, desde $499,900, origen coreana, enlace /autos/kia/seltos/
+Volkswagen Taos: SUV gasolina, desde $502,390, origen alemana, enlace /autos/volkswagen/taos/
+Chirey Tiggo 7 Pro: SUV gasolina, desde $504,900, origen china, enlace /autos/chirey/tiggo-7-pro/
+Chevrolet Captiva: SUV gasolina, desde $530,800, origen estadounidense, enlace /autos/chevrolet/captiva/
+Chevrolet Tracker: SUV gasolina, desde $537,500, origen estadounidense, enlace /autos/chevrolet/tracker/
+Toyota Corolla Cross: SUV gasolina, desde $547,000, origen japonesa, enlace /autos/toyota/corolla-cross/
+Nissan Kicks: SUV gasolina, desde $562,990, origen japonesa, enlace /autos/nissan/kicks/
+Mazda CX-5: SUV gasolina, desde $599,900, origen japonesa, enlace /autos/mazda/cx-5/
+Volkswagen Tiguan: SUV gasolina, desde $613,190, origen alemana, enlace /autos/volkswagen/tiguan/
+Nissan X-Trail: SUV gasolina, desde $615,990, origen japonesa, enlace /autos/nissan/x-trail/
+Honda HR-V: SUV gasolina, desde $618,900, origen japonesa, enlace /autos/honda/hr-v/
+Kia Sportage: SUV gasolina, desde $647,900, origen coreana, enlace /autos/kia/sportage/
+Toyota RAV4: SUV híbrido, desde $650,300, origen japonesa, enlace /autos/toyota/rav4/
+BYD Song Plus DM-i: SUV híbrido enchufable, desde $778,800, origen china, enlace /autos/byd/song-plus/
+Honda CR-V: SUV gasolina, desde $830,900, origen japonesa, enlace /autos/honda/cr-v/

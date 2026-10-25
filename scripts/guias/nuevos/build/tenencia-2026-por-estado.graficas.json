@@ -1,0 +1,60 @@
+{
+ "refrendo-estado": {
+  "titulo": "Costo del refrendo o control vehicular 2026 por estado",
+  "desc": "Monto anual; ≈ marca un estimado con la ley y la UMA.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Yucatán",
+    "valor": 410.59,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Tlaxcala",
+    "valor": 469.24,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Baja California Sur",
+    "valor": 556,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Puebla",
+    "valor": 700,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Quintana Roo",
+    "valor": 785.98,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Nayarit",
+    "valor": 832.9,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Guanajuato",
+    "valor": 940,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Aguascalientes",
+    "valor": 960,
+    "color": "#2a78d6"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#2a78d6",
+    "texto": "Tarifa publicada"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Estimado (ley + UMA)"
+   }
+  ],
+  "fuente": "Leyes de ingresos y de hacienda estatales 2026; UMA del INEGI."
+ }
+}

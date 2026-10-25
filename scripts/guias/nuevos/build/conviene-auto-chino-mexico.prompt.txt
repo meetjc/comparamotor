@@ -1,0 +1,13 @@
+Escribe en español de México, para alguien que está por comprar o mantener un auto. Frases cortas y claras. Sin clichés de IA ("en la era digital", "sin lugar a dudas", "es crucial"). Sin signos de exclamación. NO inventes ninguna cifra: usa EXCLUSIVAMENTE los números que aparecen en FACTS (precios, montos, porcentajes). Si un dato no está en FACTS, no lo pongas. Devuelve SOLO HTML del cuerpo (sin <html> ni <head>): empieza con <p class="answer"> que responda la pregunta del título en 2-3 líneas. Luego H2 con preguntas reales de búsqueda, párrafos de 2-4 oraciones, al menos 2 <table class="tbl"> con datos de FACTS, listas cuando ayuden. Incluye EXACTAMENTE los marcadores de figura indicados, cada uno en su propia línea, tal cual. Cierra con <h2>Preguntas frecuentes</h2> y un <div class="faq"> con 4 <details><summary>…</summary><p>…</p></details>. Pon los enlaces internos indicados con <a href="…">. Mínimo 1700 palabras. No uses la palabra "portal" para la cuenta del cliente.
+Título: "Autos chinos en México 2026: ¿conviene comprar uno?". Palabras clave: "autos chinos en mexico", "autos chinos opiniones". Trata la decisión de compra: a favor (precio, equipamiento), en contra o a vigilar (refacciones, red de servicio, reventa, garantía). Equilibrado y honesto, sin prometer datos de reventa que no tenemos. Enlaza a la ficha de 3-4 modelos de FACTS, a <a href="/autos-chinos/">todos los autos chinos</a> y a <a href="/guias/cuanto-cuesta-tener-un-auto-en-mexico/">cuánto cuesta tener un auto</a>. Tabla 1: modelos chinos con carrocería, propulsión y precio. Tabla 2: a favor vs a vigilar (criterios). Marcadores: <!--FIG:grafica:chino-precio--> <!--FIG:foto:byd-dolphin-mini:0--> <!--FIG:foto:chirey-tiggo-7-pro:0-->
+=== FACTS (únicos números permitidos) ===
+Hoy es 24 de octubre de 2026.
+En el catálogo hay 6 autos de marcas chinas o de capital chino con precio verificado.
+== Autos de marcas chinas por precio de entrada ==
+MG MG5: sedán gasolina, desde $299,900, enlace /autos/mg/mg5/
+BYD Dolphin Mini: hatchback eléctrico, desde $399,800, enlace /autos/byd/dolphin-mini/
+MG ZS Turbo: SUV gasolina, desde $399,900, enlace /autos/mg/zs/
+Chirey Tiggo 7 Pro: SUV gasolina, desde $504,900, enlace /autos/chirey/tiggo-7-pro/
+BYD Song Plus DM-i: SUV híbrido enchufable, desde $778,800, enlace /autos/byd/song-plus/
+BYD Seal: sedán eléctrico, desde $778,800, enlace /autos/byd/seal/
+Puntos de decisión (no son cifras, son criterios): garantía de fábrica y de batería, red de agencias y talleres, disponibilidad de refacciones, valor de reventa todavía por consolidarse en México, y equipamiento alto por el precio.

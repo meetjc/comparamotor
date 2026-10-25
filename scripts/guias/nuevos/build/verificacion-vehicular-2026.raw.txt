@@ -1,0 +1,264 @@
+  [2m📋 Loaded env from /Users/jcmoreno/.omniroute/.env[0m
+  [2m📋 Loaded env from /Users/jcmoreno/.local/opt/node-v24.21.0-darwin-arm64/lib/node_modules/omniroute/.env[0m
+<p class="answer">La verificación vehicular 2026 es un trámite obligatorio en 12 estados de México para revisar los niveles de emisiones contaminantes de los autos particulares. Este proceso se realiza dos veces al año según el último dígito de las placas y tiene costos que varían entre los $375 y los $628 pesos en las entidades con montos confirmados.</p>
+
+<h2>¿Qué es la verificación vehicular 2026 y por qué es necesaria?</h2>
+
+La verificación vehicular 2026 consiste en una inspección técnica de los sistemas de escape y motor de los vehículos. El objetivo principal es medir la concentración de gases nocivos que salen por el escape. Estos gases afectan la calidad del aire y la salud de las personas en las zonas urbanas. Durante el proceso, los técnicos conectan el auto a equipos especializados que analizan las partículas emitidas.
+
+ComparaMotor lleva 32 estados con verificación vehicular verificados hasta la fecha actual del 24 de octubre de 2026. Es fundamental entender que este trámite ayuda a mantener el auto en buenas condiciones mecánicas. Un vehículo que pasa la prueba suele tener un consumo de combustible más eficiente. Si el motor funciona correctamente, la combustión es completa y los residuos son menores. Esto beneficia directamente al bolsillo del dueño al gastar menos en gasolina.
+
+En México, la normativa ambiental se ha vuelto más estricta con el paso de los años. Los centros de verificación utilizan tecnología avanzada para evitar errores en las lecturas. El personal revisa desde el tapón de gasolina hasta el estado del convertidor catalítico. Si un auto no cumple con los estándares, debe ser reparado y presentado nuevamente a una segunda inspección.
+
+<h2>Estados con verificación vehicular obligatoria en 2026</h2>
+
+No todos los estados del país exigen este trámite para los conductores de vehículos particulares. Actualmente, en 12 es obligatoria para autos particulares y en 18 no. Los reglamentos locales determinan las sanciones para quienes omiten este paso. Es necesario revisar la situación legal de cada entidad antes de viajar o realizar un cambio de propietario.
+
+En estados como Puebla o Hidalgo, los operativos de vigilancia son frecuentes. Las patrullas ambientales tienen la facultad de detener unidades que emitan humo visible o que no porten el distintivo vigente. El holograma pegado en el parabrisas sirve como comprobante visual ante las autoridades de tránsito. Para conocer los requisitos específicos de cada región, puedes consultar la <a href="/verificacion-vehicular/">verificación por estado</a>.
+
+A continuación, se presentan las entidades donde debes cumplir con este requisito de forma forzosa. Algunos costos están pendientes de actualización oficial por parte de sus secretarías de medio ambiente locales.
+
+<table class="tbl">
+<tr>
+<th>Estado</th>
+<th>Estatus de obligatoriedad</th>
+<th>Costo confirmado 2026</th>
+</tr>
+<tr>
+<td>Aguascalientes</td>
+<td>Obligatoria</td>
+<td>$435</td>
+</tr>
+<tr>
+<td>Hidalgo</td>
+<td>Obligatoria</td>
+<td>$494</td>
+</tr>
+<tr>
+<td>Jalisco</td>
+<td>Obligatoria</td>
+<td>$500</td>
+</tr>
+<tr>
+<td>Guanajuato</td>
+<td>Obligatoria</td>
+<td>$375</td>
+</tr>
+<tr>
+<td>Puebla</td>
+<td>Obligatoria</td>
+<td>$628</td>
+</tr>
+<tr>
+<td>Querétaro</td>
+<td>Obligatoria</td>
+<td>Costo por confirmar</td>
+</tr>
+<tr>
+<td>Veracruz</td>
+<td>Obligatoria</td>
+<td>Costo por confirmar</td>
+</tr>
+<tr>
+<td>Tlaxcala</td>
+<td>Obligatoria</td>
+<td>Costo por confirmar</td>
+</tr>
+<tr>
+<td>Chihuahua</td>
+<td>Obligatoria</td>
+<td>Costo por confirmar</td>
+</tr>
+<tr>
+<td>Morelos</td>
+<td>Obligatoria</td>
+<td>Costo por confirmar</td>
+</tr>
+<tr>
+<td>Coahuila</td>
+<td>Obligatoria</td>
+<td>Costo por confirmar</td>
+</tr>
+<tr>
+<td>Oaxaca</td>
+<td>Obligatoria</td>
+<td>Costo por confirmar</td>
+</tr>
+</table>
+
+<!--FIG:grafica:verif-costo-->
+
+<h2>Entidades donde no se requiere verificar autos particulares</h2>
+
+Existen regiones en México donde la densidad vehicular o las condiciones climáticas permiten omitir este trámite por ahora. En estos lugares, la verificación vehicular 2026 no es un requisito para circular legalmente con placas locales. Sin embargo, si planeas viajar a zonas con restricciones ambientales, podrías necesitar una verificación voluntaria o un pase turístico.
+
+Es importante mencionar que, aunque no sea obligatorio, mantener el auto afinado es una responsabilidad civil. Un motor descuidado contamina el entorno sin importar la regulación vigente. En la siguiente lista se detallan los estados que no solicitan el holograma a ciudadanos con vehículos privados.
+
+<table class="tbl">
+<tr>
+<th>Estado</th>
+<th>Situación de la verificación vehicular 2026</th>
+</tr>
+<tr>
+<td>Sonora</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Zacatecas</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Quintana Roo</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Michoacán</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Chiapas</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Baja California Sur</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Campeche</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Tabasco</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Baja California</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Sinaloa</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Nayarit</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>San Luis Potosí</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Nuevo León</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Guerrero</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Yucatán</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Durango</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Tamaulipas</td>
+<td>No obligatoria para particulares</td>
+</tr>
+<tr>
+<td>Colima</td>
+<td>No obligatoria para particulares</td>
+</tr>
+</table>
+
+<h2>Calendario de verificación por número de placa</h2>
+
+La organización de las citas se basa en un esquema semestral para evitar aglomeraciones en los centros de inspección. La verificación suele tocar por el último dígito de la placa, en un calendario de dos semestres. Esto significa que cada auto debe acudir a revisión dos veces durante el año 2026. El primer periodo abarca de enero a junio, mientras que el segundo va de julio a diciembre.
+
+Los dueños de vehículos deben estar atentos al color del engomado y al número final de su matrícula. Por lo general, las placas que terminan en 5 o 6 son las primeras en verificar cada semestre. Les siguen los dígitos 7 u 8, luego 3 o 4, posteriormente 1 o 2, y finalizan los dígitos 9 o 0. No cumplir con el calendario establecido genera multas por verificación extemporánea que suelen ser costosas.
+
+Si compraste un auto nuevo, tienes un plazo determinado de días naturales para realizar la primera verificación. Este periodo comienza a contar desde la fecha de expedición de la tarjeta de circulación. Los autos híbridos o eléctricos suelen estar exentos de este calendario, pero deben tramitar un holograma especial de exención. Para más información sobre pagos de derechos estatales, revisa la <a href="/tenencia/">tenencia por estado</a>.
+
+<h2>Costos y tipos de hologramas</h2>
+
+El costo cambia según el holograma que te asignen después de las pruebas. Los hologramas se dividen principalmente en Exento, 00, 0, 1 y 2. El holograma 00 se otorga a vehículos nuevos con alta eficiencia energética y puede tener una vigencia de hasta dos años. El holograma 0 es para autos que, aunque no son nuevos, cumplen con estándares de emisiones muy bajos.
+
+Los hologramas 1 y 2 se asignan a vehículos con mayores niveles de emisión o modelos más antiguos. Estos distintivos limitan la circulación ciertos días de la semana y algunos sábados del mes. El costo en Aguascalientes es de $435, mientras que en Puebla el monto asciende a $628. Hidalgo mantiene un precio de $494 y Jalisco de $500. Guanajuato ofrece uno de los costos más bajos registrados con $375.
+
+Es fundamental llevar el comprobante de pago original y una copia al verificentro. Algunos estados permiten realizar el pago directamente en el establecimiento, mientras que otros exigen el pago previo en bancos o tiendas de autoservicio. No olvides revisar que no tengas adeudos de multas de tránsito, ya que esto impedirá realizar la verificación vehicular 2026.
+
+<!--FIG:ia:hibrida-estudio.jpg-->
+
+<h2>¿Qué pasa si no verifico mi auto?</h2>
+
+Omitir la verificación vehicular 2026 tiene consecuencias legales y operativas inmediatas. La primera es la imposibilidad de circular en días de contingencia ambiental. Además, las autoridades pueden retirar el vehículo de la circulación y enviarlo al depósito vehicular o corralón. Recuperar un auto del depósito implica gastos adicionales por arrastre de grúa y derecho de piso.
+
+Las multas por no verificar son acumulativas en algunos casos. Si te detienen sin el holograma vigente, la sanción económica debe pagarse antes de intentar verificar nuevamente. Además, perderás el derecho a incentivos fiscales como el subsidio a la tenencia en algunos estados. La falta de este documento también puede complicar la venta del vehículo, ya que el comprador exigirá que todos los trámites estén al corriente.
+
+En zonas con alta contaminación, existen programas restrictivos que dependen directamente de la verificación. Puedes consultar el calendario de restricciones en el programa <a href="/hoy-no-circula/">Hoy No Circula</a>. Estar al día evita molestias innecesarias durante operativos viales y asegura que tu auto pueda transitar por cualquier vía pública sin restricciones de horario.
+
+<h2>Recomendaciones antes de acudir al verificentro</h2>
+
+Para asegurar que tu vehículo obtenga el holograma deseado, es recomendable realizar un mantenimiento preventivo previo. Cambiar el aceite y los filtros de aire y gasolina ayuda a que la combustión sea más limpia. También se debe revisar el sistema de escape para descartar fugas de gases. Las llantas deben tener la presión correcta, ya que algunos centros realizan pruebas dinámicas en rodillos.
+
+Es vital que el motor esté a su temperatura normal de operación al llegar a la cita. Si el auto ha estado apagado por mucho tiempo, el convertidor catalítico podría no funcionar a su máxima eficiencia. Asegúrate de que no haya luces de advertencia encendidas en el tablero, como la de "Check Engine". Cualquier falla en el sistema electrónico del motor causará un rechazo automático en la prueba OBD.
+
+Limpia bien las placas del auto y asegúrate de que sean legibles para las cámaras del centro. Lleva contigo la tarjeta de circulación vigente y el certificado de la verificación anterior. Si es la primera vez que verificas un auto usado, asegúrate de tener el documento que acredite la baja de placas anteriores o el cambio de propietario.
+
+<h2>Importancia del convertidor catalítico en la verificación</h2>
+
+El convertidor catalítico es la pieza clave para pasar la verificación vehicular 2026. Este componente se encarga de transformar los gases tóxicos en sustancias menos dañinas antes de que salgan por el escape. Con el tiempo, el catalizador puede taparse o perder sus propiedades químicas. Un auto que consume mucho aceite suele dañar esta pieza más rápido.
+
+Si los técnicos detectan que el catalizador ha sido removido o alterado, el vehículo no podrá obtener ningún holograma. El costo de reemplazar esta pieza puede ser elevado, pero es necesario para cumplir con la ley ambiental. Existen sensores de oxígeno que trabajan junto al catalizador para regular la mezcla de aire y combustible. Si estos sensores fallan, las emisiones se dispararán.
+
+En el mercado existen catalizadores universales y originales. Se recomienda siempre usar piezas que cumplan con las especificaciones del fabricante para evitar problemas de compatibilidad. Un sistema de escape en buen estado también reduce el ruido excesivo, lo cual es parte de las revisiones visuales en muchos centros de inspección autorizados.
+
+<h2>Diferencias entre estados y reciprocidad</h2>
+
+Aunque 12 estados tienen el trámite obligatorio, las reglas de reciprocidad permiten que los conductores viajen entre entidades. Por ejemplo, un auto verificado en Hidalgo puede circular en Puebla sin problemas, siempre y cuando el holograma sea reconocido por los convenios ambientales regionales. No obstante, algunos estados exigen que los visitantes tramiten un pase especial si su estancia será prolongada.
+
+En Chihuahua y Coahuila, los procesos pueden tener variaciones administrativas respecto al centro del país. Es vital no confiar en gestores externos que prometen hologramas sin presentar el vehículo. Estos distintivos suelen ser falsos y pueden meter al propietario en problemas penales por uso de documentos apócrifos. La única forma segura de verificar es acudir directamente a los centros autorizados con cita previa.
+
+Los estados donde no es obligatoria para autos particulares, como Nuevo León o Quintana Roo, podrían implementar medidas temporales si la calidad del aire empeora. Por ello, se recomienda visitar el sitio web oficial de la secretaría de medio ambiente de cada entidad de forma regular. Evita buscar información en redes sociales no verificadas para no caer en confusiones sobre los montos y fechas.
+
+<h2>La verificación y el valor de reventa del vehículo</h2>
+
+Un auto con todas sus verificaciones al corriente tiene un mejor valor en el mercado de usados. El historial de verificaciones sirve como una prueba indirecta del mantenimiento que ha recibido el motor. Un comprador preferirá un vehículo que ha pasado todas sus pruebas con holograma 0 o 00, ya que indica una buena salud mecánica.
+
+Por el contrario, un vehículo que debe varias verificaciones representa una deuda inmediata para el nuevo dueño. Al realizar el cambio de propietario, el sistema detectará los periodos omitidos y cargará las multas correspondientes. Mantener la carpeta de documentos organizada con todos los certificados de la verificación vehicular 2026 es una excelente práctica para cualquier automovilista responsable.
+
+Recuerda que la transparencia en los trámites facilita cualquier proceso legal relacionado con tu propiedad. Si tienes dudas sobre los pagos realizados, puedes consultar el historial en la página oficial de finanzas de tu estado. Allí aparecerán los registros de cada semestre y los pagos de derechos asociados a tus placas.
+
+<h2>Impacto ambiental de la verificación vehicular 2026</h2>
+
+La reducción de partículas PM10 y PM2.5 es el principal logro de estos programas. Estas partículas son tan pequeñas que pueden entrar en los pulmones y el torrente sanguíneo. Al obligar a los autos a estar afinados, se reduce la presencia de ozono en las capas bajas de la atmósfera. Esto disminuye la incidencia de enfermedades respiratorias en la población infantil y en adultos mayores.
+
+El programa de verificación vehicular 2026 también incentiva la renovación del parque vehicular. Al ser más difícil para los autos viejos pasar las pruebas, los propietarios consideran cambiar a modelos más eficientes o tecnologías híbridas. Aunque el costo inicial de un auto nuevo es mayor, los beneficios en circulación y ahorro de combustible compensan la inversión a largo plazo.
+
+Finalmente, la conciencia ambiental ha crecido en la sociedad mexicana. Cumplir con la verificación ya no se ve solo como una obligación fiscal, sino como una contribución al cuidado del ecosistema. Cada auto que emite menos gases ayuda a que las ciudades sean lugares más habitables y saludables para todos.
+
+<h2>Preguntas frecuentes</h2>
+
+<div class="faq">
+<details>
+<summary>¿Qué estados tienen la verificación más barata en 2026?</summary>
+<p>Según los datos actuales, Guanajuato ofrece el costo más bajo con $375 pesos. Le sigue Aguascalientes con un precio de $435 pesos por el trámite de verificación obligatoria.</p>
+</details>
+
+<details>
+<summary>¿Puedo verificar mi auto si tengo multas de tránsito pendientes?</summary>
+<p>Generalmente no es posible. Los sistemas de los centros de verificación están vinculados con las bases de datos de finanzas y exigen que el vehículo no tenga adeudos de multas o tenencias para proceder.</p>
+</details>
+
+<details>
+<summary>¿Qué vigencia tiene el holograma 00?</summary>
+<p>El holograma 00 suele tener una vigencia de hasta dos años. Se otorga principalmente a vehículos nuevos que cumplen con estándares específicos de eficiencia y bajas emisiones contaminantes.</p>
+</details>
+
+<details>
+<summary>¿Qué pasa si mi auto es rechazado en la verificación?</summary>
+<p>Si el vehículo no pasa la prueba, tienes un periodo de tiempo (que varía por estado) para realizar las reparaciones necesarias y volver a presentar el auto sin costo adicional en el mismo centro.</p>
+</details>
+</div>

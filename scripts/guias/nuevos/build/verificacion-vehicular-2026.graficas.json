@@ -1,0 +1,41 @@
+{
+ "verif-costo": {
+  "titulo": "Costo de la verificación vehicular 2026 por estado",
+  "desc": "Holograma básico o costo de referencia.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Guanajuato",
+    "valor": 375,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Aguascalientes",
+    "valor": 435,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Hidalgo",
+    "valor": 494,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Jalisco",
+    "valor": 500,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Puebla",
+    "valor": 628,
+    "color": "#1baf7a"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "Costo publicado o de referencia"
+   }
+  ],
+  "fuente": "Programas estatales de verificación y tablas de la SEMARNAT 2026."
+ }
+}

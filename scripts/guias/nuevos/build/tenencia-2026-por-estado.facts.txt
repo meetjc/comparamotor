@@ -1,0 +1,33 @@
+Hoy es 24 de octubre de 2026.
+ComparaMotor lleva 32 estados con tenencia y refrendo verificados. 16 no cobran tenencia en 2026 y 12 sí.
+== Estados que NO cobran tenencia en 2026 (solo refrendo o control vehicular) ==
+Sonora: refrendo $1,914
+Michoacán: refrendo $1,256
+Chihuahua: refrendo $2,749
+Aguascalientes: refrendo $960
+Chiapas: refrendo $1,219
+Baja California Sur: refrendo $556
+Campeche: refrendo no publicado
+Tabasco: refrendo $1,697
+Sinaloa: refrendo $2,065 (estimado con la ley y la UMA)
+Nayarit: refrendo $833
+Jalisco: refrendo $1,000
+San Luis Potosí: refrendo $1,400
+Coahuila: refrendo $2,441
+Nuevo León: refrendo no publicado
+Yucatán: refrendo $411
+Tamaulipas: refrendo $2,346 (estimado con la ley y la UMA)
+== Estados que SÍ cobran tenencia en 2026 ==
+Querétaro: Querétaro mantiene el Impuesto sobre Tenencia o Uso de Vehículos (Ley de Hacienda del Estado; la Ley de Ingresos 2026 estima $453.4 millones por este concepto).
+Quintana Roo: Quintana Roo cobra el Impuesto Sobre Uso o Tenencia Vehicular (ISUTV; Ley de Hacienda del Estado, Título II, Capítulo II).
+Veracruz: Veracruz mantiene el Impuesto Estatal sobre Tenencia o Uso de Vehículos (IESTUV), pero en 2026 se subsidia al 100% a quien pague los Derechos de Control Vehicular dentro del periodo del programa.
+Tlaxcala: Tlaxcala conserva el Impuesto Estatal sobre Tenencia o Uso de Vehículos (art.
+Baja California: Sí existe el Impuesto Estatal sobre Tenencia o Uso de Vehículos (Ley de Hacienda del Estado de Baja California, Cap.
+Morelos: Sí existe y se cobra a quien no cumple a tiempo.
+Guanajuato: Sí, pero solo para vehículos de valor alto.
+Puebla: Puebla mantiene el Impuesto sobre Tenencia o Uso de Vehículos (art.
+Oaxaca: Oaxaca mantiene el Impuesto sobre Tenencia o Uso de Vehículos (la Ley de Ingresos 2026 estima $8.5 millones por este concepto), pero el art.
+Guerrero: Sí.
+Durango: El Impuesto sobre Tenencia o Uso de Vehículos Estatal sigue vigente en la Ley de Hacienda del Estado de Durango (Título Segundo, Capítulo VIII; la Ley de Ingresos 2026 lo estima en $885,752,084 y fija su tarifa en el art.
+Colima: Sí existe el Impuesto sobre Tenencia o Uso de Vehículos (Ley de Hacienda del Estado de Colima, Título Primero, Capítulo VIII, arts.
+El refrendo marcado con ≈ es un estimado calculado con la ley estatal y el valor de la UMA 2026 ($117.31 diario), porque el estado no publica una tarifa fija en línea.Ejemplo de cálculo: 10 UMA con la UMA 2026 de $117.31 = $1,173.10.

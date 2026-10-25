@@ -1,0 +1,35 @@
+Hoy es 24 de octubre de 2026.
+ComparaMotor lleva 32 estados con verificación vehicular verificados. En 12 es obligatoria para autos particulares y en 18 no.
+== Estados donde la verificación es obligatoria ==
+Querétaro: costo por confirmar
+Veracruz: costo por confirmar
+Tlaxcala: costo por confirmar
+Chihuahua: costo por confirmar
+Aguascalientes: $435
+Hidalgo: $494
+Morelos: costo por confirmar
+Jalisco: $500
+Guanajuato: $375
+Puebla: $628
+Coahuila: costo por confirmar
+Oaxaca: costo por confirmar
+== Estados donde NO es obligatoria para autos particulares ==
+Sonora
+Zacatecas
+Quintana Roo
+Michoacán
+Chiapas
+Baja California Sur
+Campeche
+Tabasco
+Baja California
+Sinaloa
+Nayarit
+San Luis Potosí
+Nuevo León
+Guerrero
+Yucatán
+Durango
+Tamaulipas
+Colima
+La verificación suele tocar por el último dígito de la placa, en un calendario de dos semestres. El costo cambia según el holograma que te asignen.

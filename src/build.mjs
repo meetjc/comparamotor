@@ -31,7 +31,10 @@ const TEMA_IMG = {
   lanzamientos: [['hibrida-estudio.jpg', 'SUV gris de perfil en un estudio'], ['pickup-jalisco.jpg', 'Pickup en un camino de Jalisco']],
 };
 const usoTema = {};
-const noticias = listJSON(path.join(ROOT, 'data/noticias')).map((f) => readJSON(f)).filter(Boolean).map((n) => {
+const hoy = opts.hoy || hoyCDMX().iso;
+// Una guía o nota con "publicar" en el futuro no se incluye hasta esa fecha (la corrida diaria la saca sola).
+const yaPublicable = (x) => !x || !x.publicar || x.publicar <= hoy;
+const noticias = listJSON(path.join(ROOT, 'data/noticias')).map((f) => readJSON(f)).filter(Boolean).filter(yaPublicable).map((n) => {
   const t = n.tema || 'mercado'; const pool = TEMA_IMG[t] || TEMA_IMG.mercado; const k = (usoTema[t] = (usoTema[t] || 0) + 1) - 1;
   const [imagen, imagenAlt] = n.imagen ? [n.imagen, n.imagenAlt] : pool[k % pool.length];
   return { ...n, tema: TEMA_N[t] || t, temaSlug: t, fecha: n.fechaFuente || n.fecha, url: `/noticias/${n.slug}/`, imagen, imagenAlt, fuentePrincipal: (n.fuentes && n.fuentes[0] && (n.fuentes[0].medio || corto(n.fuentes[0].nombre))) || '' };
@@ -43,11 +46,10 @@ for (const a of autos) for (const o of a.ofertas || []) {
   if (!o.descripcion && !o.precioOferta) continue;
   promos.push({ titulo: `${a.marca} ${a.modelo}: ${o.descripcion || 'precio de oferta ' + o.precioOferta}`, condicion: o.condicion, vigenciaHasta: o.vigenciaHasta, fuente: o.fuente, url: o.url, fechaVerificacion: o.fechaVerificacion, auto: a, oferta: o });
 }
-const hoy = opts.hoy || hoyCDMX().iso;
 const vigentes = promos.filter((p) => !p.vigenciaHasta || p.vigenciaHasta >= hoy).sort((x, y) => (x.vigenciaHasta || '9999').localeCompare(y.vigenciaHasta || '9999'));
 
 const editorial = readJSON(path.join(ROOT, 'data/editorial/comparativas.json'), { comparativas: [] });
-const guias = listJSON(path.join(ROOT, 'data/guias')).map((f) => readJSON(f)).filter(Boolean).map((g) => ({ ...g, url: `/guias/${g.slug}/` })).sort((a, b) => (b.fecha || '').localeCompare(a.fecha || ''));
+const guias = listJSON(path.join(ROOT, 'data/guias')).map((f) => readJSON(f)).filter(Boolean).filter(yaPublicable).map((g) => ({ ...g, url: `/guias/${g.slug}/` })).sort((a, b) => (b.fecha || '').localeCompare(a.fecha || ''));
 const mercado = { masVendidos: readJSON(path.join(ROOT, 'data/mercado/mas-vendidos-2026-09.json')), lanzamientos: readJSON(path.join(ROOT, 'data/mercado/lanzamientos-2027.json')) };
 const D = { autos, reg, noticias, promos: vigentes, todasPromos: promos, guias, editorial, mercado, hoy, fotos: readJSON(path.join(ROOT, 'data/fotos-modelos.json'), {}) };
 D.comparativasList = comparativasData(D);

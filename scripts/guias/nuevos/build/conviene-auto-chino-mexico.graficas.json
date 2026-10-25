@@ -1,0 +1,46 @@
+{
+ "chino-precio": {
+  "titulo": "Autos de marcas chinas en el catálogo, por precio",
+  "desc": "Precio desde, versión de entrada.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "MG MG5",
+    "valor": 299900,
+    "color": "#eb6834"
+   },
+   {
+    "label": "BYD Dolphin Mini",
+    "valor": 399800,
+    "color": "#eb6834"
+   },
+   {
+    "label": "MG ZS Turbo",
+    "valor": 399900,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Chirey Tiggo 7 Pro",
+    "valor": 504900,
+    "color": "#eb6834"
+   },
+   {
+    "label": "BYD Song Plus DM-i",
+    "valor": 778800,
+    "color": "#eb6834"
+   },
+   {
+    "label": "BYD Seal",
+    "valor": 778800,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#eb6834",
+    "texto": "Marca china o de capital chino"
+   }
+  ],
+  "fuente": "Precios de lista oficiales verificados en octubre de 2026."
+ }
+}

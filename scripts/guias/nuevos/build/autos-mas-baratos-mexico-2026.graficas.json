@@ -1,0 +1,56 @@
+{
+ "barato-precio": {
+  "titulo": "Autos nuevos más baratos de México 2026 (precio de entrada)",
+  "desc": "Precio desde, versión más económica.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Renault Kwid",
+    "valor": 252000,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Hyundai Grand i10",
+    "valor": 290400,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Nissan March",
+    "valor": 295990,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "MG MG5",
+    "valor": 299900,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Kia K3 Sedán",
+    "valor": 305100,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Chevrolet Aveo",
+    "valor": 319100,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Volkswagen Virtus",
+    "valor": 322490,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Toyota Yaris",
+    "valor": 326500,
+    "color": "#1baf7a"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "Precio de lista de entrada"
+   }
+  ],
+  "fuente": "Precios de lista de los sitios oficiales, verificados en octubre de 2026."
+ }
+}

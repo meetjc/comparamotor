@@ -1,0 +1,19 @@
+Escribe en español de México, para alguien que está por comprar o mantener un auto. Frases cortas y claras. Sin clichés de IA ("en la era digital", "sin lugar a dudas", "es crucial"). Sin signos de exclamación. NO inventes ninguna cifra: usa EXCLUSIVAMENTE los números que aparecen en FACTS (precios, montos, porcentajes). Si un dato no está en FACTS, no lo pongas. Devuelve SOLO HTML del cuerpo (sin <html> ni <head>): empieza con <p class="answer"> que responda la pregunta del título en 2-3 líneas. Luego H2 con preguntas reales de búsqueda, párrafos de 2-4 oraciones, al menos 2 <table class="tbl"> con datos de FACTS, listas cuando ayuden. Incluye EXACTAMENTE los marcadores de figura indicados, cada uno en su propia línea, tal cual. Cierra con <h2>Preguntas frecuentes</h2> y un <div class="faq"> con 4 <details><summary>…</summary><p>…</p></details>. Pon los enlaces internos indicados con <a href="…">. Mínimo 1700 palabras. No uses la palabra "portal" para la cuenta del cliente.
+Título: "Autos nuevos más baratos de México en 2026". Palabras clave: "autos nuevos baratos mexico", "autos mas baratos mexico 2026". Lista los más baratos por precio, explica qué esperar a ese precio (hatchback y sedán de entrada), y la diferencia entre precio de lista y precio de oferta con financiamiento. Enlaza a la ficha de 4-5 modelos de FACTS, a <a href="/mejores/autos-baratos/">mejores autos baratos</a> y a <a href="/que-me-alcanza/">¿qué auto te alcanza?</a>. Tabla 1: los 12 más baratos con carrocería y precio. Tabla 2: los más baratos por carrocería (hatchback vs sedán). Marcadores: <!--FIG:grafica:barato-precio--> <!--FIG:foto:renault-kwid:0--> <!--FIG:foto:nissan-march:0-->
+=== FACTS (únicos números permitidos) ===
+Hoy es 24 de octubre de 2026.
+Autos nuevos con el precio de lista más bajo del catálogo de ComparaMotor.
+== Autos nuevos más baratos por precio de entrada ==
+Renault Kwid: hatchback gasolina, desde $252,000, enlace /autos/renault/kwid/
+Hyundai Grand i10: hatchback gasolina, desde $290,400, enlace /autos/hyundai/grand-i10/
+Nissan March: hatchback gasolina, desde $295,990, enlace /autos/nissan/march/
+MG MG5: sedán gasolina, desde $299,900, enlace /autos/mg/mg5/
+Kia K3 Sedán: sedán gasolina, desde $305,100, enlace /autos/kia/k3/
+Chevrolet Aveo: sedán gasolina, desde $319,100, enlace /autos/chevrolet/aveo/
+Volkswagen Virtus: sedán gasolina, desde $322,490, enlace /autos/volkswagen/virtus/
+Toyota Yaris: hatchback gasolina, desde $326,500, enlace /autos/toyota/yaris/
+Volkswagen Polo: hatchback gasolina, desde $339,990, enlace /autos/volkswagen/polo/
+Suzuki Swift: hatchback híbrido, desde $343,990, enlace /autos/suzuki/swift/
+Chevrolet Onix: sedán gasolina, desde $353,100, enlace /autos/chevrolet/onix/
+Nissan Versa: sedán gasolina, desde $374,900, enlace /autos/nissan/versa/
+El precio de lista no incluye enganche ni financiamiento; muchas marcas ofrecen precios de oferta que exigen crédito con su financiera.

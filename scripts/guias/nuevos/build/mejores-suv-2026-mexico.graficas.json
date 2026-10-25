@@ -1,0 +1,55 @@
+{
+ "suv-precio": {
+  "titulo": "SUV más accesibles de 2026 por precio de entrada",
+  "desc": "Precio desde, versión de entrada.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Nissan Magnite",
+    "valor": 388990,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Kia Sonet",
+    "valor": 398400,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "MG ZS Turbo",
+    "valor": 399900,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Chevrolet Groove",
+    "valor": 421500,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Hyundai Creta",
+    "valor": 451000,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Mazda CX-30",
+    "valor": 451900,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Volkswagen Taigun",
+    "valor": 475990,
+    "color": "#2a78d6"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#2a78d6",
+    "texto": "Gasolina"
+   },
+   {
+    "color": "#1baf7a",
+    "texto": "Híbrida o eléctrica"
+   }
+  ],
+  "fuente": "Precios de lista de los sitios oficiales de cada marca, verificados en octubre de 2026."
+ }
+}
