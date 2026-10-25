@@ -13,7 +13,14 @@ const NO_GOB = '<p class="callout info" style="margin-top:16px">ComparaMotor es 
 const CR = (k) => [{ name: 'Inicio', url: '/' }, { name: 'Trámites', url: '/tramites/' }, ...k];
 
 // Convierte cualquier valor del JSON en HTML legible (texto, listas, tablas clave-valor)
-const ETIQ = { aplicaA: 'Aplica a', periodos: 'Periodos', fundamento: 'Fundamento', nota: 'Nota', detalle: 'Detalle', monto2026: 'Monto 2026', nombreLocal: 'Nombre local', moneda: null, confiabilidad: 'Confiabilidad', descuentos: 'Descuentos', gasolinaOGas: 'Gasolina o gas', diesel: 'Diésel', porUltimoDigitoDePlaca: 'Por último dígito de placa' };
+// Un monto es estimado cuando sale de la ley y la UMA, no de una tarifa publicada por el estado.
+function refrendoEstimado(r) {
+  if (!r) return false;
+  if (typeof r.estimado === 'boolean') return r.estimado; // marca explícita en los datos
+  const t = [r.detalle, r.nota].filter(Boolean).join(' ');
+  return /c[aá]lculo propio|no una cifra publicada|no es una cifra publicada|sin confirmar/i.test(t);
+}
+const ETIQ = { aplicaA: 'Aplica a', periodos: 'Periodos', fundamento: 'Fundamento', nota: 'Nota', detalle: 'Detalle', monto2026: 'Monto 2026', nombreLocal: 'Nombre local', moneda: null, estimado: null, confiabilidad: 'Confiabilidad', descuentos: 'Descuentos', gasolinaOGas: 'Gasolina o gas', diesel: 'Diésel', porUltimoDigitoDePlaca: 'Por último dígito de placa' };
 function humano(k) { if (k in ETIQ) return ETIQ[k]; return k.replace(/([A-Z])/g, ' $1').replace(/^./, (c) => c.toUpperCase()).replace(/2026/, ' 2026'); }
 function render(v, depth = 0) {
   if (v == null || v === '') return '—';
@@ -34,7 +41,9 @@ function estadoPage(ctx, tipo, d, todos) {
   if (isTen) {
     const cobra = d.cobraTenencia2026;
     const ref = d.refrendo && (d.refrendo.monto2026 || d.refrendo.monto);
-    resp = cobra === false ? `<b>No.</b> En ${esc(E)} no se cobra tenencia en 2026${ref ? `; lo que sí pagas es el refrendo o control vehicular, de <b>${mxn(ref)}</b>` : ''}.`
+    const est = refrendoEstimado(d.refrendo);
+    const refTxt = ref ? `${est ? '≈' : ''}${mxn(ref)}${est ? ' (estimado con la ley y la UMA; confírmalo en tu estado)' : ''}` : '';
+    resp = cobra === false ? `<b>No.</b> En ${esc(E)} no se cobra tenencia en 2026${ref ? `; lo que sí pagas es el refrendo o control vehicular, de <b>${refTxt}</b>` : ''}.`
       : cobra === true ? `<b>Sí.</b> ${esc(E)} cobra tenencia en 2026. ${typeof d.tenencia === 'string' ? esc(d.tenencia.split(/(?<=\.)\s/)[0]) : ''}`
       : `${esc(typeof d.tenencia === 'string' ? d.tenencia.split(/(?<=\.)\s/)[0] : 'Revisa el detalle abajo.')}`;
     if (d.fechaLimite) resp += ` Fecha límite: ${esc(String(d.fechaLimite).split(/[(.]/)[0].trim())}.`;
@@ -57,6 +66,7 @@ function estadoPage(ctx, tipo, d, todos) {
     ${portal ? `<p><a class="pill p-black" href="${esc(portal)}" target="_blank" rel="noopener">Ir al portal oficial</a></p>` : ''}
     ${NO_GOB}
     ${secciones}
+    ${isTen && refrendoEstimado(d.refrendo) ? `<p class="fine">El monto del refrendo es un <b>estimado</b> calculado con la ley estatal y el valor de la UMA, porque la Secretaría de Finanzas del estado no publica una tarifa fija en línea. Toma el número como referencia y confírmalo en el portal oficial o con tu línea de captura.</p>` : ''}
     ${(d.pendientes || []).length ? `<h2>Lo que aún no confirmamos</h2><ul>${d.pendientes.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}
     <h2>Preguntas frecuentes</h2>${f.html}
     ${fuentes(d.fuentes, fecha)}
@@ -72,13 +82,14 @@ function indice(ctx, tipo, list) {
   const isTen = tipo === 'tenencia', base = isTen ? '/tenencia/' : '/verificacion-vehicular/';
   const fecha = list.map((d) => d.fechaVerificacion).sort().pop();
   const rows = list.map((d) => isTen
-    ? [`<a href="${ctx.u(base + d.slug + '/')}" style="text-decoration:underline">${esc(d.estado)}</a>`, d.cobraTenencia2026 === true ? '<b>Sí</b>' : d.cobraTenencia2026 === false ? 'No' : 'Ver detalle', d.refrendo && (d.refrendo.monto2026 || d.refrendo.monto) ? mxn(d.refrendo.monto2026 || d.refrendo.monto) : '—']
+    ? [`<a href="${ctx.u(base + d.slug + '/')}" style="text-decoration:underline">${esc(d.estado)}</a>`, d.cobraTenencia2026 === true ? '<b>Sí</b>' : d.cobraTenencia2026 === false ? 'No' : 'Ver detalle', d.refrendo && (d.refrendo.monto2026 || d.refrendo.monto) ? `${refrendoEstimado(d.refrendo) ? '≈' : ''}${mxn(d.refrendo.monto2026 || d.refrendo.monto)}${refrendoEstimado(d.refrendo) ? ' *' : ''}` : '—']
     : [`<a href="${ctx.u(base + d.slug + '/')}" style="text-decoration:underline">${esc(d.estado)}</a>`, d.obligatoria === false ? 'No' : d.obligatoria === true ? 'Sí' : 'Ver detalle', d.costo2026 && (d.costo2026.gasolinaOGas || d.costo2026.gasolina) ? mxn(d.costo2026.gasolinaOGas || d.costo2026.gasolina) : '—']);
   const noCobran = list.filter((d) => d.cobraTenencia2026 === false).length;
   const body = `${ph({ h1: isTen ? 'Tenencia 2026 por estado: <em>quién cobra y cuánto</em>' : 'Verificación vehicular 2026 <em>por estado</em>', lede: `${list.length} estados con su fuente oficial y la fecha de verificación.`, meta: actualizado(fecha, 'Redacción ComparaMotor', ctx) })}
   <div class="wrap blk" style="padding-top:0">
     ${answer(isTen ? `De los ${list.length} estados que llevamos verificados, <b>${noCobran} no cobran tenencia</b> en 2026 y solo cobran refrendo o control vehicular. Elige tu estado para ver montos, descuentos y fecha límite.` : `La verificación es obligatoria en la mayoría de los estados que llevamos verificados, con un calendario por último dígito de placa. Elige tu estado para ver tu mes, el costo y la multa.`)}
     ${table({ head: isTen ? ['Estado', '¿Cobra tenencia?', 'Refrendo 2026'] : ['Estado', '¿Obligatoria?', 'Costo 2026'], rows })}
+    ${isTen && list.some((d) => refrendoEstimado(d.refrendo)) ? `<p class="fine">* Monto estimado con la ley estatal y la UMA, porque el estado no publica una tarifa fija en línea. Verifícalo en tu entidad.</p>` : ''}
     ${NO_GOB}
   </div>`;
   return page(ctx, { title: isTen ? 'Tenencia 2026 por estado: quién cobra, refrendo y fechas' : 'Verificación vehicular 2026 por estado: calendario y costos', description: isTen ? `Tenencia 2026 en ${list.length} estados de México: si se cobra, cuánto cuesta el refrendo y la fecha límite, con fuentes oficiales.` : `Verificación vehicular 2026 en ${list.length} estados: calendario por placa, costo y multas, con fuentes oficiales.`, body, crumbsItems: CR([{ name: isTen ? 'Tenencia' : 'Verificación vehicular', url: base }]), updated: fechaLarga(fecha) });

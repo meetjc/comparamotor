@@ -7,7 +7,8 @@
     "nombreLocal": "Revalidación anual de tarjeta de circulación y calcomanía de refrendo",
     "monto2026": 2065,
     "moneda": "MXN",
-    "detalle": "Ley de Hacienda del Estado de Sinaloa, art. 48 fracc. III inciso D) num. 1: 16 UMA para vehículo de servicio particular (motocicleta 6 UMA). Con UMA 2026 de $117.31: 16 x 117.31 = $1,876.96, más 10% adicional pro-educación superior (art. 111, derechos de tránsito) = $2,064.66, redondeado a $2,065. Es un cálculo con la ley y la UMA oficial, no una cifra publicada por el SATES; coincide con la cifra de prensa de apoyo ($2,065). Antes de febrero de 2026 regía la UMA 2025 ($113.14)."
+    "detalle": "Ley de Hacienda del Estado de Sinaloa, art. 48 fracc. III inciso D) num. 1: 16 UMA para vehículo de servicio particular (motocicleta 6 UMA). Con UMA 2026 de $117.31: 16 x 117.31 = $1,876.96, más 10% adicional pro-educación superior (art. 111, derechos de tránsito) = $2,064.66, redondeado a $2,065. Es un cálculo con la ley y la UMA oficial, no una cifra publicada por el SATES; coincide con la cifra de prensa de apoyo ($2,065). Antes de febrero de 2026 regía la UMA 2025 ($113.14).",
+    "estimado": true
   },
   "fechaLimite": "31 de marzo de 2026 (aviso oficial del Gobierno de Sinaloa). Prensa (ADN40) reporta prórroga al 15 de abril de 2026 sin recargos.",
   "descuentos": [

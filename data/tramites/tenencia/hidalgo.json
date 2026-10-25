@@ -7,7 +7,8 @@
     "nombreLocal": "Refrendo de datos al Registro Vehicular Estatal (Programa «Circula Seguro»)",
     "monto2026": 1177,
     "moneda": "MXN",
-    "detalle": "Auto, camión o autobús de uso privado: 10.4 UMA = $1,177 si no se pagó antes la verificación del primer semestre; 9.28 UMA = $1,050 si se pagó antes la verificación del primer semestre de 2026. Las Reglas fijan la UMA en $113.14 para estos cálculos. Motocicleta o remolque: 7.26 UMA. Vehículo para personas con discapacidad: 5.2 UMA. Incluye seguro de responsabilidad civil de $150,000 y seguro de vida de $50,000 para el conductor."
+    "detalle": "Auto, camión o autobús de uso privado: 10.4 UMA = $1,177 si no se pagó antes la verificación del primer semestre; 9.28 UMA = $1,050 si se pagó antes la verificación del primer semestre de 2026. Las Reglas fijan la UMA en $113.14 para estos cálculos. Motocicleta o remolque: 7.26 UMA. Vehículo para personas con discapacidad: 5.2 UMA. Incluye seguro de responsabilidad civil de $150,000 y seguro de vida de $50,000 para el conductor.",
+    "estimado": false
   },
   "fechaLimite": "30 de junio de 2026 (vigencia del programa «Circula Seguro»). Después de esa fecha no se localizó el monto en fuente oficial.",
   "descuentos": [

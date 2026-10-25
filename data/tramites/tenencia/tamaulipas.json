@@ -7,7 +7,8 @@
     "nombreLocal": "Derechos de control vehicular (ingreso o refrendo anual en el padrón de vehículos)",
     "monto2026": 2346.2,
     "moneda": "MXN",
-    "detalle": "Ley de Hacienda para el Estado de Tamaulipas, art. 73 fracc. I inciso a) (reforma del Decreto 66-907, Periódico Oficial 16-dic-2025): 20 veces el valor diario de la UMA por el ingreso o refrendo anual de vehículos de combustión interna, eléctricos, híbridos o remolques. Con la UMA 2026 de $117.31: 20 x 117.31 = $2,346.20 (con la UMA 2025 de $113.14, vigente en enero, serían $2,262.80). Expedición, reposición o canje de placas: 5 UMA (art. 73 fracc. I inciso b). Es un cálculo con la ley y la UMA oficial, no una cifra publicada por Finanzas."
+    "detalle": "Ley de Hacienda para el Estado de Tamaulipas, art. 73 fracc. I inciso a) (reforma del Decreto 66-907, Periódico Oficial 16-dic-2025): 20 veces el valor diario de la UMA por el ingreso o refrendo anual de vehículos de combustión interna, eléctricos, híbridos o remolques. Con la UMA 2026 de $117.31: 20 x 117.31 = $2,346.20 (con la UMA 2025 de $113.14, vigente en enero, serían $2,262.80). Expedición, reposición o canje de placas: 5 UMA (art. 73 fracc. I inciso b). Es un cálculo con la ley y la UMA oficial, no una cifra publicada por Finanzas.",
+    "estimado": true
   },
   "fechaLimite": null,
   "descuentos": [

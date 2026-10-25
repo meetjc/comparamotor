@@ -7,7 +7,8 @@
     "nombreLocal": "Refrendo anual de los derechos de control vehicular",
     "monto2026": null,
     "moneda": "MXN",
-    "detalle": "Auto particular: 7.5 UMA (nota oficial de la Secretaría de Hacienda, 17-ene-2025: «7.5 UMA»). Con la UMA 2026 de $117.31 serían $879.83 (cálculo; la prensa reporta $879.82). Transporte público: 6.5 UMA más canje de tarjetón. No se confirmó el monto 2026 en la Ley de Ingresos."
+    "detalle": "Auto particular: 7.5 UMA (nota oficial de la Secretaría de Hacienda, 17-ene-2025: «7.5 UMA»). Con la UMA 2026 de $117.31 serían $879.83 (cálculo; la prensa reporta $879.82). Transporte público: 6.5 UMA más canje de tarjetón. No se confirmó el monto 2026 en la Ley de Ingresos.",
+    "estimado": true
   },
   "fechaLimite": "Primeros cinco meses del año, hasta el 31 de mayo de 2026 (arts. 7 BIS-5 y 84 BIS de la Ley General de Hacienda). Después se cobra la tenencia a quien no pagó el refrendo.",
   "descuentos": [
