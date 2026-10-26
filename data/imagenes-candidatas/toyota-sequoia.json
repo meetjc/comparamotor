@@ -1,0 +1,48 @@
+{
+  "marca": "Toyota",
+  "modelo": "Sequoia",
+  "marcaSlug": "toyota",
+  "modeloSlug": "sequoia",
+  "generacionMexico": "Sequoia XK80 (2023+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/2023_Toyota_Sequoia_Limited_in_Wind_Chill_Pearl%2C_Front_Right%2C_01-16-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Toyota_Sequoia_Limited_in_Wind_Chill_Pearl,_Front_Right,_01-16-2023.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Elise240SX",
+      "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3731,
+      "alto": 1999,
+      "anioOGeneracion": "2023 · Sequoia XK80 (2023+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2023 Toyota Sequoia Limited in Wind Chill Pearl, Front Right, 01-16-2023. Foto de 2023. Categoría Commons: Toyota Sequoia (XK80). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Sequoia XK80 (2023+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Toyota_Sequoia_i-FORCE_MAX_Hybrid_4WD_Capstone_%28III%29_%E2%80%93_f_04012025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Toyota_Sequoia_i-FORCE_MAX_Hybrid_4WD_Capstone_(III)_%E2%80%93_f_04012025.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "autor": "© M 93",
+      "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+      "compartirIgual": true,
+      "ancho": 5973,
+      "alto": 3250,
+      "anioOGeneracion": "2025 · Sequoia XK80 (2023+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Toyota Sequoia i-FORCE MAX Hybrid 4WD Capstone (III) – f 04012025. Foto de 2025. Categoría Commons: Toyota Sequoia (XK80). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Sequoia XK80 (2023+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

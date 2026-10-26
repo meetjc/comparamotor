@@ -1,0 +1,30 @@
+{
+  "marca": "Nissan",
+  "modelo": "Pathfinder",
+  "marcaSlug": "nissan",
+  "modeloSlug": "pathfinder",
+  "generacionMexico": "R53 con el rediseño 2025 (parrilla de barras horizontales)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/2026_Nissan_Pathfinder_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Nissan_Pathfinder_front_view.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Deathpallie325",
+      "credito": "Foto: Deathpallie325 / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 4080,
+      "alto": 2296,
+      "anioOGeneracion": "2026 · R53 con el rediseño 2025 (parrilla de barras horizontales)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2026 Nissan Pathfinder front view. Foto de 2026. Categoría Commons: Nissan Pathfinder (R53). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (R53 con el rediseño 2025 (parrilla de barras horizontales)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

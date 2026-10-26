@@ -1,0 +1,48 @@
+{
+  "marca": "Chevrolet",
+  "modelo": "Corvette",
+  "marcaSlug": "chevrolet",
+  "modeloSlug": "corvette",
+  "generacionMexico": "Corvette C8 (2020+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/2023_Chevrolet_Corvette_Stingray%2C_front_right%2C_06-01-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Chevrolet_Corvette_Stingray,_front_right,_06-01-2024.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "MercurySable99",
+      "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4647,
+      "alto": 2959,
+      "anioOGeneracion": "2024 · Corvette C8 (2020+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2023 Chevrolet Corvette Stingray, front right, 06-01-2024. Foto de 2024. Categoría Commons: Chevrolet Corvette C8. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Corvette C8 (2020+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Chevrolet_Corvette_C8_IMG_2537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C8_IMG_2537.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander-93",
+      "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4478,
+      "alto": 2646,
+      "anioOGeneracion": "2024 · Corvette C8 (2020+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Chevrolet Corvette C8 IMG 2537. Foto de 2024. Categoría Commons: Chevrolet Corvette C8. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Corvette C8 (2020+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

@@ -1,0 +1,48 @@
+{
+  "marca": "Volkswagen",
+  "modelo": "Polo",
+  "marcaSlug": "volkswagen",
+  "modeloSlug": "polo",
+  "generacionMexico": "Polo Track (2023+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/2023_Volkswagen_Polo_Track_%28Colombia%29_front_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Volkswagen_Polo_Track_(Colombia)_front_view.png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "Autosdeprimera",
+      "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 2166,
+      "alto": 1300,
+      "anioOGeneracion": "2023 · Polo Track (2023+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2023 Volkswagen Polo Track (Colombia) front view. Foto de 2023. Categoría Commons: Volkswagen Polo Track (Brazil). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Polo Track (2023+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Volkswagen_Polo_Track_2024_1.0_in_Montevideo_%28rear%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_Polo_Track_2024_1.0_in_Montevideo_(rear).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "NaBUru38",
+      "credito": "Foto: NaBUru38 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 6000,
+      "alto": 3800,
+      "anioOGeneracion": "2025 · Polo Track (2023+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Volkswagen Polo Track 2024 1.0 in Montevideo (rear). Foto de 2025. Categoría Commons: Volkswagen Polo Track (Brazil). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Polo Track (2023+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

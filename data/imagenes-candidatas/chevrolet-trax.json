@@ -1,0 +1,48 @@
+{
+  "marca": "Chevrolet",
+  "modelo": "Trax",
+  "marcaSlug": "chevrolet",
+  "modeloSlug": "trax",
+  "generacionMexico": "Trax 2.ª generación (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/2026_Chevrolet_Trax_LT_in_Summit_White%2C_front_left%2C_07-04-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Chevrolet_Trax_LT_in_Summit_White,_front_left,_07-04-2026.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Cutlass",
+      "credito": "Foto: Cutlass / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 5168,
+      "alto": 3168,
+      "anioOGeneracion": "2026 · Trax 2.ª generación (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2026 Chevrolet Trax LT in Summit White, front left, 07-04-2026. Foto de 2026. Categoría Commons: Chevrolet Trax (second generation). Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Trax 2.ª generación (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/2024_Chevrolet_Trax_2RS%2C_front_left%2C_12-10-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Chevrolet_Trax_2RS,_front_left,_12-10-2023.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "MercurySable99",
+      "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4484,
+      "alto": 2761,
+      "anioOGeneracion": "2023 · Trax 2.ª generación (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Chevrolet Trax 2RS, front left, 12-10-2023. Foto de 2023. Categoría Commons: Chevrolet Trax (second generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Trax 2.ª generación (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

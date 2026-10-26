@@ -1,0 +1,48 @@
+{
+  "marca": "Chevrolet",
+  "modelo": "Cheyenne",
+  "marcaSlug": "chevrolet",
+  "modeloSlug": "cheyenne",
+  "generacionMexico": "Silverado/Cheyenne GMTT1XX con el rediseño 2022",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/2022_Chevrolet_Silverado_LTZ_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Chevrolet_Silverado_LTZ_front_view.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "deathpallie325",
+      "credito": "Foto: deathpallie325 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4032,
+      "alto": 2268,
+      "anioOGeneracion": "2023 · Silverado/Cheyenne GMTT1XX con el rediseño 2022",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2022 Chevrolet Silverado LTZ front view. Foto de 2023. Categoría Commons: Chevrolet Silverado (GMTT1XX). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Silverado/Cheyenne GMTT1XX con el rediseño 2022). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/2022_Chevrolet_Silverado_K1500_LT-L%2C_front_4.24.23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Chevrolet_Silverado_K1500_LT-L,_front_4.24.23.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Kevauto",
+      "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3175,
+      "alto": 1727,
+      "anioOGeneracion": "2023 · Silverado/Cheyenne GMTT1XX con el rediseño 2022",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2022 Chevrolet Silverado K1500 LT-L, front 4.24.23. Foto de 2023. Categoría Commons: Chevrolet Silverado (GMTT1XX). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Silverado/Cheyenne GMTT1XX con el rediseño 2022). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

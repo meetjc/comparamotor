@@ -1,0 +1,48 @@
+{
+  "marca": "Chevrolet",
+  "modelo": "Spark EUV",
+  "marcaSlug": "chevrolet",
+  "modeloSlug": "spark-euv",
+  "generacionMexico": "Spark EUV (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/2025_Chevrolet_Spark_EUV_Activ_%28Colombia%29_front_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Chevrolet_Spark_EUV_Activ_(Colombia)_front_view.png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "Autosdeprimera",
+      "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 2580,
+      "alto": 1720,
+      "anioOGeneracion": "2025 · Spark EUV (2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Chevrolet Spark EUV Activ (Colombia) front view. Foto de 2025. Categoría Commons: Chevrolet Spark EUV. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Spark EUV (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/2025_Chevrolet_Spark_EUV_Activ_%28Colombia%29_rear_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Chevrolet_Spark_EUV_Activ_(Colombia)_rear_view.png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "Autosdeprimera",
+      "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 2608,
+      "alto": 1738,
+      "anioOGeneracion": "2025 · Spark EUV (2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Chevrolet Spark EUV Activ (Colombia) rear view. Foto de 2025. Categoría Commons: Chevrolet Spark EUV. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Spark EUV (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

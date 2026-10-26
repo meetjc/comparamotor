@@ -1,0 +1,48 @@
+{
+  "marca": "Chevrolet",
+  "modelo": "Captiva",
+  "marcaSlug": "chevrolet",
+  "modeloSlug": "captiva",
+  "generacionMexico": "Captiva 2.ª generación con el rediseño 2021 (frente vigente en México)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/2025_Chevrolet_Captiva_1.5_Premier_in_white%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Chevrolet_Captiva_1.5_Premier_in_white,_front_right.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Ethan Llamas",
+      "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4616,
+      "alto": 3298,
+      "anioOGeneracion": "2024 · Captiva 2.ª generación con el rediseño 2021 (frente vigente en México)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Chevrolet Captiva 1.5 Premier in white, front right. Foto de 2024. Categoría Commons: Chevrolet Captiva (second generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Captiva 2.ª generación con el rediseño 2021 (frente vigente en México)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2022_Chevrolet_Captiva_%28Mexico%29_front_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Chevrolet_Captiva_(Mexico)_front_view.png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "Chevrolet México",
+      "credito": "Foto: Chevrolet México / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 1920,
+      "alto": 1281,
+      "anioOGeneracion": "2021 · Captiva 2.ª generación con el rediseño 2021 (frente vigente en México)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2022 Chevrolet Captiva (Mexico) front view. Foto de 2021. Categoría Commons: Chevrolet Captiva (second generation). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Captiva 2.ª generación con el rediseño 2021 (frente vigente en México)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

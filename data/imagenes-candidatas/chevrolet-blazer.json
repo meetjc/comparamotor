@@ -1,0 +1,30 @@
+{
+  "marca": "Chevrolet",
+  "modelo": "Blazer",
+  "marcaSlug": "chevrolet",
+  "modeloSlug": "blazer",
+  "generacionMexico": "Blazer C1XX con el rediseño 2023",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Chevrolet_Blazer_RS_2024_%2853357187357%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Blazer_RS_2024_(53357187357).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 2.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "autor": "RL GNZLZ from Chile",
+      "credito": "Foto: RL GNZLZ from Chile / Wikimedia Commons, CC BY-SA 2.0",
+      "compartirIgual": true,
+      "ancho": 5000,
+      "alto": 3163,
+      "anioOGeneracion": "2023 · Blazer C1XX con el rediseño 2023",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Chevrolet Blazer RS 2024 (53357187357). Foto de 2023. Categoría Commons: Chevrolet Blazer (C1XX). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Blazer C1XX con el rediseño 2023). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

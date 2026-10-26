@@ -1,0 +1,48 @@
+{
+  "marca": "Toyota",
+  "modelo": "Raize",
+  "marcaSlug": "toyota",
+  "modeloSlug": "raize",
+  "generacionMexico": "Raize A250 (2021+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/2020_Toyota_Raize_Z_in_Bright_Silver_Metallic%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2020_Toyota_Raize_Z_in_Bright_Silver_Metallic,_front_right.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "autor": "Mr.choppers",
+      "credito": "Foto: Mr.choppers / Wikimedia Commons, CC BY-SA 3.0",
+      "compartirIgual": true,
+      "ancho": 5130,
+      "alto": 3190,
+      "anioOGeneracion": "2024 · Raize A250 (2021+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2020 Toyota Raize Z in Bright Silver Metallic, front right. Foto de 2024. Categoría Commons: Toyota Raize. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Raize A250 (2021+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Toyota_Raize_Z_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Toyota_Raize_Z_rear.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "TTTNIS",
+      "credito": "Foto: TTTNIS / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4033,
+      "alto": 2310,
+      "anioOGeneracion": "2025 · Raize A250 (2021+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Toyota Raize Z rear. Foto de 2025. Categoría Commons: Toyota Raize. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Raize A250 (2021+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

@@ -1,0 +1,48 @@
+{
+  "marca": "Volkswagen",
+  "modelo": "Saveiro",
+  "marcaSlug": "volkswagen",
+  "modeloSlug": "saveiro",
+  "generacionMexico": "Saveiro con el rediseño 2023, cabina sencilla",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/2024_Volkswagen_Saveiro_1.6_MSi_Trendline_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Volkswagen_Saveiro_1.6_MSi_Trendline_(front).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Just a Man",
+      "credito": "Foto: Just a Man / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 3660,
+      "alto": 2300,
+      "anioOGeneracion": "2024 · Saveiro con el rediseño 2023, cabina sencilla",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Volkswagen Saveiro 1.6 MSi Trendline (front). Foto de 2024. Categoría Commons: Volkswagen Saveiro Mk8. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Saveiro con el rediseño 2023, cabina sencilla). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/2024_Volkswagen_Saveiro_1.6_MSi_Trendline_%28rear%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Volkswagen_Saveiro_1.6_MSi_Trendline_(rear).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Just a Man",
+      "credito": "Foto: Just a Man / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 3660,
+      "alto": 2300,
+      "anioOGeneracion": "2024 · Saveiro con el rediseño 2023, cabina sencilla",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Volkswagen Saveiro 1.6 MSi Trendline (rear). Foto de 2024. Categoría Commons: Volkswagen Saveiro Mk8. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Saveiro con el rediseño 2023, cabina sencilla). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

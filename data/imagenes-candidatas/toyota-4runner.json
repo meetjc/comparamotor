@@ -1,0 +1,48 @@
+{
+  "marca": "Toyota",
+  "modelo": "4Runner",
+  "marcaSlug": "toyota",
+  "modeloSlug": "4runner",
+  "generacionMexico": "4Runner 6.ª generación (N500, 2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl,_front_right,_2025-05-18.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Elise240SX",
+      "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5136,
+      "alto": 2871,
+      "anioOGeneracion": "2025 · 4Runner 6.ª generación (N500, 2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Toyota 4Runner TRD Sport in Wind Chill Pearl, front right, 2025-05-18. Foto de 2025. Categoría Commons: Toyota 4Runner (N500). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (4Runner 6.ª generación (N500, 2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_rear_right%2C_2025-05-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl,_rear_right,_2025-05-18.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Elise240SX",
+      "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5200,
+      "alto": 3136,
+      "anioOGeneracion": "2025 · 4Runner 6.ª generación (N500, 2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Toyota 4Runner TRD Sport in Wind Chill Pearl, rear right, 2025-05-18. Foto de 2025. Categoría Commons: Toyota 4Runner (N500). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (4Runner 6.ª generación (N500, 2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

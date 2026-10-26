@@ -1,0 +1,48 @@
+{
+  "marca": "Chevrolet",
+  "modelo": "Traverse",
+  "marcaSlug": "chevrolet",
+  "modeloSlug": "traverse",
+  "generacionMexico": "Traverse 3.ª generación (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/2025_Chevrolet_Traverse_LT%2C_front_%282%29_4.4.25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Chevrolet_Traverse_LT,_front_(2)_4.4.25.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Kevauto",
+      "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3271,
+      "alto": 1805,
+      "anioOGeneracion": "2025 · Traverse 3.ª generación (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Chevrolet Traverse LT, front (2) 4.4.25. Foto de 2025. Categoría Commons: Chevrolet Traverse (C1XX-2). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Traverse 3.ª generación (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/2025_Chevrolet_Traverse_Z71%2C_front_left%2C_09-06-2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Chevrolet_Traverse_Z71,_front_left,_09-06-2025.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "MercurySable99",
+      "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4251,
+      "alto": 3200,
+      "anioOGeneracion": "2025 · Traverse 3.ª generación (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Chevrolet Traverse Z71, front left, 09-06-2025. Foto de 2025. Categoría Commons: Chevrolet Traverse (C1XX-2). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Traverse 3.ª generación (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

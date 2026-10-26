@@ -1,0 +1,48 @@
+{
+  "marca": "Nissan",
+  "modelo": "Urvan",
+  "marcaSlug": "nissan",
+  "modeloSlug": "urvan",
+  "generacionMexico": "NV350/Urvan E26 con el frente actualizado",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/2024_Nissan_Urvan_2.5_Standard_in_Alpine_White%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Nissan_Urvan_2.5_Standard_in_Alpine_White,_front_right.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Ethan Llamas",
+      "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 2567,
+      "alto": 1925,
+      "anioOGeneracion": "2024 · NV350/Urvan E26 con el frente actualizado",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Nissan Urvan 2.5 Standard in Alpine White, front right. Foto de 2024. Categoría Commons: Nissan Urvan (E26). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (NV350/Urvan E26 con el frente actualizado). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Nissan_Urvan_Premium_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Nissan_Urvan_Premium_2019.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Captainmorlypogi1959",
+      "credito": "Foto: Captainmorlypogi1959 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 8160,
+      "alto": 6120,
+      "anioOGeneracion": "2024 · NV350/Urvan E26 con el frente actualizado",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Nissan Urvan Premium 2019. Foto de 2024. Categoría Commons: Nissan Urvan (E26). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (NV350/Urvan E26 con el frente actualizado). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

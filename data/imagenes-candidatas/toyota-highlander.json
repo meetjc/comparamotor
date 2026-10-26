@@ -1,0 +1,48 @@
+{
+  "marca": "Toyota",
+  "modelo": "Highlander",
+  "marcaSlug": "toyota",
+  "modeloSlug": "highlander",
+  "generacionMexico": "Highlander XU70 (2020+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Moscow%2C_Sadovnicheskaya%2C_Toyota_Highlander_%28XU50%29_white%2C_Sept_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Moscow,_Sadovnicheskaya,_Toyota_Highlander_(XU50)_white,_Sept_2025_02.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Retired electrician",
+      "credito": "Foto: Retired electrician / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4641,
+      "alto": 3095,
+      "anioOGeneracion": "2025 · Highlander XU70 (2020+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Moscow, Sadovnicheskaya, Toyota Highlander (XU50) white, Sept 2025 02. Foto de 2025. Categoría Commons: Toyota Highlander (XU70). Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Highlander XU70 (2020+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/2025_Toyota_Highlander_Limited_white_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Toyota_Highlander_Limited_white_rear.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Throwawayacc222",
+      "credito": "Foto: Throwawayacc222 / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4812,
+      "alto": 3011,
+      "anioOGeneracion": "2025 · Highlander XU70 (2020+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Toyota Highlander Limited white rear. Foto de 2025. Categoría Commons: Toyota Highlander (XU70). Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Highlander XU70 (2020+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

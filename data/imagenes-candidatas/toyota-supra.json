@@ -1,0 +1,48 @@
+{
+  "marca": "Toyota",
+  "modelo": "GR Supra",
+  "marcaSlug": "toyota",
+  "modeloSlug": "supra",
+  "generacionMexico": "GR Supra A90 (2019+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/2025_Toyota_GR_Supra_3.0_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Toyota_GR_Supra_3.0_front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "LuvsMG481",
+      "credito": "Foto: LuvsMG481 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5557,
+      "alto": 2627,
+      "anioOGeneracion": "2025 · GR Supra A90 (2019+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Toyota GR Supra 3.0 front. Foto de 2025. Categoría Commons: Toyota Supra (J29). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (GR Supra A90 (2019+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/2020_Toyota_Supra_front_NYIAS_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2020_Toyota_Supra_front_NYIAS_2019.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Kevauto",
+      "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5109,
+      "alto": 2741,
+      "anioOGeneracion": "2019 · GR Supra A90 (2019+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2020 Toyota Supra front NYIAS 2019. Foto de 2019. Categoría Commons: Toyota Supra (J29). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (GR Supra A90 (2019+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

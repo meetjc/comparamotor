@@ -1,0 +1,48 @@
+{
+  "marca": "Volkswagen",
+  "modelo": "Nivus",
+  "marcaSlug": "volkswagen",
+  "modeloSlug": "nivus",
+  "generacionMexico": "Nivus con el rediseño 2024",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/2025_Volkswagen_Nivus_1.0_TSi_200_Comfortline_%28facelift%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Volkswagen_Nivus_1.0_TSi_200_Comfortline_(facelift).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Just a Man",
+      "credito": "Foto: Just a Man / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 4080,
+      "alto": 2425,
+      "anioOGeneracion": "2025 · Nivus con el rediseño 2024",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Volkswagen Nivus 1.0 TSi 200 Comfortline (facelift). Foto de 2025. Categoría Commons: Volkswagen Nivus. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Nivus con el rediseño 2024). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Volkswagen_Nivus_TSi_170_Comfortline_2025_%28facelift%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_Nivus_TSi_170_Comfortline_2025_(facelift).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "RL GNZLZ",
+      "credito": "Foto: RL GNZLZ / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4454,
+      "alto": 2666,
+      "anioOGeneracion": "2025 · Nivus con el rediseño 2024",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Volkswagen Nivus TSi 170 Comfortline 2025 (facelift). Foto de 2025. Categoría Commons: Volkswagen Nivus. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Nivus con el rediseño 2024). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

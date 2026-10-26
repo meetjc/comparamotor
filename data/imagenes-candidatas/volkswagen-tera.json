@@ -1,0 +1,48 @@
+{
+  "marca": "Volkswagen",
+  "modelo": "Tera",
+  "marcaSlug": "volkswagen",
+  "modeloSlug": "tera",
+  "generacionMexico": "Tera (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/2025_Volkswagen_Tera_1.0_High_%28Colombia%29_front_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Volkswagen_Tera_1.0_High_(Colombia)_front_view.png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "Autosdeprimera",
+      "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 3160,
+      "alto": 1896,
+      "anioOGeneracion": "2025 · Tera (2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Volkswagen Tera 1.0 High (Colombia) front view. Foto de 2025. Categoría Commons: Volkswagen Tera. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Tera (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/2025_Volkswagen_Tera_1.0_High_%28Colombia%29_rear_view_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Volkswagen_Tera_1.0_High_(Colombia)_rear_view_02.png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "Autosdeprimera",
+      "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 2676,
+      "alto": 1784,
+      "anioOGeneracion": "2025 · Tera (2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Volkswagen Tera 1.0 High (Colombia) rear view 02. Foto de 2025. Categoría Commons: Volkswagen Tera. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Tera (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

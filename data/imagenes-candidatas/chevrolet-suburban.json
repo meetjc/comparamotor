@@ -1,0 +1,48 @@
+{
+  "marca": "Chevrolet",
+  "modelo": "Suburban",
+  "marcaSlug": "chevrolet",
+  "modeloSlug": "suburban",
+  "generacionMexico": "Suburban GMTT1YC con el rediseño 2025",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/2025_Chevrolet_Suburban_RST%2C_front_NYIAS_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Chevrolet_Suburban_RST,_front_NYIAS_2025.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Kevauto",
+      "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3393,
+      "alto": 2051,
+      "anioOGeneracion": "2025 · Suburban GMTT1YC con el rediseño 2025",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Chevrolet Suburban RST, front NYIAS 2025. Foto de 2025. Categoría Commons: Chevrolet Suburban (GMTT1YC). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Suburban GMTT1YC con el rediseño 2025). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/2025_Chevrolet_Suburban_LT%2C_front_5.5.25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Chevrolet_Suburban_LT,_front_5.5.25.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Kevauto",
+      "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 2857,
+      "alto": 1709,
+      "anioOGeneracion": "2025 · Suburban GMTT1YC con el rediseño 2025",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Chevrolet Suburban LT, front 5.5.25. Foto de 2025. Categoría Commons: Chevrolet Suburban (GMTT1YC). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Suburban GMTT1YC con el rediseño 2025). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

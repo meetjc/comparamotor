@@ -1,0 +1,48 @@
+{
+  "marca": "Nissan",
+  "modelo": "Z",
+  "marcaSlug": "nissan",
+  "modeloSlug": "z",
+  "generacionMexico": "RZ34 (2023+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2023_Nissan_Z_Performance_6MT_in_Passion_Red_TriCoat%2C_Front_Left%2C_05-17-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Nissan_Z_Performance_6MT_in_Passion_Red_TriCoat,_Front_Left,_05-17-2023.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Elise240SX",
+      "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3594,
+      "alto": 2115,
+      "anioOGeneracion": "2023 · RZ34 (2023+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2023 Nissan Z Performance 6MT in Passion Red TriCoat, Front Left, 05-17-2023. Foto de 2023. Categoría Commons: Nissan Z (RZ34). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (RZ34 (2023+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/2023_Nissan_Z_Performance_6MT_in_Passion_Red_TriCoat%2C_Rear_Left%2C_05-17-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Nissan_Z_Performance_6MT_in_Passion_Red_TriCoat,_Rear_Left,_05-17-2023.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Elise240SX",
+      "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3614,
+      "alto": 2348,
+      "anioOGeneracion": "2023 · RZ34 (2023+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2023 Nissan Z Performance 6MT in Passion Red TriCoat, Rear Left, 05-17-2023. Foto de 2023. Categoría Commons: Nissan Z (RZ34). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (RZ34 (2023+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

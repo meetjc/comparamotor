@@ -1,0 +1,48 @@
+{
+  "marca": "Nissan",
+  "modelo": "Kicks Play e-POWER",
+  "marcaSlug": "nissan",
+  "modeloSlug": "kicks-play-e-power",
+  "generacionMexico": "Kicks e-POWER P15 con el rediseño 2020",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2020_Nissan_Kicks_e-Power_VL_front_view_%28Thailand%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2020_Nissan_Kicks_e-Power_VL_front_view_(Thailand).png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "BoxZa Racing Channel",
+      "credito": "Foto: BoxZa Racing Channel / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 1920,
+      "alto": 1152,
+      "anioOGeneracion": "2020 · Kicks e-POWER P15 con el rediseño 2020",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2020 Nissan Kicks e-Power VL front view (Thailand). Foto de 2020. Categoría Commons: Nissan Kicks e-Power (P15). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Kicks e-POWER P15 con el rediseño 2020). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/2021_Nissan_Kicks_e-Power_%28front%29%2C_South_Surabaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2021_Nissan_Kicks_e-Power_(front),_South_Surabaya.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alex Neman",
+      "credito": "Foto: Alex Neman / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4000,
+      "alto": 3000,
+      "anioOGeneracion": "2024 · Kicks e-POWER P15 con el rediseño 2020",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2021 Nissan Kicks e-Power (front), South Surabaya. Foto de 2024. Categoría Commons: Nissan Kicks e-Power (P15). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Kicks e-POWER P15 con el rediseño 2020). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

@@ -1,0 +1,30 @@
+{
+  "marca": "Volkswagen",
+  "modelo": "Cross Sport",
+  "marcaSlug": "volkswagen",
+  "modeloSlug": "cross-sport",
+  "generacionMexico": "Atlas Cross Sport con el rediseño 2024",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Volkswagen_Atlas_Cross_Sport_SEL_R-Line_%282024%29_%2855011677017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Volkswagen_Atlas_Cross_Sport_SEL_R-Line_(2024)_(55011677017).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Charles from Port Chester, New York",
+      "credito": "Foto: Charles from Port Chester, New York / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 6000,
+      "alto": 3859,
+      "anioOGeneracion": "2025 · Atlas Cross Sport con el rediseño 2024",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Volkswagen Atlas Cross Sport SEL R-Line (2024) (55011677017). Foto de 2025. Categoría Commons: Volkswagen Atlas Cross Sport. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Atlas Cross Sport con el rediseño 2024). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}
