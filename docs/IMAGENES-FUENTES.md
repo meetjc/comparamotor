@@ -1,4 +1,6 @@
 # Fotos de autos: qué se puede usar y cómo acreditarlo
+
+> Regla de JC (25 oct 2026): la prioridad es protegernos legalmente, pero sin quedarnos pobres gráficamente. Antes de dejar una página sin foto real, agotar todas las fuentes legales de este documento.
 Verificado el 20 de octubre de 2026.
 
 ## Resumen
