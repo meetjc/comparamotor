@@ -22,17 +22,27 @@ function tablaOtorgantes(list) {
 
 
 const pct = (x) => (x == null ? '—' : `${String(x).replace('.', '.')}%`);
-function credTablas(c) {
+// Una oferta se considera vencida si su vigencia lo dice o si la última fecha que trae ya pasó.
+const vencida = (v, hoy) => { const t = String(v || ''); if (/vencid/i.test(t)) return true; const fs = t.match(/\d{4}-\d{2}-\d{2}/g); return !!(fs && fs[fs.length - 1] < hoy); };
+function condusefTabla(c) {
+  const s = c.simulador_condusef && c.simulador_condusef.comparativo_simulador_vigente;
+  if (!s || !(s.instituciones || []).length) return '';
+  const rows = [...s.instituciones].sort((a, b) => a.cat_pct - b.cat_pct).map((x) => [`<b>${esc(x.institucion)}</b>`, pct(x.tasa_interes_anual_pct), `<b>${pct(x.cat_pct)}</b>`, mxn(x.pago_mensual_mxn), mxn(x.pago_total_mxn)]);
+  return `<h3>Mismo auto, mismo crédito: comparativo de la CONDUSEF</h3>${table({ head: ['Institución', 'Tasa anual', 'CAT', { t: 'Pago mensual', n: true }, { t: 'Pago total', n: true }], rows, caption: `Ejemplo del simulador de la CONDUSEF, base de cálculo ${esc(s.base_de_calculo)}: ${esc(s.perfil)}. Ordenado de menor a mayor CAT. Fuente: <a href="${esc(s.url)}" target="_blank" rel="noopener">CONDUSEF, simulador de crédito automotriz</a>, consultado el ${esc(fechaCorta(s.fecha_verificacion))}. Tu tasa depende de tu perfil y del auto.` })}`;
+}
+function credTablas(c, hoy) {
   if (!c) return '<p>Estamos verificando tasas y CAT. Usa la calculadora con la tasa que te ofrezcan.</p>';
-  const fm = (c.financieras_de_marca || []).filter((f) => (f.cat_promedio || []).length);
+  const fm = (c.financieras_de_marca || []).map((f) => ({ ...f, cat_promedio: (f.cat_promedio || []).filter((p) => !vencida(p.vigencia || p.fin_de_oferta, hoy)) })).filter((f) => f.cat_promedio.length);
   const rowsF = fm.flatMap((f) => f.cat_promedio.map((p, i) => [i ? '' : `<b>${esc(f.institucion.split(',')[0])}</b><br><span class="fine">${esc((f.marcas || []).join(', '))}</span>`, esc(p.producto || ''), `<b>${pct(p.cat_pct_sin_iva)}</b>`, p.fecha_calculo ? `<span style="white-space:nowrap">${esc(fechaCorta(p.fecha_calculo))}</span>` : '<span class="fine">No publica</span>', p.url || f.url ? `<a class="src" href="${esc(p.url || f.url)}" target="_blank" rel="noopener">Ver fuente</a>` : '']));
-  const bancos = (c.bancos || []);
+  // Fuera: bancos sin crédito de auto para personas, los que solo tienen el dato del simulador (van en la tabla de la CONDUSEF) y ofertas vencidas.
+  const bancos = (c.bancos || []).filter((b) => b.producto && b.url && !vencida(b.vigencia || b.cat_vigencia, hoy));
   const dato = (v) => (v == null || v === '' ? null : typeof v === 'number' ? `${v}%` : Array.isArray(v) ? v.filter((x) => x && (x.cat ?? x.cat_pct) != null).map((x) => `${esc(x.segmento || x.producto || '')}: ${x.cat ?? x.cat_pct ?? ''}%`).join('<br>') : typeof v === 'object' ? (() => { const n = Object.values(v).filter((x) => typeof x === 'number'); return n.length ? `desde ${Math.min(...n)}%` : null; })() : esc(String(v)));
   const tasaDe = (b) => dato(b.tasa_fija_anual_desde_pct ?? b.tasa_fija_anual_sin_iva_pct);
   const catDe = (b) => dato(b.cat_promedio_pct_sin_iva ?? b.cat_pct_sin_iva ?? b.cat_autos_nuevos_convencionales);
   const rowsB = bancos.map((b) => [`<b>${esc(b.institucion)}</b><br><span class="fine">${esc(b.producto || '')}</span>`, tasaDe(b) ?? '<span class="fine">No publica</span>', catDe(b) ? `<b>${catDe(b)}</b>` : '<span class="fine">No publica</span>', b.fecha_calculo ? `<span style="white-space:nowrap">${esc(fechaCorta(b.fecha_calculo))}</span>` : '<span class="fine">No publica</span>', b.url ? `<a class="src" href="${esc(b.url)}" target="_blank" rel="noopener">Ver fuente</a>` : '']);
   const m = c.mercado && c.mercado.banxico_tasa_promedio_ponderada;
-  return `${rowsF.length ? `<h3>Financieras de marca</h3>${table({ head: ['Financiera', 'Producto', 'CAT promedio sin IVA', 'Calculado al', 'Fuente'], rows: rowsF, caption: 'CAT promedio publicado por cada financiera, sin IVA, para fines informativos y de comparación. Revisa la vigencia en su fuente.' })}` : ''}
+  return `${condusefTabla(c)}
+  ${rowsF.length ? `<h3>Financieras de marca</h3>${table({ head: ['Financiera', 'Producto', 'CAT promedio sin IVA', 'Calculado al', 'Fuente'], rows: rowsF, caption: 'CAT promedio publicado por cada financiera, sin IVA, para fines informativos y de comparación. Revisa la vigencia en su fuente.' })}` : ''}
   ${rowsB.length ? `<h3>Bancos</h3>${table({ head: ['Banco', 'Tasa anual', 'CAT promedio sin IVA', 'Calculado al', 'Fuente'], rows: rowsB, caption: 'Tasas y CAT publicados por cada banco en su sitio. «No publica»: el banco no muestra el dato en su página.' })}` : ''}
   ${m ? `<p class="fine">Para comparar: el Banco de México reporta una tasa promedio ponderada de ${esc(String(m.cartera_total_pct || m.valor || m.tasa || '14.3'))}% en crédito automotriz (último reporte disponible).</p>` : ''}`;
 }
@@ -66,7 +76,7 @@ export function paginas(C, D) {
       ${answer(`Para un auto de <b>${mxn(350000)}</b> con ${s.eng}% de enganche a ${s.plazo} meses y una tasa anual de ejemplo de ${s.tasa}%, la mensualidad queda en unos <b>${mxn(350000 * (1 - s.eng / 100) * (s.tasa / 1200) / (1 - Math.pow(1 + s.tasa / 1200, -s.plazo)))}</b>. Antes de firmar compara el CAT de cada otorgante y el total a pagar.`)}
       ${calcCredito(350000)}
       <h2>¿Qué tasas y CAT dan los bancos y las financieras?</h2>
-      ${credTablas(cred)}
+      ${credTablas(cred, D.hoy)}
       <h2>¿Qué revisar antes de firmar un crédito de auto?</h2>
       <ul><li><b>El CAT y el total a pagar</b>, no solo la mensualidad.</li><li><b>Comisión por apertura</b> y si se financia.</li><li><b>Seguro financiado</b>: súmalo al total y cotiza por fuera.</li><li><b>Condiciones del bono</b>: muchos solo aplican con la financiera de la marca.</li><li><b>Pagos anticipados</b>: pregunta si hay penalización.</li></ul>
       <h2>Preguntas frecuentes</h2>${f.html}

@@ -3,7 +3,9 @@
     "tema": "Crédito automotriz nuevo en México: tasas y CAT publicados",
     "fecha_verificacion": "2026-10-20",
     "reglas": "Cada cifra es la publicada por la institución en su sitio oficial el día de la verificación, con la fecha de cálculo y vigencia que ella declara. El CAT promedio es informativo, sin IVA y depende del perfil, enganche, plazo y seguro con que se calculó. null = no publicado o no confirmado.",
-    "advertencia_uso": "No sumar ni promediar CAT de instituciones distintas: cada uno usa supuestos propios (monto, enganche, plazo, seguro). Mostrar siempre la fecha de cálculo."
+    "advertencia_uso": "No sumar ni promediar CAT de instituciones distintas: cada uno usa supuestos propios (monto, enganche, plazo, seguro). Mostrar siempre la fecha de cálculo.",
+    "fecha_ampliacion": "2026-10-25",
+    "nota_ampliacion": "El 2026-10-25 se agregaron financieras de marca y bancos y se completaron CAT faltantes, solo con sitios oficiales y el simulador público de CONDUSEF. Las entradas nuevas llevan fecha_verificacion."
   },
   "simulador_condusef": {
     "nombre": "Simulador de Crédito Automotriz (Multicomparador) de CONDUSEF",
@@ -32,7 +34,98 @@
       "tasa_maxima_pct": 19.49,
       "pago_total_mxn_minimo": 485068.83,
       "pago_total_mxn_maximo": 603034.37,
-      "nota": "El PDF no permite leer los nombres de las 8 instituciones (logotipos como imagen) ni trae CAT. Es un ejercicio de un solo perfil, no un promedio de mercado."
+      "nota": "El PDF no permite leer los nombres de las 8 instituciones (logotipos como imagen) ni trae CAT. Es un ejercicio de un solo perfil, no un promedio de mercado.",
+      "nota_2026_10_25": "Al 2026-10-25 no hay edición más reciente: qq-cred-auto-jul-2026.pdf es la misma edición «Junio 2026» (base 10 de julio de 2026); ago, sep y oct 2026 dan 404."
+    },
+    "comparativo_simulador_vigente": {
+      "fecha_verificacion": "2026-10-25",
+      "url": "https://phpapps.condusef.gob.mx/condusefautomotriz/sca_comparativo.php?marca=27&submarca=275&modelo=1235&financiamiento=2&precio=276900&enganche=55380&danios=0&plazo=48&elige=6&eje=1&fin=2&op=5",
+      "como_se_obtuvo": "Ejemplo público que el propio simulador enlaza desde su portada («¿Cuál es el crédito más barato si financias el seguro?»); no pide datos personales.",
+      "base_de_calculo": "agosto 2026",
+      "perfil": "Nissan Versa Sense TM, valor $276,900, enganche $55,380 (20%), crédito $221,520, 48 meses, seguro de auto financiado, solo autos nuevos",
+      "instituciones": [
+        {
+          "institucion": "HSBC",
+          "sector": "Institución de banca múltiple",
+          "tasa_interes_anual_pct": 13.99,
+          "cat_pct": 16.5,
+          "pago_mensual_mxn": 7367.62,
+          "desembolso_inicial_mxn": 61804.08,
+          "pago_total_mxn": 344455.86,
+          "seguro_auto_informativo_mxn": 42909.78
+        },
+        {
+          "institucion": "BanBajío",
+          "sector": "Institución de banca múltiple",
+          "tasa_interes_anual_pct": 15.99,
+          "cat_pct": 21.4,
+          "pago_mensual_mxn": 7491.57,
+          "desembolso_inicial_mxn": 60904.71,
+          "pago_total_mxn": 357567.31,
+          "seguro_auto_informativo_mxn": 39375.04
+        },
+        {
+          "institucion": "Afirme",
+          "sector": "Institución de banca múltiple",
+          "tasa_interes_anual_pct": 16.5,
+          "cat_pct": 20.4,
+          "pago_mensual_mxn": 7851.22,
+          "desembolso_inicial_mxn": 64257.66,
+          "pago_total_mxn": 363216.48,
+          "seguro_auto_informativo_mxn": 43650.27
+        },
+        {
+          "institucion": "Banorte",
+          "sector": "Institución de banca múltiple",
+          "tasa_interes_anual_pct": 16.49,
+          "cat_pct": 20.8,
+          "pago_mensual_mxn": 7596.71,
+          "desembolso_inicial_mxn": 62130.73,
+          "pago_total_mxn": 364642.16,
+          "seguro_auto_informativo_mxn": 43424.33
+        },
+        {
+          "institucion": "Autofin",
+          "sector": "Institución de banca múltiple",
+          "tasa_interes_anual_pct": 16.5,
+          "cat_pct": 33.2,
+          "pago_mensual_mxn": 8026.27,
+          "desembolso_inicial_mxn": 66258.05,
+          "pago_total_mxn": 373675.14,
+          "seguro_auto_informativo_mxn": 56396.14
+        },
+        {
+          "institucion": "BBVA",
+          "sector": "Institución de banca múltiple",
+          "tasa_interes_anual_pct": 19.49,
+          "cat_pct": 23.4,
+          "pago_mensual_mxn": 8329.18,
+          "desembolso_inicial_mxn": 63088.9,
+          "pago_total_mxn": 390245.76,
+          "seguro_auto_informativo_mxn": 44339.33
+        },
+        {
+          "institucion": "Inbursa (SOFOM E.R.)",
+          "sector": "Sociedad Financiera de Objeto Múltiple E.R.",
+          "tasa_interes_anual_pct": 18.99,
+          "cat_pct": 22.4,
+          "pago_mensual_mxn": 8387.83,
+          "desembolso_inicial_mxn": 63163.08,
+          "pago_total_mxn": 401437.91,
+          "seguro_auto_informativo_mxn": 59575.69
+        },
+        {
+          "institucion": "Credijal",
+          "sector": "Sociedad Financiera de Objeto Múltiple E.N.R.",
+          "tasa_interes_anual_pct": 35.0,
+          "cat_pct": 45.0,
+          "pago_mensual_mxn": 10494.73,
+          "desembolso_inicial_mxn": 64031.46,
+          "pago_total_mxn": 503747.07,
+          "seguro_auto_informativo_mxn": 48702.67
+        }
+      ],
+      "nota": "Es el CAT de un solo perfil simulado (con seguro financiado), no el CAT promedio que publica cada institución. El simulador no incluye financieras de marca en este ejemplo. Pago total sin desembolso inicial."
     }
   },
   "mercado": {
@@ -238,21 +331,31 @@
       "cat_promedio": [
         {
           "producto": "Autos nuevos, 12 a 36 meses",
-          "cat_pct_sin_iva": 28.2
+          "cat_pct_sin_iva": 28.2,
+          "fecha_calculo": "2026-09-01",
+          "fin_de_oferta": "2027-02-28",
+          "url": "https://www.vwfs.mx/vwb/financiamiento-automotriz/credit.html"
         },
         {
           "producto": "Autos nuevos, 42 a 60 meses",
-          "cat_pct_sin_iva": 26.8
+          "cat_pct_sin_iva": 26.8,
+          "fecha_calculo": "2026-09-01",
+          "fin_de_oferta": "2027-02-28",
+          "url": "https://www.vwfs.mx/vwb/financiamiento-automotriz/credit.html"
         },
         {
           "producto": "Autos usados, 12 a 60 meses",
-          "cat_pct_sin_iva": 30.4
+          "cat_pct_sin_iva": 30.4,
+          "fecha_calculo": "2026-09-01",
+          "fin_de_oferta": "2027-02-28",
+          "url": "https://www.vwfs.mx/vwb/financiamiento-automotriz/credit.html"
         }
       ],
       "fecha_calculo": "2026-09-01",
       "fin_de_oferta": "2027-02-28",
       "url": "https://www.vwfs.mx/vwb/financiamiento-automotriz/credit.html",
-      "nota": "Perfil: persona física asalariada. Los CAT de las promociones de octubre (p. ej. 10.3% a 18.6%) son de planes específicos; ver promociones.json."
+      "nota": "Perfil: persona física asalariada. Los CAT de las promociones de octubre (p. ej. 10.3% a 18.6%) son de planes específicos; ver promociones.json.",
+      "fecha_verificacion_cat": "2026-10-25"
     },
     {
       "institucion": "Autoexpress Inbursa, S.A. de C.V., SOFOM E.R., Grupo Financiero Inbursa",
@@ -333,6 +436,219 @@
       },
       "url": "https://www.mazda.mx/herramientas-de-compra/financial",
       "nota": "El sitio no publica tasa ni CAT."
+    },
+    {
+      "institucion": "Ford Credit de México, S.A. de C.V., SOFOM, E.R.",
+      "marcas": [
+        "Ford"
+      ],
+      "cat_promedio": [
+        {
+          "producto": "Crédito simple con garantía prendaria (mismo CAT en Crédito Directo Empresarial, PFAE, Vehículos Compartidos y Multiopción)",
+          "cat_pct_sin_iva": 37.56,
+          "fecha_calculo": "2025-12-01",
+          "url": "https://www.ford.mx/legal/ford-credit/costos-y-comisiones/"
+        }
+      ],
+      "tasa_interes_anual_ordinaria_fija_pct": {
+        "desde": 14.99,
+        "hasta": 16.49
+      },
+      "tasa_moratoria": "TIIE de Fondeo x3, anual fija",
+      "comision_contratacion": "3% más IVA sobre el monto del crédito, una sola vez",
+      "cat_en_promociones_octubre_2026": [
+        {
+          "producto": "Promoción Ford Bronco Sport 2026 (ambas opciones)",
+          "cat_pct_sin_iva": 16.5,
+          "fecha_calculo": "octubre 2026",
+          "vigencia": "2026-10-01 al 2026-11-02",
+          "url": "https://www.ford.mx/ford-credit/planes-financiamiento/"
+        }
+      ],
+      "url": "https://www.ford.mx/legal/ford-credit/costos-y-comisiones/",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "El CAT base de 37.56% se calculó el 2025-12-01 y la página no indica vigencia; mostrar con su fecha. Banxico incluye a Ford Credit entre las financieras de marca de su reporte."
+    },
+    {
+      "institucion": "BMW Financial Services de México, S.A. de C.V., SOFOM, E.N.R.",
+      "marcas": [
+        "BMW",
+        "MINI",
+        "BMW Motorrad"
+      ],
+      "cat_promedio": [
+        {
+          "producto": "Crédito Tradicional (nuevos y seminuevos)",
+          "cat_pct_sin_iva": 11.31,
+          "fecha_calculo": "2026-05-01",
+          "url": "https://www.bmwfs.com.mx/Content/CREDITO-TRADICIONAL-BMW-FINANCIAL-SERVICES"
+        },
+        {
+          "producto": "SELECT (BMW X1, MINI Cooper C, MINI Countryman C)",
+          "cat_pct_sin_iva": 15.01,
+          "fecha_calculo": "2026-05-01",
+          "vigencia": "al 2026-12-31",
+          "url": "https://www.bmwfs.com.mx/Content/legales-bmw-financial-services"
+        }
+      ],
+      "tasa_interes_anual_fija_maxima_pct": {
+        "bmw_y_mini_nuevos": 16.49,
+        "motorrad_nuevos": 20.49,
+        "seminuevos": 16.49
+      },
+      "enganche_pct": {
+        "nuevos": "20% a 75% (máximo 60% a 12 meses)"
+      },
+      "plazos_meses": {
+        "nuevos": "12, 18, 24, 36, 48 y 60",
+        "seminuevos": "12, 18, 24, 36 y 48"
+      },
+      "comision_por_apertura": "hasta 3% más IVA",
+      "comision_administracion": "hasta 10%",
+      "url": "https://www.bmwfs.com.mx/Content/CREDITO-TRADICIONAL-BMW-FINANCIAL-SERVICES",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "Un CAT menor que la tasa máxima indica tasas subsidiadas en las promociones con que se calculó. El sitio escribe «Calculado al 01 de mayoo de 2026» (errata en el original)."
+    },
+    {
+      "institucion": "Mitsubishi Motors Financial Services (NR Finance México, S.A. de C.V.)",
+      "marcas": [
+        "Mitsubishi"
+      ],
+      "cat_promedio": [
+        {
+          "producto": "Oferta «Crédito Mitsubishi»",
+          "cat_pct_sin_iva": 9.8,
+          "fecha_calculo": "2026-10-01",
+          "vigencia": "2026-10-01 al 2026-11-03 o hasta agotar existencias",
+          "url": "https://www.mitsubishi-motors.mx/comprar/promociones"
+        }
+      ],
+      "tasas_publicadas": "Ejemplo: tasa anual ordinaria fija neta de 7.9% para Xpander GLS 2026 con 30% de enganche a 48 meses y seguro de contado; 0% de comisión por apertura en modelos seleccionados.",
+      "tasa_lista": null,
+      "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "El legal dice que el crédito lo aprueba NR Finance México («NRFM», entidad comercial no financiera) bajo el nombre Mitsubishi Motors Financial Services. Es un CAT promocional. La página de financiamiento de Jeep todavía lista a Mitsubishi entre las marcas de FCA Financial México."
+    },
+    {
+      "institucion": "FC Financial, S.A. de C.V., SOFOM E.R., Grupo Financiero Inbursa (FCA Financial México)",
+      "marcas": [
+        "Jeep",
+        "Ram",
+        "Dodge",
+        "Chrysler",
+        "Fiat",
+        "Alfa Romeo"
+      ],
+      "cat_promedio": null,
+      "tasa": null,
+      "url": "https://www.jeep.com.mx/financiamiento.html",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "El sitio de Jeep identifica la razón social y las marcas, pero las promociones de Jeep y Ram no muestran CAT legible (se cargan sin texto legal en la página)."
+    },
+    {
+      "institucion": "STM Financial, S.A. de C.V., SOFOM E.R., Grupo Financiero Inbursa",
+      "marcas": [
+        "Peugeot"
+      ],
+      "cat_promedio": [
+        {
+          "producto": "Promoción Peugeot Partner Rapid 2025 (tasa 11.99%, hasta 36 meses, enganche desde 35%, comisión 1.5%)",
+          "cat_pct_sin_iva": 20.5,
+          "fecha_calculo": "2026-03-23",
+          "vigencia": "2026-04-01 al 2026-04-30 (vencida)",
+          "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/promociones/todas-ofertas.html"
+        }
+      ],
+      "tasas_en_promociones_octubre_2026_pct": {
+        "desde": 9.99,
+        "hasta": 11.99,
+        "detalle": "2008 2027, 3008 2026 y 5008 2026 desde 9.99%; Partner y Expert 2026 desde 11.99% (hasta 36 meses, enganche desde 35%)"
+      },
+      "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/promociones/todas-ofertas.html",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "Los legales de las promociones vigentes (octubre a 3 de noviembre de 2026) muestran «[ CAT ]» sin cifra; el único CAT publicado es el de una promoción vencida. Banxico incluye a STM Financial entre las financieras de marca de su reporte."
+    },
+    {
+      "institucion": "SukiCredit (programa de Suzuki con BBVA México)",
+      "marcas": [
+        "Suzuki"
+      ],
+      "cat_promedio": [
+        {
+          "producto": "SukiCredit",
+          "cat_pct_sin_iva": 24.2,
+          "fecha_calculo": "2026-06-30",
+          "vigencia": "2026-12-31",
+          "url": "https://www.bbva.mx/personas/productos/creditos/credito-auto.html"
+        }
+      ],
+      "tasa_interes_ordinaria_fija_anual_maxima_sin_iva_pct": 16.99,
+      "penalizacion_pago_tardio": "$670 más IVA por evento",
+      "alianza": {
+        "dato": "BBVA México y Suzuki Motor de México firmaron una alianza por 4,865 mdp (2,050 mdp para créditos a clientes) con meta de 8,200 créditos en un año",
+        "fecha": "2026-06-09",
+        "url": "https://www.bbva.com/es/mx/empresas/bbva-mexico-y-suzuki-sellan-alianza-por-4865-mdp-y-potencian-estrategia-de-financiamiento-automotriz/"
+      },
+      "url": "https://www.bbva.mx/personas/productos/creditos/credito-auto.html",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "La página de BBVA lista «SukiCredit» como alianza, sin escribir «Suzuki»; la relación con Suzuki se infiere del nombre y del comunicado de la alianza. suzuki.com.mx no tiene página de financiamiento."
+    },
+    {
+      "institucion": "Mercedes-Benz Financial Services México",
+      "marcas": [
+        "Mercedes-Benz"
+      ],
+      "cat_promedio": null,
+      "tasa": null,
+      "condiciones_publicadas": {
+        "credito": "plazo de 6 a 60 meses, mensualidad fija, el auto es del cliente al final",
+        "flexibility": "plazos de 24 o 36 meses con opción de devolver, comprar o renovar",
+        "arrendamiento": "renta mensual con seguro incluido"
+      },
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/finance/financing-leasing.html",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "La página de financiamiento y la de ofertas SUV no publican tasa, CAT ni razón social."
+    },
+    {
+      "institucion": "Volvo Car Financial Services (México)",
+      "marcas": [
+        "Volvo"
+      ],
+      "cat_promedio": null,
+      "tasa": null,
+      "condiciones_publicadas": {
+        "credito_tradicional": "nuevos y seminuevos, enganche desde 10%, plazos de 12 a 72 meses, mensualidades fijas, comisión por apertura (sin porcentaje publicado), pagos anticipados",
+        "arrendamiento_puro": "disponible"
+      },
+      "url": "https://volvocarfinancialservices.mx/credito-tradicional",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "El sitio dice «tasas de interés competitivas» sin cifra ni CAT, y no muestra razón social."
+    },
+    {
+      "institucion": "GWM Finance (BBVA México)",
+      "marcas": [
+        "Haval",
+        "Tank",
+        "Ora",
+        "Poer",
+        "Wey"
+      ],
+      "cat_promedio": null,
+      "tasa": null,
+      "url": "https://www.bbva.com/es/bbva-mexico-establece-alianza-con-la-armadora-de-autos-china-great-wall-motor-y-presentan-gwm-finance/",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "Comunicado de BBVA del 2023-08-31: BBVA es la financiera de GWM bajo el nombre GWM Finance; no da tasa, plazos ni CAT. La página de crédito automotriz de BBVA no lista a GWM entre sus alianzas con CAT. El sitio de GWM México no cargó (gwm-global.com/mx da error)."
+    },
+    {
+      "institucion": "Sin financiera identificada (JAC México)",
+      "marcas": [
+        "JAC"
+      ],
+      "cat_promedio": null,
+      "tasa": null,
+      "url": "https://www.jac.mx/legales",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "jac.mx no tiene sección de financiamiento ni CAT en su página de legales; jacmexico.com está en construcción."
     }
   ],
   "bancos": [
@@ -380,15 +696,58 @@
       "institucion": "Santander México",
       "producto": "Crédito automotriz",
       "url": "https://www.santander.com.mx/personas/credito-y-financiamiento/credito-automotriz",
-      "tasa": null,
-      "cat_promedio": null,
+      "tasa": "Ver cat_promedio: tasa ordinaria anual fija por producto",
+      "cat_promedio": [
+        {
+          "producto": "Súper Auto Nuevos (persona física y PFAE)",
+          "tasa_fija_anual_pct": 17.49,
+          "cat_pct_sin_iva": 25.3
+        },
+        {
+          "producto": "Súper Auto Nuevos (persona moral)",
+          "tasa_fija_anual_pct": 14.99,
+          "cat_pct_sin_iva": 17.9
+        },
+        {
+          "producto": "Súper Auto Seminuevos",
+          "tasa_fija_anual_pct": 16.99,
+          "cat_pct_sin_iva": 28.1
+        },
+        {
+          "producto": "Súper Auto Election",
+          "tasa_fija_anual_pct": 11.99,
+          "cat_pct_sin_iva": 29.5
+        },
+        {
+          "producto": "Súper Auto Election Alianzas",
+          "tasa_fija_anual_pct": 11.49,
+          "cat_pct_sin_iva": 22.6
+        },
+        {
+          "producto": "Súper Auto Seminuevos Particulares",
+          "tasa_fija_anual_pct": 16.49,
+          "cat_pct_sin_iva": 31.9
+        },
+        {
+          "producto": "Súper Auto Motos",
+          "tasa_fija_anual_pct": 21.49,
+          "cat_pct_sin_iva": 40.0
+        }
+      ],
       "condiciones_publicadas": {
         "enganche": "desde 10% (Alianzas Súper Auto) y 20% con otras marcas y motos",
         "plazos": "hasta 72 meses con Alianzas Súper Auto; 12 a 60 meses con otras marcas",
         "comision_contratacion": "desde 0% hasta 3.5% más IVA según perfil"
       },
       "fecha_verificacion": "2026-10-20",
-      "nota": "La página no publica tasa ni CAT; la página santander.com.mx/comisiones carga la tabla con JavaScript y no se pudo leer."
+      "nota": "La página no publica tasa ni CAT; la página santander.com.mx/comisiones carga la tabla con JavaScript y no se pudo leer.",
+      "cat_fecha_calculo": "2026-06-30",
+      "cat_vigencia": "2026-07-31 (vencida al 2026-10-25)",
+      "cat_url": "https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:e562ab83-35f2-4013-9575-c78b70e8e23f/original/as/clausula-de-comisiones-credito-automotriz-0626.pdf",
+      "comision_contratacion_pdf": "3.50% más IVA sobre el monto contratado (Santander puede cobrar menos)",
+      "penalizacion_gastos_cobranza": "$300 mensual por evento, máximo 3 ocasiones consecutivas",
+      "fecha_verificacion_cat": "2026-10-25",
+      "nota_2026_10_25": "La tasa y el CAT están en el PDF «Cláusula de comisiones crédito automotriz» enlazado desde la página del producto. Es la versión vigente en el sitio el 2026-10-25, aunque su oferta venció el 2026-07-31."
     },
     {
       "institucion": "Scotiabank México",
@@ -421,9 +780,220 @@
       "url": "https://www.inbursa.com/sites/gfi/costos-comisiones",
       "comision_apertura": "2.50% del importe a financiar más IVA",
       "pena_por_mora": "$500 más IVA",
+      "tasa": {
+        "enganche_10_a_19_99_pct": 18.99,
+        "enganche_20_a_29_99_pct": 14.99,
+        "enganche_30_o_mas_pct": 13.99,
+        "tipo": "anual simple fija más IVA"
+      },
+      "cat_promedio": {
+        "producto": "Autos SOFOM Inbursa (Autoexpress unidades nuevas)",
+        "cat_pct": 38.6,
+        "fecha_calculo": "2026-01-29",
+        "vigencia": "2026-02-03 al 2026-03-31 (vencida)",
+        "url": "https://www.inbursa.com/sites/gfi/autoexpress-unidades-nuevas",
+        "nota": "El sitio lo llama «CAT promedio ponderado» y no dice si es sin IVA."
+      },
+      "nota": "La página de Inbursa no publica tasa ni CAT del crédito automotriz; las cifras de Autoexpress Inbursa están en financieras_de_marca.",
+      "condiciones_autoexpress_nuevos": {
+        "plazos_meses": "12, 24, 36, 48 o 60",
+        "enganche": "desde 10%",
+        "comision_apertura": "2.50% tradicional o tasa preferente; 1.00% clientes repetitivos (más IVA)",
+        "gastos_cobranza": "$500 más IVA por incumplimiento"
+      },
+      "fecha_verificacion_cat": "2026-10-25",
+      "nota_2026_10_25": "La página de Autoexpress unidades nuevas sí publica tasa y CAT, aunque de una oferta vencida. En el simulador de CONDUSEF (base agosto 2026) Inbursa SOFOM aparece con 18.99% y CAT 22.4% para el perfil Versa."
+    },
+    {
+      "institucion": "HSBC México",
+      "producto": "Crédito Inmediauto",
+      "url": "https://www.hsbc.com.mx/creditos/auto/",
       "tasa": null,
       "cat_promedio": null,
-      "nota": "La página de Inbursa no publica tasa ni CAT del crédito automotriz; las cifras de Autoexpress Inbursa están en financieras_de_marca."
+      "simulador_condusef_base_agosto_2026": {
+        "tasa_interes_anual_pct": 13.99,
+        "cat_pct": 16.5,
+        "perfil": "Nissan Versa Sense TM, 20% de enganche, 48 meses, seguro financiado",
+        "url": "https://phpapps.condusef.gob.mx/condusefautomotriz/sca_comparativo.php?marca=27&submarca=275&modelo=1235&financiamiento=2&precio=276900&enganche=55380&danios=0&plazo=48&elige=6&eje=1&fin=2&op=5"
+      },
+      "fecha_verificacion": "2026-10-25",
+      "nota": "hsbc.com.mx/creditos/auto/ redirige a la página de postventa de Inmediauto (pagos, contrato, carátula); no hay página de venta con tasa ni CAT. La carátula y los términos publicados no traen cifras. CONDUSEF sí lo lista y es el CAT más bajo de su ejemplo."
+    },
+    {
+      "institucion": "Banamex",
+      "producto": null,
+      "url": "https://www.banamex.com/",
+      "tasa": null,
+      "cat_promedio": null,
+      "fecha_verificacion": "2026-10-25",
+      "nota": "El sitio de Banamex no tiene página de crédito automotriz para personas (solo seguros de auto); tampoco aparece en el simulador de CONDUSEF."
+    },
+    {
+      "institucion": "Banca Afirme",
+      "producto": "Autoplazo",
+      "url": "https://www.afirme.com/Personas/Credito-Auto/Auto-Nuevo.html",
+      "cat_promedio_pct_sin_iva": [
+        {
+          "plan": "Autoplazo Verde (nuevos)",
+          "tasa_fija_anual_desde_pct": 11.9,
+          "cat": 22.5
+        },
+        {
+          "plan": "Premium Nómina (nuevos)",
+          "tasa_fija_anual_desde_pct": 12.4,
+          "cat": 23.8
+        },
+        {
+          "plan": "Elite (nuevos)",
+          "tasa_fija_anual_desde_pct": 12.75,
+          "cat": 24.0
+        },
+        {
+          "plan": "Premium M 12.50% (nuevos)",
+          "tasa_fija_anual_desde_pct": 12.5,
+          "cat": 24.3
+        },
+        {
+          "plan": "Premium 13.90% y Premium 13.90% NL (nuevos)",
+          "tasa_fija_anual_desde_pct": 13.9,
+          "cat": 25.7
+        },
+        {
+          "plan": "Tradicional M 13.75% (nuevos)",
+          "tasa_fija_anual_desde_pct": 13.75,
+          "cat": 27.7
+        },
+        {
+          "plan": "Plan 15.50% y Plan 15.50% NL (nuevos)",
+          "tasa_fija_anual_desde_pct": 15.5,
+          "cat": 29.6
+        },
+        {
+          "plan": "Plan Plus 16.50% (nuevos)",
+          "tasa_fija_anual_desde_pct": 16.5,
+          "cat": 31.4
+        },
+        {
+          "plan": "Seminuevos Nómina",
+          "tasa_fija_anual_desde_pct": 12.8,
+          "cat": 24.6
+        },
+        {
+          "plan": "Seminuevos Premium 14.45%",
+          "tasa_fija_anual_desde_pct": 14.45,
+          "cat": 29.8
+        },
+        {
+          "plan": "Seminuevos Tradicional 16.90%",
+          "tasa_fija_anual_desde_pct": 16.9,
+          "cat": 36.7
+        }
+      ],
+      "fecha_calculo": "2026-10-05",
+      "vigencia": "2026-12-31",
+      "plazos_meses": {
+        "nuevos": "6 a 72",
+        "seminuevos": "6 a 48"
+      },
+      "enganche_desde_pct": 20,
+      "comisiones": "Seminuevos: contratación 2.5% más IVA (0% en un esquema); gastos de aprobación (preoriginación) $750 más IVA",
+      "url_seminuevos": "https://www.afirme.com/Personas/Credito-Auto/Auto-Usado.html",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "Datos más recientes de todo el archivo (cálculo del 5 de octubre de 2026)."
+    },
+    {
+      "institucion": "BanBajío",
+      "producto": "CrediBajío Auto",
+      "url": "https://www.bb.com.mx/webcenter/portal/BanBajio/personas/p-creditos/p-credito-de-auto",
+      "tasa_fija_anual_desde_pct": {
+        "nuevos": 9.99,
+        "seminuevos": 10.99
+      },
+      "cat_promedio_pct_sin_iva": [
+        {
+          "segmento": "Auto nuevo",
+          "cat": 25.9
+        },
+        {
+          "segmento": "Auto seminuevo",
+          "cat": 29.0
+        }
+      ],
+      "fecha_calculo_y_vigencia": "del 2026-06-18 al 2026-12-18 (así lo redacta el banco)",
+      "enganche_desde_pct": 20,
+      "plazo": "hasta 5 años",
+      "comision_contratacion": "desde 0% más IVA, según evaluación del cliente y monto",
+      "monto": "desde $50,000 hasta 80% del precio del auto, tope $2,000,000",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "La tasa se asigna según evaluación, plazo y enganche."
+    },
+    {
+      "institucion": "Banregio",
+      "producto": "Autoregio Nuevo",
+      "url": "https://www.banregio.com/personas/automotriz/autos-nuevos.php",
+      "tasa_fija_anual_desde_pct": 13.0,
+      "cat_promedio_pct_sin_iva": 28.0,
+      "fecha_calculo": "2026-08-31",
+      "vigencia": "2027-02-28",
+      "enganche_desde_pct": 10,
+      "plazos_meses": "12 a 60",
+      "fecha_verificacion": "2026-10-25",
+      "nota": "No usar cloud.hola.banregio.com/credito-auto-banregio: muestra CAT de 2024 (22.0% nuevo, 32.8% seminuevo) ya vencidos."
+    },
+    {
+      "institucion": "Banco Autofin México",
+      "producto": null,
+      "url": null,
+      "tasa": null,
+      "cat_promedio": null,
+      "simulador_condusef_base_agosto_2026": {
+        "tasa_interes_anual_pct": 16.5,
+        "cat_pct": 33.2,
+        "perfil": "Nissan Versa Sense TM, 20% de enganche, 48 meses, seguro financiado"
+      },
+      "fecha_verificacion": "2026-10-25",
+      "nota": "Aparece en el simulador de CONDUSEF; su sitio no se revisó."
+    },
+    {
+      "institucion": "Credijal, SOFOM E.N.R.",
+      "producto": null,
+      "url": null,
+      "tasa": null,
+      "cat_promedio": null,
+      "simulador_condusef_base_agosto_2026": {
+        "tasa_interes_anual_pct": 35.0,
+        "cat_pct": 45.0,
+        "perfil": "Nissan Versa Sense TM, 20% de enganche, 48 meses, seguro financiado"
+      },
+      "fecha_verificacion": "2026-10-25",
+      "nota": "SOFOM no regulada que aparece en el simulador de CONDUSEF con el CAT más alto del ejemplo; su sitio no se revisó."
+    },
+    {
+      "institucion": "Banca Mifel",
+      "producto": null,
+      "url": "https://www.mifel.com.mx/personas",
+      "tasa": null,
+      "cat_promedio": null,
+      "fecha_verificacion": "2026-10-25",
+      "nota": "El sitio de personas no tiene crédito automotriz; Mifel menciona un «Crédito PyME Automotriz» en su sección de empresas, sin CAT."
+    },
+    {
+      "institucion": "Banco Ve por Más (Bx+)",
+      "producto": null,
+      "url": "https://www.vepormas.com/fwpf/portal/",
+      "tasa": null,
+      "cat_promedio": null,
+      "fecha_verificacion": "2026-10-25",
+      "nota": "El sitio solo ofrece seguros de auto; no se encontró crédito automotriz para personas."
+    },
+    {
+      "institucion": "Kuna (SOFOM aliada de BYD)",
+      "producto": null,
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "tasa": null,
+      "cat_promedio": null,
+      "fecha_verificacion": "2026-10-25",
+      "nota": "Aparece en los legales de BYD como una de las cuatro financieras del bono flexible (ver financieras_de_marca, BYD). No se localizó sitio oficial propio (kuna.mx no cargó)."
     }
   ],
   "pendientes": [
@@ -434,6 +1004,15 @@
     "BBVA: sin CAT para autos nuevos convencionales.",
     "Nombres de las 8 instituciones del ejercicio Quién es Quién de junio 2026: abrir el PDF o el simulador.",
     "Los CAT de bancos cuyo cálculo es anterior a agosto de 2026 (Banorte mayo, Scotiabank abril, BBVA junio, Autoexpress marzo) deben mostrarse con su fecha.",
-    "Los bancos de la lista del encargo que no se alcanzaron a cubrir con cifras: Kia Finance (no existe como entidad; es Autoexpress Inbursa) y Ford Credit/STM Financial (citadas por Banxico, no revisadas)."
+    "Los bancos de la lista del encargo que no se alcanzaron a cubrir con cifras: Kia Finance (no existe como entidad; es Autoexpress Inbursa) y Ford Credit/STM Financial (citadas por Banxico, no revisadas).",
+    "(2026-10-25) Mercedes-Benz Financial Services, Volvo Car Financial Services, GWM Finance (BBVA), FC Financial (Jeep, Ram, Dodge, Chrysler, Fiat, Alfa Romeo) y JAC: sin CAT publicado en sus sitios oficiales.",
+    "(2026-10-25) STM Financial (Peugeot): los legales de octubre muestran «[ CAT ]» sin cifra; solo hay un CAT de 20.5% de una promoción vencida (abril 2026).",
+    "(2026-10-25) HSBC: su sitio solo muestra postventa de Inmediauto, sin tasa ni CAT; usar el dato del simulador de CONDUSEF (13.99%, CAT 16.5%, base agosto 2026) con su perfil.",
+    "(2026-10-25) Santander e Inbursa: los CAT publicados ya vencieron (julio y marzo de 2026); revisar si actualizan el PDF o la página.",
+    "(2026-10-25) Ford Credit: CAT base de 37.56% calculado el 2025-12-01, sin vigencia declarada.",
+    "(2026-10-25) Banco Autofin y Credijal: solo hay dato del simulador de CONDUSEF; falta revisar sus sitios.",
+    "(2026-10-25) Banamex, Banca Mifel y Ve por Más: no se encontró crédito automotriz para personas en sus sitios. Credicar: el sitio responde «403 Acceso denegado»; no se agregó.",
+    "(2026-10-25) Kia, MG y Chirey ya están cubiertas por Autoexpress Inbursa (los legales de MG de octubre 2026 lo confirman); Audi está en Volkswagen Financial Services; BYD en su entrada de aliados.",
+    "(2026-10-25) GWM: confirmar URL oficial del sitio de GWM México (gwm-global.com/mx dio error)."
   ]
 }
