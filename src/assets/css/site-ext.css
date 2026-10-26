@@ -235,3 +235,24 @@ a.tile:active { transform: translateY(0) scale(.99); }
 @media (max-width: 600px) { .subnav { padding: 10px 16px 0; } }
 .prose, .tile, .srcs, .answer, .callout, .note { overflow-wrap: anywhere; }
 .prose a, .srcs a { word-break: break-word; }
+
+/* Comparador: foto real del modelo, crédito y aviso sin foto (brief de mejoras, 25 oct 2026) */
+.car .ph-car { aspect-ratio: 3 / 2; border-radius: 10px; overflow: hidden; background: var(--canvas-soft); margin-bottom: 8px; }
+.car .ph-car img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.car .cred { font-size: 11px; line-height: 15px; color: var(--body); margin-top: 4px; overflow-wrap: anywhere; }
+.car .cred a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+.car .nofoto { font-size: 12px; line-height: 16px; color: var(--body); margin: -2px 0 6px; }
+/* Qué favorece a cada auto */
+.trade { background: var(--night-3); color: #fff; border-radius: var(--r-lg); padding: 14px 16px; display: grid; gap: 8px; }
+.trade h3 { font-size: 16px; line-height: 22px; font-weight: 600; }
+.trade ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.trade li { display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 10px; font-size: 14px; line-height: 20px; color: var(--on-night); }
+.trade li b { color: #fff; }
+.trade .tk { color: var(--on-night-2); font-size: 13px; }
+.trade .t-c { font-size: 14px; line-height: 20px; font-weight: 600; }
+.trade .t-f { font-size: 12.5px; line-height: 18px; color: var(--on-night-2); }
+@media (max-width: 600px) { .trade li { grid-template-columns: 1fr; gap: 0; } }
+/* ¿Qué auto te alcanza?: grupos y «ver más» */
+.fit-h { font-size: 15px; line-height: 20px; font-weight: 600; color: var(--on-night); margin: 6px 0 -2px; }
+.fit-h:first-child { margin-top: 0; }
+.fit-more { justify-self: start; margin-top: 4px; }

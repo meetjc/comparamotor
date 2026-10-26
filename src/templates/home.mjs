@@ -30,11 +30,28 @@ export function autoParaComparador(a) {
   };
 }
 
-const names = ['cine', 'comparar', 'desglose', 'garage', 'explorar', 'comparativas', 'guias', 'promos', 'preguntas'];
+// Nombre de versión para mostrar: sin repetir el modelo ni el año que ya se ven aparte
+export function verCorta(v, modelo, anio) {
+  const re = (x) => String(x).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  let s = String(v || '').replace(new RegExp('^' + re(modelo || '') + '(?=\\s|$)\\s*', 'i'), '');
+  if (anio) s = s.replace(new RegExp('\\s*\\b' + re(anio) + '\\b', 'g'), '');
+  s = s.replace(/\s{2,}/g, ' ').trim();
+  return s || String(v || '');
+}
+
+const names = ['cine', 'comparar', 'desglose', 'garage', 'explorar', 'comparativas', 'noticias', 'guias', 'promos', 'preguntas'];
 export function home(ctx, D, opt = {}) {
   const { autos, noticias, promos, reg, guias, comparativas, mercado } = D;
   const cmp = {};
-  for (const a of autos) { const x = autoParaComparador(a); if (x) { x.ficha = ctx.u(x.ficha); cmp[`${a.marcaSlug}-${a.slug}`] = x; } }
+  for (const a of autos) {
+    const x = autoParaComparador(a); if (!x) continue;
+    const key = `${a.marcaSlug}-${a.slug}`;
+    x.ficha = ctx.u(x.ficha); x.ver = verCorta(x.version, x.modelo, x.anio);
+    // Foto real del modelo (miniatura con crédito); sin foto verificada, el comparador lo dice
+    const t = ((D.fotos || {})[key] || {}).thumb;
+    if (t && reg[t.archivo]) Object.assign(x, { foto: ctx.asset('img/' + t.archivo), fotoAlt: t.alt, fotoW: t.ancho, fotoH: t.alto, fotoCred: String(reg[t.archivo].credito || '').replace(/^Foto:\s*/, ''), fotoUrl: reg[t.archivo].paginaUrl || '' });
+    cmp[key] = x;
+  }
   const keys = Object.keys(cmp);
   // Par inicial: el par de subcompactos más barato con oferta condicionada, si existe
   const conCond = keys.filter((k) => cmp[k].oferta && cmp[k].exige === 'credito').sort((x, y) => cmp[x].oferta - cmp[y].oferta);
@@ -74,7 +91,7 @@ export function home(ctx, D, opt = {}) {
 
   const pares = (comparativas || []).filter((c) => c.autos.length >= 2 && c.autos.every((k) => cmp[k])).slice(0, 3);
   const quick = pares.length ? `<div class="quick"><span class="t">Prueba:</span>${pares.map((c) => `<button class="chip" type="button" data-load="${c.autos[0]},${c.autos[1]}">${esc(cmp[c.autos[0]].modelo)} vs ${esc(cmp[c.autos[1]].modelo)}</button>`).join('')}</div>` : '';
-  const opts = (k) => keys.map((x) => `<option value="${x}"${x === k ? ' selected' : ''}>${esc(cmp[x].marca + ' ' + cmp[x].modelo + (cmp[x].versionOk ? ' ' + cmp[x].version : ''))}</option>`).join('');
+  const opts = (k) => keys.map((x) => `<option value="${x}"${x === k ? ' selected' : ''}>${esc(cmp[x].marca + ' ' + cmp[x].modelo + (cmp[x].versionOk ? ' ' + cmp[x].ver : ''))}</option>`).join('');
 
   const comps = comparativas.slice(0, 6).map((c, i) => `<a class="cmp${i === 0 ? ' feat' : ''} rv"${i % 3 ? ` style="--d:${(i % 3) * 80}ms"` : ''} href="${ctx.u(c.url)}"><span class="ph">${img(ctx, reg, c.imagen, c.imagenAlt)}${i === 0 ? `<span class="pill p-float">${c.autos.length} autos · se puede comparar ya</span>` : ''}</span><h3>${esc(c.titulo)}</h3>${i === 0 ? `<p>${esc(c.resumen)}</p>` : ''}<span class="meta"><span class="tag">${esc(c.segmento)}</span>${i === 0 ? '<span class="tag blue">Precios verificados</span>' : ''}</span></a>`).join('');
 
@@ -95,14 +112,10 @@ export function home(ctx, D, opt = {}) {
         <p class="live"><i aria-hidden="true"></i>Precios verificados al ${esc(fechaCorta(fechaPrecios))}</p>
         <h1 id="h1">Compara autos <span>sin letras chiquitas</span></h1>
         <p class="cine-lead">El precio real de cada versión, con su fuente y su fecha. La mensualidad con CAT y lo que pagas en cinco años, lado a lado, antes de pisar la agencia.</p>
-        <div class="cine-cta"><a class="pill p-primary xl" href="#comparar">Haz la cuenta ${ARROW}</a><a class="pill p-glass xl" href="#explorar">¿Qué auto me alcanza?</a></div>
+        <div class="cine-cta"><a class="pill p-primary xl" href="#comparar">Ya tengo dos autos en mente ${ARROW}</a><a class="pill p-glass xl" href="#explorar">Ayúdame a elegir</a></div>
         ${ticket}
       </div>
       <ul class="specs" aria-label="Lo que cambia cuando comparas completo">${specs}</ul>
-      <div class="cine-news" id="noticias">
-        <div class="cn-h"><h2>Lo último del sector</h2><a href="${ctx.u('/noticias/')}">Todas las noticias →</a></div>
-        <div class="cn-row">${cn}</div>
-      </div>
     </div>
     <span class="credito" style="position:absolute;right:16px;bottom:10px;z-index:3">Video ilustrativo generado con IA</span>
     <button class="vid-ctl" id="vid-ctl" type="button" aria-pressed="false" aria-label="Pausar el video de fondo"><svg class="i-pause" width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><rect x="2" y="1.5" width="3.4" height="11" rx="1" fill="currentColor"/><rect x="8.6" y="1.5" width="3.4" height="11" rx="1" fill="currentColor"/></svg><svg class="i-play" width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M3.5 1.8v10.4L12 7z" fill="currentColor"/></svg></button>
@@ -141,6 +154,7 @@ export function home(ctx, D, opt = {}) {
         <p class="fineprint" id="fine"></p>
         <div class="duel"><div class="car car-a" id="car-a"></div><span class="vs" aria-hidden="true">VS</span><div class="car car-b" id="car-b"></div></div>
         <div class="figs" id="figs"></div>
+        <div class="trade" id="trade"></div>
         <div class="chart" id="chart">
           <div class="chart-h"><h3>¿En qué se va tu dinero en 5 años?</h3><span class="tag" id="ch-mode">A crédito</span></div>
           <div class="bars" id="bars"></div>
@@ -205,6 +219,15 @@ export function home(ctx, D, opt = {}) {
       </div>
     </div>
   </section>`,
+    noticias: `
+  ${cn ? `<section class="sec night" id="noticias" aria-labelledby="cn-t">
+    <div class="wrap">
+      <div class="cine-news" style="margin-top:0">
+        <div class="cn-h"><h2 id="cn-t">Lo último del sector</h2><a href="${ctx.u('/noticias/')}">Todas las noticias →</a></div>
+        <div class="cn-row">${cn}</div>
+      </div>
+    </div>
+  </section>` : ''}`,
     comparativas: `
   <section class="sec soft" id="comparativas" aria-labelledby="cp-t">
     <div class="wrap">

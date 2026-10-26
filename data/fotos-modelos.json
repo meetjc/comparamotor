@@ -24,7 +24,13 @@
     "ancho": 1400,
     "alto": 932
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-byd-dolphin-mini-1-t.jpg",
+   "alt": "BYD Dolphin Mini, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
  },
  "chevrolet-aveo": {
   "archivo": "foto-chevrolet-aveo-1.jpg",
@@ -51,7 +57,13 @@
     "ancho": 1400,
     "alto": 1050
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-chevrolet-aveo-1-t.jpg",
+   "alt": "Chevrolet Aveo, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
  },
  "chevrolet-groove": {
   "archivo": "foto-chevrolet-groove-1.jpg",
@@ -78,7 +90,13 @@
     "ancho": 1600,
     "alto": 901
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-chevrolet-groove-1-t.jpg",
+   "alt": "Chevrolet Groove, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
  },
  "chevrolet-onix": {
   "archivo": "foto-chevrolet-onix-1.jpg",
@@ -105,7 +123,13 @@
     "ancho": 1400,
     "alto": 829
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-chevrolet-onix-1-t.jpg",
+   "alt": "Chevrolet Onix, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 434
+  }
  },
  "chevrolet-tracker": {
   "archivo": "foto-chevrolet-tracker-1.jpg",
@@ -132,7 +156,13 @@
     "ancho": 1600,
     "alto": 916
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-chevrolet-tracker-1-t.jpg",
+   "alt": "Chevrolet Tracker, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
  },
  "chirey-tiggo-7-pro": {
   "archivo": "foto-chirey-tiggo-7-pro-1.jpg",
@@ -145,7 +175,13 @@
     "ancho": 1600,
     "alto": 1300
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-chirey-tiggo-7-pro-1-t.jpg",
+   "alt": "Chirey Tiggo 7 Pro, vista 3/4 trasero",
+   "ancho": 720,
+   "alto": 585
+  }
  },
  "honda-hr-v": {
   "archivo": "foto-honda-hr-v-1.jpg",
@@ -172,7 +208,13 @@
     "ancho": 1600,
     "alto": 900
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-honda-hr-v-1-t.jpg",
+   "alt": "Honda HR-V, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 441
+  }
  },
  "kia-k3": {
   "archivo": "foto-kia-k3-1.jpg",
@@ -199,7 +241,13 @@
     "ancho": 1600,
     "alto": 900
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-kia-k3-1-t.jpg",
+   "alt": "Kia K3, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 360
+  }
  },
  "kia-sportage": {
   "archivo": "foto-kia-sportage-1.jpg",
@@ -226,7 +274,13 @@
     "ancho": 1400,
     "alto": 932
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-kia-sportage-1-t.jpg",
+   "alt": "Kia Sportage, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 356
+  }
  },
  "mazda-cx-5": {
   "archivo": "foto-mazda-cx-5-1.jpg",
@@ -253,7 +307,13 @@
     "ancho": 1400,
     "alto": 1050
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-mazda-cx-5-1-t.jpg",
+   "alt": "Mazda CX-5, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
  },
  "mazda-mazda3": {
   "archivo": "foto-mazda-mazda3-1.jpg",
@@ -280,7 +340,13 @@
     "ancho": 1400,
     "alto": 849
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-mazda-mazda3-1-t.jpg",
+   "alt": "Mazda Mazda3, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 340
+  }
  },
  "mg-zs": {
   "archivo": "foto-mg-zs-1.jpg",
@@ -307,7 +373,13 @@
     "ancho": 1400,
     "alto": 932
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-mg-zs-1-t.jpg",
+   "alt": "MG ZS, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 386
+  }
  },
  "nissan-kicks": {
   "archivo": "foto-nissan-kicks-1.jpg",
@@ -334,7 +406,13 @@
     "ancho": 1600,
     "alto": 900
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-nissan-kicks-1-t.jpg",
+   "alt": "Nissan Kicks, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 450
+  }
  },
  "nissan-march": {
   "archivo": "foto-nissan-march-1.jpg",
@@ -361,7 +439,13 @@
     "ancho": 1600,
     "alto": 973
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-nissan-march-1-t.jpg",
+   "alt": "Nissan March, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 552
+  }
  },
  "nissan-np300": {
   "archivo": "foto-nissan-np300-2.jpg",
@@ -374,7 +458,13 @@
     "ancho": 1600,
     "alto": 1032
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-nissan-np300-2-t.jpg",
+   "alt": "Nissan NP300, vista general",
+   "ancho": 720,
+   "alto": 464
+  }
  },
  "nissan-sentra": {
   "archivo": "foto-nissan-sentra-1.jpg",
@@ -401,7 +491,13 @@
     "ancho": 1600,
     "alto": 900
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-nissan-sentra-1-t.jpg",
+   "alt": "Nissan Sentra, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 404
+  }
  },
  "nissan-versa": {
   "archivo": "foto-nissan-versa-1.jpg",
@@ -428,7 +524,13 @@
     "ancho": 1600,
     "alto": 901
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-nissan-versa-1-t.jpg",
+   "alt": "Nissan Versa, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 463
+  }
  },
  "nissan-x-trail": {
   "archivo": "foto-nissan-x-trail-1.jpg",
@@ -448,7 +550,13 @@
     "ancho": 1400,
     "alto": 758
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-nissan-x-trail-1-t.jpg",
+   "alt": "Nissan X-Trail, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 396
+  }
  },
  "renault-kwid": {
   "archivo": "foto-renault-kwid-1.jpg",
@@ -475,7 +583,13 @@
     "ancho": 1600,
     "alto": 1008
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-renault-kwid-1-t.jpg",
+   "alt": "Renault Kwid, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 432
+  }
  },
  "toyota-corolla-cross": {
   "archivo": "foto-toyota-corolla-cross-1.jpg",
@@ -488,7 +602,13 @@
     "ancho": 1600,
     "alto": 1216
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-toyota-corolla-cross-1-t.jpg",
+   "alt": "Toyota Corolla Cross, vista general",
+   "ancho": 720,
+   "alto": 547
+  }
  },
  "toyota-corolla": {
   "archivo": "foto-toyota-corolla-1.jpg",
@@ -501,7 +621,13 @@
     "ancho": 1400,
     "alto": 876
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-toyota-corolla-1-t.jpg",
+   "alt": "Toyota Corolla, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 450
+  }
  },
  "toyota-rav4": {
   "archivo": "foto-toyota-rav4-2.jpg",
@@ -514,7 +640,13 @@
     "ancho": 1400,
     "alto": 787
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-toyota-rav4-2-t.jpg",
+   "alt": "Toyota RAV4, vista general",
+   "ancho": 720,
+   "alto": 404
+  }
  },
  "toyota-tacoma": {
   "archivo": "foto-toyota-tacoma-1.jpg",
@@ -541,7 +673,13 @@
     "ancho": 1600,
     "alto": 1200
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-toyota-tacoma-1-t.jpg",
+   "alt": "Toyota Tacoma, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
  },
  "volkswagen-jetta": {
   "archivo": "foto-volkswagen-jetta-1.jpg",
@@ -568,7 +706,13 @@
     "ancho": 1600,
     "alto": 910
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-volkswagen-jetta-1-t.jpg",
+   "alt": "Volkswagen Jetta, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 389
+  }
  },
  "volkswagen-t-cross": {
   "archivo": "foto-volkswagen-t-cross-1.jpg",
@@ -595,7 +739,13 @@
     "ancho": 1600,
     "alto": 900
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-volkswagen-t-cross-1-t.jpg",
+   "alt": "Volkswagen T-Cross, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 432
+  }
  },
  "volkswagen-taos": {
   "archivo": "foto-volkswagen-taos-1.jpg",
@@ -622,7 +772,13 @@
     "ancho": 1600,
     "alto": 1066
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-volkswagen-taos-1-t.jpg",
+   "alt": "Volkswagen Taos, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 450
+  }
  },
  "volkswagen-virtus": {
   "archivo": "foto-volkswagen-virtus-1.jpg",
@@ -635,6 +791,12 @@
     "ancho": 1600,
     "alto": 930
    }
-  ]
+  ],
+  "thumb": {
+   "archivo": "foto-volkswagen-virtus-1-t.jpg",
+   "alt": "Volkswagen Virtus, vista general",
+   "ancho": 720,
+   "alto": 418
+  }
  }
 }

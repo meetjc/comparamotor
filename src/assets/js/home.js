@@ -21,7 +21,9 @@
   var cmpEv = function () { return { herramienta: 'comparador', auto_a: st.a, auto_b: st.b, modo: st.modo }; };
   function v(id) { var n = parseFloat($(id).value); return isFinite(n) && n >= 0 ? n : 0; }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
-  ['sa', 'sb'].forEach(function (id) { var s = $(id); Object.keys(AUTOS).forEach(function (k) { var a = AUTOS[k], o = document.createElement('option'); o.value = k; o.textContent = a.marca + ' ' + a.modelo + (a.versionOk ? ' ' + a.version : ''); s.appendChild(o); }); });
+  ['sa', 'sb'].forEach(function (id) { var s = $(id); if (s.options.length) return; /* el servidor ya trae las opciones */ Object.keys(AUTOS).forEach(function (k) { var a = AUTOS[k], o = document.createElement('option'); o.value = k; o.textContent = a.marca + ' ' + a.modelo + (a.versionOk ? ' ' + (a.ver || a.version) : ''); s.appendChild(o); }); });
+  var CARRO = { suv: 'SUV', sedan: 'sedán', hatchback: 'hatchback', pickup: 'pickup', van: 'van', coupe: 'coupé' };
+  function ver(a) { return a.ver || a.version; }
 
   function calc(k, modo) {
     modo = modo || st.modo;
@@ -42,7 +44,36 @@
     (function step(t) { var p = Math.min(1, (t - t0) / dur), e = 1 - Math.pow(1 - p, 4); el.textContent = mxn.format(from + (to - from) * e); if (p < 1) requestAnimationFrame(step); })(t0);
   }
   function sil(body, color, flip) { return '<svg viewBox="0 0 120 48" aria-hidden="true"' + (flip ? ' style="transform:scaleX(-1)"' : '') + '><use href="#sil-' + body + '" fill="' + color + '"/></svg>'; }
-  function car(el, r, color, flip, dot) { var a = r.a; el.innerHTML = '<div class="sil">' + sil(a.body, color, flip) + '</div><span class="mkk"><span class="dot" style="background:' + dot + '"></span>' + esc(a.marca) + '</span><span class="md">' + esc(a.modelo) + '</span><span class="vr">' + esc(a.version) + (a.anio ? ' · ' + a.anio : '') + '</span>'; }
+  // Foto real del modelo con su crédito; si no hay foto verificada, silueta con aviso explícito
+  function car(el, r, color, flip, dot) {
+    var a = r.a; if (el.dataset.k === r.k) return; el.dataset.k = r.k; // no se redibuja al mover enganche o plazo
+    var vis = a.foto
+      ? '<div class="ph-car"><img src="' + a.foto + '" alt="' + esc(a.fotoAlt || a.marca + ' ' + a.modelo) + '" width="' + (a.fotoW || 720) + '" height="' + (a.fotoH || 480) + '" decoding="async"></div>'
+      : '<div class="sil">' + sil(a.body, color, flip) + '</div><span class="nofoto">Sin foto verificada de este modelo</span>';
+    var cred = a.foto && a.fotoCred ? '<span class="cred">Foto: ' + (a.fotoUrl ? '<a href="' + esc(a.fotoUrl) + '" target="_blank" rel="noopener">' + esc(a.fotoCred) + '</a>' : esc(a.fotoCred)) + '</span>' : '';
+    el.innerHTML = vis + '<span class="mkk"><span class="dot" style="background:' + dot + '"></span>' + esc(a.marca) + '</span><span class="md">' + esc(a.modelo) + '</span><span class="vr">' + esc(ver(a)) + (a.anio ? ' · ' + a.anio : '') + '</span>' + cred;
+  }
+
+  // Qué favorece a cada auto, solo con datos verificados; lo que falta se dice
+  function trade(ra, rb) {
+    var el = $('trade'); if (!el) return;
+    if (st.a === st.b) { el.innerHTML = ''; return; }
+    var A = ra.a, B = rb.a, it = [], falta = [], gana = {};
+    function fav(r, txt, crit) { gana[r.k] = (gana[r.k] || 0) + 1; it.push('<li><span class="tk">' + crit + '</span><span><b>' + esc(r.a.modelo) + '</b>: ' + txt + '</span></li>'); }
+    var lo = ra.total <= rb.total ? ra : rb, hi = lo === ra ? rb : ra;
+    if (Math.round(hi.total - lo.total) > 0) fav(lo, mxn.format(hi.total - lo.total) + ' menos en cinco años, con estos supuestos.', 'Costo total');
+    if (st.modo === 'credito') { var pl = ra.pago <= rb.pago ? ra : rb, ph = pl === ra ? rb : ra; if (Math.round(ph.pago - pl.pago) > 0) fav(pl, mxn.format(ph.pago - pl.pago) + ' menos al mes con el mismo enganche (' + st.eng + '%) y plazo (' + st.plazo + ' meses).', 'Mensualidad'); }
+    if (A.rendOficial && B.rendOficial) { if (A.rend !== B.rend) { var cl = A.rend > B.rend ? ra : rb, cx = cl === ra ? rb : ra; fav(cl, cl.a.rend + ' km/l oficiales contra ' + cx.a.rend + ' km/l.', 'Consumo'); } }
+    else falta.push('rendimiento oficial de ' + [ra, rb].filter(function (r) { return !r.a.rendOficial; }).map(function (r) { return r.a.modelo; }).join(' y '));
+    if (A.bolsas && B.bolsas) { if (+A.bolsas !== +B.bolsas) { var bl = +A.bolsas > +B.bolsas ? ra : rb, bx = bl === ra ? rb : ra; fav(bl, bl.a.bolsas + ' bolsas de aire contra ' + bx.a.bolsas + '.', 'Seguridad'); } }
+    else falta.push('bolsas de aire');
+    if (A.aeb != null && B.aeb != null) { if (A.aeb !== B.aeb) fav(A.aeb ? ra : rb, 'trae frenado autónomo de emergencia y el otro no.', 'Seguridad'); }
+    else falta.push('frenado autónomo de emergencia');
+    if (A.body && B.body && A.body !== B.body) it.push('<li><span class="tk">Carrocería</span><span>' + esc(A.modelo) + ' es ' + (CARRO[A.body] || A.body) + '; ' + esc(B.modelo) + ' es ' + (CARRO[B.body] || B.body) + '. Piensa en tu uso: ciudad, familia o carga.</span></li>');
+    var ks = Object.keys(gana), cierre = ks.length > 1 ? 'Ninguno gana en todo: elige por lo que más pese en tu uso.' : ks.length === 1 ? 'En lo que podemos comparar con datos verificados, el ' + esc(AUTOS[ks[0]].modelo) + ' sale mejor. Revisa lo que falta antes de decidir.' : '';
+    el.innerHTML = '<h3>Qué favorece a cada uno</h3><ul>' + it.join('') + '</ul>' + (cierre ? '<p class="t-c">' + cierre + '</p>' : '')
+      + '<p class="t-f">' + (falta.length ? 'Por confirmar: ' + esc(falta.join(', ')) + '. ' : '') + 'No medimos manejo, confiabilidad ni costo de mantenimiento.' + (st.modo === 'credito' ? ' La mensualidad es una simulación con tasa de ejemplo de ' + v('tasa').toFixed(1) + '%, no una oferta de crédito aprobada.' : '') + '</p>';
+  }
 
   // Gráfica
   (function buildChart() {
@@ -75,7 +106,7 @@
 
   function ln(l, val, c) { return '<div class="ln' + (c ? ' ' + c : '') + '"><span>' + l + '</span><span>' + val + '</span></div>'; }
   function etq(el, k, r, dot) {
-    var a = r.a, h = '<span class="mkk"><span class="dot" style="display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;background:' + dot + '"></span>' + esc(a.marca) + '</span><h3>' + esc(a.modelo) + '</h3><span class="vr">' + esc(a.version) + (a.anio ? ' · ' + a.anio : '') + '</span><span class="tags">' + (a.versionOk ? '' : '<span class="tag">Versión por confirmar</span>') + (a.anio ? '<span class="tag">Año por confirmar</span>' : '<span class="tag">Año no informado por la fuente</span>') + '</span>';
+    var a = r.a, h = '<span class="mkk"><span class="dot" style="display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;background:' + dot + '"></span>' + esc(a.marca) + '</span><h3>' + esc(a.modelo) + '</h3><span class="vr">' + esc(ver(a)) + (a.anio ? ' · ' + a.anio : '') + '</span><span class="tags">' + (a.versionOk ? '' : '<span class="tag">Versión por confirmar</span>') + (a.anio ? '<span class="tag">Año por confirmar</span>' : '<span class="tag">Año no informado por la fuente</span>') + '</span>';
     h += '<span class="seal"><a href="' + a.ficha + '" style="font-weight:600">Ficha completa →</a></span><span class="seal"><span class="tag blue">Precio verificado</span><a href="' + a.url + '" target="_blank" rel="noopener">' + esc(a.fuente) + '</a> · ' + esc(a.fecha) + '</span><div class="lines">';
     if (a.oferta) { h += ln('Precio de lista', mxn.format(a.lista), r.aplica ? 'strike' : ''); h += ln(r.aplica ? 'Oferta' : 'Oferta (no aplica)', mxn.format(a.oferta), r.aplica ? '' : 'strike'); }
     else { h += ln('Precio de lista', mxn.format(a.lista)); h += ln('Oferta', 'Sin oferta publicada'); }
@@ -97,7 +128,7 @@
     if (st.modo === 'credito') { h += row('Enganche ' + st.eng + '%', function (r) { return mxn.format(r.eng); }); h += row('Mensualidad × ' + st.plazo, function (r) { return mxn.format(r.pago); }); h += row('Total de la compra', function (r) { return mxn.format(r.compra); }); }
     else h += row('Pago de contado', function (r) { return mxn.format(r.compra); });
     h += row('Seguro', function (r) { return mxn.format(r.seg5); }) + row('Gasolina', function (r) { return mxn.format(r.gas5); }) + row('Servicios', function (r) { return mxn.format(r.serv5); }) + row('Costo total', function (r) { return mxn.format(r.total); }, 'total') + row('Al día', function (r) { return mxn.format(r.dia); });
-    h += '</tbody></table><div class="src">' + [ra, rb].map(function (r) { return '<span><b>' + esc(r.a.modelo) + '</b> · ' + esc(r.a.version) + (r.a.versionOk ? '' : ' (por confirmar)') + ' · precio de <a href="' + r.a.url + '" target="_blank" rel="noopener">' + esc(r.a.fuente) + '</a>, ' + esc(r.a.fecha) + '</span>'; }).join('') + '</div>';
+    h += '</tbody></table><div class="src">' + [ra, rb].map(function (r) { return '<span><b>' + esc(r.a.modelo) + '</b> · ' + esc(ver(r.a)) + (r.a.versionOk ? '' : ' (por confirmar)') + ' · precio de <a href="' + r.a.url + '" target="_blank" rel="noopener">' + esc(r.a.fuente) + '</a>, ' + esc(r.a.fecha) + '</span>'; }).join('') + '</div>';
     [ra, rb].forEach(function (r) { if (r.a.oferta && !r.aplica) h += '<p class="cond warn"><b>' + esc(r.a.modelo) + ': ' + (r.a.exige === 'toma' ? 'la oferta exige dejar tu auto a cuenta.' : 'de contado la oferta no aplica.') + '</b> ' + esc(r.a.cond) + '</p>'; else if (r.a.cond) h += '<p class="cond"><b>' + esc(r.a.modelo) + ':</b> ' + esc(r.a.cond) + '</p>'; });
     h += '<div class="rends">' + [ra, rb].map(function (r) { return '<label>Rendimiento ' + esc(r.a.modelo) + ' (km/l)<input type="number" min="1" step="0.5" data-k="' + r.k + '" value="' + r.rend + '"></label>'; }).join('') + '</div>';
     $('dgm').innerHTML = h;
@@ -121,7 +152,7 @@
     $('figs').innerHTML = f;
     $('ta').dataset.v = prevA || 0; $('tb').dataset.v = prevB || 0;
     tween($('ta'), ra.total, dur); tween($('tb'), rb.total, dur);
-    chart(ra, rb);
+    chart(ra, rb); trade(ra, rb);
     $('seal').innerHTML = '<span class="tag blue">Precios verificados</span>' + [ra, rb].map(function (r) { return '<span>' + esc(r.a.modelo) + ': <a href="' + r.a.url + '" target="_blank" rel="noopener">' + esc(r.a.fuente) + '</a>, ' + esc(r.a.fecha) + '</span>'; }).join('');
     etq($('ea'), st.a, ra, '#000'); etq($('eb'), st.b, rb, '#d42a2c'); dgm(ra, rb);
     var rows = '<thead><tr><th scope="col">Dato</th><th scope="col">' + esc(ra.a.modelo) + '</th><th scope="col">' + esc(rb.a.modelo) + '</th></tr></thead><tbody>';
@@ -140,17 +171,24 @@
     if (!$('bud-o') || !$('fits')) return; // /comparar/ no trae la sección «¿Qué auto te alcanza?»
     $('bud-o').textContent = mxn.format(budget);
     var list = Object.keys(AUTOS).map(function (k) { return calc(k, 'credito'); }).sort(function (x, y) { return x.pago - y.pago; });
-    var n = list.filter(function (r) { return r.pago <= budget; }).length;
-    $('bud-s').textContent = n ? n + ' de ' + list.length + ' versiones te alcanzan con ' + st.eng + '% de enganche a ' + st.plazo + ' meses.' : 'Ninguna versión te alcanza todavía. Prueba subir el enganche o el plazo.';
-    var h = '';
-    list.forEach(function (r) {
-      var ok = r.pago <= budget, pct = Math.min(1, r.pago / 8000);
-      h += '<div class="fit' + (ok ? '' : ' over') + '"><div><div class="nm">' + esc(r.a.marca + ' ' + r.a.modelo) + '<small>' + esc(r.a.version) + '</small></div><div class="pay">Mensualidad <b>' + mxn.format(r.pago) + '</b> · precio ' + mxn.format(r.precio) + '</div></div><div class="side">' + (ok ? '<span class="tag dark">Te alcanza</span>' : '<span class="tag red">Te faltan ' + mxn.format(r.pago - budget) + ' al mes</span>') + '<button class="chip" type="button" data-pick="' + r.k + '">Comparar</button></div><div class="meter" aria-hidden="true"><i style="transform:scaleX(' + pct.toFixed(3) + ')"></i><b style="left:' + (budget / 8000 * 100).toFixed(2) + '%"></b></div></div>';
-    });
+    var ok = list.filter(function (r) { return r.pago <= budget; }), over = list.filter(function (r) { return r.pago > budget; });
+    var cerca = over.slice(0, 3), resto = over.slice(3);
+    var sup = st.eng + '% de enganche, ' + st.plazo + ' meses y tasa de ejemplo de ' + v('tasa').toFixed(1) + '%';
+    $('bud-s').textContent = ok.length ? ok.length + ' de ' + list.length + ' versiones te alcanzan con ' + sup + '.' : 'Ninguna versión te alcanza con ' + sup + '. Prueba subir el enganche o el plazo.';
+    function row(r) {
+      var si = r.pago <= budget, pct = Math.min(1, r.pago / 8000);
+      return '<div class="fit' + (si ? '' : ' over') + '"><div><div class="nm">' + esc(r.a.marca + ' ' + r.a.modelo) + '<small>' + esc(ver(r.a)) + '</small></div><div class="pay">Enganche <b>' + mxn.format(r.eng) + '</b> + mensualidad <b>' + mxn.format(r.pago) + '</b> · precio ' + mxn.format(r.precio) + '</div></div><div class="side">' + (si ? '<span class="tag dark">Te alcanza</span>' : '<span class="tag red">Te faltan ' + mxn.format(r.pago - budget) + ' al mes</span>') + '<button class="chip" type="button" data-pick="' + r.k + '">Comparar</button></div><div class="meter" aria-hidden="true"><i style="transform:scaleX(' + pct.toFixed(3) + ')"></i><b style="left:' + (budget / 8000 * 100).toFixed(2) + '%"></b></div></div>';
+    }
+    var h = ok.length ? '<h3 class="fit-h">Te alcanzan (' + ok.length + ')</h3>' + ok.map(row).join('') : '';
+    if (cerca.length) h += '<h3 class="fit-h">' + (ok.length ? 'Cerca de tu presupuesto' : 'Las más cercanas a tu presupuesto') + '</h3>' + cerca.map(row).join('');
+    if (resto.length) h += showAll ? '<h3 class="fit-h">Más opciones</h3>' + resto.map(row).join('') + '<button class="pill p-glass fit-more" type="button" data-more aria-expanded="true">Ver menos</button>'
+      : '<button class="pill p-glass fit-more" type="button" data-more aria-expanded="false">Ver ' + resto.length + ' opciones más caras</button>';
     $('fits').innerHTML = h;
   }
+  var showAll = false;
   if ($('bud')) $('bud').addEventListener('input', function (e) { budget = +e.target.value; explore(); trackIdle('presupuesto_explorar', function () { return { herramienta: 'presupuesto', mensualidad: budget }; }); });
   if ($('fits')) $('fits').addEventListener('click', function (e) {
+    if (e.target.closest('[data-more]')) { showAll = !showAll; explore(); var m = $('fits').querySelector('[data-more]'); if (m) m.focus(); return; }
     var b = e.target.closest('[data-pick]'); if (!b) return;
     var k = b.dataset.pick; if (k === st.a) { st.a = st.b; st.b = k; } else st.b = k;
     render(400); to('comparar'); track('comparar_autos', cmpEv()); toast('Cargamos el ' + AUTOS[k].modelo + ' en el comparador.');
@@ -174,7 +212,7 @@
   $('b-copy').addEventListener('click', function () {
     track('comparar_copiar', cmpEv());
     var ra = calc(st.a), rb = calc(st.b);
-    function c(r) { return r.a.marca + ' ' + r.a.modelo + ' ' + r.a.version + ': precio ' + mxn.format(r.precio) + (st.modo === 'credito' ? ', mensualidad ' + mxn.format(r.pago) + ' x ' + st.plazo : ' de contado') + ', costo total 5 años ' + mxn.format(r.total) + '. Precio: ' + r.a.fuente + ', ' + r.a.fecha + '.'; }
+    function c(r) { return r.a.marca + ' ' + r.a.modelo + ' ' + ver(r.a) + ': precio ' + mxn.format(r.precio) + (st.modo === 'credito' ? ', mensualidad ' + mxn.format(r.pago) + ' x ' + st.plazo : ' de contado') + ', costo total 5 años ' + mxn.format(r.total) + '. Precio: ' + r.a.fuente + ', ' + r.a.fecha + '.'; }
     var txt = 'Mi comparación ComparaMotor\n' + c(ra) + '\n' + c(rb) + '\nTasa de ejemplo ' + v('tasa') + '%, CAT capturado ' + v('cat') + '% sin IVA.';
     var ok = function () { toast('Copiado. Pégalo en WhatsApp.'); };
     var fb = function () { var ta = document.createElement('textarea'); ta.value = txt; ta.setAttribute('readonly', ''); ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); ok(); } catch (er) { toast('Selecciona y copia el texto a mano.'); } ta.remove(); };
