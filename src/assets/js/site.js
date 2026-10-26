@@ -61,14 +61,14 @@
     }
   }
 
-  // Aviso de cookies (Consent Mode: medición solo si la persona acepta)
+  // Aviso de medición: Analytics activo por defecto (consentimiento tácito, LFPDPPP); «No medir» lo apaga
   var bar = $('consent-bar'), cons = store.get('cm-consent', null);
   if (bar && cons == null) bar.hidden = false;
   document.addEventListener('click', function (e) {
     var b = e.target.closest('[data-consent]'); if (!b) return;
     var v = b.dataset.consent; store.set('cm-consent', v); if (bar) bar.hidden = true;
     if (v === 'si' && typeof window.cmLoadGTM === 'function') window.cmLoadGTM();
-    if (v === 'no') toast('Listo: sin cookies de medición.');
+    if (v === 'no') { try { window['ga-disable-G-18S7MKFTPF'] = true; if (typeof window.gtag === 'function') window.gtag('consent', 'update', { analytics_storage: 'denied' }); } catch (er) {} toast('Listo: ya no medimos tus visitas.'); }
   });
   var reopen = $('cookies-cambiar');
   if (reopen) reopen.addEventListener('click', function () { if (bar) bar.hidden = false; });

@@ -288,3 +288,9 @@ a.tile:active { transform: translateY(0) scale(.99); }
 .foto.sin-recorte img { height: auto; object-fit: contain; display: block; }
 .foto.sin-recorte .credito { position: static; display: block; padding: 6px 2px 0; background: none; color: var(--body); }
 .foto.sin-recorte .credito a { color: inherit; }
+
+/* Aviso ligero de medición: franja pequeña, no bloquea nada */
+.consent.consent-lite { max-width: 640px; padding: 10px 12px 10px 16px; border-radius: 14px; font-size: 13px; line-height: 18px; gap: 10px; }
+.consent.consent-lite p { margin: 0; color: var(--on-night); }
+.consent.consent-lite .pill { min-height: 34px; padding: 6px 14px; font-size: 13px; }
+@media (max-width: 640px) { .consent.consent-lite { flex-direction: row; align-items: center; flex-wrap: wrap; bottom: calc(10px + env(safe-area-inset-bottom, 0px)); left: 10px; right: 10px; } .consent.consent-lite p { flex: 1 1 100%; } .consent.consent-lite div { flex: 1 1 100%; justify-content: flex-end; } .consent.consent-lite div > * { flex: 0 0 auto; } }

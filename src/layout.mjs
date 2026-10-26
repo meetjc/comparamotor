@@ -102,7 +102,7 @@ ${noindex ? '<meta name="robots" content="noindex, follow">' : '<meta name="robo
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..800&family=Geist+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@800&display=swap">
 <link rel="stylesheet" href="${ctx.asset('css/site.css')}">
-${gtm ? `<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied'});window.cmLoadGTM=function(){if(window.cmGTM)return;window.cmGTM=1;gtag('consent','update',{analytics_storage:'granted'});dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});var j=document.createElement('script');j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id=${gtm}';document.head.appendChild(j);};try{var cm=localStorage.getItem('cm-consent');if(cm==='si'||cm==='"si"')window.cmLoadGTM();}catch(e){}</script>` : ''}
+${gtm ? `<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied'});window.cmLoadGTM=function(){if(window.cmGTM)return;window.cmGTM=1;gtag('consent','update',{analytics_storage:'granted'});dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});var j=document.createElement('script');j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id=${gtm}';document.head.appendChild(j);};var cm=null;try{cm=localStorage.getItem('cm-consent');}catch(e){}if(cm!=='no'&&cm!=='"no"')window.cmLoadGTM();</script>` : ''}
 ${lds.join('\n')}
 ${extraHead}
 </head>
@@ -124,7 +124,7 @@ ${heroDark ? '' : `<div class="page-top">${crumbs(ctx, crumbsItems)}${subnav(ctx
 ${body}
 </main>
 ${footer(ctx, updated)}
-${gtm ? `<div class="consent" id="consent-bar" hidden><p>Usamos cookies de medición (Google Analytics) para saber qué páginas sirven. Puedes aceptarlas o seguir sin ellas. <a href="${ctx.u('/aviso-de-privacidad/')}">Aviso de privacidad</a>.</p><div><button class="pill p-subtle" type="button" data-consent="no">Solo necesarias</button><button class="pill p-primary" type="button" data-consent="si">Aceptar medición</button></div></div>` : ''}
+${gtm ? `<div class="consent consent-lite" id="consent-bar" role="region" aria-label="Aviso de medición" hidden><p>Por ahora este sitio no muestra publicidad de ningún tipo. Solo medimos las visitas con Google Analytics para saber qué páginas sirven. <a href="${ctx.u('/aviso-de-privacidad/')}">Aviso de privacidad</a>.</p><div><button class="pill p-subtle" type="button" data-consent="no">No medir</button><button class="pill p-primary" type="button" data-consent="si">Entendido</button></div></div>` : ''}
 ${dataJSON ? `<script type="application/json" id="cm-data">${JSON.stringify(dataJSON).replace(/</g, '\\u003c')}</script>` : ''}
 <script src="${ctx.asset('js/site.js')}" defer></script>
 </body>
