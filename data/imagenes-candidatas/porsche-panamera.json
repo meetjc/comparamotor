@@ -1,0 +1,48 @@
+{
+  "marca": "Porsche",
+  "modelo": "Panamera",
+  "marcaSlug": "porsche",
+  "modeloSlug": "panamera",
+  "generacionMexico": "Panamera 3.ª generación 972 (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Porsche_972_Turbo_E-Hybrid_IMG_0445_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Porsche_972_Turbo_E-Hybrid_IMG_0445_(cropped).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander-93",
+      "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5337,
+      "alto": 2500,
+      "anioOGeneracion": "2024 · Panamera 3.ª generación 972 (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Porsche 972 Turbo E-Hybrid IMG 0445 (cropped). Foto de 2024. Categoría Commons: Porsche 972 Panamera Turbo E-Hybrid. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Panamera 3.ª generación 972 (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Porsche_Panamera_4_%28type_972%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Porsche_Panamera_4_(type_972)_front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Tokumeigakarinoaoshima",
+      "credito": "Foto: Tokumeigakarinoaoshima / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 2560,
+      "alto": 1920,
+      "anioOGeneracion": "2025 · Panamera 3.ª generación 972 (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Porsche Panamera 4 (type 972) front. Foto de 2025. Categoría Commons: Porsche 972 Panamera 4. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Panamera 3.ª generación 972 (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

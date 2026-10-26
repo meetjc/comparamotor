@@ -1,0 +1,48 @@
+{
+  "marca": "Tesla",
+  "modelo": "Model Y",
+  "marcaSlug": "tesla",
+  "modeloSlug": "model-y",
+  "generacionMexico": "Model Y con el rediseño 2025 (Juniper)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Model_Y_Standard_front_view_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Standard_front_view_dllu.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Dllu",
+      "credito": "Foto: Dllu / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 11526,
+      "alto": 8575,
+      "anioOGeneracion": "2025 · Model Y con el rediseño 2025 (Juniper)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Tesla Model Y Standard front view dllu. Foto de 2025. Categoría Commons: Tesla Model Y (2025). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Model Y con el rediseño 2025 (Juniper)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/2025_Tesla_Model_Y_RWD_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Tesla_Model_Y_RWD_front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "LuvsMG481",
+      "credito": "Foto: LuvsMG481 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5966,
+      "alto": 2623,
+      "anioOGeneracion": "2025 · Model Y con el rediseño 2025 (Juniper)",
+      "angulo": "perfil",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Tesla Model Y RWD front. Foto de 2025. Categoría Commons: Tesla Model Y (2025). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Model Y con el rediseño 2025 (Juniper)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

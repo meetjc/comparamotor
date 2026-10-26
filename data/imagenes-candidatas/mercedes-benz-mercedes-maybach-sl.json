@@ -1,0 +1,48 @@
+{
+  "marca": "Mercedes-Benz",
+  "modelo": "Mercedes-Maybach SL",
+  "marcaSlug": "mercedes-benz",
+  "modeloSlug": "mercedes-maybach-sl",
+  "generacionMexico": "Mercedes-Maybach SL 680 Monogram (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mercedes-Maybach_SL_680_Monogram_IMG_2927.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-Maybach_SL_680_Monogram_IMG_2927.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4342,
+      "alto": 2566,
+      "anioOGeneracion": "2025 · Mercedes-Maybach SL 680 Monogram (2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Mercedes-Maybach SL 680 Monogram IMG 2927. Foto de 2025. Categoría Commons: Mercedes-Maybach SL 680 Monogram. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Mercedes-Maybach SL 680 Monogram (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mercedes-Maybach_SL_680_Monogram_IMG_2929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-Maybach_SL_680_Monogram_IMG_2929.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4286,
+      "alto": 2597,
+      "anioOGeneracion": "2025 · Mercedes-Maybach SL 680 Monogram (2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Mercedes-Maybach SL 680 Monogram IMG 2929. Foto de 2025. Categoría Commons: Mercedes-Maybach SL 680 Monogram. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Mercedes-Maybach SL 680 Monogram (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

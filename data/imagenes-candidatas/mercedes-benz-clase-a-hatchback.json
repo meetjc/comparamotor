@@ -1,0 +1,48 @@
+{
+  "marca": "Mercedes-Benz",
+  "modelo": "Clase A Hatchback",
+  "marcaSlug": "mercedes-benz",
+  "modeloSlug": "clase-a-hatchback",
+  "generacionMexico": "Clase A W177 con el rediseño 2023",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Mercedes-Benz_W177_%282022%29_DSC_8808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W177_(2022)_DSC_8808.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4188,
+      "alto": 2340,
+      "anioOGeneracion": "2025 · Clase A W177 con el rediseño 2023",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Mercedes-Benz W177 (2022) DSC 8808. Foto de 2025. Categoría Commons: Mercedes-Benz W177 (2022–). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Clase A W177 con el rediseño 2023). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-Benz_W177_%282022%29_1X7A6957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W177_(2022)_1X7A6957.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander-93",
+      "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5079,
+      "alto": 2656,
+      "anioOGeneracion": "2023 · Clase A W177 con el rediseño 2023",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Mercedes-Benz W177 (2022) 1X7A6957. Foto de 2023. Categoría Commons: Mercedes-Benz W177 (2022–). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Clase A W177 con el rediseño 2023). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

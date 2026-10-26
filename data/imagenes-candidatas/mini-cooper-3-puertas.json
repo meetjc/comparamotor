@@ -1,0 +1,48 @@
+{
+  "marca": "MINI",
+  "modelo": "Cooper 3 Puertas",
+  "marcaSlug": "mini",
+  "modeloSlug": "cooper-3-puertas",
+  "generacionMexico": "Cooper 3 puertas F66 (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/2024_MINI_Cooper_Sport_C_-_1499cc_1.5_%28156PS%29_Petrol_-_Nanuq_White_-_06-2024%2C_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_MINI_Cooper_Sport_C_-_1499cc_1.5_(156PS)_Petrol_-_Nanuq_White_-_06-2024,_Front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Harvey Bold",
+      "credito": "Foto: Harvey Bold / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 4458,
+      "alto": 2394,
+      "anioOGeneracion": "2024 · Cooper 3 puertas F66 (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 MINI Cooper Sport C - 1499cc 1.5 (156PS) Petrol - Nanuq White - 06-2024, Front. Foto de 2024. Categoría Commons: Mini Cooper (F66). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Cooper 3 puertas F66 (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/2024_MINI_Cooper_Sport_C_-_1499cc_1.5_%28156PS%29_Petrol_-_Nanuq_White_-_06-2024%2C_Rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_MINI_Cooper_Sport_C_-_1499cc_1.5_(156PS)_Petrol_-_Nanuq_White_-_06-2024,_Rear.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Harvey Bold",
+      "credito": "Foto: Harvey Bold / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 4332,
+      "alto": 2340,
+      "anioOGeneracion": "2024 · Cooper 3 puertas F66 (2024+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 MINI Cooper Sport C - 1499cc 1.5 (156PS) Petrol - Nanuq White - 06-2024, Rear. Foto de 2024. Categoría Commons: Mini Cooper (F66). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Cooper 3 puertas F66 (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

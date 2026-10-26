@@ -1,0 +1,48 @@
+{
+  "marca": "Lexus",
+  "modelo": "UX",
+  "marcaSlug": "lexus",
+  "modeloSlug": "ux",
+  "generacionMexico": "UX con el rediseño 2023",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lexus_UX_250h_1X7A0837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Lexus_UX_250h_1X7A0837.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander-93",
+      "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4362,
+      "alto": 2701,
+      "anioOGeneracion": "2023 · UX con el rediseño 2023",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Lexus UX 250h 1X7A0837. Foto de 2023. Categoría Commons: Lexus UX 250h (MZAH10/MZAH15). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (UX con el rediseño 2023). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/2019_Lexus_UX250h_Plus_HEV_-_1987cc_2.0_%28184PS%29_Petrol_Hybrid_-_Silver_-_11-2024%2C_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2019_Lexus_UX250h_Plus_HEV_-_1987cc_2.0_(184PS)_Petrol_Hybrid_-_Silver_-_11-2024,_Front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Harvey Bold",
+      "credito": "Foto: Harvey Bold / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4598,
+      "alto": 2535,
+      "anioOGeneracion": "2024 · UX con el rediseño 2023",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2019 Lexus UX250h Plus HEV - 1987cc 2.0 (184PS) Petrol Hybrid - Silver - 11-2024, Front. Foto de 2024. Categoría Commons: Lexus UX 250h (MZAH10/MZAH15). Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (UX con el rediseño 2023). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

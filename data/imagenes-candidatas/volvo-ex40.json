@@ -1,0 +1,48 @@
+{
+  "marca": "Volvo",
+  "modelo": "EX40",
+  "marcaSlug": "volvo",
+  "modeloSlug": "ex40",
+  "generacionMexico": "EX40 (antes XC40 Recharge, 2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Volvo_XC40_Recharge_Facelift_IMG_8127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Volvo_XC40_Recharge_Facelift_IMG_8127.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander-93",
+      "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5125,
+      "alto": 3411,
+      "anioOGeneracion": "2023 · EX40 (antes XC40 Recharge, 2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Volvo XC40 Recharge Facelift IMG 8127. Foto de 2023. Categoría Commons: Volvo XC40 Recharge. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (EX40 (antes XC40 Recharge, 2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/VOLVO_XC40_RECHARGE_China_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:VOLVO_XC40_RECHARGE_China_(3).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Dinkun Chen",
+      "credito": "Foto: Dinkun Chen / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 7529,
+      "alto": 4673,
+      "anioOGeneracion": "2023 · EX40 (antes XC40 Recharge, 2024+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: VOLVO XC40 RECHARGE China (3). Foto de 2023. Categoría Commons: Volvo XC40 Recharge. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (EX40 (antes XC40 Recharge, 2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}
