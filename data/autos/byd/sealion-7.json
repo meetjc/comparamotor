@@ -19,12 +19,12 @@
       "potenciaHp": null,
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 456,
-      "bolsasAire": 9,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.byd.com/mx/car/sealion-7-ev",
       "fechaVerificacion": "2026-10-25",
-      "notas": "SUV coupé eléctrico de tracción integral, 0-100 km/h en 4.5 s. Autonomía WLTC de 456 km. Carga DC hasta 150 kW (30-80% en 30 min) y AC 7 kW. 9 bolsas de aire inferidas de la ficha (frontales, laterales delanteras y traseras, cortina y central delantera). Frenado automático de emergencia según la ficha. Precio del configurador oficial (código CX017028)."
+      "notas": "SUV coupé eléctrico de tracción integral, 0-100 km/h en 4.5 s. Autonomía WLTC de 456 km. Carga DC hasta 150 kW (30-80% en 30 min) y AC 7 kW. Bolsas de aire inferidas de la ficha (frontales, laterales delanteras y traseras, cortina y central delantera); la ficha oficial no da el número total, por eso no se publica una cifra. Frenado automático de emergencia según la ficha. Precio del configurador oficial (código CX017028)."
     }
   ],
   "garantia": {

@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 19.6,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/emgrand",
       "fechaVerificacion": "2026-10-25",
-      "notas": "121 hp @ 6,300 rpm y 152 Nm, manual de 5 velocidades. Rendimiento de laboratorio: ciudad 16.65, carretera 25.02 y combinado 19.60 km/l. 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\", cámara de reversa, faros de halógeno."
+      "notas": "121 hp @ 6,300 rpm y 152 Nm, manual de 5 velocidades. Rendimiento de laboratorio: ciudad 16.65, carretera 25.02 y combinado 19.60 km/l. 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\", cámara de reversa, faros de halógeno. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "GL",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 16.42,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/emgrand",
       "fechaVerificacion": "2026-10-25",
-      "notas": "121 hp y 152 Nm, automática de 6 velocidades. Rendimiento de laboratorio: ciudad 14.58, carretera 19.41 y combinado 16.42 km/l. 6 bolsas de aire. La ficha no incluye frenado autónomo de emergencia. Llave inteligente, freno de mano eléctrico con Auto-Hold."
+      "notas": "121 hp y 152 Nm, automática de 6 velocidades. Rendimiento de laboratorio: ciudad 14.58, carretera 19.41 y combinado 16.42 km/l. 6 bolsas de aire. La ficha no incluye frenado autónomo de emergencia. Llave inteligente, freno de mano eléctrico con Auto-Hold. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "GF",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 16.42,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/emgrand",
       "fechaVerificacion": "2026-10-25",
-      "notas": "121 hp y 152 Nm, automática de 6 velocidades. Rendimiento combinado de laboratorio 16.42 km/l. 6 bolsas de aire. La ficha no incluye frenado autónomo de emergencia. Pantalla de 12.3\" con CarPlay, piel sintética, techo corredizo, control crucero."
+      "notas": "121 hp y 152 Nm, automática de 6 velocidades. Rendimiento combinado de laboratorio 16.42 km/l. 6 bolsas de aire. La ficha no incluye frenado autónomo de emergencia. Pantalla de 12.3\" con CarPlay, piel sintética, techo corredizo, control crucero. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

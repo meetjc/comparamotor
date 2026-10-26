@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 11.4,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/colorado-camioneta-todoterreno-4x4/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,044,000 y precio financiado o de arrendamiento $1,044,000 (ver ofertas). Automática de 8 velocidades, tracción 4x4. La ficha lista \"asistente de colisión frontal\" sin decir si frena de forma automática."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,044,000 y precio financiado o de arrendamiento $1,044,000 (ver ofertas). Automática de 8 velocidades, tracción 4x4. La ficha lista \"asistente de colisión frontal\" sin decir si frena de forma automática. La ficha técnica marca el asistente de colisión frontal en esta versión; la página del modelo dice que frena de forma automática por debajo de 80 km/h."
     },
     {
       "nombre": "ZR2",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 10.0,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/colorado-camioneta-todoterreno-4x4/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,177,700 y precio financiado o de arrendamiento $1,177,700 (ver ofertas). Automática de 8 velocidades, tracción 4x4, suspensión todoterreno."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,177,700 y precio financiado o de arrendamiento $1,177,700 (ver ofertas). Automática de 8 velocidades, tracción 4x4, suspensión todoterreno. La ficha técnica marca el asistente de colisión frontal en esta versión; la página del modelo dice que frena de forma automática por debajo de 80 km/h."
     }
   ],
   "garantia": {
@@ -92,7 +92,6 @@
     }
   ],
   "pendientes": [
-    "Frenado autónomo de emergencia sin confirmar (\"asistente de colisión frontal\").",
     "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
   ]
 }

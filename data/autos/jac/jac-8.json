@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 13.8,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
       "url": "https://www.jac.mx/jac8",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2027. Doble embrague de 7 velocidades, 172 hp @ 5,500 rpm, tracción delantera, 3 filas (6 pasajeros). 6 bolsas de aire (conductor, pasajero, 2 laterales y 2 de cortina). Incluye monitoreo de punto ciego y alerta de tráfico cruzado; la ficha no incluye frenado autónomo de emergencia."
+      "notas": "Año modelo 2027. Doble embrague de 7 velocidades, 172 hp @ 5,500 rpm, tracción delantera, 3 filas (6 pasajeros). 6 bolsas de aire (conductor, pasajero, 2 laterales y 2 de cortina). Incluye monitoreo de punto ciego y alerta de tráfico cruzado; la ficha no incluye frenado autónomo de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Limited DCT",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 13.8,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
       "url": "https://www.jac.mx/jac8",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026, misma versión Limited. Datos técnicos de la ficha oficial (publicada como año 2027)."
+      "notas": "Año modelo 2026, misma versión Limited. Datos técnicos de la ficha oficial (publicada como año 2027). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

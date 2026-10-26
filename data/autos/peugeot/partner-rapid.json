@@ -17,14 +17,14 @@
       "transmision": "manual",
       "motor": "1.3 L 4 cil. (FireFly)",
       "potenciaHp": 97,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 17.34,
       "autonomiaKm": null,
       "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/peugeot-partner-rapid.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Van compacta de carga: 3.3 m³ y hasta 650 kg. Manual de 5 velocidades. La marca anuncia hasta 21.13 km/l sin decir si es combinado. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Van compacta de carga: 3.3 m³ y hasta 650 kg. Manual de 5 velocidades. La marca anuncia hasta 21.13 km/l sin decir si es combinado. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Rendimiento combinado 17.34 km/l (ciudad 15.12, carretera 21.13) según la ficha técnica oficial año modelo 2026."
     }
   ],
   "garantia": {
@@ -43,10 +43,15 @@
       "nombre": "Lista oficial de precios Peugeot",
       "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Peugeot Partner Rapid 2026",
+      "url": "https://www.peugeot.com.mx/content/dam/peugeot/mexico/b2c/tools/brochure/apr-26/FT_PARTNER_RAPID_FIREFLY_MY26_ENE26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento combinado, bolsas de aire y frenado autónomo: no publicados en la página",
+    "Número total de bolsas de aire y frenado autónomo: la ficha técnica 2026 solo lista bolsas frontales para conductor y pasajero y asistencias básicas, sin marcar frenado autónomo",
     "Es un vehículo de la misma base que la RAM ProMaster Rapid"
   ]
 }

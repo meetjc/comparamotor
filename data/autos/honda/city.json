@@ -17,14 +17,14 @@
       "transmision": "cvt",
       "motor": "1.5 L 4 cil. i-VTEC",
       "potenciaHp": 119,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 20.8,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": false,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/city",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor 1.5 L i-VTEC 119 hp @ 6,600 rpm y 107 lb-pie; transmisión CVT; 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina según la ficha). Precio con IVA de la ficha oficial (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Honda Sensing (incluido el CMBS) aparece como no disponible en esta versión en el comparador oficial."
+      "notas": "Motor 1.5 L i-VTEC 119 hp @ 6,600 rpm y 107 lb-pie; transmisión CVT; 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina según la ficha). Precio con IVA de la ficha oficial (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Honda Sensing (incluido el CMBS) aparece como no disponible en esta versión en el comparador oficial. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     },
     {
       "nombre": "Prime CVT",
@@ -34,14 +34,14 @@
       "transmision": "cvt",
       "motor": "1.5 L 4 cil. i-VTEC",
       "potenciaHp": 119,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 20.8,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": false,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/city",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor 1.5 L i-VTEC 119 hp @ 6,600 rpm y 107 lb-pie; transmisión CVT; 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina según la ficha). Precio con IVA de la ficha oficial (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Honda Sensing (incluido el CMBS) aparece como no disponible en esta versión en el comparador oficial. Añade paletas de cambio en el volante."
+      "notas": "Motor 1.5 L i-VTEC 119 hp @ 6,600 rpm y 107 lb-pie; transmisión CVT; 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina según la ficha). Precio con IVA de la ficha oficial (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Honda Sensing (incluido el CMBS) aparece como no disponible en esta versión en el comparador oficial. Añade paletas de cambio en el volante. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     },
     {
       "nombre": "Touring CVT",
@@ -51,14 +51,14 @@
       "transmision": "cvt",
       "motor": "1.5 L 4 cil. i-VTEC",
       "potenciaHp": 119,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 20.8,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/city",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor 1.5 L i-VTEC 119 hp @ 6,600 rpm y 107 lb-pie; transmisión CVT; 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina según la ficha). Precio con IVA de la ficha oficial (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Incluye Honda Sensing con Sistema de Mitigación de Colisión con Frenado (CMBS) y alerta de colisión frontal según el comparador oficial."
+      "notas": "Motor 1.5 L i-VTEC 119 hp @ 6,600 rpm y 107 lb-pie; transmisión CVT; 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina según la ficha). Precio con IVA de la ficha oficial (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Incluye Honda Sensing con Sistema de Mitigación de Colisión con Frenado (CMBS) y alerta de colisión frontal según el comparador oficial. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     }
   ],
   "garantia": {
@@ -85,10 +85,14 @@
       "nombre": "Brochure oficial Honda City",
       "url": "https://www.honda.mx/web/pdf/brochure/honda/Brochure_CITY_2026.pdf",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento combinado oficial de combustible (la ficha de honda.mx no lo publica)",
     "Garantía oficial (honda.mx no la publica en la ficha del modelo)",
     "Bolsas de aire: 6 es la suma de las que lista la ficha (2 frontales, 2 laterales, 2 de cortina); la ficha no da la cifra total"
   ]

@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "2.0 L Turbo 4 cil.",
       "potenciaHp": 201,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 12.9,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/rx9",
       "fechaVerificacion": "2026-10-25",
-      "notas": "SUV de 3 filas y 7 pasajeros. Motor 2.0 L turbo de 4 cilindros, 201 hp y 258 lb-pie, automática de 9 velocidades. 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina). Según la ficha, el frenado autónomo de emergencia y el control crucero adaptativo son solo de Premier. El sitio muestra además un precio especial de $577,000 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+      "notas": "SUV de 3 filas y 7 pasajeros. Motor 2.0 L turbo de 4 cilindros, 201 hp y 258 lb-pie, automática de 9 velocidades. 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina). Según la ficha, el frenado autónomo de emergencia y el control crucero adaptativo son solo de Premier. El sitio muestra además un precio especial de $577,000 sin condiciones ni vigencia publicadas (no se registra como oferta). Rendimiento combinado de 12.9 km/l (ciudad 11.2, carretera 15.9) según la tabla de la ficha técnica 2025, que da el mismo valor para Elegance y Premier. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Premier AT",
@@ -34,14 +34,14 @@
       "transmision": "automatica",
       "motor": "2.0 L Turbo 4 cil.",
       "potenciaHp": 201,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 12.9,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
       "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/rx9",
       "fechaVerificacion": "2026-10-25",
-      "notas": "SUV de 3 filas y 7 pasajeros. Motor 2.0 L turbo de 4 cilindros, 201 hp y 258 lb-pie, automática de 9 velocidades. 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina). MG Pilot (nivel 2) con frenado autónomo de emergencia, audio Bose de 12 bocinas, asientos delanteros ventilados y calefactados. El sitio muestra además un precio especial de $729,900 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+      "notas": "SUV de 3 filas y 7 pasajeros. Motor 2.0 L turbo de 4 cilindros, 201 hp y 258 lb-pie, automática de 9 velocidades. 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina). MG Pilot (nivel 2) con frenado autónomo de emergencia, audio Bose de 12 bocinas, asientos delanteros ventilados y calefactados. El sitio muestra además un precio especial de $729,900 sin condiciones ni vigencia publicadas (no se registra como oferta). Rendimiento combinado de 12.9 km/l (ciudad 11.2, carretera 15.9) según la tabla de la ficha técnica 2025, que da el mismo valor para Elegance y Premier."
     }
   ],
   "garantia": {
@@ -68,7 +68,6 @@
     }
   ],
   "pendientes": [
-    "Rendimiento combinado oficial: la ficha del RX9 2025 no lo publica",
     "Precios especiales: el sitio los muestra junto al precio de lista sin vigencia ni condiciones; la página de promociones dice \"Muy pronto, promociones exclusivas para ti\" y el PDF de legales de octubre 2026 venció el 6 de octubre, por eso no se cargaron como ofertas"
   ]
 }

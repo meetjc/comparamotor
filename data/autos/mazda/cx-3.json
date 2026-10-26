@@ -19,12 +19,12 @@
       "potenciaHp": 148,
       "rendimientoCombinadoKmL": 17.1,
       "autonomiaKm": null,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Mazda México (sitio oficial: página del modelo y ficha técnica con lista de precios)",
       "url": "https://www.mazda.mx/vehiculos/cx-3",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades, tracción delantera. 6 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina). Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
+      "notas": "Automática de 6 velocidades, tracción delantera. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina); la ficha oficial no da el número total, por eso no se publica una cifra. Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
     },
     {
       "nombre": "i Sport",
@@ -36,12 +36,12 @@
       "potenciaHp": 148,
       "rendimientoCombinadoKmL": 17.3,
       "autonomiaKm": null,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Mazda México (sitio oficial: página del modelo y ficha técnica con lista de precios)",
       "url": "https://www.mazda.mx/vehiculos/cx-3",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades, tracción delantera. 6 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina). Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
+      "notas": "Automática de 6 velocidades, tracción delantera. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina); la ficha oficial no da el número total, por eso no se publica una cifra. Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
     }
   ],
   "garantia": {

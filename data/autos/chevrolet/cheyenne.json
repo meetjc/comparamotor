@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 10.0,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,051,100 y precio financiado o de arrendamiento $1,051,100 (ver ofertas). Automática de 10 velocidades. La ficha lista \"asistente de colisión frontal\" sin decir si frena de forma automática."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,051,100 y precio financiado o de arrendamiento $1,051,100 (ver ofertas). Automática de 10 velocidades. La ficha lista \"asistente de colisión frontal\" sin decir si frena de forma automática. La ficha técnica marca el asistente de colisión frontal en esta versión. Chevrolet México define la asistencia de colisión frontal como un sistema que, si el conductor no reacciona ante una posible colisión, «automáticamente asiste con el sistema de frenado» (páginas de Tahoe, Suburban y Colorado en chevrolet.com.mx, revisadas el 25 oct 2026)."
     },
     {
       "nombre": "RST Doble Cabina 4x4",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 10.0,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,313,300 y precio financiado o de arrendamiento $1,123,300 (ver ofertas). Automática de 10 velocidades."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,313,300 y precio financiado o de arrendamiento $1,123,300 (ver ofertas). Automática de 10 velocidades. La ficha técnica marca el asistente de colisión frontal en esta versión. Chevrolet México define la asistencia de colisión frontal como un sistema que, si el conductor no reacciona ante una posible colisión, «automáticamente asiste con el sistema de frenado» (páginas de Tahoe, Suburban y Colorado en chevrolet.com.mx, revisadas el 25 oct 2026)."
     },
     {
       "nombre": "High Country Doble Cabina 4x4 6.2L",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 9.2,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,632,900 y precio financiado o de arrendamiento $1,442,900 (ver ofertas). Automática de 10 velocidades."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,632,900 y precio financiado o de arrendamiento $1,442,900 (ver ofertas). Automática de 10 velocidades. La ficha técnica marca el asistente de colisión frontal en esta versión. Chevrolet México define la asistencia de colisión frontal como un sistema que, si el conductor no reacciona ante una posible colisión, «automáticamente asiste con el sistema de frenado» (páginas de Tahoe, Suburban y Colorado en chevrolet.com.mx, revisadas el 25 oct 2026)."
     },
     {
       "nombre": "ZR2 Doble Cabina 4x4",
@@ -71,11 +71,11 @@
       "rendimientoCombinadoKmL": 9.2,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,696,700 y precio financiado o de arrendamiento $1,506,700 (ver ofertas). Automática de 10 velocidades, suspensión con amortiguadores Multimatic."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,696,700 y precio financiado o de arrendamiento $1,506,700 (ver ofertas). Automática de 10 velocidades, suspensión con amortiguadores Multimatic. La ficha técnica marca el asistente de colisión frontal en esta versión. Chevrolet México define la asistencia de colisión frontal como un sistema que, si el conductor no reacciona ante una posible colisión, «automáticamente asiste con el sistema de frenado» (páginas de Tahoe, Suburban y Colorado en chevrolet.com.mx, revisadas el 25 oct 2026)."
     },
     {
       "nombre": "ZR2 Bison Doble Cabina 4x4",
@@ -88,11 +88,11 @@
       "rendimientoCombinadoKmL": 9.2,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,866,900 y precio financiado o de arrendamiento $1,676,900 (ver ofertas). Automática de 10 velocidades, equipo todoterreno AEV."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,866,900 y precio financiado o de arrendamiento $1,676,900 (ver ofertas). Automática de 10 velocidades, equipo todoterreno AEV. La ficha técnica marca el asistente de colisión frontal en esta versión. Chevrolet México define la asistencia de colisión frontal como un sistema que, si el conductor no reacciona ante una posible colisión, «automáticamente asiste con el sistema de frenado» (páginas de Tahoe, Suburban y Colorado en chevrolet.com.mx, revisadas el 25 oct 2026)."
     }
   ],
   "garantia": {
@@ -171,7 +171,6 @@
   ],
   "pendientes": [
     "Motor por versión deducido del rendimiento de la ficha (5.3 L: 10 km/l; 6.2 L: 9.2 km/l), porque la tabla de motores no distingue columnas en el texto del PDF.",
-    "Frenado autónomo de emergencia sin confirmar.",
     "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
   ]
 }

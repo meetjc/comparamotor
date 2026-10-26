@@ -17,14 +17,14 @@
       "transmision": "cvt",
       "motor": "2.0 L 4 cil. i-VTEC (150 HP)",
       "potenciaHp": 150,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 20.1,
       "autonomiaKm": null,
-      "bolsasAire": 8,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
       "url": "https://www.honda.mx/autos/civic",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Gasolina, transmisión CVT. 8 bolsas de aire (suma de las que lista el brochure: frontales, laterales, de cortina y de rodillas para conductor y copiloto). Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx."
+      "notas": "Gasolina, transmisión CVT. Bolsas de aire (suma de las que lista el brochure: frontales, laterales, de cortina y de rodillas para conductor y copiloto); la ficha oficial no da el número total, por eso no se publica una cifra. Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     },
     {
       "nombre": "Sport HEV",
@@ -34,14 +34,14 @@
       "transmision": "e-cvt",
       "motor": "2.0 L 4 cil. híbrido de dos motores (200 HP combinados)",
       "potenciaHp": 200,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 29.8,
       "autonomiaKm": null,
-      "bolsasAire": 8,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
       "url": "https://www.honda.mx/autos/civic-hibrido",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Híbrido autorrecargable, transmisión E-CVT. 8 bolsas de aire (suma de las que lista el brochure: frontales, laterales, de cortina y de rodillas para conductor y copiloto). Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx."
+      "notas": "Híbrido autorrecargable, transmisión E-CVT. Bolsas de aire (suma de las que lista el brochure: frontales, laterales, de cortina y de rodillas para conductor y copiloto); la ficha oficial no da el número total, por eso no se publica una cifra. Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     },
     {
       "nombre": "Touring HEV",
@@ -51,14 +51,14 @@
       "transmision": "e-cvt",
       "motor": "2.0 L 4 cil. híbrido de dos motores (200 HP combinados)",
       "potenciaHp": 200,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 29.8,
       "autonomiaKm": null,
-      "bolsasAire": 8,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
       "url": "https://www.honda.mx/autos/civic-hibrido",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Híbrido autorrecargable, transmisión E-CVT, audio Bose. 8 bolsas de aire (suma de las que lista el brochure: frontales, laterales, de cortina y de rodillas para conductor y copiloto). Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx."
+      "notas": "Híbrido autorrecargable, transmisión E-CVT, audio Bose. Bolsas de aire (suma de las que lista el brochure: frontales, laterales, de cortina y de rodillas para conductor y copiloto); la ficha oficial no da el número total, por eso no se publica una cifra. Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     }
   ],
   "garantia": {
@@ -91,10 +91,14 @@
       "nombre": "Brochure oficial Honda Civic Hybrid 2026",
       "url": "https://www.honda.mx/web/pdf/brochure/honda/Brochure_CIVIC_Hybrid_2026.pdf",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento combinado oficial de combustible (honda.mx no lo publica en el configurador ni en el brochure)",
     "Garantía oficial (honda.mx no la publica en la página del modelo)",
     "Propulsión: el Civic de gasolina (i-Style) y el Civic Hybrid (páginas separadas en honda.mx) se agruparon en este archivo; el campo propulsion es el de la versión de entrada",
     "Honda no publica una ficha técnica aparte; se usó el brochure oficial del modelo",

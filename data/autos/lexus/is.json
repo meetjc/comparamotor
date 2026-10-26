@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Lexus México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.lexus.mx/modelos/IS",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Gasolina. Automática de 8 velocidades. Precio de lista publicado por Lexus en la página del modelo (Lexus indica que debe confirmarse con el distribuidor)."
+      "notas": "Gasolina. Automática de 8 velocidades. Precio de lista publicado por Lexus en la página del modelo (Lexus indica que debe confirmarse con el distribuidor). La página oficial del modelo incluye Pre-Collision System (sistema de precolisión que detecta peatones, ciclistas y vehículos); es la única versión del IS en México."
     }
   ],
   "garantia": {
@@ -34,7 +34,11 @@
   },
   "ofertas": [],
   "fuentes": [
-    "https://www.lexus.mx/modelos/IS",
+    {
+      "nombre": "Lexus IS (página oficial)",
+      "url": "https://www.lexus.mx/modelos/IS",
+      "tipo": "oficial"
+    },
     {
       "nombre": "Ficha técnica oficial Lexus IS 2026",
       "url": "https://www.lexus.mx/content/dam/lexus-mx/documentos/ficha-tecnica/2026/Ficha-Tecnica-IS.pdf",
@@ -44,7 +48,6 @@
   "pendientes": [
     "Rendimiento de combustible oficial: la ficha técnica PDF y la página del modelo no muestran la cifra en texto; queda por confirmar",
     "Número total de bolsas de aire: la ficha técnica no lo indica en texto",
-    "Frenado autónomo de emergencia no confirmado: la ficha técnica del IS no lo menciona en texto",
     "Lexus México solo ofrece la versión IS 350 F SPORT",
     "Clasificación del segmento (compacto) es criterio editorial, no viene de la marca"
   ]

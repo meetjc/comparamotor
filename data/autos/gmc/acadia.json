@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 12.6,
       "autonomiaKm": null,
       "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
       "url": "https://www.gmc.com.mx/suvs/acadia-suv-7-pasajeros/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Automática de 8 velocidades, tracción AWD. Datos técnicos del catálogo 2026."
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Automática de 8 velocidades, tracción AWD. Datos técnicos del catálogo 2026. El catálogo 2026 marca la alerta y asistencia de colisión frontal en Denali. Chevrolet México, marca hermana de GM, define la asistencia de colisión frontal como frenado automático si el conductor no reacciona (páginas de Tahoe, Suburban y Colorado, revisadas el 25 oct 2026)."
     },
     {
       "nombre": "AT4 2026",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 12.6,
       "autonomiaKm": null,
       "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": false,
       "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
       "url": "https://www.gmc.com.mx/suvs/acadia-suv-7-pasajeros/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,312,000 y precio financiado o de arrendamiento $1,332,000 (ver ofertas). Automática de 8 velocidades, tracción AWD. 7 bolsas de aire."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,312,000 y precio financiado o de arrendamiento $1,332,000 (ver ofertas). Automática de 8 velocidades, tracción AWD. 7 bolsas de aire. El catálogo 2026 lista las asistencias de esta versión (mantenimiento de carril, detección de peatones, tráfico cruzado) y marca la alerta y asistencia de colisión frontal como no disponible en AT4."
     },
     {
       "nombre": "Denali 2026",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 12.6,
       "autonomiaKm": null,
       "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
       "url": "https://www.gmc.com.mx/suvs/acadia-suv-7-pasajeros/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,374,000 y precio financiado o de arrendamiento $1,394,000 (ver ofertas). Automática de 8 velocidades, tracción AWD. Incluye alerta y asistencia de colisión frontal."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,374,000 y precio financiado o de arrendamiento $1,394,000 (ver ofertas). Automática de 8 velocidades, tracción AWD. Incluye alerta y asistencia de colisión frontal. El catálogo 2026 marca la alerta y asistencia de colisión frontal en Denali. Chevrolet México, marca hermana de GM, define la asistencia de colisión frontal como frenado automático si el conductor no reacciona (páginas de Tahoe, Suburban y Colorado, revisadas el 25 oct 2026)."
     }
   ],
   "garantia": {
@@ -109,7 +109,6 @@
     }
   ],
   "pendientes": [
-    "Frenado autónomo de emergencia sin confirmar: el catálogo dice \"alerta y asistencia de colisión frontal\" y solo en Denali.",
     "Acadia 2027 solo se publica en versión Denali.",
     "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer.",
     "GMC publica catálogos, no fichas técnicas; el PDF guardado es el catálogo oficial."

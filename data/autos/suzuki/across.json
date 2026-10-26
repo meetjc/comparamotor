@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "1.5 L 4 cil. BoosterGreen (híbrido ligero)",
       "potenciaHp": 102,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 19.9,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
       "url": "https://autos.suzuki.com.mx/cars/across-boostergreen",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades, tracción delantera. Sistema BoosterGreen: asistencia eléctrica de 12 V (híbrido ligero). 6 bolsas de aire (frontales, laterales y de cortina); cámara 360°. Suzuki lo publica como precio de lanzamiento."
+      "notas": "Automática de 6 velocidades, tracción delantera. Sistema BoosterGreen: asistencia eléctrica de 12 V (híbrido ligero). 6 bolsas de aire (frontales, laterales y de cortina); cámara 360°. Suzuki lo publica como precio de lanzamiento. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2027 (Across 1.5 L 2WD BoosterGreen automática)."
     }
   ],
   "garantia": {
@@ -48,11 +48,15 @@
       "nombre": "Garantía Suzuki México",
       "url": "https://autos.suzuki.com.mx/pages/garantias",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2027",
+      "url": "https://www.gob.mx/conuee/documentos/rendimiento-de-combustible-en-vehiculos-ligeros-de-venta-en-mexico",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
     "La ficha técnica PDF de Suzuki se entrega mediante un formulario de contacto, por lo que no se descargó",
-    "Rendimiento combinado: la página oficial no lo publica",
     "Frenado autónomo de emergencia: la tabla oficial no lo menciona",
     "La página de promociones muestra una tasa de 5.49% calculada sobre $519,990 (precio del Across), pero la tarjeta no nombra el modelo; no se registró como oferta",
     "El año modelo 2027 se tomó de la página de promociones"

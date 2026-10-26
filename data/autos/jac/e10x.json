@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 301,
       "bolsasAire": 2,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
       "url": "https://www.jac.mx/e10x",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Eléctrico con transmisión reductora, 60 hp y 111 lb-pie. Autonomía de 301 km (NEDC) según la ficha; la página anuncia hasta 302 km. Carga completa en unas 6 horas. 2 bolsas de aire (conductor y pasajero). La ficha no incluye frenado autónomo de emergencia."
+      "notas": "Eléctrico con transmisión reductora, 60 hp y 111 lb-pie. Autonomía de 301 km (NEDC) según la ficha; la página anuncia hasta 302 km. Carga completa en unas 6 horas. 2 bolsas de aire (conductor y pasajero). La ficha no incluye frenado autónomo de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

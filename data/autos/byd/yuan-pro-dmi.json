@@ -19,12 +19,12 @@
       "potenciaHp": null,
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 45,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.byd.com/mx/order-yuan-pro-dmi",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Híbrido enchufable de tracción delantera, 0-100 km/h en 9.1 s. Autonomía eléctrica NEDC de 45 km y combinada de 1,045 km. BYD publica un consumo con batería baja de 24 km/l (NEDC); no se registra como rendimiento combinado porque es otro ciclo de medición. Carga AC 3.3 kW. 6 bolsas de aire inferidas de la ficha (frontales, laterales delanteras y cortina). Frenado automático de emergencia y control crucero adaptativo de serie. El año 2027 sale del PDF de ofertas de octubre. Precio del configurador oficial."
+      "notas": "Híbrido enchufable de tracción delantera, 0-100 km/h en 9.1 s. Autonomía eléctrica NEDC de 45 km y combinada de 1,045 km. BYD publica un consumo con batería baja de 24 km/l (NEDC); no se registra como rendimiento combinado porque es otro ciclo de medición. Carga AC 3.3 kW. Bolsas de aire inferidas de la ficha (frontales, laterales delanteras y cortina); la ficha oficial no da el número total, por eso no se publica una cifra. Frenado automático de emergencia y control crucero adaptativo de serie. El año 2027 sale del PDF de ofertas de octubre. Precio del configurador oficial."
     }
   ],
   "garantia": {

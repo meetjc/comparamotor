@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 590,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
       "url": "https://www.gmc.com.mx/electricos/hummer-ev/pickup/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $2,999,000 y precio financiado o de arrendamiento $2,999,000 (ver ofertas). Autonomía estimada por GM de 590 km. El catálogo menciona alerta de colisión con asistente de frenado y frenado para peatones, sin un frenado de emergencia general."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $2,999,000 y precio financiado o de arrendamiento $2,999,000 (ver ofertas). Autonomía estimada por GM de 590 km. El catálogo menciona alerta de colisión con asistente de frenado y frenado para peatones, sin un frenado de emergencia general. El catálogo marca el frenado delantero para peatones y describe la alerta de colisión frontal y el detector de peatones y ciclistas, ambos con asistente de frenado."
     }
   ],
   "garantia": {
@@ -62,7 +62,6 @@
   ],
   "pendientes": [
     "Número de bolsas de aire no publicado.",
-    "Frenado autónomo de emergencia sin confirmar.",
     "Modelo 2025; no hay año modelo 2026 publicado.",
     "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer.",
     "GMC publica catálogos, no fichas técnicas; el PDF guardado es el catálogo oficial."

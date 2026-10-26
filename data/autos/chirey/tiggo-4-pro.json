@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 14.08,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chirey México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.chirey.mx/autos/ice/tiggo-4-pro-2027/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista $402,900; la página lo muestra tachado y anuncia $392,900 con el bono de $10,000 de octubre. Transmisión CVT. Ficha técnica oficial 2027: motor 1.5 L turbo (1,498 cc), 144 hp @ 5,500 rpm, 154 lb-ft, tracción delantera, gasolina de 91 octanos mínimo. Rendimiento de laboratorio: ciudad 10.87, carretera 17.24, combinado 14.08 km/l (la ficha da un solo valor para ambas transmisiones). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado automático de emergencia ni asistencias de manejo con radar. Pantalla de 10.25\" e instrumentos de 7\"."
+      "notas": "Precio de lista $402,900; la página lo muestra tachado y anuncia $392,900 con el bono de $10,000 de octubre. Transmisión CVT. Ficha técnica oficial 2027: motor 1.5 L turbo (1,498 cc), 144 hp @ 5,500 rpm, 154 lb-ft, tracción delantera, gasolina de 91 octanos mínimo. Rendimiento de laboratorio: ciudad 10.87, carretera 17.24, combinado 14.08 km/l (la ficha da un solo valor para ambas transmisiones). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado automático de emergencia ni asistencias de manejo con radar. Pantalla de 10.25\" e instrumentos de 7\". Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Luxury",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 14.08,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chirey México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.chirey.mx/autos/ice/tiggo-4-pro-2027/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista $444,900; la página lo muestra tachado y anuncia $424,900 con el bono de $20,000 de octubre. Transmisión de doble embrague (DCT; la ficha no dice cuántas velocidades). Ficha técnica oficial 2027: motor 1.5 L turbo (1,498 cc), 144 hp @ 5,500 rpm, 154 lb-ft, tracción delantera, gasolina de 91 octanos mínimo. Rendimiento de laboratorio: ciudad 10.87, carretera 17.24, combinado 14.08 km/l (la ficha da un solo valor para ambas transmisiones). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado automático de emergencia ni asistencias de manejo con radar. Pantalla dual de 20.5\", cargador inalámbrico de 50 W, asiento del conductor eléctrico."
+      "notas": "Precio de lista $444,900; la página lo muestra tachado y anuncia $424,900 con el bono de $20,000 de octubre. Transmisión de doble embrague (DCT; la ficha no dice cuántas velocidades). Ficha técnica oficial 2027: motor 1.5 L turbo (1,498 cc), 144 hp @ 5,500 rpm, 154 lb-ft, tracción delantera, gasolina de 91 octanos mínimo. Rendimiento de laboratorio: ciudad 10.87, carretera 17.24, combinado 14.08 km/l (la ficha da un solo valor para ambas transmisiones). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado automático de emergencia ni asistencias de manejo con radar. Pantalla dual de 20.5\", cargador inalámbrico de 50 W, asiento del conductor eléctrico. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

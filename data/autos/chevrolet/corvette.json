@@ -17,14 +17,14 @@
       "transmision": "doble-embrague",
       "motor": "6.2 L V8",
       "potenciaHp": 495,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 9.7,
       "autonomiaKm": null,
       "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/precios-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades con cambios al volante. Chevrolet no publica ficha técnica PDF del Stingray."
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades con cambios al volante. Chevrolet no publica ficha técnica PDF del Stingray. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (Corvette 6.2 L; el catálogo lista los paquetes A, B y C, y el aviso legal de precios de Chevrolet los nombra Z51 Coupé, Z51 Convertible y Z51 Performance, en ese orden)."
     },
     {
       "nombre": "Stingray Z51 Coupé Performance 2026",
@@ -34,14 +34,14 @@
       "transmision": "doble-embrague",
       "motor": "6.2 L V8",
       "potenciaHp": 495,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 9.7,
       "autonomiaKm": null,
       "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/precios-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades. Paquete Z51 Performance con escape deportivo, divisor delantero y spoiler."
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades. Paquete Z51 Performance con escape deportivo, divisor delantero y spoiler. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (Corvette 6.2 L; el catálogo lista los paquetes A, B y C, y el aviso legal de precios de Chevrolet los nombra Z51 Coupé, Z51 Convertible y Z51 Performance, en ese orden)."
     },
     {
       "nombre": "Stingray Z51 Convertible 2026",
@@ -51,14 +51,14 @@
       "transmision": "doble-embrague",
       "motor": "6.2 L V8",
       "potenciaHp": 495,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 9.6,
       "autonomiaKm": null,
       "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/precios-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades. Techo duro retráctil."
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades. Techo duro retráctil. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (Corvette 6.2 L; el catálogo lista los paquetes A, B y C, y el aviso legal de precios de Chevrolet los nombra Z51 Coupé, Z51 Convertible y Z51 Performance, en ese orden)."
     },
     {
       "nombre": "Grand Sport Coupé 2027",
@@ -185,11 +185,16 @@
       "nombre": "Ficha técnica oficial Corvette ZR1 2027",
       "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/performance/2027-corvette-zr1/mov/02-files/ficha-tecnica-zr1-2027.pdf",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
     "Número total de bolsas de aire no publicado (las fichas mencionan solo las frontales).",
-    "Rendimiento combinado publicado solo para Z06 (7.5 km/l).",
+    "Rendimiento combinado: Z06 según su ficha; Stingray según el Catálogo CONUEE 2026. Grand Sport, ZR1 y ZR1X 2027 no aparecen en el catálogo 2027.",
     "El ZR1X es híbrido; el archivo registra la propulsión de la versión de entrada (gasolina).",
     "Stingray y ZR1X no tienen ficha técnica PDF; datos de sus páginas de especificaciones."
   ]

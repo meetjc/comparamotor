@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 17.5,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
       "url": "https://www.hyundai.com.mx/modelos/hb20-hb-2026/especificaciones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Sin asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+      "notas": "Manual de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Sin asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "HB20 Hatchback GL AT",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 18.5,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
       "url": "https://www.hyundai.com.mx/modelos/hb20-hb-2026/especificaciones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Sin asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Sin asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "HB20 Hatchback GL Mid AT",
@@ -88,11 +88,11 @@
       "rendimientoCombinadoKmL": 17.8,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
       "url": "https://www.hyundai.com.mx/modelos/hb20-sd-2026/especificaciones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Sin asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+      "notas": "Manual de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Sin asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "HB20 Sedán GL AT",
@@ -105,11 +105,11 @@
       "rendimientoCombinadoKmL": 18.5,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
       "url": "https://www.hyundai.com.mx/modelos/hb20-sd-2026/especificaciones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Sin asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Sin asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "HB20 Sedán GL Mid MT",

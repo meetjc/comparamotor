@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "6 cil. 3.0 L turbo",
       "potenciaHp": 381,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 13.35,
       "autonomiaKm": null,
       "bolsasAire": 13,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
       "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Versión larga, 9G-TRONIC, tracción integral 4MATIC. 13 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 280 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+      "notas": "Versión larga, 9G-TRONIC, tracción integral 4MATIC. 13 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 280 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz. Rendimiento combinado de 13.35 km/l según la ficha técnica oficial S 450 L 4MATIC año modelo 2026."
     }
   ],
   "garantia": {

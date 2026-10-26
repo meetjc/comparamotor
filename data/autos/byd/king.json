@@ -19,12 +19,12 @@
       "potenciaHp": null,
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 50,
-      "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.byd.com/mx/car/king",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Generación 2026 que sigue a la venta en su propia página. Autonomía eléctrica NEDC de 50 km y combinada de 1,175 km; consumo NEDC de 3.9 L/100 km (no se registra como rendimiento combinado). 0-100 km/h en 7.9 s. 6 bolsas de aire inferidas de la ficha (frontales, laterales delanteras y cortina). La ficha lista control crucero de velocidad fija pero no frenado autónomo de emergencia. Precio del configurador oficial (código CX015018)."
+      "notas": "Generación 2026 que sigue a la venta en su propia página. Autonomía eléctrica NEDC de 50 km y combinada de 1,175 km; consumo NEDC de 3.9 L/100 km (no se registra como rendimiento combinado). 0-100 km/h en 7.9 s. Bolsas de aire inferidas de la ficha (frontales, laterales delanteras y cortina); la ficha oficial no da el número total, por eso no se publica una cifra. La ficha lista control crucero de velocidad fija pero no frenado autónomo de emergencia. Precio del configurador oficial (código CX015018). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "King DM-i GL",

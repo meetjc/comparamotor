@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.jeep.com.mx/renegade.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades. Bolsas de aire frontales, laterales delanteras y de cortina (la ficha no da el total). La asistencia de prevención de colisión frontal solo viene en la Limited S. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Automática de 6 velocidades. Bolsas de aire frontales, laterales delanteras y de cortina (la ficha no da el total). La asistencia de prevención de colisión frontal solo viene en la Limited S. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Limited S 1.3L Turbo 6AT",

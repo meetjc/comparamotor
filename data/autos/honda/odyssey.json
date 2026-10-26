@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "3.5 L V6 (280 HP)",
       "potenciaHp": 280,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 12.7,
       "autonomiaKm": null,
       "bolsasAire": 8,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
       "url": "https://www.honda.mx/autos/odyssey",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 10 velocidades. 8 bolsas de aire (frontales, laterales, de cortina y de rodillas). Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx."
+      "notas": "Automática de 10 velocidades. 8 bolsas de aire (frontales, laterales, de cortina y de rodillas). Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (registrado como año-modelo 2026, mismo motor y transmisión que esta versión)."
     },
     {
       "nombre": "Black Edition",
@@ -34,14 +34,14 @@
       "transmision": "automatica",
       "motor": "3.5 L V6 (280 HP)",
       "potenciaHp": 280,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 12.7,
       "autonomiaKm": null,
       "bolsasAire": 8,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
       "url": "https://www.honda.mx/autos/odyssey",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 10 velocidades, detalles en negro. 8 bolsas de aire. Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx."
+      "notas": "Automática de 10 velocidades, detalles en negro. 8 bolsas de aire. Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (registrado como año-modelo 2026, mismo motor y transmisión que esta versión)."
     }
   ],
   "garantia": {
@@ -57,10 +57,14 @@
       "nombre": "Brochure oficial Honda Odyssey 2027",
       "url": "https://www.honda.mx/web/pdf/brochure/honda/Brochure_ODYSSEY_2027.pdf",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento combinado oficial de combustible (honda.mx no lo publica en el configurador ni en el brochure)",
     "Garantía oficial (honda.mx no la publica en la página del modelo)",
     "Año modelo tomado del nombre del brochure oficial (Odyssey 2027)",
     "Clasificación del segmento (van) es criterio editorial, no viene de la marca"

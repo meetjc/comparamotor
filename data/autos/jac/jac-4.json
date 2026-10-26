@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 15,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
       "url": "https://www.jac.mx/jac4-27",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2027 (versión renovada). CVT, 134 hp @ 5,500 rpm. 6 bolsas de aire (frontales, laterales y cortina). Incluye monitoreo de punto ciego, alerta de tráfico cruzado y de apertura de puertas; la ficha no incluye frenado autónomo de emergencia. Precio publicado por JAC menor que el del Active 2026."
+      "notas": "Año modelo 2027 (versión renovada). CVT, 134 hp @ 5,500 rpm. 6 bolsas de aire (frontales, laterales y cortina). Incluye monitoreo de punto ciego, alerta de tráfico cruzado y de apertura de puertas; la ficha no incluye frenado autónomo de emergencia. Precio publicado por JAC menor que el del Active 2026. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Comfort MT",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 17.2,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
       "url": "https://www.jac.mx/jac4",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026. Manual de 6 velocidades, 107 hp @ 6,000 rpm. 6 bolsas de aire (frontales, laterales y cortina). La ficha no incluye frenado autónomo de emergencia."
+      "notas": "Año modelo 2026. Manual de 6 velocidades, 107 hp @ 6,000 rpm. 6 bolsas de aire (frontales, laterales y cortina). La ficha no incluye frenado autónomo de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Active CVT",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 15,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
       "url": "https://www.jac.mx/jac4",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026. CVT, 134 hp @ 5,500 rpm. 6 bolsas de aire. La ficha no incluye frenado autónomo de emergencia. JAC publica este 2026 más caro que el Active 2027 ($369,000)."
+      "notas": "Año modelo 2026. CVT, 134 hp @ 5,500 rpm. 6 bolsas de aire. La ficha no incluye frenado autónomo de emergencia. JAC publica este 2026 más caro que el Active 2027 ($369,000). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

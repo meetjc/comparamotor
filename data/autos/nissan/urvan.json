@@ -53,12 +53,12 @@
       "potenciaHp": 142,
       "rendimientoCombinadoKmL": 9.78,
       "autonomiaKm": null,
-      "bolsasAire": null,
+      "bolsasAire": 6,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/urvan.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio especial de contado: $670,900 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L de 4 cilindros, 142 hp. Manual de 5 velocidades, tracción 2WD. Rendimiento combinado 9.78 km/l. Bolsas de aire de conductor y pasajero, más laterales y de cortina (la ficha no da el número total)."
+      "notas": "Precio especial de contado: $670,900 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L de 4 cilindros, 142 hp. Manual de 5 velocidades, tracción 2WD. Rendimiento combinado 9.78 km/l. La página oficial indica que las versiones de pasajeros traen 6 bolsas de aire en total (frontales, laterales y de cortina)."
     },
     {
       "nombre": "14 Pasajeros Amplia AA",
@@ -70,12 +70,12 @@
       "potenciaHp": 142,
       "rendimientoCombinadoKmL": 9.27,
       "autonomiaKm": null,
-      "bolsasAire": null,
+      "bolsasAire": 6,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/urvan.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio especial de contado: $727,900 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L de 4 cilindros, 142 hp. Manual de 5 velocidades, tracción 2WD. Rendimiento combinado 9.27 km/l. Bolsas de aire de conductor y pasajero, más laterales y de cortina (la ficha no da el número total)."
+      "notas": "Precio especial de contado: $727,900 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L de 4 cilindros, 142 hp. Manual de 5 velocidades, tracción 2WD. Rendimiento combinado 9.27 km/l. La página oficial indica que las versiones de pasajeros traen 6 bolsas de aire en total (frontales, laterales y de cortina)."
     }
   ],
   "garantia": {
@@ -109,7 +109,6 @@
   "pendientes": [
     "Frenado autónomo de emergencia: la ficha de equipamiento de Urvan no lo menciona en ninguna versión.",
     "Potencia: la ficha técnica dice 142 hp y el encabezado de la página dice 145 hp; se usó la ficha.",
-    "Número total de bolsas de aire en las versiones de pasajeros no publicado.",
     "Catálogo PDF de Urvan no localizado (la liga de catálogos de la página no lleva a un PDF)."
   ]
 }

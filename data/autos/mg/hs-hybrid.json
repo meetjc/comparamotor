@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 22.3,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/hshev",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Híbrido (HEV) no enchufable: motor 1.5 L turbo de 140 hp + motor eléctrico de tracción de 146 kW; potencia combinada 195 hp y 250 lb-pie. Transmisión híbrida automática EDU. Batería de 1.8 kWh. Rendimiento oficial ciudad, carretera y combinado de 22.3 km/l (ficha HS 2027). 6 bolsas de aire. La ficha no marca frenado autónomo de emergencia en Excite HEV. El sitio muestra además un precio especial de $509,900 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+      "notas": "Híbrido (HEV) no enchufable: motor 1.5 L turbo de 140 hp + motor eléctrico de tracción de 146 kW; potencia combinada 195 hp y 250 lb-pie. Transmisión híbrida automática EDU. Batería de 1.8 kWh. Rendimiento oficial ciudad, carretera y combinado de 22.3 km/l (ficha HS 2027). 6 bolsas de aire. La ficha no marca frenado autónomo de emergencia en Excite HEV. El sitio muestra además un precio especial de $509,900 sin condiciones ni vigencia publicadas (no se registra como oferta). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "HEV Premier AT",

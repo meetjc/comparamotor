@@ -17,14 +17,14 @@
       "transmision": "manual",
       "motor": "2.4 L 4 cil. gasolina",
       "potenciaHp": 126,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 9.6,
       "autonomiaKm": null,
       "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
       "url": "https://www.mitsubishi-motors.mx/modelos/l200",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 5 velocidades, tracción trasera. 126 hp y 143 lb-pie. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM) según la ficha técnica 2026. La ficha técnica no publica rendimiento de combustible."
+      "notas": "Manual de 5 velocidades, tracción trasera. 126 hp y 143 lb-pie. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM) según la ficha técnica 2026. La ficha técnica no publica rendimiento de combustible. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     },
     {
       "nombre": "GLX TM 4X4 Diésel",
@@ -34,14 +34,14 @@
       "transmision": "manual",
       "motor": "2.4 L 4 cil. turbodiésel",
       "potenciaHp": 181,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 14.4,
       "autonomiaKm": null,
       "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
       "url": "https://www.mitsubishi-motors.mx/modelos/l200",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 6 velocidades, 4x4 con caja reductora Easy Select. 181 hp y 317 lb-pie. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM) según la ficha técnica 2026. La ficha técnica no publica rendimiento de combustible."
+      "notas": "Manual de 6 velocidades, 4x4 con caja reductora Easy Select. 181 hp y 317 lb-pie. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM) según la ficha técnica 2026. La ficha técnica no publica rendimiento de combustible. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     },
     {
       "nombre": "GLS AT 4X4 Diésel",
@@ -51,14 +51,14 @@
       "transmision": "automatica",
       "motor": "2.4 L 4 cil. turbodiésel",
       "potenciaHp": 201,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 14.4,
       "autonomiaKm": null,
       "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
       "url": "https://www.mitsubishi-motors.mx/modelos/l200",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades, 4x4 Super Select 4WD-II con bloqueo de diferencial trasero. 201 hp y 346 lb-pie. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM) según la ficha técnica 2026. La ficha técnica no publica rendimiento de combustible."
+      "notas": "Automática de 6 velocidades, 4x4 Super Select 4WD-II con bloqueo de diferencial trasero. 201 hp y 346 lb-pie. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM) según la ficha técnica 2026. La ficha técnica no publica rendimiento de combustible. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     },
     {
       "nombre": "GSR AT 4X4 Diésel",
@@ -68,14 +68,14 @@
       "transmision": "automatica",
       "motor": "2.4 L 4 cil. turbodiésel",
       "potenciaHp": 201,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 14.3,
       "autonomiaKm": null,
       "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
       "url": "https://www.mitsubishi-motors.mx/modelos/l200-gsr",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Mitsubishi la vende en su propia página (L200 GSR). Automática de 6 velocidades, 4x4 con diferencial autobloqueable, cámara 360°. 201 hp y 346 lb-pie. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM) según la ficha técnica 2026. La ficha técnica no publica rendimiento de combustible."
+      "notas": "Mitsubishi la vende en su propia página (L200 GSR). Automática de 6 velocidades, 4x4 con diferencial autobloqueable, cámara 360°. 201 hp y 346 lb-pie. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM) según la ficha técnica 2026. La ficha técnica no publica rendimiento de combustible. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     }
   ],
   "garantia": {
@@ -114,10 +114,14 @@
       "nombre": "Promociones Mitsubishi",
       "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento de combustible oficial no publicado en la ficha técnica.",
     "La ficha técnica de L200 GSR que enlaza su página es el mismo PDF de L200 (incluye la columna GSR 4x4); por eso GSR se integró aquí como versión.",
     "La asignación de potencias por versión se tomó de la tabla de la ficha (126 hp gasolina; 181 hp diésel manual; 201 hp diésel automática), cuyo texto viene desalineado en el PDF."
   ]

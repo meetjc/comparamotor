@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 16.9,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/hsnueva",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor 1.5 L turbo de 168 hp y 202 lb-pie, doble embrague húmedo de 7 velocidades. Rendimiento oficial ciudad 14.8, carretera 20.5, combinado 16.9 km/l (ficha HS 2027). 6 bolsas de aire. La ficha no marca frenado autónomo de emergencia en esta versión. El sitio muestra además un precio especial de $499,900 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+      "notas": "Motor 1.5 L turbo de 168 hp y 202 lb-pie, doble embrague húmedo de 7 velocidades. Rendimiento oficial ciudad 14.8, carretera 20.5, combinado 16.9 km/l (ficha HS 2027). 6 bolsas de aire. La ficha no marca frenado autónomo de emergencia en esta versión. El sitio muestra además un precio especial de $499,900 sin condiciones ni vigencia publicadas (no se registra como oferta). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Trophy AT",

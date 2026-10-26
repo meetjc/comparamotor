@@ -17,14 +17,14 @@
       "transmision": "cvt",
       "motor": "1.5 L 4 cil. i-VTEC (119 HP)",
       "potenciaHp": 119,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 17.3,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
       "url": "https://www.honda.mx/autos/br-v",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Transmisión CVT, tres filas de asientos. 6 bolsas de aire (frontales, laterales y de cortina). Sin Honda Sensing ni frenado de mitigación de colisión en esta versión (brochure). Precio \"Desde\" publicado en el configurador de honda.mx."
+      "notas": "Transmisión CVT, tres filas de asientos. 6 bolsas de aire (frontales, laterales y de cortina). Sin Honda Sensing ni frenado de mitigación de colisión en esta versión (brochure). Precio \"Desde\" publicado en el configurador de honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Touring",
@@ -34,14 +34,14 @@
       "transmision": "cvt",
       "motor": "1.5 L 4 cil. i-VTEC (119 HP)",
       "potenciaHp": 119,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 17.3,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
       "url": "https://www.honda.mx/autos/br-v",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Transmisión CVT, tres filas de asientos. 6 bolsas de aire (frontales, laterales y de cortina). Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx."
+      "notas": "Transmisión CVT, tres filas de asientos. 6 bolsas de aire (frontales, laterales y de cortina). Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     }
   ],
   "garantia": {
@@ -67,10 +67,14 @@
       "nombre": "Brochure oficial Honda BR-V 2026",
       "url": "https://www.honda.mx/web/pdf/brochure/honda/Brochure_BRV_2026.pdf",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento combinado oficial de combustible (honda.mx no lo publica en el configurador ni en el brochure)",
     "Garantía oficial (honda.mx no la publica en la página del modelo)",
     "Clasificación del segmento (suv-compacta) es criterio editorial, no viene de la marca"
   ]

@@ -58,7 +58,7 @@
       "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Edición especial. Batería de 49.2 kWh, hasta 400 km (WLTP), tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+      "notas": "Edición especial. Batería de 49.2 kWh, hasta 400 km (WLTP), tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). Precio de lista con IVA, ISAN y transportación según MINI. La ficha oficial lista su equipo de seguridad y asistencia (incluido Driving Assistant cuando aplica) y no incluye frenado automático de emergencia frontal; el control crucero con función de frenado no es un sistema de frenado de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "John Cooper Works Eléctrico",
@@ -75,7 +75,7 @@
       "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Batería de 49.2 kWh, hasta 371 km (WLTP), tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+      "notas": "Batería de 49.2 kWh, hasta 371 km (WLTP), tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). Precio de lista con IVA, ISAN y transportación según MINI. La ficha oficial lista su equipo de seguridad y asistencia (incluido Driving Assistant cuando aplica) y no incluye frenado automático de emergencia frontal; el control crucero con función de frenado no es un sistema de frenado de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {
@@ -108,7 +108,6 @@
   ],
   "pendientes": [
     "Los precios de las fichas técnicas son anteriores a la lista de precios vigente; se usó la lista: John Cooper Works Eléctrico (ficha $905,000, lista $908,000)",
-    "Las fichas de MINI describen un Driving Assistant (alerta de cambio de carril, tráfico cruzado, prevención de colisión trasera) pero no confirman frenado automático de emergencia frontal",
-    "No hay ficha técnica descargable de MINI Cooper Eléctrico E y SE en el sitio oficial; faltan potencia, autonomía y bolsas de aire por versión"
+    "No hay ficha técnica descargable de MINI Cooper Eléctrico E y SE en el sitio oficial; faltan potencia, autonomía y bolsas de aire por versión, y si traen frenado automático de emergencia frontal"
   ]
 }

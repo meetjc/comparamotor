@@ -24,7 +24,7 @@
       "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Doble embrague de 7 velocidades, tracción delantera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+      "notas": "Doble embrague de 7 velocidades, tracción delantera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Precio sugerido con IVA, ISAN y transportación según BMW. La ficha oficial de esta versión lista su equipo de asistencia a la conducción y no incluye frenado automático de emergencia frontal (en México BMW ofrece los paquetes Driving Assistant como opcionales). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "sDrive18i Technology Edition",
@@ -41,7 +41,7 @@
       "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Edición con más equipo al mismo precio que la sDrive18i. Doble embrague de 7 velocidades, tracción delantera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+      "notas": "Edición con más equipo al mismo precio que la sDrive18i. Doble embrague de 7 velocidades, tracción delantera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Precio sugerido con IVA, ISAN y transportación según BMW. La ficha oficial de esta versión lista su equipo de asistencia a la conducción y no incluye frenado automático de emergencia frontal (en México BMW ofrece los paquetes Driving Assistant como opcionales). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "xDrive25e",
@@ -58,7 +58,7 @@
       "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Híbrido enchufable, batería de 14.2 kWh, hasta 78 km eléctricos (WLTP). Tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW. Rendimiento combinado oficial de 19.1 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+      "notas": "Híbrido enchufable, batería de 14.2 kWh, hasta 78 km eléctricos (WLTP). Tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Precio sugerido con IVA, ISAN y transportación según BMW. Rendimiento combinado oficial de 19.1 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina. La ficha oficial de esta versión lista su equipo de asistencia a la conducción y no incluye frenado automático de emergencia frontal (en México BMW ofrece los paquetes Driving Assistant como opcionales). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

@@ -17,14 +17,14 @@
       "transmision": "doble-embrague",
       "motor": "2.0 L turbo",
       "potenciaHp": 215,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 17.2,
       "autonomiaKm": null,
-      "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
       "url": "https://www.renault.com.mx/hybrids-cars/koleos/prices-offers.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Gasolina 2.0 L turbo de 215 hp con transmisión automática de doble embrague húmedo de 7 velocidades (datos de la página de precios)."
+      "notas": "Gasolina 2.0 L turbo de 215 hp con transmisión automática de doble embrague húmedo de 7 velocidades (datos de la página de precios). Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2027 (registrado como año-modelo 2027, mismo motor y transmisión que esta versión). La página oficial de seguridad de Koleos indica seis bolsas de aire y lista frenado autónomo de emergencia con detección de peatones y ciclistas sin restringirlo a una versión (solo marca el head-up display como exclusivo de Esprit Alpine)."
     },
     {
       "nombre": "Esprit Alpine",
@@ -34,14 +34,14 @@
       "transmision": "automatica",
       "motor": "1.5 L turbo híbrido (E-Tech full hybrid)",
       "potenciaHp": 241,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 21.1,
       "autonomiaKm": null,
-      "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
       "url": "https://www.renault.com.mx/hybrids-cars/koleos/prices-offers.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Híbrido completo E-Tech: motor 1.5 L turbo con sistema eléctrico, 241 hp combinados, transmisión híbrida dedicada (DHT) de 3 relaciones (datos de la página de precios)."
+      "notas": "Híbrido completo E-Tech: motor 1.5 L turbo con sistema eléctrico, 241 hp combinados, transmisión híbrida dedicada (DHT) de 3 relaciones (datos de la página de precios). Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2027 (registrado como año-modelo 2027, mismo motor y transmisión que esta versión). La página oficial de seguridad de Koleos indica seis bolsas de aire y lista frenado autónomo de emergencia con detección de peatones y ciclistas sin restringirlo a una versión (solo marca el head-up display como exclusivo de Esprit Alpine)."
     }
   ],
   "garantia": {
@@ -75,11 +75,20 @@
       "nombre": "Renault Koleos: ficha técnica",
       "url": "https://www.renault.com.mx/hybrids-cars/koleos/specifications.html",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2027",
+      "url": "https://www.gob.mx/conuee/documentos/rendimiento-de-combustible-en-vehiculos-ligeros-de-venta-en-mexico",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Renault Koleos: seguridad (página oficial)",
+      "url": "https://www.renault.com.mx/hybrids-cars/koleos/safety.html",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
     "Catálogo o ficha técnica PDF de Koleos 2026 no localizado en la página de catálogos de Renault México.",
-    "Rendimiento combinado, número de bolsas de aire y frenado autónomo de emergencia por versión: no publicados en el HTML descargable; confirmar en la ficha técnica de la página.",
     "La versión Esprit Alpine es híbrida; el modelo se clasifica como gasolina por su versión de entrada."
   ]
 }

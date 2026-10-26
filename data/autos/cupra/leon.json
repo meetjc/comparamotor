@@ -19,12 +19,12 @@
       "potenciaHp": 190,
       "rendimientoCombinadoKmL": 16.5,
       "autonomiaKm": null,
-      "bolsasAire": 7,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.cupraoficial.mx/autos/leon/leon-190",
       "fechaVerificacion": "2026-10-25",
-      "notas": "7 bolsas de aire (frontales, laterales delanteras, de cortina y central delantera). DSG de 7 velocidades, tracción delantera. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+      "notas": "Bolsas de aire: frontales, laterales delanteras, de cortina y central delantera (la ficha oficial lista los tipos, no el número total). DSG de 7 velocidades, tracción delantera. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
     },
     {
       "nombre": "VZ",
@@ -36,12 +36,12 @@
       "potenciaHp": 300,
       "rendimientoCombinadoKmL": 15.0,
       "autonomiaKm": null,
-      "bolsasAire": 10,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.cupraoficial.mx/autos/leon/leon-vz",
       "fechaVerificacion": "2026-10-25",
-      "notas": "10 bolsas de aire (frontales, laterales delanteras y traseras, de cortina, central delantera y de rodilla para el conductor). DSG de 7 velocidades, tracción delantera. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+      "notas": "Bolsas de aire: frontales, laterales delanteras y traseras, de cortina, central delantera y de rodilla para el conductor (la ficha oficial lista los tipos, no el número total). DSG de 7 velocidades, tracción delantera. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
     },
     {
       "nombre": "VZ Tribe Edition",
@@ -53,12 +53,12 @@
       "potenciaHp": 300,
       "rendimientoCombinadoKmL": 15.0,
       "autonomiaKm": null,
-      "bolsasAire": 10,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.cupraoficial.mx/autos/leon/tribe-edition",
       "fechaVerificacion": "2026-10-25",
-      "notas": "10 bolsas de aire (frontales, laterales delanteras y traseras, de cortina, central delantera y de rodilla para el conductor). DSG de 7 velocidades, tracción delantera. Edición con color Manganeso Mate y rines de 19 pulgadas en negro mate. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+      "notas": "Bolsas de aire: frontales, laterales delanteras y traseras, de cortina, central delantera y de rodilla para el conductor (la ficha oficial lista los tipos, no el número total). DSG de 7 velocidades, tracción delantera. Edición con color Manganeso Mate y rines de 19 pulgadas en negro mate. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
     }
   ],
   "garantia": {

@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 14.7,
       "autonomiaKm": null,
       "bolsasAire": 2,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.changan.mx/models/startruck-doble-cabina",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Doble cabina de 5 plazas con caja de carga, 745 kg de carga. 105 hp y 106 lb-ft según la ficha (la página dice 104 lb-ft), manual de 5 velocidades, tracción trasera. Rendimiento de laboratorio: ciudad 13.3, carretera 17.0 y combinado 14.7 km/l. 2 bolsas de aire frontales. Sin frenado autónomo de emergencia."
+      "notas": "Doble cabina de 5 plazas con caja de carga, 745 kg de carga. 105 hp y 106 lb-ft según la ficha (la página dice 104 lb-ft), manual de 5 velocidades, tracción trasera. Rendimiento de laboratorio: ciudad 13.3, carretera 17.0 y combinado 14.7 km/l. 2 bolsas de aire frontales. Sin frenado autónomo de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

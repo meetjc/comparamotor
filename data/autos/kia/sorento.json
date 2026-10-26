@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 15.26,
       "autonomiaKm": null,
       "bolsasAire": 9,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
       "url": "https://www.kia.com/mx/showroom/sorento/specification.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 8 velocidades. 9 bolsas de aire. El asistente de evasión de colisión frontal no aparece en esta versión."
+      "notas": "Automática de 8 velocidades. 9 bolsas de aire. El asistente de evasión de colisión frontal no aparece en esta versión. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "EX Pack",

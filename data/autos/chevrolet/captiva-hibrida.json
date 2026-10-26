@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/vehiculos-hibridos/captiva-hibrida/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $550,500 y precio financiado o de arrendamiento $519,900 (ver ofertas). La potencia registrada es la del motor eléctrico (201 HP); el motor de gasolina da 105 HP y la marca no publica una potencia combinada. Rango total combinado de 1,075 km (EPA). En esta versión la ficha solo lista alerta de colisión frontal, sin frenado automático."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $550,500 y precio financiado o de arrendamiento $519,900 (ver ofertas). La potencia registrada es la del motor eléctrico (201 HP); el motor de gasolina da 105 HP y la marca no publica una potencia combinada. Rango total combinado de 1,075 km (EPA). En esta versión la ficha solo lista alerta de colisión frontal, sin frenado automático. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Premier",

@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 19.22,
       "autonomiaKm": null,
       "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Toyota México (sitio oficial)",
       "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-hatchback/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor 1.5 L 4 cil. VVT-i, 106 hp @ 6,000 rpm y 103 lb-pie (ficha técnica 2026, actualizada en agosto de 2026). 7 bolsas de aire (2 frontales, 2 laterales, 1 de rodillas y 2 de cortina). Rendimiento de combustible informativo de laboratorio publicado por Toyota: 19.22 km/l con CVT y 18.13 km/l con manual. La ficha de esta versión no incluye Toyota Safety Sense."
+      "notas": "Motor 1.5 L 4 cil. VVT-i, 106 hp @ 6,000 rpm y 103 lb-pie (ficha técnica 2026, actualizada en agosto de 2026). 7 bolsas de aire (2 frontales, 2 laterales, 1 de rodillas y 2 de cortina). Rendimiento de combustible informativo de laboratorio publicado por Toyota: 19.22 km/l con CVT y 18.13 km/l con manual. La ficha de esta versión no incluye Toyota Safety Sense. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "S MT",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 18.13,
       "autonomiaKm": null,
       "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Toyota México (sitio oficial)",
       "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-hatchback/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor 1.5 L 4 cil. VVT-i, 106 hp @ 6,000 rpm y 103 lb-pie (ficha técnica 2026, actualizada en agosto de 2026). 7 bolsas de aire (2 frontales, 2 laterales, 1 de rodillas y 2 de cortina). Rendimiento de combustible informativo de laboratorio publicado por Toyota: 19.22 km/l con CVT y 18.13 km/l con manual. Manual de 5 velocidades. La ficha de esta versión no incluye Toyota Safety Sense."
+      "notas": "Motor 1.5 L 4 cil. VVT-i, 106 hp @ 6,000 rpm y 103 lb-pie (ficha técnica 2026, actualizada en agosto de 2026). 7 bolsas de aire (2 frontales, 2 laterales, 1 de rodillas y 2 de cortina). Rendimiento de combustible informativo de laboratorio publicado por Toyota: 19.22 km/l con CVT y 18.13 km/l con manual. Manual de 5 velocidades. La ficha de esta versión no incluye Toyota Safety Sense. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "S CVT",

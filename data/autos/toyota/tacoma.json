@@ -85,14 +85,14 @@
       "transmision": "automatica",
       "motor": "2.4 L 4 cil.",
       "potenciaHp": 278,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.47,
       "autonomiaKm": null,
       "bolsasAire": 8,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
       "url": "https://www.toyota.mx/modelos/pickup/tacoma/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "8 bolsas de aire (frontales 2, laterales 2, rodillas 2, cortina 2). Incluye Toyota Safety Sense (PCS, LKA, LTA, LDA, AHB). Transmisión automática de 8 velocidades. Tracción 4WD part time. Potencia 278 HP según celda combinada TRD Sport/TRD Off Road de la ficha. La página publica 11.47 km/l solo como 'TRD 4WD' sin distinguir Off Road; no se asignó. Incluye frenado de emergencia (AEB) con sensores de estacionamiento."
+      "notas": "8 bolsas de aire (frontales 2, laterales 2, rodillas 2, cortina 2). Incluye Toyota Safety Sense (PCS, LKA, LTA, LDA, AHB). Transmisión automática de 8 velocidades. Tracción 4WD part time. Potencia 278 HP según celda combinada TRD Sport/TRD Off Road de la ficha. La página publica 11.47 km/l solo como 'TRD 4WD' sin distinguir Off Road; no se asignó. Incluye frenado de emergencia (AEB) con sensores de estacionamiento. Rendimiento de 11.47 km/l: cifra que Toyota publica para 'AT (TRD 4WD)', categoría que incluye las versiones TRD 4x4 con el mismo motor de 278 hp, automática de 8 velocidades y 4WD."
     },
     {
       "nombre": "TRD Sport Premium 4x4 HEV",
@@ -164,7 +164,6 @@
     "https://www.toyota.mx/estrena/"
   ],
   "pendientes": [
-    "Rendimiento de TRD Off Road 4x4: la marca solo publica 'AT (TRD 4WD)' 11.47 km/l sin separar TRD Sport de TRD Off Road",
     "Propulsión: gasolina (SR, TRD Sport, TRD Off Road) e híbrida (TRD Sport Premium HEV, TRD PRO HEV); el campo propulsion se dejó en gasolina",
     "Año modelo tomado de la ficha técnica oficial (MY 26, actualizada agosto 2025); la promoción de octubre 2026 también dice modelo 2026",
     "Toyota anuncia Tacoma como 'Hecha en México'"

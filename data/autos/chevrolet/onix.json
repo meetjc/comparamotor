@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 23.4,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/autos/sedan-deportivo-onix/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $257,100 (bono $86,000 + toma a cuenta de hasta $10,000). Manual de 5 velocidades. Rendimiento oficial: ciudad 19.9, carretera 30.1, combinado 23.4 km/l. Especificaciones: https://www.chevrolet.com.mx/autos/sedan-deportivo-onix/especificaciones-tecnicas. Sin frenado autónomo: la ficha oficial de seguridad no lo lista (StabiliTrak, ABS/EBD/BA, ISOFIX y 6 bolsas de aire)."
+      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $257,100 (bono $86,000 + toma a cuenta de hasta $10,000). Manual de 5 velocidades. Rendimiento oficial: ciudad 19.9, carretera 30.1, combinado 23.4 km/l. Especificaciones: https://www.chevrolet.com.mx/autos/sedan-deportivo-onix/especificaciones-tecnicas. Sin frenado autónomo: la ficha oficial de seguridad no lo lista (StabiliTrak, ABS/EBD/BA, ISOFIX y 6 bolsas de aire). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "LS Automática",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 23.3,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/autos/sedan-deportivo-onix/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $289,500. Automática de 6 velocidades. Rendimiento oficial: ciudad 19.2, carretera 31.6, combinado 23.3 km/l. Sin frenado autónomo: la ficha oficial de seguridad no lo lista (StabiliTrak, ABS/EBD/BA, ISOFIX y 6 bolsas de aire)."
+      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $289,500. Automática de 6 velocidades. Rendimiento oficial: ciudad 19.2, carretera 31.6, combinado 23.3 km/l. Sin frenado autónomo: la ficha oficial de seguridad no lo lista (StabiliTrak, ABS/EBD/BA, ISOFIX y 6 bolsas de aire). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "LT Manual",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 23.4,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/autos/sedan-deportivo-onix/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $310,800. Manual de 5 velocidades. Rendimiento oficial: ciudad 20.0, carretera 29.6, combinado 23.4 km/l. Sin frenado autónomo: la ficha oficial de seguridad no lo lista (StabiliTrak, ABS/EBD/BA, ISOFIX y 6 bolsas de aire)."
+      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $310,800. Manual de 5 velocidades. Rendimiento oficial: ciudad 20.0, carretera 29.6, combinado 23.4 km/l. Sin frenado autónomo: la ficha oficial de seguridad no lo lista (StabiliTrak, ABS/EBD/BA, ISOFIX y 6 bolsas de aire). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "LT Automática",
@@ -71,11 +71,11 @@
       "rendimientoCombinadoKmL": 23.3,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/autos/sedan-deportivo-onix/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $340,100. Automática de 6 velocidades. Rendimiento oficial: ciudad 19.1, carretera 31.6, combinado 23.3 km/l. Sin frenado autónomo: la ficha oficial de seguridad no lo lista (StabiliTrak, ABS/EBD/BA, ISOFIX y 6 bolsas de aire)."
+      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $340,100. Automática de 6 velocidades. Rendimiento oficial: ciudad 19.1, carretera 31.6, combinado 23.3 km/l. Sin frenado autónomo: la ficha oficial de seguridad no lo lista (StabiliTrak, ABS/EBD/BA, ISOFIX y 6 bolsas de aire). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Premier Redline",
@@ -88,11 +88,11 @@
       "rendimientoCombinadoKmL": 22.0,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/autos/sedan-deportivo-onix/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $356,300. Automática de 6 velocidades. Potencia: la tabla técnica indica 116 hp y el texto de la versión indica 114 hp (se usó la tabla). Rendimiento oficial: ciudad 18.4, carretera 28.9, combinado 22.0 km/l. Sin frenado autónomo: la ficha oficial de seguridad no lo lista (StabiliTrak, ABS/EBD/BA, ISOFIX y 6 bolsas de aire)."
+      "notas": "Precio de lista = precio de contado. Precio financiado/leasing publicado: $356,300. Automática de 6 velocidades. Potencia: la tabla técnica indica 116 hp y el texto de la versión indica 114 hp (se usó la tabla). Rendimiento oficial: ciudad 18.4, carretera 28.9, combinado 22.0 km/l. Sin frenado autónomo: la ficha oficial de seguridad no lo lista (StabiliTrak, ABS/EBD/BA, ISOFIX y 6 bolsas de aire). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

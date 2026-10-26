@@ -19,12 +19,12 @@
       "potenciaHp": 150,
       "rendimientoCombinadoKmL": 16.8,
       "autonomiaKm": null,
-      "bolsasAire": 7,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.seat.mx/autos/ateca",
       "fechaVerificacion": "2026-10-25",
-      "notas": "7 bolsas de aire (frontales, laterales delanteras, de cortina y de rodilla para el conductor). Automática de 8 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
+      "notas": "Bolsas de aire: frontales, laterales delanteras, de cortina y de rodilla para el conductor (la ficha oficial lista los tipos, no el número total). Automática de 8 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
     },
     {
       "nombre": "FR",
@@ -36,12 +36,12 @@
       "potenciaHp": 150,
       "rendimientoCombinadoKmL": 16.8,
       "autonomiaKm": null,
-      "bolsasAire": 7,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.seat.mx/autos/ateca",
       "fechaVerificacion": "2026-10-25",
-      "notas": "7 bolsas de aire (frontales, laterales delanteras, de cortina y de rodilla para el conductor). Automática de 8 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
+      "notas": "Bolsas de aire: frontales, laterales delanteras, de cortina y de rodilla para el conductor (la ficha oficial lista los tipos, no el número total). Automática de 8 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
     }
   ],
   "garantia": {

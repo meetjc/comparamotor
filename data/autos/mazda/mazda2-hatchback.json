@@ -19,12 +19,12 @@
       "potenciaHp": 109,
       "rendimientoCombinadoKmL": 19.5,
       "autonomiaKm": null,
-      "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Mazda México (sitio oficial: página del modelo y ficha técnica con lista de precios)",
       "url": "https://www.mazda.mx/vehiculos/mazda-2-hatchback",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 6 velocidades. 6 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina). Sin frenado inteligente en ciudad en esta versión. Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
+      "notas": "Manual de 6 velocidades. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina); la ficha oficial no da el número total, por eso no se publica una cifra. Sin frenado inteligente en ciudad en esta versión. Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "i Sport TA",
@@ -36,12 +36,12 @@
       "potenciaHp": 109,
       "rendimientoCombinadoKmL": 20.2,
       "autonomiaKm": null,
-      "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Mazda México (sitio oficial: página del modelo y ficha técnica con lista de precios)",
       "url": "https://www.mazda.mx/vehiculos/mazda-2-hatchback",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades. 6 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina). Sin frenado inteligente en ciudad en esta versión. Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
+      "notas": "Automática de 6 velocidades. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina); la ficha oficial no da el número total, por eso no se publica una cifra. Sin frenado inteligente en ciudad en esta versión. Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "i Grand Touring",
@@ -53,12 +53,12 @@
       "potenciaHp": 109,
       "rendimientoCombinadoKmL": 20.2,
       "autonomiaKm": null,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mazda México (sitio oficial: página del modelo y ficha técnica con lista de precios)",
       "url": "https://www.mazda.mx/vehiculos/mazda-2-hatchback",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades. 6 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina). Con frenado inteligente en ciudad (SCBS). Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
+      "notas": "Automática de 6 velocidades. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina); la ficha oficial no da el número total, por eso no se publica una cifra. Con frenado inteligente en ciudad (SCBS). Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
     },
     {
       "nombre": "Signature",
@@ -70,12 +70,12 @@
       "potenciaHp": 141,
       "rendimientoCombinadoKmL": 18.2,
       "autonomiaKm": null,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mazda México (sitio oficial: página del modelo y ficha técnica con lista de precios)",
       "url": "https://www.mazda.mx/vehiculos/mazda-2-hatchback",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades. 6 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina). Con frenado inteligente en ciudad (SCBS). Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
+      "notas": "Automática de 6 velocidades. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales y de cortina); la ficha oficial no da el número total, por eso no se publica una cifra. Con frenado inteligente en ciudad (SCBS). Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
     }
   ],
   "garantia": {

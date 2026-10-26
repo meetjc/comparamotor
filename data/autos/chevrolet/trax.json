@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 17.5,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/suvs/trax-suv-deportiva/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $483,300 y precio financiado o de arrendamiento $473,300 (ver ofertas). Automática de 6 velocidades. La ficha lista alerta y asistente de colisión frontal, sin decir si frena de forma automática."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $483,300 y precio financiado o de arrendamiento $473,300 (ver ofertas). Automática de 6 velocidades. La ficha lista alerta y asistente de colisión frontal, sin decir si frena de forma automática. La página del modelo incluye frenado de emergencia automático en el paquete Chevy Safety Assist, y la ficha marca el asistente de colisión frontal en todas las versiones."
     },
     {
       "nombre": "RS",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 17.5,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/suvs/trax-suv-deportiva/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $519,800 y precio financiado o de arrendamiento $509,800 (ver ofertas). Automática de 6 velocidades. La ficha lista alerta y asistente de colisión frontal, sin decir si frena de forma automática."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $519,800 y precio financiado o de arrendamiento $509,800 (ver ofertas). Automática de 6 velocidades. La ficha lista alerta y asistente de colisión frontal, sin decir si frena de forma automática. La página del modelo incluye frenado de emergencia automático en el paquete Chevy Safety Assist, y la ficha marca el asistente de colisión frontal en todas las versiones."
     }
   ],
   "garantia": {
@@ -92,7 +92,6 @@
     }
   ],
   "pendientes": [
-    "Frenado autónomo de emergencia sin confirmar: la ficha dice \"asistente de colisión frontal\" sin mencionar frenado.",
     "La ficha técnica incluye una versión LS que no aparece en la tabla de precios vigente.",
     "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
   ]

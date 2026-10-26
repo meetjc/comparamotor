@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 119,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/hsphev",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Híbrido enchufable: motor 1.5 L turbo de 140 hp + motor eléctrico de tracción de 135 kW; potencia combinada 274 hp y 248 lb-pie. Transmisión híbrida Duo Drive (automática EDU). Batería de 21 kWh, cargador a bordo de 7 kW con conector SAE J1772. Autonomía 100% eléctrica de 119 km. MG publica un rendimiento combinado de 100.7 km/l medido con la batería cargada al 100% (ciudad 109.7, carretera 91.5); no se registra como rendimiento combinado porque no es comparable con un auto de gasolina. 6 bolsas de aire. La ficha no marca frenado autónomo de emergencia en Excite PHEV. El sitio muestra además un precio especial de $604,900 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+      "notas": "Híbrido enchufable: motor 1.5 L turbo de 140 hp + motor eléctrico de tracción de 135 kW; potencia combinada 274 hp y 248 lb-pie. Transmisión híbrida Duo Drive (automática EDU). Batería de 21 kWh, cargador a bordo de 7 kW con conector SAE J1772. Autonomía 100% eléctrica de 119 km. MG publica un rendimiento combinado de 100.7 km/l medido con la batería cargada al 100% (ciudad 109.7, carretera 91.5); no se registra como rendimiento combinado porque no es comparable con un auto de gasolina. 6 bolsas de aire. La ficha no marca frenado autónomo de emergencia en Excite PHEV. El sitio muestra además un precio especial de $604,900 sin condiciones ni vigencia publicadas (no se registra como oferta). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "PHEV Trophy AT",

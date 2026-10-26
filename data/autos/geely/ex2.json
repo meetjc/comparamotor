@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 395,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex2",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor eléctrico de 114 hp y 150 Nm, tracción trasera. Autonomía 395 km y consumo 11.8 kWh/100 km (NEDC); carga rápida DC hasta 70 kW (30 a 80% en 25 min). Rines de acero de 15\". Bolsas de aire: la ficha marca frontales, laterales y de cortina para ambas versiones, pero la página del modelo dice 4 bolsas (frontales y laterales) para GL; dato por confirmar. Sin frenado autónomo de emergencia ni alerta de colisión frontal en esta versión según la ficha."
+      "notas": "Motor eléctrico de 114 hp y 150 Nm, tracción trasera. Autonomía 395 km y consumo 11.8 kWh/100 km (NEDC); carga rápida DC hasta 70 kW (30 a 80% en 25 min). Rines de acero de 15\". Bolsas de aire: la ficha marca frontales, laterales y de cortina para ambas versiones, pero la página del modelo dice 4 bolsas (frontales y laterales) para GL; dato por confirmar. Sin frenado autónomo de emergencia ni alerta de colisión frontal en esta versión según la ficha. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "GF",

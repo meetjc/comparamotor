@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 19.14,
       "autonomiaKm": null,
       "bolsasAire": 8,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": false,
       "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
       "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/corolla/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Rendimiento: la página publica una sola cifra para transmisión CVT (19.14 km/l), sin distinguir versión; condiciones de laboratorio. Toyota no lista Toyota Safety Sense / Pre-Colisión (PCS) en el equipamiento de esta versión; frenado autónomo no confirmado."
+      "notas": "Rendimiento: la página publica una sola cifra para transmisión CVT (19.14 km/l), sin distinguir versión; condiciones de laboratorio. Toyota no lista Toyota Safety Sense / Pre-Colisión (PCS) en el equipamiento de esta versión; frenado autónomo no confirmado. La ficha técnica oficial marca con guion (–, no disponible) el renglón 'Toyota Safety Sense (TSS): Sistema de Pre-Colisión (PSC) con detección de peatones' en esta versión."
     },
     {
       "nombre": "LE CVT",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 19.14,
       "autonomiaKm": null,
       "bolsasAire": 8,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": false,
       "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
       "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/corolla/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Rendimiento: la página publica una sola cifra para transmisión CVT (19.14 km/l), sin distinguir versión; condiciones de laboratorio. Toyota no lista Toyota Safety Sense / Pre-Colisión (PCS) en el equipamiento de esta versión; frenado autónomo no confirmado."
+      "notas": "Rendimiento: la página publica una sola cifra para transmisión CVT (19.14 km/l), sin distinguir versión; condiciones de laboratorio. Toyota no lista Toyota Safety Sense / Pre-Colisión (PCS) en el equipamiento de esta versión; frenado autónomo no confirmado. La ficha técnica oficial marca con guion (–, no disponible) el renglón 'Toyota Safety Sense (TSS): Sistema de Pre-Colisión (PSC) con detección de peatones' en esta versión."
     },
     {
       "nombre": "XLE CVT",
@@ -88,11 +88,11 @@
       "rendimientoCombinadoKmL": 31.31,
       "autonomiaKm": null,
       "bolsasAire": 8,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": false,
       "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
       "url": "https://www.toyota.mx/modelos/hibridos/corolla-hev/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Versión híbrida. 138 HP = potencia total del sistema híbrido (motor de combustión 97 HP). Transmisión: engranaje planetario (e-CVT). Rendimiento 31.31 km/l: cifra única de la página Corolla HEV. Toyota no lista Toyota Safety Sense / Pre-Colisión (PCS) en el equipamiento de esta versión; frenado autónomo no confirmado."
+      "notas": "Versión híbrida. 138 HP = potencia total del sistema híbrido (motor de combustión 97 HP). Transmisión: engranaje planetario (e-CVT). Rendimiento 31.31 km/l: cifra única de la página Corolla HEV. Toyota no lista Toyota Safety Sense / Pre-Colisión (PCS) en el equipamiento de esta versión; frenado autónomo no confirmado. La ficha técnica oficial de Corolla HEV marca con guion (–, no disponible) el renglón 'Toyota Safety Sense (TSS): Sistema de Pre-Colisión (PSC) con detección de peatones' en esta versión."
     },
     {
       "nombre": "XLE HEV",
@@ -147,7 +147,6 @@
     "https://www.toyota.mx/estrena/"
   ],
   "pendientes": [
-    "Frenado autónomo de emergencia no confirmado en Base CVT, LE CVT y LE HEV (la marca no lo lista en su equipamiento)",
     "Rendimiento por versión: Toyota publica una sola cifra para CVT gasolina (19.14 km/l) y otra para HEV (31.31 km/l)",
     "Propulsión: el modelo mezcla versiones de gasolina y híbridas (LE HEV, XLE HEV); el campo propulsion se dejó en gasolina y cada versión HEV lo indica en motor y notas",
     "Año modelo tomado de la ficha técnica oficial (MY 26); la ficha de Corolla HEV tiene fecha de actualización agosto de 2025"

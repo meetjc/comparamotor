@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 19.8,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/mg3",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor 1.5 L de 4 cilindros, 108 hp y 104 lb-pie, gasolina de 92 octanos. Manual de 5 velocidades. Rendimiento oficial de la ficha 2027 (ciudad 17.1, carretera 24.5, combinado 19.8 km/l); el sitio vende esta versión como 2026 al mismo precio que la 2027. 6 bolsas de aire. La ficha no incluye frenado autónomo de emergencia. El sitio muestra además un precio especial de $276,000 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+      "notas": "Motor 1.5 L de 4 cilindros, 108 hp y 104 lb-pie, gasolina de 92 octanos. Manual de 5 velocidades. Rendimiento oficial de la ficha 2027 (ciudad 17.1, carretera 24.5, combinado 19.8 km/l); el sitio vende esta versión como 2026 al mismo precio que la 2027. 6 bolsas de aire. La ficha no incluye frenado autónomo de emergencia. El sitio muestra además un precio especial de $276,000 sin condiciones ni vigencia publicadas (no se registra como oferta). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Style CVT",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 19.7,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/mg3",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor 1.5 L de 4 cilindros, 108 hp y 104 lb-pie, gasolina de 92 octanos. CVT con 8 velocidades simuladas. Rendimiento combinado de 19.7 km/l según la ficha 2027 (mismo valor para las versiones CVT). 6 bolsas de aire, control crucero, freno de estacionamiento electrónico con Auto Hold. La ficha no incluye frenado autónomo de emergencia. El sitio muestra además un precio especial de $294,000 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+      "notas": "Motor 1.5 L de 4 cilindros, 108 hp y 104 lb-pie, gasolina de 92 octanos. CVT con 8 velocidades simuladas. Rendimiento combinado de 19.7 km/l según la ficha 2027 (mismo valor para las versiones CVT). 6 bolsas de aire, control crucero, freno de estacionamiento electrónico con Auto Hold. La ficha no incluye frenado autónomo de emergencia. El sitio muestra además un precio especial de $294,000 sin condiciones ni vigencia publicadas (no se registra como oferta). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Excite CVT",
@@ -71,11 +71,11 @@
       "rendimientoCombinadoKmL": 19.7,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/mg3",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor 1.5 L de 4 cilindros, 108 hp y 104 lb-pie, gasolina de 92 octanos. CVT con 8 velocidades simuladas. Rendimiento oficial ciudad 17.3, carretera 23.7, combinado 19.7 km/l (ficha 2027). 6 bolsas de aire y asistencias MG Pilot (control crucero adaptativo, alerta de colisión frontal, mantenimiento de carril); la ficha no lista frenado autónomo de emergencia. El sitio muestra además un precio especial de $334,000 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+      "notas": "Motor 1.5 L de 4 cilindros, 108 hp y 104 lb-pie, gasolina de 92 octanos. CVT con 8 velocidades simuladas. Rendimiento oficial ciudad 17.3, carretera 23.7, combinado 19.7 km/l (ficha 2027). 6 bolsas de aire y asistencias MG Pilot (control crucero adaptativo, alerta de colisión frontal, mantenimiento de carril); la ficha no lista frenado autónomo de emergencia. El sitio muestra además un precio especial de $334,000 sin condiciones ni vigencia publicadas (no se registra como oferta). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

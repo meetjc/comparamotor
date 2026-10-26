@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 106,
       "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Jaecoo México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.jaecoo.mx/modelos/detalle/jaecoo-7-phev/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista $649,900; la página lo muestra tachado y anuncia $579,900 con bono de $70,000. Ficha técnica oficial (Jaecoo 7 SHS): motor de gasolina 1.5 L turbo de 141 hp y 159 lb-ft; motor eléctrico de 201 hp y 229 lb-ft; Jaecoo no publica la potencia combinada. Transmisión híbrida dedicada (DHT), tracción delantera, batería LFP de 18.3 kWh. Consumo combinado 31.6 km/l (ciudad 30.1, carretera 33.7); autonomía eléctrica 106 km (NEDC) y combinada 1,300 km. 7 bolsas de aire (frontales, laterales, de cortina y de rodilla para el conductor). Sin frenado automático de emergencia ni asistencias con radar en esta versión según la ficha. Rendimiento combinado oficial de 31.6 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+      "notas": "Precio de lista $649,900; la página lo muestra tachado y anuncia $579,900 con bono de $70,000. Ficha técnica oficial (Jaecoo 7 SHS): motor de gasolina 1.5 L turbo de 141 hp y 159 lb-ft; motor eléctrico de 201 hp y 229 lb-ft; Jaecoo no publica la potencia combinada. Transmisión híbrida dedicada (DHT), tracción delantera, batería LFP de 18.3 kWh. Consumo combinado 31.6 km/l (ciudad 30.1, carretera 33.7); autonomía eléctrica 106 km (NEDC) y combinada 1,300 km. 7 bolsas de aire (frontales, laterales, de cortina y de rodilla para el conductor). Sin frenado automático de emergencia ni asistencias con radar en esta versión según la ficha. Rendimiento combinado oficial de 31.6 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Inspire",

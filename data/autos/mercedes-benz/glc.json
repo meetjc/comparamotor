@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "4 cil. 2.0 L turbo",
       "potenciaHp": 204,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 15.44,
       "autonomiaKm": null,
       "bolsasAire": 8,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
       "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "9G-TRONIC, 4MATIC. La ficha disponible es del año modelo 2025. 8 bolsas de aire (ficha). La ficha no confirma frenado automático de emergencia. Potencia convertida de 150 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+      "notas": "9G-TRONIC, 4MATIC. La ficha disponible es del año modelo 2025. 8 bolsas de aire (ficha). La ficha no confirma frenado automático de emergencia. Potencia convertida de 150 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz. Rendimiento combinado de 15.44 km/l según la ficha técnica oficial GLC 200 4MATIC año modelo 2025."
     },
     {
       "nombre": "GLC 300 4MATIC",

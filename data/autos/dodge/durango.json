@@ -24,7 +24,7 @@
       "fuente": "Dodge México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.dodge.com/mx/buzz-model/durango/hellcat.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 8 velocidades. 0 a 100 km/h en 3.5 s según la marca. Bolsas frontales, laterales, de cortina y de rodilla para conductor (sin total). Potencia de la ficha de la edición Hellcat Redline 2027. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Automática de 8 velocidades. 0 a 100 km/h en 3.5 s según la marca. Bolsas frontales, laterales, de cortina y de rodilla para conductor (sin total). Potencia de la ficha de la edición Hellcat Redline 2027. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026). La lista de seguridad de la ficha Hellcat Redline 2027 (monitor de punto ciego, asistencia de estacionamiento con frenado STOP, asistencia de frenos Ready Alert) no incluye frenado autónomo de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {
@@ -53,6 +53,6 @@
   "pendientes": [
     "Solo se vende la versión SRT Hellcat; la 2026 sigue en la lista a $2,179,900",
     "Las fichas son de ediciones especiales (Redline 2027; Red Fury, Road Predator y Black Demon 2026); confirmar si el precio corresponde a una de ellas",
-    "Frenado autónomo, rendimiento y total de bolsas: no publicados en la ficha"
+    "Rendimiento y total de bolsas: no publicados en la ficha."
   ]
 }

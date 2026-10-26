@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 17.52,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-plus",
       "fechaVerificacion": "2026-10-25",
-      "notas": "172 hp @ 5,500 rpm y 290 Nm, doble embrague (DCT) de 7 velocidades, tracción delantera. Rendimiento de laboratorio de la ficha 2027: ciudad 15.27, carretera 21.38 y combinado 17.52 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Sin frenado autónomo de emergencia ni alerta de colisión frontal en GL según la ficha. Pantalla de 14.6\", rines de 18\"."
+      "notas": "172 hp @ 5,500 rpm y 290 Nm, doble embrague (DCT) de 7 velocidades, tracción delantera. Rendimiento de laboratorio de la ficha 2027: ciudad 15.27, carretera 21.38 y combinado 17.52 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Sin frenado autónomo de emergencia ni alerta de colisión frontal en GL según la ficha. Pantalla de 14.6\", rines de 18\". Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "GF",

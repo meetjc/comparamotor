@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 17.3,
       "autonomiaKm": null,
       "bolsasAire": 2,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/gx3-pro",
       "fechaVerificacion": "2026-10-25",
-      "notas": "102 hp @ 5,600 rpm y 140 Nm, manual de 5 velocidades. Rendimiento de laboratorio: ciudad 15.41, carretera 19.61 y combinado 17.30 km/l. 2 bolsas de aire frontales. Tiene asistencia de frenado de emergencia (ayuda a frenar más fuerte cuando el conductor pisa el pedal), pero no frenado autónomo. Techo corredizo, cámara de reversa."
+      "notas": "102 hp @ 5,600 rpm y 140 Nm, manual de 5 velocidades. Rendimiento de laboratorio: ciudad 15.41, carretera 19.61 y combinado 17.30 km/l. 2 bolsas de aire frontales. Tiene asistencia de frenado de emergencia (ayuda a frenar más fuerte cuando el conductor pisa el pedal), pero no frenado autónomo. Techo corredizo, cámara de reversa. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "GF",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 21.49,
       "autonomiaKm": null,
       "bolsasAire": 2,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/gx3-pro",
       "fechaVerificacion": "2026-10-25",
-      "notas": "102 hp y 140 Nm, transmisión CVT. Rendimiento de laboratorio: ciudad 18.76, carretera 24.81 y combinado 21.49 km/l. 2 bolsas de aire frontales. Sin frenado autónomo de emergencia (solo asistencia de frenado). Techo panorámico corredizo, control crucero, llave inteligente."
+      "notas": "102 hp y 140 Nm, transmisión CVT. Rendimiento de laboratorio: ciudad 18.76, carretera 24.81 y combinado 21.49 km/l. 2 bolsas de aire frontales. Sin frenado autónomo de emergencia (solo asistencia de frenado). Techo panorámico corredizo, control crucero, llave inteligente. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

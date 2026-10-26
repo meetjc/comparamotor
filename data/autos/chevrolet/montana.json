@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 19.3,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/montana-pickup-compacta/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $483,700 y precio financiado o de arrendamiento $483,700 (ver ofertas). Automática de 6 velocidades con modo Low Gear. La ficha de seguridad no incluye frenado autónomo."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $483,700 y precio financiado o de arrendamiento $483,700 (ver ofertas). Automática de 6 velocidades con modo Low Gear. La ficha de seguridad no incluye frenado autónomo. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "RS",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 18.6,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/montana-pickup-compacta/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $535,900 y precio financiado o de arrendamiento $535,900 (ver ofertas). Automática de 6 velocidades con modo Low Gear. La ficha de seguridad no incluye frenado autónomo."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $535,900 y precio financiado o de arrendamiento $535,900 (ver ofertas). Automática de 6 velocidades con modo Low Gear. La ficha de seguridad no incluye frenado autónomo. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

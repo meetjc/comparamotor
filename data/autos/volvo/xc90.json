@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 75,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
       "url": "https://www.volvocars.com/mx/cars/xc90-hybrid/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Potencia combinada de 406 hp, automática Geartronic de 8 velocidades, tracción integral, batería de 18.8 kWh, hasta 75.3 km eléctricos. Volvo publica 51 km/l como consumo ponderado que incluye el uso eléctrico; no es comparable con un rendimiento de gasolina. Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+      "notas": "Potencia combinada de 406 hp, automática Geartronic de 8 velocidades, tracción integral, batería de 18.8 kWh, hasta 75.3 km eléctricos. Volvo publica 51 km/l como consumo ponderado que incluye el uso eléctrico; no es comparable con un rendimiento de gasolina. Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). Precio con impuestos incluidos según Volvo. Incluye frenado automático en intersecciones, que frena solo si detecta riesgo de colisión (sitio oficial: especificaciones, marcado como incluido en esta versión)."
     },
     {
       "nombre": "Ultra",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 75,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
       "url": "https://www.volvocars.com/mx/cars/xc90-hybrid/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Potencia combinada de 406 hp, tracción integral, hasta 75.3 km eléctricos. Consumo ponderado publicado de 51 km/l (incluye uso eléctrico). Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+      "notas": "Potencia combinada de 406 hp, tracción integral, hasta 75.3 km eléctricos. Consumo ponderado publicado de 51 km/l (incluye uso eléctrico). Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). Precio con impuestos incluidos según Volvo. Incluye frenado automático en intersecciones, que frena solo si detecta riesgo de colisión (sitio oficial: especificaciones, marcado como incluido en esta versión)."
     }
   ],
   "garantia": {

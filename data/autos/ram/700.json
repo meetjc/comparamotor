@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 18.3,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.ram.com/mx/ram-700.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Cabina regular, 2 pasajeros. Manual de 5 velocidades, tracción delantera. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Cabina regular, 2 pasajeros. Manual de 5 velocidades, tracción delantera. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Tradesman Crew Cab",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 18.4,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.ram.com/mx/ram-700.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Doble cabina, hasta 5 pasajeros. Manual de 5 velocidades. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Doble cabina, hasta 5 pasajeros. Manual de 5 velocidades. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Bighorn S Crew Cab",
@@ -71,11 +71,11 @@
       "rendimientoCombinadoKmL": 18.4,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.ram.com/mx/ram-700.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Doble cabina. Manual de 5 velocidades. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Doble cabina. Manual de 5 velocidades. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Bighorn Crew Cab CVT",
@@ -88,11 +88,11 @@
       "rendimientoCombinadoKmL": 18.4,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.ram.com/mx/ram-700.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Doble cabina. Transmisión CVT. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Doble cabina. Transmisión CVT. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Laramie Crew Cab 1.0L Turbo CVT",
@@ -105,11 +105,11 @@
       "rendimientoCombinadoKmL": 17.0,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.ram.com/mx/ram-700.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Doble cabina. Transmisión CVT. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Doble cabina. Transmisión CVT. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

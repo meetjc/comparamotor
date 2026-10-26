@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 17.14,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": false,
       "fuente": "Hyundai México (sitio oficial)",
       "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista (la página lo etiqueta 'Precio de lista'). Manual de 6 velocidades, 2WD, rines de 17\". Rendimiento NOM-163 de laboratorio: ciudad 15.27, carretera 20.17 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. El Hyundai SmartSense de la tabla de especificaciones no lista asistente de anticolisión frontal (FCA) para esta versión; solo la página de la Limited Turbo lo destaca."
+      "notas": "Precio de lista (la página lo etiqueta 'Precio de lista'). Manual de 6 velocidades, 2WD, rines de 17\". Rendimiento NOM-163 de laboratorio: ciudad 15.27, carretera 20.17 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. La ficha técnica oficial marca con guion ('= Equipo no disponible') el renglón 'Asistente de Anticolisión Frontal y de Giro (FCA + JT)' en esta versión."
     },
     {
       "nombre": "Creta GLS IVT",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 17.86,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": false,
       "fuente": "Hyundai México (sitio oficial)",
       "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Hyundai la nombra IVT (transmisión variable inteligente, de tipo continuamente variable). Rendimiento NOM-163: ciudad 16.18, carretera 20.45 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. El Hyundai SmartSense de la tabla de especificaciones no lista asistente de anticolisión frontal (FCA) para esta versión; solo la página de la Limited Turbo lo destaca."
+      "notas": "Hyundai la nombra IVT (transmisión variable inteligente, de tipo continuamente variable). Rendimiento NOM-163: ciudad 16.18, carretera 20.45 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. La ficha técnica oficial marca con guion ('= Equipo no disponible') el renglón 'Asistente de Anticolisión Frontal y de Giro (FCA + JT)' en esta versión. Precio de lista (la página lo etiqueta 'Precio de lista')."
     },
     {
       "nombre": "Creta GLS Premium IVT",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 17.86,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": false,
       "fuente": "Hyundai México (sitio oficial)",
       "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "IVT. Rendimiento NOM-163: ciudad 16.18, carretera 20.45 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. El Hyundai SmartSense de la tabla de especificaciones no lista asistente de anticolisión frontal (FCA) para esta versión; solo la página de la Limited Turbo lo destaca."
+      "notas": "IVT. Rendimiento NOM-163: ciudad 16.18, carretera 20.45 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. La ficha técnica oficial marca con guion ('= Equipo no disponible') el renglón 'Asistente de Anticolisión Frontal y de Giro (FCA + JT)' en esta versión. Precio de lista (la página lo etiqueta 'Precio de lista')."
     },
     {
       "nombre": "Creta Limited Turbo",
@@ -75,7 +75,7 @@
       "fuente": "Hyundai México (sitio oficial)",
       "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "DCT de 7 velocidades. Rendimiento NOM-163: ciudad 17.39, carretera 23.46 km/l. Frenado: la página de la versión (https://www.hyundai.com.mx/modelos/creta-2027/limited-turbo) destaca 'Asistencia de Anticolisión y de Giro incluyendo Ciclistas, Peatones (FCA + JT + CAR/PED/CYC)'. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra."
+      "notas": "DCT de 7 velocidades. Rendimiento NOM-163: ciudad 17.39, carretera 23.46 km/l. Frenado: la página de la versión (https://www.hyundai.com.mx/modelos/creta-2027/limited-turbo) destaca 'Asistencia de Anticolisión y de Giro incluyendo Ciclistas, Peatones (FCA + JT + CAR/PED/CYC)'. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. Precio de lista (la página lo etiqueta 'Precio de lista')."
     }
   ],
   "garantia": {
@@ -142,7 +142,6 @@
   ],
   "pendientes": [
     "Número total de bolsas de aire de la Creta 5P (la página no lo publica; solo la Creta Grand dice 6)",
-    "Frenado autónomo (FCA) en GL TM, GLS IVT y GLS Premium IVT: no confirmado en la fuente",
     "La página de garantía de Hyundai lista Creta 2026 y Creta Grand, pero no nombra explícitamente a Creta 2027; la página de la Creta 2027 sí promete 7 años",
     "Creta Grand tiene su propio archivo (creta-grand)",
     "La ficha técnica PDF lista el asistente de anticolisión frontal y de giro, pero la tabla web (25-oct-2026) ya no lo muestra; se conservó el dato previo solo para Limited Turbo"

@@ -16,7 +16,7 @@
       "moneda": "MXN",
       "transmision": "directa",
       "motor": "Eléctrico, batería de 77 kWh, tracción delantera",
-      "potenciaHp": null,
+      "potenciaHp": 201,
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 277,
       "bolsasAire": null,
@@ -24,7 +24,7 @@
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/vehiculos-electricos/express-max-ev",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor eléctrico de 150 kW (la marca no publica la potencia en HP). Autonomía de 277 km. Capacidad de carga 1,480 kg y área de carga de 5.9 m³. La página publica \"precio desde $1,079,000\" sin precio de lista por versión."
+      "notas": "Motor eléctrico de 150 kW (la marca no publica la potencia en HP). Autonomía de 277 km. Capacidad de carga 1,480 kg y área de carga de 5.9 m³. La página publica \"precio desde $1,079,000\" sin precio de lista por versión. Potencia de 201 hp registrada en el Catálogo de Rendimientos CONUEE 2026 (equivale a los 150 kW que publica Chevrolet). Sin precio por versión: la página solo publica «precio desde $1,079,000» (revisada el 25 oct 2026)."
     },
     {
       "nombre": "Versión larga",
@@ -33,7 +33,7 @@
       "moneda": "MXN",
       "transmision": "directa",
       "motor": "Eléctrico, batería de 88.8 kWh, tracción delantera",
-      "potenciaHp": null,
+      "potenciaHp": 201,
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 302,
       "bolsasAire": null,
@@ -41,7 +41,7 @@
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/vehiculos-electricos/express-max-ev",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor eléctrico de 150 kW (la marca no publica la potencia en HP). Autonomía de 302 km. Capacidad de carga 1,305 kg y área de carga de 8.7 m³."
+      "notas": "Motor eléctrico de 150 kW (la marca no publica la potencia en HP). Autonomía de 302 km. Capacidad de carga 1,305 kg y área de carga de 8.7 m³. Potencia de 201 hp registrada en el Catálogo de Rendimientos CONUEE 2026 (equivale a los 150 kW que publica Chevrolet). Sin precio por versión: la página solo publica «precio desde $1,079,000» (revisada el 25 oct 2026)."
     }
   ],
   "garantia": {
@@ -54,6 +54,11 @@
     {
       "nombre": "Chevrolet México: Express MAX EV",
       "url": "https://www.chevrolet.com.mx/vehiculos-electricos/express-max-ev",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
       "tipo": "oficial"
     }
   ],

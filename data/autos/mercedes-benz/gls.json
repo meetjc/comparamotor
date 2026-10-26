@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "6 cil. 3.0 L turbo mild hybrid",
       "potenciaHp": 381,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.44,
       "autonomiaKm": null,
       "bolsasAire": 9,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
       "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Mild hybrid, 4MATIC. 9 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 280 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+      "notas": "Mild hybrid, 4MATIC. 9 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 280 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz. Rendimiento combinado de 11.44 km/l según la ficha técnica oficial GLS 450 4MATIC MH año modelo 2026."
     },
     {
       "nombre": "GLS 580 4MATIC MH",
@@ -34,14 +34,14 @@
       "transmision": "automatica",
       "motor": "V8 4.0 L biturbo mild hybrid",
       "potenciaHp": 517,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 9.29,
       "autonomiaKm": null,
       "bolsasAire": 9,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
       "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Mild hybrid, 4MATIC. 9 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 380 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+      "notas": "Mild hybrid, 4MATIC. 9 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 380 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz. Rendimiento combinado de 9.29 km/l según la ficha técnica oficial GLS 580 4MATIC MH año modelo 2026."
     }
   ],
   "garantia": {

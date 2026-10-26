@@ -17,14 +17,14 @@
       "transmision": "doble-embrague",
       "motor": "2.0 L Turbo (1,998 cc)",
       "potenciaHp": 251,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.0,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Jetour México (sitio oficial jetoursoueast.mx: página del modelo y ficha técnica)",
       "url": "https://jetoursoueast.mx/jetour/modelo-t2/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026. Precio \"desde\" $699,900. Según la página: 2.0 turbo de 251 hp y 288 lb-ft, DCT de 7 velocidades, tracción XWD en tiempo real, rines de 19\", cámara 540°. La ficha técnica publicada es del año modelo 2027 (solo versión Wild), por eso faltan rendimiento y asistencias. 6 bolsas de aire según la página del modelo."
+      "notas": "Año modelo 2026. Precio \"desde\" $699,900. Según la página: 2.0 turbo de 251 hp y 288 lb-ft, DCT de 7 velocidades, tracción XWD en tiempo real, rines de 19\", cámara 540°. La ficha técnica publicada es del año modelo 2027 (solo versión Wild), por eso faltan rendimiento y asistencias. 6 bolsas de aire según la página del modelo. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (T2 2.0T con DCT de 7 velocidades)."
     },
     {
       "nombre": "Wild",
@@ -80,10 +80,15 @@
       "nombre": "Jetour Soueast: cobertura de garantía",
       "url": "https://jetoursoueast.mx/wp-content/uploads/2025/08/Jetour_Soueast_Cobertura_Garantia_2025.pdf",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
     "El sitio publica precios \"desde\"; se tomaron como precio de lista con IVA (no se dice si incluyen ISAN ni si son precio con descuento)",
-    "La versión Savage 2026 no aparece en la ficha técnica 2027: faltan rendimiento y confirmación de frenado automático"
+    "La versión Savage 2026 no aparece en la ficha técnica 2027: falta confirmar si trae frenado automático de emergencia (su rendimiento se tomó del catálogo CONUEE 2026)"
   ]
 }

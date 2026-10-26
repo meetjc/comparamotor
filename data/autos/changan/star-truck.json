@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 14.7,
       "autonomiaKm": null,
       "bolsasAire": 2,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.changan.mx/models/star-truck",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Camioncito de carga ligera con caja de redilas, 2 plazas y 1,100 kg de carga. 105 hp y 104 lb-ft, manual de 5 velocidades, tracción trasera, gasolina de 87 octanos. Rendimiento de laboratorio: ciudad 13.3, carretera 17.0 y combinado 14.7 km/l. 2 bolsas de aire frontales. Sin frenado autónomo de emergencia."
+      "notas": "Camioncito de carga ligera con caja de redilas, 2 plazas y 1,100 kg de carga. 105 hp y 104 lb-ft, manual de 5 velocidades, tracción trasera, gasolina de 87 octanos. Rendimiento de laboratorio: ciudad 13.3, carretera 17.0 y combinado 14.7 km/l. 2 bolsas de aire frontales. Sin frenado autónomo de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

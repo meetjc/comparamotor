@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "1.5 L 4 cil.",
       "potenciaHp": 103,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 16.2,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
       "url": "https://www.mitsubishi-motors.mx/modelos/xpander-cross",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Gasolina 1.5 L de 4 cilindros, 103 hp y 104 lb-pie, automática de 4 velocidades, tracción delantera, 7 plazas. 6 bolsas de aire (conductor, pasajero, 2 laterales y 2 de cortina). La ficha técnica no publica rendimiento de combustible. La ficha no menciona frenado autónomo de emergencia."
+      "notas": "Gasolina 1.5 L de 4 cilindros, 103 hp y 104 lb-pie, automática de 4 velocidades, tracción delantera, 7 plazas. 6 bolsas de aire (conductor, pasajero, 2 laterales y 2 de cortina). La ficha técnica no publica rendimiento de combustible. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026. La ficha no menciona frenado autónomo de emergencia."
     }
   ],
   "garantia": {
@@ -58,10 +58,14 @@
       "nombre": "Promociones Mitsubishi",
       "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento de combustible no publicado en la ficha técnica.",
     "Versión de estilo crossover del Xpander; se clasifica como van por su carrocería de 7 plazas."
   ]
 }

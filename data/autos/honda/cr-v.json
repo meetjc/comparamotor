@@ -17,14 +17,14 @@
       "transmision": "cvt",
       "motor": "1.5 L 4 cil. turbo VTEC",
       "potenciaHp": 188,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 16.6,
       "autonomiaKm": null,
-      "bolsasAire": 10,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/cr-v",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor 1.5 L Turbo VTEC 188 hp @ 6,000 rpm y 177 lb-pie; transmisión CVT; tracción delantera según la ficha. 10 bolsas de aire sumadas de la ficha (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila). Honda Sensing con CMBS y alerta de colisión frontal. Precio con IVA (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. "
+      "notas": "Motor 1.5 L Turbo VTEC 188 hp @ 6,000 rpm y 177 lb-pie; transmisión CVT; tracción delantera según la ficha. Bolsas de aire sumadas de la ficha (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila); la ficha oficial no da el número total, por eso no se publica una cifra. Honda Sensing con CMBS y alerta de colisión frontal. Precio con IVA (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (registrado como año-modelo 2026, mismo motor y transmisión que esta versión)."
     },
     {
       "nombre": "Touring",
@@ -34,14 +34,14 @@
       "transmision": "cvt",
       "motor": "1.5 L 4 cil. turbo VTEC",
       "potenciaHp": 188,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 16.6,
       "autonomiaKm": null,
-      "bolsasAire": 10,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/cr-v",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor 1.5 L Turbo VTEC 188 hp @ 6,000 rpm y 177 lb-pie; transmisión CVT; tracción delantera según la ficha. 10 bolsas de aire sumadas de la ficha (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila). Honda Sensing con CMBS y alerta de colisión frontal. Precio con IVA (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Añade sensores de estacionamiento delanteros y traseros respecto de la Turbo Plus."
+      "notas": "Motor 1.5 L Turbo VTEC 188 hp @ 6,000 rpm y 177 lb-pie; transmisión CVT; tracción delantera según la ficha. Bolsas de aire sumadas de la ficha (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila); la ficha oficial no da el número total, por eso no se publica una cifra. Honda Sensing con CMBS y alerta de colisión frontal. Precio con IVA (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Añade sensores de estacionamiento delanteros y traseros respecto de la Turbo Plus. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (registrado como año-modelo 2026, mismo motor y transmisión que esta versión)."
     },
     {
       "nombre": "Touring HEV",
@@ -51,14 +51,14 @@
       "transmision": "e-cvt",
       "motor": "2.0 L 4 cil. híbrido de dos motores (204 HP combinados)",
       "potenciaHp": 204,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 23.3,
       "autonomiaKm": null,
       "bolsasAire": 10,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/cr-v-hibrido",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Híbrido autorrecargable, transmisión E-CVT, tracción delantera. 10 bolsas de aire (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila, según el brochure). Honda Sensing con CMBS. Precio \"Desde\" publicado en el configurador de honda.mx."
+      "notas": "Híbrido autorrecargable, transmisión E-CVT, tracción delantera. 10 bolsas de aire (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila, según el brochure). Honda Sensing con CMBS. Precio \"Desde\" publicado en el configurador de honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (registrado como año-modelo 2026, mismo motor y transmisión que esta versión)."
     },
     {
       "nombre": "Sport Touring HEV",
@@ -68,14 +68,14 @@
       "transmision": "e-cvt",
       "motor": "2.0 L 4 cil. híbrido de dos motores (204 HP combinados)",
       "potenciaHp": 204,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 23.3,
       "autonomiaKm": null,
       "bolsasAire": 10,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/cr-v-hibrido",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Híbrido autorrecargable, transmisión E-CVT, tracción integral (AWD). 10 bolsas de aire (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila, según el brochure). Honda Sensing con CMBS. Precio \"Desde\" publicado en el configurador de honda.mx."
+      "notas": "Híbrido autorrecargable, transmisión E-CVT, tracción integral (AWD). 10 bolsas de aire (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila, según el brochure). Honda Sensing con CMBS. Precio \"Desde\" publicado en el configurador de honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (registrado como año-modelo 2026, mismo motor y transmisión que esta versión)."
     }
   ],
   "garantia": {
@@ -109,10 +109,14 @@
       "nombre": "Brochure oficial Honda CR-V Hybrid 2027",
       "url": "https://www.honda.mx/web/pdf/brochure/honda/Brochure_CRV_Hybrid_2027.pdf",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento combinado oficial de combustible (la ficha de honda.mx no lo publica)",
     "Garantía oficial (honda.mx no la publica en la ficha del modelo)",
     "Tracción AWD: la ficha de honda.mx no la especifica por versión",
     "Propulsión: el CR-V de gasolina y el CR-V Hybrid (página aparte en honda.mx) se agruparon en este archivo; el campo propulsion es el de la versión de entrada"

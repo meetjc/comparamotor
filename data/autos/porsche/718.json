@@ -24,7 +24,7 @@
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/718/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Porsche México no publica precio para esta versión."
+      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Porsche México la marca como «agotado» y no publica precio para esta versión."
     },
     {
       "nombre": "718 Cayman GTS 4.0",
@@ -41,7 +41,7 @@
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/718/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Porsche México no publica precio para esta versión."
+      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Porsche México la marca como «agotado» y no publica precio para esta versión."
     },
     {
       "nombre": "718 Boxster GTS 4.0",
@@ -58,7 +58,7 @@
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/718/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Roadster, tracción trasera, transmisión automática. Porsche México no publica precio para esta versión."
+      "notas": "Carrocería Roadster, tracción trasera, transmisión automática. Porsche México la marca como «agotado» y no publica precio para esta versión."
     },
     {
       "nombre": "718 Spyder RS",
@@ -75,7 +75,7 @@
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/718/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Roadster, tracción trasera, transmisión automática. Porsche México no publica precio para esta versión."
+      "notas": "Carrocería Roadster, tracción trasera, transmisión automática. Porsche México la marca como «agotado» y no publica precio para esta versión."
     },
     {
       "nombre": "718 Cayman GT4 RS",
@@ -92,7 +92,7 @@
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/718/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Porsche México no publica precio para esta versión."
+      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Porsche México la marca como «agotado» y no publica precio para esta versión."
     }
   ],
   "garantia": null,
@@ -110,9 +110,10 @@
     }
   ],
   "pendientes": [
+    "Porsche México publica sus precios con IVA (16%) e ISAN incluidos, según el aviso al pie de su sitio oficial (verificado el 25-oct-2026).",
     "Porsche México lista las versiones 718 (año modelo 2025) sin precio; el modelo está al final de su producción",
-    "Porsche México publica precio y potencia por versión, pero no rendimiento, autonomía, número de bolsas de aire ni frenado automático en la página de modelos; quedan por confirmar con la ficha de cada versión",
-    "La página no indica si los precios incluyen IVA e ISAN",
-    "Porsche México no publica ficha técnica PDF descargable; no se registró garantía porque no se encontró en el sitio oficial"
+    "El comparador oficial de Porsche (compare.porsche.com/es-MX) lista las bolsas de aire de serie sin decir cuántas son; el número total queda por confirmar",
+    "Porsche México no publica ficha técnica PDF descargable; no se registró garantía porque no se encontró en el sitio oficial",
+    "Las versiones 718 aparecen como «agotado» en Porsche México y no están en el comparador ni en el Catálogo CONUEE 2026; bolsas de aire, frenado autónomo y rendimiento siguen sin dato"
   ]
 }

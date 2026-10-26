@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 10.4,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/silverado-turbo-camioneta-de-trabajo/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $828,500 y precio financiado o de arrendamiento $828,500 (ver ofertas). La página de equipamiento dice automática de 8 velocidades y la ficha técnica de 10. La ficha solo lista alerta de colisión frontal."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $828,500 y precio financiado o de arrendamiento $828,500 (ver ofertas). La página de equipamiento dice automática de 8 velocidades y la ficha técnica de 10. La ficha solo lista alerta de colisión frontal. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Cabina Regular 4x4 5.3L",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 10.0,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/silverado-turbo-camioneta-de-trabajo/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $887,200 y precio financiado o de arrendamiento $887,200 (ver ofertas). La página de equipamiento dice automática de 8 velocidades y la ficha técnica de 10. Tracción 4x4."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $887,200 y precio financiado o de arrendamiento $887,200 (ver ofertas). La página de equipamiento dice automática de 8 velocidades y la ficha técnica de 10. Tracción 4x4. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Custom Doble Cabina 4x4 5.3L",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 10.0,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/pickups/silverado-turbo-camioneta-de-trabajo/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,008,300 y precio financiado o de arrendamiento $971,300 (ver ofertas). Automática de 10 velocidades, tracción 4x4, espacio para 6 pasajeros."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,008,300 y precio financiado o de arrendamiento $971,300 (ver ofertas). Automática de 10 velocidades, tracción 4x4, espacio para 6 pasajeros. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 14.02,
       "autonomiaKm": null,
       "bolsasAire": 2,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
       "url": "https://www.jac.mx/frisonT8",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Doble cabina (2+3 plazas), manual de 6 velocidades, tracción 4x2, 174 hp @ 5,000 rpm. 2 bolsas de aire (conductor y pasajero). Incluye roll-bar y protector de caja; la ficha no incluye frenado autónomo de emergencia. Rendimiento combinado de 14.02 km/l según la tabla oficial 2026/2027 (la ficha 2026 dice 15 km/l)."
+      "notas": "Doble cabina (2+3 plazas), manual de 6 velocidades, tracción 4x2, 174 hp @ 5,000 rpm. 2 bolsas de aire (conductor y pasajero). Incluye roll-bar y protector de caja; la ficha no incluye frenado autónomo de emergencia. Rendimiento combinado de 14.02 km/l según la tabla oficial 2026/2027 (la ficha 2026 dice 15 km/l). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

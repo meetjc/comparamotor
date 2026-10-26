@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 18.5,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
       "url": "https://www.mitsubishi-motors.mx/modelos/outlander-sport",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Gasolina 1.5 L de 4 cilindros, 103 hp y 104 lb-pie, CVT, tracción delantera. Rendimiento combinado 18.5 km/l (ciudad 16.5, carretera 21.9) según la ficha técnica 2027. 6 bolsas de aire. Mitigación de impacto frontal: no disponible en esta versión según la ficha."
+      "notas": "Gasolina 1.5 L de 4 cilindros, 103 hp y 104 lb-pie, CVT, tracción delantera. Rendimiento combinado 18.5 km/l (ciudad 16.5, carretera 21.9) según la ficha técnica 2027. 6 bolsas de aire. Mitigación de impacto frontal: no disponible en esta versión según la ficha. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "SE Plus",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 18.5,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
       "url": "https://www.mitsubishi-motors.mx/modelos/outlander-sport",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Gasolina 1.5 L de 4 cilindros, 103 hp y 104 lb-pie, CVT, tracción delantera. Rendimiento combinado 18.5 km/l (ciudad 16.5, carretera 21.9) según la ficha técnica 2027. 6 bolsas de aire. Mitigación de impacto frontal: no disponible en esta versión según la ficha."
+      "notas": "Gasolina 1.5 L de 4 cilindros, 103 hp y 104 lb-pie, CVT, tracción delantera. Rendimiento combinado 18.5 km/l (ciudad 16.5, carretera 21.9) según la ficha técnica 2027. 6 bolsas de aire. Mitigación de impacto frontal: no disponible en esta versión según la ficha. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Limited",

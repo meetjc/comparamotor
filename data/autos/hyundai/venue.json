@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 19.71,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
       "url": "https://www.hyundai.com.mx/modelos/venue-2027/especificaciones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 6 velocidades. Bolsas frontales, laterales y de cortina. Sin asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA. La marca lo llama precio de lanzamiento."
+      "notas": "Manual de 6 velocidades. Bolsas frontales, laterales y de cortina. Sin asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA. La marca lo llama precio de lanzamiento. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Limited DCT",

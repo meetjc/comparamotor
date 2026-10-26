@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 16.7,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Volkswagen de México (sitio oficial)",
       "url": "https://www.vw.com.mx/es/autos-suvs/polo.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA vigente del 1 al 31 de octubre de 2026. Motor 1.6 L MPI, 109 hp, 155 Nm; manual de 5 velocidades; rendimiento combinado 16.7 km/l (ciudad 14.9, carretera 19.6) según la ficha técnica oficial de la versión Track 2026. 4 bolsas de aire (2 frontales y 2 laterales con protección de cabeza y tórax). La ficha por versión no lista frenado autónomo de emergencia."
+      "notas": "Precio de lista con IVA vigente del 1 al 31 de octubre de 2026. Motor 1.6 L MPI, 109 hp, 155 Nm; manual de 5 velocidades; rendimiento combinado 16.7 km/l (ciudad 14.9, carretera 19.6) según la ficha técnica oficial de la versión Track 2026. 4 bolsas de aire (2 frontales y 2 laterales con protección de cabeza y tórax). La ficha por versión no menciona frenado autónomo de emergencia (ni lo marca como no disponible), así que queda sin confirmar."
     }
   ],
   "garantia": {
@@ -51,6 +51,7 @@
   "pendientes": [
     "Solo se publica una versión (Track); confirmar si hay otras en el configurador cuando se abran",
     "Frenado autónomo de emergencia no listado en la ficha de la versión Track",
-    "El 25-oct-2026 el configurador seguía mostrando una sola versión: Track ($339,990)"
+    "El 25-oct-2026 el configurador seguía mostrando una sola versión: Track ($339,990)",
+    "Frenado autónomo de emergencia del Polo Track: la ficha no lo menciona; confirmar con VW"
   ]
 }

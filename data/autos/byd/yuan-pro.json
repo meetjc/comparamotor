@@ -16,15 +16,15 @@
       "moneda": "MXN",
       "transmision": "directa",
       "motor": "Motor eléctrico delantero 130 kW (290 N·m); batería Blade",
-      "potenciaHp": null,
+      "potenciaHp": 174,
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 380,
-      "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.byd.com/mx/car/BYD-Yuan-Pro",
       "fechaVerificacion": "2026-10-25",
-      "notas": "SUV eléctrico de 5 plazas, tracción delantera, 0-100 km/h en 7.9 s. Autonomía NEDC de 380 km. Carga AC 7 kW y DC 65 kW. Precio del registro oficial del configurador de BYD México (código CX006024). 6 bolsas de aire inferidas de la ficha (frontales, laterales delanteras y de cortina delanteras y traseras). La ficha de septiembre 2026 lista control crucero, ABS, ESC y frenado inteligente, pero no frenado autónomo de emergencia."
+      "notas": "SUV eléctrico de 5 plazas, tracción delantera, 0-100 km/h en 7.9 s. Autonomía NEDC de 380 km. Carga AC 7 kW y DC 65 kW. Precio del registro oficial del configurador de BYD México (código CX006024). Bolsas de aire inferidas de la ficha (frontales, laterales delanteras y de cortina delanteras y traseras); la ficha oficial no da el número total, por eso no se publica una cifra. La ficha de septiembre 2026 lista control crucero, ABS, ESC y frenado inteligente, pero no frenado autónomo de emergencia. Potencia de 174 hp, convertido de 130 kW oficiales del motor eléctrico (la ficha técnica rotula ese renglón como torque, pero en kW). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {
@@ -46,7 +46,6 @@
     }
   ],
   "pendientes": [
-    "Potencia en hp: BYD publica la potencia en kW",
     "Capacidad de la batería: la ficha la menciona pero el valor no es legible en el PDF",
     "Garantía oficial de este modelo: su página y su ficha no la publican; BYD México publica 6 años o 150,000 km (vehículo) y 8 años o 200,000 km (batería) en las páginas del King y del Song Pro DM-i, sin confirmar para este modelo",
     "Cifra total de bolsas de aire inferida de los tipos listados en la ficha",

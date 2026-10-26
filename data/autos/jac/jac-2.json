@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 17.6,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
       "url": "https://www.jac.mx/jac2",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 5 velocidades, tracción delantera. 4 bolsas de aire (conductor, pasajero y 2 laterales). La ficha técnica no incluye frenado autónomo de emergencia. Rendimiento combinado oficial de 17.6 km/l."
+      "notas": "Manual de 5 velocidades, tracción delantera. 4 bolsas de aire (conductor, pasajero y 2 laterales). La ficha técnica no incluye frenado autónomo de emergencia. Rendimiento combinado oficial de 17.6 km/l. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Smart CVT",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 14.8,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
       "url": "https://www.jac.mx/jac2",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Transmisión CVT, tracción delantera. 4 bolsas de aire (conductor, pasajero y 2 laterales). Agrega audio de 6 bocinas, asientos en tacto piel y espejos calefactables. La ficha técnica no incluye frenado autónomo de emergencia."
+      "notas": "Transmisión CVT, tracción delantera. 4 bolsas de aire (conductor, pasajero y 2 laterales). Agrega audio de 6 bocinas, asientos en tacto piel y espejos calefactables. La ficha técnica no incluye frenado autónomo de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/macan/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Macan Electric, tracción trasera, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Macan Electric, tracción trasera, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado» (incluye función de frenada de emergencia en el asistente de carril)."
     },
     {
       "nombre": "Macan 4 Electric",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/macan/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado» (incluye función de frenada de emergencia en el asistente de carril)."
     },
     {
       "nombre": "Macan 4S Electric",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/macan/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado» (incluye función de frenada de emergencia en el asistente de carril)."
     },
     {
       "nombre": "Macan GTS Electric",
@@ -71,11 +71,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/macan/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado» (incluye función de frenada de emergencia en el asistente de carril)."
     },
     {
       "nombre": "Macan Turbo Electric",
@@ -88,11 +88,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/macan/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado» (incluye función de frenada de emergencia en el asistente de carril)."
     }
   ],
   "garantia": null,
@@ -107,11 +107,16 @@
       "nombre": "Porsche Macan Electric (página oficial)",
       "url": "https://www.porsche.com/mexico/models/macan/",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Porsche México: comparador oficial de modelos (equipamiento de serie)",
+      "url": "https://compare.porsche.com/es-MX/",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Porsche México publica precio y potencia por versión, pero no rendimiento, autonomía, número de bolsas de aire ni frenado automático en la página de modelos; quedan por confirmar con la ficha de cada versión",
-    "La página no indica si los precios incluyen IVA e ISAN",
+    "Porsche México publica sus precios con IVA (16%) e ISAN incluidos, según el aviso al pie de su sitio oficial (verificado el 25-oct-2026).",
+    "El comparador oficial de Porsche (compare.porsche.com/es-MX) lista las bolsas de aire de serie sin decir cuántas son; el número total queda por confirmar",
     "Porsche México no publica ficha técnica PDF descargable; no se registró garantía porque no se encontró en el sitio oficial"
   ]
 }

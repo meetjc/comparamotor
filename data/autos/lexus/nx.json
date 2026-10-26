@@ -68,7 +68,11 @@
   },
   "ofertas": [],
   "fuentes": [
-    "https://www.lexus.mx/modelos/NXh",
+    {
+      "nombre": "Lexus NX (página oficial)",
+      "url": "https://www.lexus.mx/modelos/NXh",
+      "tipo": "oficial"
+    },
     {
       "nombre": "Ficha técnica oficial Lexus NX 2026",
       "url": "https://www.lexus.mx/content/dam/lexus-mx/documentos/ficha-tecnica/2026/NX-26MY-4sep.pdf",

@@ -17,14 +17,14 @@
       "transmision": "e-cvt",
       "motor": "2.0 L 4 cil. híbrido de dos motores (204 HP netos)",
       "potenciaHp": 204,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 26.1,
       "autonomiaKm": null,
       "bolsasAire": 10,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
       "url": "https://www.honda.mx/autos/accord-hibrido",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Híbrido autorrecargable, transmisión E-CVT. 10 bolsas de aire (frontales, laterales delanteras y traseras, de cortina y de rodillas). Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx."
+      "notas": "Híbrido autorrecargable, transmisión E-CVT. 10 bolsas de aire (frontales, laterales delanteras y traseras, de cortina y de rodillas). Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     }
   ],
   "garantia": {
@@ -50,10 +50,14 @@
       "nombre": "Brochure oficial Honda Accord Hybrid 2026",
       "url": "https://www.honda.mx/web/pdf/brochure/honda/Brochure_ACCORD_Hybrid_2026.pdf",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento combinado oficial de combustible (honda.mx no lo publica en el configurador ni en el brochure)",
     "Garantía oficial (honda.mx no la publica en la página del modelo)",
     "Honda México solo vende Accord híbrido en versión Touring",
     "Clasificación del segmento (mediano) es criterio editorial, no viene de la marca"

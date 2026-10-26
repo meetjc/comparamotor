@@ -19,12 +19,12 @@
       "potenciaHp": 187,
       "rendimientoCombinadoKmL": 11.35,
       "autonomiaKm": null,
-      "bolsasAire": null,
-      "frenadoAutonomoEmergencia": false,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.gwm-mx.com/es/models/poer",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 6 velocidades, 187 hp @ 5,500 rpm y 265 lb-ft, tracción trasera 2WD. Rines de 17\", control de estabilidad y antivolcaduras. La ficha de versiones manuales no incluye frenado autónomo de emergencia. Rendimiento combinado de 11.35 km/l."
+      "notas": "Manual de 6 velocidades, 187 hp @ 5,500 rpm y 265 lb-ft, tracción trasera 2WD. Rines de 17\", control de estabilidad y antivolcaduras. La ficha de versiones manuales no incluye frenado autónomo de emergencia. Rendimiento combinado de 11.35 km/l. 2 bolsas de aire: la ficha técnica de versiones manuales (gwm-poer-comercial-ficha-tecnica.pdf, dentro del zip oficial) marca 'Bolsa de aire frontales (2)' para Premium y Luxury, y marca con guion (–) 'Bolsa de aire laterales (2)' en Premium. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Manual Luxury",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 11.35,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.gwm-mx.com/es/models/poer",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 6 velocidades, 187 hp. 4 bolsas de aire (frontales y laterales). Agrega llave inteligente, cámara de reversa y de punto ciego, pantalla de 9\". Sin frenado autónomo de emergencia según la ficha."
+      "notas": "Manual de 6 velocidades, 187 hp. 4 bolsas de aire (frontales y laterales). Agrega llave inteligente, cámara de reversa y de punto ciego, pantalla de 9\". Sin frenado autónomo de emergencia según la ficha. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Automática Premium",
@@ -124,7 +124,6 @@
     }
   ],
   "pendientes": [
-    "Bolsas de aire de la Manual Premium: la página no lo dice y la ficha comercial no es clara; dato pendiente",
     "Promoción en la página de ofertas de GWM al 25-oct-2026: Poer Automática Modelo 2026 ('últimas unidades') con mensualidad desde $6,333 + 0% comisión; Poer Manual Modelo 2026 con bono de hasta $49,000 + 0% comisión; el sitio no publica condiciones ni vigencia (solo asterisco), por eso no se registró como oferta",
     "En .cache/fichas/gwm/poer.pdf se guardó la ficha de versiones automáticas; la de manuales (comercial) viene en el mismo zip oficial",
     "Existen páginas antiguas poer-at y poer-mt con otros precios ($438,900 a $639,900) que ya no aparecen en el menú; se usó la página vigente /es/models/poer"

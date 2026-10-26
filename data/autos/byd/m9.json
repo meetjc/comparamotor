@@ -19,12 +19,12 @@
       "potenciaHp": null,
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 95,
-      "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.byd.com/mx/car/M9",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Minivan de 7 plazas (2+2+3) con puertas corredizas eléctricas, tracción delantera, 0-100 km/h en 8.1 s. Autonomía eléctrica NEDC de 95 km y combinada de 945 km. Consumo con batería baja de 17.8 km/l (NEDC); no se registra como rendimiento combinado. 6 bolsas de aire inferidas de la ficha (frontales, laterales delanteras y cortina). La ficha lista control crucero pero no frenado autónomo de emergencia. Precio del configurador oficial (código CX004034; el configurador no muestra el precio formateado, pero el registro oficial trae $979,800)."
+      "notas": "Minivan de 7 plazas (2+2+3) con puertas corredizas eléctricas, tracción delantera, 0-100 km/h en 8.1 s. Autonomía eléctrica NEDC de 95 km y combinada de 945 km. Consumo con batería baja de 17.8 km/l (NEDC); no se registra como rendimiento combinado. Bolsas de aire inferidas de la ficha (frontales, laterales delanteras y cortina); la ficha oficial no da el número total, por eso no se publica una cifra. La ficha lista control crucero pero no frenado autónomo de emergencia. Precio del configurador oficial (código CX004034; el configurador no muestra el precio formateado, pero el registro oficial trae $979,800). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 18.4,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Doble embrague de 7 velocidades, tracción delantera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Active Guard con alerta de colisión frontal; la ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+      "notas": "Doble embrague de 7 velocidades, tracción delantera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Precio sugerido con IVA, ISAN y transportación según BMW. Frenado automático de emergencia: la ficha oficial de esta versión incluye el sistema Active Guard con alerta e intervención ante colisión frontal."
     },
     {
       "nombre": "M235 xDrive Gran Coupé",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 14.6,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Doble embrague de 7 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Active Guard con alerta de colisión frontal; la ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+      "notas": "Doble embrague de 7 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Precio sugerido con IVA, ISAN y transportación según BMW. Frenado automático de emergencia: la ficha oficial de esta versión incluye el sistema Active Guard con alerta e intervención ante colisión frontal."
     }
   ],
   "garantia": {

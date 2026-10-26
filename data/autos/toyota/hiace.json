@@ -36,12 +36,12 @@
       "potenciaHp": 174,
       "rendimientoCombinadoKmL": 7.82,
       "autonomiaKm": null,
-      "bolsasAire": 2,
+      "bolsasAire": 3,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.toyota.mx/modelos/pickup/hiace/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Diésel. Manual de 6 velocidades, tracción trasera. 2 bolsas de aire frontales. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+      "notas": "Diésel. Manual de 6 velocidades, tracción trasera. Precio de lista \"Desde\" publicado por Toyota en la página del modelo. Corrección: la ficha técnica 2026 y la página del modelo listan 3 bolsas de aire en Panel (2 frontales y 1 de rodillas)."
     },
     {
       "nombre": "12 Pasajeros",
@@ -49,16 +49,16 @@
       "precio": 833300,
       "moneda": "MXN",
       "transmision": "manual",
-      "motor": null,
-      "potenciaHp": null,
-      "rendimientoCombinadoKmL": null,
+      "motor": "3.5 L V6 (277 HP)",
+      "potenciaHp": 277,
+      "rendimientoCombinadoKmL": 8.3,
       "autonomiaKm": null,
-      "bolsasAire": 3,
+      "bolsasAire": 2,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.toyota.mx/modelos/pickup/hiace/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Espacio para 12 pasajeros. Manual de 6 velocidades. 3 bolsas de aire (2 frontales y 1 de rodillas). Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+      "notas": "Espacio para 12 pasajeros. Manual de 6 velocidades. Precio de lista \"Desde\" publicado por Toyota en la página del modelo. Corrección: la ficha técnica 2026 marca con guion (–) la 'Bolsa de aire para rodillas (1)' en 12 Pasajeros y solo le da 'Bolsas de aire frontales (2)'; la página del modelo lista lo mismo. Motor 3.5 L V6 de 277 hp y 258 lb-pie según la ficha técnica (celda compartida con Ventanas). Rendimiento de 8.30 km/l que la página publica para la versión manual de gasolina."
     }
   ],
   "garantia": {
@@ -76,8 +76,6 @@
     }
   ],
   "pendientes": [
-    "Motor de la Hiace 12 Pasajeros: la página y la ficha no dicen si lleva el 3.5 L de gasolina o el 2.8 L diésel; potencia y rendimiento quedaron por confirmar",
-    "Rendimiento: toyota.mx publica 8.30 km/l para MT gasolina y 7.82 km/l para MT diésel",
     "Frenado autónomo de emergencia no confirmado: la ficha técnica no menciona sistema de pre-colisión",
     "Toyota la lista en Pickups y comerciales; se clasificó como van",
     "Sin oferta o promoción vigente publicada por Toyota para Hiace en octubre 2026"

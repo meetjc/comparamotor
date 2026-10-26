@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "6 cil. 3.0 L turbo mild hybrid",
       "potenciaHp": 381,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 12.17,
       "autonomiaKm": null,
       "bolsasAire": 9,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
       "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Mild hybrid, 4MATIC. 9 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 280 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+      "notas": "Mild hybrid, 4MATIC. 9 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 280 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz. Rendimiento combinado de 12.17 km/l según la ficha técnica oficial GLE 450 4MATIC Coupé Sport año modelo 2026."
     },
     {
       "nombre": "GLE 450 e 4MATIC Coupé Plug-in-Hybrid",

@@ -24,7 +24,7 @@
       "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 7 velocidades, tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+      "notas": "Automática de 7 velocidades, tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). Precio de lista con IVA, ISAN y transportación según MINI. La ficha oficial lista su equipo de seguridad y asistencia (incluido Driving Assistant cuando aplica) y no incluye frenado automático de emergencia frontal; el control crucero con función de frenado no es un sistema de frenado de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "S ALL4",
@@ -41,7 +41,7 @@
       "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 7 velocidades, tracción integral ALL4. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+      "notas": "Automática de 7 velocidades, tracción integral ALL4. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). Precio de lista con IVA, ISAN y transportación según MINI. La ficha oficial lista su equipo de seguridad y asistencia (incluido Driving Assistant cuando aplica) y no incluye frenado automático de emergencia frontal; el control crucero con función de frenado no es un sistema de frenado de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "E",
@@ -58,7 +58,7 @@
       "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Versión eléctrica. Batería de 64.6 kWh, hasta 462 km (WLTP), tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+      "notas": "Versión eléctrica. Batería de 64.6 kWh, hasta 462 km (WLTP), tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). Precio de lista con IVA, ISAN y transportación según MINI. La ficha oficial lista su equipo de seguridad y asistencia (incluido Driving Assistant cuando aplica) y no incluye frenado automático de emergencia frontal; el control crucero con función de frenado no es un sistema de frenado de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "SE ALL4",
@@ -75,7 +75,7 @@
       "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Versión eléctrica. Batería de 64.6 kWh, hasta 432 km (WLTP), tracción integral ALL4. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+      "notas": "Versión eléctrica. Batería de 64.6 kWh, hasta 432 km (WLTP), tracción integral ALL4. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). Precio de lista con IVA, ISAN y transportación según MINI. La ficha oficial lista su equipo de seguridad y asistencia (incluido Driving Assistant cuando aplica) y no incluye frenado automático de emergencia frontal; el control crucero con función de frenado no es un sistema de frenado de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "John Cooper Works ALL4",
@@ -92,7 +92,7 @@
       "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 7 velocidades, tracción integral ALL4. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+      "notas": "Automática de 7 velocidades, tracción integral ALL4. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). Precio de lista con IVA, ISAN y transportación según MINI. La ficha oficial lista su equipo de seguridad y asistencia (incluido Driving Assistant cuando aplica) y no incluye frenado automático de emergencia frontal; el control crucero con función de frenado no es un sistema de frenado de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {
@@ -125,7 +125,6 @@
   ],
   "pendientes": [
     "Los precios de las fichas técnicas son anteriores a la lista de precios vigente; se usó la lista: C (ficha $850,000, lista $853,000); S ALL4 (ficha $970,000, lista $978,000); E (ficha $970,000, lista $982,000); SE ALL4 (ficha $1,050,000, lista $1,062,000); John Cooper Works ALL4 (ficha $1,100,000, lista $1,112,000)",
-    "Las fichas de MINI describen un Driving Assistant (alerta de cambio de carril, tráfico cruzado, prevención de colisión trasera) pero no confirman frenado automático de emergencia frontal",
     "Countryman combina versiones de gasolina y eléctricas en un solo archivo; la propulsión del modelo corresponde a la versión de entrada (gasolina)"
   ]
 }

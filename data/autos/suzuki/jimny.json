@@ -63,7 +63,7 @@
     {
       "nombre": "GLX TA Bitono",
       "anio": null,
-      "precio": null,
+      "precio": 499990,
       "moneda": "MXN",
       "transmision": "automatica",
       "motor": "1.5 L 4 cil.",
@@ -75,7 +75,7 @@
       "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
       "url": "https://autos.suzuki.com.mx/cars/jimny-3door",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 4 velocidades, pintura bitono. La página no mostró su precio. Motor 1.5 L de 101 hp, tracción 4x4 con reductora (AllGrip Pro), 4 pasajeros. 6 bolsas de aire. Incluye frenado autónomo de emergencia. Precio de venta al público publicado por Suzuki (con IVA)."
+      "notas": "Automática de 4 velocidades, pintura bitono. Motor 1.5 L de 101 hp, tracción 4x4 con reductora (AllGrip Pro), 4 pasajeros. 6 bolsas de aire. Incluye frenado autónomo de emergencia. Precio de venta al público publicado por Suzuki (con IVA). Precio de $499,990 tomado de los datos de la página oficial: la versión GLX TA cuesta lo mismo en el color bitono Verde Obsesión con techo negro."
     }
   ],
   "garantia": {
@@ -98,7 +98,6 @@
   ],
   "pendientes": [
     "La ficha técnica PDF de Suzuki se entrega mediante un formulario de contacto, por lo que no se descargó",
-    "Precio de la versión GLX TA Bitono: la página no lo muestra (la lista de versiones solo despliega tres)",
     "Año modelo: la página oficial no lo indica",
     "La tabla oficial no llena todos los datos de las versiones bitono; se tomaron iguales a la versión del mismo tipo de transmisión"
   ]

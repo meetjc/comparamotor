@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 14.02,
       "autonomiaKm": null,
       "bolsasAire": 2,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
       "url": "https://www.jac.mx/frisonT5",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Pickup de trabajo de cabina sencilla (2 plazas), manual de 6 velocidades, capacidad de carga de 1,235 kg. 2 bolsas de aire (conductor y pasajero). La ficha no incluye frenado autónomo de emergencia. Rendimiento combinado de 14.02 km/l según la tabla oficial de JAC."
+      "notas": "Pickup de trabajo de cabina sencilla (2 plazas), manual de 6 velocidades, capacidad de carga de 1,235 kg. 2 bolsas de aire (conductor y pasajero). La ficha no incluye frenado autónomo de emergencia. Rendimiento combinado de 14.02 km/l según la tabla oficial de JAC. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Cabina sencilla MT",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 14.02,
       "autonomiaKm": null,
       "bolsasAire": 2,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
       "url": "https://www.jac.mx/frisonT5",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026 de la misma versión. Datos técnicos de la ficha oficial (año 2027) y de la página."
+      "notas": "Año modelo 2026 de la misma versión. Datos técnicos de la ficha oficial (año 2027) y de la página. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

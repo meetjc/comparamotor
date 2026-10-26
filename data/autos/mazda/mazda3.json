@@ -19,12 +19,12 @@
       "potenciaHp": 186,
       "rendimientoCombinadoKmL": 13.9,
       "autonomiaKm": null,
-      "bolsasAire": 7,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": false,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-sedan/ficha-tecnica/ficha-tecnica-mazda3-sedan-2026-v04.pdf",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Transmisión manual SKYACTIV-MT de 6 velocidades, rines de 16\". Precio también publicado como 'desde $403,900' en https://www.mazda.mx/vehiculos/mazda-3-sedan/versiones. Frenado inteligente (SBS) solo en Signature según la ficha. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
+      "notas": "Transmisión manual SKYACTIV-MT de 6 velocidades, rines de 16\". Precio también publicado como 'desde $403,900' en https://www.mazda.mx/vehiculos/mazda-3-sedan/versiones. Frenado inteligente (SBS) solo en Signature según la ficha. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor); la ficha oficial no da el número total, por eso no se publica una cifra."
     },
     {
       "nombre": "i TA",
@@ -36,12 +36,12 @@
       "potenciaHp": 186,
       "rendimientoCombinadoKmL": 15.3,
       "autonomiaKm": null,
-      "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": false,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-sedan/ficha-tecnica/ficha-tecnica-mazda3-sedan-2026-v04.pdf",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática SKYACTIV-Drive de 6 velocidades con modo manual. Sin SBS según la ficha. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
+      "notas": "Automática SKYACTIV-Drive de 6 velocidades con modo manual. Sin SBS según la ficha. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor); la ficha oficial no da el número total, por eso no se publica una cifra. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "i Sport",
@@ -53,12 +53,12 @@
       "potenciaHp": 186,
       "rendimientoCombinadoKmL": 15.3,
       "autonomiaKm": null,
-      "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": false,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-sedan/ficha-tecnica/ficha-tecnica-mazda3-sedan-2026-v04.pdf",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Rendimiento tomado de la celda combinada i / i Sport de la ficha (15.3 km/l con transmisión automática). Rines de 18\", quemacocos. Sin SBS. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
+      "notas": "Rendimiento tomado de la celda combinada i / i Sport de la ficha (15.3 km/l con transmisión automática). Rines de 18\", quemacocos. Sin SBS. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor); la ficha oficial no da el número total, por eso no se publica una cifra. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "i Grand Touring",
@@ -70,12 +70,12 @@
       "potenciaHp": 186,
       "rendimientoCombinadoKmL": 15.2,
       "autonomiaKm": null,
-      "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": false,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-sedan/ficha-tecnica/ficha-tecnica-mazda3-sedan-2026-v04.pdf",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Suma monitoreo de punto ciego (BSM) y alerta de tráfico trasero (RCTA); sin SBS. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
+      "notas": "Suma monitoreo de punto ciego (BSM) y alerta de tráfico trasero (RCTA); sin SBS. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor); la ficha oficial no da el número total, por eso no se publica una cifra. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "i Grand Touring MHEV",
@@ -87,12 +87,12 @@
       "potenciaHp": 153,
       "rendimientoCombinadoKmL": 17.2,
       "autonomiaKm": null,
-      "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": false,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-sedan/ficha-tecnica/ficha-tecnica-mazda3-sedan-2026-v04.pdf",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Sistema mild hybrid (MHEV) con i-Stop y frenos regenerativos. Sin SBS. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
+      "notas": "Sistema mild hybrid (MHEV) con i-Stop y frenos regenerativos. Sin SBS. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor); la ficha oficial no da el número total, por eso no se publica una cifra. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Signature",
@@ -104,12 +104,12 @@
       "potenciaHp": 227,
       "rendimientoCombinadoKmL": 14.9,
       "autonomiaKm": null,
-      "bolsasAire": 7,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-sedan/ficha-tecnica/ficha-tecnica-mazda3-sedan-2026-v04.pdf",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Tracción integral i-ACTIV AWD, torque 310 lb-ft. Incluye asistencia de frenado inteligente (SBS), control crucero adaptativo (MRCC) y cámara 360°. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
+      "notas": "Tracción integral i-ACTIV AWD, torque 310 lb-ft. Incluye asistencia de frenado inteligente (SBS), control crucero adaptativo (MRCC) y cámara 360°. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor); la ficha oficial no da el número total, por eso no se publica una cifra."
     }
   ],
   "garantia": {

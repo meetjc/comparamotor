@@ -17,14 +17,14 @@
       "transmision": "e-cvt",
       "motor": "2.5 L híbrido Atkinson iVCT 4 cil.",
       "potenciaHp": 191,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 24.6,
       "autonomiaKm": 800,
       "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Ford México (sitio oficial)",
       "url": "https://www.ford.mx/camiones/maverick/hibrida/2026/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista desde la página del modelo (ver también https://www.ford.mx/camiones/maverick/hibrida/2026/versiones-precios/). Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro. Potencia combinada 191 hp y 155 lb-pie, batería de iones de litio de 1.1 kWh. Carga útil 680 kg. Capacidad de arrastre 907 kg. 7 bolsas de aire (frontales, laterales, cortina 1a y 2a fila y rodilla del conductor). Autonomía de hasta 800 km por tanque (dato de la marca, depende del manejo). Asistencia pre-colisión con freno de emergencia automático (vehículos y peatones). Motor de gasolina de 162 HP más motor eléctrico de 94 kW; tracción delantera."
+      "notas": "Precio de lista desde la página del modelo (ver también https://www.ford.mx/camiones/maverick/hibrida/2026/versiones-precios/). Potencia combinada 191 hp y 155 lb-pie, batería de iones de litio de 1.1 kWh. Carga útil 680 kg. Capacidad de arrastre 907 kg. 7 bolsas de aire (frontales, laterales, cortina 1a y 2a fila y rodilla del conductor). Autonomía de hasta 800 km por tanque (dato de la marca, depende del manejo). Asistencia pre-colisión con freno de emergencia automático (vehículos y peatones). Motor de gasolina de 162 HP más motor eléctrico de 94 kW; tracción delantera. Precio publicado por Ford, sin conversión. Ford se contradice sobre impuestos: la cláusula «Precios» de sus términos legales (ford.mx/legal/legales, actualizada el 28 de febrero de 2024) dice que el precio incluye IVA (tasa no fronteriza) e ISAN y no incluye accesorios, placas ni seguro; el aviso al pie de cada página dice que los precios «no incluyen impuestos». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (Maverick 2.5 L híbrida, tracción delantera)."
     },
     {
       "nombre": "Lariat Híbrida 2026",
@@ -34,14 +34,14 @@
       "transmision": "e-cvt",
       "motor": "2.5 L híbrido Atkinson iVCT 4 cil.",
       "potenciaHp": 191,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 24.3,
       "autonomiaKm": 800,
       "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Ford México (sitio oficial)",
       "url": "https://www.ford.mx/camiones/maverick/hibrida/2026/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista desde la página del modelo (ver también https://www.ford.mx/camiones/maverick/hibrida/2026/versiones-precios/). Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro. Potencia combinada 191 hp y 155 lb-pie, batería de iones de litio de 1.1 kWh. Carga útil 680 kg. Capacidad de arrastre 1,814 kg. Sonido B&O de 8 bocinas y pantalla de 13.2\". 7 bolsas de aire (frontales, laterales, cortina 1a y 2a fila y rodilla del conductor). Autonomía de hasta 800 km por tanque (dato de la marca, depende del manejo). Asistencia pre-colisión con freno de emergencia automático (vehículos y peatones), con asistencia en intersección. Motor de gasolina de 162 HP más motor eléctrico de 94 kW; tracción AWD."
+      "notas": "Precio de lista desde la página del modelo (ver también https://www.ford.mx/camiones/maverick/hibrida/2026/versiones-precios/). Potencia combinada 191 hp y 155 lb-pie, batería de iones de litio de 1.1 kWh. Carga útil 680 kg. Capacidad de arrastre 1,814 kg. Sonido B&O de 8 bocinas y pantalla de 13.2\". 7 bolsas de aire (frontales, laterales, cortina 1a y 2a fila y rodilla del conductor). Autonomía de hasta 800 km por tanque (dato de la marca, depende del manejo). Asistencia pre-colisión con freno de emergencia automático (vehículos y peatones), con asistencia en intersección. Motor de gasolina de 162 HP más motor eléctrico de 94 kW; tracción AWD. Precio publicado por Ford, sin conversión. Ford se contradice sobre impuestos: la cláusula «Precios» de sus términos legales (ford.mx/legal/legales, actualizada el 28 de febrero de 2024) dice que el precio incluye IVA (tasa no fronteriza) e ISAN y no incluye accesorios, placas ni seguro; el aviso al pie de cada página dice que los precios «no incluyen impuestos». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (Maverick 2.5 L híbrida AWD)."
     }
   ],
   "garantia": {
@@ -53,14 +53,14 @@
   "fuentes": [
     "https://www.ford.mx/camiones/maverick/hibrida/2026/",
     "https://www.ford.mx/camiones/maverick/hibrida/2026/versiones-precios/",
-    "https://www.ford.mx/content/dam/Ford/website-assets/latam/mx/nameplate/maverick-hev/2026/pdf/ford-maverick-hibrida-2026-catalogo-descargable.pdf"
+    "https://www.ford.mx/content/dam/Ford/website-assets/latam/mx/nameplate/maverick-hev/2026/pdf/ford-maverick-hibrida-2026-catalogo-descargable.pdf",
+    "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf"
   ],
   "pendientes": [
     "Nombre vigente: en México se vende como \"Maverick Híbrida 2026\" (XLT y Lariat); no hay versión de gasolina publicada en ford.mx",
     "Transmisión asignada como e-cvt (tren híbrido), no publicada textualmente en la página",
-    "Rendimiento combinado oficial en km/L (la marca publica solo la autonomía de 800 km)",
     "Garantía oficial",
-    "Si el precio incluye IVA",
+    "Impuestos en el precio de Ford: ford.mx se contradice. La cláusula «Precios» de sus términos legales (ford.mx/legal/legales, actualizada el 28 feb 2024) dice que los precios incluyen IVA (tasa no fronteriza) e ISAN y excluyen accesorios, placas y seguro; el aviso al pie de cada página de versiones dice que «no incluyen impuestos, aditamentos y/o accesorios, placas, seguro». Se deja el precio tal como lo publica Ford (verificado el 25 oct 2026); falta que Ford confirme.",
     "Ofertas vigentes de la Maverick Híbrida"
   ]
 }

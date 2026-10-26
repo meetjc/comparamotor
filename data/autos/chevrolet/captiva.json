@@ -24,7 +24,7 @@
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/suvs/captiva-mejor-camioneta-familiar/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista; precio de contado $490,800; precio financiado/leasing $358,800 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026."
+      "notas": "Precio de lista; precio de contado $490,800; precio financiado/leasing $358,800 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026. La lista de seguridad de la ficha técnica 2026 (cámara 360°, sensores delanteros y de reversa, control crucero, monitoreo de llantas) no incluye frenado autónomo de emergencia ni alerta de colisión. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "LT 7 pasajeros 2026",
@@ -41,7 +41,7 @@
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/suvs/captiva-mejor-camioneta-familiar/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista; precio de contado $517,800; precio financiado/leasing $385,800 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026."
+      "notas": "Precio de lista; precio de contado $517,800; precio financiado/leasing $385,800 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026. La lista de seguridad de la ficha técnica 2026 (cámara 360°, sensores delanteros y de reversa, control crucero, monitoreo de llantas) no incluye frenado autónomo de emergencia ni alerta de colisión. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Premier 7 pasajeros 2026",
@@ -58,7 +58,7 @@
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/suvs/captiva-mejor-camioneta-familiar/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista; precio de contado $561,900; precio financiado/leasing $429,900 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026."
+      "notas": "Precio de lista; precio de contado $561,900; precio financiado/leasing $429,900 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026. La lista de seguridad de la ficha técnica 2026 (cámara 360°, sensores delanteros y de reversa, control crucero, monitoreo de llantas) no incluye frenado autónomo de emergencia ni alerta de colisión. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Premier Black Edition 7 pasajeros 2026",
@@ -75,7 +75,7 @@
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/suvs/captiva-mejor-camioneta-familiar/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista; precio de contado $574,000; precio financiado/leasing $442,000 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026."
+      "notas": "Precio de lista; precio de contado $574,000; precio financiado/leasing $442,000 (ver ofertas). Torque 184 lb-pie. CVT. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), StabiliTrak, ABS/EBD, cámara 360 y sensores. La ficha no lista frenado autónomo. Rendimiento combinado de la ficha técnica 2026. La lista de seguridad de la ficha técnica 2026 (cámara 360°, sensores delanteros y de reversa, control crucero, monitoreo de llantas) no incluye frenado autónomo de emergencia ni alerta de colisión. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {
@@ -128,7 +128,6 @@
     "https://www.chevrolet.com.mx/garantia"
   ],
   "pendientes": [
-    "Frenado autónomo (no listado en la ficha)",
     "Captiva Híbrida 2026 (desde $519,900, modelo PHEV) es aparte y no se incluyó",
     "Rendimiento combinado: 15 en LT 5P y 14.5 en las demás, según la ficha técnica"
   ]

@@ -14,34 +14,34 @@
       "anio": 2027,
       "precio": 474900,
       "moneda": "MXN",
-      "transmision": null,
+      "transmision": "manual",
       "motor": "1.2 L 3 cil. turbo (PureTech)",
       "potenciaHp": 110,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 17.4,
       "autonomiaKm": null,
       "bolsasAire": 4,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nueva-partner.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Van de carga, hasta 950 kg. 4 bolsas de aire (frontales y laterales). Asistente de frenado de urgencia (no es frenado autónomo). Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Van de carga, hasta 950 kg. 4 bolsas de aire (frontales y laterales). Asistente de frenado de urgencia (no es frenado autónomo). Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Según la ficha técnica oficial 2027 (Partner PureTech Maxi Pack): manual de 6 velocidades y rendimiento combinado 17.4 km/l (ciudad 15.0, carretera 19.1)."
     },
     {
       "nombre": "Maxi Pack 1.6L Diésel",
       "anio": 2027,
       "precio": 483900,
       "moneda": "MXN",
-      "transmision": null,
+      "transmision": "manual",
       "motor": "1.6 L 4 cil. turbodiésel (HDi)",
       "potenciaHp": 90,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 20.0,
       "autonomiaKm": null,
       "bolsasAire": 4,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nueva-partner.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Van de carga. Rendimiento de hasta 20.8 km/l según la marca (sin decir si es combinado). 4 bolsas de aire. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Van de carga. Rendimiento de hasta 20.8 km/l según la marca (sin decir si es combinado). 4 bolsas de aire. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Según la ficha técnica oficial 2027 (Partner HDi Maxi Pack): manual de 5 velocidades y rendimiento combinado 20.0 km/l (ciudad 18.5, carretera 20.8)."
     }
   ],
   "garantia": {
@@ -60,11 +60,19 @@
       "nombre": "Lista oficial de precios Peugeot",
       "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Peugeot Partner PureTech 2027",
+      "url": "https://www.peugeot.com.mx/content/dam/peugeot/mexico/b2c/tools/brochure/may-26/partner-puretech-fl-2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Peugeot Partner HDi 2027",
+      "url": "https://www.peugeot.com.mx/content/dam/peugeot/mexico/b2c/tools/brochure/may-26/partner-hdi-fl-2027.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Transmisión: la página no la especifica",
-    "Rendimiento combinado oficial por versión: no publicado",
     "También hay Partner 2026 en la lista: $464,900 (1.2 L) y $473,900 (diésel)"
   ]
 }

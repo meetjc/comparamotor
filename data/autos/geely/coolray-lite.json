@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 17.74,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-lite",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2027. 121 hp @ 6,300 rpm y 152 Nm, transmisión manual de 5 velocidades. Rendimiento de laboratorio: ciudad 15.53, carretera 21.47 y combinado 17.74 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas."
+      "notas": "Año modelo 2027. 121 hp @ 6,300 rpm y 152 Nm, transmisión manual de 5 velocidades. Rendimiento de laboratorio: ciudad 15.53, carretera 21.47 y combinado 17.74 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "GS CVT",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 16.58,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-lite",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2027. 121 hp @ 6,300 rpm y 152 Nm, transmisión CVT. Rendimiento de laboratorio: ciudad 14.78, carretera 19.49 y combinado 16.58 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas."
+      "notas": "Año modelo 2027. 121 hp @ 6,300 rpm y 152 Nm, transmisión CVT. Rendimiento de laboratorio: ciudad 14.78, carretera 19.49 y combinado 16.58 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "GS MT",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 17.74,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-lite",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026. 121 hp @ 6,300 rpm y 152 Nm, transmisión manual de 5 velocidades. Rendimiento de laboratorio: ciudad 15.53, carretera 21.47 y combinado 17.74 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas."
+      "notas": "Año modelo 2026. 121 hp @ 6,300 rpm y 152 Nm, transmisión manual de 5 velocidades. Rendimiento de laboratorio: ciudad 15.53, carretera 21.47 y combinado 17.74 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "GS CVT",
@@ -71,11 +71,11 @@
       "rendimientoCombinadoKmL": 16.58,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-lite",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026. 121 hp @ 6,300 rpm y 152 Nm, transmisión CVT. Rendimiento de laboratorio: ciudad 14.78, carretera 19.49 y combinado 16.58 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas."
+      "notas": "Año modelo 2026. 121 hp @ 6,300 rpm y 152 Nm, transmisión CVT. Rendimiento de laboratorio: ciudad 14.78, carretera 19.49 y combinado 16.58 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

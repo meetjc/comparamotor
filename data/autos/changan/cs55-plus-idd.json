@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 120,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.changan.mx/models/cs55-plus-idd",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor eléctrico de 211 hp y 243 lb-ft (torque combinado 348 lb-ft); transmisión híbrida DHT, tracción delantera. Autonomía eléctrica 120 km y combinada 1,085 km (NEDC). Rendimiento de laboratorio: ciudad 21.3, carretera 19.6 y combinado 20.5 km/l. Incluye cargador de casa. 4 bolsas de aire (frontales y laterales; la ficha no marca cortinas en Luxury, aunque la página del modelo dice 6). Sin frenado autónomo de emergencia en Luxury según la ficha. Rendimiento combinado oficial de 20.5 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+      "notas": "Motor eléctrico de 211 hp y 243 lb-ft (torque combinado 348 lb-ft); transmisión híbrida DHT, tracción delantera. Autonomía eléctrica 120 km y combinada 1,085 km (NEDC). Rendimiento de laboratorio: ciudad 21.3, carretera 19.6 y combinado 20.5 km/l. Incluye cargador de casa. 4 bolsas de aire (frontales y laterales; la ficha no marca cortinas en Luxury, aunque la página del modelo dice 6). Sin frenado autónomo de emergencia en Luxury según la ficha. Rendimiento combinado oficial de 20.5 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Premium",

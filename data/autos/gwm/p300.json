@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 11.3,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.gwm-mx.com/es/models/gwm-p300",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 6 velocidades, 221 hp y 284 lb-ft, tracción trasera, capacidad de carga de 1,050 kg. 6 bolsas de aire en todas las versiones. Pantalla de 12.3\" con CarPlay y Android Auto inalámbricos. Según la ficha, sin frenado autónomo de emergencia."
+      "notas": "Manual de 6 velocidades, 221 hp y 284 lb-ft, tracción trasera, capacidad de carga de 1,050 kg. 6 bolsas de aire en todas las versiones. Pantalla de 12.3\" con CarPlay y Android Auto inalámbricos. Según la ficha, sin frenado autónomo de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Manual Luxury",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 11.3,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.gwm-mx.com/es/models/gwm-p300",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 6 velocidades, 221 hp. 6 bolsas de aire. Agrega faros de niebla, espejo electrocrómico, cámara de punto ciego y asientos en piel sintética. Sin frenado autónomo de emergencia según la ficha."
+      "notas": "Manual de 6 velocidades, 221 hp. 6 bolsas de aire. Agrega faros de niebla, espejo electrocrómico, cámara de punto ciego y asientos en piel sintética. Sin frenado autónomo de emergencia según la ficha. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Automática Premium",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 11.4,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.gwm-mx.com/es/models/gwm-p300",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 8 velocidades, 221 hp, tracción trasera. 6 bolsas de aire, luces LED, cluster digital de 7\" y cargador inalámbrico. Según la ficha, sin frenado autónomo de emergencia."
+      "notas": "Automática de 8 velocidades, 221 hp, tracción trasera. 6 bolsas de aire, luces LED, cluster digital de 7\" y cargador inalámbrico. Según la ficha, sin frenado autónomo de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Automática Luxury",

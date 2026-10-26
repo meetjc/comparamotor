@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Ford México (sitio oficial)",
       "url": "https://www.ford.mx/camiones/ranger/2027/versiones-precios/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio \"desde\" de la página de versiones y precios. Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro.mx): verificar si el precio de lista incluye IVA. Capacidad de carga 1,128 kg. 7 bolsas de aire (dato del modelo, no por versión). La página menciona Frenado Autónomo como asistencia del modelo, pero no lo asigna por versión. Transmisión por versión no publicada en las páginas consultadas. Automática de 10 velocidades (página de la versión). La lista de equipo de esta versión no incluye la asistencia pre-colisión con freno de emergencia, que sí tienen las demás."
+      "notas": "Precio \"desde\" de la página de versiones y precios. Capacidad de carga 1,128 kg. 7 bolsas de aire (dato del modelo, no por versión). La página menciona Frenado Autónomo como asistencia del modelo, pero no lo asigna por versión. Transmisión por versión no publicada en las páginas consultadas. Automática de 10 velocidades (página de la versión). La lista de equipo de esta versión no incluye la asistencia pre-colisión con freno de emergencia, que sí tienen las demás. Precio publicado por Ford, sin conversión. Ford se contradice sobre impuestos: la cláusula «Precios» de sus términos legales (ford.mx/legal/legales, actualizada el 28 de febrero de 2024) dice que el precio incluye IVA (tasa no fronteriza) e ISAN y no incluye accesorios, placas ni seguro; el aviso al pie de cada página dice que los precios «no incluyen impuestos». El Catálogo CONUEE 2026 corresponde al año modelo 2026; no se usó para esta versión 2027. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "XLT Gasolina 4x2 2027",
@@ -41,7 +41,7 @@
       "fuente": "Ford México (sitio oficial)",
       "url": "https://www.ford.mx/camiones/ranger/2027/versiones-precios/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio \"desde\" de la página de versiones y precios. Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro.mx): verificar si el precio de lista incluye IVA. Capacidad de carga 1,086 kg. 7 bolsas de aire (dato del modelo, no por versión). La página menciona Frenado Autónomo como asistencia del modelo, pero no lo asigna por versión. Transmisión por versión no publicada en las páginas consultadas. Automática de 10 velocidades (página de la versión). Asistencia pre-colisión con freno de emergencia automático."
+      "notas": "Precio \"desde\" de la página de versiones y precios. Capacidad de carga 1,086 kg. 7 bolsas de aire (dato del modelo, no por versión). La página menciona Frenado Autónomo como asistencia del modelo, pero no lo asigna por versión. Transmisión por versión no publicada en las páginas consultadas. Automática de 10 velocidades (página de la versión). Asistencia pre-colisión con freno de emergencia automático. Precio publicado por Ford, sin conversión. Ford se contradice sobre impuestos: la cláusula «Precios» de sus términos legales (ford.mx/legal/legales, actualizada el 28 de febrero de 2024) dice que el precio incluye IVA (tasa no fronteriza) e ISAN y no incluye accesorios, placas ni seguro; el aviso al pie de cada página dice que los precios «no incluyen impuestos». El Catálogo CONUEE 2026 corresponde al año modelo 2026; no se usó para esta versión 2027."
     },
     {
       "nombre": "XLT Diésel 4x4 2027",
@@ -58,7 +58,7 @@
       "fuente": "Ford México (sitio oficial)",
       "url": "https://www.ford.mx/camiones/ranger/2027/versiones-precios/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio \"desde\" de la página de versiones y precios. Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro.mx): verificar si el precio de lista incluye IVA. Capacidad de carga 1,079 kg. Tracción 4x4. 7 bolsas de aire (dato del modelo, no por versión). La página menciona Frenado Autónomo como asistencia del modelo, pero no lo asigna por versión. Transmisión por versión no publicada en las páginas consultadas. Automática de 10 velocidades (página de la versión). Asistencia pre-colisión con freno de emergencia automático."
+      "notas": "Precio \"desde\" de la página de versiones y precios. Capacidad de carga 1,079 kg. Tracción 4x4. 7 bolsas de aire (dato del modelo, no por versión). La página menciona Frenado Autónomo como asistencia del modelo, pero no lo asigna por versión. Transmisión por versión no publicada en las páginas consultadas. Automática de 10 velocidades (página de la versión). Asistencia pre-colisión con freno de emergencia automático. Precio publicado por Ford, sin conversión. Ford se contradice sobre impuestos: la cláusula «Precios» de sus términos legales (ford.mx/legal/legales, actualizada el 28 de febrero de 2024) dice que el precio incluye IVA (tasa no fronteriza) e ISAN y no incluye accesorios, placas ni seguro; el aviso al pie de cada página dice que los precios «no incluyen impuestos». El Catálogo CONUEE 2026 corresponde al año modelo 2026; no se usó para esta versión 2027."
     },
     {
       "nombre": "Wildtrak 2027",
@@ -75,7 +75,7 @@
       "fuente": "Ford México (sitio oficial)",
       "url": "https://www.ford.mx/camiones/ranger/2027/versiones-precios/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio \"desde\" de la página de versiones y precios. Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro.mx): verificar si el precio de lista incluye IVA. Capacidad de carga 981 kg. Hasta 6 modos de manejo. 7 bolsas de aire (dato del modelo, no por versión). La página menciona Frenado Autónomo como asistencia del modelo, pero no lo asigna por versión. Transmisión por versión no publicada en las páginas consultadas. Automática de 10 velocidades (página de la versión). Asistencia pre-colisión con freno de emergencia automático."
+      "notas": "Precio \"desde\" de la página de versiones y precios. Capacidad de carga 981 kg. Hasta 6 modos de manejo. 7 bolsas de aire (dato del modelo, no por versión). La página menciona Frenado Autónomo como asistencia del modelo, pero no lo asigna por versión. Transmisión por versión no publicada en las páginas consultadas. Automática de 10 velocidades (página de la versión). Asistencia pre-colisión con freno de emergencia automático. Precio publicado por Ford, sin conversión. Ford se contradice sobre impuestos: la cláusula «Precios» de sus términos legales (ford.mx/legal/legales, actualizada el 28 de febrero de 2024) dice que el precio incluye IVA (tasa no fronteriza) e ISAN y no incluye accesorios, placas ni seguro; el aviso al pie de cada página dice que los precios «no incluyen impuestos». El Catálogo CONUEE 2026 corresponde al año modelo 2026; no se usó para esta versión 2027."
     },
     {
       "nombre": "Raptor 2027",
@@ -92,7 +92,7 @@
       "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
       "url": "https://www.ford.mx/performance/raptor/ranger/2027/versiones-precios/ranger-raptor/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Automática de 10 velocidades, tracción 4x4. 7 bolsas de aire (frontales, laterales, de cortina y de rodilla del conductor). La lista de equipo y el catálogo no mencionan frenado de emergencia automático. Automática de 10 velocidades (página de la versión). Asistencia pre-colisión con freno de emergencia automático."
+      "notas": "Precio \"desde\" publicado por Ford. Automática de 10 velocidades, tracción 4x4. 7 bolsas de aire (frontales, laterales, de cortina y de rodilla del conductor). La lista de equipo y el catálogo no mencionan frenado de emergencia automático. Automática de 10 velocidades (página de la versión). Asistencia pre-colisión con freno de emergencia automático. Precio publicado por Ford, sin conversión. Ford se contradice sobre impuestos: la cláusula «Precios» de sus términos legales (ford.mx/legal/legales, actualizada el 28 de febrero de 2024) dice que el precio incluye IVA (tasa no fronteriza) e ISAN y no incluye accesorios, placas ni seguro; el aviso al pie de cada página dice que los precios «no incluyen impuestos». El Catálogo CONUEE 2026 corresponde al año modelo 2026; no se usó para esta versión 2027."
     }
   ],
   "garantia": {
@@ -110,7 +110,7 @@
   "pendientes": [
     "Rendimiento combinado oficial",
     "Garantía oficial",
-    "Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro.",
+    "Impuestos en el precio de Ford: ford.mx se contradice. La cláusula «Precios» de sus términos legales (ford.mx/legal/legales, actualizada el 28 feb 2024) dice que los precios incluyen IVA (tasa no fronteriza) e ISAN y excluyen accesorios, placas y seguro; el aviso al pie de cada página de versiones dice que «no incluyen impuestos, aditamentos y/o accesorios, placas, seguro». Se deja el precio tal como lo publica Ford (verificado el 25 oct 2026); falta que Ford confirme.",
     "Ofertas vigentes en https://www.ford.mx/latest-offer/ranger-2027/",
     "La versión XLT Diésel se llama \"XL Diésel 4x4\" en una pregunta de la FAQ; se usa XLT Diésel 4x4 (tabla de versiones)",
     "Ranger Raptor 2027 se agregó como versión; su lista de equipo no menciona frenado de emergencia automático (confirmar).",

@@ -24,7 +24,7 @@
       "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026 (generación anterior). Mild hybrid, automática deportiva de 8 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+      "notas": "Año modelo 2026 (generación anterior). Mild hybrid, automática deportiva de 8 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). Precio sugerido con IVA, ISAN y transportación según BMW. La ficha oficial de esta versión lista su equipo de asistencia a la conducción y no incluye frenado automático de emergencia frontal (en México BMW ofrece los paquetes Driving Assistant como opcionales). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "40 xDrive",
@@ -36,12 +36,12 @@
       "potenciaHp": 394,
       "rendimientoCombinadoKmL": 14.8,
       "autonomiaKm": null,
-      "bolsasAire": null,
+      "bolsasAire": 7,
       "frenadoAutonomoEmergencia": null,
       "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Nueva generación 2027. Mild hybrid, automática de 8 velocidades, tracción integral xDrive. La ficha no detalla bolsas de aire. La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+      "notas": "Nueva generación 2027. Mild hybrid, automática de 8 velocidades, tracción integral xDrive. La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW. 7 bolsas de aire: frontales para conductor y pasajero, laterales delanteras, de cortina para ambas filas y central entre los asientos delanteros (ficha oficial)."
     },
     {
       "nombre": "xDrive40i Edición 30 Años",
@@ -58,7 +58,7 @@
       "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026, edición especial. Automática deportiva de 8 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+      "notas": "Año modelo 2026, edición especial. Automática deportiva de 8 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). Precio sugerido con IVA, ISAN y transportación según BMW. La ficha oficial de esta versión lista su equipo de asistencia a la conducción y no incluye frenado automático de emergencia frontal (en México BMW ofrece los paquetes Driving Assistant como opcionales). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "xDrive50e Híbrido Conectable",
@@ -75,7 +75,7 @@
       "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026. Híbrido enchufable, batería de 25.7 kWh, hasta 88 km eléctricos (WLTP). Tracción integral xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW. Rendimiento combinado oficial de 13.8 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+      "notas": "Año modelo 2026. Híbrido enchufable, batería de 25.7 kWh, hasta 88 km eléctricos (WLTP). Tracción integral xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). Precio sugerido con IVA, ISAN y transportación según BMW. Rendimiento combinado oficial de 13.8 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina. La ficha oficial de esta versión lista su equipo de asistencia a la conducción y no incluye frenado automático de emergencia frontal (en México BMW ofrece los paquetes Driving Assistant como opcionales). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "M60i",
@@ -92,7 +92,7 @@
       "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026. Mild hybrid, automática deportiva de 8 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+      "notas": "Año modelo 2026. Mild hybrid, automática deportiva de 8 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). Precio sugerido con IVA, ISAN y transportación según BMW. La ficha oficial de esta versión lista su equipo de asistencia a la conducción y no incluye frenado automático de emergencia frontal (en México BMW ofrece los paquetes Driving Assistant como opcionales). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

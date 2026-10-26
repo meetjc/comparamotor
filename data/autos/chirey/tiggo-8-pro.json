@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 14.73,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chirey México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.chirey.mx/autos/ice/tiggo-8-pro-2026/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista $529,900; la página lo muestra tachado y anuncia $499,900 con el bono de $30,000 de octubre. Ficha técnica oficial: motor 1.6 L turbo (1,598 cc), 183 hp @ 5,500 rpm, 202 lb-ft, DCT de 7 velocidades, tracción delantera, 7 pasajeros. Rendimiento de laboratorio: ciudad 12.97, carretera 17.68, combinado 14.73 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Versión Luxury: sin frenado automático de emergencia ni asistencias de manejo con radar según la ficha; cámara 540°, pantalla dual de 24.6\"."
+      "notas": "Precio de lista $529,900; la página lo muestra tachado y anuncia $499,900 con el bono de $30,000 de octubre. Ficha técnica oficial: motor 1.6 L turbo (1,598 cc), 183 hp @ 5,500 rpm, 202 lb-ft, DCT de 7 velocidades, tracción delantera, 7 pasajeros. Rendimiento de laboratorio: ciudad 12.97, carretera 17.68, combinado 14.73 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Versión Luxury: sin frenado automático de emergencia ni asistencias de manejo con radar según la ficha; cámara 540°, pantalla dual de 24.6\". Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Premium",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 14.73,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chirey México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.chirey.mx/autos/ice/tiggo-8-pro/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2025, aún publicado en el sitio. Precio de lista $529,900; la página lo muestra tachado y anuncia $469,900. Ficha técnica oficial 2025: motor 1.6 L turbo (1,598 cc), 183 hp @ 5,500 rpm, 202 lb-ft, DCT de 7 velocidades, tracción delantera, 7 pasajeros. Rendimiento de laboratorio: ciudad 12.97, carretera 17.68, combinado 14.73 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Versión Luxury: sin frenado automático de emergencia ni asistencias de manejo con radar según la ficha; cámara 540°, pantalla dual de 24.6\"."
+      "notas": "Año modelo 2025, aún publicado en el sitio. Precio de lista $529,900; la página lo muestra tachado y anuncia $469,900. Ficha técnica oficial 2025: motor 1.6 L turbo (1,598 cc), 183 hp @ 5,500 rpm, 202 lb-ft, DCT de 7 velocidades, tracción delantera, 7 pasajeros. Rendimiento de laboratorio: ciudad 12.97, carretera 17.68, combinado 14.73 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Versión Luxury: sin frenado automático de emergencia ni asistencias de manejo con radar según la ficha; cámara 540°, pantalla dual de 24.6\". Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Premium",

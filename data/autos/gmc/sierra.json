@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 10.0,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
       "url": "https://www.gmc.com.mx/pickups/sierra-pickup-4x4/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,152,500 y precio financiado o de arrendamiento $1,127,500 (ver ofertas). Tracción 4x4. La ficha no le asigna la transmisión de 10 velocidades y no dice cuántas tiene."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,152,500 y precio financiado o de arrendamiento $1,127,500 (ver ofertas). Tracción 4x4. La ficha no le asigna la transmisión de 10 velocidades y no dice cuántas tiene. El catálogo 2026 marca el asistente de colisión frontal en esta versión y describe la alerta de colisión frontal con asistente de frenado. Chevrolet México, marca hermana de GM, define la asistencia de colisión frontal como frenado automático si el conductor no reacciona (páginas de Tahoe, Suburban y Colorado, revisadas el 25 oct 2026)."
     },
     {
       "nombre": "AT4 5.3L",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 10.0,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
       "url": "https://www.gmc.com.mx/pickups/sierra-pickup-4x4/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,406,500 y precio financiado o de arrendamiento $1,376,500 (ver ofertas). Automática de 10 velocidades, tracción 4x4, suspensión todoterreno elevada."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,406,500 y precio financiado o de arrendamiento $1,376,500 (ver ofertas). Automática de 10 velocidades, tracción 4x4, suspensión todoterreno elevada. El catálogo 2026 marca el asistente de colisión frontal en esta versión y describe la alerta de colisión frontal con asistente de frenado. Chevrolet México, marca hermana de GM, define la asistencia de colisión frontal como frenado automático si el conductor no reacciona (páginas de Tahoe, Suburban y Colorado, revisadas el 25 oct 2026)."
     },
     {
       "nombre": "Denali",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 9.2,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
       "url": "https://www.gmc.com.mx/pickups/sierra-pickup-4x4/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,581,000 y precio financiado o de arrendamiento $1,581,000 (ver ofertas). Automática de 10 velocidades, tracción 4x4."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,581,000 y precio financiado o de arrendamiento $1,581,000 (ver ofertas). Automática de 10 velocidades, tracción 4x4. El catálogo 2026 marca el asistente de colisión frontal en esta versión y describe la alerta de colisión frontal con asistente de frenado. Chevrolet México, marca hermana de GM, define la asistencia de colisión frontal como frenado automático si el conductor no reacciona (páginas de Tahoe, Suburban y Colorado, revisadas el 25 oct 2026)."
     },
     {
       "nombre": "Denali Ultimate",
@@ -71,11 +71,11 @@
       "rendimientoCombinadoKmL": 9.2,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
       "url": "https://www.gmc.com.mx/pickups/sierra-pickup-4x4/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,771,500 y precio financiado o de arrendamiento $1,771,500 (ver ofertas). Automática de 10 velocidades, tracción 4x4."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,771,500 y precio financiado o de arrendamiento $1,771,500 (ver ofertas). Automática de 10 velocidades, tracción 4x4. El catálogo 2026 marca el asistente de colisión frontal en esta versión y describe la alerta de colisión frontal con asistente de frenado. Chevrolet México, marca hermana de GM, define la asistencia de colisión frontal como frenado automático si el conductor no reacciona (páginas de Tahoe, Suburban y Colorado, revisadas el 25 oct 2026)."
     }
   ],
   "garantia": {
@@ -139,7 +139,6 @@
     }
   ],
   "pendientes": [
-    "Frenado autónomo de emergencia sin confirmar (\"alerta de colisión frontal con asistente de frenado\").",
     "Número de velocidades de la Cabina Regular no publicado.",
     "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer.",
     "GMC publica catálogos, no fichas técnicas; el PDF guardado es el catálogo oficial."

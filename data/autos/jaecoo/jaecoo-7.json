@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 16.35,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Jaecoo México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.jaecoo.mx/modelos/detalle/jaecoo-7-2025/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista $549,900; la página lo muestra tachado y anuncia $489,900 con bono de $60,000. Ficha técnica oficial: 1.6 L turbo (1,598 cc), 184 hp @ 5,550 rpm, 203 lb-ft, DCT de 7 velocidades. La ficha no incluye frenado automático de emergencia ni alerta de colisión frontal; sí detector de punto ciego, alerta de tráfico cruzado y asistente de cambio de carril. Tracción delantera. Consumo combinado 16.35 y carretera 19.64 km/l. 6 bolsas de aire (frontales, laterales y de cortina)."
+      "notas": "Precio de lista $549,900; la página lo muestra tachado y anuncia $489,900 con bono de $60,000. Ficha técnica oficial: 1.6 L turbo (1,598 cc), 184 hp @ 5,550 rpm, 203 lb-ft, DCT de 7 velocidades. La ficha no incluye frenado automático de emergencia ni alerta de colisión frontal; sí detector de punto ciego, alerta de tráfico cruzado y asistente de cambio de carril. Tracción delantera. Consumo combinado 16.35 y carretera 19.64 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Refine AWD",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 14.44,
       "autonomiaKm": null,
       "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Jaecoo México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.jaecoo.mx/modelos/detalle/jaecoo-7-2025/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista $599,900; la página lo muestra tachado y anuncia $539,900 con bono de $60,000. Ficha técnica oficial: 1.6 L turbo (1,598 cc), 184 hp @ 5,550 rpm, 203 lb-ft, DCT de 7 velocidades. La ficha no incluye frenado automático de emergencia ni alerta de colisión frontal; sí detector de punto ciego, alerta de tráfico cruzado y asistente de cambio de carril. Tracción integral (AWD) con modos lodo, arena, nieve y off-road. Consumo combinado 14.44 y carretera 18.35 km/l. 7 bolsas de aire (agrega la de rodilla para el conductor)."
+      "notas": "Precio de lista $599,900; la página lo muestra tachado y anuncia $539,900 con bono de $60,000. Ficha técnica oficial: 1.6 L turbo (1,598 cc), 184 hp @ 5,550 rpm, 203 lb-ft, DCT de 7 velocidades. La ficha no incluye frenado automático de emergencia ni alerta de colisión frontal; sí detector de punto ciego, alerta de tráfico cruzado y asistente de cambio de carril. Tracción integral (AWD) con modos lodo, arena, nieve y off-road. Consumo combinado 14.44 y carretera 18.35 km/l. 7 bolsas de aire (agrega la de rodilla para el conductor). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

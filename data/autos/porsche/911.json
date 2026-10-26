@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 394,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.4,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 Carrera 2 PDK (Coupé)»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 Carrera T",
@@ -34,14 +34,14 @@
       "transmision": "manual",
       "motor": "Gasolina",
       "potenciaHp": 394,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.0,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Coupé, tracción trasera, transmisión manual. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Coupé, tracción trasera, transmisión manual. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 Carrera T MT (Coupé)»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 Carrera S",
@@ -51,14 +51,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 480,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.2,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 Carrera 2S PDK (Coupé)»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 Carrera 4S",
@@ -68,14 +68,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 480,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 10.9,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Coupé, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Coupé, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 Carrera 4S 3.0 Coupé»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 Carrera 4S Cabriolet",
@@ -85,14 +85,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 480,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 10.9,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Cabriolet, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Cabriolet, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 Carrera 4S 3.0 Cabrio»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 Targa 4S",
@@ -102,14 +102,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 480,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 10.9,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Targa, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Targa, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 Carrera 4S 3.0 Targa»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 Carrera GTS",
@@ -119,14 +119,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 541,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.1,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 Carrera GTS PDK (Coupé)»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 Carrera 4 GTS",
@@ -136,14 +136,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 541,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 10.9,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Coupé, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Coupé, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 Carrera 4GTS PDK (Coupé)»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 Carrera 4 GTS Cabriolet",
@@ -153,14 +153,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 541,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 10.9,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Cabriolet, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Cabriolet, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 Carrera 4GTS PDK (Cabrio)»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 Targa 4 GTS",
@@ -170,14 +170,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 541,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 10.9,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Targa, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Targa, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado». Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 Carrera 4GTS PDK (Targa)»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 GT3",
@@ -187,14 +187,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 510,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 8.5,
       "autonomiaKm": null,
       "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería GT, tracción trasera, transmisión automática/transmisión manual. Porsche la ofrece con transmisión automática o manual. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería GT, tracción trasera, transmisión automática/transmisión manual. Porsche la ofrece con transmisión automática o manual. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 GT3 PDK; con caja manual el catálogo da 8.3 km/l»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 GT3 with Touring Package",
@@ -204,14 +204,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 510,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 8.5,
       "autonomiaKm": null,
       "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería GT, tracción trasera, transmisión automática/transmisión manual. Porsche la ofrece con transmisión automática o manual. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería GT, tracción trasera, transmisión automática/transmisión manual. Porsche la ofrece con transmisión automática o manual. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 GT3 Touring PDK; con caja manual el catálogo da 8.3 km/l»). El catálogo corresponde al año modelo 2026; esta versión es año 2027 con el mismo tren motriz."
     },
     {
       "nombre": "911 Spirit 70",
@@ -221,14 +221,14 @@
       "transmision": "automatica",
       "motor": "Gasolina",
       "potenciaHp": 541,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.2,
       "autonomiaKm": null,
       "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Cabriolet, tracción trasera, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Cabriolet, tracción trasera, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (fila «911 Carrera 70 Spirit»)."
     },
     {
       "nombre": "911 Turbo S",
@@ -241,11 +241,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Turbo Coupé, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Turbo Coupé, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado»."
     },
     {
       "nombre": "911 Turbo S Cabriolet",
@@ -258,11 +258,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería Turbo Cabriolet, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería Turbo Cabriolet, tracción integral, transmisión automática. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio. Frenado autónomo de emergencia: el comparador oficial de Porsche México lista de serie el «Asistente de advertencia y frenado»."
     },
     {
       "nombre": "911 GT3 S/C",
@@ -279,7 +279,7 @@
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería GT Cabriolet, tracción trasera, transmisión manual. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería GT Cabriolet, tracción trasera, transmisión manual. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio."
     },
     {
       "nombre": "911 GT3 90 F. A. Porsche",
@@ -296,7 +296,7 @@
       "fuente": "Porsche México (sitio oficial: modelos y precios)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Carrocería GT, tracción trasera, transmisión manual. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+      "notas": "Carrocería GT, tracción trasera, transmisión manual. Precio publicado por Porsche México, con IVA e ISAN incluidos según el aviso al pie de su sitio."
     }
   ],
   "garantia": null,
@@ -311,11 +311,23 @@
       "nombre": "Porsche 911 (página oficial)",
       "url": "https://www.porsche.com/mexico/models/911/",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Porsche México: comparador oficial de modelos (equipamiento de serie)",
+      "url": "https://compare.porsche.com/es-MX/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "CONUEE: Catálogo de rendimiento de combustible en vehículos ligeros 2026",
+      "url": "https://www.gob.mx/conuee",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Porsche México publica precio y potencia por versión, pero no rendimiento, autonomía, número de bolsas de aire ni frenado automático en la página de modelos; quedan por confirmar con la ficha de cada versión",
-    "La página no indica si los precios incluyen IVA e ISAN",
-    "Porsche México no publica ficha técnica PDF descargable; no se registró garantía porque no se encontró en el sitio oficial"
+    "Porsche México publica sus precios con IVA (16%) e ISAN incluidos, según el aviso al pie de su sitio oficial (verificado el 25-oct-2026).",
+    "El comparador oficial de Porsche (compare.porsche.com/es-MX) lista las bolsas de aire de serie sin decir cuántas son; el número total queda por confirmar",
+    "Porsche México no publica ficha técnica PDF descargable; no se registró garantía porque no se encontró en el sitio oficial",
+    "Frenado autónomo de emergencia sin confirmar en 911 GT3, GT3 with Touring Package y GT3 S/C (el comparador oficial no incluye el asistente de advertencia y frenado en su lista de serie, pero tampoco lo marca como no disponible), en 911 Spirit 70 (sin datos en el comparador) y en 911 GT3 90 F. A. Porsche (no aparece en el comparador)",
+    "Rendimiento combinado sin dato en CONUEE 2026 para 911 Turbo S, Turbo S Cabriolet, GT3 S/C y GT3 90 F. A. Porsche"
   ]
 }

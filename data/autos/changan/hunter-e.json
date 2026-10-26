@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 131,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.changan.mx/models/hunter-e",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2025. Potencia eléctrica total 268 hp y 346 lb-ft, tracción 4x4 con diferencial bloqueable, carga de 900 kg y arrastre de 2,500 kg. Autonomía eléctrica 131 km y combinada 1,031 km (NEDC). Rendimiento de combustible de la ficha: ciudad 16.8, carretera 14.9 y combinado 15.9 km/l. 4 bolsas de aire (frontales y laterales) según la ficha; la página del modelo dice 6. Sin frenado autónomo de emergencia (solo alerta de salida de carril). Incluye cargador de casa. Rendimiento combinado oficial de 15.9 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+      "notas": "Año modelo 2025. Potencia eléctrica total 268 hp y 346 lb-ft, tracción 4x4 con diferencial bloqueable, carga de 900 kg y arrastre de 2,500 kg. Autonomía eléctrica 131 km y combinada 1,031 km (NEDC). Rendimiento de combustible de la ficha: ciudad 16.8, carretera 14.9 y combinado 15.9 km/l. 4 bolsas de aire (frontales y laterales) según la ficha; la página del modelo dice 6. Sin frenado autónomo de emergencia (solo alerta de salida de carril). Incluye cargador de casa. Rendimiento combinado oficial de 15.9 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "4x4 Premium",

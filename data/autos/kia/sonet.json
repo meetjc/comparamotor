@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 18.03,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Kia México (sitio oficial)",
       "url": "https://www.kia.com/mx/showroom/sonet/specification.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Kia la nombra IVT (transmisión variable inteligente, de tipo continuamente variable). Sin FCA según la tabla oficial."
+      "notas": "Kia la nombra IVT (transmisión variable inteligente, de tipo continuamente variable). Sin FCA según la tabla oficial. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "EX IVT",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": 18.03,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Kia México (sitio oficial)",
       "url": "https://www.kia.com/mx/showroom/sonet/specification.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "IVT. Sin FCA según la tabla oficial; suma control crucero y limitador de velocidad manual frente a LX."
+      "notas": "IVT. Sin FCA según la tabla oficial; suma control crucero y limitador de velocidad manual frente a LX. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "SX IVT",

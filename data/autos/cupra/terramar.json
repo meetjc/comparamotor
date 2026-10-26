@@ -19,12 +19,12 @@
       "potenciaHp": 150,
       "rendimientoCombinadoKmL": 15.8,
       "autonomiaKm": null,
-      "bolsasAire": 7,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.cupraoficial.mx/autos/terramar/terramar-1-4",
       "fechaVerificacion": "2026-10-25",
-      "notas": "7 bolsas de aire (frontales con bolsa central, laterales delanteras y de cortina). DSG de 7 velocidades, tracción delantera. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026. En su promoción CUPRA cita un precio de lista de $802,900."
+      "notas": "Bolsas de aire: frontales con bolsa central, laterales delanteras y de cortina (la ficha oficial lista los tipos, no el número total). DSG de 7 velocidades, tracción delantera. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026. En su promoción CUPRA cita un precio de lista de $802,900."
     },
     {
       "nombre": "VZ",
@@ -36,12 +36,12 @@
       "potenciaHp": 265,
       "rendimientoCombinadoKmL": 14.1,
       "autonomiaKm": null,
-      "bolsasAire": 7,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.cupraoficial.mx/autos/terramar/terramar-vz",
       "fechaVerificacion": "2026-10-25",
-      "notas": "7 bolsas de aire (frontales con bolsa central, laterales delanteras y de cortina). DSG de 7 velocidades con tracción integral 4Drive. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+      "notas": "Bolsas de aire: frontales con bolsa central, laterales delanteras y de cortina (la ficha oficial lista los tipos, no el número total). DSG de 7 velocidades con tracción integral 4Drive. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
     },
     {
       "nombre": "VZ Tribe Edition",
@@ -53,12 +53,12 @@
       "potenciaHp": 265,
       "rendimientoCombinadoKmL": 14.1,
       "autonomiaKm": null,
-      "bolsasAire": 7,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.cupraoficial.mx/autos/terramar/tribe-edition",
       "fechaVerificacion": "2026-10-25",
-      "notas": "7 bolsas de aire (frontales con bolsa central, laterales delanteras y de cortina). DSG de 7 velocidades con tracción integral 4Drive. Edición con color Manganeso Mate y rines de 20 pulgadas en negro mate. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+      "notas": "Bolsas de aire: frontales con bolsa central, laterales delanteras y de cortina (la ficha oficial lista los tipos, no el número total). DSG de 7 velocidades con tracción integral 4Drive. Edición con color Manganeso Mate y rines de 20 pulgadas en negro mate. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
     },
     {
       "nombre": "PHEV",
@@ -70,12 +70,12 @@
       "potenciaHp": 272,
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 123,
-      "bolsasAire": 7,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.cupraoficial.mx/autos/terramar/terramar-phev",
       "fechaVerificacion": "2026-10-25",
-      "notas": "7 bolsas de aire (frontales con bolsa central, laterales delanteras y de cortina). DSG de 6 velocidades, tracción delantera. 272 hp de potencia combinada (gasolina 177 hp y eléctrico 116 hp). Autonomía eléctrica de hasta 123 km. La ficha da 94.3 km/l combinado del sistema con la batería en uso, cifra que no se compara con autos de gasolina. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+      "notas": "Bolsas de aire: frontales con bolsa central, laterales delanteras y de cortina (la ficha oficial lista los tipos, no el número total). DSG de 6 velocidades, tracción delantera. 272 hp de potencia combinada (gasolina 177 hp y eléctrico 116 hp). Autonomía eléctrica de hasta 123 km. La ficha da 94.3 km/l combinado del sistema con la batería en uso, cifra que no se compara con autos de gasolina. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
     }
   ],
   "garantia": {

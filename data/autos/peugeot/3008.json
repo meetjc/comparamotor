@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "1.6 L 4 cil. turbo",
       "potenciaHp": 180,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 14.88,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nuevo-3008.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales delanteras y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales delanteras y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Rendimiento combinado 14.88 km/l (ciudad 12.74, carretera 18.74) según la ficha técnica oficial, rotulada año modelo 2026, que publica un solo valor para el motor 1.6 L turbo con automática de 6 velocidades."
     },
     {
       "nombre": "GT 1.6L Turbo",
@@ -34,14 +34,14 @@
       "transmision": "automatica",
       "motor": "1.6 L 4 cil. turbo",
       "potenciaHp": 180,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 14.88,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nuevo-3008.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales delanteras y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Agrega alerta de tráfico cruzado trasero y asistente de cambio de carril. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales delanteras y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Agrega alerta de tráfico cruzado trasero y asistente de cambio de carril. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Rendimiento combinado 14.88 km/l (ciudad 12.74, carretera 18.74) según la ficha técnica oficial, rotulada año modelo 2026, que publica un solo valor para el motor 1.6 L turbo con automática de 6 velocidades."
     },
     {
       "nombre": "GT 1.6L Turbo Black Edition",
@@ -51,14 +51,14 @@
       "transmision": "automatica",
       "motor": "1.6 L 4 cil. turbo",
       "potenciaHp": 180,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 14.88,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nuevo-3008.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Edición Black sobre la GT. Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales delanteras y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Edición Black sobre la GT. Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales delanteras y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Rendimiento combinado 14.88 km/l (ciudad 12.74, carretera 18.74) según la ficha técnica oficial, rotulada año modelo 2026, que publica un solo valor para el motor 1.6 L turbo con automática de 6 velocidades."
     }
   ],
   "garantia": {
@@ -77,10 +77,14 @@
       "nombre": "Lista oficial de precios Peugeot",
       "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Peugeot 3008 (año modelo 2026)",
+      "url": "https://www.peugeot.com.mx/content/dam/peugeot/mexico/b2c/tools/brochure/nov-25/3008-2026-Web.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento combinado: la página no lo publica",
     "También hay 3008 2026 en la lista: Allure Pack $629,900 y GT $704,900",
     "Los metadatos de la página dicen «3008 Plug-In Hybrid», pero el contenido y la lista de precios solo muestran el motor 1.6 L turbo de gasolina"
   ]

@@ -16,15 +16,15 @@
       "moneda": "MXN",
       "transmision": "directa",
       "motor": "Motor eléctrico trasero 150 kW (310 N·m); batería Blade 61.44 kWh",
-      "potenciaHp": null,
+      "potenciaHp": 201,
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 460,
-      "bolsasAire": 8,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "BYD México (sitio oficial)",
       "url": "https://www.byd.com/mx/order-seal",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Sedán eléctrico, batería Blade de 61.44 kWh (RWD) o 82.56 kWh (AWD). Autonomía WLTC según BYD. BYD publica la potencia en kW, no en hp. 8 bolsas de aire inferidas de la ficha (frontales conductor y pasajero, laterales delanteras y traseras, cortina delanteras y traseras); la ficha no da la cifra total. Frenado automático de emergencia (AEB) disponible en ambas versiones según la ficha de septiembre 2026. Precio del configurador oficial. Tracción trasera, 0-100 km/h en 7.5 s según la ficha. Consumo WLTC 15.4 kWh/100 km. Carga DC hasta 110 kW."
+      "notas": "Sedán eléctrico, batería Blade de 61.44 kWh (RWD) o 82.56 kWh (AWD). Autonomía WLTC según BYD. BYD publica la potencia en kW, no en hp. Bolsas de aire inferidas de la ficha (frontales conductor y pasajero, laterales delanteras y traseras, cortina delanteras y traseras); la ficha no da la cifra total; la ficha oficial no da el número total, por eso no se publica una cifra. Frenado automático de emergencia (AEB) disponible en ambas versiones según la ficha de septiembre 2026. Precio del configurador oficial. Tracción trasera, 0-100 km/h en 7.5 s según la ficha. Consumo WLTC 15.4 kWh/100 km. Carga DC hasta 110 kW. Potencia de 201 hp, convertido de 150 kW oficiales (ficha técnica)."
     },
     {
       "nombre": "Seal AWD 520 km",
@@ -33,15 +33,15 @@
       "moneda": "MXN",
       "transmision": "directa",
       "motor": "Dos motores eléctricos, 390 kW combinados (160 kW delantero + 230 kW trasero); batería Blade 82.56 kWh",
-      "potenciaHp": null,
+      "potenciaHp": 523,
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 520,
-      "bolsasAire": 8,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "BYD México (sitio oficial)",
       "url": "https://www.byd.com/mx/order-seal",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Sedán eléctrico, batería Blade de 61.44 kWh (RWD) o 82.56 kWh (AWD). Autonomía WLTC según BYD. BYD publica la potencia en kW, no en hp. 8 bolsas de aire inferidas de la ficha (frontales conductor y pasajero, laterales delanteras y traseras, cortina delanteras y traseras); la ficha no da la cifra total. Frenado automático de emergencia (AEB) disponible en ambas versiones según la ficha de septiembre 2026. Precio del configurador oficial. Tracción integral, 0-100 km/h en 3.8 s según la ficha. Consumo WLTC 18.2 kWh/100 km. Carga DC hasta 150 kW."
+      "notas": "Sedán eléctrico, batería Blade de 61.44 kWh (RWD) o 82.56 kWh (AWD). Autonomía WLTC según BYD. BYD publica la potencia en kW, no en hp. Bolsas de aire inferidas de la ficha (frontales conductor y pasajero, laterales delanteras y traseras, cortina delanteras y traseras); la ficha no da la cifra total; la ficha oficial no da el número total, por eso no se publica una cifra. Frenado automático de emergencia (AEB) disponible en ambas versiones según la ficha de septiembre 2026. Precio del configurador oficial. Tracción integral, 0-100 km/h en 3.8 s según la ficha. Consumo WLTC 18.2 kWh/100 km. Carga DC hasta 150 kW. Potencia de 523 hp, convertido de 390 kW oficiales de potencia combinada (ficha técnica)."
     }
   ],
   "garantia": {
@@ -56,7 +56,6 @@
     "https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20SEAL%20flyer-ES-MX-20260911_.pdf"
   ],
   "pendientes": [
-    "Potencia en hp (BYD publica kW)",
     "Garantía oficial de este modelo: no aparece en la página ni en la ficha del Seal; BYD México publica 6 años o 150,000 km (vehículo) y 8 años o 200,000 km (batería) en otros modelos, sin confirmar para el Seal",
     "Cifra total de bolsas de aire (la ficha solo enumera tipos)",
     "Ofertas de octubre 2026 del Seal: el PDF oficial de legales no las incluye",

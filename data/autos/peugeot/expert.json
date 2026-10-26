@@ -14,34 +14,34 @@
       "anio": 2026,
       "precio": 690900,
       "moneda": "MXN",
-      "transmision": null,
+      "transmision": "manual",
       "motor": "2.0 L 4 cil. turbodiésel",
       "potenciaHp": 150,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 16.7,
       "autonomiaKm": null,
       "bolsasAire": 2,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nueva-expert.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Van comercial, carga útil de hasta 1,400 kg. 2 bolsas de aire frontales. Asistente de frenado de urgencia (no es frenado autónomo). Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Van comercial, carga útil de hasta 1,400 kg. 2 bolsas de aire frontales. Asistente de frenado de urgencia (no es frenado autónomo). Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Según la ficha técnica oficial (Expert furgón, año modelo 2026): caja manual de 6 velocidades y rendimiento combinado 16.7 km/l (ciudad 13.7, carretera 19.2)."
     },
     {
       "nombre": "2.0L Diésel",
       "anio": 2026,
       "precio": 708900,
       "moneda": "MXN",
-      "transmision": null,
+      "transmision": "manual",
       "motor": "2.0 L 4 cil. turbodiésel",
       "potenciaHp": 150,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 16.7,
       "autonomiaKm": null,
       "bolsasAire": 2,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nueva-expert.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Van comercial. Rendimiento de hasta 19.2 km/l según la marca. 2 bolsas de aire frontales. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Van comercial. Rendimiento de hasta 19.2 km/l según la marca. 2 bolsas de aire frontales. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Según la ficha técnica oficial (Expert furgón, año modelo 2026): caja manual de 6 velocidades y rendimiento combinado 16.7 km/l (ciudad 13.7, carretera 19.2)."
     }
   ],
   "garantia": {
@@ -60,11 +60,14 @@
       "nombre": "Lista oficial de precios Peugeot",
       "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Peugeot Expert (año modelo 2026)",
+      "url": "https://www.peugeot.com.mx/content/dam/peugeot/mexico/b2c/tools/brochure/oct-25/ficha-tecnica-abr25-peugeot-expert-fl-2026-web-v1.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Transmisión: la página no la especifica",
-    "Diferencia entre la versión SC y la estándar: no se explica en la página",
-    "Rendimiento combinado oficial: no publicado"
+    "Diferencia entre la versión SC y la estándar: no se explica en la página"
   ]
 }

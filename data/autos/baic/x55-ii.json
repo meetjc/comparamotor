@@ -17,14 +17,14 @@
       "transmision": "doble-embrague",
       "motor": "1.5 L turbo 4 cil.",
       "potenciaHp": 185,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 13.5,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "BAIC México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.baicmx.com/models/26",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Motor de 138 kW (unos 185 hp; 130 kW netos) y 305 Nm, doble embrague de 7 velocidades, tracción delantera. Consumo de combustible de la ficha: 7.7 L/100 km (no se publica en km/l). 4 bolsas de aire (frontales y laterales). Sin frenado automático de emergencia según la ficha (solo asistencia de frenado). Techo panorámico, pantallas de 10\"."
+      "notas": "Motor de 138 kW (unos 185 hp; 130 kW netos) y 305 Nm, doble embrague de 7 velocidades, tracción delantera. Consumo de combustible de la ficha: 7.7 L/100 km (no se publica en km/l). 4 bolsas de aire (frontales y laterales). Sin frenado automático de emergencia según la ficha (solo asistencia de frenado). Techo panorámico, pantallas de 10\". Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {
@@ -48,12 +48,16 @@
       "nombre": "Garantía BAIC México",
       "url": "https://www.baicmx.com/about/warranty",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
     "Año modelo no publicado en la página ni en la ficha",
     "BAIC da la potencia en kW; los hp se calcularon (1 kW = 1.341 hp)",
-    "Rendimiento: la ficha da 7.7 L/100 km, no km/l",
     "Garantía: la página de BAIC solo muestra la cobertura de motor y transmisión (5 años o 100,000 km) para gasolina; no publica la garantía defensa a defensa ni la de componentes eléctricos"
   ]
 }

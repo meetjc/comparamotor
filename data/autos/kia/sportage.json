@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 14.7,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Kia México (sitio oficial)",
       "url": "https://www.kia.com/mx/showroom/sportage/specification.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Transmisión automática de 8 velocidades, tracción 2WD, rines de 18\". La tabla oficial de seguridad no marca el asistente de evasión de colisión frontal con función de giro (FCA) en esta versión (sí en SX, X-LINE y X-LINE Terracota)."
+      "notas": "Transmisión automática de 8 velocidades, tracción 2WD, rines de 18\". La tabla oficial de seguridad no marca el asistente de evasión de colisión frontal con función de giro (FCA) en esta versión (sí en SX, X-LINE y X-LINE Terracota). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "SX",

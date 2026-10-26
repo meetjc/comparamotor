@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
       "url": "https://www.volvocars.com/mx/cars/xc60-hybrid/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Potencia combinada de 406 hp, automática Geartronic de 8 velocidades, tracción integral, batería de 18.8 kWh. La autonomía eléctrica aparece sin dato en el sitio. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+      "notas": "Potencia combinada de 406 hp, automática Geartronic de 8 velocidades, tracción integral, batería de 18.8 kWh. La autonomía eléctrica aparece sin dato en el sitio. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). Precio con impuestos incluidos según Volvo. Incluye frenado automático en intersecciones, que frena solo si detecta riesgo de colisión (sitio oficial: especificaciones, marcado como incluido en esta versión)."
     },
     {
       "nombre": "Plus",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
       "url": "https://www.volvocars.com/mx/cars/xc60-hybrid/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Potencia combinada de 406 hp, automática de 8 velocidades, tracción integral. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+      "notas": "Potencia combinada de 406 hp, automática de 8 velocidades, tracción integral. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). Precio con impuestos incluidos según Volvo. Incluye frenado automático en intersecciones, que frena solo si detecta riesgo de colisión (sitio oficial: especificaciones, marcado como incluido en esta versión)."
     },
     {
       "nombre": "Ultra",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": null,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
       "url": "https://www.volvocars.com/mx/cars/xc60-hybrid/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Potencia combinada de 406 hp, automática de 8 velocidades, tracción integral. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+      "notas": "Potencia combinada de 406 hp, automática de 8 velocidades, tracción integral. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). Precio con impuestos incluidos según Volvo. Incluye frenado automático en intersecciones, que frena solo si detecta riesgo de colisión (sitio oficial: especificaciones, marcado como incluido en esta versión)."
     },
     {
       "nombre": "Black Edition",

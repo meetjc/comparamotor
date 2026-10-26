@@ -17,14 +17,14 @@
       "transmision": "manual",
       "motor": "1.6 L 4 cil. turbodiésel (HDi)",
       "potenciaHp": 90,
-      "rendimientoCombinadoKmL": 17.5,
+      "rendimientoCombinadoKmL": 19.6,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nueva-rifter.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Hasta 7 pasajeros. Manual de 5 velocidades. 6 bolsas de aire. La página menciona asistente de frenado de emergencia (no frenado autónomo). Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Hasta 7 pasajeros. Manual de 5 velocidades. 6 bolsas de aire. La página menciona asistente de frenado de emergencia (no frenado autónomo). Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Corrección: la ficha técnica oficial 2027 de Rifter HDi Allure Pack da rendimiento combinado 19.6 km/l (ciudad 18.2, carretera 20.0); antes estaba cruzado con la versión de gasolina."
     },
     {
       "nombre": "Allure Pack 1.2L Turbo",
@@ -34,14 +34,14 @@
       "transmision": "automatica",
       "motor": "1.2 L 3 cil. turbo (PureTech)",
       "potenciaHp": 130,
-      "rendimientoCombinadoKmL": 19.6,
+      "rendimientoCombinadoKmL": 17.5,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nueva-rifter.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Hasta 7 pasajeros, motor a gasolina. Automática de 8 velocidades. 6 bolsas de aire. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Hasta 7 pasajeros, motor a gasolina. Automática de 8 velocidades. 6 bolsas de aire. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Corrección: la ficha técnica oficial 2027 de Rifter PureTech Allure Pack da rendimiento combinado 17.5 km/l (ciudad 15.6, carretera 19.2); antes estaba cruzado con la versión diésel."
     }
   ],
   "garantia": {
@@ -59,6 +59,16 @@
     {
       "nombre": "Lista oficial de precios Peugeot",
       "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Peugeot Rifter HDi 2027",
+      "url": "https://www.peugeot.com.mx/content/dam/peugeot/mexico/b2c/tools/brochure/may-26/rifter-hdi-allure-pack-azul-2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Peugeot Rifter PureTech 2027",
+      "url": "https://www.peugeot.com.mx/content/dam/peugeot/mexico/b2c/tools/brochure/may-26/rifter-puretech-allure-pack-azul-2027.pdf",
       "tipo": "oficial"
     }
   ],

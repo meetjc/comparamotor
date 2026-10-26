@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "1.6 L 4 cil. turbo",
       "potenciaHp": 180,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 14.1,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nuevo-5008.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Rendimiento combinado 14.1 km/l (ciudad 11.95, carretera 18.0) según la ficha técnica oficial, rotulada año modelo 2026, para el motor 1.6 L turbo con automática de 6 velocidades."
     },
     {
       "nombre": "GT 1.6L Turbo Black Edition",
@@ -34,14 +34,14 @@
       "transmision": "automatica",
       "motor": "1.6 L 4 cil. turbo",
       "potenciaHp": 180,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 14.1,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nuevo-5008.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Edición Black. Automática de 6 velocidades. 6 bolsas de aire. Incluye frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Edición Black. Automática de 6 velocidades. 6 bolsas de aire. Incluye frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Rendimiento combinado 14.1 km/l (ciudad 11.95, carretera 18.0) según la ficha técnica oficial, rotulada año modelo 2026, para el motor 1.6 L turbo con automática de 6 velocidades."
     }
   ],
   "garantia": {
@@ -60,10 +60,14 @@
       "nombre": "Lista oficial de precios Peugeot",
       "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Peugeot 5008 (año modelo 2026)",
+      "url": "https://www.peugeot.com.mx/content/dam/peugeot/mexico/b2c/tools/brochure/nov-25/5008-2026-Web.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento combinado: la página no lo publica",
     "También hay 5008 GT 2026 en la lista a $749,900"
   ]
 }

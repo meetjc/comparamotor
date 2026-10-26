@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 14.9,
       "autonomiaKm": null,
       "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
       "url": "https://www.hyundai.com.mx/modelos/tucson-2026/especificaciones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 8 velocidades, tracción delantera. 7 bolsas de aire (frontales, central delantera, laterales y de cortina). Sin asistente de anticolisión frontal. Precio de lista con IVA."
+      "notas": "Automática de 8 velocidades, tracción delantera. 7 bolsas de aire (frontales, central delantera, laterales y de cortina). Sin asistente de anticolisión frontal. Precio de lista con IVA. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Limited TA",

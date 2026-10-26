@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 18.7,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/precios-y-planes",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista $582,500; precio de contado $502,500; precio financiado/leasing $472,500. Automática de 6 velocidades. Rendimiento oficial: ciudad 15.8, carretera 24.3, combinado 18.7 km/l. Incluye alerta de colisión frontal, asistente de colisión frontal inminente y alerta de punto ciego; la ficha no usa el término 'frenado autónomo', por eso el campo queda sin confirmar."
+      "notas": "Precio de lista $582,500; precio de contado $502,500; precio financiado/leasing $472,500. Automática de 6 velocidades. Rendimiento oficial: ciudad 15.8, carretera 24.3, combinado 18.7 km/l. Incluye alerta de colisión frontal, asistente de colisión frontal inminente y alerta de punto ciego; la ficha no usa el término 'frenado autónomo', por eso el campo queda sin confirmar. Chevrolet México describe la asistencia de colisión frontal inminente como un sistema que se activa de manera automática con el sistema de frenado (página de Blazer, revisada el 25 oct 2026)."
     }
   ],
   "garantia": {
@@ -72,7 +72,6 @@
     }
   ],
   "pendientes": [
-    "Frenado autónomo de emergencia de Premier AT (D) sin confirmar: la ficha lista 'Alerta de colisión frontal' y 'Asistente de colisión frontal inminente' sin mencionar frenado.",
     "La tabla de precios de la página oficial se carga desde un widget embebido (ppigmm.com.mx); no se incluye en el HTML directo de chevrolet.com.mx.",
     "Chevrolet México vende además la Trax 2026 como modelo distinto (desde $473,300); este archivo es solo del Tracker (1.2 L turbo, 130 hp).",
     "El precio de contado ($457,500 y $502,500) es menor que el de lista; la página no desglosa el bono de contado.",

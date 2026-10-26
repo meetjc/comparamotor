@@ -19,12 +19,12 @@
       "potenciaHp": 110,
       "rendimientoCombinadoKmL": 18.9,
       "autonomiaKm": null,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.seat.mx/autos/ibiza",
       "fechaVerificacion": "2026-10-25",
-      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Manual de 5 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
+      "notas": "Bolsas de aire: frontales, laterales delanteras y de cortina (la ficha oficial lista los tipos, no el número total). Manual de 5 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
     },
     {
       "nombre": "Style 1.6 TA",
@@ -36,12 +36,12 @@
       "potenciaHp": 110,
       "rendimientoCombinadoKmL": 16.9,
       "autonomiaKm": null,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.seat.mx/autos/ibiza",
       "fechaVerificacion": "2026-10-25",
-      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Tiptronic de 6 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
+      "notas": "Bolsas de aire: frontales, laterales delanteras y de cortina (la ficha oficial lista los tipos, no el número total). Tiptronic de 6 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
     },
     {
       "nombre": "FR 1.6 TM",
@@ -53,12 +53,12 @@
       "potenciaHp": 110,
       "rendimientoCombinadoKmL": 18.9,
       "autonomiaKm": null,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.seat.mx/autos/ibiza",
       "fechaVerificacion": "2026-10-25",
-      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Manual de 5 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. En su promoción SEAT cita un precio de lista de $423,900 para esta versión. La ficha técnica no lista frenado autónomo de emergencia."
+      "notas": "Bolsas de aire: frontales, laterales delanteras y de cortina (la ficha oficial lista los tipos, no el número total). Manual de 5 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. En su promoción SEAT cita un precio de lista de $423,900 para esta versión. La ficha técnica no lista frenado autónomo de emergencia."
     },
     {
       "nombre": "FR 1.6 TA",
@@ -70,12 +70,12 @@
       "potenciaHp": 110,
       "rendimientoCombinadoKmL": 16.9,
       "autonomiaKm": null,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.seat.mx/autos/ibiza",
       "fechaVerificacion": "2026-10-25",
-      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Tiptronic de 6 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
+      "notas": "Bolsas de aire: frontales, laterales delanteras y de cortina (la ficha oficial lista los tipos, no el número total). Tiptronic de 6 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
     },
     {
       "nombre": "FR 1.0 TSI TM",
@@ -87,12 +87,12 @@
       "potenciaHp": 115,
       "rendimientoCombinadoKmL": 20.2,
       "autonomiaKm": null,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.seat.mx/autos/ibiza",
       "fechaVerificacion": "2026-10-25",
-      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Manual de 6 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
+      "notas": "Bolsas de aire: frontales, laterales delanteras y de cortina (la ficha oficial lista los tipos, no el número total). Manual de 6 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
     },
     {
       "nombre": "FR 1.5 TSI DSG",
@@ -104,29 +104,29 @@
       "potenciaHp": 150,
       "rendimientoCombinadoKmL": 19.8,
       "autonomiaKm": null,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
       "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.seat.mx/autos/ibiza",
       "fechaVerificacion": "2026-10-25",
-      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Caja DSG de doble embrague. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. En su promoción SEAT cita un precio de lista de $473,900 para esta versión. La ficha técnica no lista frenado autónomo de emergencia."
+      "notas": "Bolsas de aire: frontales, laterales delanteras y de cortina (la ficha oficial lista los tipos, no el número total). Caja DSG de doble embrague. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. En su promoción SEAT cita un precio de lista de $473,900 para esta versión. La ficha técnica no lista frenado autónomo de emergencia."
     },
     {
       "nombre": "FR 1.5 DSG Edición Especial 25 Aniversario",
       "anio": 2027,
-      "precio": null,
+      "precio": 477900,
       "moneda": "MXN",
       "transmision": "doble-embrague",
       "motor": "1.5 L 4 cil. turbo (TSI)",
       "potenciaHp": 150,
       "rendimientoCombinadoKmL": 19.8,
       "autonomiaKm": null,
-      "bolsasAire": 6,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": null,
-      "fuente": "SEAT México (sitio oficial: página de promociones y ficha técnica)",
-      "url": "https://www.seat.mx/comprar-un-seat/promociones/Ibiza",
+      "fuente": "SEAT México (sitio oficial: página del modelo)",
+      "url": "https://www.seat.mx/autos/ibiza",
       "fechaVerificacion": "2026-10-25",
-      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Edición limitada con kit aerodinámico, asientos tipo cubo y placa seriada. No aparece en el configurador; SEAT solo publica su precio de lista ($505,900) en la página de promociones, no un precio de contado comparable con las demás versiones. La ficha técnica no lista frenado autónomo de emergencia."
+      "notas": "Bolsas de aire: frontales, laterales delanteras y de cortina (la ficha oficial lista los tipos, no el número total). Edición limitada con kit aerodinámico, asientos tipo cubo y placa seriada. No aparece en el configurador. Precio de contado con IVA e ISAN que publica la página del modelo («Precio de contado desde»), vigente del 1 al 31 de octubre de 2026; en promociones SEAT menciona un precio de lista de $505,900. La ficha técnica no lista frenado autónomo de emergencia."
     }
   ],
   "garantia": {
@@ -169,7 +169,6 @@
   ],
   "pendientes": [
     "SEAT publica en su configurador un «precio de contado» con IVA e ISAN por versión; en sus promociones menciona un «precio de lista» más alto para algunas versiones. Se usó el precio de contado del configurador (único publicado para todas las versiones) y el precio de lista se anotó en las notas; confirmar el criterio editorial",
-    "Edición Especial 25 Aniversario: sin precio de contado publicado (solo precio de lista de $505,900 en promociones)",
     "Frenado autónomo de emergencia: la ficha técnica no lo menciona en ninguna versión; confirmar con SEAT si está disponible"
   ]
 }

@@ -19,12 +19,12 @@
       "potenciaHp": 186,
       "rendimientoCombinadoKmL": 14.2,
       "autonomiaKm": null,
-      "bolsasAire": 7,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mazda México (sitio oficial: página del modelo y ficha técnica con lista de precios)",
       "url": "https://www.mazda.mx/vehiculos/cx-50",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades, tracción integral i-Activ AWD. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor). Con sistema de asistencia de frenado inteligente (SBS). Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
+      "notas": "Automática de 6 velocidades, tracción integral i-Activ AWD. Bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor); la ficha oficial no da el número total, por eso no se publica una cifra. Con sistema de asistencia de frenado inteligente (SBS). Precio de contado de la lista de precios de la ficha técnica oficial (incluye IVA e ISAN)."
     }
   ],
   "garantia": {

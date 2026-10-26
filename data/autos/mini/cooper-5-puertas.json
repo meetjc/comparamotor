@@ -24,7 +24,7 @@
       "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 7 velocidades, tracción delantera. Ficha técnica 2026. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+      "notas": "Automática de 7 velocidades, tracción delantera. Ficha técnica 2026. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). Precio de lista con IVA, ISAN y transportación según MINI. La ficha oficial lista su equipo de seguridad y asistencia (incluido Driving Assistant cuando aplica) y no incluye frenado automático de emergencia frontal; el control crucero con función de frenado no es un sistema de frenado de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "S",
@@ -41,7 +41,7 @@
       "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 7 velocidades, tracción delantera. Ficha técnica 2026. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+      "notas": "Automática de 7 velocidades, tracción delantera. Ficha técnica 2026. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). Precio de lista con IVA, ISAN y transportación según MINI. La ficha oficial lista su equipo de seguridad y asistencia (incluido Driving Assistant cuando aplica) y no incluye frenado automático de emergencia frontal; el control crucero con función de frenado no es un sistema de frenado de emergencia. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {
@@ -67,7 +67,5 @@
       "tipo": "oficial"
     }
   ],
-  "pendientes": [
-    "Las fichas de MINI describen un Driving Assistant (alerta de cambio de carril, tráfico cruzado, prevención de colisión trasera) pero no confirman frenado automático de emergencia frontal"
-  ]
+  "pendientes": []
 }

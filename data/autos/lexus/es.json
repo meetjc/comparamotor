@@ -51,7 +51,11 @@
   },
   "ofertas": [],
   "fuentes": [
-    "https://www.lexus.mx/modelos/ESh",
+    {
+      "nombre": "Lexus ES (página oficial)",
+      "url": "https://www.lexus.mx/modelos/ESh",
+      "tipo": "oficial"
+    },
     {
       "nombre": "Ficha técnica oficial Lexus ES 350h 2026",
       "url": "https://www.lexus.mx/content/dam/lexus-mx/documentos/ficha-tecnica/2026/ES_350_hybrid_26MY_FichaTecnica.pdf",

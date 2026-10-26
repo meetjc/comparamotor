@@ -17,14 +17,14 @@
       "transmision": "doble-embrague",
       "motor": "1.5 L Turbo (1,499 cc)",
       "potenciaHp": 181,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 13.72,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Jetour México (sitio oficial jetoursoueast.mx: página del modelo y ficha técnica)",
       "url": "https://jetoursoueast.mx/jetour/modelo-t1/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Año modelo 2026. Precio \"desde\" $599,900. Según la página: motor 1.5 turbo de 181 hp y 214 lb-ft, DCT de 7 velocidades, tracción 2WD. La ficha técnica publicada es del año modelo 2027 y no incluye esta versión, por eso faltan rendimiento y asistencias. 6 bolsas de aire según la página del modelo."
+      "notas": "Año modelo 2026. Precio \"desde\" $599,900. Según la página: motor 1.5 turbo de 181 hp y 214 lb-ft, DCT de 7 velocidades, tracción 2WD. La ficha técnica publicada es del año modelo 2027 y no incluye esta versión, por eso faltan rendimiento y asistencias. 6 bolsas de aire según la página del modelo. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (T1 1.5T con DCT de 7 velocidades)."
     },
     {
       "nombre": "Savage",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 13.72,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Jetour México (sitio oficial jetoursoueast.mx: página del modelo y ficha técnica)",
       "url": "https://jetoursoueast.mx/jetour/modelo-t1/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio \"desde\" $649,900. Ficha técnica oficial 2027: 181 hp @ 5,500 rpm, 214 lb-ft, DCT de 7 velocidades, tracción delantera. Consumo: ciudad 12.55, carretera 15.48, combinado EPA 13.72 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Sin frenado automático de emergencia; tiene alerta de apertura de puertas, punto ciego, alerta de colisión trasera y de tráfico cruzado."
+      "notas": "Precio \"desde\" $649,900. Ficha técnica oficial 2027: 181 hp @ 5,500 rpm, 214 lb-ft, DCT de 7 velocidades, tracción delantera. Consumo: ciudad 12.55, carretera 15.48, combinado EPA 13.72 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Sin frenado automático de emergencia; tiene alerta de apertura de puertas, punto ciego, alerta de colisión trasera y de tráfico cruzado. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Wild",
@@ -97,11 +97,16 @@
       "nombre": "Jetour Soueast: cobertura de garantía",
       "url": "https://jetoursoueast.mx/wp-content/uploads/2025/08/Jetour_Soueast_Cobertura_Garantia_2025.pdf",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
     "El sitio publica precios \"desde\"; se tomaron como precio de lista con IVA (no se dice si incluyen ISAN ni si son precio con descuento)",
-    "La versión Adventure 2026 no aparece en la ficha técnica 2027: faltan rendimiento y confirmación de frenado automático",
+    "La versión Adventure 2026 no aparece en la ficha técnica 2027: falta confirmar si trae frenado automático de emergencia (su rendimiento se tomó del catálogo CONUEE 2026)",
     "La página muestra un banner de bono para T1 y T2 de gasolina, pero el texto de promociones solo describe la tasa de 10.99%; monto del bono no confirmado en texto"
   ]
 }

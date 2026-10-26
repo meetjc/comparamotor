@@ -34,7 +34,11 @@
   },
   "ofertas": [],
   "fuentes": [
-    "https://www.lexus.mx/modelos/TXh",
+    {
+      "nombre": "Lexus TX (página oficial)",
+      "url": "https://www.lexus.mx/modelos/TXh",
+      "tipo": "oficial"
+    },
     {
       "nombre": "Ficha técnica oficial Lexus TX 2026",
       "url": "https://www.lexus.mx/content/dam/lexus-mx/documentos/ficha-tecnica/2026/Ficha-Tecnica-TX-26MY.pdf",

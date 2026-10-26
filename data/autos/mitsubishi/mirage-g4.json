@@ -17,14 +17,14 @@
       "transmision": "cvt",
       "motor": "1.2 L 3 cil.",
       "potenciaHp": 76,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 22.6,
       "autonomiaKm": null,
-      "bolsasAire": null,
+      "bolsasAire": 6,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
       "url": "https://www.mitsubishi-motors.mx/modelos/mirage-g4",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Transmisión CVT, tracción delantera. 76 hp y 74 lb-pie. La ficha técnica no publica rendimiento de combustible. La ficha lista bolsas de aire sin dar el número y no menciona frenado autónomo de emergencia."
+      "notas": "Transmisión CVT, tracción delantera. 76 hp y 74 lb-pie. La ficha técnica no publica rendimiento de combustible. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026. 6 bolsas de aire según la tabla de seguridad de la ficha técnica 2026. La ficha no menciona frenado autónomo de emergencia."
     },
     {
       "nombre": "GLS CVT",
@@ -34,14 +34,14 @@
       "transmision": "cvt",
       "motor": "1.2 L 3 cil.",
       "potenciaHp": 76,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 23.3,
       "autonomiaKm": null,
-      "bolsasAire": null,
+      "bolsasAire": 6,
       "frenadoAutonomoEmergencia": null,
       "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
       "url": "https://www.mitsubishi-motors.mx/modelos/mirage-g4",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Transmisión CVT, tracción delantera, acceso con llave inteligente. 76 hp y 74 lb-pie. La ficha técnica no publica rendimiento de combustible. La ficha lista bolsas de aire sin dar el número."
+      "notas": "Transmisión CVT, tracción delantera, acceso con llave inteligente. 76 hp y 74 lb-pie. La ficha técnica no publica rendimiento de combustible. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026. 6 bolsas de aire según la tabla de seguridad de la ficha técnica 2026."
     }
   ],
   "garantia": {
@@ -75,10 +75,14 @@
       "nombre": "Promociones Mitsubishi",
       "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Número de bolsas de aire y rendimiento no legibles en la ficha técnica (texto en imagen).",
     "Frenado autónomo de emergencia no mencionado."
   ]
 }

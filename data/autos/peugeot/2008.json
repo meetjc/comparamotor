@@ -17,14 +17,14 @@
       "transmision": "automatica",
       "motor": "1.2 L 3 cil. turbo (PureTech)",
       "potenciaHp": 130,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 17.3,
       "autonomiaKm": null,
-      "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nueva-peugeot2008.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades. La marca anuncia un consumo combinado de hasta 17.3 km/l sin decir en qué versión. Frenado de emergencia y alerta de colisión «disponibles según versión». Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Automática de 6 velocidades. La marca anuncia un consumo combinado de hasta 17.3 km/l sin decir en qué versión. Frenado de emergencia y alerta de colisión «disponibles según versión». Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Según la ficha técnica oficial (rotulada año modelo 2026, mismo motor 1.2 L turbo y automática de 6 velocidades): rendimiento combinado 17.3 km/l (ciudad 15.2, carretera 20.9) y 'Bolsas de aire frontales, laterales en fila 1 y tipo cortina (6)' marcadas en ambas versiones. La ficha técnica marca con círculo vacío (○, no de serie) en Allure Pack el renglón 'Alerta de riesgo de colisión frontal con sistema de frenado de emergencia', que en GT lleva punto lleno (●)."
     },
     {
       "nombre": "GT 1.2L Turbo",
@@ -34,14 +34,14 @@
       "transmision": "automatica",
       "motor": "1.2 L 3 cil. turbo (PureTech)",
       "potenciaHp": 130,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 17.3,
       "autonomiaKm": null,
-      "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
       "url": "https://www.peugeot.com.mx/gama/nueva-peugeot2008.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Automática de 6 velocidades. Consumo combinado de hasta 17.3 km/l según la marca. Frenado de emergencia «disponible según versión». Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Automática de 6 velocidades. Consumo combinado de hasta 17.3 km/l según la marca. Frenado de emergencia «disponible según versión». Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026). Según la ficha técnica oficial (rotulada año modelo 2026, mismo motor 1.2 L turbo y automática de 6 velocidades): rendimiento combinado 17.3 km/l (ciudad 15.2, carretera 20.9) y 'Bolsas de aire frontales, laterales en fila 1 y tipo cortina (6)' marcadas en ambas versiones. La ficha técnica marca con punto lleno (●) en GT el renglón 'Alerta de riesgo de colisión frontal con sistema de frenado de emergencia'."
     }
   ],
   "garantia": {
@@ -60,10 +60,14 @@
       "nombre": "Lista oficial de precios Peugeot",
       "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Peugeot 2008 (año modelo 2026)",
+      "url": "https://www.peugeot.com.mx/content/dam/peugeot/mexico/b2c/tools/brochure/oct-25/ficha-tecnica-abr25-peugeot-2008-2026-impresion.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Sin ficha técnica descargable: falta rendimiento por versión, total de bolsas de aire y qué versión trae frenado autónomo",
     "También hay 2008 2026 en la lista: Allure Pack $458,900 y GT $500,900"
   ]
 }

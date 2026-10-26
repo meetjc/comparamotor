@@ -19,12 +19,12 @@
       "potenciaHp": null,
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 152,
-      "bolsasAire": 9,
+      "bolsasAire": null,
       "frenadoAutonomoEmergencia": true,
       "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
       "url": "https://www.byd.com/mx/car/atto-8",
       "fechaVerificacion": "2026-10-25",
-      "notas": "SUV de 7 plazas híbrido enchufable de alto desempeño (DM-p), tracción integral, 0-100 km/h en 4.9 s. Autonomía eléctrica NEDC de 152 km y combinada de 1,030 km. Carga DC 30-80% en 20 min. 9 bolsas de aire inferidas de la ficha (2 frontales, una central entre asientos delanteros, laterales delanteras y de segunda fila, y cortina). Frenado automático de emergencia según la ficha. Precio del configurador oficial (código CX004036)."
+      "notas": "SUV de 7 plazas híbrido enchufable de alto desempeño (DM-p), tracción integral, 0-100 km/h en 4.9 s. Autonomía eléctrica NEDC de 152 km y combinada de 1,030 km. Carga DC 30-80% en 20 min. Bolsas de aire inferidas de la ficha (2 frontales, una central entre asientos delanteros, laterales delanteras y de segunda fila, y cortina); la ficha oficial no da el número total, por eso no se publica una cifra. Frenado automático de emergencia según la ficha. Precio del configurador oficial (código CX004036)."
     }
   ],
   "garantia": {

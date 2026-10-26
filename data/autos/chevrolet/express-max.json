@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 13.61,
       "autonomiaKm": null,
       "bolsasAire": 2,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/vans-camiones/express-max-diesel/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $737,700 y precio financiado o de arrendamiento $737,700 (ver ofertas). Manual de 6 velocidades. 2 bolsas de aire (conductor y pasajero). La ficha no incluye frenado autónomo."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $737,700 y precio financiado o de arrendamiento $737,700 (ver ofertas). Manual de 6 velocidades. 2 bolsas de aire (conductor y pasajero). La ficha no incluye frenado autónomo. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

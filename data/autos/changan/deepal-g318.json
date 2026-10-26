@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 143,
       "bolsasAire": 8,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.changan.mx/models/deepal-g318",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Potencia total 433 hp y 572 lb-ft, tracción 4x4 con suspensión de amortiguación continua, 0 a 100 km/h en 6.3 s. Autonomía eléctrica 143 km y combinada 938 km (NEDC). Rendimiento de laboratorio: ciudad 16.2, carretera 13.9 y combinado 15.1 km/l. 8 bolsas de aire (frontales, laterales delanteras y traseras, y de cortina). La ficha no incluye frenado autónomo de emergencia entre sus asistencias (sí control crucero adaptativo y punto ciego). Incluye cargador de casa. Rendimiento combinado oficial de 15.1 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+      "notas": "Potencia total 433 hp y 572 lb-ft, tracción 4x4 con suspensión de amortiguación continua, 0 a 100 km/h en 6.3 s. Autonomía eléctrica 143 km y combinada 938 km (NEDC). Rendimiento de laboratorio: ciudad 16.2, carretera 13.9 y combinado 15.1 km/l. 8 bolsas de aire (frontales, laterales delanteras y traseras, y de cortina). La ficha no incluye frenado autónomo de emergencia entre sus asistencias (sí control crucero adaptativo y punto ciego). Incluye cargador de casa. Rendimiento combinado oficial de 15.1 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {

@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 12.2,
       "autonomiaKm": null,
       "bolsasAire": 7,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
       "url": "https://www.chevrolet.com.mx/suvs/blazer-camioneta-mediana/precios-y-promociones",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $990,900 y precio financiado o de arrendamiento $990,900 (ver ofertas). Automática de 9 velocidades. 7 bolsas de aire (incluye una de rodilla para el conductor). La tabla lista dos paquetes RS (C y F) con el mismo precio. La marca menciona \"asistente de colisión inminente\", sin decir si frena de forma automática."
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $990,900 y precio financiado o de arrendamiento $990,900 (ver ofertas). Automática de 9 velocidades. 7 bolsas de aire (incluye una de rodilla para el conductor). La tabla lista dos paquetes RS (C y F) con el mismo precio. La marca menciona \"asistente de colisión inminente\", sin decir si frena de forma automática. La página del modelo describe la asistencia de colisión frontal inminente, que «se activa de manera automática con el sistema de frenado a cualquier velocidad» (chevrolet.com.mx, revisada el 25 oct 2026)."
     }
   ],
   "garantia": {
@@ -67,7 +67,6 @@
   ],
   "pendientes": [
     "Chevrolet sigue vendiendo Blazer 2025; no hay año modelo 2026 publicado.",
-    "Frenado autónomo de emergencia sin confirmar (\"asistente de colisión inminente\").",
     "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
   ]
 }

@@ -17,14 +17,14 @@
       "transmision": "cvt",
       "motor": "2.0 L 4 cil. i-VTEC",
       "potenciaHp": 155,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 16.3,
       "autonomiaKm": null,
       "bolsasAire": 8,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/hr-v/configurador",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Rines de 17\", audio de 4 bocinas, tela. Precio del configurador oficial (https://www.honda.mx/autos/hr-v/configurador). Brochure 2027 (https://www.honda.mx/web/pdf/brochure/honda/Brochure_HRV_2027.pdf): motor 2.0 L 4 cilindros i-VTEC, 155 hp @ 6,500 rpm, 136 lb-ft, CVT con paletas, tracción delantera. Honda Sensing de serie en todas las versiones, con Sistema de Mitigación de Colisión con Frenado (CMBS). Bolsas de aire: el comunicado de prensa oficial de Honda de México sobre la HR-V 2026 (https://rp.honda.mx/wp-content/documentos/529_Conoce_cambios_importantes_de_Honda_HR-V_2026.pdf) dice 8 (frontales, laterales, cortina y rodillas) y el brochure 2027 lista el mismo equipo en las tres versiones. Honda no publica rendimiento de combustible en honda.mx."
+      "notas": "Rines de 17\", audio de 4 bocinas, tela. Precio del configurador oficial (https://www.honda.mx/autos/hr-v/configurador). Brochure 2027 (https://www.honda.mx/web/pdf/brochure/honda/Brochure_HRV_2027.pdf): motor 2.0 L 4 cilindros i-VTEC, 155 hp @ 6,500 rpm, 136 lb-ft, CVT con paletas, tracción delantera. Honda Sensing de serie en todas las versiones, con Sistema de Mitigación de Colisión con Frenado (CMBS). Bolsas de aire: el comunicado de prensa oficial de Honda de México sobre la HR-V 2026 (https://rp.honda.mx/wp-content/documentos/529_Conoce_cambios_importantes_de_Honda_HR-V_2026.pdf) dice 8 (frontales, laterales, cortina y rodillas) y el brochure 2027 lista el mismo equipo en las tres versiones. Honda no publica rendimiento de combustible en honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (registrado como año-modelo 2026, mismo motor y transmisión que esta versión)."
     },
     {
       "nombre": "Sport",
@@ -34,14 +34,14 @@
       "transmision": "cvt",
       "motor": "2.0 L 4 cil. i-VTEC",
       "potenciaHp": 155,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 16.3,
       "autonomiaKm": null,
       "bolsasAire": 8,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/hr-v/configurador",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Rines de 18\", quemacocos eléctrico, 8 bocinas, cargador inalámbrico, Smart Entry. Precio del configurador oficial (https://www.honda.mx/autos/hr-v/configurador). Brochure 2027 (https://www.honda.mx/web/pdf/brochure/honda/Brochure_HRV_2027.pdf): motor 2.0 L 4 cilindros i-VTEC, 155 hp @ 6,500 rpm, 136 lb-ft, CVT con paletas, tracción delantera. Honda Sensing de serie en todas las versiones, con Sistema de Mitigación de Colisión con Frenado (CMBS). Bolsas de aire: el comunicado de prensa oficial de Honda de México sobre la HR-V 2026 (https://rp.honda.mx/wp-content/documentos/529_Conoce_cambios_importantes_de_Honda_HR-V_2026.pdf) dice 8 (frontales, laterales, cortina y rodillas) y el brochure 2027 lista el mismo equipo en las tres versiones. Honda no publica rendimiento de combustible en honda.mx."
+      "notas": "Rines de 18\", quemacocos eléctrico, 8 bocinas, cargador inalámbrico, Smart Entry. Precio del configurador oficial (https://www.honda.mx/autos/hr-v/configurador). Brochure 2027 (https://www.honda.mx/web/pdf/brochure/honda/Brochure_HRV_2027.pdf): motor 2.0 L 4 cilindros i-VTEC, 155 hp @ 6,500 rpm, 136 lb-ft, CVT con paletas, tracción delantera. Honda Sensing de serie en todas las versiones, con Sistema de Mitigación de Colisión con Frenado (CMBS). Bolsas de aire: el comunicado de prensa oficial de Honda de México sobre la HR-V 2026 (https://rp.honda.mx/wp-content/documentos/529_Conoce_cambios_importantes_de_Honda_HR-V_2026.pdf) dice 8 (frontales, laterales, cortina y rodillas) y el brochure 2027 lista el mismo equipo en las tres versiones. Honda no publica rendimiento de combustible en honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (registrado como año-modelo 2026, mismo motor y transmisión que esta versión)."
     },
     {
       "nombre": "Touring",
@@ -51,14 +51,14 @@
       "transmision": "cvt",
       "motor": "2.0 L 4 cil. i-VTEC",
       "potenciaHp": 155,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 16.3,
       "autonomiaKm": null,
       "bolsasAire": 8,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/hr-v/configurador",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Suma asiento eléctrico de 8 vías, sensores de estacionamiento delanteros y traseros, clima de doble zona. Precio del configurador oficial (https://www.honda.mx/autos/hr-v/configurador). Brochure 2027 (https://www.honda.mx/web/pdf/brochure/honda/Brochure_HRV_2027.pdf): motor 2.0 L 4 cilindros i-VTEC, 155 hp @ 6,500 rpm, 136 lb-ft, CVT con paletas, tracción delantera. Honda Sensing de serie en todas las versiones, con Sistema de Mitigación de Colisión con Frenado (CMBS). Bolsas de aire: el comunicado de prensa oficial de Honda de México sobre la HR-V 2026 (https://rp.honda.mx/wp-content/documentos/529_Conoce_cambios_importantes_de_Honda_HR-V_2026.pdf) dice 8 (frontales, laterales, cortina y rodillas) y el brochure 2027 lista el mismo equipo en las tres versiones. Honda no publica rendimiento de combustible en honda.mx."
+      "notas": "Suma asiento eléctrico de 8 vías, sensores de estacionamiento delanteros y traseros, clima de doble zona. Precio del configurador oficial (https://www.honda.mx/autos/hr-v/configurador). Brochure 2027 (https://www.honda.mx/web/pdf/brochure/honda/Brochure_HRV_2027.pdf): motor 2.0 L 4 cilindros i-VTEC, 155 hp @ 6,500 rpm, 136 lb-ft, CVT con paletas, tracción delantera. Honda Sensing de serie en todas las versiones, con Sistema de Mitigación de Colisión con Frenado (CMBS). Bolsas de aire: el comunicado de prensa oficial de Honda de México sobre la HR-V 2026 (https://rp.honda.mx/wp-content/documentos/529_Conoce_cambios_importantes_de_Honda_HR-V_2026.pdf) dice 8 (frontales, laterales, cortina y rodillas) y el brochure 2027 lista el mismo equipo en las tres versiones. Honda no publica rendimiento de combustible en honda.mx. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026 (registrado como año-modelo 2026, mismo motor y transmisión que esta versión)."
     }
   ],
   "garantia": {
@@ -91,10 +91,14 @@
     "https://www.honda.mx/web/pdf/brochure/honda/Brochure_HRV_2027.pdf",
     "https://rp.honda.mx/wp-content/documentos/529_Conoce_cambios_importantes_de_Honda_HR-V_2026.pdf",
     "https://www.honda.mx/autos/hr-v",
-    "https://www.honda.mx/promociones"
+    "https://www.honda.mx/promociones",
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
+    }
   ],
   "pendientes": [
-    "Rendimiento combinado oficial (honda.mx no lo publica; las cifras que aparecen en distribuidores y financieras no son fuente oficial)",
     "Garantía de fábrica: honda.mx no publica el esquema vigente (solo la extensión de garantía vía Hondatec); no se encontró fuente oficial",
     "La página de la HR-V muestra 'mensualidades desde $5,589' bajo la versión Uniq, con condiciones de plazo y enganche cargadas por script que no se pudieron verificar en texto",
     "El número de bolsas de aire (8) viene del comunicado de prensa oficial de la HR-V 2026; el brochure 2027 no da el total"

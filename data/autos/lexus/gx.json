@@ -51,7 +51,11 @@
   },
   "ofertas": [],
   "fuentes": [
-    "https://www.lexus.mx/modelos/GX",
+    {
+      "nombre": "Lexus GX (página oficial)",
+      "url": "https://www.lexus.mx/modelos/GX",
+      "tipo": "oficial"
+    },
     {
       "nombre": "Ficha técnica oficial Lexus GX 2026",
       "url": "https://www.lexus.mx/content/dam/lexus-mx/documentos/ficha-tecnica/2026/Ficha-Tecnica-GX-26MY.pdf",

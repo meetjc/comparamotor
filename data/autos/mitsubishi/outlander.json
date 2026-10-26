@@ -17,14 +17,14 @@
       "transmision": "cvt",
       "motor": "2.5 L 4 cil.",
       "potenciaHp": 181,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 16.1,
       "autonomiaKm": null,
       "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
       "url": "https://www.mitsubishi-motors.mx/modelos/outlander",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Gasolina 2.5 L de 4 cilindros, 181 hp, CVT con modo sport, tracción delantera (2WD), 7 plazas. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM). La ficha técnica no publica rendimiento de combustible."
+      "notas": "Gasolina 2.5 L de 4 cilindros, 181 hp, CVT con modo sport, tracción delantera (2WD), 7 plazas. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM). La ficha técnica no publica rendimiento de combustible. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     },
     {
       "nombre": "Limited",
@@ -34,14 +34,14 @@
       "transmision": "cvt",
       "motor": "2.5 L 4 cil.",
       "potenciaHp": 181,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 15.5,
       "autonomiaKm": null,
       "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
       "url": "https://www.mitsubishi-motors.mx/modelos/outlander",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Rines de 20\", piel genuina, cajuela eléctrica. Gasolina 2.5 L de 4 cilindros, 181 hp, CVT con modo sport, tracción delantera (2WD), 7 plazas. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM). La ficha técnica no publica rendimiento de combustible."
+      "notas": "Rines de 20\", piel genuina, cajuela eléctrica. Gasolina 2.5 L de 4 cilindros, 181 hp, CVT con modo sport, tracción delantera (2WD), 7 plazas. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM). La ficha técnica no publica rendimiento de combustible. Rendimiento combinado según el Catálogo de Rendimientos CONUEE 2026."
     }
   ],
   "garantia": {
@@ -84,10 +84,14 @@
       "nombre": "Promociones Mitsubishi",
       "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
       "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de Rendimientos de Combustible CONUEE 2026",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/1081919/catalogo_de_rendimientos_29_05_26.pdf",
+      "tipo": "oficial"
     }
   ],
   "pendientes": [
-    "Rendimiento de combustible no publicado en la ficha técnica.",
     "Precio de lista Limited: la página del modelo dice $699,900, pero la promoción de contado ($679,900 tras un bono de $17,365) implica un precio de lista de $697,265."
   ]
 }

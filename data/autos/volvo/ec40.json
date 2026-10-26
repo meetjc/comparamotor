@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 378,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
       "url": "https://www.volvocars.com/mx/cars/ec40-electric/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Single Motor, tracción trasera, batería de 70 kWh, hasta 377.6 km (FTP-75). Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+      "notas": "Single Motor, tracción trasera, batería de 70 kWh, hasta 377.6 km (FTP-75). Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). Precio con impuestos incluidos según Volvo. Incluye frenado automático en intersecciones, que frena solo si detecta riesgo de colisión (sitio oficial: especificaciones, marcado como incluido en esta versión)."
     },
     {
       "nombre": "Plus",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 378,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
       "url": "https://www.volvocars.com/mx/cars/ec40-electric/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Single Motor (su precio queda por debajo del «desde» del Twin Motor), hasta 377.6 km (FTP-75). Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+      "notas": "Single Motor (su precio queda por debajo del «desde» del Twin Motor), hasta 377.6 km (FTP-75). Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). Precio con impuestos incluidos según Volvo. Incluye frenado automático en intersecciones, que frena solo si detecta riesgo de colisión (sitio oficial: especificaciones, marcado como incluido en esta versión)."
     },
     {
       "nombre": "Ultra",
@@ -54,11 +54,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 424,
       "bolsasAire": null,
-      "frenadoAutonomoEmergencia": null,
+      "frenadoAutonomoEmergencia": true,
       "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
       "url": "https://www.volvocars.com/mx/cars/ec40-electric/",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Twin Motor Performance, tracción integral, batería de 82 kWh, hasta 423.8 km (FTP-75); el precio coincide con el «desde» del Twin Motor Performance. Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+      "notas": "Twin Motor Performance, tracción integral, batería de 82 kWh, hasta 423.8 km (FTP-75); el precio coincide con el «desde» del Twin Motor Performance. Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). Precio con impuestos incluidos según Volvo. Incluye frenado automático en intersecciones, que frena solo si detecta riesgo de colisión (sitio oficial: especificaciones, marcado como incluido en esta versión)."
     },
     {
       "nombre": "Black Edition",

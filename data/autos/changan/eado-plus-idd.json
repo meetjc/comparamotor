@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": null,
       "autonomiaKm": 120,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.changan.mx/models/eado-plus-idd",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Potencia del motor eléctrico 211 hp y 243 lb-ft (torque combinado 348 lb-ft); transmisión E-CVT, tracción delantera. Autonomía eléctrica 120 km y combinada 1,180 km (NEDC). Rendimiento de laboratorio: ciudad 27.7, carretera 26.8 y combinado 27.2 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Incluye cargador de casa. Sin frenado autónomo de emergencia en Luxury según la ficha. Rendimiento combinado oficial de 27.2 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+      "notas": "Potencia del motor eléctrico 211 hp y 243 lb-ft (torque combinado 348 lb-ft); transmisión E-CVT, tracción delantera. Autonomía eléctrica 120 km y combinada 1,180 km (NEDC). Rendimiento de laboratorio: ciudad 27.7, carretera 26.8 y combinado 27.2 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Incluye cargador de casa. Sin frenado autónomo de emergencia en Luxury según la ficha. Rendimiento combinado oficial de 27.2 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina. Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Premium",

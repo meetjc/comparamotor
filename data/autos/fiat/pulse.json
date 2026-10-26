@@ -20,11 +20,11 @@
       "rendimientoCombinadoKmL": 18.24,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Fiat México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.fiat.com.mx/pulse.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "Manual de 5 velocidades. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha lista asistencia de frenado de emergencia, pero no frenado automático por alerta de colisión. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "Manual de 5 velocidades. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha lista asistencia de frenado de emergencia, pero no frenado automático por alerta de colisión. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     },
     {
       "nombre": "Drive Plus CVT",
@@ -37,11 +37,11 @@
       "rendimientoCombinadoKmL": 19.13,
       "autonomiaKm": null,
       "bolsasAire": 4,
-      "frenadoAutonomoEmergencia": false,
+      "frenadoAutonomoEmergencia": null,
       "fuente": "Fiat México (sitio oficial: lista de precios y ficha técnica)",
       "url": "https://www.fiat.com.mx/pulse.html",
       "fechaVerificacion": "2026-10-25",
-      "notas": "CVT con 7 velocidades simuladas. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). Sin frenado automático por alerta de colisión según la ficha. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+      "notas": "CVT con 7 velocidades simuladas. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). Sin frenado automático por alerta de colisión según la ficha. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026). Frenado autónomo de emergencia sin confirmar: la ficha oficial no lo menciona, pero tampoco dice expresamente que esta versión no lo traiga."
     }
   ],
   "garantia": {
