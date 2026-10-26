@@ -1,0 +1,48 @@
+{
+  "marca": "Renault",
+  "modelo": "Kangoo",
+  "marcaSlug": "renault",
+  "modeloSlug": "kangoo",
+  "generacionMexico": "Kangoo 2.ª generación (Argentina, rediseño 2018)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Renault_Nueva_Kangoo_2018_%28Colombia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Renault_Nueva_Kangoo_2018_(Colombia).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "Autosdeprimera",
+      "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 1528,
+      "alto": 1052,
+      "anioOGeneracion": "2018 · Kangoo 2.ª generación (Argentina, rediseño 2018)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Renault Nueva Kangoo 2018 (Colombia). Foto de 2018. Categoría Commons: Renault Kangoo (2018, Argentina). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Kangoo 2.ª generación (Argentina, rediseño 2018)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/2022_Renault_Kangoo_1.6_SCe_Zen_%28Argentina%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Renault_Kangoo_1.6_SCe_Zen_(Argentina).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Maxi-Napo-99",
+      "credito": "Foto: Maxi-Napo-99 / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 3410,
+      "alto": 2660,
+      "anioOGeneracion": "2023 · Kangoo 2.ª generación (Argentina, rediseño 2018)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2022 Renault Kangoo 1.6 SCe Zen (Argentina). Foto de 2023. Categoría Commons: Renault Kangoo (2018, Argentina). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Kangoo 2.ª generación (Argentina, rediseño 2018)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

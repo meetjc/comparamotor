@@ -1,0 +1,48 @@
+{
+  "marca": "Ford",
+  "modelo": "Mustang Mach-E",
+  "marcaSlug": "ford",
+  "modeloSlug": "mustang-mach-e",
+  "generacionMexico": "Mustang Mach-E (2021+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ford_Mustang_Mach_E%2C_England%2C_Right_Hand_Drive_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Mach_E,_England,_Right_Hand_Drive_2.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "PooleHarbour",
+      "credito": "Foto: PooleHarbour / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 2048,
+      "alto": 1536,
+      "anioOGeneracion": "2021 · Mustang Mach-E (2021+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Ford Mustang Mach E, England, Right Hand Drive 2. Foto de 2021. Categoría Commons: Ford Mustang Mach-E. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Mustang Mach-E (2021+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ford-Mustang-Mach-E-front-right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Ford-Mustang-Mach-E-front-right.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Jan Ainali",
+      "credito": "Foto: Jan Ainali / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 7304,
+      "alto": 4552,
+      "anioOGeneracion": "2022 · Mustang Mach-E (2021+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Ford-Mustang-Mach-E-front-right. Foto de 2022. Categoría Commons: Ford Mustang Mach-E. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Mustang Mach-E (2021+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

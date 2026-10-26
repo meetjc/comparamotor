@@ -1,0 +1,30 @@
+{
+  "marca": "Renault",
+  "modelo": "Master E-Tech",
+  "marcaSlug": "renault",
+  "modeloSlug": "master-e-tech",
+  "generacionMexico": "Master 3.ª generación con el rediseño 2019 (misma carrocería de la E-Tech)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/2022_Renault_Master_in_Mineral_White%2C_front_right%2C_06-05-2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Renault_Master_in_Mineral_White,_front_right,_06-05-2025.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Cutlass",
+      "credito": "Foto: Cutlass / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 3564,
+      "alto": 2004,
+      "anioOGeneracion": "2025 · Master 3.ª generación con el rediseño 2019 (misma carrocería de la E-Tech)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2022 Renault Master in Mineral White, front right, 06-05-2025. Foto de 2025. Categoría Commons: Renault Master III (2019). Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Master 3.ª generación con el rediseño 2019 (misma carrocería de la E-Tech)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

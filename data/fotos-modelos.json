@@ -3444,5 +3444,832 @@
    "ancho": 720,
    "alto": 479
   }
+ },
+ "chirey-arrizo-8": {
+  "archivo": "foto-chirey-arrizo-8-1.jpg",
+  "alt": "Chirey Arrizo 8, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-chirey-arrizo-8-1.jpg",
+    "alt": "Chirey Arrizo 8, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-chirey-arrizo-8-2.jpg",
+    "alt": "Chirey Arrizo 8, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-chirey-arrizo-8-3.jpg",
+    "alt": "Chirey Arrizo 8, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-chirey-arrizo-8-1-t.jpg",
+   "alt": "Chirey Arrizo 8, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
+ },
+ "renault-arkana": {
+  "archivo": "foto-renault-arkana-1.jpg",
+  "alt": "Renault Arkana E-Tech, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-renault-arkana-1.jpg",
+    "alt": "Renault Arkana E-Tech, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 972
+   },
+   {
+    "archivo": "foto-renault-arkana-2.jpg",
+    "alt": "Renault Arkana E-Tech, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 881
+   },
+   {
+    "archivo": "foto-renault-arkana-3.jpg",
+    "alt": "Renault Arkana E-Tech, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 848
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-renault-arkana-1-t.jpg",
+   "alt": "Renault Arkana E-Tech, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 437
+  }
+ },
+ "renault-boreal": {
+  "archivo": "foto-renault-boreal-1.jpg",
+  "alt": "Renault Boreal, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-renault-boreal-1.jpg",
+    "alt": "Renault Boreal, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   },
+   {
+    "archivo": "foto-renault-boreal-2.jpg",
+    "alt": "Renault Boreal, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 960
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-renault-boreal-1-t.jpg",
+   "alt": "Renault Boreal, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "renault-duster": {
+  "archivo": "foto-renault-duster-1.jpg",
+  "alt": "Renault Duster, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-renault-duster-1.jpg",
+    "alt": "Renault Duster, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 960
+   },
+   {
+    "archivo": "foto-renault-duster-2.jpg",
+    "alt": "Renault Duster, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1081
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-renault-duster-1-t.jpg",
+   "alt": "Renault Duster, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 432
+  }
+ },
+ "renault-kangoo": {
+  "archivo": "foto-renault-kangoo-1.jpg",
+  "alt": "Renault Kangoo, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-renault-kangoo-1.jpg",
+    "alt": "Renault Kangoo, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1101
+   },
+   {
+    "archivo": "foto-renault-kangoo-2.jpg",
+    "alt": "Renault Kangoo, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1248
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-renault-kangoo-1-t.jpg",
+   "alt": "Renault Kangoo, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 495
+  }
+ },
+ "renault-kangoo-e-tech": {
+  "archivo": "foto-renault-kangoo-e-tech-1.jpg",
+  "alt": "Renault Kangoo E-Tech, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-renault-kangoo-e-tech-1.jpg",
+    "alt": "Renault Kangoo E-Tech, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-renault-kangoo-e-tech-2.jpg",
+    "alt": "Renault Kangoo E-Tech, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1065
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-renault-kangoo-e-tech-1-t.jpg",
+   "alt": "Renault Kangoo E-Tech, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
+ },
+ "renault-kardian": {
+  "archivo": "foto-renault-kardian-1.jpg",
+  "alt": "Renault Kardian, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-renault-kardian-1.jpg",
+    "alt": "Renault Kardian, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1107
+   },
+   {
+    "archivo": "foto-renault-kardian-2.jpg",
+    "alt": "Renault Kardian, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1066
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-renault-kardian-1-t.jpg",
+   "alt": "Renault Kardian, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 498
+  }
+ },
+ "renault-koleos": {
+  "archivo": "foto-renault-koleos-1.jpg",
+  "alt": "Renault Koleos, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-renault-koleos-1.jpg",
+    "alt": "Renault Koleos, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-renault-koleos-2.jpg",
+    "alt": "Renault Koleos, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-renault-koleos-1-t.jpg",
+   "alt": "Renault Koleos, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
+ },
+ "renault-master-diesel": {
+  "archivo": "foto-renault-master-diesel-1.jpg",
+  "alt": "Renault Master Diésel, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-renault-master-diesel-1.jpg",
+    "alt": "Renault Master Diésel, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 851
+   },
+   {
+    "archivo": "foto-renault-master-diesel-2.jpg",
+    "alt": "Renault Master Diésel, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1234
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-renault-master-diesel-1-t.jpg",
+   "alt": "Renault Master Diésel, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 383
+  }
+ },
+ "renault-master-e-tech": {
+  "archivo": "foto-renault-master-e-tech-1.jpg",
+  "alt": "Renault Master E-Tech, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-renault-master-e-tech-1.jpg",
+    "alt": "Renault Master E-Tech, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-renault-master-e-tech-1-t.jpg",
+   "alt": "Renault Master E-Tech, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "renault-megane-e-tech": {
+  "archivo": "foto-renault-megane-e-tech-1.jpg",
+  "alt": "Renault Megane E-Tech, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-renault-megane-e-tech-1.jpg",
+    "alt": "Renault Megane E-Tech, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 915
+   },
+   {
+    "archivo": "foto-renault-megane-e-tech-2.jpg",
+    "alt": "Renault Megane E-Tech, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 846
+   },
+   {
+    "archivo": "foto-renault-megane-e-tech-3.jpg",
+    "alt": "Renault Megane E-Tech, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-renault-megane-e-tech-1-t.jpg",
+   "alt": "Renault Megane E-Tech, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 411
+  }
+ },
+ "ford-bronco": {
+  "archivo": "foto-ford-bronco-1.jpg",
+  "alt": "Ford Bronco, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-bronco-1.jpg",
+    "alt": "Ford Bronco, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 846
+   },
+   {
+    "archivo": "foto-ford-bronco-2.jpg",
+    "alt": "Ford Bronco, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1151
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-bronco-1-t.jpg",
+   "alt": "Ford Bronco, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 380
+  }
+ },
+ "ford-e-transit": {
+  "archivo": "foto-ford-e-transit-1.jpg",
+  "alt": "Ford E-Transit, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-e-transit-1.jpg",
+    "alt": "Ford E-Transit, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-e-transit-1-t.jpg",
+   "alt": "Ford E-Transit, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "ford-edge": {
+  "archivo": "foto-ford-edge-1.jpg",
+  "alt": "Ford Edge Híbrida, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-edge-1.jpg",
+    "alt": "Ford Edge Híbrida, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-ford-edge-2.jpg",
+    "alt": "Ford Edge Híbrida, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 826
+   },
+   {
+    "archivo": "foto-ford-edge-3.jpg",
+    "alt": "Ford Edge Híbrida, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-edge-1-t.jpg",
+   "alt": "Ford Edge Híbrida, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "ford-expedition": {
+  "archivo": "foto-ford-expedition-1.jpg",
+  "alt": "Ford Expedition, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-expedition-1.jpg",
+    "alt": "Ford Expedition, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-ford-expedition-2.jpg",
+    "alt": "Ford Expedition, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 971
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-expedition-1-t.jpg",
+   "alt": "Ford Expedition, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
+ },
+ "ford-explorer": {
+  "archivo": "foto-ford-explorer-1.jpg",
+  "alt": "Ford Explorer, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-explorer-1.jpg",
+    "alt": "Ford Explorer, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 851
+   },
+   {
+    "archivo": "foto-ford-explorer-2.jpg",
+    "alt": "Ford Explorer, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 887
+   },
+   {
+    "archivo": "foto-ford-explorer-3.jpg",
+    "alt": "Ford Explorer, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-explorer-1-t.jpg",
+   "alt": "Ford Explorer, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 383
+  }
+ },
+ "ford-f-150": {
+  "archivo": "foto-ford-f-150-1.jpg",
+  "alt": "Ford F-150, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-f-150-1.jpg",
+    "alt": "Ford F-150, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-ford-f-150-2.jpg",
+    "alt": "Ford F-150, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-f-150-1-t.jpg",
+   "alt": "Ford F-150, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "ford-maverick": {
+  "archivo": "foto-ford-maverick-1.jpg",
+  "alt": "Ford Maverick, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-maverick-1.jpg",
+    "alt": "Ford Maverick, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1063
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-maverick-1-t.jpg",
+   "alt": "Ford Maverick, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 478
+  }
+ },
+ "ford-mustang-mach-e": {
+  "archivo": "foto-ford-mustang-mach-e-1.jpg",
+  "alt": "Ford Mustang Mach-E, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-mustang-mach-e-1.jpg",
+    "alt": "Ford Mustang Mach-E, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-ford-mustang-mach-e-2.jpg",
+    "alt": "Ford Mustang Mach-E, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 997
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-mustang-mach-e-1-t.jpg",
+   "alt": "Ford Mustang Mach-E, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
+ },
+ "ford-mustang": {
+  "archivo": "foto-ford-mustang-1.jpg",
+  "alt": "Ford Mustang, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-mustang-1.jpg",
+    "alt": "Ford Mustang, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-ford-mustang-2.jpg",
+    "alt": "Ford Mustang, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1011
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-mustang-1-t.jpg",
+   "alt": "Ford Mustang, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "ford-ranger": {
+  "archivo": "foto-ford-ranger-1.jpg",
+  "alt": "Ford Ranger, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-ranger-1.jpg",
+    "alt": "Ford Ranger, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 966
+   },
+   {
+    "archivo": "foto-ford-ranger-2.jpg",
+    "alt": "Ford Ranger, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 903
+   },
+   {
+    "archivo": "foto-ford-ranger-3.jpg",
+    "alt": "Ford Ranger, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 849
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-ranger-1-t.jpg",
+   "alt": "Ford Ranger, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 434
+  }
+ },
+ "ford-territory": {
+  "archivo": "foto-ford-territory-1.jpg",
+  "alt": "Ford Territory, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-territory-1.jpg",
+    "alt": "Ford Territory, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-territory-1-t.jpg",
+   "alt": "Ford Territory, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "ford-transit-custom": {
+  "archivo": "foto-ford-transit-custom-1.jpg",
+  "alt": "Ford Transit Custom, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ford-transit-custom-1.jpg",
+    "alt": "Ford Transit Custom, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 846
+   },
+   {
+    "archivo": "foto-ford-transit-custom-2.jpg",
+    "alt": "Ford Transit Custom, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 916
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ford-transit-custom-1-t.jpg",
+   "alt": "Ford Transit Custom, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 380
+  }
+ },
+ "suzuki-dzire": {
+  "archivo": "foto-suzuki-dzire-1.jpg",
+  "alt": "Suzuki Dzire, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-suzuki-dzire-1.jpg",
+    "alt": "Suzuki Dzire, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1032
+   },
+   {
+    "archivo": "foto-suzuki-dzire-2.jpg",
+    "alt": "Suzuki Dzire, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1090
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-suzuki-dzire-1-t.jpg",
+   "alt": "Suzuki Dzire, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 464
+  }
+ },
+ "suzuki-ertiga": {
+  "archivo": "foto-suzuki-ertiga-1.jpg",
+  "alt": "Suzuki Ertiga, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-suzuki-ertiga-1.jpg",
+    "alt": "Suzuki Ertiga, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1000
+   },
+   {
+    "archivo": "foto-suzuki-ertiga-2.jpg",
+    "alt": "Suzuki Ertiga, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-suzuki-ertiga-1-t.jpg",
+   "alt": "Suzuki Ertiga, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 450
+  }
+ },
+ "suzuki-ertiga-xl7": {
+  "archivo": "foto-suzuki-ertiga-xl7-1.jpg",
+  "alt": "Suzuki Ertiga XL7, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-suzuki-ertiga-xl7-1.jpg",
+    "alt": "Suzuki Ertiga XL7, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-suzuki-ertiga-xl7-2.jpg",
+    "alt": "Suzuki Ertiga XL7, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-suzuki-ertiga-xl7-1-t.jpg",
+   "alt": "Suzuki Ertiga XL7, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "suzuki-fronx": {
+  "archivo": "foto-suzuki-fronx-1.jpg",
+  "alt": "Suzuki Fronx, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-suzuki-fronx-1.jpg",
+    "alt": "Suzuki Fronx, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1141
+   },
+   {
+    "archivo": "foto-suzuki-fronx-2.jpg",
+    "alt": "Suzuki Fronx, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 756
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-suzuki-fronx-1-t.jpg",
+   "alt": "Suzuki Fronx, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 513
+  }
+ },
+ "suzuki-jimny-5-puertas": {
+  "archivo": "foto-suzuki-jimny-5-puertas-1.jpg",
+  "alt": "Suzuki Jimny 5 puertas, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-suzuki-jimny-5-puertas-1.jpg",
+    "alt": "Suzuki Jimny 5 puertas, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-suzuki-jimny-5-puertas-2.jpg",
+    "alt": "Suzuki Jimny 5 puertas, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 905
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-suzuki-jimny-5-puertas-1-t.jpg",
+   "alt": "Suzuki Jimny 5 puertas, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
+ },
+ "suzuki-jimny": {
+  "archivo": "foto-suzuki-jimny-1.jpg",
+  "alt": "Suzuki Jimny, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-suzuki-jimny-1.jpg",
+    "alt": "Suzuki Jimny, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 981
+   },
+   {
+    "archivo": "foto-suzuki-jimny-2.jpg",
+    "alt": "Suzuki Jimny, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 978
+   },
+   {
+    "archivo": "foto-suzuki-jimny-3.jpg",
+    "alt": "Suzuki Jimny, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 933
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-suzuki-jimny-1-t.jpg",
+   "alt": "Suzuki Jimny, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 441
+  }
+ },
+ "suzuki-swift-sport": {
+  "archivo": "foto-suzuki-swift-sport-1.jpg",
+  "alt": "Suzuki Swift Sport, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-suzuki-swift-sport-1.jpg",
+    "alt": "Suzuki Swift Sport, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-suzuki-swift-sport-2.jpg",
+    "alt": "Suzuki Swift Sport, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1065
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-suzuki-swift-sport-1-t.jpg",
+   "alt": "Suzuki Swift Sport, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "suzuki-swift": {
+  "archivo": "foto-suzuki-swift-1.jpg",
+  "alt": "Suzuki Swift, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-suzuki-swift-1.jpg",
+    "alt": "Suzuki Swift, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-suzuki-swift-2.jpg",
+    "alt": "Suzuki Swift, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 974
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-suzuki-swift-1-t.jpg",
+   "alt": "Suzuki Swift, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
  }
 }

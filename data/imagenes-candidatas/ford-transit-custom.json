@@ -1,0 +1,48 @@
+{
+  "marca": "Ford",
+  "modelo": "Transit Custom",
+  "marcaSlug": "ford",
+  "modeloSlug": "transit-custom",
+  "generacionMexico": "Transit Custom 2.ª generación (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Ford_Transit_Custom_L2_2.0_EcoBlue_%28II%29_%E2%80%93_f_21042025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Ford_Transit_Custom_L2_2.0_EcoBlue_(II)_%E2%80%93_f_21042025.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "autor": "© M 93",
+      "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+      "compartirIgual": true,
+      "ancho": 5956,
+      "alto": 3150,
+      "anioOGeneracion": "2025 · Transit Custom 2.ª generación (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Ford Transit Custom L2 2.0 EcoBlue (II) – f 21042025. Foto de 2025. Categoría Commons: Ford Transit Custom (2023). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Transit Custom 2.ª generación (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/2024_Ford_Transit_Custom_Limited_TDCi_-_1996cc_2.0_%28136PS%29_Diesel_-_Artisan_Red_-_08-2024%2C_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Ford_Transit_Custom_Limited_TDCi_-_1996cc_2.0_(136PS)_Diesel_-_Artisan_Red_-_08-2024,_Front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Harvey Bold",
+      "credito": "Foto: Harvey Bold / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4484,
+      "alto": 2566,
+      "anioOGeneracion": "2024 · Transit Custom 2.ª generación (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Ford Transit Custom Limited TDCi - 1996cc 2.0 (136PS) Diesel - Artisan Red - 08-2024, Front. Foto de 2024. Categoría Commons: Ford Transit Custom (2023). Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Transit Custom 2.ª generación (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

@@ -1,0 +1,48 @@
+{
+  "marca": "Suzuki",
+  "modelo": "Swift Sport",
+  "marcaSlug": "suzuki",
+  "modeloSlug": "swift-sport",
+  "generacionMexico": "Swift Sport ZC33S (2018+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Suzuki_Swift_Sport_Hybrid_%282017%29_IMG_5867.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Suzuki_Swift_Sport_Hybrid_(2017)_IMG_5867.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5167,
+      "alto": 3439,
+      "anioOGeneracion": "2026 · Swift Sport ZC33S (2018+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Suzuki Swift Sport Hybrid (2017) IMG 5867. Foto de 2026. Categoría Commons: Suzuki Swift Sport (2017). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Swift Sport ZC33S (2018+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Suzuki_Swift_Sport_Hybrid_%282017%29_IMG_5862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Suzuki_Swift_Sport_Hybrid_(2017)_IMG_5862.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5052,
+      "alto": 3362,
+      "anioOGeneracion": "2026 · Swift Sport ZC33S (2018+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Suzuki Swift Sport Hybrid (2017) IMG 5862. Foto de 2026. Categoría Commons: Suzuki Swift Sport (2017). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Swift Sport ZC33S (2018+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

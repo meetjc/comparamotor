@@ -1,0 +1,48 @@
+{
+  "marca": "Suzuki",
+  "modelo": "Jimny 5 puertas",
+  "marcaSlug": "suzuki",
+  "modeloSlug": "jimny-5-puertas",
+  "generacionMexico": "Jimny 5 puertas JC74 (2023+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/2024_Suzuki_Jimny_1.5_GLX_5dr_in_Celestial_Blue_Pearl_Metallic%2C_front_right%2C_07-13-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Suzuki_Jimny_1.5_GLX_5dr_in_Celestial_Blue_Pearl_Metallic,_front_right,_07-13-2024.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Ethan Llamas",
+      "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5024,
+      "alto": 3768,
+      "anioOGeneracion": "2024 · Jimny 5 puertas JC74 (2023+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Suzuki Jimny 1.5 GLX 5dr in Celestial Blue Pearl Metallic, front right, 07-13-2024. Foto de 2024. Categoría Commons: Suzuki Jimny 5-Door. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Jimny 5 puertas JC74 (2023+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Suzuki_Jimny_Nomade_FC_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Suzuki_Jimny_Nomade_FC_rear.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "TTTNIS",
+      "credito": "Foto: TTTNIS / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 3674,
+      "alto": 2078,
+      "anioOGeneracion": "2026 · Jimny 5 puertas JC74 (2023+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Suzuki Jimny Nomade FC rear. Foto de 2026. Categoría Commons: Suzuki Jimny Nomade. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Jimny 5 puertas JC74 (2023+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

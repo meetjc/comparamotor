@@ -1,0 +1,48 @@
+{
+  "marca": "Renault",
+  "modelo": "Kardian",
+  "marcaSlug": "renault",
+  "modeloSlug": "kardian",
+  "generacionMexico": "Kardian (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Renault_Kardian_2024_Evolution_1.0_TCe_in_Montevideo_%28front%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Renault_Kardian_2024_Evolution_1.0_TCe_in_Montevideo_(front)_01.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "NaBUru38",
+      "credito": "Foto: NaBUru38 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 6500,
+      "alto": 4500,
+      "anioOGeneracion": "2024 · Kardian (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Renault Kardian 2024 Evolution 1.0 TCe in Montevideo (front) 01. Foto de 2024. Categoría Commons: Renault Kardian. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Kardian (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Renault_Kardian_2024_Evolution_1.0_TCe_in_Montevideo_%28rear%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Renault_Kardian_2024_Evolution_1.0_TCe_in_Montevideo_(rear).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "NaBUru38",
+      "credito": "Foto: NaBUru38 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 7200,
+      "alto": 4800,
+      "anioOGeneracion": "2024 · Kardian (2024+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Renault Kardian 2024 Evolution 1.0 TCe in Montevideo (rear). Foto de 2024. Categoría Commons: Renault Kardian. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Kardian (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

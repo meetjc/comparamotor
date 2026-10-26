@@ -1,0 +1,30 @@
+{
+  "marca": "Ford",
+  "modelo": "E-Transit",
+  "marcaSlug": "ford",
+  "modeloSlug": "e-transit",
+  "generacionMexico": "E-Transit (2022+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/LRTA_CrossTownConnect_Ford_E-Transit_van_charging_in_Acton%2C_MA_September_2026_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:LRTA_CrossTownConnect_Ford_E-Transit_van_charging_in_Acton,_MA_September_2026_3.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "4300streetcar",
+      "credito": "Foto: 4300streetcar / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 8256,
+      "alto": 5504,
+      "anioOGeneracion": "2026 · E-Transit (2022+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: LRTA CrossTownConnect Ford E-Transit van charging in Acton, MA September 2026 3. Foto de 2026. Categoría Commons: Ford E-Transit (2022). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (E-Transit (2022+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

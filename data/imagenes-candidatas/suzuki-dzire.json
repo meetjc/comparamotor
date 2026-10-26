@@ -1,0 +1,48 @@
+{
+  "marca": "Suzuki",
+  "modelo": "Dzire",
+  "marcaSlug": "suzuki",
+  "modeloSlug": "dzire",
+  "generacionMexico": "Dzire 4.ª generación (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/2026_Suzuki_Dzire_GL_in_Arctic_White_Pearl_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Suzuki_Dzire_GL_in_Arctic_White_Pearl_01.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Haysnawri10",
+      "credito": "Foto: Haysnawri10 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 2069,
+      "alto": 1335,
+      "anioOGeneracion": "2026 · Dzire 4.ª generación (2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2026 Suzuki Dzire GL in Arctic White Pearl 01. Foto de 2026. Categoría Commons: Suzuki Dzire (2024). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Dzire 4.ª generación (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/2026_Suzuki_Dzire_GL_in_Arctic_White_Pearl_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Suzuki_Dzire_GL_in_Arctic_White_Pearl_02.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Haysnawri10",
+      "credito": "Foto: Haysnawri10 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 1901,
+      "alto": 1295,
+      "anioOGeneracion": "2026 · Dzire 4.ª generación (2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2026 Suzuki Dzire GL in Arctic White Pearl 02. Foto de 2026. Categoría Commons: Suzuki Dzire (2024). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Dzire 4.ª generación (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

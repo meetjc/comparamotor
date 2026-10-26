@@ -1,0 +1,48 @@
+{
+  "marca": "Renault",
+  "modelo": "Koleos",
+  "marcaSlug": "renault",
+  "modeloSlug": "koleos",
+  "generacionMexico": "Koleos / Grand Koleos (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Renault_Grand_Koleos_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Renault_Grand_Koleos_003.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "JustAnotherCarDesigner",
+      "credito": "Foto: JustAnotherCarDesigner / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 3371,
+      "alto": 2528,
+      "anioOGeneracion": "2025 · Koleos / Grand Koleos (2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Renault Grand Koleos 003. Foto de 2025. Categoría Commons: Renault Grand Koleos. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Koleos / Grand Koleos (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Renault_Grand_Koleos_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Renault_Grand_Koleos_004.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "JustAnotherCarDesigner",
+      "credito": "Foto: JustAnotherCarDesigner / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4032,
+      "alto": 3024,
+      "anioOGeneracion": "2025 · Koleos / Grand Koleos (2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Renault Grand Koleos 004. Foto de 2025. Categoría Commons: Renault Grand Koleos. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Koleos / Grand Koleos (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}
