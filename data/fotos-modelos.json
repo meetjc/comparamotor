@@ -2178,5 +2178,1271 @@
    "ancho": 720,
    "alto": 419
   }
+ },
+ "kia-ev3": {
+  "archivo": "foto-kia-ev3-1.jpg",
+  "alt": "Kia EV3, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-ev3-1.jpg",
+    "alt": "Kia EV3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 930
+   },
+   {
+    "archivo": "foto-kia-ev3-2.jpg",
+    "alt": "Kia EV3, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 911
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-kia-ev3-1-t.jpg",
+   "alt": "Kia EV3, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 418
+  }
+ },
+ "kia-k4-hatchback": {
+  "archivo": "foto-kia-k4-hatchback-1.jpg",
+  "alt": "Kia K4 Hatchback, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-k4-hatchback-1.jpg",
+    "alt": "Kia K4 Hatchback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-kia-k4-hatchback-2.jpg",
+    "alt": "Kia K4 Hatchback, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 721
+   },
+   {
+    "archivo": "foto-kia-k4-hatchback-3.jpg",
+    "alt": "Kia K4 Hatchback, vista perfil",
+    "angulo": "perfil",
+    "ancho": 1600,
+    "alto": 676
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-kia-k4-hatchback-1-t.jpg",
+   "alt": "Kia K4 Hatchback, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
+ },
+ "kia-k4-sedan": {
+  "archivo": "foto-kia-k4-sedan-1.jpg",
+  "alt": "Kia K4 Sedán, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-k4-sedan-1.jpg",
+    "alt": "Kia K4 Sedán, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 883
+   },
+   {
+    "archivo": "foto-kia-k4-sedan-2.jpg",
+    "alt": "Kia K4 Sedán, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 888
+   },
+   {
+    "archivo": "foto-kia-k4-sedan-3.jpg",
+    "alt": "Kia K4 Sedán, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 1065
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-kia-k4-sedan-1-t.jpg",
+   "alt": "Kia K4 Sedán, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 397
+  }
+ },
+ "kia-niro": {
+  "archivo": "foto-kia-niro-1.jpg",
+  "alt": "Kia Niro Híbrida, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-niro-1.jpg",
+    "alt": "Kia Niro Híbrida, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 926
+   },
+   {
+    "archivo": "foto-kia-niro-2.jpg",
+    "alt": "Kia Niro Híbrida, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 954
+   },
+   {
+    "archivo": "foto-kia-niro-3.jpg",
+    "alt": "Kia Niro Híbrida, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 873
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-kia-niro-1-t.jpg",
+   "alt": "Kia Niro Híbrida, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 416
+  }
+ },
+ "kia-seltos": {
+  "archivo": "foto-kia-seltos-1.jpg",
+  "alt": "Kia Seltos, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-seltos-1.jpg",
+    "alt": "Kia Seltos, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-kia-seltos-2.jpg",
+    "alt": "Kia Seltos, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 930
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-kia-seltos-1-t.jpg",
+   "alt": "Kia Seltos, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "kia-seltos-hibrida": {
+  "archivo": "foto-kia-seltos-hibrida-1.jpg",
+  "alt": "Kia Seltos Híbrida, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-seltos-hibrida-1.jpg",
+    "alt": "Kia Seltos Híbrida, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1151
+   },
+   {
+    "archivo": "foto-kia-seltos-hibrida-2.jpg",
+    "alt": "Kia Seltos Híbrida, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1076
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-kia-seltos-hibrida-1-t.jpg",
+   "alt": "Kia Seltos Híbrida, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 518
+  }
+ },
+ "kia-sonet": {
+  "archivo": "foto-kia-sonet-1.jpg",
+  "alt": "Kia Sonet, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-sonet-1.jpg",
+    "alt": "Kia Sonet, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 960
+   },
+   {
+    "archivo": "foto-kia-sonet-2.jpg",
+    "alt": "Kia Sonet, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-kia-sonet-1-t.jpg",
+   "alt": "Kia Sonet, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 432
+  }
+ },
+ "kia-sorento": {
+  "archivo": "foto-kia-sorento-1.jpg",
+  "alt": "Kia Sorento, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-sorento-1.jpg",
+    "alt": "Kia Sorento, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-kia-sorento-2.jpg",
+    "alt": "Kia Sorento, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 895
+   },
+   {
+    "archivo": "foto-kia-sorento-3.jpg",
+    "alt": "Kia Sorento, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 971
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-kia-sorento-1-t.jpg",
+   "alt": "Kia Sorento, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "kia-telluride": {
+  "archivo": "foto-kia-telluride-1.jpg",
+  "alt": "Kia Telluride, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-telluride-1.jpg",
+    "alt": "Kia Telluride, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1000
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-kia-telluride-1-t.jpg",
+   "alt": "Kia Telluride, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 450
+  }
+ },
+ "kia-sportage-hibrida": {
+  "archivo": "foto-kia-sportage-1.jpg",
+  "alt": "Kia Sportage, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-kia-sportage-1.jpg",
+    "alt": "Kia Sportage, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1400,
+    "alto": 692
+   },
+   {
+    "archivo": "foto-kia-sportage-2.jpg",
+    "alt": "Kia Sportage, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 794
+   },
+   {
+    "archivo": "foto-kia-sportage-3.jpg",
+    "alt": "Kia Sportage, vista interior",
+    "angulo": "interior",
+    "ancho": 1400,
+    "alto": 932
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-kia-sportage-1-t.jpg",
+   "alt": "Kia Sportage, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 356
+  }
+ },
+ "hyundai-creta": {
+  "archivo": "foto-hyundai-creta-1.jpg",
+  "alt": "Hyundai Creta, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-hyundai-creta-1.jpg",
+    "alt": "Hyundai Creta, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 960
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-hyundai-creta-1-t.jpg",
+   "alt": "Hyundai Creta, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 432
+  }
+ },
+ "hyundai-elantra-hibrido": {
+  "archivo": "foto-hyundai-elantra-hibrido-1.jpg",
+  "alt": "Hyundai Elantra Híbrido, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-hyundai-elantra-hibrido-1.jpg",
+    "alt": "Hyundai Elantra Híbrido, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 785
+   },
+   {
+    "archivo": "foto-hyundai-elantra-hibrido-2.jpg",
+    "alt": "Hyundai Elantra Híbrido, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 810
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-hyundai-elantra-hibrido-1-t.jpg",
+   "alt": "Hyundai Elantra Híbrido, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 353
+  }
+ },
+ "hyundai-palisade-hibrida": {
+  "archivo": "foto-hyundai-palisade-hibrida-1.jpg",
+  "alt": "Hyundai Palisade Híbrida, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-hyundai-palisade-hibrida-1.jpg",
+    "alt": "Hyundai Palisade Híbrida, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1216
+   },
+   {
+    "archivo": "foto-hyundai-palisade-hibrida-2.jpg",
+    "alt": "Hyundai Palisade Híbrida, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 805
+   },
+   {
+    "archivo": "foto-hyundai-palisade-hibrida-3.jpg",
+    "alt": "Hyundai Palisade Híbrida, vista perfil",
+    "angulo": "perfil",
+    "ancho": 1600,
+    "alto": 753
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-hyundai-palisade-hibrida-1-t.jpg",
+   "alt": "Hyundai Palisade Híbrida, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 547
+  }
+ },
+ "hyundai-santa-fe-hibrida": {
+  "archivo": "foto-hyundai-santa-fe-hibrida-1.jpg",
+  "alt": "Hyundai Santa Fe Híbrida, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-hyundai-santa-fe-hibrida-1.jpg",
+    "alt": "Hyundai Santa Fe Híbrida, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 918
+   },
+   {
+    "archivo": "foto-hyundai-santa-fe-hibrida-2.jpg",
+    "alt": "Hyundai Santa Fe Híbrida, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 872
+   },
+   {
+    "archivo": "foto-hyundai-santa-fe-hibrida-3.jpg",
+    "alt": "Hyundai Santa Fe Híbrida, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 917
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-hyundai-santa-fe-hibrida-1-t.jpg",
+   "alt": "Hyundai Santa Fe Híbrida, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 413
+  }
+ },
+ "hyundai-tucson": {
+  "archivo": "foto-hyundai-tucson-1.jpg",
+  "alt": "Hyundai Tucson, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-hyundai-tucson-1.jpg",
+    "alt": "Hyundai Tucson, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 704
+   },
+   {
+    "archivo": "foto-hyundai-tucson-2.jpg",
+    "alt": "Hyundai Tucson, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1280
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-hyundai-tucson-1-t.jpg",
+   "alt": "Hyundai Tucson, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 316
+  }
+ },
+ "hyundai-tucson-hibrida": {
+  "archivo": "foto-hyundai-tucson-hibrida-1.jpg",
+  "alt": "Hyundai Tucson Híbrida, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-hyundai-tucson-hibrida-1.jpg",
+    "alt": "Hyundai Tucson Híbrida, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1086
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-hyundai-tucson-hibrida-1-t.jpg",
+   "alt": "Hyundai Tucson Híbrida, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 488
+  }
+ },
+ "hyundai-venue": {
+  "archivo": "foto-hyundai-venue-1.jpg",
+  "alt": "Hyundai Venue, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-hyundai-venue-1.jpg",
+    "alt": "Hyundai Venue, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1205
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-hyundai-venue-1-t.jpg",
+   "alt": "Hyundai Venue, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 542
+  }
+ },
+ "mazda-cx-3": {
+  "archivo": "foto-mazda-cx-3-1.jpg",
+  "alt": "Mazda CX-3, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mazda-cx-3-1.jpg",
+    "alt": "Mazda CX-3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 888
+   },
+   {
+    "archivo": "foto-mazda-cx-3-2.jpg",
+    "alt": "Mazda CX-3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 851
+   },
+   {
+    "archivo": "foto-mazda-cx-3-3.jpg",
+    "alt": "Mazda CX-3, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1088
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mazda-cx-3-1-t.jpg",
+   "alt": "Mazda CX-3, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 399
+  }
+ },
+ "mazda-cx-30": {
+  "archivo": "foto-mazda-cx-30-1.jpg",
+  "alt": "Mazda CX-30, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mazda-cx-30-1.jpg",
+    "alt": "Mazda CX-30, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 796
+   },
+   {
+    "archivo": "foto-mazda-cx-30-2.jpg",
+    "alt": "Mazda CX-30, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 940
+   },
+   {
+    "archivo": "foto-mazda-cx-30-3.jpg",
+    "alt": "Mazda CX-30, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 1061
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mazda-cx-30-1-t.jpg",
+   "alt": "Mazda CX-30, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 358
+  }
+ },
+ "mazda-cx-50": {
+  "archivo": "foto-mazda-cx-50-1.jpg",
+  "alt": "Mazda CX-50, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mazda-cx-50-1.jpg",
+    "alt": "Mazda CX-50, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 907
+   },
+   {
+    "archivo": "foto-mazda-cx-50-2.jpg",
+    "alt": "Mazda CX-50, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 945
+   },
+   {
+    "archivo": "foto-mazda-cx-50-3.jpg",
+    "alt": "Mazda CX-50, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 782
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mazda-cx-50-1-t.jpg",
+   "alt": "Mazda CX-50, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 408
+  }
+ },
+ "mazda-cx-70": {
+  "archivo": "foto-mazda-cx-70-1.jpg",
+  "alt": "Mazda CX-70, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mazda-cx-70-1.jpg",
+    "alt": "Mazda CX-70, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 872
+   },
+   {
+    "archivo": "foto-mazda-cx-70-2.jpg",
+    "alt": "Mazda CX-70, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 889
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mazda-cx-70-1-t.jpg",
+   "alt": "Mazda CX-70, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 392
+  }
+ },
+ "mazda-cx-90": {
+  "archivo": "foto-mazda-cx-90-1.jpg",
+  "alt": "Mazda CX-90, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mazda-cx-90-1.jpg",
+    "alt": "Mazda CX-90, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1070
+   },
+   {
+    "archivo": "foto-mazda-cx-90-2.jpg",
+    "alt": "Mazda CX-90, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mazda-cx-90-1-t.jpg",
+   "alt": "Mazda CX-90, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 481
+  }
+ },
+ "mazda-mazda3-hatchback": {
+  "archivo": "foto-mazda-mazda3-hatchback-1.jpg",
+  "alt": "Mazda Mazda3 Hatchback, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mazda-mazda3-hatchback-1.jpg",
+    "alt": "Mazda Mazda3 Hatchback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1131
+   },
+   {
+    "archivo": "foto-mazda-mazda3-hatchback-2.jpg",
+    "alt": "Mazda Mazda3 Hatchback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mazda-mazda3-hatchback-1-t.jpg",
+   "alt": "Mazda Mazda3 Hatchback, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 509
+  }
+ },
+ "mazda-mx-5": {
+  "archivo": "foto-mazda-mx-5-1.jpg",
+  "alt": "Mazda MX-5, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mazda-mx-5-1.jpg",
+    "alt": "Mazda MX-5, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1086
+   },
+   {
+    "archivo": "foto-mazda-mx-5-2.jpg",
+    "alt": "Mazda MX-5, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1136
+   },
+   {
+    "archivo": "foto-mazda-mx-5-3.jpg",
+    "alt": "Mazda MX-5, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1111
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mazda-mx-5-1-t.jpg",
+   "alt": "Mazda MX-5, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 488
+  }
+ },
+ "honda-accord": {
+  "archivo": "foto-honda-accord-1.jpg",
+  "alt": "Honda Accord, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-honda-accord-1.jpg",
+    "alt": "Honda Accord, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 917
+   },
+   {
+    "archivo": "foto-honda-accord-2.jpg",
+    "alt": "Honda Accord, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 673
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-honda-accord-1-t.jpg",
+   "alt": "Honda Accord, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 412
+  }
+ },
+ "honda-br-v": {
+  "archivo": "foto-honda-br-v-1.jpg",
+  "alt": "Honda BR-V, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-honda-br-v-1.jpg",
+    "alt": "Honda BR-V, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 960
+   },
+   {
+    "archivo": "foto-honda-br-v-2.jpg",
+    "alt": "Honda BR-V, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-honda-br-v-1-t.jpg",
+   "alt": "Honda BR-V, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 432
+  }
+ },
+ "honda-civic": {
+  "archivo": "foto-honda-civic-1.jpg",
+  "alt": "Honda Civic, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-honda-civic-1.jpg",
+    "alt": "Honda Civic, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 856
+   },
+   {
+    "archivo": "foto-honda-civic-2.jpg",
+    "alt": "Honda Civic, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 918
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-honda-civic-1-t.jpg",
+   "alt": "Honda Civic, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 385
+  }
+ },
+ "honda-cr-v": {
+  "archivo": "foto-honda-cr-v-1.jpg",
+  "alt": "Honda CR-V, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-honda-cr-v-1.jpg",
+    "alt": "Honda CR-V, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1040
+   },
+   {
+    "archivo": "foto-honda-cr-v-2.jpg",
+    "alt": "Honda CR-V, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 883
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-honda-cr-v-1-t.jpg",
+   "alt": "Honda CR-V, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 468
+  }
+ },
+ "honda-odyssey": {
+  "archivo": "foto-honda-odyssey-1.jpg",
+  "alt": "Honda Odyssey, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-honda-odyssey-1.jpg",
+    "alt": "Honda Odyssey, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1078
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-honda-odyssey-1-t.jpg",
+   "alt": "Honda Odyssey, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 485
+  }
+ },
+ "honda-pilot": {
+  "archivo": "foto-honda-pilot-1.jpg",
+  "alt": "Honda Pilot, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-honda-pilot-1.jpg",
+    "alt": "Honda Pilot, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 968
+   },
+   {
+    "archivo": "foto-honda-pilot-2.jpg",
+    "alt": "Honda Pilot, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 940
+   },
+   {
+    "archivo": "foto-honda-pilot-3.jpg",
+    "alt": "Honda Pilot, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1001
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-honda-pilot-1-t.jpg",
+   "alt": "Honda Pilot, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 435
+  }
+ },
+ "honda-prelude": {
+  "archivo": "foto-honda-prelude-1.jpg",
+  "alt": "Honda Prelude, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-honda-prelude-1.jpg",
+    "alt": "Honda Prelude, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 867
+   },
+   {
+    "archivo": "foto-honda-prelude-2.jpg",
+    "alt": "Honda Prelude, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 862
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-honda-prelude-1-t.jpg",
+   "alt": "Honda Prelude, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 390
+  }
+ },
+ "mg-cyberster": {
+  "archivo": "foto-mg-cyberster-1.jpg",
+  "alt": "MG Cyberster, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mg-cyberster-1.jpg",
+    "alt": "MG Cyberster, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1081
+   },
+   {
+    "archivo": "foto-mg-cyberster-2.jpg",
+    "alt": "MG Cyberster, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mg-cyberster-1-t.jpg",
+   "alt": "MG Cyberster, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 486
+  }
+ },
+ "mg-hs": {
+  "archivo": "foto-mg-hs-1.jpg",
+  "alt": "MG HS Turbo, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mg-hs-1.jpg",
+    "alt": "MG HS Turbo, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 879
+   },
+   {
+    "archivo": "foto-mg-hs-2.jpg",
+    "alt": "MG HS Turbo, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1069
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mg-hs-1-t.jpg",
+   "alt": "MG HS Turbo, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 395
+  }
+ },
+ "mg-hs-hybrid": {
+  "archivo": "foto-mg-hs-hybrid-1.jpg",
+  "alt": "MG HS Hybrid+, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mg-hs-hybrid-1.jpg",
+    "alt": "MG HS Hybrid+, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-mg-hs-hybrid-2.jpg",
+    "alt": "MG HS Hybrid+, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1070
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mg-hs-hybrid-1-t.jpg",
+   "alt": "MG HS Hybrid+, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "mg-hs-phev": {
+  "archivo": "foto-mg-hs-phev-1.jpg",
+  "alt": "MG HS PHEV, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mg-hs-phev-1.jpg",
+    "alt": "MG HS PHEV, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 891
+   },
+   {
+    "archivo": "foto-mg-hs-phev-2.jpg",
+    "alt": "MG HS PHEV, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 943
+   },
+   {
+    "archivo": "foto-mg-hs-phev-3.jpg",
+    "alt": "MG HS PHEV, vista interior",
+    "angulo": "interior",
+    "ancho": 1600,
+    "alto": 1069
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mg-hs-phev-1-t.jpg",
+   "alt": "MG HS PHEV, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 401
+  }
+ },
+ "mg-im-ls7": {
+  "archivo": "foto-mg-im-ls7-1.jpg",
+  "alt": "MG IM LS7, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mg-im-ls7-1.jpg",
+    "alt": "MG IM LS7, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1067
+   },
+   {
+    "archivo": "foto-mg-im-ls7-2.jpg",
+    "alt": "MG IM LS7, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 933
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mg-im-ls7-1-t.jpg",
+   "alt": "MG IM LS7, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 480
+  }
+ },
+ "mg-mg3": {
+  "archivo": "foto-mg-mg3-1.jpg",
+  "alt": "MG MG3, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mg-mg3-1.jpg",
+    "alt": "MG MG3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 765
+   },
+   {
+    "archivo": "foto-mg-mg3-2.jpg",
+    "alt": "MG MG3, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 936
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mg-mg3-1-t.jpg",
+   "alt": "MG MG3, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 344
+  }
+ },
+ "mg-mg3-hybrid": {
+  "archivo": "foto-mg-mg3-hybrid-1.jpg",
+  "alt": "MG MG3 Hybrid+, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mg-mg3-hybrid-1.jpg",
+    "alt": "MG MG3 Hybrid+, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 863
+   },
+   {
+    "archivo": "foto-mg-mg3-hybrid-2.jpg",
+    "alt": "MG MG3 Hybrid+, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 916
+   },
+   {
+    "archivo": "foto-mg-mg3-hybrid-3.jpg",
+    "alt": "MG MG3 Hybrid+, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 931
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mg-mg3-hybrid-1-t.jpg",
+   "alt": "MG MG3 Hybrid+, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 388
+  }
+ },
+ "mg-mg4": {
+  "archivo": "foto-mg-mg4-1.jpg",
+  "alt": "MG MG4 Electric, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mg-mg4-1.jpg",
+    "alt": "MG MG4 Electric, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 820
+   },
+   {
+    "archivo": "foto-mg-mg4-2.jpg",
+    "alt": "MG MG4 Electric, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-mg-mg4-3.jpg",
+    "alt": "MG MG4 Electric, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 781
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mg-mg4-1-t.jpg",
+   "alt": "MG MG4 Electric, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 369
+  }
+ },
+ "mg-mg7": {
+  "archivo": "foto-mg-mg7-1.jpg",
+  "alt": "MG MG7, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mg-mg7-1.jpg",
+    "alt": "MG MG7, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 911
+   },
+   {
+    "archivo": "foto-mg-mg7-2.jpg",
+    "alt": "MG MG7, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mg-mg7-1-t.jpg",
+   "alt": "MG MG7, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 410
+  }
+ },
+ "mg-zs-hybrid": {
+  "archivo": "foto-mg-zs-1.jpg",
+  "alt": "MG ZS, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mg-zs-1.jpg",
+    "alt": "MG ZS, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1400,
+    "alto": 752
+   },
+   {
+    "archivo": "foto-mg-zs-2.jpg",
+    "alt": "MG ZS, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 851
+   },
+   {
+    "archivo": "foto-mg-zs-3.jpg",
+    "alt": "MG ZS, vista interior",
+    "angulo": "interior",
+    "ancho": 1400,
+    "alto": 932
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mg-zs-1-t.jpg",
+   "alt": "MG ZS, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 386
+  }
+ },
+ "byd-m9": {
+  "archivo": "foto-byd-m9-1.jpg",
+  "alt": "BYD M9, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-byd-m9-1.jpg",
+    "alt": "BYD M9, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-byd-m9-1-t.jpg",
+   "alt": "BYD M9, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
+ },
+ "byd-seal": {
+  "archivo": "foto-byd-seal-1.jpg",
+  "alt": "BYD Seal, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-byd-seal-1.jpg",
+    "alt": "BYD Seal, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-byd-seal-2.jpg",
+    "alt": "BYD Seal, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 792
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-byd-seal-1-t.jpg",
+   "alt": "BYD Seal, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "byd-sealion-7": {
+  "archivo": "foto-byd-sealion-7-1.jpg",
+  "alt": "BYD Sealion 7, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-byd-sealion-7-1.jpg",
+    "alt": "BYD Sealion 7, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 795
+   },
+   {
+    "archivo": "foto-byd-sealion-7-2.jpg",
+    "alt": "BYD Sealion 7, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-byd-sealion-7-1-t.jpg",
+   "alt": "BYD Sealion 7, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 357
+  }
+ },
+ "byd-shark": {
+  "archivo": "foto-byd-shark-1.jpg",
+  "alt": "BYD Shark, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-byd-shark-1.jpg",
+    "alt": "BYD Shark, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 851
+   },
+   {
+    "archivo": "foto-byd-shark-2.jpg",
+    "alt": "BYD Shark, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-byd-shark-1-t.jpg",
+   "alt": "BYD Shark, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 383
+  }
+ },
+ "byd-yuan-pro": {
+  "archivo": "foto-byd-yuan-pro-1.jpg",
+  "alt": "BYD Yuan Pro, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-byd-yuan-pro-1.jpg",
+    "alt": "BYD Yuan Pro, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   },
+   {
+    "archivo": "foto-byd-yuan-pro-2.jpg",
+    "alt": "BYD Yuan Pro, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1204
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-byd-yuan-pro-1-t.jpg",
+   "alt": "BYD Yuan Pro, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
  }
 }

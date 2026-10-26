@@ -1,0 +1,48 @@
+{
+  "marca": "Hyundai",
+  "modelo": "Tucson",
+  "marcaSlug": "hyundai",
+  "modeloSlug": "tucson",
+  "generacionMexico": "Tucson NX4 con el rediseño 2025",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/2021_Hyundai_Tucson_Elite_N-Line_front_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2021_Hyundai_Tucson_Elite_N-Line_front_(1).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "LuvsMG481",
+      "credito": "Foto: LuvsMG481 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5732,
+      "alto": 2522,
+      "anioOGeneracion": "2026 · Tucson NX4 con el rediseño 2025",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2021 Hyundai Tucson Elite N-Line front (1). Foto de 2026. Categoría Commons: Hyundai Tucson (NX4, LWB) N Line. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Tucson NX4 con el rediseño 2025). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hyundai_Tucson_AWD_N_Line%2C_Singapore_Motorshow_2025_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Hyundai_Tucson_AWD_N_Line,_Singapore_Motorshow_2025_1.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Yuqiao",
+      "credito": "Foto: Yuqiao / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 4627,
+      "alto": 3701,
+      "anioOGeneracion": "2025 · Tucson NX4 con el rediseño 2025",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Hyundai Tucson AWD N Line, Singapore Motorshow 2025 1. Foto de 2025. Categoría Commons: Hyundai Tucson (NX4, LWB) N Line. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Tucson NX4 con el rediseño 2025). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

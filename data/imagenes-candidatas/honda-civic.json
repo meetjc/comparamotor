@@ -1,0 +1,48 @@
+{
+  "marca": "Honda",
+  "modelo": "Civic",
+  "marcaSlug": "honda",
+  "modeloSlug": "civic",
+  "generacionMexico": "Civic 11.ª generación con el rediseño 2025",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/2025_Honda_Civic_Sport_Touring_Hybrid_in_Blue_Lagoon%2C_front_left%2C_2024-09-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Honda_Civic_Sport_Touring_Hybrid_in_Blue_Lagoon,_front_left,_2024-09-24.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Elise240SX",
+      "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3508,
+      "alto": 1876,
+      "anioOGeneracion": "2024 · Civic 11.ª generación con el rediseño 2025",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Honda Civic Sport Touring Hybrid in Blue Lagoon, front left, 2024-09-24. Foto de 2024. Categoría Commons: Honda Civic Hybrid (2021). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Civic 11.ª generación con el rediseño 2025). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2025_Honda_Civic_Hybrid_Sport_Touring_%28facelift%29%2C_front_4.18.25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Honda_Civic_Hybrid_Sport_Touring_(facelift),_front_4.18.25.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Kevauto",
+      "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3233,
+      "alto": 1856,
+      "anioOGeneracion": "2025 · Civic 11.ª generación con el rediseño 2025",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Honda Civic Hybrid Sport Touring (facelift), front 4.18.25. Foto de 2025. Categoría Commons: Honda Civic Hybrid (2021). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Civic 11.ª generación con el rediseño 2025). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

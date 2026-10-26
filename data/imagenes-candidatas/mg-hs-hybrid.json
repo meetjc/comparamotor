@@ -1,0 +1,48 @@
+{
+  "marca": "MG",
+  "modelo": "HS Hybrid+",
+  "marcaSlug": "mg",
+  "modeloSlug": "hs-hybrid",
+  "generacionMexico": "HS 2.ª generación (2024+), misma carrocería de la versión híbrida",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/2025_MG_HS_Exclusive_%28Poland%29_front_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_MG_HS_Exclusive_(Poland)_front_view.png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "AutoMotoVlog",
+      "credito": "Foto: AutoMotoVlog / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 2176,
+      "alto": 1224,
+      "anioOGeneracion": "2024 · HS 2.ª generación (2024+), misma carrocería de la versión híbrida",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 MG HS Exclusive (Poland) front view. Foto de 2024. Categoría Commons: MG HS (second generation). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (HS 2.ª generación (2024+), misma carrocería de la versión híbrida). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/MG_HS_%28second_generation%29_DSC_7451.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:MG_HS_(second_generation)_DSC_7451.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5014,
+      "alto": 3352,
+      "anioOGeneracion": "2025 · HS 2.ª generación (2024+), misma carrocería de la versión híbrida",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: MG HS (second generation) DSC 7451. Foto de 2025. Categoría Commons: MG HS (second generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (HS 2.ª generación (2024+), misma carrocería de la versión híbrida). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

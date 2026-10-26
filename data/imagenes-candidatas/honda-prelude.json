@@ -1,0 +1,48 @@
+{
+  "marca": "Honda",
+  "modelo": "Prelude",
+  "marcaSlug": "honda",
+  "modeloSlug": "prelude",
+  "generacionMexico": "Prelude 6.ª generación (2026+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Honda_Prelude_%286th_generation%29_IMG_5845.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Honda_Prelude_(6th_generation)_IMG_5845.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4594,
+      "alto": 2490,
+      "anioOGeneracion": "2026 · Prelude 6.ª generación (2026+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Honda Prelude (6th generation) IMG 5845. Foto de 2026. Categoría Commons: Honda Prelude (6th generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Prelude 6.ª generación (2026+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Honda_Prelude_%286th_generation%29_IMG_5842.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Honda_Prelude_(6th_generation)_IMG_5842.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4464,
+      "alto": 2406,
+      "anioOGeneracion": "2026 · Prelude 6.ª generación (2026+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Honda Prelude (6th generation) IMG 5842. Foto de 2026. Categoría Commons: Honda Prelude (6th generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Prelude 6.ª generación (2026+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

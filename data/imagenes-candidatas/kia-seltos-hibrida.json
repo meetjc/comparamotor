@@ -1,0 +1,48 @@
+{
+  "marca": "Kia",
+  "modelo": "Seltos Híbrida",
+  "marcaSlug": "kia",
+  "modeloSlug": "seltos-hibrida",
+  "generacionMexico": "Seltos 2.ª generación (2026+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2026_KIA_New_Seltos_SP3K_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_KIA_New_Seltos_SP3K_Front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Avante2025",
+      "credito": "Foto: Avante2025 / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 1440,
+      "alto": 1036,
+      "anioOGeneracion": "2026 · Seltos 2.ª generación (2026+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2026 KIA New Seltos SP3K Front. Foto de 2026. Categoría Commons: Kia Seltos (SP3). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Seltos 2.ª generación (2026+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kia_Seltos_%28Blue%29_%E2%80%93_Front.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Kia_Seltos_(Blue)_%E2%80%93_Front.png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Raszbeary",
+      "credito": "Foto: Raszbeary / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 3842,
+      "alto": 2583,
+      "anioOGeneracion": "2026 · Seltos 2.ª generación (2026+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Kia Seltos (Blue) – Front. Foto de 2026. Categoría Commons: Kia Seltos (SP3). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Seltos 2.ª generación (2026+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

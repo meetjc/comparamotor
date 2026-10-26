@@ -3,9 +3,9 @@
   "modelo": "Creta",
   "marcaSlug": "hyundai",
   "modeloSlug": "creta",
-  "generacionMexico": "Creta (SU2 PE, India), frente 2024",
-  "notasModelo": "Revisado el 24 oct 2026. El Creta de México viene de India con el frente renovado de 2024 (SU2 PE). Se usaron fotos del SU2 PE (India 2024 y Filipinas 2025); se descartaron las del frente anterior a 2024 (Chile, Brasil, Rusia, Indonesia 2021-2023) y la serie del Creta de Filipinas SU2 sin «PE». Las cuatro fotos de Filipinas son de exhibición en espacio público: revisar que no haya personas reconocibles. No se descargó ninguna imagen.",
-  "actualizado": "2026-10-24",
+  "generacionMexico": "Creta con el rediseño 2024 (versión de India, la que muestra Hyundai México)",
+  "notasModelo": "Revisado el 24 oct 2026. El Creta de México viene de India con el frente renovado de 2024 (SU2 PE). Se usaron fotos del SU2 PE (India 2024 y Filipinas 2025); se descartaron las del frente anterior a 2024 (Chile, Brasil, Rusia, Indonesia 2021-2023) y la serie del Creta de Filipinas SU2 sin «PE». Las cuatro fotos de Filipinas son de exhibición en espacio público: revisar que no haya personas reconocibles. No se descargó ninguna imagen. Actualización 2026-10-25: se confirmaron a ojo las fotos marcadas como coincidentes.",
+  "actualizado": "2026-10-25",
   "candidatas": [
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/2024_Hyundai_Creta_1.5_MPi_SX%28O%29_%28India%29_front_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -18,11 +18,12 @@
       "compartirIgual": false,
       "ancho": 1920,
       "alto": 1152,
-      "anioOGeneracion": "2024 · Creta SU2 PE (frente 2024, India)",
+      "anioOGeneracion": "2024 · Creta con el rediseño 2024 (versión de India, la que muestra Hyundai México)",
       "angulo": "3/4 frontal",
-      "coincideConMexico": null,
-      "verificadoEl": "2026-10-24",
-      "notas": "Archivo: 2024 Hyundai Creta 1.5 MPi SX(O) (India) front view. Foto de 2024 (India). Creta SX(O) 2024 de India, el mismo diseño del Creta que llega a México. Ángulo deducido del nombre/descripción del archivo (no se descargó la imagen). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Hyundai Creta 1.5 MPi SX(O) (India) front view. Foto de 2024. Categoría Commons: Hyundai Creta (SU2). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Creta con el rediseño 2024 (versión de India, la que muestra Hyundai México)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
     },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hyundai_Creta_SU2_PE_1.5_Premium_Slate_Blue_Pearl_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",

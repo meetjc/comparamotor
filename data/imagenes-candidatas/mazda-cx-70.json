@@ -1,0 +1,48 @@
+{
+  "marca": "Mazda",
+  "modelo": "CX-70",
+  "marcaSlug": "mazda",
+  "modeloSlug": "cx-70",
+  "generacionMexico": "CX-70 (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/2025_Mazda_CX-70_Mild_Hybrid_Inline_6_Turbo_Signature_in_Rhodium_White_Metallic%2C_front_left%2C_2025-05-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Mazda_CX-70_Mild_Hybrid_Inline_6_Turbo_Signature_in_Rhodium_White_Metallic,_front_left,_2025-05-18.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Elise240SX",
+      "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5105,
+      "alto": 2783,
+      "anioOGeneracion": "2025 · CX-70 (2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Mazda CX-70 Mild Hybrid Inline 6 Turbo Signature in Rhodium White Metallic, front left, 2025-05-18. Foto de 2025. Categoría Commons: Mazda CX-70. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (CX-70 (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/2025_Mazda_CX-70_Mild_Hybrid_Inline_6_Turbo_Signature_in_Rhodium_White_Metallic%2C_rear_left%2C_2025-05-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Mazda_CX-70_Mild_Hybrid_Inline_6_Turbo_Signature_in_Rhodium_White_Metallic,_rear_left,_2025-05-18.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Elise240SX",
+      "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5238,
+      "alto": 2910,
+      "anioOGeneracion": "2025 · CX-70 (2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Mazda CX-70 Mild Hybrid Inline 6 Turbo Signature in Rhodium White Metallic, rear left, 2025-05-18. Foto de 2025. Categoría Commons: Mazda CX-70. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (CX-70 (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

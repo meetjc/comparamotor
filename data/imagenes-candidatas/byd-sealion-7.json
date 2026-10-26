@@ -1,0 +1,48 @@
+{
+  "marca": "BYD",
+  "modelo": "Sealion 7",
+  "marcaSlug": "byd",
+  "modeloSlug": "sealion-7",
+  "generacionMexico": "Sealion 7 / Sealion 07 EV (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/2026-09-27_Hofer_Herbstmarkt_2026_HOF6997_RAW-Export.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026-09-27_Hofer_Herbstmarkt_2026_HOF6997_RAW-Export.png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "PantheraLeo1359531",
+      "credito": "Foto: PantheraLeo1359531 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 6172,
+      "alto": 3068,
+      "anioOGeneracion": "2026 · Sealion 7 / Sealion 07 EV (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2026-09-27 Hofer Herbstmarkt 2026 HOF6997 RAW-Export. Foto de 2026. Categoría Commons: BYD Sealion 07 EV. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Restricciones declaradas en Commons: personality. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Sealion 7 / Sealion 07 EV (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/BYD_Sealinon_7%2C_Auto_2025%2C_Zurich_%2820251029-P1074296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:BYD_Sealinon_7,_Auto_2025,_Zurich_(20251029-P1074296).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+      "autor": "Matti Blume",
+      "credito": "Foto: Matti Blume / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5184,
+      "alto": 3888,
+      "anioOGeneracion": "2025 · Sealion 7 / Sealion 07 EV (2024+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: BYD Sealinon 7, Auto 2025, Zurich (20251029-P1074296). Foto de 2025. Categoría Commons: BYD Sealion 07 EV. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Sealion 7 / Sealion 07 EV (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}
