@@ -98,4 +98,5 @@ Formato exacto: `Foto: {autor} / {fuente}, {licencia}` (con ligas a la página d
 - Lista auditable en `data/fotos-prensa.json` (comunicado, términos, URL de cada foto). `python3 scripts/imagenes/prensa.py` las descarga, las convierte a JPEG sin recortar ni redimensionar y las registra con licencia `prensa-marca`.
 - Uso editorial: solo dentro de notas y guías (`imagenNota` o `<!--FIG:ia:archivo-->`). Se muestran completas, sin recorte. El build falla si aparecen en fichas, comparador, portada, listados o como imagen para compartir (og:image).
 - Crédito en el pie de cada foto: «Foto: <Marca> (sala de prensa oficial), uso editorial», con liga nofollow al comunicado y a los términos. Al final de la nota: «Fotos: sala de prensa oficial de <Marca> (comunicado), consultada el <fecha>».
-- No se usan: Hyundai, BYD y MG México (prohíben reproducir sin permiso escrito). VW of America y otras salas que piden registro: hasta que JC se dé de alta como medio.
+- No se usan: Hyundai, BYD y MG México (prohíben reproducir sin permiso escrito). Salas que piden registro (VW of America, BYD Europa): no se usan sin que JC se dé de alta.
+- VW México: sala de prensa pública en volkswagen-mexico.prezly.com (galería sin registro). Contacto: Javier Díaz, Relaciones Públicas marca VW, javier.diazl@vw.com.mx, +52 222 230 8183.

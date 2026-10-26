@@ -1993,6 +1993,66 @@
     "guias"
    ],
    "notas": "Material de la sala de prensa oficial. Solo uso editorial en notas y guías, sin recortar ni alterar; nunca en fichas, comparador, anuncios ni como imagen para compartir."
+  },
+  "prensa-vw-teramont-2027-1.jpg": {
+   "licencia": "prensa-marca",
+   "licenciaNombre": "uso editorial",
+   "licenciaUrl": null,
+   "fuenteId": "prensa-vw-mx",
+   "paginaUrl": "https://volkswagen-mexico.prezly.com/el-totalmente-nuevo-volkswagen-teramont-2027-se-presenta-en-mexico-con-una-imagen-mas-imponente-y-un-interior-de-calidad-superior",
+   "archivoUrl": "https://cdn.assets.prezly.com/464cccd3-2fc0-4b44-baa8-01a7c071c1a3/-/preview/1600x1600/-/format/jpeg/",
+   "autor": "Volkswagen de México",
+   "credito": "Foto: Volkswagen de México (sala de prensa oficial)",
+   "alt": "Volkswagen Teramont 2027 verde oscuro de tres cuartos frente a una montaña",
+   "ancho": 1600,
+   "alto": 1067,
+   "fecha": "2026-10-25",
+   "permiteEdicion": false,
+   "usos": [
+    "noticias",
+    "guias"
+   ],
+   "notas": "Material de la sala de prensa oficial. Solo uso editorial en notas y guías, sin recortar ni alterar; nunca en fichas, comparador, anuncios ni como imagen para compartir."
+  },
+  "prensa-vw-teramont-2027-2.jpg": {
+   "licencia": "prensa-marca",
+   "licenciaNombre": "uso editorial",
+   "licenciaUrl": null,
+   "fuenteId": "prensa-vw-mx",
+   "paginaUrl": "https://volkswagen-mexico.prezly.com/el-totalmente-nuevo-volkswagen-teramont-2027-se-presenta-en-mexico-con-una-imagen-mas-imponente-y-un-interior-de-calidad-superior",
+   "archivoUrl": "https://cdn.assets.prezly.com/f4c5fded-bab7-4987-930b-78ff5aa11c71/-/preview/1600x1600/-/format/jpeg/",
+   "autor": "Volkswagen de México",
+   "credito": "Foto: Volkswagen de México (sala de prensa oficial)",
+   "alt": "Volkswagen Teramont 2027 visto de tres cuartos por detrás",
+   "ancho": 1600,
+   "alto": 1067,
+   "fecha": "2026-10-25",
+   "permiteEdicion": false,
+   "usos": [
+    "noticias",
+    "guias"
+   ],
+   "notas": "Material de la sala de prensa oficial. Solo uso editorial en notas y guías, sin recortar ni alterar; nunca en fichas, comparador, anuncios ni como imagen para compartir."
+  },
+  "prensa-vw-teramont-2027-3.jpg": {
+   "licencia": "prensa-marca",
+   "licenciaNombre": "uso editorial",
+   "licenciaUrl": null,
+   "fuenteId": "prensa-vw-mx",
+   "paginaUrl": "https://volkswagen-mexico.prezly.com/el-totalmente-nuevo-volkswagen-teramont-2027-se-presenta-en-mexico-con-una-imagen-mas-imponente-y-un-interior-de-calidad-superior",
+   "archivoUrl": "https://cdn.assets.prezly.com/b0231c96-dddd-4920-979a-8bd90629f4f5/-/preview/1600x1600/-/format/jpeg/",
+   "autor": "Volkswagen de México",
+   "credito": "Foto: Volkswagen de México (sala de prensa oficial)",
+   "alt": "Volkswagen Teramont 2027 en estudio, vista de tres cuartos de frente",
+   "ancho": 1600,
+   "alto": 900,
+   "fecha": "2026-10-25",
+   "permiteEdicion": false,
+   "usos": [
+    "noticias",
+    "guias"
+   ],
+   "notas": "Material de la sala de prensa oficial. Solo uso editorial en notas y guías, sin recortar ni alterar; nunca en fichas, comparador, anuncios ni como imagen para compartir."
   }
  },
  "_campos": {
