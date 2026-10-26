@@ -302,3 +302,8 @@ a.tile:active { transform: translateY(0) scale(.99); }
   .print-legal { display: block !important; margin: 18px 0 0; padding-top: 10px; border-top: 1px solid #999; font-size: 9.5px; line-height: 13px; color: #222; break-inside: avoid; page-break-inside: avoid; }
   .print-legal b { font-weight: 700; }
 }
+/* Tablas: sin partir palabras (la regla de .prose es para URLs sueltas); el scroll lo da .tbl-wrap */
+.tbl th, .tbl td { overflow-wrap: normal; word-break: normal; hyphens: manual; }
+.tbl thead th { white-space: nowrap; }
+.tbl .src, .tbl a.src { white-space: nowrap; }
+.tbl td b, .tbl td .num { white-space: nowrap; }
