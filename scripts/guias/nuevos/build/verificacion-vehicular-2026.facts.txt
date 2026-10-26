@@ -1,7 +1,8 @@
 Hoy es 24 de octubre de 2026.
-ComparaMotor lleva 32 estados con verificación vehicular verificados. En 12 es obligatoria para autos particulares y en 18 no.
+ComparaMotor lleva 32 estados con verificación vehicular verificados. En 14 es obligatoria para autos particulares y en 18 no.
 == Estados donde la verificación es obligatoria ==
 Querétaro: costo por confirmar
+Estado de México: $610
 Veracruz: costo por confirmar
 Tlaxcala: costo por confirmar
 Chihuahua: costo por confirmar
@@ -13,6 +14,7 @@ Guanajuato: $375
 Puebla: $628
 Coahuila: costo por confirmar
 Oaxaca: costo por confirmar
+Ciudad de México: $765
 == Estados donde NO es obligatoria para autos particulares ==
 Sonora
 Zacatecas

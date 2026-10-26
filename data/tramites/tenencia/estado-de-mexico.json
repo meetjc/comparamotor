@@ -1,96 +1,44 @@
 {
-  "meta": {
-    "entidad": "Estado de México",
-    "autoridad": "Secretaría de Finanzas del Gobierno del Estado de México, Dirección General de Recaudación",
-    "ejercicio": 2026,
-    "fechaVerificacion": "2026-10-20",
-    "zonaHoraria": "America/Mexico_City",
-    "notaAcceso": "finanzas.edomex.gob.mx y legislacion.edomex.gob.mx comparten el mismo problema de DNS que sma.edomex.gob.mx; respondieron en la IP 201.131.40.32."
+  "estado": "Estado de México",
+  "slug": "estado-de-mexico",
+  "cobraTenencia2026": true,
+  "tenencia": "El Estado de México cobra el Impuesto sobre Tenencia o Uso de Vehículos dentro de los tres primeros meses del año, con un subsidio de 100% para autos con valor de hasta $550,000 sin IVA (unos $638,000 con IVA, cálculo propio) y placas de 2021 o posteriores, y de 50% con placas de 2020. Motos: hasta $215,517 sin IVA. Para sacar cita de verificación, el sistema revisa que la tenencia esté pagada y las placas vigentes.",
+  "refrendo": {
+    "nombreLocal": "Derechos por refrendo de la vigencia anual de las placas",
+    "monto2026": 990,
+    "moneda": "MXN",
+    "detalle": "Autos particulares $990; carga comercial particular $2,488; motos $731; autos antiguos $4,795; ecológicos $1,194. Código Financiero del Estado de México, art. 77."
   },
-
-  "seCobraTenencia": {
-    "valor": true,
-    "obligados": "Personas físicas y jurídicas colectivas dueñas de vehículos de uso particular, carga comercial particular, remolques, motocicletas, motonetas, trimotos, cuadrimotos, ecológicos, autos antiguos y dollies, con domicilio en el Estado de México.",
-    "plazoLegal": "El impuesto se paga dentro de los tres primeros meses de cada año; los vehículos que se inscriben (alta) pagan al hacer el trámite.",
-    "fuente": "Secretaría de Finanzas Edomex, página 'Tenencia y Refrendo 2026'; Código Financiero del Estado de México y Municipios (última reforma POGG 01/10/2026), artículo 60 A",
-    "url": "https://finanzas.edomex.gob.mx/tenencia",
-    "urlLey": "https://legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/cod/vig/codvig007.pdf",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "subsidio2026": {
-    "topeValorAutos": 550000,
-    "topeIncluyeIVA": false,
-    "topeValorMotos": 215517,
-    "topeMotosIncluyeIVA": false,
-    "equivalenciaConIVA": "550,000 sin IVA equivalen a 638,000 con IVA (cálculo propio, 16%), cifra que usa la Secretaría de Finanzas en su difusión.",
-    "definicionValor": "Precio de la primera venta como vehículo nuevo al consumidor final, con equipo de fábrica o agregado a petición del comprador, descuentos, bonificaciones y contribuciones de importación, sin IVA.",
-    "porcentajePorAnioDePlacas": [
-      { "placasExpedidas": "2021 y posteriores", "porcentaje": 100 },
-      { "placasExpedidas": "2020", "porcentaje": 50 }
-    ],
-    "beneficiarios": "Personas físicas residentes en Edomex y personas jurídicas colectivas sin fines de lucro con domicilio en Edomex. No aplica a vehículos de gobierno.",
-    "requisitos": [
-      "Ser residente en el Estado de México",
-      "Estar o ponerse al corriente en obligaciones fiscales estatales",
-      "Gestionar el subsidio en el Portal de Servicios al Contribuyente o en un Centro de Servicios Fiscales y obtener el Formato Universal de Pago",
-      "Pagar los derechos de control vehicular (refrendo) dentro de la vigencia del acuerdo",
-      "Vehículos de otra entidad: dar de alta en el Registro Estatal de Vehículos dentro de la vigencia"
-    ],
-    "noProcede": [
-      "Pago de derechos de control vehicular después del 6 de abril de 2026",
-      "Placas de 2019 o anteriores que no cumplieron la renovación obligatoria (la página de Finanzas menciona placas de 2020 y anteriores sin renovar durante 2025)",
-      "Adeudos de tenencia o derechos de control vehicular de 2025 y anteriores",
-      "Datos o documentos falsos"
-    ],
-    "vigencia": {
-      "general": "2026-01-01 a 2026-04-06",
-      "casoEspecial": "Hasta el 2026-12-31 para motocicletas, motonetas, trimotos, cuadrimotos y 'vehículos nuevos o usados adquiridos mediante importación definitiva' que se inscriban por primera vez en el Registro Estatal de Vehículos en 2026, siempre que hagan el alta dentro de los 15 días siguientes a la compra o importación. No aplica a vehículos registrados antes en otra entidad.",
-      "notaInterpretacion": "La redacción no deja claro si 'nuevos' se refiere a todo auto nuevo de agencia o solo a los importados en definitiva. Ver pendientes antes de prometer el subsidio a quien compre un auto nuevo hoy."
+  "fechaLimite": "6 de abril de 2026 para pagar con subsidio (plazo legal: los tres primeros meses del año). Hasta el 31 de diciembre de 2026 para motos y vehículos importados en definitiva que se inscriban por primera vez en el estado dentro de los 15 días siguientes a la compra.",
+  "descuentos": [
+    "Subsidio de 100% con placas expedidas en 2021 o después, y de 50% con placas de 2020, para autos de hasta $550,000 sin IVA.",
+    "Requisito: ser residente del Estado de México y estar al corriente en obligaciones fiscales estatales.",
+    "No aplica con adeudos de tenencia o refrendo de 2025 y anteriores, ni si el refrendo se paga después del 6 de abril de 2026."
+  ],
+  "portalPago": "https://tenencia.edomex.gob.mx",
+  "fuentes": [
+    {
+      "nombre": "Secretaría de Finanzas Edomex: Tenencia y Refrendo 2026",
+      "url": "https://finanzas.edomex.gob.mx/tenencia",
+      "tipo": "oficial"
     },
-    "fuente": "Acuerdo por el que se otorga subsidio en el pago del Impuesto sobre Tenencia o Uso de Vehículos y se otorgan beneficios fiscales a personas propietarias de vehículos de uso particular, para el ejercicio fiscal 2026 (Gaceta del Gobierno 19/12/2025), Apartado A, artículos Primero a Quinto y transitorio Segundo; página 'Tenencia y Refrendo 2026' de la Secretaría de Finanzas",
-    "url": "https://legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/gct/2025/diciembre/dic192/dic192c.pdf",
-    "urlApoyo": "https://finanzas.edomex.gob.mx/tenencia",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "refrendo2026": {
-    "concepto": "Derechos por refrendo para la vigencia anual de las placas (Código Financiero, art. 77 fracc. II)",
-    "montoAutosParticulares": 990,
-    "montoCargaComercialParticular": 2488,
-    "montoMotos": 731,
-    "montoAutoAntiguo": 4795,
-    "montoEcologica": 1194,
-    "plazo": "Mismos plazos que la tenencia (tres primeros meses del año); con subsidio, hasta el 6 de abril de 2026.",
-    "otrosDerechos2026": {
-      "expedicionInicialPlacasParticular": 1194,
-      "renovacionPlacasParticular": 1161,
-      "cambioDePropietario": 679,
-      "permisoSinPlacas30Dias": 362,
-      "vigenciaPlacas": "Cinco años desde su expedición"
+    {
+      "nombre": "Acuerdo de subsidio a la tenencia 2026 (Gaceta del Gobierno 19/12/2025)",
+      "url": "https://legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/gct/2025/diciembre/dic192/dic192c.pdf",
+      "tipo": "oficial"
     },
-    "fuente": "Código Financiero del Estado de México y Municipios (última reforma POGG 01/10/2026), artículo 77 fracciones I, II, IV, V y XI",
-    "url": "https://legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/cod/vig/codvig007.pdf",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "ligas": {
-    "informacion": "https://finanzas.edomex.gob.mx/tenencia",
-    "formatoDePago": "https://tenencia.edomex.gob.mx",
-    "portalContribuyente": "https://pagosytramites.edomex.gob.mx",
-    "notas": "Ruta oficial: Portal de Servicios al Contribuyente > Control Vehicular > Tenencia > Individual, con la placa. Todas respondieron 200 el 20/10/2026.",
-    "fuente": "Secretaría de Finanzas Edomex, página 'Tenencia y Refrendo 2026'",
-    "url": "https://finanzas.edomex.gob.mx/tenencia",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "relacionConVerificacion": {
-    "valor": "Para sacar cita de verificación el sistema revisa que la tenencia esté pagada y las placas vigentes.",
-    "fuente": "PVVO Edomex 2o semestre 2026 (Gaceta del Gobierno 30/06/2026), numeral 1.2",
-    "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/jun301c.pdf",
-    "fechaVerificacion": "2026-10-20"
-  },
-
+    {
+      "nombre": "Código Financiero del Estado de México y Municipios",
+      "url": "https://legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/cod/vig/codvig007.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "PVVO Edomex 2o semestre 2026 (Gaceta del Gobierno 30/06/2026)",
+      "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/jun301c.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-20",
   "pendientes": [
     "Confirmar con la Secretaría de Finanzas Edomex si el subsidio hasta el 31/12/2026 aplica a cualquier auto nuevo de agencia dado de alta en 15 días, o solo a motos e importados en definitiva (artículo Segundo fracc. V del acuerdo).",
     "Diferencia entre el acuerdo (placas 2019 y anteriores sin renovar) y la página de Finanzas (placas 2020 y anteriores sin renovar en 2025) sobre quién no tiene subsidio.",

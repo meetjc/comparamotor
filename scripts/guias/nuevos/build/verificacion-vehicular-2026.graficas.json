@@ -25,8 +25,18 @@
     "color": "#1baf7a"
    },
    {
+    "label": "Estado de México",
+    "valor": 610.01,
+    "color": "#1baf7a"
+   },
+   {
     "label": "Puebla",
     "valor": 628,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Ciudad de México",
+    "valor": 765.45,
     "color": "#1baf7a"
    }
   ],

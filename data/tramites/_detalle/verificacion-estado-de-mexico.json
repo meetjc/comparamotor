@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "entidad": "Estado de México",
+    "programa": "Programa de Verificación Vehicular Obligatoria para el segundo semestre del año 2026",
+    "publicacion": "Periódico Oficial 'Gaceta del Gobierno', martes 30 de junio de 2026, Sección Primera, Tomo CCXXI No. 116",
+    "autoridad": "Secretaría del Medio Ambiente y Desarrollo Sostenible (SMADS), Dirección General de Control de Emisiones Atmosféricas",
+    "vigencia": {
+      "inicio": "2026-07-01",
+      "fin": "2026-12-31"
+    },
+    "fuente": "Acuerdo por el que se publica el PVVO para el segundo semestre del año 2026 (Gaceta del Gobierno 30/06/2026), transitorio Segundo y numeral de vigencia",
+    "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/jun301c.pdf",
+    "urlPagina": "https://sma.edomex.gob.mx/verificacion-vehicular",
+    "fechaVerificacion": "2026-10-20",
+    "zonaHoraria": "America/Mexico_City",
+    "notaAcceso": "sma.edomex.gob.mx tiene dos IP en su DNS y una no responde (el saludo TLS se queda colgado). Si falla, reintentar; desde esta Mac respondió 201.131.40.32."
+  },
+  "calendario": {
+    "primerSemestre": [
+      {
+        "engomado": "amarillo",
+        "terminaciones": [
+          5,
+          6
+        ],
+        "meses": [
+          "enero",
+          "febrero"
+        ]
+      },
+      {
+        "engomado": "rosa",
+        "terminaciones": [
+          7,
+          8
+        ],
+        "meses": [
+          "febrero",
+          "marzo"
+        ]
+      },
+      {
+        "engomado": "rojo",
+        "terminaciones": [
+          3,
+          4
+        ],
+        "meses": [
+          "marzo",
+          "abril"
+        ]
+      },
+      {
+        "engomado": "verde",
+        "terminaciones": [
+          1,
+          2
+        ],
+        "meses": [
+          "abril",
+          "mayo"
+        ]
+      },
+      {
+        "engomado": "azul",
+        "terminaciones": [
+          9,
+          0
+        ],
+        "meses": [
+          "mayo",
+          "junio"
+        ]
+      }
+    ],
+    "segundoSemestre2026": [
+      {
+        "engomado": "amarillo",
+        "terminaciones": [
+          5,
+          6
+        ],
+        "meses": [
+          "julio",
+          "agosto"
+        ],
+        "inicio": "2026-07-01",
+        "fechaLimite": "2026-08-31"
+      },
+      {
+        "engomado": "rosa",
+        "terminaciones": [
+          7,
+          8
+        ],
+        "meses": [
+          "agosto",
+          "septiembre"
+        ],
+        "inicio": "2026-08-01",
+        "fechaLimite": "2026-09-30"
+      },
+      {
+        "engomado": "rojo",
+        "terminaciones": [
+          3,
+          4
+        ],
+        "meses": [
+          "septiembre",
+          "octubre"
+        ],
+        "inicio": "2026-09-01",
+        "fechaLimite": "2026-10-31"
+      },
+      {
+        "engomado": "verde",
+        "terminaciones": [
+          1,
+          2
+        ],
+        "meses": [
+          "octubre",
+          "noviembre"
+        ],
+        "inicio": "2026-10-01",
+        "fechaLimite": "2026-11-30"
+      },
+      {
+        "engomado": "azul",
+        "terminaciones": [
+          9,
+          0
+        ],
+        "meses": [
+          "noviembre",
+          "diciembre"
+        ],
+        "inicio": "2026-11-01",
+        "fechaLimite": "2026-12-31"
+      }
+    ],
+    "holograma00": "Verifica conforme a la vigencia de su certificado.",
+    "fuente": "PVVO Edomex 2o semestre 2026 (Gaceta del Gobierno 30/06/2026), numeral 1.2.1, Tabla 1; fechas límite según imagen oficial 'Calendario (segundo semestre de 2026)' de SMADS",
+    "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/jun301c.pdf",
+    "urlImagen": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/slider-7.jpg",
+    "fechaVerificacion": "2026-10-20"
+  },
+  "costo": {
+    "tarifasUMA": [
+      {
+        "constancia": "Doble Cero 00",
+        "vecesUMA": 10.2,
+        "pesosCalculado": 1196.56
+      },
+      {
+        "constancia": "Cero 0",
+        "vecesUMA": 5.2,
+        "pesosCalculado": 610.01
+      },
+      {
+        "constancia": "Uno 1 y Dos 2",
+        "vecesUMA": 4.0,
+        "pesosCalculado": 469.24
+      }
+    ],
+    "valorUMA2026": 117.31,
+    "incluyeIVA": null,
+    "nota": "Los pesos son cálculo propio (veces UMA x 117.31, UMA diaria 2026 de INEGI). La tabla oficial no dice si se suma IVA.",
+    "exentoEdomex": "Constancia 'E' (Exento) gratis para eléctricos BEV (permanente) e híbridos HEV, PHEV o REEV (6 años) emplacados en Edomex que estén en el Registro Técnico Vehicular. Los MHEV no son exentos.",
+    "exentoOtrasEntidades": "Híbridos y eléctricos de otras entidades (excepto CDMX) pueden pedir la constancia E en los módulos de Tlalnepantla o Toluca por 630 pesos, vigencia de dos años.",
+    "fuente": "PVVO Edomex 2o semestre 2026, numeral 1.2.2 Tabla 2, numeral 2.6.3 y numeral 3.2 Tabla 10; INEGI, valor de la UMA 2026",
+    "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/jun301c.pdf",
+    "urlUMA": "https://www.inegi.org.mx/temas/uma/",
+    "fechaVerificacion": "2026-10-20"
+  },
+  "multaExtemporanea": {
+    "base": "Código para la Biodiversidad del Estado de México, artículo 2.265 fracción I (reformado por el Decreto 31, vigente desde el 01/01/2025)",
+    "vecesUMA": {
+      "minimo": 30,
+      "maximo": 35
+    },
+    "pesosCalculado": {
+      "minimo": 3519.3,
+      "maximo": 4105.85
+    },
+    "textoLey": "Multa de treinta a treinta y cinco veces el valor diario de la UMA vigente al momento de cometer la infracción, a quien no verifique dentro del periodo determinado o no porte el holograma correspondiente.",
+    "seAplicaA": [
+      "Quien no obtuvo constancia aprobatoria en su periodo",
+      "Quien hizo alta, cambio, reemplacamiento o renovación de placas y dejó pasar más de 30 días naturales desde la tarjeta de circulación"
+    ],
+    "despuesDePagar": "15 días naturales desde el pago para aprobar la verificación; puede circular solo para ir al verificentro el día de su cita (salvo contingencia) y debe respetar el Hoy No Circula.",
+    "ligaPago": "https://pagosytramites.edomex.gob.mx/recaudacion/index.jsp?opcion=61",
+    "ligaConsultaPago": "https://pagosytramites.edomex.gob.mx/controlv/consultas/ConsultaDatos.jsp",
+    "noAplicaA": "Vehículos HEV, PHEV, REEV y eléctricos.",
+    "fuente": "Código para la Biodiversidad del Estado de México (última reforma POGG 16/06/2026), art. 2.265 fracc. I; PVVO Edomex 2o semestre 2026, numerales 2.10.1 a 2.10.3",
+    "url": "https://legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/cod/vig/codvig009.pdf",
+    "urlPrograma": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/jun301c.pdf",
+    "fechaVerificacion": "2026-10-20"
+  },
+  "cita": {
+    "urlCita": "https://citaverificacion.edomex.gob.mx/RegistroCitas/",
+    "gratuita": true,
+    "detalle": "La cita es obligatoria y gratuita; el sistema revisa con la Secretaría de Finanzas que el vehículo esté al corriente (tenencia pagada, placas vigentes, sin multas de tránsito). Los pagos tardan de 1 a 3 días en reflejarse.",
+    "fuente": "PVVO Edomex 2o semestre 2026, numeral 1.2",
+    "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/jun301c.pdf",
+    "fechaVerificacion": "2026-10-20"
+  },
+  "autosNuevos": {
+    "regla": "Tras alta, cambio, reemplacamiento o renovación de placas en Edomex, hay 30 días naturales desde la expedición de la tarjeta de circulación para verificar sin multa.",
+    "fuente": "PVVO Edomex 2o semestre 2026, numerales 2.2.1 y 2.10.1.2",
+    "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/jun301c.pdf",
+    "fechaVerificacion": "2026-10-20"
+  },
+  "paseTuristico": {
+    "regla": "Se tramita en citaverificacion.edomex.gob.mx (ícono Pase Turístico) o en el portal de la CDMX; solo vehículos particulares a gasolina o gas; una vez por semestre por 14 días o dos veces por 7 días. No vale en días de contingencia en la ZMVM. No lo pueden generar vehículos emplacados en CDMX, Edomex, Hidalgo, Morelos, Puebla, Querétaro y Tlaxcala.",
+    "fuente": "PVVO Edomex 2o semestre 2026, numeral 2.7",
+    "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/jun301c.pdf",
+    "fechaVerificacion": "2026-10-20"
+  },
+  "reconocimientoHologramas": {
+    "regla": "Edomex reconoce constancias de los estados de la CAMe (CDMX, Hidalgo, Morelos, Puebla, Querétaro y Tlaxcala) y de entidades con convenio vigente.",
+    "fuente": "PVVO Edomex 2o semestre 2026, numeral 2.8",
+    "url": "https://sma.edomex.gob.mx/sites/sma.edomex.gob.mx/files/images/TramitesServicios/VerificacioVehicular/SegundoSEmes2026/jun301c.pdf",
+    "fechaVerificacion": "2026-10-20"
+  },
+  "pendientes": [
+    "Si la tarifa de verificación en Edomex lleva IVA adicional (la Tabla 2 solo dice 'veces UMA').",
+    "Monto exacto que cobra la Secretaría de Finanzas por la multa extemporánea dentro del rango legal de 30 a 35 UMA.",
+    "Si habrá prórroga para la terminación 9 y 0 del 2o semestre 2026 (en el semestre anterior hubo una, según publicaciones de SMADS en redes; no verificada para este semestre)."
+  ]
+}

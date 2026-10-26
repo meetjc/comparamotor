@@ -1,10 +1,12 @@
 Escribe en español de México, para alguien que está por comprar o mantener un auto. Frases cortas y claras. Sin clichés de IA ("en la era digital", "sin lugar a dudas", "es crucial"). Sin signos de exclamación. NO inventes ninguna cifra: usa EXCLUSIVAMENTE los números que aparecen en FACTS (precios, montos, porcentajes). Si un dato no está en FACTS, no lo pongas. Devuelve SOLO HTML del cuerpo (sin <html> ni <head>): empieza con <p class="answer"> que responda la pregunta del título en 2-3 líneas. Luego H2 con preguntas reales de búsqueda, párrafos de 2-4 oraciones, al menos 2 <table class="tbl"> con datos de FACTS, listas cuando ayuden. Incluye EXACTAMENTE los marcadores de figura indicados, cada uno en su propia línea, tal cual. Cierra con <h2>Preguntas frecuentes</h2> y un <div class="faq"> con 4 <details><summary>…</summary><p>…</p></details>. Pon los enlaces internos indicados con <a href="…">. Mínimo 1700 palabras. No uses la palabra "portal" para la cuenta del cliente.
-Título: "Verificación vehicular 2026: en qué estados es obligatoria y cuánto cuesta". Palabras clave: "verificacion vehicular 2026", "verificacion vehicular cdmx". Explica qué es, el calendario por último dígito de placa, el costo por holograma y qué pasa si no verificas. Aclara que no en todos los estados es obligatoria. Invita a ver el detalle de cada estado en <a href="/verificacion-vehicular/">verificación por estado</a> y enlaza a <a href="/tenencia/">tenencia por estado</a> y a <a href="/hoy-no-circula/">Hoy No Circula</a>. Tabla 1: estados donde es obligatoria y su costo. Tabla 2: estados donde no es obligatoria. Marcadores: <!--FIG:grafica:verif-costo--> <!--FIG:ia:hibrida-estudio.jpg-->
+Título: "Verificación vehicular 2026: en qué estados es obligatoria y cuánto cuesta". Palabras clave: "verificacion vehicular 2026", "verificacion vehicular cdmx". Explica qué es, el calendario por último dígito de placa, el costo por holograma y qué pasa si no verificas. Aclara que no en todos los estados es obligatoria. Invita a ver el detalle de cada estado en <a href="/verificacion-vehicular/">verificación por estado</a> y enlaza a <a href="/tenencia/">tenencia por estado</a> y a <a href="/hoy-no-circula/">Hoy No Circula</a>. Tabla 1: estados donde es obligatoria y su costo. Tabla 2: estados donde no es obligatoria. Marcadores: <!--FIG:grafica:verif-costo--> <!--FIG:ia:hibrida-estudio.jpg-->Menciona de forma destacada a la Ciudad de México y al Estado de México, que son los estados con más búsquedas, con sus enlaces /tenencia/cdmx/ y /tenencia/estado-de-mexico/ (o /verificacion-vehicular/cdmx/ y /verificacion-vehicular/estado-de-mexico/).
+
 === FACTS (únicos números permitidos) ===
 Hoy es 24 de octubre de 2026.
-ComparaMotor lleva 32 estados con verificación vehicular verificados. En 12 es obligatoria para autos particulares y en 18 no.
+ComparaMotor lleva 32 estados con verificación vehicular verificados. En 14 es obligatoria para autos particulares y en 18 no.
 == Estados donde la verificación es obligatoria ==
 Querétaro: costo por confirmar
+Estado de México: $610
 Veracruz: costo por confirmar
 Tlaxcala: costo por confirmar
 Chihuahua: costo por confirmar
@@ -16,6 +18,7 @@ Guanajuato: $375
 Puebla: $628
 Coahuila: costo por confirmar
 Oaxaca: costo por confirmar
+Ciudad de México: $765
 == Estados donde NO es obligatoria para autos particulares ==
 Sonora
 Zacatecas

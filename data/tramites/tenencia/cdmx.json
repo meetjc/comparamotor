@@ -1,77 +1,52 @@
 {
-  "meta": {
-    "entidad": "Ciudad de México",
-    "autoridad": "Secretaría de Administración y Finanzas (SAF), Tesorería de la Ciudad de México",
-    "ejercicio": 2026,
-    "fechaVerificacion": "2026-10-20",
-    "zonaHoraria": "America/Mexico_City"
+  "estado": "Ciudad de México",
+  "slug": "cdmx",
+  "cobraTenencia2026": true,
+  "tenencia": "La CDMX cobra el Impuesto sobre Tenencia o Uso de Vehículos, pero da un subsidio del 100% a quien cumple las condiciones y paga el refrendo a tiempo. En 2026 el subsidio aplicó a autos con valor de hasta $638,000 con IVA y motos de hasta $250,000 con IVA; es el primer aumento del tope en 13 años (antes eran $250,000). No se puede verificar en la CDMX con adeudos de tenencia de 2005 en adelante.",
+  "refrendo": {
+    "nombreLocal": "Derechos de control vehicular por refrendo",
+    "monto2026": 760,
+    "moneda": "MXN",
+    "detalle": "Derechos de control vehicular por refrendo (artículo 219 del Código Fiscal de la Ciudad de México para 2026). Fuente: SAF CDMX, Boletín 001/2026 (01/01/2026)."
   },
-
-  "seCobraTenencia": {
-    "valor": true,
-    "detalle": "La CDMX cobra el Impuesto sobre Tenencia o Uso de Vehículos, pero da un subsidio del 100% a quien cumple las condiciones y paga el refrendo a tiempo.",
-    "fuente": "SAF CDMX, Boletín 001/2026 'Inician descuentos en pago de predial, agua y tenencia' (01/01/2026)",
-    "url": "https://dgtc.finanzas.cdmx.gob.mx/comunicacion/noticias/inician-descuentos-en-pago-de-predial-agua-y-tenencia-en-la-cdmx",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "subsidio2026": {
-    "porcentaje": 100,
-    "topeValorAutos": 638000,
-    "topeIncluyeIVA": true,
-    "topeValorMotos": 250000,
-    "topeMotosIncluyeIVA": true,
-    "cambioVsAnterior": "Primer aumento en 13 años: el tope pasó de 250 mil a 638 mil pesos con IVA para autos particulares.",
-    "requisitos": [
-      "Ser persona física o persona moral sin fines de lucro",
-      "Valor del vehículo (con IVA) no mayor a 638,000 pesos; motocicletas no mayor a 250,000 pesos",
-      "No tener adeudos de tenencia de años anteriores",
-      "Tener tarjeta de circulación vigente o pagar su renovación",
-      "Pagar el refrendo 2026 dentro del plazo"
-    ],
-    "plazoOriginal": { "inicio": "2026-01-01", "fin": "2026-03-31" },
-    "ampliacion": {
-      "valor": "La SAF reiteró la extensión del Programa de Regularización con Beneficios Fiscales 2026 'a junio', que incluye el 100% de tenencia para vehículos de hasta 638 mil pesos con IVA.",
-      "fechaFin": null,
-      "fuente": "SAF CDMX, Boletín 009/2026 (19/05/2026)",
-      "url": "https://dgtc.finanzas.cdmx.gob.mx/comunicacion/noticias/mas-de-3-2-millones-de-contribuyentes-favorecidos-en-la-campana-de-beneficios-fiscales-2026",
-      "fechaVerificacion": "2026-10-20"
+  "fechaLimite": "31 de marzo de 2026 para el subsidio. La SAF anunció una ampliación del programa de beneficios fiscales «a junio» sin dar el día exacto; al 20 de octubre de 2026 no se encontró una ampliación posterior.",
+  "descuentos": [
+    "Subsidio del 100% de la tenencia 2026 para autos de hasta $638,000 con IVA (motos hasta $250,000 con IVA), para personas físicas o morales sin fines de lucro.",
+    "Requisito: Ser persona física o persona moral sin fines de lucro.",
+    "Requisito: Valor del vehículo (con IVA) no mayor a 638,000 pesos; motocicletas no mayor a 250,000 pesos.",
+    "Requisito: No tener adeudos de tenencia de años anteriores.",
+    "Requisito: Tener tarjeta de circulación vigente o pagar su renovación.",
+    "Requisito: Pagar el refrendo 2026 dentro del plazo."
+  ],
+  "portalPago": "https://data.finanzas.cdmx.gob.mx/Front_ten/",
+  "fuentes": [
+    {
+      "nombre": "SAF CDMX, Boletín 001/2026: inician descuentos en predial, agua y tenencia (01/01/2026)",
+      "url": "https://dgtc.finanzas.cdmx.gob.mx/comunicacion/noticias/inician-descuentos-en-pago-de-predial-agua-y-tenencia-en-la-cdmx",
+      "tipo": "oficial"
     },
-    "estadoAl20deOctubre2026": "Sin ampliación posterior encontrada: los boletines 010/2026 (02/06/2026) y 011/2026 (01/10/2026) de la SAF no hablan de tenencia. Para efectos del sitio, la ventana del subsidio 2026 se considera cerrada salvo nueva publicación.",
-    "fuente": "SAF CDMX, Boletín 001/2026 y página 'Programas' (sección Tenencia: 'tienes hasta el 31 de marzo de 2026 para aprovechar este beneficio')",
-    "url": "https://dgtc.finanzas.cdmx.gob.mx/comunicacion/noticias/inician-descuentos-en-pago-de-predial-agua-y-tenencia-en-la-cdmx",
-    "urlApoyo": "https://www.finanzas.cdmx.gob.mx/programas",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "refrendo2026": {
-    "concepto": "Derechos de control vehicular por refrendo (artículo 219 del Código Fiscal de la Ciudad de México para 2026)",
-    "montoAutos": 760,
-    "montoMotos": null,
-    "fechaLimiteConSubsidio": "2026-03-31",
-    "fuente": "SAF CDMX, Boletín 001/2026 (01/01/2026)",
-    "url": "https://dgtc.finanzas.cdmx.gob.mx/comunicacion/noticias/inician-descuentos-en-pago-de-predial-agua-y-tenencia-en-la-cdmx",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "ligas": {
-    "pago": "https://data.finanzas.cdmx.gob.mx/Front_ten/",
-    "consultaSubsidio": "https://data.finanzas.cdmx.gob.mx/subTenencia",
-    "consultaAdeudos": "https://data.finanzas.cdmx.gob.mx/consulta_adeudos",
-    "programas": "https://www.finanzas.cdmx.gob.mx/programas",
-    "notas": "Front_ten pide placa, ejercicio y captcha; subTenencia muestra 'CONSULTA PARA OTORGAMIENTO DE SUBSIDIO 2026'. Ambas respondieron 200 el 20/10/2026.",
-    "fuente": "SAF CDMX, página 'Programas' (botón de pago en línea) y portal data.finanzas.cdmx.gob.mx",
-    "url": "https://www.finanzas.cdmx.gob.mx/programas",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "relacionConVerificacion": {
-    "valor": "No se puede verificar en la CDMX con adeudos de tenencia de 2005 en adelante.",
-    "fuente": "PVVO CDMX 2o semestre 2026 (GOCDMX 01/07/2026), numeral 9, inciso d)",
-    "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
-    "fechaVerificacion": "2026-10-20"
-  },
-
+    {
+      "nombre": "SAF CDMX, Boletín 009/2026 (19/05/2026)",
+      "url": "https://dgtc.finanzas.cdmx.gob.mx/comunicacion/noticias/mas-de-3-2-millones-de-contribuyentes-favorecidos-en-la-campana-de-beneficios-fiscales-2026",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SAF CDMX: Programas (tenencia)",
+      "url": "https://www.finanzas.cdmx.gob.mx/programas",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "SAF CDMX: consulta para otorgamiento de subsidio 2026",
+      "url": "https://data.finanzas.cdmx.gob.mx/subTenencia",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "PVVO CDMX 2o semestre 2026 (Gaceta Oficial 01/07/2026)",
+      "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-20",
   "pendientes": [
     "Texto de la Resolución de carácter general del subsidio 2026 en la Gaceta Oficial de la CDMX (fecha y número); solo se verificaron boletines y la página de la SAF.",
     "Regla para autos nuevos comprados después del 31 de marzo (o de junio) de 2026: si tienen subsidio y en qué plazo deben pagar. No se encontró en fuente oficial.",

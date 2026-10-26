@@ -25,6 +25,11 @@
     "color": "#2a78d6"
    },
    {
+    "label": "Ciudad de México",
+    "valor": 760,
+    "color": "#2a78d6"
+   },
+   {
     "label": "Quintana Roo",
     "valor": 785.98,
     "color": "#2a78d6"
@@ -37,11 +42,6 @@
    {
     "label": "Guanajuato",
     "valor": 940,
-    "color": "#2a78d6"
-   },
-   {
-    "label": "Aguascalientes",
-    "valor": 960,
     "color": "#2a78d6"
    }
   ],

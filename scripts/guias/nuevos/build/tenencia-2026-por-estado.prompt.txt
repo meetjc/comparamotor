@@ -1,8 +1,9 @@
 Escribe en español de México, para alguien que está por comprar o mantener un auto. Frases cortas y claras. Sin clichés de IA ("en la era digital", "sin lugar a dudas", "es crucial"). Sin signos de exclamación. NO inventes ninguna cifra: usa EXCLUSIVAMENTE los números que aparecen en FACTS (precios, montos, porcentajes). Si un dato no está en FACTS, no lo pongas. Devuelve SOLO HTML del cuerpo (sin <html> ni <head>): empieza con <p class="answer"> que responda la pregunta del título en 2-3 líneas. Luego H2 con preguntas reales de búsqueda, párrafos de 2-4 oraciones, al menos 2 <table class="tbl"> con datos de FACTS, listas cuando ayuden. Incluye EXACTAMENTE los marcadores de figura indicados, cada uno en su propia línea, tal cual. Cierra con <h2>Preguntas frecuentes</h2> y un <div class="faq"> con 4 <details><summary>…</summary><p>…</p></details>. Pon los enlaces internos indicados con <a href="…">. Mínimo 1700 palabras. No uses la palabra "portal" para la cuenta del cliente.
-Título: "Tenencia 2026 en México: ¿en qué estados se paga y cuánto?". Palabras clave: "tenencia 2026 cdmx", "tenencia 2026". Explica la diferencia entre tenencia y refrendo, qué estados cobran tenencia y cuáles solo refrendo, y aclara que varios montos son estimados con la ley y la UMA. Invita a ver el detalle y la fecha límite de cada estado en <a href="/tenencia/">tenencia por estado</a>. Enlaza también a <a href="/verificacion-vehicular/">verificación vehicular</a>. Tabla 1: estados que no cobran tenencia y su refrendo. Tabla 2: estados que sí cobran tenencia. Marca los montos estimados con "≈" y una nota. Marcadores: <!--FIG:grafica:refrendo-estado--> <!--FIG:ia:contrato.jpg-->
+Título: "Tenencia 2026 en México: ¿en qué estados se paga y cuánto?". Palabras clave: "tenencia 2026 cdmx", "tenencia 2026". Explica la diferencia entre tenencia y refrendo, qué estados cobran tenencia y cuáles solo refrendo, y aclara que varios montos son estimados con la ley y la UMA. Invita a ver el detalle y la fecha límite de cada estado en <a href="/tenencia/">tenencia por estado</a>. Enlaza también a <a href="/verificacion-vehicular/">verificación vehicular</a>. Tabla 1: estados que no cobran tenencia y su refrendo. Tabla 2: estados que sí cobran tenencia. Marca los montos estimados con "≈" y una nota. Marcadores: <!--FIG:grafica:refrendo-estado--> <!--FIG:ia:contrato.jpg-->Menciona de forma destacada a la Ciudad de México y al Estado de México, que son los estados con más búsquedas, con sus enlaces /tenencia/cdmx/ y /tenencia/estado-de-mexico/ (o /verificacion-vehicular/cdmx/ y /verificacion-vehicular/estado-de-mexico/).
+
 === FACTS (únicos números permitidos) ===
 Hoy es 24 de octubre de 2026.
-ComparaMotor lleva 32 estados con tenencia y refrendo verificados. 16 no cobran tenencia en 2026 y 12 sí.
+ComparaMotor lleva 32 estados con tenencia y refrendo verificados. 16 no cobran tenencia en 2026 y 14 sí.
 == Estados que NO cobran tenencia en 2026 (solo refrendo o control vehicular) ==
 Sonora: refrendo $1,914
 Michoacán: refrendo $1,256
@@ -22,6 +23,7 @@ Yucatán: refrendo $411
 Tamaulipas: refrendo $2,346 (estimado con la ley y la UMA)
 == Estados que SÍ cobran tenencia en 2026 ==
 Querétaro: Querétaro mantiene el Impuesto sobre Tenencia o Uso de Vehículos (Ley de Hacienda del Estado; la Ley de Ingresos 2026 estima $453.4 millones por este concepto).
+Estado de México: El Estado de México cobra el Impuesto sobre Tenencia o Uso de Vehículos dentro de los tres primeros meses del año, con un subsidio de 100% para autos con valor de hasta $550,000 sin IVA (unos $638,000 con IVA, cálculo propio) y placas de 2021 o posteriores, y de 50% con placas de 2020.
 Quintana Roo: Quintana Roo cobra el Impuesto Sobre Uso o Tenencia Vehicular (ISUTV; Ley de Hacienda del Estado, Título II, Capítulo II).
 Veracruz: Veracruz mantiene el Impuesto Estatal sobre Tenencia o Uso de Vehículos (IESTUV), pero en 2026 se subsidia al 100% a quien pague los Derechos de Control Vehicular dentro del periodo del programa.
 Tlaxcala: Tlaxcala conserva el Impuesto Estatal sobre Tenencia o Uso de Vehículos (art.
@@ -32,5 +34,6 @@ Puebla: Puebla mantiene el Impuesto sobre Tenencia o Uso de Vehículos (art.
 Oaxaca: Oaxaca mantiene el Impuesto sobre Tenencia o Uso de Vehículos (la Ley de Ingresos 2026 estima $8.5 millones por este concepto), pero el art.
 Guerrero: Sí.
 Durango: El Impuesto sobre Tenencia o Uso de Vehículos Estatal sigue vigente en la Ley de Hacienda del Estado de Durango (Título Segundo, Capítulo VIII; la Ley de Ingresos 2026 lo estima en $885,752,084 y fija su tarifa en el art.
+Ciudad de México: La CDMX cobra el Impuesto sobre Tenencia o Uso de Vehículos, pero da un subsidio del 100% a quien cumple las condiciones y paga el refrendo a tiempo.
 Colima: Sí existe el Impuesto sobre Tenencia o Uso de Vehículos (Ley de Hacienda del Estado de Colima, Título Primero, Capítulo VIII, arts.
 El refrendo marcado con ≈ es un estimado calculado con la ley estatal y el valor de la UMA 2026 ($117.31 diario), porque el estado no publica una tarifa fija en línea.

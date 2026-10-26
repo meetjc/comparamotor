@@ -1,122 +1,45 @@
 {
-  "meta": {
-    "entidad": "Ciudad de México",
-    "programa": "Programa de Verificación Vehicular Obligatoria para el segundo semestre del año 2026",
-    "publicacion": "Gaceta Oficial de la Ciudad de México No. 1892, 1 de julio de 2026",
-    "vigencia": { "inicio": "2026-07-01", "fin": "2026-12-31" },
-    "fuente": "SEDEMA CDMX, Aviso por el que se da a conocer el PVVO del 2o semestre de 2026 (GOCDMX 01/07/2026), numeral 17",
-    "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
-    "urlPagina": "https://www.sedema.cdmx.gob.mx/programas/programa/verificacion-vehicular",
-    "fechaVerificacion": "2026-10-20",
-    "zonaHoraria": "America/Mexico_City"
-  },
-
-  "calendarioSegundoSemestre2026": {
+  "estado": "Ciudad de México",
+  "slug": "cdmx",
+  "programa": "Programa de Verificación Vehicular Obligatoria para el segundo semestre del año 2026 (SEDEMA, Gaceta Oficial de la CDMX del 1 de julio de 2026).",
+  "obligatoria": true,
+  "calendario": {
     "periodos": [
-      { "engomado": "amarillo", "terminaciones": [5, 6], "meses": ["julio", "agosto"], "inicio": "2026-07-01", "fin": "2026-08-31" },
-      { "engomado": "rosa", "terminaciones": [7, 8], "meses": ["agosto", "septiembre"], "inicio": "2026-08-01", "fin": "2026-09-30" },
-      { "engomado": "rojo", "terminaciones": [3, 4], "meses": ["septiembre", "octubre"], "inicio": "2026-09-01", "fin": "2026-10-31" },
-      { "engomado": "verde", "terminaciones": [1, 2], "meses": ["octubre", "noviembre"], "inicio": "2026-10-01", "fin": "2026-11-30" },
-      { "engomado": "azul", "terminaciones": [9, 0], "meses": ["noviembre", "diciembre"], "inicio": "2026-11-01", "fin": "2026-12-31" }
+      "Engomado amarillo (terminación 5 y 6): julio y agosto",
+      "Engomado rosa (terminación 7 y 8): agosto y septiembre",
+      "Engomado rojo (terminación 3 y 4): septiembre y octubre",
+      "Engomado verde (terminación 1 y 2): octubre y noviembre",
+      "Engomado azul (terminación 9 y 0): noviembre y diciembre"
     ],
-    "plazo": "Dos meses por terminación para hologramas 0, 1 y 2. Las fechas 'inicio' y 'fin' son el primer y último día de los meses que marca la tabla.",
-    "sinDigito": "Placas sin dígito numérico verifican en el periodo de 9 y 0.",
-    "dosSeries": "Placas con dos o más series de números o con letras y símbolos verifican según el último dígito numérico de la placa.",
-    "holograma00": "Los vehículos con holograma 00 vigente no verifican cada semestre; verifican según la vigencia de su holograma.",
-    "fuente": "PVVO CDMX 2o semestre 2026 (GOCDMX 01/07/2026), numeral 5.1.1 Tabla 1, 5.1.3 y 18 fracc. I; imagen oficial del calendario en la página de SEDEMA",
-    "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
-    "urlImagen": "https://www.sedema.cdmx.gob.mx/storage/app/media/DGCA/calendarioverificacion2dosemestre_grande.png",
-    "fechaVerificacion": "2026-10-20",
-    "verificanEsteMes_octubre2026": {
-      "valor": ["rojo (3 y 4), último mes", "verde (1 y 2), primer mes"],
-      "fuente": "Portada de aire.cdmx.gob.mx, recuadro oculto 'Este mes verifican' con imágenes rojo.gif y verde.gif",
-      "url": "https://aire.cdmx.gob.mx/default.php",
-      "fechaVerificacion": "2026-10-20"
-    }
+    "nota": "Dos meses por terminación para hologramas 0, 1 y 2. Las fechas 'inicio' y 'fin' son el primer y último día de los meses que marca la tabla. Placas sin dígito numérico verifican en el periodo de 9 y 0. Los vehículos con holograma 00 vigente no verifican cada semestre; verifican según la vigencia de su holograma."
   },
-
-  "ampliacion15Dias": {
-    "aplicaSoloSi": [
-      "Obtuvo un rechazo en los últimos 7 días naturales de su periodo, en el mismo verificentro",
-      "El portal de adeudos no reflejó a tiempo un pago de infracciones o sanciones hecho en los últimos 7 días del periodo",
-      "El portal de adeudos mostró sanciones cívicas (fotocívicas) en los últimos 7 días del periodo"
-    ],
-    "noEsProrrogaGeneral": true,
-    "fechasLimite": [
-      { "engomado": "amarillo", "terminaciones": [5, 6], "fechaLimite": "2026-09-15", "ultimaSemanaDelPeriodo": "2026-08-25 a 2026-08-31" },
-      { "engomado": "rosa", "terminaciones": [7, 8], "fechaLimite": "2026-10-15", "ultimaSemanaDelPeriodo": "2026-09-24 a 2026-09-30" },
-      { "engomado": "rojo", "terminaciones": [3, 4], "fechaLimite": "2026-11-15", "ultimaSemanaDelPeriodo": "2026-10-25 a 2026-10-31" },
-      { "engomado": "verde", "terminaciones": [1, 2], "fechaLimite": "2026-12-15", "ultimaSemanaDelPeriodo": "2026-11-24 a 2026-11-30" },
-      { "engomado": "azul", "terminaciones": [9, 0], "fechaLimite": "2027-01-15", "ultimaSemanaDelPeriodo": "2026-12-25 a 2026-12-31" }
-    ],
-    "fuente": "PVVO CDMX 2o semestre 2026, tabla 'Ampliación del Calendario de Verificación' (también en la página de Verificación Vehicular de SEDEMA)",
-    "url": "https://www.sedema.cdmx.gob.mx/programas/programa/verificacion-vehicular",
-    "fechaVerificacion": "2026-10-20"
+  "costo2026": {
+    "gasolinaOGas": 765.45,
+    "moneda": "MXN",
+    "estimado": true,
+    "detalle": "5.625 veces la UMA más IVA, para cualquier constancia (holograma 0, 1, 2, rechazo o 00): unos $765 con la UMA 2026 de $117.31 (cálculo propio; SEDEMA no publica el monto redondeado). Si el intento anterior fue rechazo, el siguiente en el mismo verificentro es gratis. El holograma «Exento» para autos matriculados en la CDMX es gratuito."
   },
-
-  "costo": {
-    "formula": "5.625 veces la UMA vigente más IVA, para cualquier constancia (holograma 0, 1, 2, rechazo, evaluación técnica) y para el incentivo 00",
-    "vecesUMA": 5.625,
-    "masIVA": true,
-    "valorUMA2026": 117.31,
-    "costoCalculado": {
-      "sinIVA": 659.87,
-      "conIVA": 765.45,
-      "nota": "Cálculo propio con la UMA diaria 2026 de INEGI (117.31 x 5.625 = 659.87; + 16% IVA = 765.45). No se encontró en la fuente oficial el monto en pesos redondeado: ver pendientes."
+  "sancion": "Multa por verificación extemporánea de 20 veces la UMA (unos $2,346.20, cálculo propio). Pagada la multa hay 30 días naturales para verificar. No pagan multa los autos candidatos al 00 en sus primeros dos años desde la primera venta.",
+  "autosNuevos": "180 días naturales desde la expedición de la tarjeta de circulación (alta o cambio de placa). Exentos los primeros 30 días; después, como holograma 2 hasta verificar.",
+  "portalCita": "https://www.sedema.cdmx.gob.mx/programas/programa/verificacion-vehicular",
+  "fuentes": [
+    {
+      "nombre": "SEDEMA CDMX: PVVO 2o semestre 2026 (Gaceta Oficial 01/07/2026)",
+      "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
+      "tipo": "oficial"
     },
-    "reintentoGratis": "El 2o, 4o, 6o... intento es gratis si el anterior fue rechazo y se hace en el mismo verificentro.",
-    "exentoCDMX": "La constancia 'Exento' para vehículos matriculados en la CDMX es gratuita.",
-    "exentoForaneo": "Para vehículos de fuera de la CDMX (excepto Estado de México) que la pidan voluntariamente: 4.8 UMA más IVA, vigencia 2 años (cálculo propio: 653.18 pesos con IVA).",
-    "fuente": "PVVO CDMX 2o semestre 2026, numeral 7.1 y párrafos siguientes; INEGI, valor de la UMA 2026",
-    "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
-    "urlUMA": "https://www.inegi.org.mx/temas/uma/",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "multaExtemporanea": {
-    "vecesUMA": 20,
-    "valorUMA2026": 117.31,
-    "montoCalculado": 2346.20,
-    "notaMonto": "Cálculo propio: 20 x 117.31.",
-    "vigenciaDelPago": "30 días naturales desde el día siguiente al pago para verificar y aprobar.",
-    "circulacion": "El pago no exime del Hoy No Circula (se circula como holograma 2), salvo el traslado al verificentro con cita el día de la cita.",
-    "excepcion": "No pagan multa los vehículos candidatos al 00 en sus primeros dos años desde la primera venta.",
-    "ligaLineaDeCaptura": "https://data.finanzas.cdmx.gob.mx/formato_lc/ambiente/50",
-    "fuente": "PVVO CDMX 2o semestre 2026, numeral 10.1.1 y siguientes",
-    "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "cita": {
-    "url": "https://citasverificentros.cdmx.gob.mx",
-    "nombre": "Sistema Verificitas CDMX (o por teléfono con el verificentro)",
-    "obligatoria": "Se pide cita previa; sin cita el verificentro atiende solo si hay espacio.",
-    "horarioVerificentros": "Lunes a viernes de 8:00 a 19:00 y sábados de 8:00 a 15:00 (puede cambiar por aviso).",
-    "requisitoAdeudos": "Sin adeudos de tenencia (2005 en adelante), infracciones de tránsito (desde 2009), sanciones ambientales ni fotocívicas.",
-    "fuente": "PVVO CDMX 2o semestre 2026, numerales 9.1 y 12; página de Verificación Vehicular de SEDEMA",
-    "url": "https://www.sedema.cdmx.gob.mx/programas/programa/verificacion-vehicular",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "autosNuevos": {
-    "plazoParaVerificar": "180 días naturales desde la expedición de la tarjeta de circulación (alta o cambio de placa).",
-    "hoyNoCircula": "Exentos los primeros 30 días; después, como holograma 2 hasta verificar.",
-    "fuente": "PVVO CDMX 2o semestre 2026, numerales 5.1.2, 14.2 fracc. VII y 18",
-    "url": "https://proyectos.sedema.cdmx.gob.mx/datos/storage/app/media/gacetas/GOCDMX_26-07-01_DGAF.pdf",
-    "fechaVerificacion": "2026-10-20"
-  },
-
-  "hologramas": {
-    "Exento": "Eléctricos y celda de combustible (permanente); PHEV, REEV y HEV en la lista de SEDEMA (6 años, una renovación si están matriculados en CDMX; 2 años para otras entidades). Gratis para matriculados en CDMX.",
-    "00": "Vehículos nuevos en la lista de SEDEMA que cumplen estándares de emisiones altos (Tier 3 Bin 160, Euro 6, o Tier 2 Bin 5/Euro 5 con 16 km/l o más). Hasta tres ocasiones según el caso.",
-    "0": "Gasolina, MHEV, gas natural o LP, modelo 2006 y posteriores que aprueben la prueba SDB (OBD); diésel 2012 y posteriores con opacidad máxima de 1.0 m-1.",
-    "1": "Gasolina modelo 1994 a 2005 dentro de límites de emisión; diésel hasta 1.2 m-1.",
-    "2": "Modelo 1993 y anteriores dentro de límites; diésel según tabla de opacidad.",
-    "fuente": "PVVO CDMX 2o semestre 2026, numeral 8 (constancias); página de Verificación Vehicular de SEDEMA",
-    "url": "https://www.sedema.cdmx.gob.mx/programas/programa/verificacion-vehicular",
-    "fechaVerificacion": "2026-10-20"
-  },
-
+    {
+      "nombre": "SEDEMA CDMX: Verificación vehicular",
+      "url": "https://www.sedema.cdmx.gob.mx/programas/programa/verificacion-vehicular",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "INEGI: valor de la UMA 2026",
+      "url": "https://www.inegi.org.mx/temas/uma/",
+      "tipo": "oficial"
+    }
+  ],
+  "fechaVerificacion": "2026-10-20",
   "pendientes": [
     "Monto oficial en pesos de la verificación 2026 (SEDEMA dice que las tarifas se actualizan con la UMA 'y el aviso o circular que emita la Secretaría'; no se encontró esa circular). El 765.45 es cálculo propio.",
     "Montos en pesos de multas: cálculo propio sobre UMA 2026; confirmar redondeo en la línea de captura de la SAF."

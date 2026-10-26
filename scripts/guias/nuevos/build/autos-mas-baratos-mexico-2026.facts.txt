@@ -13,4 +13,4 @@ Volkswagen Polo: hatchback gasolina, desde $339,990, enlace /autos/volkswagen/po
 Suzuki Swift: hatchback híbrido, desde $343,990, enlace /autos/suzuki/swift/
 Chevrolet Onix: sedán gasolina, desde $353,100, enlace /autos/chevrolet/onix/
 Nissan Versa: sedán gasolina, desde $374,900, enlace /autos/nissan/versa/
-El precio de lista no incluye enganche ni financiamiento; muchas marcas ofrecen precios de oferta que exigen crédito con su financiera.Ejemplo ilustrativo de enganche: para un auto hipotético de $300,000, un enganche de 10% a 20% equivale a $30,000 o $60,000.
+El precio de lista no incluye enganche ni financiamiento; muchas marcas ofrecen precios de oferta que exigen crédito con su financiera.

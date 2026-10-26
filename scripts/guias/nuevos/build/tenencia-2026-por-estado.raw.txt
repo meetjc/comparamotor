@@ -1,231 +1,249 @@
   [2m📋 Loaded env from /Users/jcmoreno/.omniroute/.env[0m
   [2m📋 Loaded env from /Users/jcmoreno/.local/opt/node-v24.21.0-darwin-arm64/lib/node_modules/omniroute/.env[0m
-<p class="answer">En 2026, el pago de la tenencia depende del estado donde registraste tu auto. Actualmente 16 estados no cobran este impuesto y solo requieren el pago de refrendo, mientras que 12 entidades mantienen el cobro de tenencia basado en el valor del vehículo o bajo esquemas de subsidios específicos.</p>
+<p class="answer">La tenencia 2026 se mantiene como un impuesto vigente en 14 estados del país, mientras que otras 16 entidades solo cobran el refrendo vehicular. En zonas con alta demanda como la Ciudad de México y el Estado de México, existen subsidios del 100% si se cumplen requisitos de valor factura y pago puntual.</p>
 
 <h2>¿Qué es la tenencia 2026 y en qué se diferencia del refrendo?</h2>
 
-Es fundamental entender que la tenencia y el refrendo son conceptos distintos que afectan el presupuesto de mantenimiento de tu auto. La tenencia es un impuesto que se paga por el simple hecho de poseer un vehículo y su costo suele calcularse como un porcentaje del valor comercial de la unidad. Por otro lado, el refrendo es el pago anual por el derecho de usar las placas de circulación y mantener tus datos vigentes en el padrón vehicular estatal.
+El pago de impuestos vehiculares genera dudas frecuentes entre los propietarios de autos en México. Es necesario entender que la tenencia y el refrendo son conceptos distintos con objetivos fiscales diferentes. La tenencia 2026 es un impuesto que se aplica por el simple hecho de poseer un vehículo. El monto de este impuesto suele calcularse con base en el valor del auto, su antigüedad y otros factores técnicos.
 
-En el ciclo fiscal de 2026, muchos estados han optado por eliminar la tenencia para incentivar la regularización de los propietarios. Sin embargo, en estas entidades el pago del refrendo o control vehicular sigue siendo obligatorio para evitar multas o recargos. Si tu estado cobra tenencia, es probable que ofrezca un subsidio del 100% si cumples con el pago del refrendo en los primeros meses del año y no tienes adeudos anteriores.
+El refrendo es el pago anual por el derecho de usar las placas de circulación. Es un pago administrativo para renovar la vigencia de la matrícula en el padrón estatal. En muchos estados, el pago del refrendo es obligatorio para todos, pero realizarlo a tiempo puede eximir al propietario del pago de la tenencia. Si no se cubre este monto, los propietarios enfrentan problemas para realizar otros trámites obligatorios. Uno de los procesos más afectados es la <a href="/verificacion-vehicular/">verificación vehicular</a>, la cual requiere estar al corriente con estos pagos.
 
-Para conocer los detalles específicos de tu localidad, puedes consultar la sección de <a href="/tenencia/">tenencia por estado</a>. Mantener estos pagos al corriente es un requisito indispensable para realizar otros trámites como la <a href="/verificacion-vehicular/">verificación vehicular</a> en las entidades donde este proceso es obligatorio por normas ambientales.
+Para el año 2026, ComparaMotor ha verificado la situación en 32 estados respecto a estos cobros. El análisis muestra que 16 estados han eliminado el cobro de la tenencia, dejando únicamente el refrendo o control vehicular. Por el contrario, 14 estados mantienen el impuesto sobre tenencia o uso de vehículos en su legislación vigente. Es fundamental revisar el detalle de cada entidad y la fecha límite en <a href="/tenencia/">tenencia por estado</a> para evitar recargos.
+
+<h2>Tenencia 2026 CDMX y Estado de México</h2>
+
+La Ciudad de México es uno de los puntos con mayor concentración de vehículos. La **tenencia 2026 cdmx** funciona bajo un esquema de subsidio. El gobierno local cobra el Impuesto sobre Tenencia o Uso de Vehículos, pero otorga un subsidio del 100% a los ciudadanos que cumplen con criterios específicos. Para obtener este beneficio, el propietario debe realizar el pago del refrendo dentro de los plazos establecidos por la ley. Además, no se deben tener adeudos de años anteriores ni infracciones pendientes. Puedes consultar los detalles específicos para la capital en <a href="/tenencia/cdmx/">tenencia cdmx</a> o revisar lo relativo a la <a href="/verificacion-vehicular/cdmx/">verificación vehicular cdmx</a>.
+
+El Estado de México sigue un modelo similar pero con reglas propias sobre el valor del auto. En esta entidad se cobra el Impuesto sobre Tenencia o Uso de Vehículos durante los primeros tres meses del año. Existe un subsidio del 100% para aquellos autos cuyo valor no exceda los $550,000 sin considerar el IVA. Al incluir el impuesto al valor agregado, este límite se sitúa en aproximadamente $638,000 según cálculos basados en la tasa vigente.
+
+Un punto relevante para los mexiquenses es la antigüedad de sus placas. El subsidio del 100% aplica para vehículos con placas expedidas en 2021 o años posteriores. Si las placas son del año 2020, el subsidio disponible se reduce al 50%. Los propietarios en esta situación deben estar atentos a los calendarios de renovación. Más información se encuentra disponible en <a href="/tenencia/estado-de-mexico/">tenencia estado de méxico</a> y para el trámite ambiental en <a href="/verificacion-vehicular/estado-de-mexico/">verificación vehicular estado de méxico</a>.
 
 <!--FIG:grafica:refrendo-estado-->
 
-<h2>Estados que no cobran tenencia 2026</h2>
+<h2>Estados que no cobran tenencia en 2026</h2>
 
-Muchos gobiernos estatales han decidido que para 2026 no se aplique el impuesto sobre tenencia. En estos casos, los conductores solo deben cubrir el costo del refrendo o derecho de control vehicular. Este monto suele ser fijo y no depende del modelo o año del coche, lo que facilita el cálculo de gastos anuales para los propietarios de vehículos nuevos o usados.
+Muchos estados han optado por eliminar la tenencia para incentivar la regularización de los vehículos. En estos lugares, el costo del refrendo o control vehicular es fijo o varía según la Unidad de Medida y Actualización (UMA). Para el año 2026, el valor de la UMA diaria se ha fijado en $117.31. Este valor es la base para calcular muchos de los montos que no tienen una cifra fija publicada en pesos.
 
-ComparaMotor ha verificado la situación en los 32 estados del país. De estos, 16 estados no cobran tenencia en 2026. Es importante notar que aunque no exista el impuesto por posesión, el costo del refrendo varía considerablemente entre una entidad y otra. Por ejemplo, en estados como Chihuahua el costo es más elevado que en Baja California Sur, reflejando las diferentes políticas de recaudación locales.
+Sonora y Chihuahua presentan costos de refrendo que superan los mil quinientos pesos. En Sonora el costo es de $1,914, mientras que Chihuahua tiene uno de los montos más altos con $2,749. Otros estados como Jalisco y San Luis Potosí mantienen cifras redondas de $1,000 y $1,400 respectivamente. En el caso de Nuevo León y Campeche, los montos específicos para 2026 no han sido publicados de forma oficial todavía, por lo que se recomienda consultar directamente en las oficinas locales.
 
-En la siguiente lista se detallan los montos confirmados para el ejercicio fiscal 2026. Algunos valores son estimaciones basadas en la Ley de Ingresos estatal y el valor de la Unidad de Medida y Actualización (UMA), que para este año se sitúa en $117.31 pesos diarios.
+Sinaloa y Tamaulipas utilizan fórmulas basadas en la ley estatal y la UMA para determinar sus cobros. En Sinaloa, el estimado para el refrendo es de $2,065. Para Tamaulipas, el monto estimado alcanza los $2,346. Estos valores marcados con el símbolo ≈ indican que son proyecciones basadas en la legislación y el valor de la UMA de $117.31, ya que las autoridades no siempre publican el costo final en sus sitios de internet.
 
 <table class="tbl">
-    <thead>
-        <tr>
-            <th>Estado</th>
-            <th>Concepto</th>
-            <th>Costo 2026</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Sonora</td>
-            <td>Refrendo</td>
-            <td>$1,914</td>
-        </tr>
-        <tr>
-            <td>Michoacán</td>
-            <td>Refrendo</td>
-            <td>$1,256</td>
-        </tr>
-        <tr>
-            <td>Chihuahua</td>
-            <td>Refrendo</td>
-            <td>$2,749</td>
-        </tr>
-        <tr>
-            <td>Aguascalientes</td>
-            <td>Refrendo</td>
-            <td>$960</td>
-        </tr>
-        <tr>
-            <td>Chiapas</td>
-            <td>Refrendo</td>
-            <td>$1,219</td>
-        </tr>
-        <tr>
-            <td>Baja California Sur</td>
-            <td>Refrendo</td>
-            <td>$556</td>
-        </tr>
-        <tr>
-            <td>Tabasco</td>
-            <td>Refrendo</td>
-            <td>$1,697</td>
-        </tr>
-        <tr>
-            <td>Sinaloa</td>
-            <td>Refrendo</td>
-            <td>$2,065 ≈</td>
-        </tr>
-        <tr>
-            <td>Nayarit</td>
-            <td>Refrendo</td>
-            <td>$833</td>
-        </tr>
-        <tr>
-            <td>Jalisco</td>
-            <td>Refrendo</td>
-            <td>$1,000</td>
-        </tr>
-        <tr>
-            <td>San Luis Potosí</td>
-            <td>Refrendo</td>
-            <td>$1,400</td>
-        </tr>
-        <tr>
-            <td>Coahuila</td>
-            <td>Refrendo</td>
-            <td>$2,441</td>
-        </tr>
-        <tr>
-            <td>Yucatán</td>
-            <td>Refrendo</td>
-            <td>$411</td>
-        </tr>
-        <tr>
-            <td>Tamaulipas</td>
-            <td>Refrendo</td>
-            <td>$2,346 ≈</td>
-        </tr>
-    </tbody>
+<caption>Estados con solo pago de refrendo o control vehicular en 2026</caption>
+<thead>
+<tr>
+<th>Estado</th>
+<th>Costo de Refrendo 2026</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sonora</td>
+<td>$1,914</td>
+</tr>
+<tr>
+<td>Chihuahua</td>
+<td>$2,749</td>
+</tr>
+<tr>
+<td>Sinaloa</td>
+<td>≈ $2,065</td>
+</tr>
+<tr>
+<td>Tamaulipas</td>
+<td>≈ $2,346</td>
+</tr>
+<tr>
+<td>Coahuila</td>
+<td>$2,441</td>
+</tr>
+<tr>
+<td>Tabasco</td>
+<td>$1,697</td>
+</tr>
+<tr>
+<td>San Luis Potosí</td>
+<td>$1,400</td>
+</tr>
+<tr>
+<td>Michoacán</td>
+<td>$1,256</td>
+</tr>
+<tr>
+<td>Chiapas</td>
+<td>$1,219</td>
+</tr>
+<tr>
+<td>Jalisco</td>
+<td>$1,000</td>
+</tr>
+<tr>
+<td>Aguascalientes</td>
+<td>$960</td>
+</tr>
+<tr>
+<td>Nayarit</td>
+<td>$833</td>
+</tr>
+<tr>
+<td>Baja California Sur</td>
+<td>$556</td>
+</tr>
+<tr>
+<td>Yucatán</td>
+<td>$411</td>
+</tr>
+<tr>
+<td>Nuevo León</td>
+<td>No publicado</td>
+</tr>
+<tr>
+<td>Campeche</td>
+<td>No publicado</td>
+</tr>
+</tbody>
 </table>
+<p><small>*Los montos marcados con ≈ son estimados calculados con la UMA de $117.31.</small></p>
 
-<p>Nota: El refrendo marcado con ≈ es un estimado calculado con la ley estatal y el valor de la UMA 2026 ($117.31 diario), porque el estado no publica una tarifa fija en línea.</p>
+<h2>Estados que sí mantienen el cobro de tenencia 2026</h2>
 
-<h2>Detalles del pago en estados sin tenencia</h2>
+Existen 14 entidades federativas que conservan el impuesto sobre tenencia o uso de vehículos en su Ley de Hacienda. Querétaro es un ejemplo donde el impuesto es una fuente importante de ingresos. La Ley de Ingresos 2026 de este estado estima una recaudación de $453.4 millones de pesos por concepto de tenencia. Los propietarios en Querétaro deben revisar si califican para programas de apoyo que suelen lanzarse al inicio del año.
 
-En Sonora, el costo del refrendo para 2026 se ha fijado en $1,914. Los propietarios deben estar atentos a las plataformas digitales de la Secretaría de Hacienda estatal para realizar el pago de forma oportuna. Por su parte, Michoacán presenta un costo de $1,256, manteniéndose en un rango medio en comparación con otros estados de la zona occidente del país.
+En Veracruz, la situación es distinta gracias a los subsidios. Aunque el Impuesto Estatal sobre Tenencia o Uso de Vehículos (IESTUV) sigue vigente, el gobierno ofrece un subsidio del 100%. Este beneficio es para quienes paguen sus Derechos de Control Vehicular dentro del periodo del programa. Si el ciudadano no paga a tiempo el control vehicular, pierde el subsidio y debe pagar la tenencia completa.
 
-Chihuahua destaca por tener uno de los refrendos más altos con $2,749 para este año. En contraste, Yucatán ofrece uno de los costos más bajos del país, solicitando apenas $411 por el derecho de control vehicular. Esta diferencia de precios suele responder a la infraestructura vial y los servicios de registro que cada gobierno ofrece a sus ciudadanos.
-
-En los casos de Campeche y Nuevo León, para la fecha de hoy, 24 de octubre de 2026, el monto del refrendo aún no ha sido publicado oficialmente en sus canales digitales. Se recomienda a los usuarios de estas entidades revisar constantemente las actualizaciones de sus respectivas tesorerías. En Sinaloa y Tamaulipas, los montos de $2,065 y $2,346 respectivamente, son estimaciones basadas en la legislación vigente y la UMA de $117.31.
-
-<h2>Estados que sí cobran tenencia 2026</h2>
-
-A pesar de la tendencia nacional de eliminar este impuesto, 12 estados mantienen el cobro de la tenencia en sus leyes de hacienda para 2026. Algunos estados la aplican de forma generalizada, mientras que otros solo la cobran a vehículos que superan cierto valor factura o a propietarios que no cumplen con sus obligaciones fiscales en los tiempos establecidos.
-
-El estado de Querétaro mantiene el Impuesto sobre Tenencia o Uso de Vehículos bajo su Ley de Hacienda estatal. De hecho, la Ley de Ingresos para 2026 estima una recaudación de $453.4 millones por este concepto, lo que indica que es una fuente de ingresos relevante para la entidad. Quintana Roo también cobra el Impuesto Sobre Uso o Tenencia Vehicular (ISUTV), fundamentado en el Título II, Capítulo II de su Ley de Hacienda.
+Durango muestra cifras de recaudación significativas en su presupuesto. La Ley de Ingresos 2026 estima el cobro del Impuesto sobre Tenencia o Uso de Vehículos Estatal en $885,752,084. La tarifa para este cobro se encuentra detallada en la Ley de Hacienda del Estado de Durango. Otros estados como Quintana Roo, Tlaxcala y Baja California también mantienen este impuesto dentro de sus respectivas leyes de hacienda locales.
 
 <!--FIG:ia:contrato.jpg-->
 
-En Veracruz, la situación es particular. Aunque el Impuesto Estatal sobre Tenencia o Uso de Vehículos (IESTUV) sigue vigente, el gobierno ofrece un subsidio del 100%. Este beneficio aplica para quienes realicen el pago de los Derechos de Control Vehicular dentro del periodo del programa y cumplan con los requisitos administrativos solicitados por la autoridad estatal.
+<h2>Análisis por entidad con impuesto vigente</h2>
 
-<h2>Legislación y particularidades por estado</h2>
+Oaxaca es otro estado que mantiene la tenencia en su legislación. Para 2026, la Ley de Ingresos proyecta recaudar $8.5 millones por este concepto. Sin embargo, existen disposiciones en su ley que permiten beneficios fiscales a ciertos contribuyentes. Es común que estos estados con montos de recaudación proyectados bajos ofrezcan programas de descuento para evitar la migración de placas a otros estados.
 
-Tlaxcala conserva este impuesto basándose en el artículo correspondiente de su ley local. Por otro lado, en Baja California, la Ley de Hacienda del Estado establece claramente la existencia del Impuesto Estatal sobre Tenencia o Uso de Vehículos en su capítulo dedicado a la propiedad vehicular. Los residentes de este estado deben verificar si su unidad califica para exenciones según su antigüedad o valor.
+En Guanajuato, el cobro de la tenencia es selectivo. Se aplica principalmente a vehículos que tienen un valor de mercado alto. Esta estrategia busca que los propietarios de autos de lujo contribuyan proporcionalmente más al erario estatal. Por su parte, en Morelos, el impuesto existe legalmente y suele cobrarse como una penalización a quienes no cumplen con sus obligaciones vehiculares a tiempo.
 
-En Morelos, la tenencia existe y se cobra específicamente a los conductores que no cumplen con sus trámites a tiempo. Esto funciona como un mecanismo de presión para mantener el padrón vehicular actualizado. Guanajuato aplica un criterio de valor, donde el impuesto se genera principalmente para vehículos considerados de gama alta o con un valor factura elevado.
-
-Puebla fundamenta su cobro en la Ley de Hacienda del Estado, mencionando el Impuesto sobre Tenencia o Uso de Vehículos en su articulado vigente. En Oaxaca, el gobierno estima recaudar $8.5 millones por este impuesto según la Ley de Ingresos 2026. Sin embargo, el artículo 161 de dicha ley permite ciertos beneficios fiscales que los contribuyentes deben revisar para reducir el impacto en sus bolsillos.
+Puebla y Colima también conservan el impuesto en sus leyes de hacienda. En el caso de Puebla, el gravamen se fundamenta en diversos artículos de su normativa fiscal. Colima establece este impuesto en su Ley de Hacienda, específicamente en el Título Primero, Capítulo VIII. En todos estos casos, estar al pendiente de las fechas es vital para no generar recargos o multas administrativas.
 
 <table class="tbl">
-    <thead>
-        <tr>
-            <th>Estado</th>
-            <th>Base Legal / Situación 2026</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Querétaro</td>
-            <td>Ley de Hacienda del Estado. Estimado de $453.4 millones.</td>
-        </tr>
-        <tr>
-            <td>Quintana Roo</td>
-            <td>Impuesto Sobre Uso o Tenencia Vehicular (ISUTV).</td>
-        </tr>
-        <tr>
-            <td>Veracruz</td>
-            <td>Subsidio al 100% pagando Derechos de Control Vehicular.</td>
-        </tr>
-        <tr>
-            <td>Tlaxcala</td>
-            <td>Impuesto Estatal sobre Tenencia o Uso de Vehículos vigente.</td>
-        </tr>
-        <tr>
-            <td>Baja California</td>
-            <td>Ley de Hacienda del Estado, Cap. correspondiente.</td>
-        </tr>
-        <tr>
-            <td>Morelos</td>
-            <td>Cobro aplicado por incumplimiento de plazos.</td>
-        </tr>
-        <tr>
-            <td>Guanajuato</td>
-            <td>Aplicable a vehículos de valor alto.</td>
-        </tr>
-        <tr>
-            <td>Puebla</td>
-            <td>Impuesto sobre Tenencia o Uso de Vehículos (Art. Ley Hacienda).</td>
-        </tr>
-        <tr>
-            <td>Oaxaca</td>
-            <td>Estimación de $8.5 millones (Art. 161 con beneficios).</td>
-        </tr>
-        <tr>
-            <td>Durango</td>
-            <td>Tarifa fijada en Ley de Ingresos con estimación de $885,752,084.</td>
-        </tr>
-        <tr>
-            <td>Colima</td>
-            <td>Ley de Hacienda, Título Primero, Cap. VIII.</td>
-        </tr>
-        <tr>
-            <td>Guerrero</td>
-            <td>Impuesto vigente para el ejercicio 2026.</td>
-        </tr>
-    </tbody>
+<caption>Estados con impuesto de tenencia vigente en 2026</caption>
+<thead>
+<tr>
+<th>Estado</th>
+<th>Estatus del Impuesto</th>
+<th>Dato Relevante de la Ley de Ingresos 2026</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Querétaro</td>
+<td>Vigente</td>
+<td>Recaudación estimada: $453.4 millones</td>
+</tr>
+<tr>
+<td>Durango</td>
+<td>Vigente</td>
+<td>Recaudación estimada: $885,752,084</td>
+</tr>
+<tr>
+<td>Oaxaca</td>
+<td>Vigente</td>
+<td>Recaudación estimada: $8.5 millones</td>
+</tr>
+<tr>
+<td>Estado de México</td>
+<td>Vigente</td>
+<td>Subsidio hasta $550,000 (sin IVA)</td>
+</tr>
+<tr>
+<td>CDMX</td>
+<td>Vigente</td>
+<td>Subsidio 100% con pago de refrendo</td>
+</tr>
+<tr>
+<td>Veracruz</td>
+<td>Vigente</td>
+<td>Subsidio 100% por pago puntual</td>
+</tr>
+<tr>
+<td>Quintana Roo</td>
+<td>Vigente</td>
+<td>Regulado por la Ley de Hacienda del Estado</td>
+</tr>
+<tr>
+<td>Puebla</td>
+<td>Vigente</td>
+<td>Impuesto sobre Tenencia o Uso de Vehículos</td>
+</tr>
+<tr>
+<td>Guanajuato</td>
+<td>Vigente</td>
+<td>Aplica para vehículos de valor alto</td>
+</tr>
+<tr>
+<td>Tlaxcala</td>
+<td>Vigente</td>
+<td>Conserva el Impuesto Estatal</td>
+</tr>
+<tr>
+<td>Baja California</td>
+<td>Vigente</td>
+<td>Regulado por la Ley de Hacienda local</td>
+</tr>
+<tr>
+<td>Morelos</td>
+<td>Vigente</td>
+<td>Cobro por incumplimiento</td>
+</tr>
+<tr>
+<td>Guerrero</td>
+<td>Vigente</td>
+<td>Mantiene el cobro del impuesto</td>
+</tr>
+<tr>
+<td>Colima</td>
+<td>Vigente</td>
+<td>Artículos 41 al 51 de la Ley de Hacienda</td>
+</tr>
+</tbody>
 </table>
 
-<h2>El caso de Durango y Colima</h2>
+<h2>Importancia del valor de la UMA en los trámites de 2026</h2>
 
-El estado de Durango presenta una de las estimaciones de recaudación más precisas y elevadas en su legislación. El Impuesto sobre Tenencia o Uso de Vehículos Estatal sigue vigente en la Ley de Hacienda del Estado de Durango, específicamente en el Título Segundo, Capítulo VIII. Para 2026, la Ley de Ingresos estima una recaudación de $885,752,084, fijando las tarifas correspondientes en su articulado anual.
+La Unidad de Medida y Actualización (UMA) es la referencia económica en pesos para determinar el pago de obligaciones y supuestos previstos en las leyes. Para el 24 de octubre de 2026, el valor establecido para la UMA diaria es de $117.31. Muchos estados no fijan una cantidad exacta en pesos dentro de sus leyes, sino que indican una cantidad de UMAs.
 
-En Colima, el impuesto también tiene un sustento legal sólido. Se encuentra detallado en la Ley de Hacienda del Estado de Colima, dentro del Título Primero, Capítulo VIII, en los artículos correspondientes. Los propietarios en esta entidad deben calcular su pago basándose en los factores de depreciación y el valor original del auto que dicta la normativa estatal.
+Por ejemplo, si un estado establece que el refrendo cuesta 20 UMAs, el propietario deberá multiplicar ese número por $117.31. Esta indexación permite que los costos se ajusten de acuerdo con la inflación sin necesidad de reformar la ley cada año. Es la razón por la que el refrendo de Sinaloa se estima en $2,065 y el de Tamaulipas en $2,346. Entender este cálculo ayuda a los conductores a prever sus gastos anuales de mantenimiento automotriz.
 
-<h2>Impacto de la UMA 2026 en los costos</h2>
+<h2>Consecuencias de no pagar la tenencia 2026</h2>
 
-La Unidad de Medida y Actualización (UMA) es la referencia económica que determina el costo de la mayoría de los trámites vehiculares en México. Para 2026, el valor diario de la UMA es de $117.31 pesos. Esto significa que cualquier estado que defina sus costos en "veces UMA" verá un incremento automático en comparación con el año anterior.
+El incumplimiento en el pago de la tenencia o el refrendo no solo genera deudas con el fisco estatal. Una de las consecuencias más inmediatas es la imposibilidad de realizar la <a href="/verificacion-vehicular/">verificación vehicular</a>. En los estados donde este proceso es obligatorio, el sistema bloquea el trámite si detecta adeudos en la matrícula. Esto puede derivar en multas ambientales considerables.
 
-Por ejemplo, si un estado establece que su refrendo cuesta 10 UMAs, el costo para el ciudadano será de $1,173.10 pesos. Es por esto que montos como los de Sinaloa o Tamaulipas se presentan como estimaciones de ≈$2,065 y ≈$2,346 respectivamente. Al no publicarse una cifra cerrada en pesos, el cálculo exacto depende de la conversión oficial de la UMA vigente al momento de realizar el pago en la ventanilla de la tesorería o en la cuenta del cliente en línea.
+Además, si el vehículo es retenido y llevado al corralón por alguna infracción de tránsito, no podrá ser liberado hasta que se liquiden todos los adeudos de tenencia y refrendo. También complica la venta del auto, ya que cualquier comprador interesado solicitará los comprobantes de pago de los últimos cinco años para asegurar que la unidad no tiene gravámenes pendientes.
 
-<h2>Recomendaciones para el pago de Tenencia 2026</h2>
+<h2>Recomendaciones para compradores de autos nuevos</h2>
 
-Para evitar gastos imprevistos, es aconsejable revisar el estatus legal de tu vehículo antes de que termine el primer trimestre del año. La mayoría de los beneficios fiscales, como el subsidio del 100% en Veracruz, expiran en marzo o abril. Cumplir con estos plazos permite que el gasto se limite únicamente al refrendo, ahorrando una cantidad significativa de dinero que de otro modo se destinaría al impuesto de tenencia.
+Si estás planeando adquirir un vehículo en 2026, considera el estado donde lo vas a emplacar. Como se observó en los datos, estados como Yucatán tienen un refrendo muy bajo de $411, mientras que en Chihuahua asciende a $2,749. Si el auto es de lujo o tiene un valor factura elevado, el Estado de México podría cobrarte la tenencia completa si el valor excede los $550,000 sin IVA (aproximadamente $638,000 con IVA).
 
-Además de los beneficios económicos, estar al día con la tenencia 2026 facilita la venta de la unidad en el mercado de usados. Un auto con todos sus comprobantes fiscales impresos y digitales genera confianza en los compradores y evita problemas en el cambio de propietario. No olvides que en muchos estados, el sistema no permite generar la línea de captura para la verificación si existen adeudos de años previos o del ejercicio actual.
-
-Para los conductores en la Ciudad de México y el Estado de México, la tenencia 2026 cdmx suele seguir un esquema de subsidio similar al de años anteriores. Aunque estos estados no se detallan con cifras específicas en el reporte de hoy, la tendencia es mantener el apoyo a los contribuyentes cumplidos que posean vehículos cuyo valor no exceda los límites establecidos por la ley local.
+Es recomendable revisar siempre la <a href="/tenencia/">tenencia por estado</a> antes de finalizar la compra. Algunos concesionarios ofrecen gestionar el emplacado, pero es responsabilidad del dueño conocer las obligaciones fiscales futuras. Mantener los pagos al corriente desde el primer año evita que los recargos se acumulen y facilitará trámites futuros como la renovación de la tarjeta de circulación o la venta del vehículo.
 
 <h2>Preguntas frecuentes</h2>
 
 <div class="faq">
-    <details>
-        <summary>¿Qué pasa si mi estado no aparece con un monto fijo de refrendo?</summary>
-        <p>En estados como Nuevo León o Campeche, los montos pueden no estar publicados al 24 de octubre de 2026. En estos casos, se recomienda esperar a la publicación oficial de la Ley de Ingresos del estado o usar como referencia el valor de la UMA de $117.31 si el costo está indexado a esta unidad.</p>
-    </details>
-    <details>
-        <summary>¿Cómo se calcula el monto estimado con la UMA?</summary>
-        <p>Se toma el número de unidades UMA que dicta la ley estatal y se multiplica por $117.31, que es el valor diario para 2026. Por ejemplo, en Sinaloa y Tamaulipas los montos de ≈$2,065 y ≈$2,346 se obtienen mediante este procedimiento legal.</p>
-    </details>
-    <details>
-        <summary>¿Qué estados ofrecen subsidios totales en la tenencia?</summary>
-        <p>Veracruz es un ejemplo claro para 2026, donde el Impuesto Estatal sobre Tenencia o Uso de Vehículos se subsidia al 100% si el propietario paga sus derechos de control vehicular a tiempo. Oaxaca también menciona beneficios fiscales en su artículo 161 de la Ley de Ingresos.</p>
-    </details>
-    <details>
-        <summary>¿Por qué es obligatorio pagar el refrendo si no hay tenencia?</summary>
-        <p>El refrendo es el derecho por el uso de las placas y la actualización del padrón vehicular. Aunque un estado como Jalisco o Yucatán no cobre tenencia, el refrendo de $1,000 o $411 respectivamente es necesario para circular legalmente y realizar trámites como la verificación vehicular.</p>
-    </details>
+<details>
+<summary>¿Cuánto vale la UMA para el cálculo de la tenencia en 2026?</summary>
+<p>El valor de la UMA diaria para el año 2026 es de $117.31. Este monto se utiliza para calcular multas, refrendos y el impuesto de tenencia en los estados que no tienen tarifas fijas en pesos.</p>
+</details>
+
+<details>
+<summary>¿Cuál es el límite de valor para el subsidio de tenencia en el Estado de México?</summary>
+<p>En el Estado de México, el subsidio del 100% aplica para vehículos con un valor factura de hasta $550,000 sin IVA. Esto equivale a cerca de $638,000 si se incluye el impuesto al valor agregado.</p>
+</details>
+
+<details>
+<summary>¿Qué estados tienen el costo de refrendo más alto en 2026?</summary>
+<p>Según los datos verificados, Chihuahua tiene uno de los costos de refrendo más elevados con $2,749. Le siguen Coahuila con $2,441 y el estimado para Tamaulipas de $2,346.</p>
+</details>
+
+<details>
+<summary>¿Puedo verificar mi auto si debo la tenencia 2026?</summary>
+<p>Generalmente no es posible realizar la <a href="/verificacion-vehicular/">verificación vehicular</a> si existen adeudos de tenencia o refrendo. Es necesario estar al corriente con los pagos estatales para que el sistema permita generar la cita y el certificado ambiental.</p>
+</details>
 </div>

@@ -22,4 +22,4 @@ Honda HR-V: SUV gasolina, desde $618,900, origen japonesa, enlace /autos/honda/h
 Kia Sportage: SUV gasolina, desde $647,900, origen coreana, enlace /autos/kia/sportage/
 Toyota RAV4: SUV híbrido, desde $650,300, origen japonesa, enlace /autos/toyota/rav4/
 BYD Song Plus DM-i: SUV híbrido enchufable, desde $778,800, origen china, enlace /autos/byd/song-plus/
-Honda CR-V: SUV gasolina, desde $830,900, origen japonesa, enlace /autos/honda/cr-v/Diferencia derivada: entre Kia Sonet ($398,400) y Kia Seltos ($499,900) hay $101,500.
+Honda CR-V: SUV gasolina, desde $830,900, origen japonesa, enlace /autos/honda/cr-v/

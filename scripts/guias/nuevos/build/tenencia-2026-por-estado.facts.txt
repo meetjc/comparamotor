@@ -1,5 +1,5 @@
 Hoy es 24 de octubre de 2026.
-ComparaMotor lleva 32 estados con tenencia y refrendo verificados. 16 no cobran tenencia en 2026 y 12 sí.
+ComparaMotor lleva 32 estados con tenencia y refrendo verificados. 16 no cobran tenencia en 2026 y 14 sí.
 == Estados que NO cobran tenencia en 2026 (solo refrendo o control vehicular) ==
 Sonora: refrendo $1,914
 Michoacán: refrendo $1,256
@@ -19,6 +19,7 @@ Yucatán: refrendo $411
 Tamaulipas: refrendo $2,346 (estimado con la ley y la UMA)
 == Estados que SÍ cobran tenencia en 2026 ==
 Querétaro: Querétaro mantiene el Impuesto sobre Tenencia o Uso de Vehículos (Ley de Hacienda del Estado; la Ley de Ingresos 2026 estima $453.4 millones por este concepto).
+Estado de México: El Estado de México cobra el Impuesto sobre Tenencia o Uso de Vehículos dentro de los tres primeros meses del año, con un subsidio de 100% para autos con valor de hasta $550,000 sin IVA (unos $638,000 con IVA, cálculo propio) y placas de 2021 o posteriores, y de 50% con placas de 2020.
 Quintana Roo: Quintana Roo cobra el Impuesto Sobre Uso o Tenencia Vehicular (ISUTV; Ley de Hacienda del Estado, Título II, Capítulo II).
 Veracruz: Veracruz mantiene el Impuesto Estatal sobre Tenencia o Uso de Vehículos (IESTUV), pero en 2026 se subsidia al 100% a quien pague los Derechos de Control Vehicular dentro del periodo del programa.
 Tlaxcala: Tlaxcala conserva el Impuesto Estatal sobre Tenencia o Uso de Vehículos (art.
@@ -29,5 +30,6 @@ Puebla: Puebla mantiene el Impuesto sobre Tenencia o Uso de Vehículos (art.
 Oaxaca: Oaxaca mantiene el Impuesto sobre Tenencia o Uso de Vehículos (la Ley de Ingresos 2026 estima $8.5 millones por este concepto), pero el art.
 Guerrero: Sí.
 Durango: El Impuesto sobre Tenencia o Uso de Vehículos Estatal sigue vigente en la Ley de Hacienda del Estado de Durango (Título Segundo, Capítulo VIII; la Ley de Ingresos 2026 lo estima en $885,752,084 y fija su tarifa en el art.
+Ciudad de México: La CDMX cobra el Impuesto sobre Tenencia o Uso de Vehículos, pero da un subsidio del 100% a quien cumple las condiciones y paga el refrendo a tiempo.
 Colima: Sí existe el Impuesto sobre Tenencia o Uso de Vehículos (Ley de Hacienda del Estado de Colima, Título Primero, Capítulo VIII, arts.
-El refrendo marcado con ≈ es un estimado calculado con la ley estatal y el valor de la UMA 2026 ($117.31 diario), porque el estado no publica una tarifa fija en línea.Ejemplo de cálculo: 10 UMA con la UMA 2026 de $117.31 = $1,173.10.
+El refrendo marcado con ≈ es un estimado calculado con la ley estatal y el valor de la UMA 2026 ($117.31 diario), porque el estado no publica una tarifa fija en línea.
