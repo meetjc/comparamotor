@@ -23,12 +23,12 @@ const autos = listJSON(path.join(ROOT, 'data/autos')).map((f) => readJSON(f)).fi
 
 const TEMA_N = { mercado: 'Mercado', industria: 'Industria', electricos: 'Eléctricos', seguridad: 'Seguridad', precios: 'Precios', lanzamientos: 'Lanzamientos', credito: 'Crédito', tramites: 'Trámites' };
 const TEMA_IMG = {
-  mercado: [['periferico.jpg', 'Tráfico en el Periférico de la Ciudad de México al atardecer'], ['suv-carretera.jpg', 'SUV blanca en una carretera del norte de México']],
-  industria: [['suv-estacionamiento.jpg', 'SUV negra en un estacionamiento subterráneo'], ['pickup-bajio.jpg', 'Pickup plateada en una carretera del Bajío']],
-  electricos: [['carga-electrico.jpg', 'Auto eléctrico cargando en una estación'], ['ev-reforma.jpg', 'Auto eléctrico azul en Paseo de la Reforma']],
-  seguridad: [['tablero.jpg', 'Tablero de un auto moderno'], ['prueba-montana.jpg', 'Auto en una carretera de montaña']],
-  precios: [['contrato.jpg', 'Pareja revisa un contrato de compra de auto'], ['entrega-llave.jpg', 'Entrega de llaves de un auto nuevo']],
-  lanzamientos: [['hibrida-estudio.jpg', 'SUV gris de perfil en un estudio'], ['pickup-jalisco.jpg', 'Pickup en un camino de Jalisco']],
+  mercado: [['trafico-periferico-ciudad-de-mexico.webp', 'Tráfico en el Periférico de la Ciudad de México al atardecer'], ['suv-blanca-carretera-norte-de-mexico.webp', 'SUV blanca en una carretera del norte de México']],
+  industria: [['suv-negra-estacionamiento-subterraneo.webp', 'SUV negra en un estacionamiento subterráneo'], ['pickup-plateada-carretera-bajio.webp', 'Pickup plateada en una carretera del Bajío']],
+  electricos: [['auto-electrico-cargando-estacion.webp', 'Auto eléctrico cargando en una estación'], ['auto-electrico-paseo-de-la-reforma.webp', 'Auto eléctrico azul en Paseo de la Reforma']],
+  seguridad: [['tablero-auto-moderno.webp', 'Tablero de un auto moderno'], ['auto-carretera-de-montana.webp', 'Auto en una carretera de montaña']],
+  precios: [['contrato-compra-auto-nuevo.webp', 'Pareja revisa un contrato de compra de auto'], ['entrega-de-llaves-auto-nuevo.webp', 'Entrega de llaves de un auto nuevo']],
+  lanzamientos: [['suv-hibrida-gris-estudio.webp', 'SUV gris de perfil en un estudio'], ['pickup-camino-jalisco.webp', 'Pickup en un camino de Jalisco']],
 };
 const usoTema = {};
 const hoy = opts.hoy || hoyCDMX().iso;
@@ -95,7 +95,9 @@ fs.mkdirSync(path.join(OUT, 'assets/img'), { recursive: true });
 const imgDir = path.join(ROOT, 'src/assets/img');
 const marca = ['comparamotor-simbolo.svg', 'comparamotor-simbolo-negativo.svg', 'comparamotor-simbolo-sobre-rojo.svg', 'comparamotor-favicon-32.png', 'comparamotor-apple-touch-180.png', 'comparamotor-og-1200x630.jpg'];
 for (const f of fs.readdirSync(imgDir)) {
-  if (!reg[f] && !marca.includes(f)) { console.warn(`  · Imagen sin registro, no se publica: ${f}`); continue; }
+  // La copia .jpg de una imagen de tema registrada en .webp se publica solo para og:image.
+  const ogCopia = f.endsWith('.jpg') && reg[f.replace(/\.jpg$/, '.webp')];
+  if (!reg[f] && !marca.includes(f) && !ogCopia) { console.warn(`  · Imagen sin registro, no se publica: ${f}`); continue; }
   fs.copyFileSync(path.join(imgDir, f), path.join(OUT, 'assets/img', f));
 }
 // Toda <img> generada debe apuntar a una imagen publicada

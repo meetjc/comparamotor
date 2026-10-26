@@ -95,7 +95,7 @@ export function page(ctx, o) {
 ${noindex ? '<meta name="robots" content="noindex, follow">' : '<meta name="robots" content="index, follow, max-image-preview:large">'}
 <meta property="og:type" content="website"><meta property="og:locale" content="es_MX"><meta property="og:site_name" content="ComparaMotor">
 <meta property="og:title" content="${esc(full)}"><meta property="og:description" content="${esc(description)}"><meta property="og:url" content="${canon}">
-<meta property="og:image" content="${SITE.url}/assets/${ogImage}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="ComparaMotor: compara autos nuevos sin letras chiquitas">
+<meta property="og:image" content="${SITE.url}/assets/${ogImage.replace(/\.webp$/, '.jpg')}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="ComparaMotor: compara autos nuevos sin letras chiquitas">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#171513">
 <link rel="icon" type="image/svg+xml" href="${ctx.asset('img/comparamotor-simbolo.svg')}"><link rel="icon" type="image/png" sizes="32x32" href="${ctx.asset('img/comparamotor-favicon-32.png')}"><link rel="apple-touch-icon" href="${ctx.asset('img/comparamotor-apple-touch-180.png')}">

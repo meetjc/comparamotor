@@ -90,7 +90,7 @@ f3 += [f"{d['estado']}: refrendo " + (mxn(refval(d)) + (' (estimado con la ley y
 f3 += ['== Estados que SÍ cobran tenencia en 2026 ==']
 f3 += [f"{d['estado']}: " + (re.split(r'(?<=\.)\s', d['tenencia'])[0] if isinstance(d.get('tenencia'), str) else 'ver detalle') for d in ten_con]
 f3 += ['El refrendo marcado con ≈ es un estimado calculado con la ley estatal y el valor de la UMA 2026 ($117.31 diario), porque el estado no publica una tarifa fija en línea.']
-t3 = ['grafica:refrendo-estado', 'ia:contrato.jpg']
+t3 = ['grafica:refrendo-estado', 'ia:contrato-compra-auto-nuevo.webp']
 spec3 = (f'{GEO}\nTítulo: "Tenencia 2026 en México: ¿en qué estados se paga y cuánto?". '
          'Palabras clave: "tenencia 2026 cdmx", "tenencia 2026". '
          'Explica la diferencia entre tenencia y refrendo, qué estados cobran tenencia y cuáles solo refrendo, y aclara que varios montos son estimados con la ley y la UMA. '
@@ -116,7 +116,7 @@ f4 += [f"{d['estado']}: " + (mxn(vcosto(d)) if vcosto(d) else 'costo por confirm
 f4 += ['== Estados donde NO es obligatoria para autos particulares ==']
 f4 += [d['estado'] for d in ver_no]
 f4 += ['La verificación suele tocar por el último dígito de la placa, en un calendario de dos semestres. El costo cambia según el holograma que te asignen.']
-t4 = ['grafica:verif-costo', 'ia:hibrida-estudio.jpg']
+t4 = ['grafica:verif-costo', 'ia:suv-hibrida-gris-estudio.webp']
 spec4 = (f'{GEO}\nTítulo: "Verificación vehicular 2026: en qué estados es obligatoria y cuánto cuesta". '
          'Palabras clave: "verificacion vehicular 2026", "verificacion vehicular cdmx". '
          'Explica qué es, el calendario por último dígito de placa, el costo por holograma y qué pasa si no verificas. Aclara que no en todos los estados es obligatoria. '

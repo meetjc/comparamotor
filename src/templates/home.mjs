@@ -104,7 +104,7 @@ export function home(ctx, D, opt = {}) {
     cine: `
   <section class="cine" id="inicio" aria-labelledby="h1">
     <div class="media" aria-hidden="true">
-      <video id="hero-vid" autoplay muted loop playsinline preload="metadata" poster="${ctx.asset('img/hero-noche.jpg')}" tabindex="-1"><source src="${ctx.asset('img/hero-noche.mp4')}" type="video/mp4"></video>
+      <video id="hero-vid" autoplay muted loop playsinline preload="metadata" poster="${ctx.asset('img/comparador-autos-nuevos-mexico-noche.webp')}" tabindex="-1"><source src="${ctx.asset('img/hero-noche.mp4')}" type="video/mp4"></video>
     </div>
     ${ticker(ctx, tickerItems)}
     <div class="wrap">
@@ -269,7 +269,7 @@ export function home(ctx, D, opt = {}) {
     description: `Precios verificados de ${autos.length} modelos con su fuente y fecha, mensualidad con CAT y costo total a cinco años. Comparador, Hoy No Circula, tenencia, verificación y noticias del sector.`,
     body, heroDark: true, bodyClass: 'home', updated: fechaLarga(fechaPrecios),
     dataJSON: { autos: cmp, par: [A, B], supuestos: s },
-    extraHead: `<link rel="preload" as="image" href="${ctx.asset('img/hero-noche.jpg')}"><script src="${ctx.asset('js/home.js')}" defer></script>`,
+    extraHead: `<link rel="preload" as="image" href="${ctx.asset('img/comparador-autos-nuevos-mexico-noche.webp')}"><script src="${ctx.asset('js/home.js')}" defer></script>`,
     schema: [{ '@context': 'https://schema.org', '@type': 'WebApplication', name: 'Comparador de autos ComparaMotor', url: SITE.url + '/#comparar', applicationCategory: 'FinanceApplication', operatingSystem: 'Web', inLanguage: 'es-MX', offers: { '@type': 'Offer', price: 0, priceCurrency: 'MXN' } }],
   });
 }
