@@ -104,3 +104,10 @@ Formato exacto: `Foto: {autor} / {fuente}, {licencia}` (con ligas a la página d
 - VW México: sala de prensa pública en volkswagen-mexico.prezly.com (galería sin registro). Contacto: Javier Díaz, Relaciones Públicas marca VW, javier.diazl@vw.com.mx, +52 222 230 8183.
 
 - Hyundai (25 oct 2026): Hyundai México prohíbe reproducir sin permiso escrito, pero la sala de prensa de Hyundai Motor Europe (https://www.hyundai.news/eu/, términos en /eu/footer-servicelinks/terms-of-use.html) permite el material «exclusively to be used for editorial purposes» en todo el mundo, incluido internet; prohíbe uso publicitario o promocional, venderlo, transferirlo o usar los logos aparte. Descarga sin registro (los términos se aceptan al descargar). Úsala solo en notas y guías, con crédito «Foto: Hyundai Motor Europe (sala de prensa oficial)» y sin alterar. Es la misma fuente que usa Motorpasión (nota del Bayon, 14 oct 2026), que además las recorta y no da crédito.
+
+## Peso, nombres y alt (26 oct 2026)
+- Todas las fotos se publican en WebP: máximo 1400 px, calidad 74, y miniaturas de 720 px. No se recorta nada.
+- Nombre del archivo: `<marca>-<modelo>-<año>-<vista>-<n>.webp`. Ejemplo: `kia-seltos-2027-frente-1.webp`. La miniatura termina en `-miniatura.webp`. Las de prensa terminan en `-sala-de-prensa.webp`.
+- Alt: «Marca Modelo Año, vista …». Si dos fotos del mismo modelo tienen la misma vista, se agrega «, foto N».
+- Las imágenes de tema guardan además una copia JPG de 1200 px, que solo se usa en og:image porque algunas redes no leen WebP.
+- Después de descargar fotos nuevas (en JPG), corre `uv run --with pillow python scripts/imagenes/optimizar-webp.py`. Solo convierte lo que sigue en JPG y no toca las WebP que ya existen.

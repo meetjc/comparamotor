@@ -32,7 +32,7 @@ for p in glob.glob(f'{R}/data/autos/*/*.json'):
 fotos = json.load(open(f'{R}/data/fotos-modelos.json'))
 reg = json.load(open(f'{R}/data/imagenes.json'))
 
-mapa, usados, alts = {}, set(), {}
+mapa, usados, alts = {}, {f[:-5] for f in os.listdir(IMG) if f.endswith('.webp')}, {}  # no pisar WebP existentes
 def nuevo(old, base):
     n, cand = 1, base
     while cand in usados: n += 1; cand = f'{base}-{n}'
@@ -43,21 +43,24 @@ for key, e in fotos.items():
     a = autos.get(key); nombre = f"{a['marca']} {a['modelo']}" if a else key.replace('-', ' ').title()
     anio = (a or {}).get('anioModeloVigente') or ''
     for i, g in enumerate(e.get('galeria', []), 1):
-        if g['archivo'] in mapa: continue
+        if g['archivo'] in mapa or not g['archivo'].endswith('.jpg'): continue
         v = vista(g.get('angulo')); nuevo(g['archivo'], slug(f'{nombre} {anio} {v}') + f'-{i}')
         ang = g.get('angulo') if g.get('angulo') and g.get('angulo') != 'desconocido' else 'vista exterior'
         alts[g['archivo']] = f"{nombre} {anio}, {('vista ' + ang) if not ang.startswith('vista') else ang}".replace('  ', ' ')
     t = e.get('thumb')
-    if t and t['archivo'] not in mapa:
+    if t and t['archivo'] not in mapa and t['archivo'].endswith('.jpg'):
         base = mapa.get(e['archivo'], slug(f'{nombre} {anio} frente') + '.webp')[:-5]
         mapa[t['archivo']] = base + '-miniatura.webp'; usados.add(base + '-miniatura'); alts[t['archivo']] = alts.get(e['archivo'], nombre)
 # 2) resto de archivos raster
 for f in sorted(os.listdir(IMG)):
     if f in mapa or not f.endswith(('.jpg', '.png')) or f.startswith('comparamotor-'): continue
+    if os.path.exists(f'{IMG}/{f[:-4]}.webp'): continue  # copia JPG de og:image
     if f in TEMA: nuevo(f, TEMA[f])
     elif f.startswith('prensa-'): nuevo(f, f[7:-4] + '-sala-de-prensa')
     elif f.startswith('foto-'): nuevo(f, f[5:-6] + '-miniatura' if f.endswith('-t.jpg') else f[5:-4])
     else: nuevo(f, slug(f[:-4]))
+
+if not mapa: print('Nada que convertir: todas las fotos ya están en WebP.'); raise SystemExit
 
 # 3) convertir
 antes = despues = 0; dims = {}
@@ -99,5 +102,6 @@ for f, r in reg['imagenes'].items():
     if f in dims: r['ancho'], r['alto'] = dims[f]
     if r.get('notas', '').startswith('Reducida a 1600 px'): r['notas'] = f'Reducida a {MAX_FULL} px y convertida a WebP, sin recortar ni editar.'
 json.dump(reg, open(f'{R}/data/imagenes.json', 'w'), ensure_ascii=False, indent=1)
-json.dump(mapa, open(f'{R}/scripts/imagenes/renombres-webp.json', 'w'), ensure_ascii=False, indent=1)
+prev = json.load(open(f'{R}/scripts/imagenes/renombres-webp.json')) if os.path.exists(f'{R}/scripts/imagenes/renombres-webp.json') else {}
+json.dump({**prev, **mapa}, open(f'{R}/scripts/imagenes/renombres-webp.json', 'w'), ensure_ascii=False, indent=1)
 print(f'{len(mapa)} imágenes · {antes/1e6:.0f} MB → {despues/1e6:.0f} MB')
