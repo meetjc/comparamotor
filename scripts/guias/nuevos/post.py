@@ -5,15 +5,15 @@ R = os.path.expanduser('~/Projects/comparamotor'); B = f'{R}/scripts/guias/nuevo
 FORZAR = '--forzar' in sys.argv
 META = {
  'mejores-suv-2026-mexico': dict(tema='mejores', titulo='Mejores SUV 2026 en México: cuáles convienen por precio', imagen='suv-hibrida-gris-estudio.webp', imagenAlt='SUV gris de perfil en un estudio', publicar='2026-10-24',
-   fuentes=[['Autocifras: comparador de autos nuevos', 'https://comparamotor.com/comparar/'], ['Nissan México', 'https://www.nissan.com.mx/'], ['Kia México', 'https://www.kia.com/mx/'], ['Volkswagen México', 'https://www.vw.com.mx/']]),
+   fuentes=[['Autocifras: comparador de autos nuevos', 'https://autocifras.com/comparar/'], ['Nissan México', 'https://www.nissan.com.mx/'], ['Kia México', 'https://www.kia.com/mx/'], ['Volkswagen México', 'https://www.vw.com.mx/']]),
  'conviene-auto-chino-mexico': dict(tema='mercado', titulo='Autos chinos en México 2026: ¿conviene comprar uno?', imagen='pickup-camino-jalisco.webp', imagenAlt='Auto en un camino de Jalisco', publicar='2026-10-28',
-   fuentes=[['BYD México', 'https://www.byd.com/mx'], ['Chirey México', 'https://www.chireymexico.com.mx/'], ['MG Motor México', 'https://www.mgmotor.com.mx/'], ['Autocifras: autos chinos', 'https://comparamotor.com/autos-chinos/']]),
+   fuentes=[['BYD México', 'https://www.byd.com/mx'], ['Chirey México', 'https://www.chireymexico.com.mx/'], ['MG Motor México', 'https://www.mgmotor.com.mx/'], ['Autocifras: autos chinos', 'https://autocifras.com/autos-chinos/']]),
  'tenencia-2026-por-estado': dict(tema='tramites', titulo='Tenencia 2026 en México: ¿en qué estados se paga y cuánto?', imagen='contrato-compra-auto-nuevo.webp', imagenAlt='Persona revisa un trámite de auto', publicar='2026-11-03',
-   fuentes=[['INEGI: valor de la UMA 2026', 'https://www.inegi.org.mx/temas/uma/'], ['Autocifras: tenencia por estado', 'https://comparamotor.com/tenencia/'], ['Autocifras: metodología', 'https://comparamotor.com/metodologia/']]),
+   fuentes=[['INEGI: valor de la UMA 2026', 'https://www.inegi.org.mx/temas/uma/'], ['Autocifras: tenencia por estado', 'https://autocifras.com/tenencia/'], ['Autocifras: metodología', 'https://autocifras.com/metodologia/']]),
  'verificacion-vehicular-2026': dict(tema='tramites', titulo='Verificación vehicular 2026: en qué estados es obligatoria y cuánto cuesta', imagen='suv-hibrida-gris-estudio.webp', imagenAlt='Auto en un estudio', publicar='2026-11-08',
-   fuentes=[['SEMARNAT: verificación vehicular', 'https://www.gob.mx/semarnat'], ['Autocifras: verificación por estado', 'https://comparamotor.com/verificacion-vehicular/'], ['Autocifras: Hoy No Circula', 'https://comparamotor.com/hoy-no-circula/']]),
+   fuentes=[['SEMARNAT: verificación vehicular', 'https://www.gob.mx/semarnat'], ['Autocifras: verificación por estado', 'https://autocifras.com/verificacion-vehicular/'], ['Autocifras: Hoy No Circula', 'https://autocifras.com/hoy-no-circula/']]),
  'autos-mas-baratos-mexico-2026': dict(tema='mercado', titulo='Autos nuevos más baratos de México en 2026', imagen='entrega-de-llaves-auto-nuevo.webp', imagenAlt='Entrega de llaves de un auto nuevo', publicar='2026-11-14',
-   fuentes=[['Renault México: Kwid', 'https://www.renault.com.mx/autos-particulares/kwid.html'], ['Nissan México', 'https://www.nissan.com.mx/'], ['Autocifras: mejores autos baratos', 'https://comparamotor.com/mejores/autos-baratos/'], ['Autocifras: ¿qué auto te alcanza?', 'https://comparamotor.com/que-me-alcanza/']]),
+   fuentes=[['Renault México: Kwid', 'https://www.renault.com.mx/autos-particulares/kwid.html'], ['Nissan México', 'https://www.nissan.com.mx/'], ['Autocifras: mejores autos baratos', 'https://autocifras.com/mejores/autos-baratos/'], ['Autocifras: ¿qué auto te alcanza?', 'https://autocifras.com/que-me-alcanza/']]),
 }
 def limpia(h):
     h = re.sub(r'^\s*```[a-z]*\s*', '', h); h = re.sub(r'\s*```\s*$', '', h)

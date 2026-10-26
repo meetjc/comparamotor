@@ -185,7 +185,7 @@
       for (var i = 0; i < 60; i++) { var dd = new Date(base.getTime() + i * 864e5), iso = dd.toISOString().slice(0, 10), rr = evaluaHNC(iso, dig, holo); if (!rr.circula) ev.push(iso.replace(/-/g, '')); }
       var stamp = new Date().toISOString().replace(/[-:]/g, '').replace(/\.\d+/, '');
       var lines = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Autocifras//Hoy No Circula//ES', 'CALSCALE:GREGORIAN'];
-      ev.forEach(function (d, k) { var nx = new Date(Date.UTC(+d.slice(0, 4), +d.slice(4, 6) - 1, +d.slice(6, 8) + 1)).toISOString().slice(0, 10).replace(/-/g, ''); lines.push('BEGIN:VEVENT', 'UID:hnc-' + d + '-' + k + '@comparamotor.com', 'DTSTAMP:' + stamp, 'DTSTART;VALUE=DATE:' + d, 'DTEND;VALUE=DATE:' + nx, 'SUMMARY:Hoy no circulo (Hoy No Circula)', 'DESCRIPTION:Calculado por Autocifras con las reglas vigentes. Revisa contingencias en comparamotor.com/hoy-no-circula/', 'END:VEVENT'); });
+      ev.forEach(function (d, k) { var nx = new Date(Date.UTC(+d.slice(0, 4), +d.slice(4, 6) - 1, +d.slice(6, 8) + 1)).toISOString().slice(0, 10).replace(/-/g, ''); lines.push('BEGIN:VEVENT', 'UID:hnc-' + d + '-' + k + '@autocifras.com', 'DTSTAMP:' + stamp, 'DTSTART;VALUE=DATE:' + d, 'DTEND;VALUE=DATE:' + nx, 'SUMMARY:Hoy no circulo (Hoy No Circula)', 'DESCRIPTION:Calculado por Autocifras con las reglas vigentes. Revisa contingencias en autocifras.com/hoy-no-circula/', 'END:VEVENT'); });
       lines.push('END:VCALENDAR');
       var blob = new Blob([lines.join('\r\n')], { type: 'text/calendar' }), a = document.createElement('a');
       a.href = URL.createObjectURL(blob); a.download = 'hoy-no-circula.ics'; document.body.appendChild(a); a.click(); setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 500);

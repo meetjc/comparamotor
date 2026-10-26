@@ -4,7 +4,7 @@ import path from 'node:path';
 
 export const SITE = {
   name: 'Autocifras',
-  url: 'https://comparamotor.com',
+  url: 'https://autocifras.com',
   lang: 'es-MX',
   tz: 'America/Mexico_City',
   // Supuestos editables del comparador (se muestran como «de ejemplo» en la interfaz)

@@ -1,14 +1,14 @@
-# Arma o actualiza la cola de indexación (scripts/indexacion/cola.json) desde los sitemaps EN VIVO de comparamotor.com.
+# Arma o actualiza la cola de indexación (scripts/indexacion/cola.json) desde los sitemaps EN VIVO de autocifras.com.
 # Conserva el estado de las URL ya revisadas y agrega las nuevas en orden de prioridad.
 import json, os, re, urllib.request
 R = os.path.expanduser('~/Projects/comparamotor'); P = f'{R}/scripts/indexacion/cola.json'
 urls = []
 for f in ['tramites', 'fichas', 'guias', 'noticias', 'general']:
-    req = urllib.request.Request(f'https://comparamotor.com/sitemap-{f}.xml', headers={'User-Agent': 'Autocifras-indexacion/1.0'})
+    req = urllib.request.Request(f'https://autocifras.com/sitemap-{f}.xml', headers={'User-Agent': 'Autocifras-indexacion/1.0'})
     urls += re.findall(r'<loc>([^<]+)</loc>', urllib.request.urlopen(req, timeout=30).read().decode())
 
 def prio(u):
-    p = u.replace('https://comparamotor.com', '')
+    p = u.replace('https://autocifras.com', '')
     if re.search(r'/(tenencia|verificacion-vehicular)/(cdmx|estado-de-mexico)/', p): return 0
     if re.search(r'^/(tenencia|verificacion-vehicular|hoy-no-circula|comparar|autos-chinos|promociones|precio-gasolina|credito-automotriz)/$', p): return 1
     if p.startswith('/hoy-no-circula/'): return 2

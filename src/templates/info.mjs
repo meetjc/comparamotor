@@ -9,7 +9,7 @@ import { answer, table, fuentes, faq, ph, actualizado, img, credito, renderFigs 
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const CFG = readJSON(path.join(ROOT, 'src/config.json'), {});
-const EMAIL = CFG.contactoEmail || 'contacto@comparamotor.com';
+const EMAIL = CFG.contactoEmail || 'contacto@autocifras.com';
 
 // Diagrama del proceso de verificación (anatomía de un precio)
 const ANATOMIA = `<figure class="calc" style="padding:20px" aria-labelledby="anat-t"><svg viewBox="0 0 760 250" role="img" aria-labelledby="anat-t anat-d" style="width:100%;height:auto"><title id="anat-t">Anatomía de un precio en Autocifras</title><desc id="anat-d">Cinco pasos: fuente oficial, captura con fecha, segunda revisión, publicación con fuente visible y revisión periódica.</desc>

@@ -142,7 +142,7 @@ if (!PREVIEW) {
     '# Entrenamiento de modelos: decisión de licencia de JC (por ahora permitido; ver docs/DECISIONES.md)', 'User-agent: GPTBot', 'Allow: /', '', 'User-agent: ClaudeBot', 'Allow: /', '', 'User-agent: Google-Extended', 'Allow: /', '',
     `Sitemap: ${SITE.url}/sitemap.xml`, '',
   ].join('\n'));
-  fs.writeFileSync(path.join(OUT, 'CNAME'), 'comparamotor.com\n');
+  fs.writeFileSync(path.join(OUT, 'CNAME'), 'autocifras.com\n');
   fs.writeFileSync(path.join(OUT, '.nojekyll'), '');
 }
 

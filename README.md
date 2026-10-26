@@ -1,6 +1,6 @@
 # Autocifras
 
-Sitio estático de comparamotor.com: comparador de autos nuevos y medio automotriz en México.
+Sitio estático de autocifras.com: comparador de autos nuevos y medio automotriz en México.
 
 - `data/`: datos verificados (cada cifra con fuente y fecha).
 - `src/`: generador en Node sin dependencias (`node src/build.mjs`).
