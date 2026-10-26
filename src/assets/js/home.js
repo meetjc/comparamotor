@@ -75,7 +75,7 @@
     if (A.body && B.body && A.body !== B.body) it.push('<li><span class="tk">Carrocería</span><span>' + esc(A.modelo) + ' es ' + (CARRO[A.body] || A.body) + '; ' + esc(B.modelo) + ' es ' + (CARRO[B.body] || B.body) + '. Piensa en tu uso: ciudad, familia o carga.</span></li>');
     var ks = Object.keys(gana), cierre = ks.length > 1 ? 'Ninguno gana en todo: elige por lo que más pese en tu uso.' : ks.length === 1 ? 'En lo que podemos comparar con datos verificados, el ' + esc(AUTOS[ks[0]].modelo) + ' sale mejor. Revisa lo que falta antes de decidir.' : '';
     el.innerHTML = '<h3>Qué favorece a cada uno</h3><ul>' + it.join('') + '</ul>' + (cierre ? '<p class="t-c">' + cierre + '</p>' : '')
-      + '<p class="t-f">' + (falta.length ? 'Por confirmar: ' + esc(falta.join(', ')) + '. ' : '') + 'No medimos manejo, confiabilidad ni costo de mantenimiento.' + (st.modo === 'credito' ? ' La mensualidad es una simulación con tasa de ejemplo de ' + v('tasa').toFixed(1) + '%, no una oferta de crédito aprobada.' : '') + '</p>';
+      + '<p class="t-f">' + (falta.length ? 'N/D (la fuente oficial no lo publica; confírmalo con la marca): ' + esc(falta.join(', ')) + '. ' : '') + 'No medimos manejo, confiabilidad ni costo de mantenimiento.' + (st.modo === 'credito' ? ' La mensualidad es una simulación con tasa de ejemplo de ' + v('tasa').toFixed(1) + '%, no una oferta de crédito aprobada.' : '') + '</p>';
   }
 
   // Gráfica
@@ -159,7 +159,7 @@
     $('seal').innerHTML = '<span class="tag blue">Precios verificados</span>' + [ra, rb].map(function (r) { return '<span>' + esc(r.a.modelo) + ': <a href="' + r.a.url + '" target="_blank" rel="noopener">' + esc(r.a.fuente) + '</a>, ' + esc(r.a.fecha) + '</span>'; }).join('');
     etq($('ea'), st.a, ra, '#000'); etq($('eb'), st.b, rb, '#d42a2c'); dgm(ra, rb);
     var rows = '<thead><tr><th scope="col">Dato</th><th scope="col">' + esc(ra.a.modelo) + '</th><th scope="col">' + esc(rb.a.modelo) + '</th></tr></thead><tbody>';
-    DIFF.forEach(function (d) { var x = d[1](ra.a), y = d[1](rb.a); rows += '<tr><th scope="row" style="font-weight:500">' + d[0] + '</th><td' + (x ? '' : ' class="p"') + '>' + esc(x || 'Por confirmar') + '</td><td' + (y ? '' : ' class="p"') + '>' + esc(y || 'Por confirmar') + '</td></tr>'; });
+    DIFF.forEach(function (d) { var x = d[1](ra.a), y = d[1](rb.a); rows += '<tr><th scope="row" style="font-weight:500">' + d[0] + '</th><td' + (x ? '' : ' class="p"') + '>' + esc(x || 'N/D') + '</td><td' + (y ? '' : ' class="p"') + '>' + esc(y || 'N/D') + '</td></tr>'; });
     $('dt').innerHTML = rows + '</tbody>';
     $('legal').textContent = st.modo === 'credito' ? 'Tasa anual de ejemplo ' + v('tasa').toFixed(1) + '%. CAT capturado ' + v('cat').toFixed(1) + '% sin IVA. Para fines informativos y de comparación. Mensualidad estimada sin seguro financiado ni comisiones. En el producto se muestran la tasa y el CAT de cada otorgante, con fecha.' : 'Pago de contado. Seguro, gasolina y servicios son supuestos editables. Tenencia y refrendo dependen del estado y aún no se incluyen.';
     document.querySelectorAll('[data-modo]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.modo === st.modo)); });

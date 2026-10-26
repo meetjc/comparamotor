@@ -2,7 +2,7 @@
 import { page } from '../layout.mjs';
 import { home } from './home.mjs';
 import { esc, mxn, num, fechaCorta, fechaLarga, mensualidad, costo5, SITE } from '../lib.mjs';
-import { sil, answer, table, fuentes, faq, ph, actualizado, img, credito, CARRO_N, TRANS_N, PROP_N } from './common.mjs';
+import { sil, answer, table, fuentes, faq, ph, actualizado, img, credito, CARRO_N, TRANS_N, PROP_N, ND, ND_AVISO } from './common.mjs';
 import { fichaURL, calcCredito } from './autos.mjs';
 
 const REND = { hatchback: 16, sedan: 15, suv: 13, pickup: 10 };
@@ -54,7 +54,7 @@ export function comparativa(ctx, c, D) {
   const resp = `Si lo compras a crédito, el <b>${esc(N[barato])}</b> sale <b>${mxn(dif)} más barato en cinco años</b> sumando enganche, mensualidades, seguro, gasolina y servicios. El ${esc(na)} va de ${mxn(ea.precio)} a ${mxn(ta.precio)} y el ${esc(nb)} de ${mxn(eb.precio)} a ${mxn(tb.precio)}, precios de lista verificados el ${esc(fechaLarga(fecha))}.`;
 
   const fila = (l, x, y) => [l, x, y];
-  const si = (b) => (b === true ? 'Sí' : b === false ? 'No' : '<span class="fine">Por confirmar</span>');
+  const si = (b) => (b === true ? 'Sí' : b === false ? 'No' : ND);
   const tabla = table({
     head: ['', `${esc(na)}`, `${esc(nb)}`],
     rows: [
@@ -62,20 +62,20 @@ export function comparativa(ctx, c, D) {
       fila('Precio hasta', mxn(ta.precio), mxn(tb.precio)),
       fila('Versiones', String(va.length), String(vb.length)),
       fila('Versión de entrada', esc(ea.nombre), esc(eb.nombre)),
-      fila('Motor (entrada)', esc(ea.motor || '—'), esc(eb.motor || '—')),
-      fila('Potencia (entrada)', ea.potenciaHp ? ea.potenciaHp + ' hp' : '—', eb.potenciaHp ? eb.potenciaHp + ' hp' : '—'),
-      fila('Transmisión (entrada)', esc(TRANS_N[ea.transmision] || ea.transmision || '—'), esc(TRANS_N[eb.transmision] || eb.transmision || '—')),
-      fila('Rendimiento oficial máx.', ra ? num(ra) + ' km/l' : '<span class="fine">Por confirmar</span>', rb ? num(rb) + ' km/l' : '<span class="fine">Por confirmar</span>'),
-      fila('Bolsas de aire (entrada)', ea.bolsasAire ? String(ea.bolsasAire) : '<span class="fine">Por confirmar</span>', eb.bolsasAire ? String(eb.bolsasAire) : '<span class="fine">Por confirmar</span>'),
+      fila('Motor (entrada)', ea.motor ? esc(ea.motor) : ND, eb.motor ? esc(eb.motor) : ND),
+      fila('Potencia (entrada)', ea.potenciaHp ? ea.potenciaHp + ' hp' : ND, eb.potenciaHp ? eb.potenciaHp + ' hp' : ND),
+      fila('Transmisión (entrada)', (TRANS_N[ea.transmision] || ea.transmision) ? esc(TRANS_N[ea.transmision] || ea.transmision) : ND, (TRANS_N[eb.transmision] || eb.transmision) ? esc(TRANS_N[eb.transmision] || eb.transmision) : ND),
+      fila('Rendimiento oficial máx.', ra ? num(ra) + ' km/l' : ND, rb ? num(rb) + ' km/l' : ND),
+      fila('Bolsas de aire (entrada)', ea.bolsasAire ? String(ea.bolsasAire) : ND, eb.bolsasAire ? String(eb.bolsasAire) : ND),
       fila('Frenado autónomo (entrada)', si(aebEA), si(aebEB)),
-      fila('Garantía', esc(gA || '—'), esc(gB || '—')),
+      fila('Garantía', gA ? esc(gA) : ND, gB ? esc(gB) : ND),
       fila(`Mensualidad de ejemplo × ${s.plazo}`, `<b>${mxn(ma)}</b>`, `<b>${mxn(mb)}</b>`),
       fila('Costo total a 5 años', `<b>${mxn(ca.total)}</b>`, `<b>${mxn(cb.total)}</b>`),
     ],
-    caption: `Versiones de entrada. Mensualidad con ${s.eng}% de enganche, ${s.plazo} meses y tasa anual de ejemplo de ${s.tasa}% (el CAT real lo informa cada otorgante). Costo total con ${num(s.km)} km al año, gasolina a $${s.gas}/l, seguro de ${mxn(s.seguro)} al año y ${mxn(s.serv)} de servicios. Si no hay rendimiento oficial usamos uno supuesto.`,
+    caption: `Versiones de entrada. Mensualidad con ${s.eng}% de enganche, ${s.plazo} meses y tasa anual de ejemplo de ${s.tasa}% (el CAT real lo informa cada otorgante). Costo total con ${num(s.km)} km al año, gasolina a $${s.gas}/l, seguro de ${mxn(s.seguro)} al año y ${mxn(s.serv)} de servicios. Si no hay rendimiento oficial usamos uno supuesto. ` + ND_AVISO,
   });
 
-  const vers = (a, vs, n) => table({ head: ['Versión', 'Transmisión', { t: 'Precio de lista', n: true }, { t: 'Mensualidad', n: true }], rows: vs.map((v) => [esc(v.nombre), esc(TRANS_N[v.transmision] || v.transmision || '—'), `<b>${mxn(v.precio)}</b>`, mxn(mensualidad(v.precio, s))]) });
+  const vers = (a, vs, n) => table({ head: ['Versión', 'Transmisión', { t: 'Precio de lista', n: true }, { t: 'Mensualidad', n: true }], rows: vs.map((v) => [esc(v.nombre), (TRANS_N[v.transmision] || v.transmision) ? esc(TRANS_N[v.transmision] || v.transmision) : ND, `<b>${mxn(v.precio)}</b>`, mxn(mensualidad(v.precio, s))]) });
 
   const f = faq([
     { q: `¿Qué es mejor, ${na} o ${nb}?`, a: `Depende de lo que pagues y lo que necesites. En costo total a cinco años gana el ${esc(N[barato])} por ${mxn(dif)}. Revisa la tabla: potencia, rendimiento y seguridad cambian por versión.` },

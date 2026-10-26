@@ -168,14 +168,14 @@ export function home(ctx, D, opt = {}) {
     desglose: `
   <section class="sec soft" id="desglose" aria-labelledby="dg-t">
     <div class="wrap">
-      <div class="sec-h"><h2 id="dg-t">El desglose, línea por línea</h2><p>Cada precio dice de dónde sale y cuándo se verificó. Lo que la fuente no informa aparece como «por confirmar».</p></div>
+      <div class="sec-h"><h2 id="dg-t">El desglose, línea por línea</h2><p>Cada precio dice de dónde sale y cuándo se verificó. Lo que la fuente oficial no publica aparece como «N/D»: confírmalo con la marca antes de comprar.</p></div>
       <div class="labels"><article class="etq" id="ea"></article><article class="etq" id="eb"></article></div>
       <div class="dgm" id="dgm"></div>
       <div class="decide">
         <div><h3>¿Ya sabes cuál te conviene?</h3><p>Llévate la cuenta a la agencia. Abre la ficha de cada versión para ver todas sus versiones y fuentes.</p></div>
         <div class="acts"><button class="pill p-white" type="button" id="b-copy">Copiar para WhatsApp</button><button class="pill p-white" type="button" id="b-print">Imprimir o guardar PDF</button><a class="pill p-primary" id="b-ficha" href="${ctx.u('/autos/')}">Ver las fichas</a></div>
       </div>
-      <details class="diff"><summary>Lo que cambia entre versiones: seguridad, garantía y consumo</summary><div class="diff-in"><table id="dt"></table><p class="legal">Cada dato lleva su fuente en la ficha del modelo. «Por confirmar» nunca se muestra como «no lo trae».</p></div></details>
+      <details class="diff"><summary>Lo que cambia entre versiones: seguridad, garantía y consumo</summary><div class="diff-in"><table id="dt"></table><p class="legal">Cada dato lleva su fuente en la ficha del modelo. «N/D» significa que la fuente oficial no lo publica; no quiere decir que lo traiga ni que no lo traiga. Confírmalo con la marca o tu distribuidor.</p></div></details>
       <p class="legal" id="legal"></p>
     </div>
   </section>`,

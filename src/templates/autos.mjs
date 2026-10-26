@@ -1,10 +1,10 @@
 // Autos nuevos: índice, marcas, fichas de modelo y lista de precios.
 import { page } from '../layout.mjs';
 import { esc, mxn, num, fechaCorta, fechaLarga, mensualidad, costo5, SITE } from '../lib.mjs';
-import { linkify, sil, answer, table, fuentes, faq, ph, actualizado, entrada, tope, fechaMax, rendimiento, autoCard, CARRO_N, PROP_N, TRANS_N, credito, img } from './common.mjs';
+import { linkify, sil, answer, table, fuentes, faq, ph, actualizado, entrada, tope, fechaMax, rendimiento, autoCard, CARRO_N, PROP_N, TRANS_N, credito, img, ND, ND_AVISO } from './common.mjs';
 
 const ORIGEN_N = { japonesa: 'japonesa', china: 'china', coreana: 'coreana', alemana: 'alemana', estadounidense: 'estadounidense', francesa: 'francesa', 'britanica-china': 'británica de capital chino', 'britanico-china': 'británica de capital chino' };
-const si = (b) => (b === true ? 'Sí' : b === false ? 'No' : '<span class="fine">Por confirmar</span>');
+const si = (b) => (b === true ? 'Sí' : b === false ? 'No' : ND);
 const anioDe = (a) => a.anioModeloVigente || (entrada(a) || {}).anio || '';
 
 export function nombreCompleto(a) { return `${a.marca} ${a.modelo}`; }
@@ -40,8 +40,8 @@ export function ficha(ctx, a, D) {
 
   const tablaPrecios = table({
     head: ['Versión', 'Transmisión', 'Motor', { t: 'Potencia', n: true }, { t: 'Precio de lista', n: true }, 'Fuente'],
-    rows: vs.map((v) => [esc(v.nombre) + (v.anio && v.anio !== anio ? ` <span class="tag">${v.anio}</span>` : ''), esc(TRANS_N[v.transmision] || v.transmision || '—'), esc(v.motor || '—'), v.potenciaHp ? `${v.potenciaHp} hp` : '—', `<b>${mxn(v.precio)}</b>`, `<span class="src"><a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.fuente)}</a>, ${esc(fechaCorta(v.fechaVerificacion))}</span>`]),
-    caption: 'Precios de lista con IVA publicados por la fuente. Confirma el precio final y la disponibilidad con la agencia.',
+    rows: vs.map((v) => [esc(v.nombre) + (v.anio && v.anio !== anio ? ` <span class="tag">${v.anio}</span>` : ''), (TRANS_N[v.transmision] || v.transmision) ? esc(TRANS_N[v.transmision] || v.transmision) : ND, v.motor ? esc(v.motor) : ND, v.potenciaHp ? `${v.potenciaHp} hp` : ND, `<b>${mxn(v.precio)}</b>`, `<span class="src"><a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.fuente)}</a>, ${esc(fechaCorta(v.fechaVerificacion))}</span>`]),
+    caption: 'Precios de lista con IVA publicados por la fuente oficial. ' + ND_AVISO,
   });
 
   const tablaMens = table({
@@ -52,8 +52,8 @@ export function ficha(ctx, a, D) {
 
   const tablaSeg = table({
     head: ['Versión', { t: 'Bolsas de aire', n: true }, 'Frenado autónomo de emergencia', { t: 'Rendimiento combinado', n: true }],
-    rows: vs.map((v) => [esc(v.nombre), v.bolsasAire ? String(v.bolsasAire) : '<span class="fine">Por confirmar</span>', si(v.frenadoAutonomoEmergencia), v.rendimientoCombinadoKmL ? `${num(v.rendimientoCombinadoKmL)} km/l` : v.autonomiaKm ? `${num(v.autonomiaKm)} km de autonomía` : '<span class="fine">Por confirmar</span>']),
-    caption: '«Por confirmar» significa que la fuente oficial no lo informa; no quiere decir que la versión no lo traiga.',
+    rows: vs.map((v) => [esc(v.nombre), v.bolsasAire ? String(v.bolsasAire) : ND, si(v.frenadoAutonomoEmergencia), v.rendimientoCombinadoKmL ? `${num(v.rendimientoCombinadoKmL)} km/l` : v.autonomiaKm ? `${num(v.autonomiaKm)} km de autonomía` : ND]),
+    caption: ND_AVISO,
   });
 
   const ofHTML = ofertas.length ? `<div class="grid2">${ofertas.map((o) => `<div class="tile"><span class="k">${o.vigenciaHasta ? 'Vigente hasta el ' + esc(fechaLarga(o.vigenciaHasta)) : 'Vigencia por confirmar'}</span><h3>${o.precioOferta ? mxn(o.precioOferta) + ' · ' : ''}${esc(o.descripcion || 'Oferta publicada')}</h3>${o.condicion ? `<p><b>Condición:</b> ${esc(o.condicion)}</p>` : ''}<p class="fine"><a href="${esc(o.url)}" target="_blank" rel="noopener" style="text-decoration:underline">${esc(o.fuente)}</a>, consultada el ${esc(fechaCorta(o.fechaVerificacion))}</p></div>`).join('')}</div>` : `<p>No encontramos una promoción publicada por la marca para el ${esc(a.modelo)} al ${esc(fechaLarga(fecha))}.</p>`;
@@ -91,7 +91,7 @@ export function ficha(ctx, a, D) {
       <div class="prose">
         <div class="byline2">${actualizado(fecha, 'Redacción ComparaMotor', ctx)}</div>
         ${answer(resp)}
-        <div class="kpis" style="margin-top:20px"><div><b class="num">${mxn(e.precio)}</b><span>Precio de entrada</span></div><div><b class="num">${vs.length}</b><span>Versiones</span></div><div><b class="num">${rend ? num(rend) + ' km/l' : '—'}</b><span>${rend ? 'Rendimiento oficial máx.' : 'Rendimiento por confirmar'}</span></div><div><b>${esc((a.garantia && a.garantia.texto) || '—')}</b><span>Garantía</span></div></div>
+        <div class="kpis" style="margin-top:20px"><div><b class="num">${mxn(e.precio)}</b><span>Precio de entrada</span></div><div><b class="num">${vs.length}</b><span>Versiones</span></div><div><b class="num">${rend ? num(rend) + ' km/l' : 'N/D'}</b><span>${rend ? 'Rendimiento oficial máx.' : 'Rendimiento no publicado'}</span></div><div><b>${esc((a.garantia && a.garantia.texto) || '—')}</b><span>Garantía</span></div></div>
         ${foto && foto.galeria && foto.galeria.length > 1 ? `<h2 id="fotos">Fotos del ${esc(a.modelo)}</h2><div class="galeria">${foto.galeria.map((g, i) => `<figure class="foto">${img(ctx, reg, g.archivo, g.alt, { w: g.ancho, h: g.alto })}${credito(reg, g.archivo)}</figure>`).join('')}</div><p class="fine">Fotos de terceros con licencia libre; cada una con su autor y su licencia. Pueden mostrar versiones de otros mercados.</p>` : ''}
         <h2 id="precios">¿Cuánto cuesta el ${esc(nombre)} ${anio} en México?</h2>
         <p>Estas son todas las versiones con precio publicado. El precio de lista no incluye promociones; si una oferta exige crédito con la marca, la verás en la sección de promociones.</p>

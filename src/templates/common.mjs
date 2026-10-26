@@ -4,6 +4,9 @@ import { esc, mxn, num, fechaCorta, fechaLarga, SITE } from '../lib.mjs';
 export const CARRO = { hatchback: 'sil-hatchback', sedan: 'sil-sedan', suv: 'sil-suv', pickup: 'sil-pickup', van: 'sil-suv', coupe: 'sil-sedan' };
 export const CARRO_N = { hatchback: 'Hatchback', sedan: 'Sedán', suv: 'SUV', pickup: 'Pickup', van: 'Van', coupe: 'Coupé' };
 export const PROP_N = { gasolina: 'Gasolina', hibrido: 'Híbrido', 'hibrido-enchufable': 'Híbrido enchufable', electrico: 'Eléctrico', diesel: 'Diésel', 'hibrido-ligero': 'Híbrido ligero' };
+// Dato que la fuente oficial no publica: N/D, sin afirmar que la versión lo tenga o no.
+export const ND = '<span class="fine nd" title="Dato no publicado por la fuente oficial. Confírmalo con la marca o tu distribuidor autorizado.">N/D</span>';
+export const ND_AVISO = '<b>N/D</b> = no disponible: la fuente oficial no publica el dato a la fecha de verificación. No significa que la versión lo tenga ni que no lo tenga. La información es de carácter informativo y puede cambiar sin aviso; confirma precio, equipo y especificaciones con la marca o tu distribuidor autorizado antes de comprar.';
 export const TRANS_N = { manual: 'Manual', automatica: 'Automática', cvt: 'CVT', 'doble-embrague': 'Doble embrague', 'e-cvt': 'e-CVT', directa: 'Directa (eléctrico)' };
 
 export function sil(carroceria, { color = 'currentColor', flip = false, label = '' } = {}) {
