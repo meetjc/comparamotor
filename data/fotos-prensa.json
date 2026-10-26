@@ -1,0 +1,73 @@
+{
+ "_regla": "Solo fotos tomadas de salas de prensa OFICIALES de la marca (nunca de periódicos, agencias de noticias ni otros medios). Uso editorial: solo dentro de notas y guías, sin recortar ni alterar, con crédito y liga al comunicado de origen. Hyundai, BYD y MG México prohíben reproducir sin permiso escrito: no se usan.",
+ "lotes": [
+  {
+   "archivoBase": "prensa-nissan-frontier-pro-phev",
+   "autor": "Nissan Mexicana",
+   "fuenteId": "prensa-nissan-mx",
+   "credito": "Nissan Mexicana (sala de prensa oficial)",
+   "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/nissan-frontier-pro-phev-2026",
+   "terminosUrl": "https://mexico.nissannews.com/es-MX/es-tos",
+   "fotos": [
+    {
+     "url": "https://mexico.nissannews.com/releases/release-aaf1f033d51687faf9482a3fb4004f0c/images/30242459e0878e22a3095b3721e81f0062ef2299",
+     "alt": "Nissan Frontier PRO PHEV 2026 de frente en un camino de terracería"
+    },
+    {
+     "url": "https://mexico.nissannews.com/releases/release-aaf1f033d51687faf9482a3fb4004f0c/images/be38463454264255096841d4a6961e7b83d50eee",
+     "alt": "Nissan Frontier PRO PHEV 2026 de perfil junto a un lago"
+    },
+    {
+     "url": "https://mexico.nissannews.com/releases/release-aaf1f033d51687faf9482a3fb4004f0c/images/6f92770bcda77db222d4f73248d04ec0136e9ed4",
+     "alt": "Interior y tablero de la Nissan Frontier PRO PHEV 2026"
+    }
+   ]
+  },
+  {
+   "autor": "Nissan Mexicana",
+   "fuenteId": "prensa-nissan-mx",
+   "credito": "Nissan Mexicana (sala de prensa oficial)",
+   "terminosUrl": "https://mexico.nissannews.com/es-MX/es-tos",
+   "archivoBase": "prensa-nissan-versa-2026-kit",
+   "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/nissan-versa-2026-kit-de-prensa",
+   "fotos": [
+    {
+     "url": "https://wieck-nissanao-production.s3.amazonaws.com/photos/7056697e54138e4640112ad64981b5878dc255c3/preview-928x522.jpg",
+     "alt": "Nissan Versa 2026 azul visto de tres cuartos de frente"
+    }
+   ]
+  },
+  {
+   "autor": "Nissan Mexicana",
+   "fuenteId": "prensa-nissan-mx",
+   "credito": "Nissan Mexicana (sala de prensa oficial)",
+   "terminosUrl": "https://mexico.nissannews.com/es-MX/es-tos",
+   "archivoBase": "prensa-nissan-versa-2026",
+   "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/mas-versa-que-nunca-asi-eleva-nissan-versa-2026-el-estandar-de-la-seguridad-en-su-segmento",
+   "fotos": [
+    {
+     "url": "https://wieck-nissanao-production.s3.amazonaws.com/photos/2b7086687d38557312c759f25f0a02e96bb03879/preview-928x522.jpg",
+     "alt": "Nissan Versa 2026 azul visto de tres cuartos por detrás"
+    },
+    {
+     "url": "https://wieck-nissanao-production.s3.amazonaws.com/photos/b79c57659468217a4f95ca2f14f7a9837ae53347/preview-928x522.jpg",
+     "alt": "Volante y tablero del Nissan Versa 2026"
+    }
+   ]
+  },
+  {
+   "autor": "Nissan Mexicana",
+   "fuenteId": "prensa-nissan-mx",
+   "credito": "Nissan Mexicana (sala de prensa oficial)",
+   "terminosUrl": "https://mexico.nissannews.com/es-MX/es-tos",
+   "archivoBase": "prensa-nissan-kicks-2025",
+   "paginaUrl": "https://mexico.nissannews.com/es-MX/releases/nissan-kicks-2025-deslumbra-con-una-gama-de-accesorios-unica-para-maxima-personalizacion",
+   "fotos": [
+    {
+     "url": "https://wieck-nissanao-production.s3.amazonaws.com/photos/7fff0c844346910c51ab71749fbcf746d077f549/preview-928x522.jpg",
+     "alt": "Nissan Kicks 2025 gris con accesorios visto de tres cuartos por detrás"
+    }
+   ]
+  }
+ ]
+}

@@ -283,3 +283,8 @@ a.tile:active { transform: translateY(0) scale(.99); }
   body.print-desglose a { color: #000; }
 }
 .pcard2 { min-width: 0; } .pcard2 .tag { white-space: normal; max-width: 100%; overflow-wrap: anywhere; text-align: left; }
+/* Fotos de sala de prensa: se muestran completas, sin recorte (la licencia prohíbe alterarlas) */
+.foto.sin-recorte { aspect-ratio: auto !important; background: transparent; }
+.foto.sin-recorte img { height: auto; object-fit: contain; display: block; }
+.foto.sin-recorte .credito { position: static; display: block; padding: 6px 2px 0; background: none; color: var(--body); }
+.foto.sin-recorte .credito a { color: inherit; }

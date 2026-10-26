@@ -102,6 +102,18 @@ for (const f of fs.readdirSync(imgDir)) {
 const faltan = [];
 for (const [route, p] of pages) for (const m of p.html.matchAll(/<img[^>]+src="([^"]+)"/g)) { const f = decodeURIComponent(m[1].split('/').pop()); if (!fs.existsSync(path.join(OUT, 'assets/img', f))) faltan.push(`${route} → ${f}`); }
 if (faltan.length) { console.error('Imágenes sin registro o inexistentes:\n' + faltan.join('\n')); process.exit(1); }
+// Fotos de sala de prensa (licencia «uso editorial»): solo dentro de notas y guías, con fuente ligada y nunca como imagen para compartir.
+// Nunca fotos de periódicos o agencias (El Universal, Reforma, Cuartoscuro…): solo fuentes oficiales de la marca.
+const prensaMal = [];
+for (const [f, r] of Object.entries(reg)) if (r.licencia === 'prensa-marca' && (!r.paginaUrl || !/^prensa-/.test(r.fuenteId || ''))) prensaMal.push(`${f}: falta liga a la sala de prensa oficial`);
+for (const [route, p] of pages) {
+  const editorial = /^\/(noticias|guias)\/[^/]+\/$/.test(route) && !route.startsWith('/noticias/tema/');
+  for (const m of p.html.matchAll(/(?:<img[^>]+src|<meta property="og:image" content)="([^"]+)"/g)) {
+    const f = decodeURIComponent(m[1].split('/').pop()), r = reg[f];
+    if (r && r.licencia === 'prensa-marca' && (!editorial || m[0].startsWith('<meta'))) prensaMal.push(`${route} → ${f} (foto de prensa fuera de una nota o como imagen para compartir)`);
+  }
+}
+if (prensaMal.length) { console.error('Uso no editorial de fotos de prensa:\n' + prensaMal.join('\n')); process.exit(1); }
 
 // Datos abiertos
 fs.mkdirSync(path.join(OUT, 'datos'), { recursive: true });

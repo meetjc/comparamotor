@@ -27,7 +27,8 @@ export function credito(reg, file) {
   if (r.licencia === 'propia') return '';
   const nombreLic = r.licenciaNombre || licNombre(r.licencia);
   const quien = String(r.credito || '').replace(/^Foto:\s*/, '').replace(/,\s*(CC|Dominio)[^,]*$/i, '');
-  const src = r.paginaUrl ? `<a href="${esc(r.paginaUrl)}" target="_blank" rel="noopener">${esc(quien || 'Fuente')}</a>` : esc(quien);
+  const rel = r.licencia === 'prensa-marca' ? 'nofollow noopener' : 'noopener';
+  const src = r.paginaUrl ? `<a href="${esc(r.paginaUrl)}" target="_blank" rel="${rel}">${esc(quien || 'Fuente')}</a>` : esc(quien);
   const lic = r.licenciaUrl ? `, <a href="${esc(r.licenciaUrl)}" target="_blank" rel="noopener license">${esc(nombreLic)}</a>` : nombreLic ? ', ' + esc(nombreLic) : '';
   return `<span class="credito">Foto: ${src}${lic}</span>`;
 }
@@ -107,7 +108,7 @@ export function chartBars(g) {
 export function renderFigs(html, ctx, D, graficas = {}) {
   return String(html || '').replace(/<!--FIG:(foto|ia|grafica):([^:>]+)(?::(\d+))?-->/g, (_, tipo, clave, n) => {
     if (tipo === 'grafica') return graficas[clave] ? chartBars(graficas[clave]) : '';
-    if (tipo === 'ia') { if (!D.reg[clave]) return ''; return `<figure class="foto fig-inline">${img(ctx, D.reg, clave, '', { w: 1200, h: 800 })}${credito(D.reg, clave)}</figure>`; }
+    if (tipo === 'ia') { const r = D.reg[clave]; if (!r) return ''; const pr = r.licencia === 'prensa-marca'; return `<figure class="foto fig-inline${pr ? ' sin-recorte' : ''}">${img(ctx, D.reg, clave, r.alt || '', { w: r.ancho || 1200, h: r.alto || 800 })}${credito(D.reg, clave)}</figure>`; }
     const f = (D.fotos || {})[clave]; if (!f) return '';
     const g = (f.galeria || [])[Number(n) || 0] || (f.galeria || [])[0]; if (!g || !D.reg[g.archivo]) return '';
     return `<figure class="foto fig-inline">${img(ctx, D.reg, g.archivo, g.alt, { w: g.ancho, h: g.alto })}${credito(D.reg, g.archivo)}</figure>`;
@@ -160,4 +161,13 @@ export function promoCard(p, { tag = 'h3', compacta = false } = {}) {
     ${!compacta && resto.length ? `<details class="p-more"><summary>Ver condiciones completas</summary>${resto.map((x) => `<p>${esc(x)}</p>`).join('')}</details>` : ''}
     <span class="src">${p.url ? `<a href="${esc(p.url)}" target="_blank" rel="noopener">Sitio oficial</a>` : 'Fuente por confirmar'}${p.fecha_verificacion ? `, consultada el ${esc(fechaCorta(p.fecha_verificacion))}` : ''}</span>
   </article>`;
+}
+
+// Línea final de una nota con fotos de sala de prensa: de dónde salen y cuándo se consultaron
+export function fotosPrensaNota(reg, files) {
+  const rs = [...new Set(files)].map((f) => reg[f]).filter((r) => r && r.licencia === 'prensa-marca');
+  if (!rs.length) return '';
+  const porMarca = new Map(); for (const r of rs) { const s = porMarca.get(r.autor) || new Set(); s.add(r.paginaUrl); porMarca.set(r.autor, s); }
+  const lk = (u, i, n) => `<a href="${esc(u)}" target="_blank" rel="nofollow noopener">${n > 1 ? 'comunicado ' + (i + 1) : 'comunicado'}</a>`;
+  return `<p class="fine fotos-prensa">Fotos: ${[...porMarca].map(([autor, us]) => `sala de prensa oficial de ${esc(autor)} (${[...us].map((u, i) => lk(u, i, us.size)).join(', ')})`).join(' y ')}, consultada el ${esc(fechaLarga(rs[0].fecha))}. Uso editorial; las fotos no se recortaron ni se alteraron.</p>`;
 }

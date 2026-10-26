@@ -92,3 +92,10 @@ Formato exacto: `Foto: {autor} / {fuente}, {licencia}` (con ligas a la página d
 *   `data/fuentes-imagenes.json`
 *   `data/imagenes-candidatas/<marca>-<modelo>.json`
 *   `scripts/imagenes/` (commons.mjs, flickr-cc.mjs, merge-prensa.mjs, sgai/)
+
+## Fotos de salas de prensa oficiales (desde el 25 oct 2026)
+- Se toman solo de la sala de prensa oficial de la marca (p. ej. mexico.nissannews.com). Nunca de periódicos, agencias de noticias ni otros medios: El Universal, El Economista, Milenio y Reforma publican fotos de sus propios reporteros («Foto: Benito Martínez Gil», «Foto: Mauricio Juárez»); esas no se usan.
+- Lista auditable en `data/fotos-prensa.json` (comunicado, términos, URL de cada foto). `python3 scripts/imagenes/prensa.py` las descarga, las convierte a JPEG sin recortar ni redimensionar y las registra con licencia `prensa-marca`.
+- Uso editorial: solo dentro de notas y guías (`imagenNota` o `<!--FIG:ia:archivo-->`). Se muestran completas, sin recorte. El build falla si aparecen en fichas, comparador, portada, listados o como imagen para compartir (og:image).
+- Crédito en el pie de cada foto: «Foto: <Marca> (sala de prensa oficial), uso editorial», con liga nofollow al comunicado y a los términos. Al final de la nota: «Fotos: sala de prensa oficial de <Marca> (comunicado), consultada el <fecha>».
+- No se usan: Hyundai, BYD y MG México (prohíben reproducir sin permiso escrito). VW of America y otras salas que piden registro: hasta que JC se dé de alta como medio.
