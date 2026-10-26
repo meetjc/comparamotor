@@ -1,115 +1,117 @@
 {
-  "slug": "arancel-autos-chinos-ventas-cierre-del-ano",
-  "titulo": "Arancel de hasta 50% a autos chinos: las marcas asiáticas siguen creciendo, pero la AMDA espera menos ritmo al cierre del año",
-  "tema": "industria",
-  "fechaFuente": "2026-10-04",
-  "fuentes": [
-    {
-      "nombre": "El Economista, Venta de autos sube 5% en septiembre y se enfila a récord",
-      "url": "https://www.eleconomista.com.mx/empresas/venta-autos-sube-5-septiembre-enfila-record-20261004-836837.html",
-      "fecha": "2026-10-04"
-    },
-    {
-      "nombre": "INEGI, Reporte de resultados RAIAVL septiembre 2026, boletín 618/26",
-      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/rm_raiavl/rm_raiavl2026_10.pdf",
-      "fecha": "2026-10-07"
-    },
-    {
-      "nombre": "Revista Autofan, Los chinos se están mudando a México: qué marcas ya construyen planta aquí",
-      "url": "https://revistautofan.com/2026/09/22/los-chinos-se-estan-mudando-a-mexico-que-marcas-ya-construyen-planta-aqui-y-que-significa-para-el-precio-de-tu-proximo-auto/",
-      "fecha": "2026-09-22"
-    },
-    {
-      "nombre": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026",
-      "url": "https://www.amda.mx/wp-content/uploads/2609_ligeros.pdf",
-      "fecha": "2026-10-07",
-      "nota": "Presentación de 47 láminas; las cifras se leyeron de las imágenes"
-    }
-  ],
-  "datosClave": [
-    {
-      "dato": "Arancel a vehículos de países sin tratado comercial con México",
-      "valor": "Hasta 50%, vigente desde el 1 de enero de 2026",
-      "fuente": "Revista Autofan, 22 sep 2026"
-    },
-    {
-      "dato": "Importaciones de autos chinos en el primer semestre de 2026",
-      "valor": "Cayeron 31.1%; las marcas chinas conservaron cerca de 17% del mercado",
-      "fuente": "Revista Autofan, 22 sep 2026"
-    },
-    {
-      "dato": "Geely, septiembre 2026",
-      "valor": "4,306 unidades, +91.1% (2,253 en septiembre de 2025)",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Geely, enero-septiembre 2026",
-      "valor": "35,912 unidades, +181.3% (12,768 en 2025)",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Jetour Soueast, enero-septiembre 2026",
-      "valor": "4,727 unidades, +295.2%; septiembre 611 (+84.6%)",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Zeekr y Lynk&Co (reportan juntas), enero-septiembre 2026",
-      "valor": "2,911 unidades; septiembre 334",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Changan, enero-septiembre 2026",
-      "valor": "16,184 unidades, +23.9%; septiembre 1,766 (-13.9%)",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Great Wall Motor, enero-septiembre 2026",
-      "valor": "10,022 unidades, -8.7%; septiembre 1,192 (-7.8%)",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "JAC, enero-septiembre 2026",
-      "valor": "17,255 unidades, -4.0%; septiembre 1,884 (+6.5%)",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Marcas no afiliadas a la AMIA en conjunto",
-      "valor": "Septiembre 10,272 unidades (+26.49%); enero-septiembre 88,883 (+47.16%) frente a 60,397",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Pronóstico de la AMDA para octubre-diciembre 2026",
-      "valor": "Variación positiva menor a la del primer trimestre y quizá menor a la de 2025, por posibles ajustes de precio de las marcas chinas ante el arancel de 50%",
-      "fuente": "Guillermo Rosales, presidente de la AMDA, citado por El Economista, 4 oct 2026"
-    },
-    {
-      "dato": "Postura de Changan",
-      "valor": "No trasladará el arancel a los consumidores",
-      "fuente": "El Economista, 4 oct 2026"
-    },
-    {
-      "dato": "Planta de GAC en México",
-      "valor": "Iniciaría operaciones en el segundo semestre de 2026; a septiembre no había revelado ubicación ni inversión",
-      "fuente": "Revista Autofan, 22 sep 2026"
-    },
-    {
-      "dato": "Inversión de General Motors en Ramos Arizpe, Coahuila",
-      "valor": "1,000 millones de dólares para producir Chevrolet Groove (desde 2027) y Aveo; meta de unas 80,000 unidades anuales hacia 2030",
-      "fuente": "Revista Autofan, 22 sep 2026"
-    }
-  ],
-  "resumen": "México cobra desde enero aranceles de hasta 50% a los autos de países sin tratado, entre ellos China, y aun así las cifras del INEGI muestran a Geely con 35,912 unidades en nueve meses, casi el triple que un año antes. El presidente de la AMDA, Guillermo Rosales, anticipa que octubre a diciembre crecerán menos que el arranque del año si las armadoras chinas empiezan a reflejar el gravamen en el precio. Changan ya dijo que no lo trasladará, y varias marcas buscan evitarlo ensamblando en Brasil o, según Revista Autofan, en México: GAC prepara una planta y General Motors invertirá en Coahuila para fabricar Groove y Aveo. Para quien compra, el efecto en precios aún no es uniforme y conviene comparar cada modelo.",
-  "modelosMencionados": [
-    {
-      "marca": "Chevrolet",
-      "modelo": "Aveo"
-    },
-    {
-      "marca": "Chevrolet",
-      "modelo": "Groove"
-    }
-  ],
-  "fechaVerificacion": "2026-10-24",
-  "cuerpoHtml": "<p class=\"answer\">Desde el 1 de enero de 2026, los autos de países sin tratado comercial con México, entre ellos China, enfrentan aranceles de hasta 50%, según Revista Autofan. Aun así, el INEGI muestra a Geely con 35,912 unidades de enero a septiembre, 181.3% más que en 2025. La AMDA espera que octubre a diciembre crezcan menos que el arranque del año.</p><h2>¿Qué arancel se cobra a los autos chinos en México?</h2><p>Hasta 50%, vigente desde el 1 de enero de 2026, para vehículos de países con los que México no tiene tratado comercial. Esa cifra la dan Revista Autofan y el presidente de la AMDA citado por El Economista. No revisamos el texto del decreto, así que no sabemos cómo aplica a cada modelo. Autofan reporta que las importaciones de autos chinos cayeron 31.1% en el primer semestre.</p><h2>¿Siguen creciendo las marcas chinas?</h2><p>Algunas sí y otras no. Geely y Jetour Soueast crecen con fuerza; Great Wall retrocede. Estas son las marcas de origen chino que aparecen en la tabla de ventas del INEGI:</p><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Marca</th><th>Sept. 2026</th><th>Var. anual</th><th>Ene-sep 2026</th><th>Var. anual</th></tr></thead><tbody><tr><td>Geely</td><td>4,306</td><td>+91.1%</td><td>35,912</td><td>+181.3%</td></tr><tr><td>JAC</td><td>1,884</td><td>+6.5%</td><td>17,255</td><td>-4.0%</td></tr><tr><td>Changan</td><td>1,766</td><td>-13.9%</td><td>16,184</td><td>+23.9%</td></tr><tr><td>Great Wall Motor</td><td>1,192</td><td>-7.8%</td><td>10,022</td><td>-8.7%</td></tr><tr><td>Jetour Soueast</td><td>611</td><td>+84.6%</td><td>4,727</td><td>+295.2%</td></tr><tr><td>Zeekr y Lynk&amp;Co</td><td>334</td><td>n.d.</td><td>2,911</td><td>n.d.</td></tr><tr><td>MG (grupo SAIC)</td><td>4,256</td><td>+6.2%</td><td>40,275</td><td>+12.2%</td></tr></tbody></table></div><p>Las marcas no afiliadas a la AMIA, en conjunto, vendieron 10,272 unidades en septiembre (+26.49%) y 88,883 en el año (+47.16%). Faltan BYD, GAC y Chirey: el INEGI no los incluye. La AMDA estima que BYD vendió 5,715 unidades en septiembre (-9.4%) y 51,011 en el año (-4.7%). Es una estimación de la asociación, no una cifra del INEGI.</p><h2>¿Cuánto pesan las marcas chinas en el mercado?</h2><p>Entre 11.4% y 17% de las ventas de enero a septiembre, según la AMDA. La primera cifra usa solo marcas que reportan al INEGI; la segunda incluye estimaciones de las que no reportan. Autofan da una cifra parecida, alrededor de 17%, y la atribuye a inventarios previos, ajustes de margen y una oferta agresiva. La AMDA también reporta que General Motors importó 104,653 unidades desde China de enero a septiembre, 15.7% más que en 2025.</p><h2>¿Qué espera la AMDA para el cierre de 2026?</h2><p>Un crecimiento positivo, pero menor al del primer trimestre y quizá menor al de 2025. El presidente de la asociación lo vinculó con posibles ajustes de las marcas chinas, que ahora sí reflejarían el arancel en el precio, según El Economista. La misma nota recoge la postura contraria: Changan dijo que no trasladará el arancel a los consumidores, y varias marcas con planta reciente en Brasil podrían evitarlo ensamblando ahí. En septiembre, Changan vendió 13.9% menos que un año antes, aunque en el acumulado sube 23.9%.</p><h2>¿Qué marcas van a fabricar en México?</h2><p>Varias lo anunciaron, con distinto grado de avance. La tabla resume lo que Autofan reportaba al 22 de septiembre.</p><!--FIG:foto:chevrolet-aveo:0--><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Marca</th><th>Plan</th><th>Estado reportado</th></tr></thead><tbody><tr><td>GAC</td><td>Planta de ensamble</td><td>Iniciaría operaciones en el segundo semestre de 2026; sin ubicación ni inversión públicas</td></tr><tr><td>General Motors</td><td>Chevrolet Groove y Aveo en Ramos Arizpe, Coahuila</td><td>Inversión de 1,000 millones de dólares; Groove desde 2027, Aveo después; meta de unas 80,000 unidades al año hacia 2030</td></tr><tr><td>MG</td><td>Fábrica propia</td><td>Inversión de unos 1,050 millones de dólares; sin ubicación ni calendario</td></tr><tr><td>Chirey</td><td>Planta ensambladora</td><td>Confirmada, sin ubicación, inversión ni fecha</td></tr><tr><td>BYD y Geely</td><td>Planta de Aguascalientes (ex Nissan-Mercedes)</td><td>Compiten por ella; sin compra cerrada</td></tr></tbody></table></div><p>Autofan advierte que producir aquí evitaría un aumento más que lanzar ofertas, y que aún no es seguro que el ahorro llegue al comprador.</p><h2>¿Qué significa si vas a comprar auto?</h2><p>El efecto en precios aún no es parejo, así que compara modelo por modelo. Según el presidente de la AMDA, el INPC de compra de automóviles bajó 0.35% anual en la primera quincena de septiembre. Eso no asegura que no vaya a subir en los próximos meses.</p><p>Si te interesa una marca china, pide el precio por escrito y su vigencia, y compara garantía, red de servicio y disponibilidad de refacciones en <a href=\"/comparar/\">comparar autos</a>. Mira también las <a href=\"/promociones/\">promociones</a> vigentes. Si cotizas un Aveo o un Groove, recuerda que Autofan los reporta abastecidos desde China hasta ahora: pregunta de dónde viene la unidad que te ofrecen y si el precio depende de eso. Antes de decidir, calcula el <a href=\"/costo-total/\">costo total</a>, no solo el precio de lista.</p><h2>¿De dónde sale cada cifra?</h2><p>Las ventas por marca salen del boletín 618/26 del INEGI (7 de octubre de 2026), con cifras revisadas. El arancel, la caída de importaciones de 31.1% y los planes de plantas, de Revista Autofan (22 de septiembre). El pronóstico, la postura de Changan y la referencia a Brasil, de El Economista (4 de octubre). Los pesos de mercado, las importaciones de General Motors desde China y los datos estimados de BYD, del reporte de la AMDA. No determinamos qué parte de cada marca china paga el arancel.</p>",
-  "paraTi": "Por ahora el arancel no se refleja como alza general de precios, pero la AMDA anticipa posibles ajustes. Si te interesa una marca china, compara precio, garantía y servicio hoy y pide por escrito hasta cuándo vale la cotización."
+ "slug": "arancel-autos-chinos-ventas-cierre-del-ano",
+ "titulo": "Arancel de hasta 50% a autos chinos: las marcas asiáticas siguen creciendo, pero la AMDA espera menos ritmo al cierre del año",
+ "tema": "industria",
+ "fechaFuente": "2026-10-04",
+ "fuentes": [
+  {
+   "nombre": "El Economista, Venta de autos sube 5% en septiembre y se enfila a récord",
+   "url": "https://www.eleconomista.com.mx/empresas/venta-autos-sube-5-septiembre-enfila-record-20261004-836837.html",
+   "fecha": "2026-10-04"
+  },
+  {
+   "nombre": "INEGI, Reporte de resultados RAIAVL septiembre 2026, boletín 618/26",
+   "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/rm_raiavl/rm_raiavl2026_10.pdf",
+   "fecha": "2026-10-07"
+  },
+  {
+   "nombre": "Revista Autofan, Los chinos se están mudando a México: qué marcas ya construyen planta aquí",
+   "url": "https://revistautofan.com/2026/09/22/los-chinos-se-estan-mudando-a-mexico-que-marcas-ya-construyen-planta-aqui-y-que-significa-para-el-precio-de-tu-proximo-auto/",
+   "fecha": "2026-09-22"
+  },
+  {
+   "nombre": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026",
+   "url": "https://www.amda.mx/wp-content/uploads/2609_ligeros.pdf",
+   "fecha": "2026-10-07",
+   "nota": "Presentación de 47 láminas; las cifras se leyeron de las imágenes"
+  }
+ ],
+ "datosClave": [
+  {
+   "dato": "Arancel a vehículos de países sin tratado comercial con México",
+   "valor": "Hasta 50%, vigente desde el 1 de enero de 2026",
+   "fuente": "Revista Autofan, 22 sep 2026"
+  },
+  {
+   "dato": "Importaciones de autos chinos en el primer semestre de 2026",
+   "valor": "Cayeron 31.1%; las marcas chinas conservaron cerca de 17% del mercado",
+   "fuente": "Revista Autofan, 22 sep 2026"
+  },
+  {
+   "dato": "Geely, septiembre 2026",
+   "valor": "4,306 unidades, +91.1% (2,253 en septiembre de 2025)",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Geely, enero-septiembre 2026",
+   "valor": "35,912 unidades, +181.3% (12,768 en 2025)",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Jetour Soueast, enero-septiembre 2026",
+   "valor": "4,727 unidades, +295.2%; septiembre 611 (+84.6%)",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Zeekr y Lynk&Co (reportan juntas), enero-septiembre 2026",
+   "valor": "2,911 unidades; septiembre 334",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Changan, enero-septiembre 2026",
+   "valor": "16,184 unidades, +23.9%; septiembre 1,766 (-13.9%)",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Great Wall Motor, enero-septiembre 2026",
+   "valor": "10,022 unidades, -8.7%; septiembre 1,192 (-7.8%)",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "JAC, enero-septiembre 2026",
+   "valor": "17,255 unidades, -4.0%; septiembre 1,884 (+6.5%)",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Marcas no afiliadas a la AMIA en conjunto",
+   "valor": "Septiembre 10,272 unidades (+26.49%); enero-septiembre 88,883 (+47.16%) frente a 60,397",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Pronóstico de la AMDA para octubre-diciembre 2026",
+   "valor": "Variación positiva menor a la del primer trimestre y quizá menor a la de 2025, por posibles ajustes de precio de las marcas chinas ante el arancel de 50%",
+   "fuente": "Guillermo Rosales, presidente de la AMDA, citado por El Economista, 4 oct 2026"
+  },
+  {
+   "dato": "Postura de Changan",
+   "valor": "No trasladará el arancel a los consumidores",
+   "fuente": "El Economista, 4 oct 2026"
+  },
+  {
+   "dato": "Planta de GAC en México",
+   "valor": "Iniciaría operaciones en el segundo semestre de 2026; a septiembre no había revelado ubicación ni inversión",
+   "fuente": "Revista Autofan, 22 sep 2026"
+  },
+  {
+   "dato": "Inversión de General Motors en Ramos Arizpe, Coahuila",
+   "valor": "1,000 millones de dólares para producir Chevrolet Groove (desde 2027) y Aveo; meta de unas 80,000 unidades anuales hacia 2030",
+   "fuente": "Revista Autofan, 22 sep 2026"
+  }
+ ],
+ "resumen": "México cobra desde enero aranceles de hasta 50% a los autos de países sin tratado, entre ellos China, y aun así las cifras del INEGI muestran a Geely con 35,912 unidades en nueve meses, casi el triple que un año antes. El presidente de la AMDA, Guillermo Rosales, anticipa que octubre a diciembre crecerán menos que el arranque del año si las armadoras chinas empiezan a reflejar el gravamen en el precio. Changan ya dijo que no lo trasladará, y varias marcas buscan evitarlo ensamblando en Brasil o, según Revista Autofan, en México: GAC prepara una planta y General Motors invertirá en Coahuila para fabricar Groove y Aveo. Para quien compra, el efecto en precios aún no es uniforme y conviene comparar cada modelo.",
+ "modelosMencionados": [
+  {
+   "marca": "Chevrolet",
+   "modelo": "Aveo"
+  },
+  {
+   "marca": "Chevrolet",
+   "modelo": "Groove"
+  }
+ ],
+ "fechaVerificacion": "2026-10-24",
+ "cuerpoHtml": "<p class=\"answer\">Desde el 1 de enero de 2026, los autos de países sin tratado comercial con México, entre ellos China, enfrentan aranceles de hasta 50%, según Revista Autofan. Aun así, el INEGI muestra a Geely con 35,912 unidades de enero a septiembre, 181.3% más que en 2025. La AMDA espera que octubre a diciembre crezcan menos que el arranque del año.</p><h2>¿Qué arancel se cobra a los autos chinos en México?</h2><p>Hasta 50%, vigente desde el 1 de enero de 2026, para vehículos de países con los que México no tiene tratado comercial. Esa cifra la dan Revista Autofan y el presidente de la AMDA citado por El Economista. No revisamos el texto del decreto, así que no sabemos cómo aplica a cada modelo. Autofan reporta que las importaciones de autos chinos cayeron 31.1% en el primer semestre.</p><!--FIG:foto:chirey-tiggo-7-pro:0-->\n<h2>¿Siguen creciendo las marcas chinas?</h2><p>Algunas sí y otras no. Geely y Jetour Soueast crecen con fuerza; Great Wall retrocede. Estas son las marcas de origen chino que aparecen en la tabla de ventas del INEGI:</p><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Marca</th><th>Sept. 2026</th><th>Var. anual</th><th>Ene-sep 2026</th><th>Var. anual</th></tr></thead><tbody><tr><td>Geely</td><td>4,306</td><td>+91.1%</td><td>35,912</td><td>+181.3%</td></tr><tr><td>JAC</td><td>1,884</td><td>+6.5%</td><td>17,255</td><td>-4.0%</td></tr><tr><td>Changan</td><td>1,766</td><td>-13.9%</td><td>16,184</td><td>+23.9%</td></tr><tr><td>Great Wall Motor</td><td>1,192</td><td>-7.8%</td><td>10,022</td><td>-8.7%</td></tr><tr><td>Jetour Soueast</td><td>611</td><td>+84.6%</td><td>4,727</td><td>+295.2%</td></tr><tr><td>Zeekr y Lynk&amp;Co</td><td>334</td><td>n.d.</td><td>2,911</td><td>n.d.</td></tr><tr><td>MG (grupo SAIC)</td><td>4,256</td><td>+6.2%</td><td>40,275</td><td>+12.2%</td></tr></tbody></table></div><p>Las marcas no afiliadas a la AMIA, en conjunto, vendieron 10,272 unidades en septiembre (+26.49%) y 88,883 en el año (+47.16%). Faltan BYD, GAC y Chirey: el INEGI no los incluye. La AMDA estima que BYD vendió 5,715 unidades en septiembre (-9.4%) y 51,011 en el año (-4.7%). Es una estimación de la asociación, no una cifra del INEGI.</p><h2>¿Cuánto pesan las marcas chinas en el mercado?</h2><p>Entre 11.4% y 17% de las ventas de enero a septiembre, según la AMDA. La primera cifra usa solo marcas que reportan al INEGI; la segunda incluye estimaciones de las que no reportan. Autofan da una cifra parecida, alrededor de 17%, y la atribuye a inventarios previos, ajustes de margen y una oferta agresiva. La AMDA también reporta que General Motors importó 104,653 unidades desde China de enero a septiembre, 15.7% más que en 2025.</p><!--FIG:foto:mg-zs:0-->\n<h2>¿Qué espera la AMDA para el cierre de 2026?</h2><p>Un crecimiento positivo, pero menor al del primer trimestre y quizá menor al de 2025. El presidente de la asociación lo vinculó con posibles ajustes de las marcas chinas, que ahora sí reflejarían el arancel en el precio, según El Economista. La misma nota recoge la postura contraria: Changan dijo que no trasladará el arancel a los consumidores, y varias marcas con planta reciente en Brasil podrían evitarlo ensamblando ahí. En septiembre, Changan vendió 13.9% menos que un año antes, aunque en el acumulado sube 23.9%.</p><h2>¿Qué marcas van a fabricar en México?</h2><p>Varias lo anunciaron, con distinto grado de avance. La tabla resume lo que Autofan reportaba al 22 de septiembre.</p><!--FIG:foto:chevrolet-aveo:0--><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Marca</th><th>Plan</th><th>Estado reportado</th></tr></thead><tbody><tr><td>GAC</td><td>Planta de ensamble</td><td>Iniciaría operaciones en el segundo semestre de 2026; sin ubicación ni inversión públicas</td></tr><tr><td>General Motors</td><td>Chevrolet Groove y Aveo en Ramos Arizpe, Coahuila</td><td>Inversión de 1,000 millones de dólares; Groove desde 2027, Aveo después; meta de unas 80,000 unidades al año hacia 2030</td></tr><tr><td>MG</td><td>Fábrica propia</td><td>Inversión de unos 1,050 millones de dólares; sin ubicación ni calendario</td></tr><tr><td>Chirey</td><td>Planta ensambladora</td><td>Confirmada, sin ubicación, inversión ni fecha</td></tr><tr><td>BYD y Geely</td><td>Planta de Aguascalientes (ex Nissan-Mercedes)</td><td>Compiten por ella; sin compra cerrada</td></tr></tbody></table></div><p>Autofan advierte que producir aquí evitaría un aumento más que lanzar ofertas, y que aún no es seguro que el ahorro llegue al comprador.</p><h2>¿Qué significa si vas a comprar auto?</h2><p>El efecto en precios aún no es parejo, así que compara modelo por modelo. Según el presidente de la AMDA, el INPC de compra de automóviles bajó 0.35% anual en la primera quincena de septiembre. Eso no asegura que no vaya a subir en los próximos meses.</p><p>Si te interesa una marca china, pide el precio por escrito y su vigencia, y compara garantía, red de servicio y disponibilidad de refacciones en <a href=\"/comparar/\">comparar autos</a>. Mira también las <a href=\"/promociones/\">promociones</a> vigentes. Si cotizas un Aveo o un Groove, recuerda que Autofan los reporta abastecidos desde China hasta ahora: pregunta de dónde viene la unidad que te ofrecen y si el precio depende de eso. Antes de decidir, calcula el <a href=\"/costo-total/\">costo total</a>, no solo el precio de lista.</p><h2>¿De dónde sale cada cifra?</h2><p>Las ventas por marca salen del boletín 618/26 del INEGI (7 de octubre de 2026), con cifras revisadas. El arancel, la caída de importaciones de 31.1% y los planes de plantas, de Revista Autofan (22 de septiembre). El pronóstico, la postura de Changan y la referencia a Brasil, de El Economista (4 de octubre). Los pesos de mercado, las importaciones de General Motors desde China y los datos estimados de BYD, del reporte de la AMDA. No determinamos qué parte de cada marca china paga el arancel.</p>",
+ "paraTi": "Por ahora el arancel no se refleja como alza general de precios, pero la AMDA anticipa posibles ajustes. Si te interesa una marca china, compara precio, garantía y servicio hoy y pide por escrito hasta cuándo vale la cotización.",
+ "imagenNota": "foto-byd-dolphin-mini-1.jpg",
+ "imagenNotaAlt": "BYD Dolphin Mini, vista 3/4 frontal"
 }

@@ -2053,6 +2053,40 @@
     "guias"
    ],
    "notas": "Material de la sala de prensa oficial. Solo uso editorial en notas y guías, sin recortar ni alterar; nunca en fichas, comparador, anuncios ni como imagen para compartir."
+  },
+  "foto-ford-bronco-2021-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2021_Ford_Bronco_Big_Bend,_Front_Left,_07-11-2021.jpg",
+   "autor": "SsmIntrigue",
+   "credito": "Foto: SsmIntrigue / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias"
+   ],
+   "alt": "Ford Bronco 2021 de dos puertas, vista frontal",
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-honda-accord-hybrid-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Honda_Accord_Hybrid_Touring_CY2_Urban_Gray_Pearl_(2).jpg",
+   "autor": "Damian B Oh",
+   "credito": "Foto: Damian B Oh / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias"
+   ],
+   "alt": "Honda Accord Hybrid de la generación actual, vista frontal",
+   "notas": "Reducida a 1600 px sin recortar ni editar."
   }
  },
  "_campos": {

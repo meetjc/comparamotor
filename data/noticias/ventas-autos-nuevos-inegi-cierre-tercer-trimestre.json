@@ -1,112 +1,114 @@
 {
-  "slug": "ventas-autos-nuevos-inegi-cierre-tercer-trimestre",
-  "titulo": "Las ventas de autos nuevos suben 8% en septiembre y el acumulado del año llega a 1.14 millones de unidades",
-  "tema": "mercado",
-  "fechaFuente": "2026-10-07",
-  "fuentes": [
-    {
-      "nombre": "INEGI, Reporte de resultados RAIAVL septiembre 2026, boletín 618/26",
-      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/rm_raiavl/rm_raiavl2026_10.pdf",
-      "fecha": "2026-10-07"
-    },
-    {
-      "nombre": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026",
-      "url": "https://www.amda.mx/wp-content/uploads/2609_ligeros.pdf",
-      "fecha": "2026-10-07",
-      "nota": "Presentación de 47 láminas; las cifras se leyeron de las imágenes"
-    },
-    {
-      "nombre": "El Economista, Las ventas de autos en México aceleran 8% en septiembre y suman 1.1 millones de unidades en 2026",
-      "url": "https://www.eleconomista.com.mx/autos/ventas-autos-mexico-aceleran-8-septiembre-suman-1-1-millones-unidades-20261002-836516.html",
-      "fecha": "2026-10-02",
-      "nota": "Cita el avance preliminar del INEGI (129,288 unidades)"
-    },
-    {
-      "nombre": "El Economista, Venta de autos sube 5% en septiembre y se enfila a récord",
-      "url": "https://www.eleconomista.com.mx/empresas/venta-autos-sube-5-septiembre-enfila-record-20261004-836837.html",
-      "fecha": "2026-10-04"
-    },
-    {
-      "nombre": "Visión Automotriz, El récord de autos vendidos en México cuenta solo la mitad de la historia (cifras de AMIA con datos del INEGI)",
-      "url": "https://www.visionautomotriz.com.mx/51759/ventas-autos-2026/",
-      "fecha": "2026-10-07"
-    }
-  ],
-  "datosClave": [
-    {
-      "dato": "Ventas de vehículos ligeros nuevos, septiembre 2026 (preliminar)",
-      "valor": "129,288 unidades, +8.0% frente a 119,766 de septiembre de 2025",
-      "fuente": "INEGI, avance RAIAVL septiembre 2026 (2 oct 2026)"
-    },
-    {
-      "dato": "Ventas septiembre 2026, cifra revisada",
-      "valor": "129,274 unidades, +7.94% (+9,508 unidades)",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Acumulado enero-septiembre 2026 (preliminar)",
-      "valor": "1,144,002 unidades, +5.0% (+54,851 unidades frente a 1,089,151)",
-      "fuente": "INEGI, avance RAIAVL septiembre 2026 (2 oct 2026)"
-    },
-    {
-      "dato": "Acumulado enero-septiembre 2026, cifra revisada",
-      "valor": "1,143,988 unidades, +5.03% (+54,837 unidades)",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Septiembre de 2016 como referencia",
-      "valor": "131,888 unidades; septiembre de 2026 es la mejor cifra para ese mes en una década",
-      "fuente": "El Economista, 2 oct 2026"
-    },
-    {
-      "dato": "Acumulado enero-septiembre de 2016",
-      "valor": "1,122,142 unidades; el acumulado de 2026 es 1.9% mayor, según el presidente de la AMDA",
-      "fuente": "El Economista, 4 oct 2026"
-    },
-    {
-      "dato": "Variación frente a agosto de 2026",
-      "valor": "-0.07% (87 unidades menos: 129,361 en agosto contra 129,274 en septiembre)",
-      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
-    },
-    {
-      "dato": "Producción de vehículos ligeros, septiembre 2026",
-      "valor": "301,803 unidades, -15.13% (cifra preliminar)",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Exportación de vehículos ligeros, septiembre 2026",
-      "valor": "277,369 unidades, -11.85% (cifra preliminar)",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Producción y exportación enero-septiembre 2026",
-      "valor": "Producción 2,946,943 (-2.42%); exportación 2,528,623 (-1.50%)",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    },
-    {
-      "dato": "Cifra ajustada por la AMDA que suma BYD, GAC, Chirey y Omoda (estimación de la asociación)",
-      "valor": "Septiembre 137,569 (+6.9%); enero-septiembre 1,220,179 (+5.3%)",
-      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
-    },
-    {
-      "dato": "Participación acumulada por grupo, enero-septiembre 2026",
-      "valor": "Nissan 17.2%, General Motors 12.8%, Grupo Volkswagen 11.0%, Toyota 8.2%, Kia 7.2%",
-      "fuente": "AMDA-AMIA, reporte de venta por marca (2 oct 2026), con datos del INEGI"
-    },
-    {
-      "dato": "Segmento con mayor peso, enero-septiembre 2026",
-      "valor": "Usos múltiples (SUV y minivans): 41.8% del mercado, 477,703 unidades",
-      "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
-    },
-    {
-      "dato": "Próxima publicación del INEGI",
-      "valor": "4 de noviembre de 2026",
-      "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
-    }
-  ],
-  "resumen": "El INEGI informó que en septiembre se vendieron 129,288 vehículos ligeros nuevos, 8.0% más que un año antes; el reporte revisado del 7 de octubre dejó la cifra en 129,274. De enero a septiembre el mercado acumula 1,143,988 unidades, 5.03% por encima de 2025, y el presidente de la AMDA lo ubica sobre el récord anterior de 2016. Frente a agosto el volumen casi no cambió, con una baja de 0.07%. La fabricación y la exportación van en sentido contrario: en septiembre cayeron 15.13% y 11.85%, y en lo que va del año acumulan retrocesos de 2.42% y 1.50%.",
-  "modelosMencionados": [],
-  "fechaVerificacion": "2026-10-24",
-  "cuerpoHtml": "<p class=\"answer\">Según el INEGI, en septiembre de 2026 se vendieron 129,274 vehículos ligeros nuevos en México (cifra revisada), 7.94% más que un año antes. De enero a septiembre suman 1,143,988 unidades, 5.03% más que en 2025. De acuerdo con la AMIA, es el mayor volumen para esos nueve meses desde que empieza la serie en 2005.</p><h2>¿Cuántos autos nuevos se vendieron en septiembre de 2026?</h2><p>El INEGI dio dos cifras para el mes: 129,288 unidades en su avance del 2 de octubre y 129,274 en el reporte revisado del 7 de octubre. Aquí usamos la segunda. Según El Economista, septiembre de 2016 fue de 131,888 unidades, así que el mes quedó muy cerca de ese nivel. La AMDA lo describe como la octava tasa anual positiva de 2026. Frente a agosto (129,361 unidades) el volumen casi no cambió: bajó 0.07%, es decir 87 unidades.</p><h2>¿Qué marcas vendieron más autos nuevos hasta septiembre?</h2><p>Nissan sigue al frente. De acuerdo con la tabla de marcas del INEGI, vendió 24,139 unidades en septiembre y 197,080 en lo que va del año. Geely es la que más sube, aunque parte de una base menor.</p><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Marca</th><th>Sept. 2026</th><th>Var. anual</th><th>Ene-sep 2026</th><th>Var. anual</th></tr></thead><tbody><tr><td>Nissan</td><td>24,139</td><td>+15.7%</td><td>197,080</td><td>+0.3%</td></tr><tr><td>General Motors</td><td>16,528</td><td>+8.9%</td><td>146,640</td><td>+2.8%</td></tr><tr><td>Volkswagen</td><td>11,288</td><td>-1.6%</td><td>100,329</td><td>+2.4%</td></tr><tr><td>Toyota</td><td>10,205</td><td>+3.2%</td><td>94,278</td><td>+4.3%</td></tr><tr><td>Kia</td><td>8,773</td><td>-5.7%</td><td>82,046</td><td>+1.1%</td></tr><tr><td>Mazda</td><td>8,539</td><td>+14.9%</td><td>78,654</td><td>+4.8%</td></tr><tr><td>Stellantis</td><td>9,123</td><td>+43.3%</td><td>76,194</td><td>+22.2%</td></tr><tr><td>MG</td><td>4,256</td><td>+6.2%</td><td>40,275</td><td>+12.2%</td></tr><tr><td>Geely</td><td>4,306</td><td>+91.1%</td><td>35,912</td><td>+181.3%</td></tr></tbody></table></div><p>Esa tabla no incluye a todas las marcas. El INEGI aclara que Chirey no entrega datos desde abril de 2025. La AMDA añade que BYD y GAC tampoco aparecen y publica una estimación propia con ellas: 137,569 unidades en septiembre (+6.9%) y 1,220,179 de enero a septiembre (+5.3%).</p><h2>¿Qué tipo de auto se vende más?</h2><p>Los SUV y minivans, que la AMDA agrupa como «usos múltiples», concentran 41.8% de las ventas del año. En enero-septiembre subcompactos y compactos van en sentido contrario, según la asociación.</p><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Segmento</th><th>Sept. 2026</th><th>Ene-sep 2026</th><th>Var. ene-sep</th><th>Peso 2026</th></tr></thead><tbody><tr><td>Usos múltiples (SUV y minivans)</td><td>53,814</td><td>477,703</td><td>+5.9%</td><td>41.8%</td></tr><tr><td>Subcompactos</td><td>28,501</td><td>258,626</td><td>+12.4%</td><td>22.6%</td></tr><tr><td>Camiones ligeros (pickups)</td><td>22,194</td><td>194,189</td><td>+1.9%</td><td>17.0%</td></tr><tr><td>Compactos</td><td>21,327</td><td>182,489</td><td>-3.0%</td><td>16.0%</td></tr><tr><td>De lujo</td><td>2,580</td><td>22,592</td><td>+6.8%</td><td>2.0%</td></tr><tr><td>Deportivos</td><td>697</td><td>6,936</td><td>+1.2%</td><td>0.6%</td></tr></tbody></table></div><p>Los subcompactos ganaron 1.5 puntos de participación y los compactos perdieron 1.3, de acuerdo con la AMDA. En septiembre, el mayor avance absoluto fue de los compactos: 4,136 unidades más que un año antes.</p><h2>¿Por qué se venden más autos si se fabrican menos?</h2><p>Porque son dos medidas distintas. Las ventas del INEGI incluyen autos fabricados en México e importados, mientras que la producción cuenta solo los ensamblados en el país.</p><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Indicador</th><th>Sept. 2025</th><th>Sept. 2026</th><th>Variación</th></tr></thead><tbody><tr><td>Ventas</td><td>119,766</td><td>129,274</td><td>+7.94%</td></tr><tr><td>Producción</td><td>355,589</td><td>301,803</td><td>-15.13%</td></tr><tr><td>Exportación</td><td>314,656</td><td>277,369</td><td>-11.85%</td></tr></tbody></table></div><p>En el acumulado, el INEGI reporta 2,946,943 unidades producidas (-2.4%) y 2,528,623 exportadas (-1.5%). Estados Unidos recibió 76.4% de lo exportado. Con la cifra ajustada de la AMDA, 69.3% de las ventas de enero a septiembre fueron de autos importados. Visión Automotriz advierte que estos datos por sí solos no explican todas las causas de la caída industrial.</p><h2>¿Qué se espera para el cierre de 2026?</h2><p>La AMDA prevé que octubre a diciembre crezcan menos que el primer trimestre y quizá menos que en 2025. El presidente de la asociación lo atribuyó, ante El Economista, a posibles ajustes de precio de las marcas chinas por el arancel de 50%. Para todo el año, la AMDA estima 1,578,717 unidades con cifras oficiales del INEGI (+3.5% sobre 1,524,635 de 2025) y 1,692,555 con su cifra ajustada (+4.1%). Para llegar al primer número, el último trimestre tendría que sumar unas 434,700 unidades (cálculo propio).</p><h2>¿Qué significa si vas a comprar auto?</h2><p>Hay oferta y competencia, y los precios no suben en general. El INPC de compra de automóviles bajó 0.35% anual en la primera quincena de septiembre, frente a una inflación general de 3.42%, según el presidente de la AMDA citado por El Economista. El reporte de la AMDA da -0.44% y 3.45% para septiembre completo. Las dos cifras apuntan en la misma dirección, aunque no garantizan el precio de un modelo concreto.</p><p>Cotiza el mismo modelo en varias agencias y compara <a href=\"/autos/precios/\">precios de lista</a> y <a href=\"/promociones/\">promociones</a>. Si vas a financiar, la AMDA reporta que 62.2% de los autos nuevos vendidos de enero a agosto se compró con crédito, y que la tasa promedio ponderada del saldo de crédito automotriz fue 13.87% al segundo bimestre de 2026 (datos de Banxico). Esa no es la tasa que te ofrecerán a ti: revisa el costo anual total en <a href=\"/credito-automotriz/\">crédito automotriz</a> y calcula tu rango en <a href=\"/que-me-alcanza/\">¿qué auto me alcanza?</a>. Antes de firmar, compara el <a href=\"/costo-total/\">costo total</a> y no solo la mensualidad.</p><h2>¿De dónde sale cada cifra?</h2><p>Las ventas, producción y exportación vienen del Registro Administrativo de la Industria Automotriz de Vehículos Ligeros (RAIAVL) del INEGI, boletín 618/26 del 7 de octubre de 2026. Integra 22 empresas afiliadas a la AMIA y 8 no afiliadas, con 44 marcas. Es un registro administrativo, sin tratamiento estadístico, y las empresas pueden actualizarlo: General Motors y Honda corrigieron sus ventas respecto al 2 de octubre y Motornation no entregó datos de septiembre. Las ventas son al público e incluyen autos nacionales e importados. Los segmentos, estimaciones ajustadas, pronóstico, crédito y precios salen del Reporte de Mercado Interno Automotor de la AMDA. El comparativo con 2016 (1,122,142 unidades; el acumulado de 2026 queda 1.9% arriba) lo cita El Economista. El próximo reporte del INEGI será el 4 de noviembre de 2026.</p>",
-  "paraTi": "El mercado crece, hay inventario y los precios de lista no suben en general, así que es buen momento para comparar. Pide varias cotizaciones y revisa el costo total del auto, no solo la mensualidad."
+ "slug": "ventas-autos-nuevos-inegi-cierre-tercer-trimestre",
+ "titulo": "Las ventas de autos nuevos suben 8% en septiembre y el acumulado del año llega a 1.14 millones de unidades",
+ "tema": "mercado",
+ "fechaFuente": "2026-10-07",
+ "fuentes": [
+  {
+   "nombre": "INEGI, Reporte de resultados RAIAVL septiembre 2026, boletín 618/26",
+   "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/rm_raiavl/rm_raiavl2026_10.pdf",
+   "fecha": "2026-10-07"
+  },
+  {
+   "nombre": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026",
+   "url": "https://www.amda.mx/wp-content/uploads/2609_ligeros.pdf",
+   "fecha": "2026-10-07",
+   "nota": "Presentación de 47 láminas; las cifras se leyeron de las imágenes"
+  },
+  {
+   "nombre": "El Economista, Las ventas de autos en México aceleran 8% en septiembre y suman 1.1 millones de unidades en 2026",
+   "url": "https://www.eleconomista.com.mx/autos/ventas-autos-mexico-aceleran-8-septiembre-suman-1-1-millones-unidades-20261002-836516.html",
+   "fecha": "2026-10-02",
+   "nota": "Cita el avance preliminar del INEGI (129,288 unidades)"
+  },
+  {
+   "nombre": "El Economista, Venta de autos sube 5% en septiembre y se enfila a récord",
+   "url": "https://www.eleconomista.com.mx/empresas/venta-autos-sube-5-septiembre-enfila-record-20261004-836837.html",
+   "fecha": "2026-10-04"
+  },
+  {
+   "nombre": "Visión Automotriz, El récord de autos vendidos en México cuenta solo la mitad de la historia (cifras de AMIA con datos del INEGI)",
+   "url": "https://www.visionautomotriz.com.mx/51759/ventas-autos-2026/",
+   "fecha": "2026-10-07"
+  }
+ ],
+ "datosClave": [
+  {
+   "dato": "Ventas de vehículos ligeros nuevos, septiembre 2026 (preliminar)",
+   "valor": "129,288 unidades, +8.0% frente a 119,766 de septiembre de 2025",
+   "fuente": "INEGI, avance RAIAVL septiembre 2026 (2 oct 2026)"
+  },
+  {
+   "dato": "Ventas septiembre 2026, cifra revisada",
+   "valor": "129,274 unidades, +7.94% (+9,508 unidades)",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Acumulado enero-septiembre 2026 (preliminar)",
+   "valor": "1,144,002 unidades, +5.0% (+54,851 unidades frente a 1,089,151)",
+   "fuente": "INEGI, avance RAIAVL septiembre 2026 (2 oct 2026)"
+  },
+  {
+   "dato": "Acumulado enero-septiembre 2026, cifra revisada",
+   "valor": "1,143,988 unidades, +5.03% (+54,837 unidades)",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Septiembre de 2016 como referencia",
+   "valor": "131,888 unidades; septiembre de 2026 es la mejor cifra para ese mes en una década",
+   "fuente": "El Economista, 2 oct 2026"
+  },
+  {
+   "dato": "Acumulado enero-septiembre de 2016",
+   "valor": "1,122,142 unidades; el acumulado de 2026 es 1.9% mayor, según el presidente de la AMDA",
+   "fuente": "El Economista, 4 oct 2026"
+  },
+  {
+   "dato": "Variación frente a agosto de 2026",
+   "valor": "-0.07% (87 unidades menos: 129,361 en agosto contra 129,274 en septiembre)",
+   "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+  },
+  {
+   "dato": "Producción de vehículos ligeros, septiembre 2026",
+   "valor": "301,803 unidades, -15.13% (cifra preliminar)",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Exportación de vehículos ligeros, septiembre 2026",
+   "valor": "277,369 unidades, -11.85% (cifra preliminar)",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Producción y exportación enero-septiembre 2026",
+   "valor": "Producción 2,946,943 (-2.42%); exportación 2,528,623 (-1.50%)",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  },
+  {
+   "dato": "Cifra ajustada por la AMDA que suma BYD, GAC, Chirey y Omoda (estimación de la asociación)",
+   "valor": "Septiembre 137,569 (+6.9%); enero-septiembre 1,220,179 (+5.3%)",
+   "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+  },
+  {
+   "dato": "Participación acumulada por grupo, enero-septiembre 2026",
+   "valor": "Nissan 17.2%, General Motors 12.8%, Grupo Volkswagen 11.0%, Toyota 8.2%, Kia 7.2%",
+   "fuente": "AMDA-AMIA, reporte de venta por marca (2 oct 2026), con datos del INEGI"
+  },
+  {
+   "dato": "Segmento con mayor peso, enero-septiembre 2026",
+   "valor": "Usos múltiples (SUV y minivans): 41.8% del mercado, 477,703 unidades",
+   "fuente": "AMDA, Reporte de Mercado Interno Automotor ligeros, septiembre 2026 (7 oct 2026)"
+  },
+  {
+   "dato": "Próxima publicación del INEGI",
+   "valor": "4 de noviembre de 2026",
+   "fuente": "INEGI, reporte RAIAVL septiembre 2026, boletín 618/26 (7 oct 2026, cifras revisadas)"
+  }
+ ],
+ "resumen": "El INEGI informó que en septiembre se vendieron 129,288 vehículos ligeros nuevos, 8.0% más que un año antes; el reporte revisado del 7 de octubre dejó la cifra en 129,274. De enero a septiembre el mercado acumula 1,143,988 unidades, 5.03% por encima de 2025, y el presidente de la AMDA lo ubica sobre el récord anterior de 2016. Frente a agosto el volumen casi no cambió, con una baja de 0.07%. La fabricación y la exportación van en sentido contrario: en septiembre cayeron 15.13% y 11.85%, y en lo que va del año acumulan retrocesos de 2.42% y 1.50%.",
+ "modelosMencionados": [],
+ "fechaVerificacion": "2026-10-24",
+ "cuerpoHtml": "<p class=\"answer\">Según el INEGI, en septiembre de 2026 se vendieron 129,274 vehículos ligeros nuevos en México (cifra revisada), 7.94% más que un año antes. De enero a septiembre suman 1,143,988 unidades, 5.03% más que en 2025. De acuerdo con la AMIA, es el mayor volumen para esos nueve meses desde que empieza la serie en 2005.</p><h2>¿Cuántos autos nuevos se vendieron en septiembre de 2026?</h2><p>El INEGI dio dos cifras para el mes: 129,288 unidades en su avance del 2 de octubre y 129,274 en el reporte revisado del 7 de octubre. Aquí usamos la segunda. Según El Economista, septiembre de 2016 fue de 131,888 unidades, así que el mes quedó muy cerca de ese nivel. La AMDA lo describe como la octava tasa anual positiva de 2026. Frente a agosto (129,361 unidades) el volumen casi no cambió: bajó 0.07%, es decir 87 unidades.</p><!--FIG:foto:nissan-np300:0-->\n<h2>¿Qué marcas vendieron más autos nuevos hasta septiembre?</h2><p>Nissan sigue al frente. De acuerdo con la tabla de marcas del INEGI, vendió 24,139 unidades en septiembre y 197,080 en lo que va del año. Geely es la que más sube, aunque parte de una base menor.</p><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Marca</th><th>Sept. 2026</th><th>Var. anual</th><th>Ene-sep 2026</th><th>Var. anual</th></tr></thead><tbody><tr><td>Nissan</td><td>24,139</td><td>+15.7%</td><td>197,080</td><td>+0.3%</td></tr><tr><td>General Motors</td><td>16,528</td><td>+8.9%</td><td>146,640</td><td>+2.8%</td></tr><tr><td>Volkswagen</td><td>11,288</td><td>-1.6%</td><td>100,329</td><td>+2.4%</td></tr><tr><td>Toyota</td><td>10,205</td><td>+3.2%</td><td>94,278</td><td>+4.3%</td></tr><tr><td>Kia</td><td>8,773</td><td>-5.7%</td><td>82,046</td><td>+1.1%</td></tr><tr><td>Mazda</td><td>8,539</td><td>+14.9%</td><td>78,654</td><td>+4.8%</td></tr><tr><td>Stellantis</td><td>9,123</td><td>+43.3%</td><td>76,194</td><td>+22.2%</td></tr><tr><td>MG</td><td>4,256</td><td>+6.2%</td><td>40,275</td><td>+12.2%</td></tr><tr><td>Geely</td><td>4,306</td><td>+91.1%</td><td>35,912</td><td>+181.3%</td></tr></tbody></table></div><p>Esa tabla no incluye a todas las marcas. El INEGI aclara que Chirey no entrega datos desde abril de 2025. La AMDA añade que BYD y GAC tampoco aparecen y publica una estimación propia con ellas: 137,569 unidades en septiembre (+6.9%) y 1,220,179 de enero a septiembre (+5.3%).</p><h2>¿Qué tipo de auto se vende más?</h2><p>Los SUV y minivans, que la AMDA agrupa como «usos múltiples», concentran 41.8% de las ventas del año. En enero-septiembre subcompactos y compactos van en sentido contrario, según la asociación.</p><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Segmento</th><th>Sept. 2026</th><th>Ene-sep 2026</th><th>Var. ene-sep</th><th>Peso 2026</th></tr></thead><tbody><tr><td>Usos múltiples (SUV y minivans)</td><td>53,814</td><td>477,703</td><td>+5.9%</td><td>41.8%</td></tr><tr><td>Subcompactos</td><td>28,501</td><td>258,626</td><td>+12.4%</td><td>22.6%</td></tr><tr><td>Camiones ligeros (pickups)</td><td>22,194</td><td>194,189</td><td>+1.9%</td><td>17.0%</td></tr><tr><td>Compactos</td><td>21,327</td><td>182,489</td><td>-3.0%</td><td>16.0%</td></tr><tr><td>De lujo</td><td>2,580</td><td>22,592</td><td>+6.8%</td><td>2.0%</td></tr><tr><td>Deportivos</td><td>697</td><td>6,936</td><td>+1.2%</td><td>0.6%</td></tr></tbody></table></div><p>Los subcompactos ganaron 1.5 puntos de participación y los compactos perdieron 1.3, de acuerdo con la AMDA. En septiembre, el mayor avance absoluto fue de los compactos: 4,136 unidades más que un año antes.</p><!--FIG:foto:kia-sportage:0-->\n<h2>¿Por qué se venden más autos si se fabrican menos?</h2><p>Porque son dos medidas distintas. Las ventas del INEGI incluyen autos fabricados en México e importados, mientras que la producción cuenta solo los ensamblados en el país.</p><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Indicador</th><th>Sept. 2025</th><th>Sept. 2026</th><th>Variación</th></tr></thead><tbody><tr><td>Ventas</td><td>119,766</td><td>129,274</td><td>+7.94%</td></tr><tr><td>Producción</td><td>355,589</td><td>301,803</td><td>-15.13%</td></tr><tr><td>Exportación</td><td>314,656</td><td>277,369</td><td>-11.85%</td></tr></tbody></table></div><p>En el acumulado, el INEGI reporta 2,946,943 unidades producidas (-2.4%) y 2,528,623 exportadas (-1.5%). Estados Unidos recibió 76.4% de lo exportado. Con la cifra ajustada de la AMDA, 69.3% de las ventas de enero a septiembre fueron de autos importados. Visión Automotriz advierte que estos datos por sí solos no explican todas las causas de la caída industrial.</p><h2>¿Qué se espera para el cierre de 2026?</h2><p>La AMDA prevé que octubre a diciembre crezcan menos que el primer trimestre y quizá menos que en 2025. El presidente de la asociación lo atribuyó, ante El Economista, a posibles ajustes de precio de las marcas chinas por el arancel de 50%. Para todo el año, la AMDA estima 1,578,717 unidades con cifras oficiales del INEGI (+3.5% sobre 1,524,635 de 2025) y 1,692,555 con su cifra ajustada (+4.1%). Para llegar al primer número, el último trimestre tendría que sumar unas 434,700 unidades (cálculo propio).</p><h2>¿Qué significa si vas a comprar auto?</h2><p>Hay oferta y competencia, y los precios no suben en general. El INPC de compra de automóviles bajó 0.35% anual en la primera quincena de septiembre, frente a una inflación general de 3.42%, según el presidente de la AMDA citado por El Economista. El reporte de la AMDA da -0.44% y 3.45% para septiembre completo. Las dos cifras apuntan en la misma dirección, aunque no garantizan el precio de un modelo concreto.</p><p>Cotiza el mismo modelo en varias agencias y compara <a href=\"/autos/precios/\">precios de lista</a> y <a href=\"/promociones/\">promociones</a>. Si vas a financiar, la AMDA reporta que 62.2% de los autos nuevos vendidos de enero a agosto se compró con crédito, y que la tasa promedio ponderada del saldo de crédito automotriz fue 13.87% al segundo bimestre de 2026 (datos de Banxico). Esa no es la tasa que te ofrecerán a ti: revisa el costo anual total en <a href=\"/credito-automotriz/\">crédito automotriz</a> y calcula tu rango en <a href=\"/que-me-alcanza/\">¿qué auto me alcanza?</a>. Antes de firmar, compara el <a href=\"/costo-total/\">costo total</a> y no solo la mensualidad.</p><h2>¿De dónde sale cada cifra?</h2><p>Las ventas, producción y exportación vienen del Registro Administrativo de la Industria Automotriz de Vehículos Ligeros (RAIAVL) del INEGI, boletín 618/26 del 7 de octubre de 2026. Integra 22 empresas afiliadas a la AMIA y 8 no afiliadas, con 44 marcas. Es un registro administrativo, sin tratamiento estadístico, y las empresas pueden actualizarlo: General Motors y Honda corrigieron sus ventas respecto al 2 de octubre y Motornation no entregó datos de septiembre. Las ventas son al público e incluyen autos nacionales e importados. Los segmentos, estimaciones ajustadas, pronóstico, crédito y precios salen del Reporte de Mercado Interno Automotor de la AMDA. El comparativo con 2016 (1,122,142 unidades; el acumulado de 2026 queda 1.9% arriba) lo cita El Economista. El próximo reporte del INEGI será el 4 de noviembre de 2026.</p>",
+ "paraTi": "El mercado crece, hay inventario y los precios de lista no suben en general, así que es buen momento para comparar. Pide varias cotizaciones y revisa el costo total del auto, no solo la mensualidad.",
+ "imagenNota": "foto-chevrolet-aveo-2.jpg",
+ "imagenNotaAlt": "Chevrolet Aveo, vista 3/4 trasero"
 }
