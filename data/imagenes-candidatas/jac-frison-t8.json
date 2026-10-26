@@ -1,0 +1,48 @@
+{
+  "marca": "JAC",
+  "modelo": "Frison T8",
+  "marcaSlug": "jac",
+  "modeloSlug": "frison-t8",
+  "generacionMexico": "Frison T8 (2018+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/JAC_Shuailing_T8_IMG001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:JAC_Shuailing_T8_IMG001.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Anonymousfox36",
+      "credito": "Foto: Anonymousfox36 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3727,
+      "alto": 2795,
+      "anioOGeneracion": "2022 · Frison T8 (2018+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: JAC Shuailing T8 IMG001. Foto de 2022. Categoría Commons: @JAC T8. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Frison T8 (2018+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/JAC_T8_1X7A7312.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:JAC_T8_1X7A7312.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander-93",
+      "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 6059,
+      "alto": 4043,
+      "anioOGeneracion": "2023 · Frison T8 (2018+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: JAC T8 1X7A7312. Foto de 2023. Categoría Commons: @JAC T8. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Frison T8 (2018+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

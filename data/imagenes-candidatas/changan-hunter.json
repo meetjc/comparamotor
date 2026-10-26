@@ -1,0 +1,48 @@
+{
+  "marca": "Changan",
+  "modelo": "Hunter",
+  "marcaSlug": "changan",
+  "modeloSlug": "hunter",
+  "generacionMexico": "Hunter (2024+), mismo frente que muestra Changan México",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/2024_Changan_Hunter_red_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Changan_Hunter_red_front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "gleb",
+      "credito": "Foto: gleb / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 1440,
+      "alto": 1080,
+      "anioOGeneracion": "2025 · Hunter (2024+), mismo frente que muestra Changan México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Changan Hunter red front. Foto de 2025. Categoría Commons: Changan Hunter. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Hunter (2024+), mismo frente que muestra Changan México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Changan_Hunter_facelift_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Changan_Hunter_facelift_002.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "JustAnotherCarDesigner",
+      "credito": "Foto: JustAnotherCarDesigner / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4032,
+      "alto": 3024,
+      "anioOGeneracion": "2024 · Hunter (2024+), mismo frente que muestra Changan México",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Changan Hunter facelift 002. Foto de 2024. Categoría Commons: Changan Hunter. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Hunter (2024+), mismo frente que muestra Changan México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

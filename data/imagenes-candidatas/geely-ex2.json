@@ -1,0 +1,48 @@
+{
+  "marca": "Geely",
+  "modelo": "EX2",
+  "marcaSlug": "geely",
+  "modeloSlug": "ex2",
+  "generacionMexico": "EX2 / Xingyuan (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/2025_Geely_EX2_Max.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Geely_EX2_Max.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Chanokchon",
+      "credito": "Foto: Chanokchon / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4608,
+      "alto": 2592,
+      "anioOGeneracion": "2025 · EX2 / Xingyuan (2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Geely EX2 Max. Foto de 2025. Categoría Commons: Geely EX2. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (EX2 / Xingyuan (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2025_Geely_Xingyuan%2C_rear_7.28.25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Geely_Xingyuan,_rear_7.28.25.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Kevauto",
+      "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3369,
+      "alto": 1921,
+      "anioOGeneracion": "2025 · EX2 / Xingyuan (2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Geely Xingyuan, rear 7.28.25. Foto de 2025. Categoría Commons: Geely Xingyuan. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (EX2 / Xingyuan (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

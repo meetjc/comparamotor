@@ -1,0 +1,30 @@
+{
+  "marca": "BAIC",
+  "modelo": "ARCFOX T1",
+  "marcaSlug": "baic",
+  "modeloSlug": "arcfox-t1",
+  "generacionMexico": "Arcfox T1 (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Arcfox_T1_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Arcfox_T1_003.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "JustAnotherCarDesigner",
+      "credito": "Foto: JustAnotherCarDesigner / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4032,
+      "alto": 3024,
+      "anioOGeneracion": "2025 · Arcfox T1 (2025+)",
+      "angulo": "perfil",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Arcfox T1 003. Foto de 2025. Categoría Commons: Arcfox T1. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Arcfox T1 (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

@@ -1,0 +1,48 @@
+{
+  "marca": "GWM",
+  "modelo": "Tank 300",
+  "marcaSlug": "gwm",
+  "modeloSlug": "tank-300",
+  "generacionMexico": "Tank 300 (2021+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Tank_300_Ultra_%E2%80%93_f_04012026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Tank_300_Ultra_%E2%80%93_f_04012026.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "autor": "© M 93",
+      "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+      "compartirIgual": true,
+      "ancho": 4038,
+      "alto": 2258,
+      "anioOGeneracion": "2026 · Tank 300 (2021+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Tank 300 Ultra – f 04012026. Foto de 2026. Categoría Commons: Tank 300. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Tank 300 (2021+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B%2C_Tank_300_%D0%BD%D0%B0_%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B,_Tank_300_%D0%BD%D0%B0_%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Nikolai Bulykin",
+      "credito": "Foto: Nikolai Bulykin / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4251,
+      "alto": 2834,
+      "anioOGeneracion": "2025 · Tank 300 (2021+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Алматы, Tank 300 на Каримова. Foto de 2025. Categoría Commons: Tank 300. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Tank 300 (2021+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

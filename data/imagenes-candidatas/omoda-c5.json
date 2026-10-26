@@ -1,0 +1,30 @@
+{
+  "marca": "Omoda",
+  "modelo": "C5",
+  "marcaSlug": "omoda",
+  "modeloSlug": "c5",
+  "generacionMexico": "Omoda C5 con el rediseño 2025 («nueva cara» que muestra Omoda México)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/2024_Omoda_C5_%28LWW%29_black_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Omoda_C5_(LWW)_black_front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Throwawayacc222",
+      "credito": "Foto: Throwawayacc222 / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 3676,
+      "alto": 2197,
+      "anioOGeneracion": "2026 · Omoda C5 con el rediseño 2025 («nueva cara» que muestra Omoda México)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Omoda C5 (LWW) black front. Foto de 2026. Categoría Commons: Omoda C5. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Omoda C5 con el rediseño 2025 («nueva cara» que muestra Omoda México)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

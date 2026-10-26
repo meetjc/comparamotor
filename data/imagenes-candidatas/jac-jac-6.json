@@ -1,0 +1,48 @@
+{
+  "marca": "JAC",
+  "modelo": "JAC 6",
+  "marcaSlug": "jac",
+  "modeloSlug": "jac-6",
+  "generacionMexico": "JAC 6 / JS6 (2022+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/2023_JAC_JS6_grey_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_JAC_JS6_grey_front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "gleb",
+      "credito": "Foto: gleb / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 1396,
+      "alto": 891,
+      "anioOGeneracion": "2025 · JAC 6 / JS6 (2022+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2023 JAC JS6 grey front. Foto de 2025. Categoría Commons: JAC JS6. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (JAC 6 / JS6 (2022+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Moscow%2C_rental_Citydrive_JAC_JS6%2C_June_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Moscow,_rental_Citydrive_JAC_JS6,_June_2025_01.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Retired electrician",
+      "credito": "Foto: Retired electrician / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 5184,
+      "alto": 3456,
+      "anioOGeneracion": "2025 · JAC 6 / JS6 (2022+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Moscow, rental Citydrive JAC JS6, June 2025 01. Foto de 2025. Categoría Commons: JAC JS6. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (JAC 6 / JS6 (2022+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

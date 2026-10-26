@@ -1,0 +1,48 @@
+{
+  "marca": "GWM",
+  "modelo": "Poer",
+  "marcaSlug": "gwm",
+  "modeloSlug": "poer",
+  "generacionMexico": "Poer / Cannon (2021+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Great_Wall_Poer_Plus_Deluxe_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Great_Wall_Poer_Plus_Deluxe_2022.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 2.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "autor": "RL GNZLZ",
+      "credito": "Foto: RL GNZLZ / Wikimedia Commons, CC BY-SA 2.0",
+      "compartirIgual": true,
+      "ancho": 3072,
+      "alto": 1728,
+      "anioOGeneracion": "2021 · Poer / Cannon (2021+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Great Wall Poer Plus Deluxe 2022. Foto de 2021. Categoría Commons: Great Wall Poer. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Poer / Cannon (2021+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Great_Wall_Poer_Deluxe_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Great_Wall_Poer_Deluxe_2023.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "RL GNZLZ",
+      "credito": "Foto: RL GNZLZ / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5313,
+      "alto": 3183,
+      "anioOGeneracion": "2025 · Poer / Cannon (2021+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Great Wall Poer Deluxe 2023. Foto de 2025. Categoría Commons: Great Wall Poer. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Poer / Cannon (2021+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

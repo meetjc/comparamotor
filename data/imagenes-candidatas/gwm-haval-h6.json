@@ -1,0 +1,30 @@
+{
+  "marca": "GWM",
+  "modelo": "Haval H6",
+  "marcaSlug": "gwm",
+  "modeloSlug": "haval-h6",
+  "generacionMexico": "Haval H6 3.ª generación con el rediseño 2025, como la que muestra GWM México",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/2024_Haval_H6_front_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Haval_H6_front_view.png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "iMoD Official",
+      "credito": "Foto: iMoD Official / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 3294,
+      "alto": 1744,
+      "anioOGeneracion": "2024 · Haval H6 3.ª generación con el rediseño 2025, como la que muestra GWM México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Haval H6 front view. Foto de 2024. Categoría Commons: Haval H6 (3rd generation). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Haval H6 3.ª generación con el rediseño 2025, como la que muestra GWM México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

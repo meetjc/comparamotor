@@ -1,0 +1,48 @@
+{
+  "marca": "Jetour",
+  "modelo": "T2",
+  "marcaSlug": "jetour",
+  "modeloSlug": "t2",
+  "generacionMexico": "T2 / Traveller (2023+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Moscow%2C_grey_Jetour_Traveller%2C_July_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Moscow,_grey_Jetour_Traveller,_July_2025_01.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Retired electrician",
+      "credito": "Foto: Retired electrician / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4709,
+      "alto": 3398,
+      "anioOGeneracion": "2025 · T2 / Traveller (2023+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Moscow, grey Jetour Traveller, July 2025 01. Foto de 2025. Categoría Commons: Jetour Traveller. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (T2 / Traveller (2023+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Moscow%2C_Jetour_T2%2C_Apr_2026_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Moscow,_Jetour_T2,_Apr_2026_01.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Retired electrician",
+      "credito": "Foto: Retired electrician / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4938,
+      "alto": 3292,
+      "anioOGeneracion": "2026 · T2 / Traveller (2023+)",
+      "angulo": "perfil",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Moscow, Jetour T2, Apr 2026 01. Foto de 2026. Categoría Commons: Jetour T2. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (T2 / Traveller (2023+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

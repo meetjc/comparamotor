@@ -3,10 +3,64 @@
   "modelo": "X-Trail",
   "marcaSlug": "nissan",
   "modeloSlug": "x-trail",
-  "generacionMexico": "4.ª generación (T33)",
-  "notasModelo": "Fotos de mercados con volante a la derecha muestran el mismo diseño; revisar placas.",
-  "actualizado": "2026-10-20",
+  "generacionMexico": "X-Trail T33 con el rediseño 2025, como el X-Trail 2027 de Nissan México",
+  "notasModelo": "Fotos de mercados con volante a la derecha muestran el mismo diseño; revisar placas. Actualización 2026-10-25: Se cambiaron las fotos anteriores al rediseño por fotos del rediseño 2025.",
+  "actualizado": "2026-10-25",
   "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/2025_Nissan_X-Trail_X_e-4ORCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Nissan_X-Trail_X_e-4ORCE.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "TTTNIS",
+      "credito": "Foto: TTTNIS / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 5431,
+      "alto": 2962,
+      "anioOGeneracion": "2026 · X-Trail T33 con el rediseño 2025, como el X-Trail 2027 de Nissan México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Nissan X-Trail X e-4ORCE. Foto de 2026. Categoría Commons: Nissan X-Trail e-Power (2025). Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (X-Trail T33 con el rediseño 2025, como el X-Trail 2027 de Nissan México). Se cambiaron las fotos anteriores al rediseño por fotos del rediseño 2025. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Black_Nissan_X-TRAIL_G_e-4ORCE_%286AA-SNT33%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Black_Nissan_X-TRAIL_G_e-4ORCE_(6AA-SNT33)_front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Tokumeigakarinoaoshima",
+      "credito": "Foto: Tokumeigakarinoaoshima / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 2560,
+      "alto": 1920,
+      "anioOGeneracion": "2025 · X-Trail T33 con el rediseño 2025, como el X-Trail 2027 de Nissan México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Black Nissan X-TRAIL G e-4ORCE (6AA-SNT33) front. Foto de 2025. Categoría Commons: Nissan X-Trail e-Power (2025). Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (X-Trail T33 con el rediseño 2025, como el X-Trail 2027 de Nissan México). Se cambiaron las fotos anteriores al rediseño por fotos del rediseño 2025. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nissan_X-Trail_e-Power_PIMS_2026_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Nissan_X-Trail_e-Power_PIMS_2026_02.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Ethan Llamas",
+      "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4797,
+      "alto": 3198,
+      "anioOGeneracion": "2026 · X-Trail T33 con el rediseño 2025, como el X-Trail 2027 de Nissan México",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Nissan X-Trail e-Power PIMS 2026 02. Foto de 2026. Categoría Commons: Nissan X-Trail e-Power (2025). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (X-Trail T33 con el rediseño 2025, como el X-Trail 2027 de Nissan México). Se cambiaron las fotos anteriores al rediseño por fotos del rediseño 2025. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/2023_Nissan_X-Trail_Ti_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Nissan_X-Trail_Ti_front.jpg",
@@ -20,9 +74,9 @@
       "alto": 3020,
       "anioOGeneracion": "2026 · 4.ª generación (T33)",
       "angulo": "3/4 frontal",
-      "coincideConMexico": true,
+      "coincideConMexico": false,
       "verificadoEl": "2026-10-20",
-      "notas": "Archivo: 2023 Nissan X-Trail Ti front. Foto de 2026. Categoría Commons: Nissan X-Trail (T33). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "notas": "Archivo: 2023 Nissan X-Trail Ti front. Foto de 2026. Categoría Commons: Nissan X-Trail (T33). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio. Revisión 2026-10-25: foto anterior al rediseño que vende hoy la marca en México; se sustituyó por una del rediseño."
     },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/2023_Nissan_X-Trail_Acenta_Premium_DIG-T_-_1497cc_1.5_%28163PS%29_Petrol_-_Gun_Metallic_-_02-2024%2C_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -37,9 +91,9 @@
       "alto": 2570,
       "anioOGeneracion": "2024 · 4.ª generación (T33)",
       "angulo": "3/4 frontal",
-      "coincideConMexico": true,
+      "coincideConMexico": false,
       "verificadoEl": "2026-10-20",
-      "notas": "Archivo: 2023 Nissan X-Trail Acenta Premium DIG-T - 1497cc 1.5 (163PS) Petrol - Gun Metallic - 02-2024, Front. Foto de 2024. Categoría Commons: Nissan X-Trail (T33). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "notas": "Archivo: 2023 Nissan X-Trail Acenta Premium DIG-T - 1497cc 1.5 (163PS) Petrol - Gun Metallic - 02-2024, Front. Foto de 2024. Categoría Commons: Nissan X-Trail (T33). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio. Revisión 2026-10-25: foto anterior al rediseño que vende hoy la marca en México; se sustituyó por una del rediseño."
     },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/2025_Nissan_X-Trail_X_e-4ORCE_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -71,9 +125,9 @@
       "alto": 3181,
       "anioOGeneracion": "2024 · 4.ª generación (T33)",
       "angulo": "interior",
-      "coincideConMexico": true,
+      "coincideConMexico": false,
       "verificadoEl": "2026-10-20",
-      "notas": "Archivo: 2024 Nissan X-Trail X e-4ORCE interior. Foto de 2024. Categoría Commons: Nissan X-Trail e-Power (T33). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "notas": "Archivo: 2024 Nissan X-Trail X e-4ORCE interior. Foto de 2024. Categoría Commons: Nissan X-Trail e-Power (T33). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio. Revisión 2026-10-25: foto anterior al rediseño que vende hoy la marca en México; se sustituyó por una del rediseño."
     },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Nissan_X-Trail_%28T33%29_1X7A7179.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -88,9 +142,9 @@
       "alto": 3086,
       "anioOGeneracion": "2023 · 4.ª generación (T33)",
       "angulo": "desconocido",
-      "coincideConMexico": true,
+      "coincideConMexico": false,
       "verificadoEl": "2026-10-20",
-      "notas": "Archivo: Nissan X-Trail (T33) 1X7A7179. Foto de 2023. Categoría Commons: Nissan X-Trail (T33). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Evaluación Commons: quality|valued. Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "notas": "Archivo: Nissan X-Trail (T33) 1X7A7179. Foto de 2023. Categoría Commons: Nissan X-Trail (T33). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Evaluación Commons: quality|valued. Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio. Revisión 2026-10-25: foto anterior al rediseño que vende hoy la marca en México; se sustituyó por una del rediseño."
     },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Nissan_X-Trail_e-Power_1X7A6301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -105,9 +159,9 @@
       "alto": 3113,
       "anioOGeneracion": "2023 · 4.ª generación (T33)",
       "angulo": "desconocido",
-      "coincideConMexico": true,
+      "coincideConMexico": false,
       "verificadoEl": "2026-10-20",
-      "notas": "Archivo: Nissan X-Trail e-Power 1X7A6301. Foto de 2023. Categoría Commons: Nissan X-Trail e-Power (T33). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Evaluación Commons: quality. Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "notas": "Archivo: Nissan X-Trail e-Power 1X7A6301. Foto de 2023. Categoría Commons: Nissan X-Trail e-Power (T33). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Evaluación Commons: quality. Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio. Revisión 2026-10-25: foto anterior al rediseño que vende hoy la marca en México; se sustituyó por una del rediseño."
     },
     {
       "archivoUrl": "https://live.staticflickr.com/65535/54168805791_44db325180_b.jpg",

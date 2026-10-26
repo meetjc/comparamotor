@@ -1,0 +1,48 @@
+{
+  "marca": "Changan",
+  "modelo": "Deepal S05",
+  "marcaSlug": "changan",
+  "modeloSlug": "deepal-s05",
+  "generacionMexico": "Deepal S05 (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Front-right_look_of_Changan_Deepal_S05_during_GIIAS_2026_in_Bandung_20260913_165740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Front-right_look_of_Changan_Deepal_S05_during_GIIAS_2026_in_Bandung_20260913_165740.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "M Raisfath",
+      "credito": "Foto: M Raisfath / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 8000,
+      "alto": 6000,
+      "anioOGeneracion": "2026 · Deepal S05 (2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Front-right look of Changan Deepal S05 during GIIAS 2026 in Bandung 20260913 165740. Foto de 2026. Categoría Commons: Changan Deepal S05. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Deepal S05 (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/%28SGP-Singapore%29_Showcar_Deepal_S05_No-plate_rear_2026-01-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_Showcar_Deepal_S05_No-plate_rear_2026-01-09.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "S5A-0043",
+      "credito": "Foto: S5A-0043 / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 4784,
+      "alto": 3827,
+      "anioOGeneracion": "2026 · Deepal S05 (2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: (SGP-Singapore) Showcar Deepal S05 No-plate rear 2026-01-09. Foto de 2026. Categoría Commons: Deepal S05. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Deepal S05 (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

@@ -1,0 +1,48 @@
+{
+  "marca": "Geely",
+  "modelo": "GX3 Pro",
+  "marcaSlug": "geely",
+  "modeloSlug": "gx3-pro",
+  "generacionMexico": "GX3 Pro, como el que muestra Geely México",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Geely_GX3_Pro_1.5_Comfort_2024_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Geely_GX3_Pro_1.5_Comfort_2024_(18).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Captainmorlypogi1959",
+      "credito": "Foto: Captainmorlypogi1959 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 8160,
+      "alto": 6120,
+      "anioOGeneracion": "2024 · GX3 Pro, como el que muestra Geely México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Geely GX3 Pro 1.5 Comfort 2024 (18). Foto de 2024. Categoría Commons: Geely GX3. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (GX3 Pro, como el que muestra Geely México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Geely_GX3_Pro_Elite_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Geely_GX3_Pro_Elite_2025.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "RL GNZLZ",
+      "credito": "Foto: RL GNZLZ / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4629,
+      "alto": 2605,
+      "anioOGeneracion": "2025 · GX3 Pro, como el que muestra Geely México",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Geely GX3 Pro Elite 2025. Foto de 2025. Categoría Commons: Geely GX3. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (GX3 Pro, como el que muestra Geely México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

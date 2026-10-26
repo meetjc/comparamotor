@@ -1,0 +1,48 @@
+{
+  "marca": "Geely",
+  "modelo": "Cityray",
+  "marcaSlug": "geely",
+  "modeloSlug": "cityray",
+  "generacionMexico": "Cityray (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Moscow_-_June_2026_-_Blue_Geely_Cityray_SUV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Moscow_-_June_2026_-_Blue_Geely_Cityray_SUV.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Юрий Д.К.",
+      "credito": "Foto: Юрий Д.К. / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 7592,
+      "alto": 5328,
+      "anioOGeneracion": "2026 · Cityray (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Moscow - June 2026 - Blue Geely Cityray SUV. Foto de 2026. Categoría Commons: Geely Cityray. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Cityray (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Moscow_-_June_2026_-_Blue_Geely_Cityray_SUV1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Moscow_-_June_2026_-_Blue_Geely_Cityray_SUV1.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Юрий Д.К.",
+      "credito": "Foto: Юрий Д.К. / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 7008,
+      "alto": 4048,
+      "anioOGeneracion": "2026 · Cityray (2024+)",
+      "angulo": "perfil",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Moscow - June 2026 - Blue Geely Cityray SUV1. Foto de 2026. Categoría Commons: Geely Cityray. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Cityray (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

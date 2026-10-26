@@ -1,0 +1,48 @@
+{
+  "marca": "Changan",
+  "modelo": "Alsvin",
+  "marcaSlug": "changan",
+  "modeloSlug": "alsvin",
+  "generacionMexico": "Alsvin 2.ª generación (2019+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Changan_Alsvin_%E2%80%94_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Changan_Alsvin_%E2%80%94_Front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "Dominio público",
+      "licenciaUrl": null,
+      "autor": "Bull-Doser",
+      "credito": "Foto: Bull-Doser / Wikimedia Commons (dominio público)",
+      "compartirIgual": false,
+      "ancho": 1383,
+      "alto": 1051,
+      "anioOGeneracion": "2022 · Alsvin 2.ª generación (2019+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Changan Alsvin — Front. Foto de 2022. Categoría Commons: @Changan Alsvin. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Alsvin 2.ª generación (2019+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Changan_Alsvin_II_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Changan_Alsvin_II_001.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Jengtingchen",
+      "credito": "Foto: Jengtingchen / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3204,
+      "alto": 2403,
+      "anioOGeneracion": "2018 · Alsvin 2.ª generación (2019+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Changan Alsvin II 001. Foto de 2018. Categoría Commons: @Changan Alsvin. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Alsvin 2.ª generación (2019+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

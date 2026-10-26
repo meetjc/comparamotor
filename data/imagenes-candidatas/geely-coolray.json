@@ -1,0 +1,48 @@
+{
+  "marca": "Geely",
+  "modelo": "Coolray",
+  "marcaSlug": "geely",
+  "modeloSlug": "coolray",
+  "generacionMexico": "Coolray 1.ª generación con el rediseño 2023, como el que muestra Geely México",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Geely_Coolray_1.5T_GL_2023_%2853255301757%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Geely_Coolray_1.5T_GL_2023_(53255301757).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 2.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "autor": "RL GNZLZ from Chile",
+      "credito": "Foto: RL GNZLZ from Chile / Wikimedia Commons, CC BY-SA 2.0",
+      "compartirIgual": true,
+      "ancho": 4500,
+      "alto": 2880,
+      "anioOGeneracion": "2023 · Coolray 1.ª generación con el rediseño 2023, como el que muestra Geely México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Geely Coolray 1.5T GL 2023 (53255301757). Foto de 2023. Categoría Commons: Geely Coolray. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Coolray 1.ª generación con el rediseño 2023, como el que muestra Geely México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Geely_Coolray_SX11_FL_1.5TD_Sport_Plus_Blur_Gray_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Geely_Coolray_SX11_FL_1.5TD_Sport_Plus_Blur_Gray_01.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Ethan Llamas",
+      "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4545,
+      "alto": 3030,
+      "anioOGeneracion": "2025 · Coolray 1.ª generación con el rediseño 2023, como el que muestra Geely México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Geely Coolray SX11 FL 1.5TD Sport Plus Blur Gray 01. Foto de 2025. Categoría Commons: Geely Coolray. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Coolray 1.ª generación con el rediseño 2023, como el que muestra Geely México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

@@ -1,0 +1,48 @@
+{
+  "marca": "Changan",
+  "modelo": "Deepal G318",
+  "marcaSlug": "changan",
+  "modeloSlug": "deepal-g318",
+  "generacionMexico": "Deepal G318 (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/2024_Deepal_G318_%28China%29_front_view_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Deepal_G318_(China)_front_view_01.png",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "Autosdeprimera",
+      "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 2052,
+      "alto": 1368,
+      "anioOGeneracion": "2024 · Deepal G318 (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Deepal G318 (China) front view 01. Foto de 2024. Categoría Commons: Deepal G318. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Deepal G318 (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Deepal_G318_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Deepal_G318_002.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "JustAnotherCarDesigner",
+      "credito": "Foto: JustAnotherCarDesigner / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4032,
+      "alto": 3024,
+      "anioOGeneracion": "2024 · Deepal G318 (2024+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Deepal G318 002. Foto de 2024. Categoría Commons: Deepal G318. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Deepal G318 (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

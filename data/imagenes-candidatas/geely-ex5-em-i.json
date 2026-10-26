@@ -1,0 +1,48 @@
+{
+  "marca": "Geely",
+  "modelo": "EX5 EM-i",
+  "marcaSlug": "geely",
+  "modeloSlug": "ex5-em-i",
+  "generacionMexico": "EX5 EM-i / Galaxy Starship 7 (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Geely_Galaxy_Starship_7_IMG001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_Starship_7_IMG001.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Zotyefan",
+      "credito": "Foto: Zotyefan / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 3235,
+      "alto": 2426,
+      "anioOGeneracion": "2024 · EX5 EM-i / Galaxy Starship 7 (2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Geely Galaxy Starship 7 IMG001. Foto de 2024. Categoría Commons: @Geely Galaxy Starship 7. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (EX5 EM-i / Galaxy Starship 7 (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Geely_Galaxy_Starship_7_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_Starship_7_002.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "JustAnotherCarDesigner",
+      "credito": "Foto: JustAnotherCarDesigner / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4032,
+      "alto": 3024,
+      "anioOGeneracion": "2024 · EX5 EM-i / Galaxy Starship 7 (2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Geely Galaxy Starship 7 002. Foto de 2024. Categoría Commons: @Geely Galaxy Starship 7. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (EX5 EM-i / Galaxy Starship 7 (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

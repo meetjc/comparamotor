@@ -1,0 +1,48 @@
+{
+  "marca": "BAIC",
+  "modelo": "BJ30",
+  "marcaSlug": "baic",
+  "modeloSlug": "bj30",
+  "generacionMexico": "BJ30 (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Front_look_of_BAIC_BJ30_HEV_during_GIIAS_2026_in_Bandung_20260913_175026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Front_look_of_BAIC_BJ30_HEV_during_GIIAS_2026_in_Bandung_20260913_175026.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "M Raisfath",
+      "credito": "Foto: M Raisfath / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 8000,
+      "alto": 6000,
+      "anioOGeneracion": "2026 · BJ30 (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Front look of BAIC BJ30 HEV during GIIAS 2026 in Bandung 20260913 175026. Foto de 2026. Categoría Commons: BAIC BJ30. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (BJ30 (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BAiC_BJ_30e_1.5T_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:BAiC_BJ_30e_1.5T_2026.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "RL GNZLZ",
+      "credito": "Foto: RL GNZLZ / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4320,
+      "alto": 2700,
+      "anioOGeneracion": "2026 · BJ30 (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: BAiC BJ 30e 1.5T 2026. Foto de 2026. Categoría Commons: BAIC BJ30. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (BJ30 (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

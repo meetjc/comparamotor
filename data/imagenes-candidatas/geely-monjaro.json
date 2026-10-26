@@ -1,0 +1,48 @@
+{
+  "marca": "Geely",
+  "modelo": "Monjaro",
+  "marcaSlug": "geely",
+  "modeloSlug": "monjaro",
+  "generacionMexico": "Monjaro / Xingyue L (2022+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Moscow%2C_Geely_Monjaro%2C_June_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Moscow,_Geely_Monjaro,_June_2025_01.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Retired electrician",
+      "credito": "Foto: Retired electrician / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 5184,
+      "alto": 3456,
+      "anioOGeneracion": "2025 · Monjaro / Xingyue L (2022+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Moscow, Geely Monjaro, June 2025 01. Foto de 2025. Categoría Commons: Geely Monjaro. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Monjaro / Xingyue L (2022+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Volga_K50_matte_grey_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Volga_K50_matte_grey_rear.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "michel",
+      "credito": "Foto: michel / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 1920,
+      "alto": 1212,
+      "anioOGeneracion": "2026 · Monjaro / Xingyue L (2022+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Volga K50 matte grey rear. Foto de 2026. Categoría Commons: Volga K50. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Monjaro / Xingyue L (2022+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

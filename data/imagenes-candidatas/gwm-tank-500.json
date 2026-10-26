@@ -1,0 +1,48 @@
+{
+  "marca": "GWM",
+  "modelo": "Tank 500",
+  "marcaSlug": "gwm",
+  "modeloSlug": "tank-500",
+  "generacionMexico": "Tank 500, mismo frente que muestra GWM México",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Onyx_Silver_GWM_Tank_500_in_GWM_Pasteur_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Onyx_Silver_GWM_Tank_500_in_GWM_Pasteur_02.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "MoCars",
+      "credito": "Foto: MoCars / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4160,
+      "alto": 2340,
+      "anioOGeneracion": "2024 · Tank 500, mismo frente que muestra GWM México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Onyx Silver GWM Tank 500 in GWM Pasteur 02. Foto de 2024. Categoría Commons: Tank 500. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Tank 500, mismo frente que muestra GWM México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tank_500_IMG002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Tank_500_IMG002.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Anonymousfox36",
+      "credito": "Foto: Anonymousfox36 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4000,
+      "alto": 3000,
+      "anioOGeneracion": "2022 · Tank 500, mismo frente que muestra GWM México",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Tank 500 IMG002. Foto de 2022. Categoría Commons: Tank 500. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Tank 500, mismo frente que muestra GWM México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

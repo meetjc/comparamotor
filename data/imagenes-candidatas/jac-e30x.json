@@ -1,0 +1,48 @@
+{
+  "marca": "JAC",
+  "modelo": "E30X",
+  "marcaSlug": "jac",
+  "modeloSlug": "e30x",
+  "generacionMexico": "E30X (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/JAC_E30X%2C_Auto_2025%2C_Zurich_%2820251029-P1074563%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:JAC_E30X,_Auto_2025,_Zurich_(20251029-P1074563).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+      "autor": "Matti Blume",
+      "credito": "Foto: Matti Blume / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5184,
+      "alto": 3888,
+      "anioOGeneracion": "2025 · E30X (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: JAC E30X, Auto 2025, Zurich (20251029-P1074563). Foto de 2025. Categoría Commons: JAC E30X. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (E30X (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/JAC_E30X%2C_Auto_2024%2C_Zurich_%28PANA1052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:JAC_E30X,_Auto_2024,_Zurich_(PANA1052).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+      "autor": "Matti Blume",
+      "credito": "Foto: Matti Blume / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5184,
+      "alto": 3888,
+      "anioOGeneracion": "2024 · E30X (2024+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: JAC E30X, Auto 2024, Zurich (PANA1052). Foto de 2024. Categoría Commons: JAC E30X. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (E30X (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

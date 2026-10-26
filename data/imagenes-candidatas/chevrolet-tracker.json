@@ -3,10 +3,28 @@
   "modelo": "Tracker",
   "marcaSlug": "chevrolet",
   "modeloSlug": "tracker",
-  "generacionMexico": "Tracker (GEM) 2020+",
-  "notasModelo": "Commons la llama «4th generation». Verificar si en México ya está el frente 2025.",
-  "actualizado": "2026-10-20",
+  "generacionMexico": "Tracker con el rediseño 2025, como el Tracker 2026 de Chevrolet México",
+  "notasModelo": "Commons la llama «4th generation». Verificar si en México ya está el frente 2025. Actualización 2026-10-25: Se cambiaron las fotos anteriores al rediseño por fotos del rediseño 2025.",
+  "actualizado": "2026-10-25",
   "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/2026_Chevrolet_Tracker_1.2_LT_%28facelift%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Chevrolet_Tracker_1.2_LT_(facelift).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Just a Man",
+      "credito": "Foto: Just a Man / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 3497,
+      "alto": 2249,
+      "anioOGeneracion": "2026 · Tracker con el rediseño 2025, como el Tracker 2026 de Chevrolet México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2026 Chevrolet Tracker 1.2 LT (facelift). Foto de 2026. Categoría Commons: Chevrolet Tracker (4th generation). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Tracker con el rediseño 2025, como el Tracker 2026 de Chevrolet México). Se cambiaron las fotos anteriores al rediseño por fotos del rediseño 2025. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/2024_Chevrolet_Tracker_1.0_LS_in_Sharkskin_Metallic%2C_front_left%2C_06-09-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Chevrolet_Tracker_1.0_LS_in_Sharkskin_Metallic,_front_left,_06-09-2024.jpg",
@@ -18,11 +36,12 @@
       "compartirIgual": true,
       "ancho": 6273,
       "alto": 4704,
-      "anioOGeneracion": "2024 · Tracker (GEM) 2020+",
+      "anioOGeneracion": "2024 · Tracker con el rediseño 2025, como el Tracker 2026 de Chevrolet México",
       "angulo": "3/4 frontal",
       "coincideConMexico": true,
-      "verificadoEl": "2026-10-20",
-      "notas": "Archivo: 2024 Chevrolet Tracker 1.0 LS in Sharkskin Metallic, front left, 06-09-2024. Foto de 2024. Categoría Commons: Chevrolet Tracker (4th generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Chevrolet Tracker 1.0 LS in Sharkskin Metallic, front left, 06-09-2024. Foto de 2024. Categoría Commons: Chevrolet Tracker (4th generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Tracker con el rediseño 2025, como el Tracker 2026 de Chevrolet México). Se cambiaron las fotos anteriores al rediseño por fotos del rediseño 2025. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
     },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/2022_Chevrolet_Tracker_1.2_Turbo_LTZ%2C_front_%28Argentina%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -37,9 +56,9 @@
       "alto": 2120,
       "anioOGeneracion": "2024 · Tracker (GEM) 2020+",
       "angulo": "3/4 frontal",
-      "coincideConMexico": true,
+      "coincideConMexico": false,
       "verificadoEl": "2026-10-20",
-      "notas": "Archivo: 2022 Chevrolet Tracker 1.2 Turbo LTZ, front (Argentina). Foto de 2024. Categoría Commons: Chevrolet Tracker (4th generation). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "notas": "Archivo: 2022 Chevrolet Tracker 1.2 Turbo LTZ, front (Argentina). Foto de 2024. Categoría Commons: Chevrolet Tracker (4th generation). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio. Revisión 2026-10-25: foto anterior al rediseño que vende hoy la marca en México; se sustituyó por una del rediseño."
     },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/2024_Chevrolet_Tracker_1.0_LS_in_Sharkskin_Metallic%2C_rear_left%2C_06-09-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -54,9 +73,9 @@
       "alto": 3964,
       "anioOGeneracion": "2024 · Tracker (GEM) 2020+",
       "angulo": "3/4 trasero",
-      "coincideConMexico": true,
+      "coincideConMexico": false,
       "verificadoEl": "2026-10-20",
-      "notas": "Archivo: 2024 Chevrolet Tracker 1.0 LS in Sharkskin Metallic, rear left, 06-09-2024. Foto de 2024. Categoría Commons: Chevrolet Tracker (4th generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "notas": "Archivo: 2024 Chevrolet Tracker 1.0 LS in Sharkskin Metallic, rear left, 06-09-2024. Foto de 2024. Categoría Commons: Chevrolet Tracker (4th generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio. Revisión 2026-10-25: foto anterior al rediseño que vende hoy la marca en México; se sustituyó por una del rediseño."
     },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Chevrolet_Tracker_2021_%28interior%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -71,9 +90,9 @@
       "alto": 996,
       "anioOGeneracion": "2020 · Tracker (GEM) 2020+",
       "angulo": "interior",
-      "coincideConMexico": true,
+      "coincideConMexico": false,
       "verificadoEl": "2026-10-20",
-      "notas": "Archivo: Chevrolet Tracker 2021 (interior). Foto de 2020. Categoría Commons: Chevrolet Tracker (4th generation). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Captura de un video de YouTube publicado con licencia CC BY: confirmar en la página que tiene la revisión de licencia (License review) antes de usarla. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "notas": "Archivo: Chevrolet Tracker 2021 (interior). Foto de 2020. Categoría Commons: Chevrolet Tracker (4th generation). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Captura de un video de YouTube publicado con licencia CC BY: confirmar en la página que tiene la revisión de licencia (License review) antes de usarla. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio. Revisión 2026-10-25: foto anterior al rediseño que vende hoy la marca en México; se sustituyó por una del rediseño."
     },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Chevy_Tracker_%2852644129378%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -88,9 +107,9 @@
       "alto": 3888,
       "anioOGeneracion": "2022 · Tracker (GEM) 2020+",
       "angulo": "desconocido",
-      "coincideConMexico": true,
+      "coincideConMexico": false,
       "verificadoEl": "2026-10-20",
-      "notas": "Archivo: Chevy Tracker (52644129378). Foto de 2022. Categoría Commons: Chevrolet Tracker (4th generation). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "notas": "Archivo: Chevy Tracker (52644129378). Foto de 2022. Categoría Commons: Chevrolet Tracker (4th generation). CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio. Revisión 2026-10-25: foto anterior al rediseño que vende hoy la marca en México; se sustituyó por una del rediseño."
     },
     {
       "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/20230609_274_Boukhara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -105,9 +124,9 @@
       "alto": 4000,
       "anioOGeneracion": "2023 · Tracker (GEM) 2020+",
       "angulo": "desconocido",
-      "coincideConMexico": true,
+      "coincideConMexico": false,
       "verificadoEl": "2026-10-20",
-      "notas": "Archivo: 20230609 274 Boukhara. Foto de 2023. Categoría Commons: Chevrolet Tracker (4th generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+      "notas": "Archivo: 20230609 274 Boukhara. Foto de 2023. Categoría Commons: Chevrolet Tracker (4th generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Ángulo no indicado en el nombre: revisar a ojo. Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio. Revisión 2026-10-25: foto anterior al rediseño que vende hoy la marca en México; se sustituyó por una del rediseño."
     },
     {
       "archivoUrl": "https://live.staticflickr.com/65535/51365200907_a9a7ee469c_b.jpg",
