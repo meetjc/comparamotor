@@ -1,0 +1,48 @@
+{
+  "marca": "Audi",
+  "modelo": "Q2",
+  "marcaSlug": "audi",
+  "modeloSlug": "q2",
+  "generacionMexico": "Q2 con el rediseño 2021",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Audi_Q2_FL_1X7A0303_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Audi_Q2_FL_1X7A0303_(cropped).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4998,
+      "alto": 2810,
+      "anioOGeneracion": "2022 · Q2 con el rediseño 2021",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Audi Q2 FL 1X7A0303 (cropped). Foto de 2022. Categoría Commons: Audi Q2 Facelift. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Q2 con el rediseño 2021). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/2022_Audi_Q2_S_Line_35TFSI_-_1498cc_1.5_%28150PS%29_Petrol_-_Grey_-_07-2024%2C_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Audi_Q2_S_Line_35TFSI_-_1498cc_1.5_(150PS)_Petrol_-_Grey_-_07-2024,_Front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Harvey Bold",
+      "credito": "Foto: Harvey Bold / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 4711,
+      "alto": 2389,
+      "anioOGeneracion": "2024 · Q2 con el rediseño 2021",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2022 Audi Q2 S Line 35TFSI - 1498cc 1.5 (150PS) Petrol - Grey - 07-2024, Front. Foto de 2024. Categoría Commons: Audi Q2 Facelift. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Q2 con el rediseño 2021). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

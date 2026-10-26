@@ -4271,5 +4271,1094 @@
    "ancho": 720,
    "alto": 479
   }
+ },
+ "audi-a1-sportback": {
+  "archivo": "foto-audi-a1-sportback-1.jpg",
+  "alt": "Audi A1 Sportback, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-a1-sportback-1.jpg",
+    "alt": "Audi A1 Sportback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 821
+   },
+   {
+    "archivo": "foto-audi-a1-sportback-2.jpg",
+    "alt": "Audi A1 Sportback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 801
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-a1-sportback-1-t.jpg",
+   "alt": "Audi A1 Sportback, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 369
+  }
+ },
+ "audi-a3-sedan": {
+  "archivo": "foto-audi-a3-sedan-1.jpg",
+  "alt": "Audi A3 Sedán, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-a3-sedan-1.jpg",
+    "alt": "Audi A3 Sedán, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 853
+   },
+   {
+    "archivo": "foto-audi-a3-sedan-2.jpg",
+    "alt": "Audi A3 Sedán, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 761
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-a3-sedan-1-t.jpg",
+   "alt": "Audi A3 Sedán, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 384
+  }
+ },
+ "audi-a3-sportback": {
+  "archivo": "foto-audi-a3-sportback-1.jpg",
+  "alt": "Audi A3 Sportback, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-a3-sportback-1.jpg",
+    "alt": "Audi A3 Sportback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-audi-a3-sportback-2.jpg",
+    "alt": "Audi A3 Sportback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 781
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-a3-sportback-1-t.jpg",
+   "alt": "Audi A3 Sportback, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "audi-a5": {
+  "archivo": "foto-audi-a5-1.jpg",
+  "alt": "Audi A5, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-a5-1.jpg",
+    "alt": "Audi A5, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 746
+   },
+   {
+    "archivo": "foto-audi-a5-2.jpg",
+    "alt": "Audi A5, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 753
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-a5-1-t.jpg",
+   "alt": "Audi A5, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 335
+  }
+ },
+ "audi-a6-sedan": {
+  "archivo": "foto-audi-a6-sedan-1.jpg",
+  "alt": "Audi A6 Sedán, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-a6-sedan-1.jpg",
+    "alt": "Audi A6 Sedán, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 815
+   },
+   {
+    "archivo": "foto-audi-a6-sedan-2.jpg",
+    "alt": "Audi A6 Sedán, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 754
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-a6-sedan-1-t.jpg",
+   "alt": "Audi A6 Sedán, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 366
+  }
+ },
+ "audi-a6-sportback-e-tron": {
+  "archivo": "foto-audi-a6-sportback-e-tron-1.jpg",
+  "alt": "Audi A6 Sportback e-tron, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-a6-sportback-e-tron-1.jpg",
+    "alt": "Audi A6 Sportback e-tron, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 787
+   },
+   {
+    "archivo": "foto-audi-a6-sportback-e-tron-2.jpg",
+    "alt": "Audi A6 Sportback e-tron, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 752
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-a6-sportback-e-tron-1-t.jpg",
+   "alt": "Audi A6 Sportback e-tron, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 354
+  }
+ },
+ "audi-q2": {
+  "archivo": "foto-audi-q2-1.jpg",
+  "alt": "Audi Q2, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-q2-1.jpg",
+    "alt": "Audi Q2, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 899
+   },
+   {
+    "archivo": "foto-audi-q2-2.jpg",
+    "alt": "Audi Q2, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 811
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-q2-1-t.jpg",
+   "alt": "Audi Q2, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 404
+  }
+ },
+ "audi-q5": {
+  "archivo": "foto-audi-q5-1.jpg",
+  "alt": "Audi Q5, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-q5-1.jpg",
+    "alt": "Audi Q5, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 936
+   },
+   {
+    "archivo": "foto-audi-q5-2.jpg",
+    "alt": "Audi Q5, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 856
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-q5-1-t.jpg",
+   "alt": "Audi Q5, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 421
+  }
+ },
+ "audi-q5-sportback": {
+  "archivo": "foto-audi-q5-sportback-1.jpg",
+  "alt": "Audi Q5 Sportback, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-q5-sportback-1.jpg",
+    "alt": "Audi Q5 Sportback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 847
+   },
+   {
+    "archivo": "foto-audi-q5-sportback-2.jpg",
+    "alt": "Audi Q5 Sportback, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 857
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-q5-sportback-1-t.jpg",
+   "alt": "Audi Q5 Sportback, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 381
+  }
+ },
+ "audi-q6-e-tron": {
+  "archivo": "foto-audi-q6-e-tron-1.jpg",
+  "alt": "Audi Q6 e-tron, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-q6-e-tron-1.jpg",
+    "alt": "Audi Q6 e-tron, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 811
+   },
+   {
+    "archivo": "foto-audi-q6-e-tron-2.jpg",
+    "alt": "Audi Q6 e-tron, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-audi-q6-e-tron-3.jpg",
+    "alt": "Audi Q6 e-tron, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1065
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-q6-e-tron-1-t.jpg",
+   "alt": "Audi Q6 e-tron, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 365
+  }
+ },
+ "audi-q6-sportback-e-tron": {
+  "archivo": "foto-audi-q6-sportback-e-tron-1.jpg",
+  "alt": "Audi Q6 Sportback e-tron, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-q6-sportback-e-tron-1.jpg",
+    "alt": "Audi Q6 Sportback e-tron, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 864
+   },
+   {
+    "archivo": "foto-audi-q6-sportback-e-tron-2.jpg",
+    "alt": "Audi Q6 Sportback e-tron, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 871
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-q6-sportback-e-tron-1-t.jpg",
+   "alt": "Audi Q6 Sportback e-tron, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 388
+  }
+ },
+ "audi-q8": {
+  "archivo": "foto-audi-q8-1.jpg",
+  "alt": "Audi Q8, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-audi-q8-1.jpg",
+    "alt": "Audi Q8, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 906
+   },
+   {
+    "archivo": "foto-audi-q8-2.jpg",
+    "alt": "Audi Q8, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 910
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-audi-q8-1-t.jpg",
+   "alt": "Audi Q8, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 407
+  }
+ },
+ "bmw-i4": {
+  "archivo": "foto-bmw-i4-1.jpg",
+  "alt": "BMW i4, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-i4-1.jpg",
+    "alt": "BMW i4, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1016
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-i4-1-t.jpg",
+   "alt": "BMW i4, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 457
+  }
+ },
+ "bmw-i5": {
+  "archivo": "foto-bmw-i5-1.jpg",
+  "alt": "BMW i5, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-i5-1.jpg",
+    "alt": "BMW i5, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-bmw-i5-2.jpg",
+    "alt": "BMW i5, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1065
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-i5-1-t.jpg",
+   "alt": "BMW i5, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
+ },
+ "bmw-i7": {
+  "archivo": "foto-bmw-i7-1.jpg",
+  "alt": "BMW i7, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-i7-1.jpg",
+    "alt": "BMW i7, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   },
+   {
+    "archivo": "foto-bmw-i7-2.jpg",
+    "alt": "BMW i7, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-i7-1-t.jpg",
+   "alt": "BMW i7, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 540
+  }
+ },
+ "bmw-ix": {
+  "archivo": "foto-bmw-ix-1.jpg",
+  "alt": "BMW iX, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-ix-1.jpg",
+    "alt": "BMW iX, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   },
+   {
+    "archivo": "foto-bmw-ix-2.jpg",
+    "alt": "BMW iX, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 924
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-ix-1-t.jpg",
+   "alt": "BMW iX, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "bmw-ix1": {
+  "archivo": "foto-bmw-ix1-1.jpg",
+  "alt": "BMW iX1, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-ix1-1.jpg",
+    "alt": "BMW iX1, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 870
+   },
+   {
+    "archivo": "foto-bmw-ix1-2.jpg",
+    "alt": "BMW iX1, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 877
+   },
+   {
+    "archivo": "foto-bmw-ix1-3.jpg",
+    "alt": "BMW iX1, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-ix1-1-t.jpg",
+   "alt": "BMW iX1, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 391
+  }
+ },
+ "bmw-ix2": {
+  "archivo": "foto-bmw-ix2-1.jpg",
+  "alt": "BMW iX2, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-ix2-1.jpg",
+    "alt": "BMW iX2, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-bmw-ix2-2.jpg",
+    "alt": "BMW iX2, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 911
+   },
+   {
+    "archivo": "foto-bmw-ix2-3.jpg",
+    "alt": "BMW iX2, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-ix2-1-t.jpg",
+   "alt": "BMW iX2, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "bmw-ix3": {
+  "archivo": "foto-bmw-ix3-1.jpg",
+  "alt": "BMW iX3, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-ix3-1.jpg",
+    "alt": "BMW iX3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-bmw-ix3-2.jpg",
+    "alt": "BMW iX3, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 969
+   },
+   {
+    "archivo": "foto-bmw-ix3-3.jpg",
+    "alt": "BMW iX3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 854
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-ix3-1-t.jpg",
+   "alt": "BMW iX3, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "bmw-m2": {
+  "archivo": "foto-bmw-m2-1.jpg",
+  "alt": "BMW M2, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-m2-1.jpg",
+    "alt": "BMW M2, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 842
+   },
+   {
+    "archivo": "foto-bmw-m2-2.jpg",
+    "alt": "BMW M2, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1065
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-m2-1-t.jpg",
+   "alt": "BMW M2, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 379
+  }
+ },
+ "bmw-m3": {
+  "archivo": "foto-bmw-m3-1.jpg",
+  "alt": "BMW M3, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-m3-1.jpg",
+    "alt": "BMW M3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-m3-1-t.jpg",
+   "alt": "BMW M3, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "bmw-m5": {
+  "archivo": "foto-bmw-m5-1.jpg",
+  "alt": "BMW M5, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-m5-1.jpg",
+    "alt": "BMW M5, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 836
+   },
+   {
+    "archivo": "foto-bmw-m5-2.jpg",
+    "alt": "BMW M5, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 811
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-m5-1-t.jpg",
+   "alt": "BMW M5, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 376
+  }
+ },
+ "bmw-serie-1": {
+  "archivo": "foto-bmw-serie-1-1.jpg",
+  "alt": "BMW Serie 1, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-serie-1-1.jpg",
+    "alt": "BMW Serie 1, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 817
+   },
+   {
+    "archivo": "foto-bmw-serie-1-2.jpg",
+    "alt": "BMW Serie 1, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1021
+   },
+   {
+    "archivo": "foto-bmw-serie-1-3.jpg",
+    "alt": "BMW Serie 1, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1065
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-serie-1-1-t.jpg",
+   "alt": "BMW Serie 1, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 367
+  }
+ },
+ "bmw-serie-2-coupe": {
+  "archivo": "foto-bmw-serie-2-coupe-1.jpg",
+  "alt": "BMW Serie 2 Coupé, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-serie-2-coupe-1.jpg",
+    "alt": "BMW Serie 2 Coupé, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 781
+   },
+   {
+    "archivo": "foto-bmw-serie-2-coupe-2.jpg",
+    "alt": "BMW Serie 2 Coupé, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 772
+   },
+   {
+    "archivo": "foto-bmw-serie-2-coupe-3.jpg",
+    "alt": "BMW Serie 2 Coupé, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 838
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-serie-2-coupe-1-t.jpg",
+   "alt": "BMW Serie 2 Coupé, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 351
+  }
+ },
+ "bmw-serie-2-gran-coupe": {
+  "archivo": "foto-bmw-serie-2-gran-coupe-1.jpg",
+  "alt": "BMW Serie 2 Gran Coupé, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-serie-2-gran-coupe-1.jpg",
+    "alt": "BMW Serie 2 Gran Coupé, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 886
+   },
+   {
+    "archivo": "foto-bmw-serie-2-gran-coupe-2.jpg",
+    "alt": "BMW Serie 2 Gran Coupé, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 782
+   },
+   {
+    "archivo": "foto-bmw-serie-2-gran-coupe-3.jpg",
+    "alt": "BMW Serie 2 Gran Coupé, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 741
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-serie-2-gran-coupe-1-t.jpg",
+   "alt": "BMW Serie 2 Gran Coupé, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 398
+  }
+ },
+ "bmw-serie-3": {
+  "archivo": "foto-bmw-serie-3-1.jpg",
+  "alt": "BMW Serie 3, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-serie-3-1.jpg",
+    "alt": "BMW Serie 3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 925
+   },
+   {
+    "archivo": "foto-bmw-serie-3-2.jpg",
+    "alt": "BMW Serie 3, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 821
+   },
+   {
+    "archivo": "foto-bmw-serie-3-3.jpg",
+    "alt": "BMW Serie 3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 784
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-serie-3-1-t.jpg",
+   "alt": "BMW Serie 3, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 416
+  }
+ },
+ "bmw-serie-4-convertible": {
+  "archivo": "foto-bmw-serie-4-convertible-1.jpg",
+  "alt": "BMW Serie 4 Convertible, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-serie-4-convertible-1.jpg",
+    "alt": "BMW Serie 4 Convertible, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 814
+   },
+   {
+    "archivo": "foto-bmw-serie-4-convertible-2.jpg",
+    "alt": "BMW Serie 4 Convertible, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 819
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-serie-4-convertible-1-t.jpg",
+   "alt": "BMW Serie 4 Convertible, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 366
+  }
+ },
+ "bmw-serie-4-gran-coupe": {
+  "archivo": "foto-bmw-serie-4-gran-coupe-1.jpg",
+  "alt": "BMW Serie 4 Gran Coupé, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-serie-4-gran-coupe-1.jpg",
+    "alt": "BMW Serie 4 Gran Coupé, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1069
+   },
+   {
+    "archivo": "foto-bmw-serie-4-gran-coupe-2.jpg",
+    "alt": "BMW Serie 4 Gran Coupé, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 956
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-serie-4-gran-coupe-1-t.jpg",
+   "alt": "BMW Serie 4 Gran Coupé, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 481
+  }
+ },
+ "bmw-serie-5": {
+  "archivo": "foto-bmw-serie-5-1.jpg",
+  "alt": "BMW Serie 5, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-serie-5-1.jpg",
+    "alt": "BMW Serie 5, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   },
+   {
+    "archivo": "foto-bmw-serie-5-2.jpg",
+    "alt": "BMW Serie 5, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1065
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-serie-5-1-t.jpg",
+   "alt": "BMW Serie 5, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "bmw-serie-7": {
+  "archivo": "foto-bmw-serie-7-1.jpg",
+  "alt": "BMW Serie 7, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-serie-7-1.jpg",
+    "alt": "BMW Serie 7, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 811
+   },
+   {
+    "archivo": "foto-bmw-serie-7-2.jpg",
+    "alt": "BMW Serie 7, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1067
+   },
+   {
+    "archivo": "foto-bmw-serie-7-3.jpg",
+    "alt": "BMW Serie 7, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 889
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-serie-7-1-t.jpg",
+   "alt": "BMW Serie 7, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 365
+  }
+ },
+ "bmw-x1": {
+  "archivo": "foto-bmw-x1-1.jpg",
+  "alt": "BMW X1, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-x1-1.jpg",
+    "alt": "BMW X1, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 894
+   },
+   {
+    "archivo": "foto-bmw-x1-2.jpg",
+    "alt": "BMW X1, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 984
+   },
+   {
+    "archivo": "foto-bmw-x1-3.jpg",
+    "alt": "BMW X1, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 861
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-x1-1-t.jpg",
+   "alt": "BMW X1, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 402
+  }
+ },
+ "bmw-x2": {
+  "archivo": "foto-bmw-x2-1.jpg",
+  "alt": "BMW X2, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-x2-1.jpg",
+    "alt": "BMW X2, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 913
+   },
+   {
+    "archivo": "foto-bmw-x2-2.jpg",
+    "alt": "BMW X2, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 793
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-x2-1-t.jpg",
+   "alt": "BMW X2, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 411
+  }
+ },
+ "bmw-x3": {
+  "archivo": "foto-bmw-x3-1.jpg",
+  "alt": "BMW X3, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-x3-1.jpg",
+    "alt": "BMW X3, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-bmw-x3-2.jpg",
+    "alt": "BMW X3, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 909
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-x3-1-t.jpg",
+   "alt": "BMW X3, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "bmw-x5-m": {
+  "archivo": "foto-bmw-x5-m-1.jpg",
+  "alt": "BMW X5 M, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-x5-m-1.jpg",
+    "alt": "BMW X5 M, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1113
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-x5-m-1-t.jpg",
+   "alt": "BMW X5 M, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 501
+  }
+ },
+ "bmw-x5": {
+  "archivo": "foto-bmw-x5-1.jpg",
+  "alt": "BMW X5, vista 3/4 trasero",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-x5-1.jpg",
+    "alt": "BMW X5, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 901
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-x5-1-t.jpg",
+   "alt": "BMW X5, vista 3/4 trasero",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "bmw-x6-m": {
+  "archivo": "foto-bmw-x6-m-1.jpg",
+  "alt": "BMW X6 M, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-x6-m-1.jpg",
+    "alt": "BMW X6 M, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-bmw-x6-m-2.jpg",
+    "alt": "BMW X6 M, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 912
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-x6-m-1-t.jpg",
+   "alt": "BMW X6 M, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "bmw-x6": {
+  "archivo": "foto-bmw-x6-1.jpg",
+  "alt": "BMW X6, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-x6-1.jpg",
+    "alt": "BMW X6, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 886
+   },
+   {
+    "archivo": "foto-bmw-x6-2.jpg",
+    "alt": "BMW X6, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1176
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-x6-1-t.jpg",
+   "alt": "BMW X6, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 398
+  }
+ },
+ "bmw-x7": {
+  "archivo": "foto-bmw-x7-1.jpg",
+  "alt": "BMW X7, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-x7-1.jpg",
+    "alt": "BMW X7, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-bmw-x7-2.jpg",
+    "alt": "BMW X7, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1067
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-x7-1-t.jpg",
+   "alt": "BMW X7, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "bmw-xm": {
+  "archivo": "foto-bmw-xm-1.jpg",
+  "alt": "BMW XM, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-xm-1.jpg",
+    "alt": "BMW XM, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 796
+   },
+   {
+    "archivo": "foto-bmw-xm-2.jpg",
+    "alt": "BMW XM, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 858
+   },
+   {
+    "archivo": "foto-bmw-xm-3.jpg",
+    "alt": "BMW XM, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 876
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-xm-1-t.jpg",
+   "alt": "BMW XM, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 358
+  }
+ },
+ "bmw-z4": {
+  "archivo": "foto-bmw-z4-1.jpg",
+  "alt": "BMW Z4, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-bmw-z4-1.jpg",
+    "alt": "BMW Z4, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 789
+   },
+   {
+    "archivo": "foto-bmw-z4-2.jpg",
+    "alt": "BMW Z4, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 796
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-bmw-z4-1-t.jpg",
+   "alt": "BMW Z4, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 355
+  }
  }
 }

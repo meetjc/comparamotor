@@ -1,0 +1,30 @@
+{
+  "marca": "BMW",
+  "modelo": "M3",
+  "marcaSlug": "bmw",
+  "modeloSlug": "m3",
+  "generacionMexico": "M3 G80 (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/BMW_M3_Competition_Berline_G80_%2855211557298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:BMW_M3_Competition_Berline_G80_(55211557298).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexandre Prevot from Nancy, France",
+      "credito": "Foto: Alexandre Prevot from Nancy, France / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3500,
+      "alto": 2333,
+      "anioOGeneracion": "2026 · M3 G80 (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: BMW M3 Competition Berline G80 (55211557298). Foto de 2026. Categoría Commons: BMW M3 (G80). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (M3 G80 (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

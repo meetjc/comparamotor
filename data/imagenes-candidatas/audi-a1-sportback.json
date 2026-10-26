@@ -1,0 +1,48 @@
+{
+  "marca": "Audi",
+  "modelo": "A1 Sportback",
+  "marcaSlug": "audi",
+  "modeloSlug": "a1-sportback",
+  "generacionMexico": "A1 Sportback GB (2019+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Audi_A1_Sportback_GB_IMG_6024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Audi_A1_Sportback_GB_IMG_6024.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5111,
+      "alto": 2621,
+      "anioOGeneracion": "2022 · A1 Sportback GB (2019+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Audi A1 Sportback GB IMG 6024. Foto de 2022. Categoría Commons: Audi A1 Sportback GB. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (A1 Sportback GB (2019+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/2019_Audi_A1_S-Line_Competition_40_TFSi_2.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2019_Audi_A1_S-Line_Competition_40_TFSi_2.0_Front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Vauxford",
+      "credito": "Foto: Vauxford / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5393,
+      "alto": 2698,
+      "anioOGeneracion": "2019 · A1 Sportback GB (2019+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2019 Audi A1 S-Line Competition 40 TFSi 2.0 Front. Foto de 2019. Categoría Commons: Audi A1 Sportback GB. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (A1 Sportback GB (2019+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

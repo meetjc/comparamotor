@@ -1,0 +1,48 @@
+{
+  "marca": "Audi",
+  "modelo": "Q6 Sportback e-tron",
+  "marcaSlug": "audi",
+  "modeloSlug": "q6-sportback-e-tron",
+  "generacionMexico": "Q6 Sportback e-tron (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/2026_Audi_Q6_e-Tron_Sportback_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Audi_Q6_e-Tron_Sportback_front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "LuvsMG481",
+      "credito": "Foto: LuvsMG481 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5542,
+      "alto": 2992,
+      "anioOGeneracion": "2026 · Q6 Sportback e-tron (2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2026 Audi Q6 e-Tron Sportback front. Foto de 2026. Categoría Commons: Audi Q6 e-tron Sportback. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Q6 Sportback e-tron (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Audi_Q6_e-tron_Sportback_IAA_2025_DSC_2492.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Audi_Q6_e-tron_Sportback_IAA_2025_DSC_2492.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5674,
+      "alto": 3092,
+      "anioOGeneracion": "2025 · Q6 Sportback e-tron (2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Audi Q6 e-tron Sportback IAA 2025 DSC 2492. Foto de 2025. Categoría Commons: Audi Q6 e-tron Sportback. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Q6 Sportback e-tron (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

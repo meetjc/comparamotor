@@ -1,0 +1,48 @@
+{
+  "marca": "BMW",
+  "modelo": "Z4",
+  "marcaSlug": "bmw",
+  "modeloSlug": "z4",
+  "generacionMexico": "Z4 G29 con el rediseño 2023",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/BMW_G29_Z4_M40i_%28Facelift%29_1X7A6946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:BMW_G29_Z4_M40i_(Facelift)_1X7A6946.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander-93",
+      "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5820,
+      "alto": 2871,
+      "anioOGeneracion": "2023 · Z4 G29 con el rediseño 2023",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: BMW G29 Z4 M40i (Facelift) 1X7A6946. Foto de 2023. Categoría Commons: BMW Z4 (G29, facelift) M40i. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Z4 G29 con el rediseño 2023). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/BMW_G29_Z4_M40i_%28Facelift%29_1X7A6948.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:BMW_G29_Z4_M40i_(Facelift)_1X7A6948.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander-93",
+      "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5759,
+      "alto": 2864,
+      "anioOGeneracion": "2023 · Z4 G29 con el rediseño 2023",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: BMW G29 Z4 M40i (Facelift) 1X7A6948. Foto de 2023. Categoría Commons: BMW Z4 (G29, facelift) M40i. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Z4 G29 con el rediseño 2023). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

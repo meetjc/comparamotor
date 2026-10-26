@@ -1,0 +1,48 @@
+{
+  "marca": "Audi",
+  "modelo": "A3 Sedán",
+  "marcaSlug": "audi",
+  "modeloSlug": "a3-sedan",
+  "generacionMexico": "A3 Sedán 8Y con el rediseño 2024",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/2024_Audi_A3_8Y_Sedan_IMG_1019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Audi_A3_8Y_Sedan_IMG_1019.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander-93",
+      "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4650,
+      "alto": 2481,
+      "anioOGeneracion": "2024 · A3 Sedán 8Y con el rediseño 2024",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Audi A3 8Y Sedan IMG 1019. Foto de 2024. Categoría Commons: Audi A3 8Y Sedan. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (A3 Sedán 8Y con el rediseño 2024). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Audi_A3_Limousine_S_line_%288Y%29_%E2%80%93_h_08072024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Audi_A3_Limousine_S_line_(8Y)_%E2%80%93_h_08072024.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "autor": "© M 93",
+      "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+      "compartirIgual": true,
+      "ancho": 5934,
+      "alto": 2826,
+      "anioOGeneracion": "2024 · A3 Sedán 8Y con el rediseño 2024",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Audi A3 Limousine S line (8Y) – h 08072024. Foto de 2024. Categoría Commons: Audi A3 8Y Sedan. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (A3 Sedán 8Y con el rediseño 2024). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

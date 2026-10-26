@@ -1,0 +1,48 @@
+{
+  "marca": "Audi",
+  "modelo": "A5",
+  "marcaSlug": "audi",
+  "modeloSlug": "a5",
+  "generacionMexico": "A5 B10 (2025+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Audi_A5_S_line_%28B10%29_%E2%80%93_f_01032025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Audi_A5_S_line_(B10)_%E2%80%93_f_01032025.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "autor": "© M 93",
+      "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+      "compartirIgual": true,
+      "ancho": 5846,
+      "alto": 2725,
+      "anioOGeneracion": "2025 · A5 B10 (2025+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Audi A5 S line (B10) – f 01032025. Foto de 2025. Categoría Commons: Audi A5 B10. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (A5 B10 (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Audi_A5_S_line_%28B10%29_%E2%80%93_h_01032025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Audi_A5_S_line_(B10)_%E2%80%93_h_01032025.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "autor": "© M 93",
+      "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+      "compartirIgual": true,
+      "ancho": 5754,
+      "alto": 2710,
+      "anioOGeneracion": "2025 · A5 B10 (2025+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Audi A5 S line (B10) – h 01032025. Foto de 2025. Categoría Commons: Audi A5 B10. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (A5 B10 (2025+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

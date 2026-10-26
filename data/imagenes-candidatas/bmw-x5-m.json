@@ -1,0 +1,30 @@
+{
+  "marca": "BMW",
+  "modelo": "X5 M",
+  "marcaSlug": "bmw",
+  "modeloSlug": "x5-m",
+  "generacionMexico": "X5 M con el rediseño 2024 (LCI)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/2023_BMW_X5_M_Competition_MHEV_Auto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_BMW_X5_M_Competition_MHEV_Auto.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Calreyn88",
+      "credito": "Foto: Calreyn88 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 14488,
+      "alto": 10082,
+      "anioOGeneracion": "2024 · X5 M con el rediseño 2024 (LCI)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2023 BMW X5 M Competition MHEV Auto. Foto de 2024. Categoría Commons: BMW X5 M (G05). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (X5 M con el rediseño 2024 (LCI)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}
