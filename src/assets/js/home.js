@@ -28,6 +28,64 @@
   var CARRO = { suv: 'SUV', sedan: 'sedán', hatchback: 'hatchback', pickup: 'pickup', van: 'van', coupe: 'coupé' };
   function ver(a) { return a.ver || a.version; }
 
+  // Buscador de autos: un campo de texto reemplaza al desplegable de 358 opciones.
+  // El <select> se queda oculto como fuente de verdad, así el resto del comparador no cambia.
+  function norm(t) { return String(t || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function pesos(n) { return '$' + Math.round(n).toLocaleString('es-MX'); }
+  var LISTA = Object.keys(AUTOS).map(function (k) { var a = AUTOS[k]; return { k: k, a: a, m: norm(a.modelo), t: norm([a.marca, a.modelo, ver(a), CARRO[a.body] || a.body || '', a.anio].join(' ')) }; });
+  var MAX = 60, cbs = {};
+  function buscador(id) {
+    var s = $(id), lab = s.closest('label'), row = s.closest('.row');
+    if (!lab || !row) return;
+    var inp = document.createElement('input'), ul = document.createElement('ul'), res = [], act = -1;
+    inp.type = 'text'; inp.id = id + '-q'; inp.className = 'cb-in'; inp.placeholder = 'Escribe marca o modelo';
+    inp.autocomplete = 'off'; inp.spellcheck = false; inp.setAttribute('autocapitalize', 'off'); inp.setAttribute('enterkeyhint', 'search');
+    inp.setAttribute('role', 'combobox'); inp.setAttribute('aria-autocomplete', 'list'); inp.setAttribute('aria-expanded', 'false'); inp.setAttribute('aria-controls', id + '-lista');
+    ul.id = id + '-lista'; ul.className = 'cb-lista'; ul.setAttribute('role', 'listbox'); ul.setAttribute('aria-label', lab.firstChild.textContent.trim()); ul.hidden = true;
+    s.classList.add('cb-oculto'); s.tabIndex = -1; s.setAttribute('aria-hidden', 'true'); lab.htmlFor = inp.id;
+    s.insertAdjacentElement('afterend', inp); row.appendChild(ul); row.classList.add('cb');
+    function texto() { var a = AUTOS[s.value]; return a ? a.marca + ' ' + a.modelo + ' ' + ver(a) : ''; }
+    function cierra() { ul.hidden = true; inp.setAttribute('aria-expanded', 'false'); inp.removeAttribute('aria-activedescendant'); act = -1; }
+    function mueve(i) {
+      var li = ul.querySelectorAll('[role=option]');
+      if (li[act]) li[act].classList.remove('on');
+      act = i;
+      if (li[i]) { li[i].classList.add('on'); li[i].scrollIntoView({ block: 'nearest' }); inp.setAttribute('aria-activedescendant', li[i].id); } else inp.removeAttribute('aria-activedescendant');
+    }
+    function pinta(q) {
+      var toks = norm(q).split(/\s+/).filter(Boolean);
+      res = toks.length ? LISTA.filter(function (o) { return toks.every(function (t) { return o.t.indexOf(t) > -1; }); }) : LISTA.slice();
+      if (toks.length) res.sort(function (x, y) { return (y.m.indexOf(toks[0]) === 0) - (x.m.indexOf(toks[0]) === 0); }); // primero los modelos que empiezan con lo escrito
+      var total = res.length; res = res.slice(0, MAX);
+      ul.innerHTML = res.length ? res.map(function (o, i) {
+        var a = o.a, p = a.oferta || a.lista;
+        return '<li role="option" id="' + id + '-o' + i + '" data-i="' + i + '"' + (o.k === s.value ? ' aria-selected="true"' : '') + '>' +
+          (a.foto ? '<img src="' + esc(a.foto) + '" alt="" loading="lazy" width="56" height="38">' : '<span class="cb-sin"></span>') +
+          '<span class="cb-t"><b>' + esc(a.modelo) + '</b><small>' + esc(a.marca + ' · ' + ver(a)) + '</small></span>' +
+          (p ? '<span class="cb-p">' + pesos(p) + '</span>' : '') + '</li>';
+      }).join('') + (total > MAX ? '<li class="cb-aviso">' + (total - MAX) + ' autos más: escribe para afinar la búsqueda</li>' : '')
+        : '<li class="cb-aviso">No encontramos «' + esc(q) + '». Prueba con la marca o el modelo, por ejemplo «Versa» o «Tiguan».</li>';
+      ul.hidden = false; inp.setAttribute('aria-expanded', 'true'); ul.scrollTop = 0; act = -1;
+      if (toks.length && res.length) mueve(0);
+    }
+    function elige(i) { var o = res[i]; if (!o) return; s.value = o.k; s.dispatchEvent(new Event('change', { bubbles: true })); cierra(); inp.value = texto(); inp.blur(); }
+    // Al tocar, el campo se vacía (en iPhone select() no deja el texto marcado) y el auto actual queda de sugerencia.
+    inp.addEventListener('focus', function () { inp.placeholder = texto() || 'Escribe marca o modelo'; inp.value = ''; pinta(''); });
+    inp.addEventListener('input', function () { pinta(inp.value); });
+    inp.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowDown') { e.preventDefault(); if (ul.hidden) pinta(inp.value); mueve(Math.min(act + 1, res.length - 1)); }
+      else if (e.key === 'ArrowUp') { e.preventDefault(); mueve(Math.max(act - 1, 0)); }
+      else if (e.key === 'Enter') { if (!ul.hidden && act > -1) { e.preventDefault(); elige(act); } }
+      else if (e.key === 'Escape') { cierra(); inp.value = texto(); }
+    });
+    inp.addEventListener('blur', function () { setTimeout(function () { if (document.activeElement !== inp) { cierra(); inp.value = texto(); inp.placeholder = 'Escribe marca o modelo'; } }, 250); });
+    ul.addEventListener('mousedown', function (e) { e.preventDefault(); }); // que el clic no le quite el foco al campo
+    ul.addEventListener('click', function (e) { var li = e.target.closest('[role=option]'); if (li) elige(+li.dataset.i); });
+    inp.value = texto();
+    cbs[id] = function () { if (document.activeElement !== inp) inp.value = texto(); };
+  }
+  if (String.prototype.normalize) { buscador('sa'); buscador('sb'); }
+
   function calc(k, modo) {
     modo = modo || st.modo;
     var a = AUTOS[k], aplica = a.oferta && (a.exige === null || a.exige === modo), precio = aplica ? a.oferta : a.lista;
@@ -166,7 +224,7 @@
     document.querySelectorAll('[data-plazo]').forEach(function (b) { b.setAttribute('aria-pressed', String(+b.dataset.plazo === st.plazo)); b.textContent = b.dataset.plazo + (+b.dataset.plazo === st.plazo ? ' m' : ''); });
     $('c-eng').hidden = st.modo !== 'credito';
     $('eng').value = st.eng; $('eng-o').textContent = st.eng + '%';
-    $('sa').value = st.a; $('sb').value = st.b;
+    $('sa').value = st.a; $('sb').value = st.b; if (cbs.sa) { cbs.sa(); cbs.sb(); }
     explore();
   }
 
