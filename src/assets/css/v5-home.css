@@ -34,6 +34,7 @@
   --shadow-2: rgba(23,21,19,.16) 0 4px 16px 0;
   --shadow-3: rgba(0,0,0,.16) 0 2px 8px 0;
   --ease: cubic-bezier(.16, 1, .3, 1);
+  --spring: cubic-bezier(.34, 1.56, .64, 1);
   --font: "Geist", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
   --font-logo: "Plus Jakarta Sans", "Geist", Arial, sans-serif;
   color-scheme: light;
@@ -57,10 +58,23 @@ h1, h2, h3 { font-feature-settings: "ss01"; text-wrap: balance; }
 
 /* Logotipo */
 .logo { display: inline-flex; align-items: center; gap: 10px; flex: none; }
-.logo .mk { width: 30px; height: 30px; flex: none; transition: transform 700ms var(--ease); }
-.logo:hover .mk { transform: rotate(45deg); }
-.ready .nav .logo .mk { animation: turn 1200ms var(--ease) 150ms both; }
-@keyframes turn { from { transform: translateX(-14px) rotate(-200deg); opacity: 0; } to { transform: none; opacity: 1; } }
+.logo .mk { width: 46px; height: 25px; flex: none; overflow: visible; transition: transform 500ms var(--ease); }
+.logo:hover .mk { transform: translateX(3px); }
+.logo .mk rect, .logo .mk circle { transform-box: fill-box; }
+.mk-b rect { transform-origin: 50% 100%; }
+.mk-r circle { transform-origin: 50% 50%; }
+/* Entrada del logo (~1.3 s): el auto llega desde la izquierda, las barras suben una por una con rebote,
+   las ruedas «aterrizan» y la palabra se escribe de izquierda a derecha. */
+.ready .nav .logo .mk { animation: llega 900ms var(--ease) 80ms both; }
+.ready .nav .logo .mk-b rect { animation: barra 620ms var(--spring) both; animation-delay: calc(140ms + var(--i) * 60ms); }
+.ready .nav .logo .mk-r circle { animation: rueda 520ms var(--spring) 620ms both; }
+.ready .nav .logo .wm { animation: escribe 700ms var(--ease) 560ms both; }
+.ready .nav .logo .wm b { animation: enciende 900ms var(--ease) 900ms both; }
+@keyframes llega { from { transform: translateX(-22px); opacity: 0; } 30% { opacity: 1; } to { transform: none; } }
+@keyframes barra { from { transform: scaleY(0); } to { transform: none; } }
+@keyframes rueda { from { transform: scale(0); } to { transform: none; } }
+@keyframes escribe { from { clip-path: inset(-10% 100% -10% 0); transform: translateX(-6px); } to { clip-path: inset(-10% 0 -10% 0); transform: none; } }
+@keyframes enciende { from { color: #fff; } to { color: var(--rojo-claro); } }
 .logo .wm { font-family: var(--font-logo); font-weight: 800; font-size: 22px; line-height: 1; letter-spacing: -0.035em; white-space: nowrap; }
 .logo .wm b { font-weight: 800; color: var(--primary); }
 .on-dark .wm { color: #fff; }
@@ -105,7 +119,7 @@ h1, h2, h3 { font-feature-settings: "ss01"; text-wrap: balance; }
 .nav-r { margin-left: auto; display: flex; gap: 8px; align-items: center; }
 .menu-btn { display: none; width: 44px; height: 44px; border-radius: var(--r-pill); border: 0; color: #fff; background: rgba(255,255,255,.12); cursor: pointer; place-items: center; }
 @media (max-width: 1119px) { .links { display: none; } .links.open { display: flex; position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; gap: 0; background: var(--night); padding: 8px max(16px, env(safe-area-inset-left, 0px)) 16px; box-shadow: var(--shadow-1); } .links.open a { padding: 12px 0; } .menu-btn { display: grid; } }
-@media (max-width: 700px) { .nav .wrap { gap: 10px; } .nav-r .hide-m, .proto { display: none; } .logo { gap: 8px; } .logo .mk { width: 24px; height: 24px; } .logo .wm { font-size: 18px; } .nav-r .p-primary { min-height: 40px; padding: 8px 12px; font-size: 14px; } }
+@media (max-width: 700px) { .nav .wrap { gap: 10px; } .nav-r .hide-m, .proto { display: none; } .logo { gap: 8px; } .logo .mk { width: 38px; height: 21px; } .logo .wm { font-size: 18px; } .nav-r .p-primary { min-height: 40px; padding: 8px 12px; font-size: 14px; } }
 
 /* Héroe: el comparador */
 .hero { padding-block: 96px 88px; background: var(--paper); }
@@ -422,7 +436,7 @@ details.diff[open] summary::after { content: "−"; }
 footer { background: var(--ink); color: #fff; }
 footer .wrap { padding-block: 52px 40px; display: grid; gap: 32px; }
 .f-top { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; }
-.f-top .logo .mk { width: 40px; height: 40px; }
+.f-top .logo .mk { width: 62px; height: 34px; }
 .f-top .logo .wm { font-size: 28px; }
 .f-cols { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 24px; }
 @media (max-width: 760px) { .f-cols { grid-template-columns: 1fr 1fr; } }
@@ -593,7 +607,7 @@ footer { background: var(--night); }
   .ready .car-a .sil svg, .ready .car-b .sil svg, .ready .vs, .js-reveal .phone.in .alert { animation: none; }
   .js-reveal .phone .alert { opacity: 1; }
   .seg, .fit .meter i, .fit .meter b, .fit { transition: none; }
-  .live i, .ready .nav .logo .mk, .tk-l i { animation: none; }
+  .live i, .ready .nav .logo .mk, .ready .nav .logo .mk-b rect, .ready .nav .logo .mk-r circle, .ready .nav .logo .wm, .ready .nav .logo .wm b, .tk-l i { animation: none; }
   .tk-t { animation: none; }
   .tk-v { overflow-x: auto; scrollbar-width: none; }
   .tk-v .tk-t a[aria-hidden="true"] { display: none; }

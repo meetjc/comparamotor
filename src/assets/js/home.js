@@ -218,7 +218,7 @@
     track('comparar_copiar', cmpEv());
     var ra = calc(st.a), rb = calc(st.b);
     function c(r) { return r.a.marca + ' ' + r.a.modelo + ' ' + ver(r.a) + ': precio ' + mxn.format(r.precio) + (st.modo === 'credito' ? ', mensualidad ' + mxn.format(r.pago) + ' x ' + st.plazo : ' de contado') + ', costo total 5 años ' + mxn.format(r.total) + '. Precio: ' + r.a.fuente + ', ' + r.a.fecha + '.'; }
-    var txt = 'Mi comparación ComparaMotor\n' + c(ra) + '\n' + c(rb) + '\nTasa de ejemplo ' + v('tasa') + '%, CAT capturado ' + v('cat') + '% sin IVA.';
+    var txt = 'Mi comparación Autocifras\n' + c(ra) + '\n' + c(rb) + '\nTasa de ejemplo ' + v('tasa') + '%, CAT capturado ' + v('cat') + '% sin IVA.';
     var ok = function () { toast('Copiado. Pégalo en WhatsApp.'); };
     var fb = function () { var ta = document.createElement('textarea'); ta.value = txt; ta.setAttribute('readonly', ''); ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); ok(); } catch (er) { toast('Selecciona y copia el texto a mano.'); } ta.remove(); };
     try { navigator.clipboard.writeText(txt).then(ok, fb); } catch (er) { fb(); }

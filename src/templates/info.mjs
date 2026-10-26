@@ -12,7 +12,7 @@ const CFG = readJSON(path.join(ROOT, 'src/config.json'), {});
 const EMAIL = CFG.contactoEmail || 'contacto@comparamotor.com';
 
 // Diagrama del proceso de verificación (anatomía de un precio)
-const ANATOMIA = `<figure class="calc" style="padding:20px" aria-labelledby="anat-t"><svg viewBox="0 0 760 250" role="img" aria-labelledby="anat-t anat-d" style="width:100%;height:auto"><title id="anat-t">Anatomía de un precio en ComparaMotor</title><desc id="anat-d">Cinco pasos: fuente oficial, captura con fecha, segunda revisión, publicación con fuente visible y revisión periódica.</desc>
+const ANATOMIA = `<figure class="calc" style="padding:20px" aria-labelledby="anat-t"><svg viewBox="0 0 760 250" role="img" aria-labelledby="anat-t anat-d" style="width:100%;height:auto"><title id="anat-t">Anatomía de un precio en Autocifras</title><desc id="anat-d">Cinco pasos: fuente oficial, captura con fecha, segunda revisión, publicación con fuente visible y revisión periódica.</desc>
 <defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 10 5 0 10z" fill="#a39b91"/></marker></defs>
 ${[['1', 'Fuente oficial', 'Sitio de la marca', 'en México'], ['2', 'Captura', 'Precio, versión', 'y fecha'], ['3', 'Segunda revisión', 'Otra herramienta', 'compara la cifra'], ['4', 'Publicación', 'Con fuente y', 'fecha visibles'], ['5', 'Revisión', 'Precios cada semana;', 'Hoy No Circula diario']].map(([n, t, a, b], i) => { const x = 10 + i * 150; return `<g><rect x="${x}" y="40" width="130" height="150" rx="16" fill="${i === 3 ? '#171513' : '#f1ece5'}"/><circle cx="${x + 28}" cy="72" r="16" fill="${i === 3 ? '#ff5a52' : '#d42a2c'}"/><text x="${x + 28}" y="78" text-anchor="middle" font-size="16" font-weight="700" fill="#fff" font-family="Geist, sans-serif">${n}</text><text x="${x + 14}" y="118" font-size="15" font-weight="600" fill="${i === 3 ? '#fff' : '#171513'}" font-family="Geist, sans-serif">${t}</text><text x="${x + 14}" y="144" font-size="13" fill="${i === 3 ? '#ddd6cd' : '#5c564f'}" font-family="Geist, sans-serif">${a}</text><text x="${x + 14}" y="162" font-size="13" fill="${i === 3 ? '#ddd6cd' : '#5c564f'}" font-family="Geist, sans-serif">${b}</text>${i < 4 ? `<path d="M${x + 132} 115h14" stroke="#a39b91" stroke-width="2" marker-end="url(#ar)"/>` : ''}</g>`; }).join('')}
 <text x="10" y="226" font-size="13" fill="#5c564f" font-family="Geist, sans-serif">Si una fuente no publica un dato, se muestra «N/D»; nunca se estima.</text></svg>
@@ -52,9 +52,9 @@ const GLOSARIO = [
 ];
 
 const LEGAL = {
-  'aviso-de-privacidad': { t: 'Aviso de privacidad integral', d: 'Cómo ComparaMotor trata tus datos personales, para qué los usa y cómo ejercer tus derechos ARCO.' },
-  terminos: { t: 'Términos de uso', d: 'Condiciones para usar ComparaMotor, alcance de la información y responsabilidades.' },
-  'aviso-y-retiro': { t: 'Aviso y retiro de contenido', d: 'Cómo pedir la corrección o el retiro de un contenido, una imagen o un dato publicado en ComparaMotor.' },
+  'aviso-de-privacidad': { t: 'Aviso de privacidad integral', d: 'Cómo Autocifras trata tus datos personales, para qué los usa y cómo ejercer tus derechos ARCO.' },
+  terminos: { t: 'Términos de uso', d: 'Condiciones para usar Autocifras, alcance de la información y responsabilidades.' },
+  'aviso-y-retiro': { t: 'Aviso y retiro de contenido', d: 'Cómo pedir la corrección o el retiro de un contenido, una imagen o un dato publicado en Autocifras.' },
 };
 
 function info(ctx, { route, title, h1, lede, body, desc, crumbs, schema = [], noindex = false, updated = null }) {
@@ -70,7 +70,7 @@ export function paginas(C, D) {
   const fechaDatos = fechas.pop();
 
   out.push(info(C('/metodologia/'), {
-    route: '/metodologia/', title: 'Metodología: cómo verificamos precios y calculamos el costo total', h1: 'Cómo verificamos cada <em>precio</em>', lede: 'Los pasos, las fuentes y los supuestos detrás de cada número de ComparaMotor.', desc: 'Metodología de ComparaMotor: fuentes oficiales, fecha de verificación, segunda revisión, supuestos del costo total a cinco años y cómo corregimos errores.',
+    route: '/metodologia/', title: 'Metodología: cómo verificamos precios y calculamos el costo total', h1: 'Cómo verificamos cada <em>precio</em>', lede: 'Los pasos, las fuentes y los supuestos detrás de cada número de Autocifras.', desc: 'Metodología de Autocifras: fuentes oficiales, fecha de verificación, segunda revisión, supuestos del costo total a cinco años y cómo corregimos errores.',
     crumbs: [{ name: 'Inicio', url: '/' }, { name: 'Metodología', url: '/metodologia/' }], updated: fechaLarga(fechaDatos),
     body: `${answer(`Cada precio sale del sitio oficial de la marca en México, lleva la fecha en que lo vimos y pasa por una segunda revisión antes de publicarse. Hoy tenemos <b>${num(nVers)} versiones de ${nMod} modelos</b> verificadas al ${esc(fechaLarga(fechaDatos))}.`)}
     ${ANATOMIA}
@@ -84,16 +84,16 @@ export function paginas(C, D) {
   }));
 
   out.push(info(C('/independencia/'), {
-    route: '/independencia/', title: 'Independencia editorial de ComparaMotor', h1: 'El orden <em>no se vende</em>', lede: 'Cómo ganamos dinero y qué no está a la venta.', desc: 'Política de independencia de ComparaMotor: el orden de comparaciones y rankings no se vende; el contenido patrocinado se etiqueta.',
+    route: '/independencia/', title: 'Independencia editorial de Autocifras', h1: 'El orden <em>no se vende</em>', lede: 'Cómo ganamos dinero y qué no está a la venta.', desc: 'Política de independencia de Autocifras: el orden de comparaciones y rankings no se vende; el contenido patrocinado se etiqueta.',
     crumbs: [{ name: 'Inicio', url: '/' }, { name: 'Independencia', url: '/independencia/' }],
     body: `${answer('Ninguna marca, agencia, banco o aseguradora puede pagar para cambiar el orden de una comparación, un ranking o un veredicto. Si algún contenido es patrocinado o tiene ligas de afiliado, lo decimos en la misma página.')}
-    <h2>¿Cómo se financia ComparaMotor?</h2><p>En el lanzamiento no tenemos anunciantes ni acuerdos con marcas. Más adelante podremos tener publicidad etiquetada, ligas de afiliado a crédito o seguro y contenido patrocinado; cualquiera de esos casos se identifica como «Patrocinado» o «Liga de afiliado» junto al contenido.</p>
+    <h2>¿Cómo se financia Autocifras?</h2><p>En el lanzamiento no tenemos anunciantes ni acuerdos con marcas. Más adelante podremos tener publicidad etiquetada, ligas de afiliado a crédito o seguro y contenido patrocinado; cualquiera de esos casos se identifica como «Patrocinado» o «Liga de afiliado» junto al contenido.</p>
     <h2>¿Qué no está a la venta?</h2><ul><li>El orden de comparaciones y rankings: sale de un cálculo con los mismos supuestos para todos.</li><li>Los veredictos de las comparativas: salen de los datos.</li><li>Los datos: nadie paga por aparecer o por quitar una cifra.</li></ul>
     <h2>¿Y las marcas que mencionamos?</h2><p>Usamos sus nombres y modelos solo para identificarlos. Las marcas registradas pertenecen a sus titulares y no implican relación ni respaldo.</p>`,
   }));
 
   out.push(info(C('/quienes-somos/'), {
-    route: '/quienes-somos/', title: 'Quiénes somos', h1: 'Hacemos la cuenta <em>completa</em>', lede: 'ComparaMotor es un comparador de autos nuevos y un medio automotriz hecho en México.', desc: 'ComparaMotor es un comparador de autos nuevos y medio automotriz en México: precios verificados, costo total y trámites del auto.',
+    route: '/quienes-somos/', title: 'Quiénes somos', h1: 'Hacemos la cuenta <em>completa</em>', lede: 'Autocifras es un comparador de autos nuevos y un medio automotriz hecho en México.', desc: 'Autocifras es un comparador de autos nuevos y medio automotriz en México: precios verificados, costo total y trámites del auto.',
     crumbs: [{ name: 'Inicio', url: '/' }, { name: 'Quiénes somos', url: '/quienes-somos/' }],
     body: `${answer('Nacimos para que compares un auto nuevo con la letra chiquita a la vista: el precio real de cada versión con su fuente, la mensualidad con tasa y CAT, y lo que pagas en cinco años.')}
     <h2>¿Qué encuentras aquí?</h2><ul><li>Precios verificados por versión, con fuente y fecha.</li><li>Un comparador que suma enganche, mensualidades, seguro, gasolina y servicios.</li><li>Trámites del auto: Hoy No Circula diario, tenencia y verificación por estado.</li><li>Noticias del sector con cifras del INEGI, la AMDA y las marcas.</li></ul>
@@ -101,18 +101,18 @@ export function paginas(C, D) {
   }));
 
   out.push(info(C('/autores/'), {
-    route: '/autores/', title: 'Autores y redacción', h1: 'Redacción <em>ComparaMotor</em>', lede: 'Quién escribe y revisa lo que publicamos.', desc: 'Redacción de ComparaMotor: cómo se escriben y revisan las fichas, comparativas, notas y guías.',
+    route: '/autores/', title: 'Autores y redacción', h1: 'Redacción <em>Autocifras</em>', lede: 'Quién escribe y revisa lo que publicamos.', desc: 'Redacción de Autocifras: cómo se escriben y revisan las fichas, comparativas, notas y guías.',
     crumbs: [{ name: 'Inicio', url: '/' }, { name: 'Autores', url: '/autores/' }],
-    body: `${answer('Las fichas, comparativas, noticias y guías las firma la Redacción ComparaMotor. Cada texto se apoya en fuentes citadas al final y cada cifra lleva su origen.')}
+    body: `${answer('Las fichas, comparativas, noticias y guías las firma la Redacción Autocifras. Cada texto se apoya en fuentes citadas al final y cada cifra lleva su origen.')}
     <h2>¿Cómo trabajamos?</h2><p>Seguimos la <a href="${C('/autores/').u('/metodologia/')}">metodología</a> publicada: fuente oficial, fecha, segunda revisión y corrección pública. Usamos herramientas de inteligencia artificial para reunir y revisar datos; la decisión de qué se publica es editorial.</p>
     <h2>¿Cómo reporto un error?</h2><p>Escribe a <a href="mailto:${EMAIL}">${EMAIL}</a> con la liga y el dato. Respondemos y corregimos con fecha.</p>`,
-    schema: [{ '@context': 'https://schema.org', '@type': 'Organization', '@id': SITE.url + '/#redaccion', name: 'Redacción ComparaMotor', url: SITE.url + '/autores/', parentOrganization: { '@id': SITE.url + '/#org' } }],
+    schema: [{ '@context': 'https://schema.org', '@type': 'Organization', '@id': SITE.url + '/#redaccion', name: 'Redacción Autocifras', url: SITE.url + '/autores/', parentOrganization: { '@id': SITE.url + '/#org' } }],
   }));
 
   out.push(info(C('/datos/'), {
-    route: '/datos/', title: 'Datos abiertos: precios de autos nuevos en México', h1: 'Datos <em>abiertos</em>', lede: 'Descarga la lista de precios verificados para tus análisis o notas.', desc: 'Descarga en CSV o JSON los precios de autos nuevos en México verificados por ComparaMotor, con fuente y fecha por versión.',
+    route: '/datos/', title: 'Datos abiertos: precios de autos nuevos en México', h1: 'Datos <em>abiertos</em>', lede: 'Descarga la lista de precios verificados para tus análisis o notas.', desc: 'Descarga en CSV o JSON los precios de autos nuevos en México verificados por Autocifras, con fuente y fecha por versión.',
     crumbs: [{ name: 'Inicio', url: '/' }, { name: 'Datos', url: '/datos/' }], updated: fechaLarga(fechaDatos),
-    body: `${answer(`Puedes descargar <b>${num(nVers)} precios de ${nMod} modelos</b> con su fuente, su liga y la fecha de verificación. Úsalos citando a ComparaMotor con una liga a esta página (licencia CC BY 4.0).`)}
+    body: `${answer(`Puedes descargar <b>${num(nVers)} precios de ${nMod} modelos</b> con su fuente, su liga y la fecha de verificación. Úsalos citando a Autocifras con una liga a esta página (licencia CC BY 4.0).`)}
     <p><a class="pill p-black" href="${C('/datos/').u('/datos/precios-autos-nuevos-mexico.csv')}" download>Descargar CSV</a> <a class="pill p-white" href="${C('/datos/').u('/datos/precios-autos-nuevos-mexico.json')}" download>Descargar JSON</a></p>
     ${table({ head: ['Campo', 'Qué es'], rows: [['marca, modelo, version', 'Identificación de la versión'], ['precio_mxn', 'Precio de lista con IVA publicado por la fuente'], ['rendimiento_km_l', 'Rendimiento combinado oficial; vacío si la fuente no lo publica'], ['frenado_autonomo', 'true, false o vacío (N/D: no publicado)'], ['fuente, url', 'Dónde se verificó'], ['fecha_verificacion', 'Día en que se revisó']] })}
     <p class="fine">Los nombres de marcas y modelos pertenecen a sus titulares. Los precios cambian: revisa la fecha de cada fila.</p>`,
@@ -120,7 +120,7 @@ export function paginas(C, D) {
   }));
 
   out.push(info(C('/contacto/'), {
-    route: '/contacto/', title: 'Contacto', h1: 'Contacto', lede: 'Correcciones, prensa y alianzas.', desc: 'Contacta a ComparaMotor para correcciones de datos, prensa o alianzas.',
+    route: '/contacto/', title: 'Contacto', h1: 'Contacto', lede: 'Correcciones, prensa y alianzas.', desc: 'Contacta a Autocifras para correcciones de datos, prensa o alianzas.',
     crumbs: [{ name: 'Inicio', url: '/' }, { name: 'Contacto', url: '/contacto/' }],
     body: `${answer(`Escríbenos a <a href="mailto:${EMAIL}"><b>${EMAIL}</b></a>. Para corregir un dato, incluye la liga de la página y la fuente que lo confirma.`)}
     <h2>¿Eres una marca o una agencia?</h2><p>Puedes enviarnos precios y fichas oficiales; los publicamos con su fuente y fecha. El orden de las comparaciones no se vende (<a href="${C('/contacto/').u('/independencia/')}">política de independencia</a>).</p>
@@ -135,7 +135,7 @@ export function paginas(C, D) {
     title: 'Glosario del auto: CAT, enganche, holograma y más', description: 'Qué significan CAT, enganche, meses sin intereses, holograma, engomado, tenencia, refrendo, híbrido y otros términos al comprar y tener un auto en México.',
     crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Glosario', url: '/glosario/' }],
     body: `${ph({ h1: 'Glosario del auto', lede: `${terms.length} términos que aparecen al comprar, financiar y tener un auto en México.` })}<div class="wrap blk" style="padding-top:0"><nav class="terms" aria-label="Términos">${terms.map((x) => `<a href="#${x.id}">${esc(x.t)}</a>`).join('')}</nav><div class="prose" style="max-width:760px;margin-top:32px">${terms.map((x) => `<h2 id="${x.id}" style="font-size:22px;line-height:28px;margin-top:28px">¿Qué es ${esc(x.t)}?</h2><p>${esc(x.d)}</p>`).join('')}</div></div>`,
-    schema: [{ '@context': 'https://schema.org', '@type': 'DefinedTermSet', name: 'Glosario del auto ComparaMotor', url: SITE.url + '/glosario/', hasDefinedTerm: terms.map((x) => ({ '@type': 'DefinedTerm', name: x.t, description: x.d, url: `${SITE.url}/glosario/#${x.id}` })) }],
+    schema: [{ '@context': 'https://schema.org', '@type': 'DefinedTermSet', name: 'Glosario del auto Autocifras', url: SITE.url + '/glosario/', hasDefinedTerm: terms.map((x) => ({ '@type': 'DefinedTerm', name: x.t, description: x.d, url: `${SITE.url}/glosario/#${x.id}` })) }],
   }) });
 
   // Guías
@@ -177,8 +177,8 @@ export function paginas(C, D) {
 
 function guia(ctx, D, g) {
   const f = faq(g.preguntas || []);
-  const body = `${ph({ kicker: esc(g.tema), h1: esc(g.titulo), lede: esc(g.resumen), meta: actualizado(g.actualizado || g.fecha, 'Redacción ComparaMotor', ctx) })}
+  const body = `${ph({ kicker: esc(g.tema), h1: esc(g.titulo), lede: esc(g.resumen), meta: actualizado(g.actualizado || g.fecha, 'Redacción Autocifras', ctx) })}
   <div class="wrap"><div class="article"><div class="prose">${g.imagen ? `<figure class="foto" style="aspect-ratio:3/2">${img(ctx, D.reg, g.imagen, g.imagenAlt, { lazy: false })}${credito(D.reg, g.imagen)}</figure>` : ''}${renderFigs(g.html, ctx, D, g.graficas)}${f.html ? `<h2>Preguntas frecuentes</h2>${f.html}` : ''}${fuentes(g.fuentes, g.actualizado || g.fecha)}</div>
   <aside class="aside"><div class="tile"><span class="k">Herramientas</span><a href="${ctx.u('/comparar/')}" style="text-decoration:underline">Comparador</a><a href="${ctx.u('/credito-automotriz/')}" style="text-decoration:underline">Calculadora de crédito</a><a href="${ctx.u('/costo-total/')}" style="text-decoration:underline">Costo total a 5 años</a></div></aside></div></div>`;
-  return page(ctx, { title: g.tituloSeo || g.titulo, description: g.descripcion || g.resumen, body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Guías', url: '/guias/' }, { name: g.titulo, url: g.url }], updated: fechaLarga(g.actualizado || g.fecha), ogImage: g.imagen ? 'img/' + g.imagen : undefined, schema: [f.schema, { '@context': 'https://schema.org', '@type': 'Article', headline: g.titulo, datePublished: g.fecha, dateModified: g.actualizado || g.fecha, inLanguage: 'es-MX', author: { '@type': 'Organization', name: 'Redacción ComparaMotor', url: SITE.url + '/autores/' }, publisher: { '@id': SITE.url + '/#org' } }].filter(Boolean) });
+  return page(ctx, { title: g.tituloSeo || g.titulo, description: g.descripcion || g.resumen, body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Guías', url: '/guias/' }, { name: g.titulo, url: g.url }], updated: fechaLarga(g.actualizado || g.fecha), ogImage: g.imagen ? 'img/' + g.imagen : undefined, schema: [f.schema, { '@context': 'https://schema.org', '@type': 'Article', headline: g.titulo, datePublished: g.fecha, dateModified: g.actualizado || g.fecha, inLanguage: 'es-MX', author: { '@type': 'Organization', name: 'Redacción Autocifras', url: SITE.url + '/autores/' }, publisher: { '@id': SITE.url + '/#org' } }].filter(Boolean) });
 }

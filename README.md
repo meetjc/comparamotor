@@ -1,4 +1,4 @@
-# ComparaMotor
+# Autocifras
 
 Sitio estático de comparamotor.com: comparador de autos nuevos y medio automotriz en México.
 

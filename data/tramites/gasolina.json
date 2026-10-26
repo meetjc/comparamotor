@@ -74,7 +74,7 @@
     "formato": "PDF semanal, no automatizable de forma confiable",
     "nota": "Usa datos de la CNE. Sirve como referencia editorial, no como fuente de datos del sitio."
   },
-  "recomendacion_tecnica": "Para ComparaMotor: descargar prices.xml a diario (después de las 18:00 h CDMX), calcular promedios nacionales y, para CDMX, usar la API por municipio o fijar un polígono con places.xml. Para series históricas y por entidad, leer el XLSX mensual. Verificar siempre que el rango de precios esté entre 10 y 40 MXN/litro: el XML trae capturas atípicas (4 valores de 0.01 el 2026-10-20).",
+  "recomendacion_tecnica": "Para Autocifras: descargar prices.xml a diario (después de las 18:00 h CDMX), calcular promedios nacionales y, para CDMX, usar la API por municipio o fijar un polígono con places.xml. Para series históricas y por entidad, leer el XLSX mensual. Verificar siempre que el rango de precios esté entre 10 y 40 MXN/litro: el XML trae capturas atípicas (4 valores de 0.01 el 2026-10-20).",
   "ejemplo_descargado_hoy": {
     "fecha_descarga": "2026-10-20 (Date del servidor: Tue, 20 Oct 2026 07:28:31 GMT = 01:28 h CDMX; refleja la actualización de las 18:00 h del 2026-10-19)",
     "comandos": [

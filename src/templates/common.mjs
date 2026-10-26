@@ -64,7 +64,7 @@ export function ph({ h1, lede = '', meta = '', dark = false, kicker = '' }) {
   return `<header class="ph${dark ? ' dark' : ''}"><div class="wrap">${kicker ? `<span class="tag red" style="justify-self:start">${kicker}</span>` : ''}<h1>${h1}</h1>${lede ? `<p class="lede">${lede}</p>` : ''}${meta ? `<div class="meta">${meta}</div>` : ''}</div></header>`;
 }
 
-export function actualizado(fecha, autor = 'Redacción ComparaMotor', ctx) {
+export function actualizado(fecha, autor = 'Redacción Autocifras', ctx) {
   if (!fecha) return '';
   const a = ctx ? `<a href="${ctx.u('/autores/')}" style="text-decoration:underline;text-underline-offset:3px">${esc(autor)}</a>` : esc(autor);
   return `<span>Actualizado el <time datetime="${fecha}">${esc(fechaLarga(fecha))}</time></span><span>Por ${a}</span>`;

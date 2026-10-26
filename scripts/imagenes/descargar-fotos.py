@@ -4,7 +4,7 @@ import json, glob, os, re, subprocess, urllib.parse
 ROOT = os.path.expanduser('~/Projects/comparamotor')
 ORDEN = ['3/4 frontal', 'perfil', '3/4 trasero', 'interior', 'desconocido']
 OK_LIC = re.compile(r'^(CC0|CC BY(-SA)? [0-9.]+|Dominio p[uú]blico)', re.I)
-UA = 'ComparaMotorBot/0.1 (hola@jcs.mx)'
+UA = 'AutocifrasBot/0.1 (hola@jcs.mx)'
 reg = json.load(open(f'{ROOT}/data/imagenes.json'))
 fotos = {}
 def licslug(l):

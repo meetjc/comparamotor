@@ -96,7 +96,7 @@ export function home(ctx, D, opt = {}) {
   const comps = comparativas.slice(0, 6).map((c, i) => `<a class="cmp${i === 0 ? ' feat' : ''} rv"${i % 3 ? ` style="--d:${(i % 3) * 80}ms"` : ''} href="${ctx.u(c.url)}"><span class="ph">${img(ctx, reg, c.imagen, c.imagenAlt)}${i === 0 ? `<span class="pill p-float">${c.autos.length} autos · se puede comparar ya</span>` : ''}</span><h3>${esc(c.titulo)}</h3>${i === 0 ? `<p>${esc(c.resumen)}</p>` : ''}<span class="meta"><span class="tag">${esc(c.segmento)}</span>${i === 0 ? '<span class="tag blue">Precios verificados</span>' : ''}</span></a>`).join('');
 
   const g0 = guias[0], gl = guias.slice(1, 4);
-  const guiasHTML = g0 ? `<a class="lead-story rv" href="${ctx.u(g0.url)}"><span class="ph">${img(ctx, reg, g0.imagen, g0.imagenAlt)}</span><span class="tag" style="justify-self:start">${esc(g0.tema)}</span><h3>${esc(g0.titulo)}</h3><p>${esc(g0.resumen)}</p><span class="byline">Redacción ComparaMotor · ${esc(fechaCorta(g0.fecha))}</span></a><div class="list">${gl.map((g) => `<a class="item rv" href="${ctx.u(g.url)}"><div><span class="tag">${esc(g.tema)}</span><h4>${esc(g.titulo)}</h4><span class="byline">Guía · ${g.minutos || 5} min de lectura</span></div><span class="ph">${img(ctx, reg, g.imagen, g.imagenAlt)}</span></a>`).join('')}</div>` : '';
+  const guiasHTML = g0 ? `<a class="lead-story rv" href="${ctx.u(g0.url)}"><span class="ph">${img(ctx, reg, g0.imagen, g0.imagenAlt)}</span><span class="tag" style="justify-self:start">${esc(g0.tema)}</span><h3>${esc(g0.titulo)}</h3><p>${esc(g0.resumen)}</p><span class="byline">Redacción Autocifras · ${esc(fechaCorta(g0.fecha))}</span></a><div class="list">${gl.map((g) => `<a class="item rv" href="${ctx.u(g.url)}"><div><span class="tag">${esc(g.tema)}</span><h4>${esc(g.titulo)}</h4><span class="byline">Guía · ${g.minutos || 5} min de lectura</span></div><span class="ph">${img(ctx, reg, g.imagen, g.imagenAlt)}</span></a>`).join('')}</div>` : '';
 
   const promosHTML = promos.slice(0, 3).map((p) => promoCard({ marca: p.auto.marca, modelo: p.auto.modelo, descripcion: p.oferta.descripcion || (p.oferta.precioOferta ? 'Precio desde ' + mxn(p.oferta.precioOferta) : ''), condicion: p.condicion, vigencia_fin: p.vigenciaHasta, url: p.url, fecha_verificacion: p.fechaVerificacion }, { compacta: true })).join('');
 
@@ -252,7 +252,7 @@ export function home(ctx, D, opt = {}) {
     preguntas: `
   <section class="sec" id="preguntas" aria-labelledby="fq-t">
     <div class="wrap" style="max-width:880px">
-      <div class="sec-h"><h2 id="fq-t">Cómo funciona ComparaMotor</h2></div>
+      <div class="sec-h"><h2 id="fq-t">Cómo funciona Autocifras</h2></div>
       <div class="faq">
         <details open><summary>¿De dónde salen los precios?</summary><p>Del sitio oficial de cada marca en México o, si la marca no los publica, de una nota de prensa con fecha. Cada precio muestra su fuente y la fecha en que se verificó. Si una oferta tiene condición, la mostramos al mismo tamaño que el precio. <a href="${ctx.u('/metodologia/')}" style="text-decoration:underline">Así lo hacemos</a>.</p></details>
         <details><summary>¿El orden o los veredictos se venden?</summary><p>No. Las marcas pueden patrocinar contenido, siempre etiquetado como «Patrocinado», pero no pueden mover el orden de una comparación ni cambiar un veredicto. <a href="${ctx.u('/independencia/')}" style="text-decoration:underline">Nuestra política de independencia</a>.</p></details>
@@ -265,11 +265,11 @@ export function home(ctx, D, opt = {}) {
   if (opt.soloComparador) return { S, cmp, A, B, fechaPrecios };
   const body = names.map((n) => S[n]).join('\n\n');
   return page(ctx, {
-    title: 'ComparaMotor: compara autos nuevos en México sin letras chiquitas',
+    title: 'Autocifras: compara autos nuevos en México sin letras chiquitas',
     description: `Precios verificados de ${autos.length} modelos con su fuente y fecha, mensualidad con CAT y costo total a cinco años. Comparador, Hoy No Circula, tenencia, verificación y noticias del sector.`,
     body, heroDark: true, bodyClass: 'home', updated: fechaLarga(fechaPrecios),
     dataJSON: { autos: cmp, par: [A, B], supuestos: s },
     extraHead: `<link rel="preload" as="image" href="${ctx.asset('img/comparador-autos-nuevos-mexico-noche.webp')}"><script src="${ctx.asset('js/home.js')}" defer></script>`,
-    schema: [{ '@context': 'https://schema.org', '@type': 'WebApplication', name: 'Comparador de autos ComparaMotor', url: SITE.url + '/#comparar', applicationCategory: 'FinanceApplication', operatingSystem: 'Web', inLanguage: 'es-MX', offers: { '@type': 'Offer', price: 0, priceCurrency: 'MXN' } }],
+    schema: [{ '@context': 'https://schema.org', '@type': 'WebApplication', name: 'Comparador de autos Autocifras', url: SITE.url + '/#comparar', applicationCategory: 'FinanceApplication', operatingSystem: 'Web', inLanguage: 'es-MX', offers: { '@type': 'Offer', price: 0, priceCurrency: 'MXN' } }],
   });
 }

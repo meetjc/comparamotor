@@ -83,7 +83,7 @@ export function comparativa(ctx, c, D) {
     { q: `¿Cuánto pagaría al mes por un ${na} o un ${nb}?`, a: `Con ${s.eng}% de enganche a ${s.plazo} meses y una tasa de ejemplo de ${s.tasa}%: unos ${mxn(ma)} por el ${esc(na)} y ${mxn(mb)} por el ${esc(nb)}.` },
   ]);
 
-  const body = `${ph({ h1: `${esc(na)} vs ${esc(nb)}: <em>¿cuál conviene más?</em>`, lede: `Los dos con precio verificado por versión. Comparamos lo que pagas hoy, al mes y en cinco años, más motor, seguridad y rendimiento.`, meta: actualizado(fecha, 'Redacción ComparaMotor', ctx) })}
+  const body = `${ph({ h1: `${esc(na)} vs ${esc(nb)}: <em>¿cuál conviene más?</em>`, lede: `Los dos con precio verificado por versión. Comparamos lo que pagas hoy, al mes y en cinco años, más motor, seguridad y rendimiento.`, meta: actualizado(fecha, 'Redacción Autocifras', ctx) })}
   <div class="wrap">
     <div class="article">
       <div class="prose">
@@ -112,7 +112,7 @@ export function comparativa(ctx, c, D) {
   return page(ctx, {
     title: `${na} vs ${nb} 2026: precio, mensualidad y cuál conviene`, description: `${na} vs ${nb}: desde ${mxn(ea.precio)} contra ${mxn(eb.precio)}. Mensualidad, costo total a cinco años, motor, seguridad y rendimiento con fuentes verificadas.`,
     body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Comparar', url: '/comparar/' }, { name: `${na} vs ${nb}`, url: c.url }], updated: fechaLarga(fecha),
-    schema: [f.schema, { '@context': 'https://schema.org', '@type': 'Article', headline: `${na} vs ${nb}: ¿cuál conviene más?`, dateModified: fecha, inLanguage: 'es-MX', author: { '@type': 'Organization', name: 'Redacción ComparaMotor', url: SITE.url + '/autores/' }, publisher: { '@id': SITE.url + '/#org' }, about: [{ '@type': 'Car', name: nombre(A, c.filtroA) }, { '@type': 'Car', name: nombre(B, c.filtroB) }] }],
+    schema: [f.schema, { '@context': 'https://schema.org', '@type': 'Article', headline: `${na} vs ${nb}: ¿cuál conviene más?`, dateModified: fecha, inLanguage: 'es-MX', author: { '@type': 'Organization', name: 'Redacción Autocifras', url: SITE.url + '/autores/' }, publisher: { '@id': SITE.url + '/#org' }, about: [{ '@type': 'Car', name: nombre(A, c.filtroA) }, { '@type': 'Car', name: nombre(B, c.filtroB) }] }],
   });
 }
 
@@ -129,7 +129,7 @@ export function compararPage(ctx, D) {
     body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Comparar', url: '/comparar/' }], updated: fechaLarga(r.fechaPrecios), bodyClass: 'home',
     dataJSON: { autos: r.cmp, par: [r.A, r.B], supuestos: SITE.supuestos },
     extraHead: `<script src="${ctx.asset('js/home.js')}" defer></script>`,
-    schema: [{ '@context': 'https://schema.org', '@type': 'WebApplication', name: 'Comparador de autos ComparaMotor', url: SITE.url + '/comparar/', applicationCategory: 'FinanceApplication', operatingSystem: 'Web', inLanguage: 'es-MX', offers: { '@type': 'Offer', price: 0, priceCurrency: 'MXN' } }],
+    schema: [{ '@context': 'https://schema.org', '@type': 'WebApplication', name: 'Comparador de autos Autocifras', url: SITE.url + '/comparar/', applicationCategory: 'FinanceApplication', operatingSystem: 'Web', inLanguage: 'es-MX', offers: { '@type': 'Offer', price: 0, priceCurrency: 'MXN' } }],
   });
 }
 
@@ -144,7 +144,7 @@ export function alcanzaPage(ctx, D) {
     { q: '¿Conviene dar más enganche o pedir más plazo?', a: 'Más enganche baja la mensualidad y los intereses. Más plazo baja la mensualidad pero sube lo que pagas en total. Compara el total a crédito, no solo la mensualidad.' },
     { q: '¿Qué tasa debo poner?', a: `Usamos ${s.tasa}% anual como ejemplo. Pide a cada otorgante su tasa y su CAT, y cámbiala aquí para ver tu número real.` },
   ]);
-  const body = `${ph({ h1: '¿Qué auto me alcanza? <em>Calcúlalo con tu ingreso</em>', lede: `Escribe tu ingreso, tu enganche y el plazo. Te decimos el precio máximo y qué versiones de ${versionesData.length} te quedan, con precios verificados.`, meta: actualizado(fecha, 'Redacción ComparaMotor', ctx) })}
+  const body = `${ph({ h1: '¿Qué auto me alcanza? <em>Calcúlalo con tu ingreso</em>', lede: `Escribe tu ingreso, tu enganche y el plazo. Te decimos el precio máximo y qué versiones de ${versionesData.length} te quedan, con precios verificados.`, meta: actualizado(fecha, 'Redacción Autocifras', ctx) })}
   <div class="wrap blk" style="padding-top:0">
     ${answer(`Si la mensualidad no pasa de 30% de tu ingreso, con <b>$20,000 al mes</b> de ingreso, <b>$80,000 de enganche</b>, 60 meses y una tasa de ejemplo de ${s.tasa}%, te alcanza un auto de hasta unos <b>${mxn(Math.floor(ejemplo / 1000) * 1000)}</b>. ${nEj} versiones de nuestra lista entran en ese precio. Cambia los datos para ver tu caso.`)}
     <form class="calc" id="alcanza" style="margin-top:20px" aria-label="Calculadora de presupuesto">

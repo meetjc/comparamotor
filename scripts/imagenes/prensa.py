@@ -10,7 +10,7 @@ for lote in spec['lotes']:
     for i, f in enumerate(lote['fotos'], 1):
         name = f"{lote['archivoBase']}-{i}.jpg"; dst = f'{ROOT}/src/assets/img/{name}'; raw = f'{cache}/{name}.orig'
         if not os.path.exists(dst):
-            r = subprocess.run(['curl', '-sSL', '-A', 'ComparaMotor/1.0 (hola@jcs.mx)', '--max-time', '90', '-o', raw, f['url']])
+            r = subprocess.run(['curl', '-sSL', '-A', 'Autocifras/1.0 (hola@jcs.mx)', '--max-time', '90', '-o', raw, f['url']])
             if r.returncode or os.path.getsize(raw) < 10000: print('  falla', name); continue
             subprocess.run(['sips', '-s', 'format', 'jpeg', '-s', 'formatOptions', '82', raw, '--out', dst], capture_output=True)
         w, h = [int(v) for v in re.findall(r'pixel(?:Width|Height): (\d+)', subprocess.run(['sips', '-g', 'pixelWidth', '-g', 'pixelHeight', dst], capture_output=True, text=True).stdout)]

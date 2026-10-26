@@ -1,9 +1,9 @@
-// Utilidades del generador de ComparaMotor: formatos, fechas, rutas, schema y escapes.
+// Utilidades del generador de Autocifras: formatos, fechas, rutas, schema y escapes.
 import fs from 'node:fs';
 import path from 'node:path';
 
 export const SITE = {
-  name: 'ComparaMotor',
+  name: 'Autocifras',
   url: 'https://comparamotor.com',
   lang: 'es-MX',
   tz: 'America/Mexico_City',
@@ -87,7 +87,7 @@ export function listJSON(dir) {
 
 // Schema.org en JSON-LD
 export const ld = (obj) => `<script type="application/ld+json">${JSON.stringify(obj).replace(/</g, '\\u003c')}</script>`;
-export const orgLD = () => ({ '@type': 'Organization', '@id': SITE.url + '/#org', name: SITE.name, url: SITE.url + '/', logo: SITE.url + '/assets/img/comparamotor-apple-touch-180.png' });
+export const orgLD = () => ({ '@type': 'Organization', '@id': SITE.url + '/#org', name: SITE.name, url: SITE.url + '/', logo: SITE.url + '/assets/img/autocifras-apple-touch-180.png' });
 export function breadcrumbLD(items) {
   return { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: items.map((it, i) => ({ '@type': 'ListItem', position: i + 1, name: it.name, item: SITE.url + it.url })) };
 }

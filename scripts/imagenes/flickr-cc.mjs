@@ -15,7 +15,7 @@ import { fileURLToPath } from 'node:url';
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(HERE, '..', '..');
 const OUT_DIR = join(ROOT, 'data', 'imagenes-candidatas');
-const UA = 'ComparaMotorBot/0.1 (hola@jcs.mx)';
+const UA = 'AutocifrasBot/0.1 (hola@jcs.mx)';
 const HOY = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Mexico_City' });
 const FUENTE_ID = 'flickr-cc';
 const args = process.argv.slice(2);

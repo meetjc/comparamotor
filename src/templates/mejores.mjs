@@ -49,7 +49,7 @@ function ranking(ctx, D, R) {
     { q: `¿Cómo ordenamos esta lista?`, a: R.criterio === 'precio' ? 'Por precio de lista de la versión de entrada, verificado en el sitio oficial de cada marca. Las promociones con condición no cuentan para el orden.' : `Por costo total a cinco años: enganche de ${s.eng}%, ${s.plazo} mensualidades con tasa de ejemplo de ${s.tasa}%, seguro de ${mxn(s.seguro)} al año, gasolina a $${s.gas}/l con ${num(km)} km al año y ${mxn(s.serv)} de servicios. Si la marca no publica el rendimiento, usamos uno supuesto por tipo de auto.` },
     { q: '¿Alguna marca paga por aparecer aquí?', a: 'No. El orden sale de un cálculo con los mismos supuestos para todos. Si algún día hay contenido patrocinado, se etiqueta y no cambia el orden.' },
   ]);
-  const body = `${ph({ h1: esc(R.h1), lede: esc(R.desc), meta: actualizado(fecha, 'Redacción ComparaMotor', ctx) })}
+  const body = `${ph({ h1: esc(R.h1), lede: esc(R.desc), meta: actualizado(fecha, 'Redacción Autocifras', ctx) })}
   <div class="wrap blk" style="padding-top:0">
     ${answer(resp)}
     <div class="rank" style="margin-top:24px">${lista}</div>

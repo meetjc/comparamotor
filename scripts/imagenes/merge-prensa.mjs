@@ -42,7 +42,7 @@ for (const g of galerias) {
     verificadoEl: f.verificadoEl,
     notas: [
       `Veredicto de la fuente: ${f.veredicto}.`,
-      f.usoEnComparamotor ? `Uso en ComparaMotor: ${f.usoEnComparamotor}` : '',
+      f.usoEnComparamotor ? `Uso en Autocifras: ${f.usoEnComparamotor}` : '',
       im.titulo ? `Título: ${im.titulo}.` : '',
       g.notas || '',
       'Es la URL de descarga de la sala de prensa: no publicar hasta cumplir las condiciones de la fuente.',

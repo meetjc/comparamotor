@@ -1,5 +1,5 @@
 {
-  "_nota": "Fuentes de imágenes revisadas para ComparaMotor. Cada afirmación sobre términos se verificó el 2026-10-20 en la URL indicada (salas de prensa: agentes de investigación con Firecrawl, curl, WebFetch y navegador; Commons, Flickr, Unsplash, Pexels y CC: revisión directa). Veredicto: Usable / Usable con condiciones / No usable.",
+  "_nota": "Fuentes de imágenes revisadas para Autocifras. Cada afirmación sobre términos se verificó el 2026-10-20 en la URL indicada (salas de prensa: agentes de investigación con Firecrawl, curl, WebFetch y navegador; Commons, Flickr, Unsplash, Pexels y CC: revisión directa). Veredicto: Usable / Usable con condiciones / No usable.",
   "verificadoEl": "2026-10-20",
   "fuentes": [
     {
@@ -129,10 +129,10 @@
         "El aviso legal (es-tos) dice que el uso editorial es para periodistas acreditados de medios impresos, de radiodifusión y electrónicos",
         "El aviso legal dice que los objetos del sitio no pueden modificarse ni utilizarse en otros sitios, salvo el uso editorial de periodistas acreditados; no menciona recortes",
         "Usos no editoriales: pedir permiso por correo (la página remite a website-support@nissan-usa.com)",
-        "No usar logotipos de Nissan como si Nissan respaldara ComparaMotor (inferencia prudente, no hay cláusula específica)"
+        "No usar logotipos de Nissan como si Nissan respaldara Autocifras (inferencia prudente, no hay cláusula específica)"
       ],
       "veredicto": "Usable con condiciones",
-      "porQue": "Las descargas en alta resolución están abiertas sin registro, pero los términos limitan el uso a fines editoriales y a periodistas acreditados, y prohíben expresamente el marketing y la venta. Sirven para artículos y notas editoriales de ComparaMotor. Las fichas del comparador con precios, cotización o enlaces a distribuidores pueden verse como uso comercial o de venta: ahí hace falta permiso por escrito de Comunicación Corporativa de Nissan Mexicana. También conviene que ComparaMotor se acredite como medio.",
+      "porQue": "Las descargas en alta resolución están abiertas sin registro, pero los términos limitan el uso a fines editoriales y a periodistas acreditados, y prohíben expresamente el marketing y la venta. Sirven para artículos y notas editoriales de Autocifras. Las fichas del comparador con precios, cotización o enlaces a distribuidores pueden verse como uso comercial o de venta: ahí hace falta permiso por escrito de Comunicación Corporativa de Nissan Mexicana. También conviene que Autocifras se acredite como medio.",
       "correoPrensa": "ComunicacionCorporativa@nissan.com.mx",
       "verificadoEl": "2026-10-20",
       "usoEnComparamotor": "Solo notas editoriales (noticias, lanzamientos, pruebas) con crédito, salvo que la marca autorice por escrito su uso en fichas y comparativas. Nunca en anuncios."
@@ -368,7 +368,7 @@
         "Prohibido modificar o usar las marcas y logotipos de Kia"
       ],
       "veredicto": "No usable",
-      "porQue": "No hay sala de prensa ni licencia para medios. Las fotos del sitio de producto solo se pueden usar con fines informativos y no comerciales, y ComparaMotor es un negocio. Para K3 y Sonet de México hay que pedir fotos y permiso por escrito a Kia México; no se encontró correo de prensa público.",
+      "porQue": "No hay sala de prensa ni licencia para medios. Las fotos del sitio de producto solo se pueden usar con fines informativos y no comerciales, y Autocifras es un negocio. Para K3 y Sonet de México hay que pedir fotos y permiso por escrito a Kia México; no se encontró correo de prensa público.",
       "correoPrensa": null,
       "verificadoEl": "2026-10-20",
       "usoEnComparamotor": "No publicar hasta tener permiso escrito de la marca."
@@ -494,7 +494,7 @@
         "No usar en publicidad ni sugerir respaldo de la marca"
       ],
       "veredicto": "Usable con condiciones",
-      "porQue": "Renault México publica un comunicado del Kwid Intens TM 2026 (5 jun 2026) con carpeta pública de fotos para medios, pero ni la sala de prensa ni el sitio dan licencia de uso; los términos de renault.com.mx prohíben la reproducción salvo uso personal. Falta pedir por correo a prensa una autorización escrita para uso editorial en ComparaMotor (fichas y notas) con crédito. Sin esa respuesta, no publicar.",
+      "porQue": "Renault México publica un comunicado del Kwid Intens TM 2026 (5 jun 2026) con carpeta pública de fotos para medios, pero ni la sala de prensa ni el sitio dan licencia de uso; los términos de renault.com.mx prohíben la reproducción salvo uso personal. Falta pedir por correo a prensa una autorización escrita para uso editorial en Autocifras (fichas y notas) con crédito. Sin esa respuesta, no publicar.",
       "correoPrensa": "marcos.martinez@renault.com (Head de Comunicación); agencia RP México: mariceni@etcmexico.com",
       "verificadoEl": "2026-10-20",
       "usoEnComparamotor": "Ninguno hasta que prensa de Renault México lo autorice por escrito (no hay términos para medios)."

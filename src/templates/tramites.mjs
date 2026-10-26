@@ -9,7 +9,7 @@ import { answer, table, fuentes, faq, ph, actualizado, linkify } from './common.
 import { hncPaginas, hncCompacto } from './hnc.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
-const NO_GOB = '<p class="callout info" style="margin-top:16px">ComparaMotor es un sitio informativo independiente: no pertenece a ningún gobierno ni cobra trámites. Haz tus pagos solo en el portal oficial.</p>';
+const NO_GOB = '<p class="callout info" style="margin-top:16px">Autocifras es un sitio informativo independiente: no pertenece a ningún gobierno ni cobra trámites. Haz tus pagos solo en el portal oficial.</p>';
 const CR = (k) => [{ name: 'Inicio', url: '/' }, { name: 'Trámites', url: '/tramites/' }, ...k];
 
 // Convierte cualquier valor del JSON en HTML legible (texto, listas, tablas clave-valor)
@@ -60,7 +60,7 @@ function estadoPage(ctx, tipo, d, todos) {
     { q: `¿Dónde pago o hago cita en ${E}?`, a: portal ? `En el portal oficial del gobierno del estado: ${portal}` : 'En el portal oficial de la Secretaría de Finanzas o de Medio Ambiente del estado. Revisa las fuentes al final.' },
   ]);
   const otros = todos.filter((x) => x.slug !== d.slug).slice(0, 40);
-  const body = `${ph({ h1: isTen ? `Tenencia ${esc(E)} 2026: <em>¿se paga y cuánto?</em>` : `Verificación vehicular en ${esc(E)} 2026: <em>calendario y costo</em>`, meta: actualizado(fecha, 'Redacción ComparaMotor', ctx) })}
+  const body = `${ph({ h1: isTen ? `Tenencia ${esc(E)} 2026: <em>¿se paga y cuánto?</em>` : `Verificación vehicular en ${esc(E)} 2026: <em>calendario y costo</em>`, meta: actualizado(fecha, 'Redacción Autocifras', ctx) })}
   <div class="wrap"><div class="article"><div class="prose">
     ${answer(resp)}
     ${portal ? `<p><a class="pill p-black" href="${esc(portal)}" target="_blank" rel="noopener">Ir al portal oficial</a></p>` : ''}
@@ -85,7 +85,7 @@ function indice(ctx, tipo, list) {
     ? [`<a href="${ctx.u(base + d.slug + '/')}" style="text-decoration:underline">${esc(d.estado)}</a>`, d.cobraTenencia2026 === true ? '<b>Sí</b>' : d.cobraTenencia2026 === false ? 'No' : 'Ver detalle', d.refrendo && (d.refrendo.monto2026 || d.refrendo.monto) ? `${refrendoEstimado(d.refrendo) ? '≈' : ''}${mxn(d.refrendo.monto2026 || d.refrendo.monto)}${refrendoEstimado(d.refrendo) ? ' *' : ''}` : '—']
     : [`<a href="${ctx.u(base + d.slug + '/')}" style="text-decoration:underline">${esc(d.estado)}</a>`, d.obligatoria === false ? 'No' : d.obligatoria === true ? 'Sí' : 'Ver detalle', d.costo2026 && (d.costo2026.gasolinaOGas || d.costo2026.gasolina) ? `${d.costo2026.estimado ? '≈' : ''}${mxn(d.costo2026.gasolinaOGas || d.costo2026.gasolina)}${d.costo2026.estimado ? ' *' : ''}` : '—']);
   const noCobran = list.filter((d) => d.cobraTenencia2026 === false).length;
-  const body = `${ph({ h1: isTen ? 'Tenencia 2026 por estado: <em>quién cobra y cuánto</em>' : 'Verificación vehicular 2026 <em>por estado</em>', lede: `${list.length} estados con su fuente oficial y la fecha de verificación.`, meta: actualizado(fecha, 'Redacción ComparaMotor', ctx) })}
+  const body = `${ph({ h1: isTen ? 'Tenencia 2026 por estado: <em>quién cobra y cuánto</em>' : 'Verificación vehicular 2026 <em>por estado</em>', lede: `${list.length} estados con su fuente oficial y la fecha de verificación.`, meta: actualizado(fecha, 'Redacción Autocifras', ctx) })}
   <div class="wrap blk" style="padding-top:0">
     ${answer(isTen ? `De los ${list.length} estados que llevamos verificados, <b>${noCobran} no cobran tenencia</b> en 2026 y solo cobran refrendo o control vehicular. Elige tu estado para ver montos, descuentos y fecha límite.` : `La verificación es obligatoria en la mayoría de los estados que llevamos verificados, con un calendario por último dígito de placa. Elige tu estado para ver tu mes, el costo y la multa.`)}
     ${table({ head: isTen ? ['Estado', '¿Cobra tenencia?', 'Refrendo 2026'] : ['Estado', '¿Obligatoria?', 'Costo 2026'], rows })}
@@ -118,7 +118,7 @@ export function paginas(C, D) {
       { q: '¿Cuánto cuesta la gasolina hoy en México?', a: `Al ${fechaLarga(fecha)}, el promedio nacional fue de ${f2(val(nac, 'regular'))} por litro la regular, ${f2(val(nac, 'premium'))} la premium y ${f2(val(nac, 'diesel'))} el diésel, con datos de la Comisión Nacional de Energía.` },
       { q: '¿De dónde salen estos precios?', a: 'De los precios que cada gasolinera reporta a la Comisión Nacional de Energía (antes CRE), publicados como datos abiertos. Calculamos el promedio simple de todas las estaciones.' },
     ]);
-    const body = `${ph({ h1: 'Precio de la gasolina en México <em>hoy</em>', lede: 'Promedio nacional y de la Ciudad de México con los precios que reportan las gasolineras a la autoridad.', meta: actualizado(fecha, 'Redacción ComparaMotor', ctx) })}
+    const body = `${ph({ h1: 'Precio de la gasolina en México <em>hoy</em>', lede: 'Promedio nacional y de la Ciudad de México con los precios que reportan las gasolineras a la autoridad.', meta: actualizado(fecha, 'Redacción Autocifras', ctx) })}
     <div class="wrap"><div class="article"><div class="prose">
       ${answer(`Al <b>${esc(fechaLarga(fecha))}</b> el litro de gasolina regular promedia <b>${f2(val(nac, 'regular'))}</b> en México, la premium <b>${f2(val(nac, 'premium'))}</b> y el diésel <b>${f2(val(nac, 'diesel'))}</b>.`)}
       ${table({ head: ['Combustible', { t: 'Promedio nacional', n: true }, { t: 'Ciudad de México', n: true }, { t: 'Promedio sep. 2026 (oficial)', n: true }], rows: [['Regular', `<b>${f2(val(nac, 'regular'))}</b>`, f2(val(cd, 'regular')), f2(ref.promedio_mensual_septiembre_2026 && ref.promedio_mensual_septiembre_2026.nacional.regular)], ['Premium', `<b>${f2(val(nac, 'premium'))}</b>`, f2(val(cd, 'premium')), f2(ref.promedio_mensual_septiembre_2026 && ref.promedio_mensual_septiembre_2026.nacional.premium)], ['Diésel', `<b>${f2(val(nac, 'diesel'))}</b>`, f2(val(cd, 'diesel')), f2(ref.promedio_mensual_septiembre_2026 && ref.promedio_mensual_septiembre_2026.nacional.diesel)]], caption: 'Pesos por litro. Promedio simple de las estaciones que reportan a la Comisión Nacional de Energía; se excluyen valores fuera de $10 a $40.' })}

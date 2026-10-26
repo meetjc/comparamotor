@@ -278,7 +278,7 @@ a.tile:active { transform: translateY(0) scale(.99); }
 @media print {
   body.print-desglose > *:not(main):not(.print-legal), body.print-desglose main > *:not(#desglose), body.print-desglose .decide, body.print-desglose .consent, body.print-desglose .acts, body.print-desglose .rends, body.print-desglose .rend { display: none !important; }
   body.print-desglose #desglose { padding: 0; background: #fff; color: #000; }
-  body.print-desglose #desglose::before { content: "ComparaMotor · comparamotor.com · Precios con su fuente y fecha. Mensualidad simulada con tasa de ejemplo, no es oferta de crédito."; display: block; font-size: 11px; margin-bottom: 10px; }
+  body.print-desglose #desglose::before { content: "Autocifras · comparamotor.com · Precios con su fuente y fecha. Mensualidad simulada con tasa de ejemplo, no es oferta de crédito."; display: block; font-size: 11px; margin-bottom: 10px; }
   body.print-desglose details.diff { display: block; } body.print-desglose details.diff > * { display: block; }
   body.print-desglose a { color: #000; }
 }

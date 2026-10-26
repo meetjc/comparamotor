@@ -41,7 +41,7 @@ g1 = {'suv-precio': {'titulo': 'SUV más accesibles de 2026 por precio de entrad
       'datos': [{'label': f"{a['marca']} {a['modelo']}", 'valor': precio(a), 'color': COL['a'] if a['propulsion'] == 'gasolina' else COL['c']} for a in suv[:7]],
       'leyenda': [{'color': COL['a'], 'texto': 'Gasolina'}, {'color': COL['c'], 'texto': 'Híbrida o eléctrica'}],
       'fuente': 'Precios de lista de los sitios oficiales de cada marca, verificados en octubre de 2026.'}}
-f1 = [HOY, f'Hay {len(suv)} SUV con precio verificado en el catálogo de ComparaMotor.',
+f1 = [HOY, f'Hay {len(suv)} SUV con precio verificado en el catálogo de Autocifras.',
       '== SUV por precio de entrada (versión más barata, precio de lista) ==']
 f1 += [f"{a['marca']} {a['modelo']}: {CAR[a['carroceria']]} {PROP[a['propulsion']]}, desde {mxn(precio(a))}, origen {a.get('origenMarca','')}, enlace {slugm(a)}" for a in suv]
 t1 = ['grafica:suv-precio', 'foto:nissan-kicks:0', 'foto:hyundai-creta:0']
@@ -84,7 +84,7 @@ ten_ref = sorted([d for d in TEN if refval(d)], key=refval)
 g3 = {'refrendo-estado': {'titulo': 'Costo del refrendo o control vehicular 2026 por estado', 'desc': 'Monto anual; ≈ marca un estimado con la ley y la UMA.', 'unidad': '$',
       'datos': [{'label': d['estado'] + (' ≈' if refest(d) else ''), 'valor': refval(d), 'color': COL['b'] if refest(d) else COL['a']} for d in ten_ref[:8]],
       'leyenda': [{'color': COL['a'], 'texto': 'Tarifa publicada'}, {'color': COL['b'], 'texto': 'Estimado (ley + UMA)'}], 'fuente': 'Leyes de ingresos y de hacienda estatales 2026; UMA del INEGI.'}}
-f3 = [HOY, f'ComparaMotor lleva {len(TEN)} estados con tenencia y refrendo verificados. {len(ten_no)} no cobran tenencia en 2026 y {len(ten_con)} sí.',
+f3 = [HOY, f'Autocifras lleva {len(TEN)} estados con tenencia y refrendo verificados. {len(ten_no)} no cobran tenencia en 2026 y {len(ten_con)} sí.',
       '== Estados que NO cobran tenencia en 2026 (solo refrendo o control vehicular) ==']
 f3 += [f"{d['estado']}: refrendo " + (mxn(refval(d)) + (' (estimado con la ley y la UMA)' if refest(d) else '') if refval(d) else 'no publicado') for d in ten_no]
 f3 += ['== Estados que SÍ cobran tenencia en 2026 ==']
@@ -110,7 +110,7 @@ ver_c = sorted([d for d in VER if vcosto(d)], key=vcosto)
 g4 = {'verif-costo': {'titulo': 'Costo de la verificación vehicular 2026 por estado', 'desc': 'Holograma básico o costo de referencia.', 'unidad': '$',
       'datos': [{'label': d['estado'], 'valor': vcosto(d), 'color': COL['c']} for d in ver_c[:8]],
       'leyenda': [{'color': COL['c'], 'texto': 'Costo publicado o de referencia'}], 'fuente': 'Programas estatales de verificación y tablas de la SEMARNAT 2026.'}}
-f4 = [HOY, f'ComparaMotor lleva {len(VER)} estados con verificación vehicular verificados. En {len(ver_ob)} es obligatoria para autos particulares y en {len(ver_no)} no.',
+f4 = [HOY, f'Autocifras lleva {len(VER)} estados con verificación vehicular verificados. En {len(ver_ob)} es obligatoria para autos particulares y en {len(ver_no)} no.',
       '== Estados donde la verificación es obligatoria ==']
 f4 += [f"{d['estado']}: " + (mxn(vcosto(d)) if vcosto(d) else 'costo por confirmar') for d in ver_ob]
 f4 += ['== Estados donde NO es obligatoria para autos particulares ==']
@@ -130,7 +130,7 @@ bar = sorted([a for a in A if precio(a)], key=precio)[:12]
 g5 = {'barato-precio': {'titulo': 'Autos nuevos más baratos de México 2026 (precio de entrada)', 'desc': 'Precio desde, versión más económica.', 'unidad': '$',
       'datos': [{'label': f"{a['marca']} {a['modelo']}", 'valor': precio(a), 'color': COL['c']} for a in bar[:8]],
       'leyenda': [{'color': COL['c'], 'texto': 'Precio de lista de entrada'}], 'fuente': 'Precios de lista de los sitios oficiales, verificados en octubre de 2026.'}}
-f5 = [HOY, 'Autos nuevos con el precio de lista más bajo del catálogo de ComparaMotor.',
+f5 = [HOY, 'Autos nuevos con el precio de lista más bajo del catálogo de Autocifras.',
       '== Autos nuevos más baratos por precio de entrada ==']
 f5 += [f"{a['marca']} {a['modelo']}: {CAR[a['carroceria']]} {PROP[a['propulsion']]}, desde {mxn(precio(a))}, enlace {slugm(a)}" for a in bar]
 f5 += ['El precio de lista no incluye enganche ni financiamiento; muchas marcas ofrecen precios de oferta que exigen crédito con su financiera.']

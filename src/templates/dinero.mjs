@@ -71,7 +71,7 @@ export function paginas(C, D) {
       { q: '¿Me conviene el crédito de la marca o el del banco?', a: 'Compara el CAT y el total a pagar, no solo la mensualidad. Las financieras de marca suelen ligar el bono o el precio especial a su crédito; el banco puede tener mejor tasa sin ese bono.' },
       { q: '¿Cuánto pago al mes por un auto de $300,000?', a: `Con ${s.eng}% de enganche a ${s.plazo} meses y una tasa de ejemplo de ${s.tasa}%, unos ${mxn(300000 * (1 - s.eng / 100) * (s.tasa / 1200) / (1 - Math.pow(1 + s.tasa / 1200, -s.plazo)))} al mes.` },
     ]);
-    const body = `${ph({ h1: 'Crédito automotriz: <em>calcula tu mensualidad</em>', lede: 'Escribe el precio, el enganche, el plazo y la tasa. Ves la mensualidad, el total a crédito y los intereses al instante.', meta: actualizado(cred && cred.meta && cred.meta.fecha_verificacion || D.hoy, 'Redacción ComparaMotor', ctx) })}
+    const body = `${ph({ h1: 'Crédito automotriz: <em>calcula tu mensualidad</em>', lede: 'Escribe el precio, el enganche, el plazo y la tasa. Ves la mensualidad, el total a crédito y los intereses al instante.', meta: actualizado(cred && cred.meta && cred.meta.fecha_verificacion || D.hoy, 'Redacción Autocifras', ctx) })}
     <div class="wrap"><div class="article"><div class="prose">
       ${answer(`Para un auto de <b>${mxn(350000)}</b> con ${s.eng}% de enganche a ${s.plazo} meses y una tasa anual de ejemplo de ${s.tasa}%, la mensualidad queda en unos <b>${mxn(350000 * (1 - s.eng / 100) * (s.tasa / 1200) / (1 - Math.pow(1 + s.tasa / 1200, -s.plazo)))}</b>. Antes de firmar compara el CAT de cada otorgante y el total a pagar.`)}
       ${calcCredito(350000)}
@@ -142,7 +142,7 @@ export function paginas(C, D) {
     const marcas = [...new Set(ps.map((p) => p.marca))];
     const exigen = ps.filter((p) => p.exige_financiar_con_marca === true).length;
     const slug = (m) => m.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-');
-    const body = `${ph({ h1: 'Promociones de autos nuevos <em>con su letra chiquita</em>', lede: `${ps.length} promociones vigentes de ${marcas.length} marcas, con la condición al mismo tamaño que el precio.`, meta: actualizado(fecha, 'Redacción ComparaMotor', ctx) })}
+    const body = `${ph({ h1: 'Promociones de autos nuevos <em>con su letra chiquita</em>', lede: `${ps.length} promociones vigentes de ${marcas.length} marcas, con la condición al mismo tamaño que el precio.`, meta: actualizado(fecha, 'Redacción Autocifras', ctx) })}
     <div class="wrap blk" style="padding-top:0">
       ${answer(`De las <b>${ps.length} promociones vigentes</b> que verificamos en los sitios oficiales, <b>${exigen} exigen financiar con la financiera de la marca</b>. Si pagas de contado o con tu banco, normalmente pagas el precio de lista. Cada promoción lleva su vigencia, su condición y su fuente.`)}
       <div class="topics" style="margin:20px 0">${marcas.map((m) => `<a class="pill p-white" href="#${slug(m)}">${esc(m)}</a>`).join('')}</div>

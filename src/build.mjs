@@ -1,4 +1,4 @@
-// Generador de ComparaMotor: lee data/, escribe dist/ con direcciones limpias, mapas del sitio y robots.txt.
+// Generador de Autocifras: lee data/, escribe dist/ con direcciones limpias, mapas del sitio y robots.txt.
 // Uso: node src/build.mjs [--preview] [--out dist] [--gtm GTM-XXXX] [--hoy 2026-10-21]
 import fs from 'node:fs';
 import path from 'node:path';
@@ -93,7 +93,7 @@ fs.writeFileSync(path.join(OUT, 'assets/css/site.css'), css);
 fs.cpSync(path.join(ROOT, 'src/assets/js'), path.join(OUT, 'assets/js'), { recursive: true });
 fs.mkdirSync(path.join(OUT, 'assets/img'), { recursive: true });
 const imgDir = path.join(ROOT, 'src/assets/img');
-const marca = ['comparamotor-simbolo.svg', 'comparamotor-simbolo-negativo.svg', 'comparamotor-simbolo-sobre-rojo.svg', 'comparamotor-favicon-32.png', 'comparamotor-apple-touch-180.png', 'comparamotor-og-1200x630.jpg'];
+const marca = ['autocifras-simbolo.svg', 'autocifras-simbolo-negativo.svg', 'autocifras-simbolo-blanco.svg', 'autocifras-favicon.svg', 'autocifras-favicon-32.png', 'autocifras-apple-touch-180.png', 'autocifras-icono-app-512.png', 'autocifras-og-1200x630.jpg'];
 for (const f of fs.readdirSync(imgDir)) {
   // La copia .jpg de una imagen de tema registrada en .webp se publica solo para og:image.
   const ogCopia = f.endsWith('.jpg') && reg[f.replace(/\.jpg$/, '.webp')];
@@ -123,7 +123,7 @@ const filas = [['marca', 'modelo', 'version', 'anio', 'precio_mxn', 'transmision
 for (const a of autos) for (const v of (a.versiones || []).filter((x) => x.precio)) filas.push([a.marca, a.modelo, v.nombre, v.anio, v.precio, v.transmision, v.motor, v.potenciaHp, v.rendimientoCombinadoKmL, v.bolsasAire, v.frenadoAutonomoEmergencia, v.fuente, v.url, v.fechaVerificacion]);
 const csvq = (x) => (x == null ? '' : /[",\n]/.test(String(x)) ? `"${String(x).replace(/"/g, '""')}"` : String(x));
 fs.writeFileSync(path.join(OUT, 'datos/precios-autos-nuevos-mexico.csv'), '﻿' + filas.map((r) => r.map(csvq).join(',')).join('\n'));
-fs.writeFileSync(path.join(OUT, 'datos/precios-autos-nuevos-mexico.json'), JSON.stringify({ fuente: 'ComparaMotor', licencia: 'CC BY 4.0', actualizado: hoy, autos }, null, 1));
+fs.writeFileSync(path.join(OUT, 'datos/precios-autos-nuevos-mexico.json'), JSON.stringify({ fuente: 'Autocifras', licencia: 'CC BY 4.0', actualizado: hoy, autos }, null, 1));
 
 if (!PREVIEW) {
   // Mapas del sitio por grupo + índice
@@ -136,7 +136,7 @@ if (!PREVIEW) {
   }
   fs.writeFileSync(path.join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${idx.join('\n')}\n</sitemapindex>\n`);
   fs.writeFileSync(path.join(OUT, 'robots.txt'), [
-    '# ComparaMotor: buscadores y asistentes de búsqueda con IA pueden leer el sitio.',
+    '# Autocifras: buscadores y asistentes de búsqueda con IA pueden leer el sitio.',
     'User-agent: *', 'Allow: /', 'Disallow: /mi-garage/', '',
     '# Búsqueda con IA (citan con liga): permitidos', 'User-agent: OAI-SearchBot', 'Allow: /', '', 'User-agent: Claude-SearchBot', 'Allow: /', '', 'User-agent: PerplexityBot', 'Allow: /', '',
     '# Entrenamiento de modelos: decisión de licencia de JC (por ahora permitido; ver docs/DECISIONES.md)', 'User-agent: GPTBot', 'Allow: /', '', 'User-agent: ClaudeBot', 'Allow: /', '', 'User-agent: Google-Extended', 'Allow: /', '',
@@ -147,4 +147,4 @@ if (!PREVIEW) {
 }
 
 const n = [...pages.values()];
-console.log(`ComparaMotor: ${n.length} páginas (${n.filter((p) => !p.noindex).length} indexables) en ${path.relative(ROOT, OUT)} · ${autos.length} modelos · ${noticias.length} notas · ${D.comparativasList.length} comparativas · hoy ${hoy}`);
+console.log(`Autocifras: ${n.length} páginas (${n.filter((p) => !p.noindex).length} indexables) en ${path.relative(ROOT, OUT)} · ${autos.length} modelos · ${noticias.length} notas · ${D.comparativasList.length} comparativas · hoy ${hoy}`);
