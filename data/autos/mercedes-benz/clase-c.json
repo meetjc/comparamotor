@@ -1,0 +1,80 @@
+{
+  "marca": "Mercedes-Benz",
+  "marcaSlug": "mercedes-benz",
+  "modelo": "Clase C",
+  "slug": "clase-c",
+  "carroceria": "sedan",
+  "segmento": "mediano",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "C 200 Sport",
+      "anio": 2026,
+      "precio": 1109000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 1.5 L turbo mild hybrid",
+      "potenciaHp": 204,
+      "rendimientoCombinadoKmL": 17.49,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid (204 + 20 hp), 9G-TRONIC, tracción trasera. 8 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 150 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    },
+    {
+      "nombre": "C 200 Stellar Edition",
+      "anio": 2026,
+      "precio": 1179000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 1.5 L turbo mild hybrid",
+      "potenciaHp": 204,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición especial. 9G-TRONIC, tracción trasera. 8 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 150 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de 3 años sin límite de kilometraje y 4 servicios de mantenimiento incluidos (según fichas técnicas oficiales; consultar términos con el distribuidor)",
+    "fuente": "Mercedes-Benz México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mercedes-benz.com.mx/es/passengercars/cars-guide/brochures-download.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador y precios Mercedes-Benz México",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Mercedes-Benz Clase C (página oficial)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/models/saloon/c-class/overview.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial C 200 Sport (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-benz/clase-c/200-sport/C-200-Sport.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial C 200 Stellar Edition (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-benz/clase-c/200-stellar-edition/C-200-Stellar-Edition.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de AMG C 43 y C 63 S E Performance siguen descargables, pero esas versiones no aparecen en el configurador vigente",
+    "Precios del configurador oficial al 25 de octubre de 2026; las fichas técnicas PDF tienen precios anteriores y algunas son de un año modelo previo, por lo que solo se usaron para datos técnicos de la misma versión",
+    "El configurador da la potencia en kW; los hp se calcularon con el factor de Mercedes-Benz (1 kW = 1.36 hp), que coincide con las fichas"
+  ]
+}

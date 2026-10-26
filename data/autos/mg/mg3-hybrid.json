@@ -1,0 +1,76 @@
+{
+  "marca": "MG",
+  "marcaSlug": "mg",
+  "modelo": "MG3 Hybrid+",
+  "slug": "mg3-hybrid",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "britanica-china",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "HEV Excite AT",
+      "anio": 2026,
+      "precio": 422000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. híbrido (HEV)",
+      "potenciaHp": 191,
+      "rendimientoCombinadoKmL": 27.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/mg3ev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido (HEV) no enchufable: motor 1.5 L de 101 hp + motor eléctrico de tracción de 100 kW (134 hp); potencia combinada 191 hp y 313 lb-pie. Transmisión automática de 3 velocidades. Batería de 1.83 kWh. Rendimiento oficial ciudad 27.8, carretera 27.1, combinado 27.5 km/l (ficha 2026). 6 bolsas de aire (frontales, laterales y de cortina) y frenado autónomo de emergencia en ambas versiones según la ficha. El sitio muestra además un precio especial de $377,000 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    },
+    {
+      "nombre": "HEV Elegance AT",
+      "anio": 2026,
+      "precio": 464000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. híbrido (HEV)",
+      "potenciaHp": 191,
+      "rendimientoCombinadoKmL": 27.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/mg3ev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido (HEV) no enchufable: motor 1.5 L de 101 hp + motor eléctrico de tracción de 100 kW (134 hp); potencia combinada 191 hp y 313 lb-pie. Transmisión automática de 3 velocidades. Batería de 1.83 kWh. Rendimiento oficial ciudad 27.8, carretera 27.1, combinado 27.5 km/l (ficha 2026). 6 bolsas de aire (frontales, laterales y de cortina) y frenado autónomo de emergencia en ambas versiones según la ficha. Suma detección de punto ciego, alerta de tráfico cruzado, cámara 360° y faros full LED. El sitio muestra además un precio especial de $419,000 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    }
+  ],
+  "garantia": {
+    "texto": "Cobertura total del vehículo 60 meses o 100,000 km (lo que ocurra primero); garantía limitada de tren motriz hasta 84 meses o 150,000 km; programa Lucky Seven sin costo (7 años de garantía, asistencia vial y cobertura en autopartes robadas). Exige servicios en agencia cada 6 meses o 10,000 km",
+    "fuente": "MG Motor México (sitio oficial)",
+    "url": "https://www.mgmotor.com.mx/preguntas-frecuentes"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "MG3 Hybrid+ en MG Motor México",
+      "url": "https://www.mgmotor.com.mx/vehiculos/mg3ev",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MG3 HEV 2026",
+      "url": "https://cdn.mgmotor.com.mx/storage/fichas-tecnicas/mg-mg3ev-ficha-tecnica-05.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía MG (preguntas frecuentes)",
+      "url": "https://www.mgmotor.com.mx/preguntas-frecuentes",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Nombre comercial en el menú: 'MG3 Hybrid+'; la URL usa mg3ev y la ficha dice 'MG3 HEV 2026'",
+    "Autonomía total de +1,022 km publicada por MG (no aplica como autonomía eléctrica, no se registró)",
+    "Garantía específica de la batería híbrida: el sitio no la detalla",
+    "Precios especiales: el sitio los muestra junto al precio de lista sin vigencia ni condiciones; la página de promociones dice \"Muy pronto, promociones exclusivas para ti\" y el PDF de legales de octubre 2026 venció el 6 de octubre, por eso no se cargaron como ofertas"
+  ]
+}

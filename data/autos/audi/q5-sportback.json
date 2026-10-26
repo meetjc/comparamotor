@@ -1,0 +1,112 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "Q5 Sportback",
+  "slug": "q5-sportback",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Elite TFSI quattro",
+      "anio": 2027,
+      "precio": 1504900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": 13.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q5/q5-sportback/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros con sistema de airbag de cabeza y airbag central delantero. S tronic de 7 velocidades (doble embrague), tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S line TFSI quattro",
+      "anio": 2027,
+      "precio": 1544900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": 13.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q5/q5-sportback/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros con sistema de airbag de cabeza y airbag central delantero. S tronic de 7 velocidades (doble embrague), tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "SQ5 Sportback TFSI quattro",
+      "anio": 2027,
+      "precio": 1769900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "3.0 L V6 turbo (TFSI)",
+      "potenciaHp": 367,
+      "rendimientoCombinadoKmL": 10.4,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q5/sq5-sportback/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros y traseros con airbag de cabeza y airbag central. S tronic de 7 velocidades (doble embrague), tracción quattro. Versión deportiva con página propia en Audi (SQ5 Sportback); frenado de emergencia delantero y trasero. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Q5 Sportback 2026 (Elite, S line) y SQ5 Sportback 2026: 36 meses sin intereses, 0% comisión por apertura, seguro promocional y 5 años de seguro de robo de autopartes",
+      "precioOferta": null,
+      "condicion": "Solo unidades año modelo 2026. Plan Credit con enganche de 35%, 36 meses, persona física profesionista; tasa anual 0.23%, CAT 7.3% sin IVA (calculado al 24-sep-2026). Seguro de autopartes HDI hasta $175,000 con deducible de 10%. Sujeto a aprobación de crédito (Volkswagen Leasing)",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Audi de México (sitio oficial, Promociones)",
+      "url": "https://www.audi.com.mx/es/experiencia/promocAudi/",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Configurador Audi Q5 Sportback",
+      "url": "https://www.audi.com.mx/es/models/q5/q5-sportback/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi SQ5 Sportback",
+      "url": "https://www.audi.com.mx/es/models/q5/sq5-sportback/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Q5 Sportback 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_q5_sportback_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial SQ5 Sportback 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_sq5_sportback_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Audi México",
+      "url": "https://www.audi.com.mx/es/experiencia/promocAudi/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "SQ5 Sportback se incluyó como versión de este archivo aunque Audi le da página propia",
+    "La promoción de 36 meses sin intereses aplica a unidades Q5 Sportback y SQ5 Sportback 2026, no a las 2027 del configurador"
+  ]
+}

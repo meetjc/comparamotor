@@ -1,0 +1,68 @@
+{
+  "marca": "Suzuki",
+  "marcaSlug": "suzuki",
+  "modelo": "Jimny 5 puertas",
+  "slug": "jimny-5-puertas",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GLX AT",
+      "anio": 2027,
+      "precio": 538990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 101,
+      "rendimientoCombinadoKmL": 15.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/jimny-5-door",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 4 velocidades, tracción 4x4 con reductora. 6 bolsas de aire (frontales, laterales y de cortina). Precio de venta al público publicado por Suzuki (con IVA)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía limitada)",
+    "fuente": "Suzuki México (sitio oficial)",
+    "url": "https://autos.suzuki.com.mx/pages/garantias"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Jimny 5 puertas 2027: bono de $25,000 y mensualidad desde $8,199",
+      "precioOferta": null,
+      "condicion": "Mensualidad con enganche de 35%, 72 meses y tasa fija anual de 14.50%; no incluye seguro (se paga de contado). Sujeto a aprobación de crédito y disponibilidad",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Suzuki México (sitio oficial, promociones)",
+      "url": "https://autos.suzuki.com.mx/pages/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Suzuki Jimny 5 puertas (Suzuki México)",
+      "url": "https://autos.suzuki.com.mx/cars/jimny-5-door",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Suzuki México",
+      "url": "https://autos.suzuki.com.mx/pages/promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Suzuki México",
+      "url": "https://autos.suzuki.com.mx/pages/garantias",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica PDF de Suzuki se entrega mediante un formulario de contacto, por lo que no se descargó",
+    "Frenado autónomo de emergencia: la tabla de la versión de 5 puertas no lo menciona (la de 3 puertas sí)",
+    "El año modelo 2027 se tomó de la página de promociones"
+  ]
+}

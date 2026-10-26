@@ -1,0 +1,58 @@
+{
+  "marca": "Jeep",
+  "marcaSlug": "jeep",
+  "modelo": "Grand Wagoneer",
+  "slug": "grand-wagoneer",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "L Limited 4x4",
+      "anio": 2027,
+      "precio": 2176900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L I6 Hurricane biturbo",
+      "potenciaHp": 420,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/grand-wagoneer-l.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Versión larga, 4x4. Automática de 8 velocidades. Bolsas frontales multietapa, laterales y de cortina (sin total en la ficha). Incluye asistencia de colisión frontal plus. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Jeep México (sitio oficial, ficha técnica)",
+    "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/grand-wagoneer-l/FT_GRAND_WAGONEER_2026_15ABR2026_V2.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Jeep Grand Wagoneer L",
+      "url": "https://www.jeep.com.mx/grand-wagoneer-l.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Jeep",
+      "url": "https://www.jeep.com.mx/hostb/fiat_mx/JSONConversion/jeep/jeep-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Jeep Grand Wagoneer L 2026",
+      "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/grand-wagoneer-l/FT_GRAND_WAGONEER_2026_15ABR2026_V2.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha publicada es 2026 (la versión 2026 cuesta $2,154,900)",
+    "Rendimiento combinado y total de bolsas: no publicados",
+    "La lista también trae Grand Wagoneer L Series III 2023 y 2024 a otros precios; no se incluyeron"
+  ]
+}

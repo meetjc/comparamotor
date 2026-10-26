@@ -1,0 +1,56 @@
+{
+  "marca": "Fiat",
+  "marcaSlug": "fiat",
+  "modelo": "Fastback",
+  "slug": "fastback",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "italiana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Impetus",
+      "anio": 2026,
+      "precio": 463500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.3 L 4 cil. turbo",
+      "potenciaHp": 173,
+      "rendimientoCombinadoKmL": 17.07,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Fiat México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.fiat.com.mx/fastback.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "SUV coupé. Automática de 6 velocidades. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). Incluye alerta de colisión frontal con frenado automático. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Fiat México (sitio oficial, ficha técnica)",
+    "url": "https://www.fiat.com.mx/content/dam/cross-regional/nafta/fiat/es_mx/2026/fastback/documentos-tecnicos/FT%20FASTBACK_2026%20VERTICAL_07MAY2026_V8.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Fiat Fastback",
+      "url": "https://www.fiat.com.mx/fastback.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Fiat",
+      "url": "https://www.fiat.com.mx/hostb/fiat_mx/JSONConversion/fiat/fiat-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Fiat Fastback 2026",
+      "url": "https://www.fiat.com.mx/content/dam/cross-regional/nafta/fiat/es_mx/2026/fastback/documentos-tecnicos/FT%20FASTBACK_2026%20VERTICAL_07MAY2026_V8.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La lista oficial de precios también incluye unidades de años modelo anteriores con otros precios; aquí solo se muestran las del año modelo vigente. (Fastback 2024 y 2025, con versión Audace)."
+  ]
+}

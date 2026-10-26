@@ -1,0 +1,102 @@
+{
+  "marca": "Mercedes-Benz",
+  "marcaSlug": "mercedes-benz",
+  "modelo": "Clase A Hatchback",
+  "slug": "clase-a-hatchback",
+  "carroceria": "hatchback",
+  "segmento": "compacto",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "A 200 MH Night Edition",
+      "anio": 2027,
+      "precio": 879000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 1.3 L turbo mild hybrid",
+      "potenciaHp": 163,
+      "rendimientoCombinadoKmL": 18.94,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid, tracción delantera; la ficha (2026) indica caja 7G. 7 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 120 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    },
+    {
+      "nombre": "Mercedes-AMG A 35 4MATIC MH",
+      "anio": 2027,
+      "precio": 1199000,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "4 cil. 2.0 L turbo mild hybrid",
+      "potenciaHp": 306,
+      "rendimientoCombinadoKmL": 14.04,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid, AMG SPEEDSHIFT DCT 8G, tracción integral 4MATIC. 7 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 225 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    },
+    {
+      "nombre": "Mercedes-AMG A 45 S 4MATIC+",
+      "anio": 2027,
+      "precio": 1559000,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "4 cil. 2.0 L turbo",
+      "potenciaHp": 422,
+      "rendimientoCombinadoKmL": 13.08,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "AMG SPEEDSHIFT DCT 8G, tracción integral 4MATIC+. 7 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 310 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de 3 años sin límite de kilometraje y 4 servicios de mantenimiento incluidos (según fichas técnicas oficiales; consultar términos con el distribuidor)",
+    "fuente": "Mercedes-Benz México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mercedes-benz.com.mx/es/passengercars/cars-guide/brochures-download.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador y precios Mercedes-Benz México",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Mercedes-Benz Clase A Hatchback (página oficial)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/models/hatchback/a-class/overview.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial A 200 MH Night Edition (2025)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2025/mercedes-benz/clase-a/200-mh/night-edition/Clase_A_200_MH_Hatchback_Night_Edition.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Mercedes-AMG A 35 4MATIC MH (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-amg/clase-a/35-4matic-mh/Mercedes-AMG-A-35-4MATIC-MH.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Mercedes-AMG A 45 S 4MATIC+ (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-amg/clase-a/45-s-4matic/Mercedes-AMG-A-45-S-4MATIC.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El configurador ya no muestra el Clase A Sedán; sus fichas (A 200 Sedán MH, AMG A 35 Sedán) siguen descargables pero sin precio vigente",
+    "Precios del configurador oficial al 25 de octubre de 2026; las fichas técnicas PDF tienen precios anteriores y algunas son de un año modelo previo, por lo que solo se usaron para datos técnicos de la misma versión",
+    "El configurador da la potencia en kW; los hp se calcularon con el factor de Mercedes-Benz (1 kW = 1.36 hp), que coincide con las fichas"
+  ]
+}

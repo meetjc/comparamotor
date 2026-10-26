@@ -19,12 +19,12 @@
       "potenciaHp": 186,
       "rendimientoCombinadoKmL": 15.2,
       "autonomiaKm": null,
-      "bolsasAire": null,
+      "bolsasAire": 7,
       "frenadoAutonomoEmergencia": false,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-hatchback/ficha-tecnica/ficha-tecnica-mazda3-hatchback-2026-v02.pdf",
-      "fechaVerificacion": "2026-10-20",
-      "notas": "Automática SKYACTIV-Drive de 6 velocidades, tracción delantera. Rendimiento 15.2 km/l tomado de la celda combinada i Sport / i Grand Touring de la ficha. Sin SBS según la ficha. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática SKYACTIV-Drive de 6 velocidades, tracción delantera. Rendimiento 15.2 km/l tomado de la celda combinada i Sport / i Grand Touring de la ficha. Sin SBS según la ficha. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
     },
     {
       "nombre": "i Grand Touring",
@@ -36,12 +36,12 @@
       "potenciaHp": 186,
       "rendimientoCombinadoKmL": 15.2,
       "autonomiaKm": null,
-      "bolsasAire": null,
+      "bolsasAire": 7,
       "frenadoAutonomoEmergencia": false,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-hatchback/ficha-tecnica/ficha-tecnica-mazda3-hatchback-2026-v02.pdf",
-      "fechaVerificacion": "2026-10-20",
-      "notas": "Suma monitoreo de punto ciego (BSM) y alerta de tráfico trasero (RCTA); sin SBS. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Suma monitoreo de punto ciego (BSM) y alerta de tráfico trasero (RCTA); sin SBS. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
     },
     {
       "nombre": "Signature",
@@ -53,12 +53,12 @@
       "potenciaHp": 227,
       "rendimientoCombinadoKmL": 14.9,
       "autonomiaKm": null,
-      "bolsasAire": null,
+      "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda3-hatchback/ficha-tecnica/ficha-tecnica-mazda3-hatchback-2026-v02.pdf",
-      "fechaVerificacion": "2026-10-20",
-      "notas": "Tracción integral i-ACTIV AWD, torque 310 lb-ft. Incluye SBS, MRCC y cámara 360°. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Tracción integral i-ACTIV AWD, torque 310 lb-ft. Incluye SBS, MRCC y cámara 360°. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
     }
   ],
   "garantia": {
@@ -73,7 +73,6 @@
     "https://www.mazda.mx/servicio-mazda/tu-mazda/garantias-mazda"
   ],
   "pendientes": [
-    "Número total de bolsas de aire (mazda.mx lista tipos pero no el total)",
     "Mazda México no publica promociones vigentes en mazda.mx al 20-oct-2026; sin ofertas verificables"
   ]
 }

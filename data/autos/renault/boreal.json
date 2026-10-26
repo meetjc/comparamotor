@@ -1,0 +1,100 @@
+{
+  "marca": "Renault",
+  "marcaSlug": "renault",
+  "modelo": "Boreal",
+  "slug": "boreal",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "francesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Evolution",
+      "anio": 2026,
+      "precio": 529500,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.3 L turbo 4 cil.",
+      "potenciaHp": 154,
+      "rendimientoCombinadoKmL": 18.3,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
+      "url": "https://www.renault.com.mx/autos-particulares/boreal/prices-offers.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Rines de aleación de 18\". Motor 1.3 L turbo de 154 hp y 199 lb-pie. Transmisión de doble embrague EDC de 6 velocidades, tracción delantera. Rendimiento mixto 18.3 km/l (ciudad 15.6, carretera 22.3) según el catálogo. El catálogo dice 'hasta 7 bolsas de aire' y menciona frenado autónomo de emergencia sin tabla por versión."
+    },
+    {
+      "nombre": "Techno",
+      "anio": 2026,
+      "precio": 560500,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.3 L turbo 4 cil.",
+      "potenciaHp": 154,
+      "rendimientoCombinadoKmL": 18.3,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
+      "url": "https://www.renault.com.mx/autos-particulares/boreal/prices-offers.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Rines de aluminio de 18\". Motor 1.3 L turbo de 154 hp y 199 lb-pie. Transmisión de doble embrague EDC de 6 velocidades, tracción delantera. Rendimiento mixto 18.3 km/l (ciudad 15.6, carretera 22.3) según el catálogo. El catálogo dice 'hasta 7 bolsas de aire' y menciona frenado autónomo de emergencia sin tabla por versión."
+    },
+    {
+      "nombre": "Iconic",
+      "anio": 2026,
+      "precio": 600400,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.3 L turbo 4 cil.",
+      "potenciaHp": 154,
+      "rendimientoCombinadoKmL": 18.3,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
+      "url": "https://www.renault.com.mx/autos-particulares/boreal/prices-offers.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Rines de 19\", techo panorámico y audio Harman Kardon. Motor 1.3 L turbo de 154 hp y 199 lb-pie. Transmisión de doble embrague EDC de 6 velocidades, tracción delantera. Rendimiento mixto 18.3 km/l (ciudad 15.6, carretera 22.3) según el catálogo. El catálogo dice 'hasta 7 bolsas de aire' y menciona frenado autónomo de emergencia sin tabla por versión."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 140,000 km (lo que ocurra primero) si se hacen servicios cada 5,000 km o 6 meses; con servicios cada año o 10,000 km se conserva la garantía contractual de 3 años. Pintura 3 años, anticorrosión 6 años",
+    "fuente": "Renault México (sitio oficial)",
+    "url": "https://www.renault.com.mx/discover-renault-service/extended-warranty.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Boreal 2026: Evolution desde $499,000 (tasa 9.99%); Techno desde $530,500 y Iconic desde $570,500 (tasa 10.99%); a 72 meses + 1 año de seguro gratis, o 24 MSI.",
+      "precioOferta": 499000,
+      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación de crédito. No aplica con otras promociones ni en flotillas; hasta agotar existencias. Tasas con enganche de 35% a 72 meses.",
+      "vigenciaHasta": "2026-11-01",
+      "fuente": "Renault México (sitio oficial)",
+      "url": "https://www.renault.com.mx/autos-particulares/boreal/prices-offers.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Renault Boreal: precios y ofertas",
+      "url": "https://www.renault.com.mx/autos-particulares/boreal/prices-offers.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Renault Boreal (página del modelo)",
+      "url": "https://www.renault.com.mx/autos-particulares/boreal.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Boreal (catálogo general, abril 2026)",
+      "url": "https://cdn.group.renault.com/ren/mx/mex/catalogos/AF_CATALOGO%20DIGITAL%20GENERAL_BOREAL%20MX_ABR%202026_PDF%20WEB.pdf.asset.pdf/aef0ca8c61.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Número de bolsas de aire y frenado autónomo de emergencia por versión: el catálogo general no trae la tabla por versión (remite a un PDF de equipamiento aparte)."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "marca": "Mercedes-Benz",
+  "marcaSlug": "mercedes-benz",
+  "modelo": "Mercedes-Maybach Clase S",
+  "slug": "mercedes-maybach-clase-s",
+  "carroceria": "sedan",
+  "segmento": "grande",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Mercedes-Maybach S 680 4MATIC",
+      "anio": 2027,
+      "precio": 5099000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "V12 6.0 L biturbo",
+      "potenciaHp": 612,
+      "rendimientoCombinadoKmL": 8.17,
+      "autonomiaKm": null,
+      "bolsasAire": 14,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "612 hp según Mercedes, 9G-TRONIC, 4MATIC. 14 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 463 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de 3 años sin límite de kilometraje y 4 servicios de mantenimiento incluidos (según fichas técnicas oficiales; consultar términos con el distribuidor)",
+    "fuente": "Mercedes-Benz México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mercedes-benz.com.mx/es/passengercars/cars-guide/brochures-download.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador y precios Mercedes-Benz México",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Mercedes-Benz Mercedes-Maybach Clase S (página oficial)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/models/saloon-long/mercedes-maybach-s-class/overview.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Mercedes-Maybach S 680 4MATIC (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-maybach/clase-s/680-4matic/Mercedes-Maybach-S-680-4MATIC.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Precios del configurador oficial al 25 de octubre de 2026; las fichas técnicas PDF tienen precios anteriores y algunas son de un año modelo previo, por lo que solo se usaron para datos técnicos de la misma versión",
+    "El configurador da la potencia en kW; los hp se calcularon con el factor de Mercedes-Benz (1 kW = 1.36 hp), que coincide con las fichas"
+  ]
+}

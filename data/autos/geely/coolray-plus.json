@@ -1,0 +1,137 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "Coolray Plus",
+  "slug": "coolray-plus",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GL",
+      "anio": 2027,
+      "precio": 439990,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 172,
+      "rendimientoCombinadoKmL": 17.52,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "172 hp @ 5,500 rpm y 290 Nm, doble embrague (DCT) de 7 velocidades, tracción delantera. Rendimiento de laboratorio de la ficha 2027: ciudad 15.27, carretera 21.38 y combinado 17.52 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Sin frenado autónomo de emergencia ni alerta de colisión frontal en GL según la ficha. Pantalla de 14.6\", rines de 18\"."
+    },
+    {
+      "nombre": "GF",
+      "anio": 2027,
+      "precio": 489990,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 172,
+      "rendimientoCombinadoKmL": 17.52,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "172 hp @ 5,500 rpm y 290 Nm, doble embrague (DCT) de 7 velocidades, tracción delantera. Rendimiento de laboratorio de la ficha 2027: ciudad 15.27, carretera 21.38 y combinado 17.52 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia, control crucero adaptativo, monitor de punto ciego y alerta de tráfico cruzado trasero según la ficha. Cámara 540°, cajuela eléctrica, techo panorámico."
+    },
+    {
+      "nombre": "GC",
+      "anio": 2026,
+      "precio": 399990,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 172,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2026. Motor 1.5 L turbo de 172 hp, 6 bolsas de aire, control de estabilidad y control crucero según la página del modelo; pantalla de 8\". La ficha publicada solo cubre GL y GF 2027, así que no hay dato oficial de rendimiento ni de frenado autónomo para GC; se asumió la misma caja DCT de 7 velocidades del resto de la gama, por confirmar."
+    },
+    {
+      "nombre": "GL",
+      "anio": 2026,
+      "precio": 419990,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 172,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2026; la página lista el mismo equipo que GL 2027 (pantalla de 14.6\", rines de 18\"). La ficha publicada es la 2027, por lo que bolsas de aire, rendimiento y frenado autónomo de la versión 2026 quedan por confirmar."
+    },
+    {
+      "nombre": "GF",
+      "anio": 2026,
+      "precio": 469990,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 172,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2026; la página del modelo lista 15 asistencias de nivel 2 con frenado autónomo de emergencia (AEB), monitor de punto ciego y cámara 540°. La ficha publicada es la 2027, por lo que bolsas de aire y rendimiento de la versión 2026 quedan por confirmar."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz (motor y transmisión) 8 años o 250,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-plus"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Coolray Plus: mensualidades desde $3,999 con tasa desde 10.99%, o precio desde $399,990 (GC 2026) con 0% de comisión por apertura",
+      "precioOferta": null,
+      "condicion": "La opción de 0% de comisión es para Coolray 2026 GC Plus con enganche desde 50%, 72 meses y tasa de 15.99% (plan CAMP). Vigencia del 30 de septiembre al 30 de octubre de 2026 o hasta agotar existencias; crédito simple con Geely Financial Services (BBVA México), sujeto a aprobación; CAT promedio 25.61% sin IVA (calculado al 31-ago-2026); no acumulable con otras promociones ni válido en flotillas.",
+      "vigenciaHasta": "2026-10-30",
+      "fuente": "Geely México (sitio oficial, promociones)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Geely Coolray Plus",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-plus",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Coolray Plus 2027",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-coolray-plus-2027-ficha-tecnica-02.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Conviven años modelo 2027 (GL y GF) y 2026 (GC, GL y GF); la ficha publicada solo cubre GL y GF 2027",
+    "Falta ficha técnica 2026 para confirmar rendimiento, bolsas de aire y frenado autónomo de las versiones 2026",
+    "El antiguo Coolray (sin \"Plus\") aparece como descontinuado; su página redirige a Coolray Plus",
+    "Ofertas: las promociones de Geely son de financiamiento (mensualidad, tasa, meses sin intereses o bonos con crédito BBVA); el precio de lista no cambia salvo donde se indica"
+  ]
+}

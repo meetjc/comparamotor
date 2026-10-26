@@ -1,0 +1,70 @@
+{
+  "marca": "Jeep",
+  "marcaSlug": "jeep",
+  "modelo": "Wagoneer L",
+  "slug": "wagoneer-l",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "Series III 4X4",
+      "anio": 2025,
+      "precio": 1766900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L I6 Hurricane biturbo (SO)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/wagoneer-l.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2025, el más reciente en la lista de precios. Versión larga, 4x4. No hay ficha técnica publicada en archivos descargables. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Series III 4X4 Premium Package",
+      "anio": 2025,
+      "precio": 1868900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L I6 Hurricane biturbo (SO)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/wagoneer-l.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2025. Paquete Premium. No hay ficha técnica publicada. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Jeep México (sitio oficial, ficha técnica)",
+    "url": "https://www.jeep.com.mx/posventa/garantia.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Jeep Wagoneer L",
+      "url": "https://www.jeep.com.mx/wagoneer-l.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Jeep",
+      "url": "https://www.jeep.com.mx/hostb/fiat_mx/JSONConversion/jeep/jeep-vehiculos.json",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Sin ficha técnica oficial descargable: faltan potencia, transmisión exacta, rendimiento, bolsas y frenado autónomo",
+    "Transmisión automática según la página; confirmar número de velocidades",
+    "Garantía tomada de la política general de Jeep; confirmar"
+  ]
+}

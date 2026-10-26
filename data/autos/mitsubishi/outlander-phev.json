@@ -1,0 +1,141 @@
+{
+  "marca": "Mitsubishi",
+  "marcaSlug": "mitsubishi",
+  "modelo": "Outlander PHEV",
+  "slug": "outlander-phev",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "SE Plus",
+      "anio": 2026,
+      "precio": 883900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "2.4 L 4 cil. + 2 motores eléctricos (híbrido enchufable)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 60,
+      "bolsasAire": 11,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/outlander-phev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable: motor 2.4 L de gasolina (131 hp) y dos motores eléctricos (114 hp delantero y 134 hp trasero), tracción integral Twin-Motor S-AWC, engrane de reducción de una velocidad. Autonomía eléctrica de hasta 60 km según el folleto oficial. 11 bolsas de aire y sistema de mitigación de impacto frontal (FCM)."
+    },
+    {
+      "nombre": "SE Plus White Diamond",
+      "anio": 2026,
+      "precio": 891900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "2.4 L 4 cil. + 2 motores eléctricos (híbrido enchufable)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 60,
+      "bolsasAire": 11,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/outlander-phev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Color blanco perlado con costo. Híbrido enchufable: motor 2.4 L de gasolina (131 hp) y dos motores eléctricos (114 hp delantero y 134 hp trasero), tracción integral Twin-Motor S-AWC, engrane de reducción de una velocidad. Autonomía eléctrica de hasta 60 km según el folleto oficial. 11 bolsas de aire y sistema de mitigación de impacto frontal (FCM)."
+    },
+    {
+      "nombre": "Limited",
+      "anio": 2026,
+      "precio": 948900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "2.4 L 4 cil. + 2 motores eléctricos (híbrido enchufable)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 60,
+      "bolsasAire": 11,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/outlander-phev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable: motor 2.4 L de gasolina (131 hp) y dos motores eléctricos (114 hp delantero y 134 hp trasero), tracción integral Twin-Motor S-AWC, engrane de reducción de una velocidad. Autonomía eléctrica de hasta 60 km según el folleto oficial. 11 bolsas de aire y sistema de mitigación de impacto frontal (FCM)."
+    },
+    {
+      "nombre": "Limited White Diamond",
+      "anio": 2026,
+      "precio": 956900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "2.4 L 4 cil. + 2 motores eléctricos (híbrido enchufable)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 60,
+      "bolsasAire": 11,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/outlander-phev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Color blanco perlado con costo. Híbrido enchufable: motor 2.4 L de gasolina (131 hp) y dos motores eléctricos (114 hp delantero y 134 hp trasero), tracción integral Twin-Motor S-AWC, engrane de reducción de una velocidad. Autonomía eléctrica de hasta 60 km según el folleto oficial. 11 bolsas de aire y sistema de mitigación de impacto frontal (FCM)."
+    },
+    {
+      "nombre": "Diamond",
+      "anio": 2026,
+      "precio": 1013900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "2.4 L 4 cil. + 2 motores eléctricos (híbrido enchufable)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 60,
+      "bolsasAire": 11,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/outlander-phev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable: motor 2.4 L de gasolina (131 hp) y dos motores eléctricos (114 hp delantero y 134 hp trasero), tracción integral Twin-Motor S-AWC, engrane de reducción de una velocidad. Autonomía eléctrica de hasta 60 km según el folleto oficial. 11 bolsas de aire y sistema de mitigación de impacto frontal (FCM)."
+    }
+  ],
+  "garantia": {
+    "texto": "7 años de garantía de defensa a defensa sin límite de kilometraje, contados desde la entrega, siempre que se cumplan los mantenimientos en tiempo y forma y no se trate de exclusiones (vehículos vendidos desde el 1-feb-2019)",
+    "fuente": "Mitsubishi Motors de México (sitio oficial, página de garantía)",
+    "url": "https://www.mitsubishi-motors.mx/propietarios/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Outlander PHEV 2026 con 48 meses sin intereses o Bono Flexible de $134,000 (aplicable a tasa, seguro gratis o precio) + 0% de comisión por apertura.",
+      "precioOferta": null,
+      "condicion": "Solo con Mitsubishi Motors Financial Services (NR Finance México), sujeto a aprobación de crédito. No aplica con otras promociones ni en flotillas; hasta agotar existencias. 0% de interés en SE Plus con enganche de 50% a 48 meses. Bono a precio de $100,500 o $33,500 a tasa. CAT promedio 9.8% sin IVA.",
+      "vigenciaHasta": "2026-11-03",
+      "fuente": "Mitsubishi Motors de México (sitio oficial, promociones)",
+      "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Mitsubishi Outlander PHEV (página del modelo)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/outlander-phev",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Outlander PHEV 2026",
+      "url": "https://www.mitsubishi-motors.mx/assets/Ficha-Tecnica-Mitsubishi-OutlanderPHEV-2026_4006_PmhJB2Zab4.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Folleto oficial Outlander PHEV 2026",
+      "url": "https://www.mitsubishi-motors.mx/assets/Folleto-Mitsubishi-OutlanderPHEV-2026_4007_BeKrLonh5b.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Mitsubishi",
+      "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Potencia combinada del sistema híbrido no publicada (solo la de cada motor).",
+    "Rendimiento combinado: la ficha publica 35.4 y 29.2 km/l en dos columnas sin indicar claramente a qué versiones corresponde cada una.",
+    "Garantía específica de la batería no publicada en las páginas consultadas."
+  ]
+}

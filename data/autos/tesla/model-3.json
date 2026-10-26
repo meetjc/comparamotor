@@ -1,0 +1,60 @@
+{
+  "marca": "Tesla",
+  "marcaSlug": "tesla",
+  "modelo": "Model 3",
+  "slug": "model-3",
+  "carroceria": "sedan",
+  "segmento": "mediano",
+  "origenMarca": "estadounidense",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Performance All-Wheel Drive",
+      "anio": 2026,
+      "precio": 1029900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, dos motores (tracción integral)",
+      "potenciaHp": 528,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 498,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Tesla México (sitio oficial: configurador)",
+      "url": "https://www.tesla.com/es_mx/model3/design",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía de 498 km (estimado de la EPA según Tesla), 0-100 km/h en 3.1 s, 528 caballos de fuerza de potencia máxima (página del modelo). Frenado de emergencia automático de serie según Tesla."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía limitada básica de 4 años u 80,000 km; batería y unidad de tracción de 8 años (160,000 km en Model Y RWD; 192,000 km en Model 3 Performance y Model Y Premium y Performance; 240,000 km en Cybertruck) con mínimo de 70% de capacidad",
+    "fuente": "Tesla México (sitio oficial: garantía del vehículo)",
+    "url": "https://www.tesla.com/es_mx/support/vehicle-warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador Tesla Model 3 México",
+      "url": "https://www.tesla.com/es_mx/model3/design",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Tesla Model 3 (página oficial)",
+      "url": "https://www.tesla.com/es_mx/model3",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Tesla México",
+      "url": "https://www.tesla.com/es_mx/support/vehicle-warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El configurador de Tesla México solo ofrece Model 3 Performance All-Wheel Drive; no hay versiones de entrada a la venta en la configuración en línea al 25 de octubre de 2026",
+    "Tesla no publica año modelo en el configurador de México; se registró 2026 como año vigente por la fecha de verificación",
+    "Tesla no publica el número de bolsas de aire (solo «múltiples bolsas de aire»)",
+    "El configurador muestra «precio de compra» sin detallar si incluye cargos de entrega o trámites; confirmar con Tesla",
+    "Tesla no publica ficha técnica PDF en México; los datos salen del configurador y la página del modelo"
+  ]
+}

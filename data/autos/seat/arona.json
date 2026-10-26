@@ -1,0 +1,107 @@
+{
+  "marca": "SEAT",
+  "marcaSlug": "seat",
+  "modelo": "Arona",
+  "slug": "arona",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "espanola",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Style",
+      "anio": 2027,
+      "precio": 409400,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. (inyección multipunto)",
+      "potenciaHp": 110,
+      "rendimientoCombinadoKmL": 16.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.seat.mx/autos/arona",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Tiptronic de 6 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "FR",
+      "anio": 2027,
+      "precio": 431400,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. (inyección multipunto)",
+      "potenciaHp": 110,
+      "rendimientoCombinadoKmL": 16.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.seat.mx/autos/arona",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Tiptronic de 6 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. En su promoción SEAT cita un precio de lista de $463,900 para esta versión. La ficha técnica no lista frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "FR Edición Especial 25 Aniversario",
+      "anio": 2027,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. (inyección multipunto)",
+      "potenciaHp": 110,
+      "rendimientoCombinadoKmL": 16.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "SEAT México (sitio oficial: página de promociones y ficha técnica)",
+      "url": "https://www.seat.mx/comprar-un-seat/promociones/arona",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Tiptronic de 6 velocidades. Edición limitada. No aparece en el configurador; SEAT solo publica su precio de lista ($484,900) en la página de promociones. La ficha técnica no lista frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km (lo que ocurra primero) de garantía defensa a defensa; garantía extendida opcional por 3 años más con costo (hasta 8 años). Incluye 5 años de seguro de robo de autopartes, 5 años de asistencia SERVISEAT, 12 años contra perforación por corrosión y 3 años en defectos de pintura",
+    "fuente": "SEAT México (ficha técnica oficial y sitio oficial)",
+    "url": "https://www.seat.mx/servicio/garantia-beneficios"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Arona FR 2027 desde $413,900 con SEAT Financial Services, o desde $4,999 al mes con seguro y comisión por apertura gratis",
+      "precioOferta": 413900,
+      "condicion": "Precio con bono de $50,000 (IVA incluido) aplicado al precio de lista de $463,900 al contratar cualquier producto financiero de Volkswagen Leasing; enganche máximo 50%. Solo unidades nuevas, no acumulable, sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "SEAT México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.seat.mx/comprar-un-seat/promociones/arona",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "SEAT Arona 2027 (página del modelo)",
+      "url": "https://www.seat.mx/autos/arona",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador SEAT México: Arona",
+      "url": "https://www.seat.mx/configurador/w/version?wf=seat-mx-es&carlineGroup=CARLINE-GROUP-KJP",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Arona 2027",
+      "url": "https://www.seat.mx/content/dam/countries/mx/seat-website/descargas/fichas-tecnicas/2027/SEAT_Arona_2027_cars-models-brochure-KJP-NA-09-2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones SEAT Arona",
+      "url": "https://www.seat.mx/comprar-un-seat/promociones/arona",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "SEAT publica en su configurador un «precio de contado» con IVA e ISAN por versión; en sus promociones menciona un «precio de lista» más alto para algunas versiones. Se usó el precio de contado del configurador (único publicado para todas las versiones) y el precio de lista se anotó en las notas; confirmar el criterio editorial",
+    "Edición Especial 25 Aniversario: sin precio de contado publicado (solo precio de lista de $484,900 en promociones)",
+    "Frenado autónomo de emergencia: la ficha técnica no lo menciona; confirmar con SEAT"
+  ]
+}

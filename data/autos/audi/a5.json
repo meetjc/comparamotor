@@ -1,0 +1,202 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "A5",
+  "slug": "a5",
+  "carroceria": "sedan",
+  "segmento": "mediano",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Sedán TFSI Dynamic",
+      "anio": 2027,
+      "precio": 1009900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 199,
+      "rendimientoCombinadoKmL": 15.2,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a5/a5-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros con airbag de cabeza y airbag central. S tronic de 7 velocidades (doble embrague), tracción delantera. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "Sedán TFSI Select",
+      "anio": 2027,
+      "precio": 1084900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 199,
+      "rendimientoCombinadoKmL": 15.2,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a5/a5-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros con airbag de cabeza y airbag central. S tronic de 7 velocidades (doble embrague), tracción delantera. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "Sedán TFSI S line",
+      "anio": 2027,
+      "precio": 1179900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 199,
+      "rendimientoCombinadoKmL": 15.2,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a5/a5-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros con airbag de cabeza y airbag central. S tronic de 7 velocidades (doble embrague), tracción delantera. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "Sedán TFSI S line quattro",
+      "anio": 2027,
+      "precio": 1279900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": 14.0,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a5/a5-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros con airbag de cabeza y airbag central. S tronic de 7 velocidades (doble embrague), tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S5 Sedán TFSI quattro",
+      "anio": 2027,
+      "precio": 1574900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "3.0 L V6 turbo (TFSI)",
+      "potenciaHp": 367,
+      "rendimientoCombinadoKmL": 12.2,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a5/s5-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros y traseros con airbag de cabeza. S tronic de 7 velocidades (doble embrague), tracción quattro. Versión deportiva con página propia en Audi (S5 Sedán); frenado de emergencia dentro del sistema Audi pre sense front. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "RS 5 Sedán TFSI quattro",
+      "anio": 2026,
+      "precio": 2274900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.9 L V6 biturbo híbrido enchufable",
+      "potenciaHp": 639,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a5/rs-5-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales, laterales delanteros y traseros con airbag de cabeza y airbag central delantero. Tiptronic de 8 velocidades, tracción quattro. Híbrido enchufable: 639 hp combinando motor eléctrico y de gasolina. La ficha no publica rendimiento de combustible ni autonomía eléctrica. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "RS 5 Avant TFSI quattro",
+      "anio": 2026,
+      "precio": 2309900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.9 L V6 biturbo híbrido enchufable",
+      "potenciaHp": 639,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a5/rs-5-avant/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales, laterales delanteros y traseros con airbag de cabeza y airbag central delantero. Tiptronic de 8 velocidades, tracción quattro. Carrocería familiar (Avant) con página propia en Audi. Híbrido enchufable de 639 hp combinados; la ficha no publica rendimiento ni autonomía eléctrica. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [
+    {
+      "descripcion": "A5 Sedán 2026 (Dynamic, Select, S line y S line quattro): 36 meses sin intereses, 0% comisión por apertura y seguro promocional",
+      "precioOferta": null,
+      "condicion": "Solo unidades año modelo 2026. Plan Credit con enganche de 35%, 36 meses, persona física profesionista; tasa anual 0%, CAT 7.3% sin IVA (calculado al 24-sep-2026). Sin equipamiento extra; no aplica con otras promociones; sujeto a aprobación de crédito (Volkswagen Leasing)",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Audi de México (sitio oficial, Promociones)",
+      "url": "https://www.audi.com.mx/es/experiencia/promocAudi/",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Configurador Audi A5 Sedán",
+      "url": "https://www.audi.com.mx/es/models/a5/a5-sedan/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi S5 Sedán",
+      "url": "https://www.audi.com.mx/es/models/a5/s5-sedan/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi RS 5 Sedán",
+      "url": "https://www.audi.com.mx/es/models/a5/rs-5-sedan/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi RS 5 Avant",
+      "url": "https://www.audi.com.mx/es/models/a5/rs-5-avant/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial A5 Sedán 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_a5_sedan_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial S5 Sedán 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_s5_sedan_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RS 5 Sedán 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_rs_5_sedan_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RS 5 Avant 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_rs_5_avant_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Audi México",
+      "url": "https://www.audi.com.mx/es/experiencia/promocAudi/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "Se agruparon A5 Sedán, S5 Sedán, RS 5 Sedán y RS 5 Avant en un solo archivo (Audi les da página propia a cada uno); el RS 5 Avant es carrocería familiar y los RS 5 son híbridos enchufables, aunque el modelo se clasifica por su versión de entrada (gasolina)",
+    "El configurador vende A5 y S5 año modelo 2027; los RS 5 son 2026",
+    "RS 5: la ficha deja en blanco el rendimiento de combustible y no publica autonomía eléctrica",
+    "La promoción de 36 meses sin intereses aplica a unidades A5 Sedán 2026, no a las 2027 del configurador"
+  ]
+}

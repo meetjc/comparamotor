@@ -1,0 +1,69 @@
+{
+  "marca": "Peugeot",
+  "marcaSlug": "peugeot",
+  "modelo": "Rifter",
+  "slug": "rifter",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "francesa",
+  "propulsion": "diesel",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Allure Pack 1.6L Diésel",
+      "anio": 2027,
+      "precio": 479900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil. turbodiésel (HDi)",
+      "potenciaHp": 90,
+      "rendimientoCombinadoKmL": 17.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nueva-rifter.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Hasta 7 pasajeros. Manual de 5 velocidades. 6 bolsas de aire. La página menciona asistente de frenado de emergencia (no frenado autónomo). Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Allure Pack 1.2L Turbo",
+      "anio": 2027,
+      "precio": 509900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.2 L 3 cil. turbo (PureTech)",
+      "potenciaHp": 130,
+      "rendimientoCombinadoKmL": 19.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nueva-rifter.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Hasta 7 pasajeros, motor a gasolina. Automática de 8 velocidades. 6 bolsas de aire. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km contra piezas defectuosas; garantía anticorrosión de 12 años en vehículos particulares (5 años en comerciales)",
+    "fuente": "Peugeot México (sitio oficial, página de garantías)",
+    "url": "https://www.peugeot.com.mx/clientes-peugeot/asistencia-y-garantia/garantias.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Peugeot Rifter",
+      "url": "https://www.peugeot.com.mx/gama/nueva-rifter.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Peugeot",
+      "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia: la página solo menciona asistente de frenado de emergencia",
+    "La propulsión del modelo es diésel (versión de entrada); la versión 1.2 L es de gasolina"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "marca": "Mercedes-Benz",
+  "marcaSlug": "mercedes-benz",
+  "modelo": "GLS",
+  "slug": "gls",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GLS 450 4MATIC MH",
+      "anio": 2026,
+      "precio": 2359000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6 cil. 3.0 L turbo mild hybrid",
+      "potenciaHp": 381,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid, 4MATIC. 9 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 280 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    },
+    {
+      "nombre": "GLS 580 4MATIC MH",
+      "anio": 2026,
+      "precio": 2869000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "V8 4.0 L biturbo mild hybrid",
+      "potenciaHp": 517,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid, 4MATIC. 9 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 380 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de 3 años sin límite de kilometraje y 4 servicios de mantenimiento incluidos (según fichas técnicas oficiales; consultar términos con el distribuidor)",
+    "fuente": "Mercedes-Benz México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mercedes-benz.com.mx/es/passengercars/cars-guide/brochures-download.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador y precios Mercedes-Benz México",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Mercedes-Benz GLS (página oficial)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/models/suv/gls/overview.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial GLS 450 4MATIC MH (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-benz/gls/450-4matic-mh/GLS-450-4MATIC-MH.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial GLS 580 4MATIC MH (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-benz/gls/580-4matic-mh/GLS-580-4MATIC-MH.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Precios del configurador oficial al 25 de octubre de 2026; las fichas técnicas PDF tienen precios anteriores y algunas son de un año modelo previo, por lo que solo se usaron para datos técnicos de la misma versión",
+    "El configurador da la potencia en kW; los hp se calcularon con el factor de Mercedes-Benz (1 kW = 1.36 hp), que coincide con las fichas"
+  ]
+}

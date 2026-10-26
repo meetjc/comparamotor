@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/precios-y-planes",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio de lista $537,500; precio de contado $457,500; precio financiado/leasing $425,000 (publicados en la tabla de precios, que carga desde un widget embebido: https://ppigmm.com.mx/servicios/html_gmds/2026/tracker/CHTRA01/precios.html). Automática de 6 velocidades. Rendimiento oficial: ciudad 15.8, carretera 24.0, combinado 18.6 km/l. Alerta de colisión frontal y asistente de colisión frontal inminente: no disponibles en esta versión. Especificaciones: https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/equipamiento."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": null,
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/precios-y-planes",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio de lista $582,500; precio de contado $502,500; precio financiado/leasing $472,500. Automática de 6 velocidades. Rendimiento oficial: ciudad 15.8, carretera 24.3, combinado 18.7 km/l. Incluye alerta de colisión frontal, asistente de colisión frontal inminente y alerta de punto ciego; la ficha no usa el término 'frenado autónomo', por eso el campo queda sin confirmar."
     }
   ],
@@ -57,19 +57,25 @@
       "vigenciaHasta": "2026-11-02",
       "fuente": "Chevrolet México (sitio oficial)",
       "url": "https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/precios-y-planes",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [
     "https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/precios-y-planes",
     "https://ppigmm.com.mx/servicios/html_gmds/2026/tracker/CHTRA01/precios.html",
     "https://www.chevrolet.com.mx/suvs/tracker-mejor-suv/equipamiento",
-    "https://www.chevrolet.com.mx/garantia"
+    "https://www.chevrolet.com.mx/garantia",
+    {
+      "nombre": "Ficha técnica oficial Tracker 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/crossovers-suvs/2026-tracker/mov/02-pdf/ficha-tecnica-tracker-2026.pdf",
+      "tipo": "oficial"
+    }
   ],
   "pendientes": [
     "Frenado autónomo de emergencia de Premier AT (D) sin confirmar: la ficha lista 'Alerta de colisión frontal' y 'Asistente de colisión frontal inminente' sin mencionar frenado.",
     "La tabla de precios de la página oficial se carga desde un widget embebido (ppigmm.com.mx); no se incluye en el HTML directo de chevrolet.com.mx.",
     "Chevrolet México vende además la Trax 2026 como modelo distinto (desde $473,300); este archivo es solo del Tracker (1.2 L turbo, 130 hp).",
-    "El precio de contado ($457,500 y $502,500) es menor que el de lista; la página no desglosa el bono de contado."
+    "El precio de contado ($457,500 y $502,500) es menor que el de lista; la página no desglosa el bono de contado.",
+    "La ficha técnica PDF 2026 da otro rendimiento combinado (19.5 km/l LT y 19.3 km/l Premier) y lista alerta y asistente de colisión frontal inminente en ambas versiones; difiere de la página de equipamiento usada aquí. Confirmar cuál es la vigente."
   ]
 }

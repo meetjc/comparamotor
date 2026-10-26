@@ -1,0 +1,68 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "Okavango",
+  "slug": "okavango",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GF",
+      "anio": 2026,
+      "precio": 729888,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L turbo 4 cil.",
+      "potenciaHp": 215,
+      "rendimientoCombinadoKmL": 14.76,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/okavango",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "215 hp @ 5,000 rpm y 325 Nm según la ficha (la página del modelo dice 240 Nm), doble embrague húmedo de 7 velocidades, tracción delantera, 7 plazas. Rendimiento de laboratorio: ciudad 12.99, carretera 17.69 y combinado 14.76 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia según la ficha. Cámara 360°, techo panorámico, asientos ventilados y calefactados."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz (motor y transmisión) 8 años o 250,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/okavango"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Okavango: \"Estrena tu Okavango desde $669,888\" con 8 años de garantía en tren motriz y 4 de asistencia en el camino",
+      "precioOferta": 669888,
+      "condicion": "La página del modelo muestra \"Desde $669,888\" en el encabezado y $729,888 en la versión GF; Geely no publica vigencia ni condiciones de este precio.",
+      "vigenciaHasta": null,
+      "fuente": "Geely México (sitio oficial, promociones y página del modelo)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Geely Okavango",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/okavango",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Okavango 2026",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-okavango-2026-ficha-tecnica-02.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Precio: la versión GF aparece en $729,888 y el encabezado y la promoción dicen \"desde $669,888\" sin condiciones; se tomó $729,888 como precio de lista",
+    "La promoción menciona 4 años de asistencia en el camino; la garantía general del sitio no lo detalla",
+    "Torque: la ficha dice 325 Nm y la página del modelo 240 Nm"
+  ]
+}

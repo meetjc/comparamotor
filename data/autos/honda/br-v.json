@@ -1,0 +1,77 @@
+{
+  "marca": "Honda",
+  "marcaSlug": "honda",
+  "modelo": "BR-V",
+  "slug": "br-v",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Uniq",
+      "anio": 2026,
+      "precio": 498900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil. i-VTEC (119 HP)",
+      "potenciaHp": 119,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
+      "url": "https://www.honda.mx/autos/br-v",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión CVT, tres filas de asientos. 6 bolsas de aire (frontales, laterales y de cortina). Sin Honda Sensing ni frenado de mitigación de colisión en esta versión (brochure). Precio \"Desde\" publicado en el configurador de honda.mx."
+    },
+    {
+      "nombre": "Touring",
+      "anio": 2026,
+      "precio": 539900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil. i-VTEC (119 HP)",
+      "potenciaHp": 119,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
+      "url": "https://www.honda.mx/autos/br-v",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión CVT, tres filas de asientos. 6 bolsas de aire (frontales, laterales y de cortina). Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [
+    {
+      "descripcion": "BR-V Touring 2026: bono de $50,000 con tasa base desde 8.49% y mensualidades desde $4,679.18, exclusivamente con Honda Finance",
+      "precioOferta": null,
+      "condicion": "Plazo de 60 meses con 50% de enganche; CAT promedio informativo 1.30% sin IVA; no incluye seguro; sujeto a aprobación de crédito; hasta agotar existencias",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Honda México (sitio oficial)",
+      "url": "https://www.honda.mx/autos/br-v",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    "https://www.honda.mx/autos/br-v",
+    "https://www.honda.mx/autos/br-v/configurador",
+    {
+      "nombre": "Brochure oficial Honda BR-V 2026",
+      "url": "https://www.honda.mx/web/pdf/brochure/honda/Brochure_BRV_2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento combinado oficial de combustible (honda.mx no lo publica en el configurador ni en el brochure)",
+    "Garantía oficial (honda.mx no la publica en la página del modelo)",
+    "Clasificación del segmento (suv-compacta) es criterio editorial, no viene de la marca"
+  ]
+}

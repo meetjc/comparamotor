@@ -1,0 +1,93 @@
+{
+  "marca": "Hyundai",
+  "marcaSlug": "hyundai",
+  "modelo": "Creta Grand",
+  "slug": "creta-grand",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "coreana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GLS Premium AT",
+      "anio": 2027,
+      "precio": 566200,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L 4 cil. MPI",
+      "potenciaHp": 157,
+      "rendimientoCombinadoKmL": 16.09,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
+      "url": "https://www.hyundai.com.mx/modelos/creta-grand-2027/especificaciones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 6 velocidades, tres filas de asientos. 6 bolsas de aire. Sin asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+    },
+    {
+      "nombre": "Limited AT",
+      "anio": 2027,
+      "precio": 623300,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L 4 cil. MPI",
+      "potenciaHp": 157,
+      "rendimientoCombinadoKmL": 16.09,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
+      "url": "https://www.hyundai.com.mx/modelos/creta-grand-2027/especificaciones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 6 velocidades, tres filas de asientos. 6 bolsas de aire. Incluye asistente de anticolisión frontal y de giro con detección de peatones y ciclistas. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica 5 años o 100,000 km y tren motriz 7 años o 150,000 km (lo que ocurra primero), para modelos 2026 en adelante incluidos en la lista de Hyundai",
+    "fuente": "Hyundai México (sitio oficial, página de garantía)",
+    "url": "https://www.hyundai.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Creta Grand 2027, todas las versiones: bono flexible de $30,000, o mensualidades desde $5,299 con tasa desde 9.49%",
+      "precioOferta": null,
+      "condicion": "Mensualidad calculada para Creta Grand GLS Premium 2027 con enganche de 50% a 72 meses y bono aplicado a reducción de precio. El bono puede usarse en enganche, accesorios, precio, tasa o seguro. Solo con Hyundai Finance (cálculo con Banorte). No aplica con otras promociones ni flotillas; hasta agotar existencias.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Hyundai México (sitio oficial, promociones)",
+      "url": "https://www.hyundai.com.mx/promociones/creta-grand",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Especificaciones y precios Hyundai Creta Grand 2027 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/creta-grand-2027/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Hyundai Creta Grand 2027 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/creta-grand-2027/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hyundai Creta Grand 2027",
+      "url": "https://www.hyundai.com.mx/resources/ficha-tecnica/FichaTecnica_CretaGrand2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Hyundai Creta Grand 2027 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/promociones/creta-grand",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Hyundai México",
+      "url": "https://www.hyundai.com.mx/garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Hyundai sigue publicando la Creta Grand 2026: GLS Premium AT $559,100 y Limited AT $615,600 (inventario del año anterior; no se incluyó como versión)"
+  ]
+}

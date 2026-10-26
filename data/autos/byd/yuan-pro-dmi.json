@@ -1,0 +1,74 @@
+{
+  "marca": "BYD",
+  "marcaSlug": "byd",
+  "modelo": "Yuan Pro DM-i",
+  "slug": "yuan-pro-dmi",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Yuan Pro DM-i GL",
+      "anio": 2027,
+      "precio": 519999,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.5 L híbrido enchufable (72 kW) + motor eléctrico 145 kW (300 N·m); batería Blade 7.85 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 45,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.byd.com/mx/order-yuan-pro-dmi",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable de tracción delantera, 0-100 km/h en 9.1 s. Autonomía eléctrica NEDC de 45 km y combinada de 1,045 km. BYD publica un consumo con batería baja de 24 km/l (NEDC); no se registra como rendimiento combinado porque es otro ciclo de medición. Carga AC 3.3 kW. 6 bolsas de aire inferidas de la ficha (frontales, laterales delanteras y cortina). Frenado automático de emergencia y control crucero adaptativo de serie. El año 2027 sale del PDF de ofertas de octubre. Precio del configurador oficial."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [
+    {
+      "descripcion": "Yuan Pro DM-i modelo 2027: pago inicial de $42,399 o mensualidad de $4,255, con bono de $20,000 (IVA incluido) aplicado a la tasa",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Banorte, sujeto a aprobación. Pago inicial $42,399: crédito $467,999, 72 meses, enganche 10%, tasa 7.88%, comisión por apertura 2%, seguro financiado, CAT promedio 9.65% sin IVA. Mensualidad $4,255: crédito $259,999.50, 72 meses, enganche 50%, tasa 4.78%, seguro de contado, CAT promedio 5.6% sin IVA. Calculado al 01-oct-2026. El cargador doméstico no incluye instalación.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "BYD Yuan Pro DM-i en BYD México",
+      "url": "https://www.byd.com/mx/yuan-pro-dmi",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador BYD Yuan Pro DM-i",
+      "url": "https://www.byd.com/mx/order-yuan-pro-dmi",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BYD Yuan Pro DM-i",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20YUAN%20PRO%20DMi%20Flyer-ES-MX-20260911_.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ofertas BYD octubre 2026 (legales)",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Potencia en hp: BYD publica la potencia en kW (motor de combustión 72 kW y eléctrico 145 kW; no publica potencia combinada)",
+    "Rendimiento: BYD publica 24 km/l con batería baja (NEDC), no un combinado comparable",
+    "Garantía oficial de este modelo: su página y su ficha no la publican; BYD México publica 6 años o 150,000 km (vehículo) y 8 años o 200,000 km (batería) en las páginas del King y del Song Pro DM-i, sin confirmar para este modelo",
+    "Tipo de transmisión: BYD no la nombra; se marcó como directa como en los otros BYD del catálogo"
+  ]
+}

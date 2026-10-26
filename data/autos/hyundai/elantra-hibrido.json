@@ -1,0 +1,94 @@
+{
+  "marca": "Hyundai",
+  "marcaSlug": "hyundai",
+  "modelo": "Elantra Híbrido",
+  "slug": "elantra-hibrido",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "coreana",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GLS Híbrido",
+      "anio": 2026,
+      "precio": 573100,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.6 L 4 cil. GDI + motor eléctrico (híbrido)",
+      "potenciaHp": 139,
+      "rendimientoCombinadoKmL": 28.7,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
+      "url": "https://www.hyundai.com.mx/modelos/elantra-hibrido-2026/especificaciones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada del sistema híbrido: 139 hp. Doble embrague de 6 velocidades. Bolsas frontales, laterales y de cortina. Incluye asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+    },
+    {
+      "nombre": "GLS Premium Híbrido",
+      "anio": 2026,
+      "precio": 645500,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.6 L 4 cil. GDI + motor eléctrico (híbrido)",
+      "potenciaHp": 139,
+      "rendimientoCombinadoKmL": 28.7,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
+      "url": "https://www.hyundai.com.mx/modelos/elantra-hibrido-2026/especificaciones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada del sistema híbrido: 139 hp. Doble embrague de 6 velocidades. Bolsas frontales, laterales y de cortina. Incluye asistente de anticolisión frontal y de giro. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica 5 años o 100,000 km y tren motriz 7 años o 150,000 km (lo que ocurra primero), para modelos 2026 en adelante incluidos en la lista de Hyundai. La garantía de la batería de alto voltaje del sistema híbrido se detalla en el documento de garantía de Hyundai",
+    "fuente": "Hyundai México (sitio oficial, página de garantía)",
+    "url": "https://www.hyundai.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Elantra Híbrido 2026: mensualidades desde $5,599 con tasa desde 9.49%",
+      "precioOferta": null,
+      "condicion": "Calculado para Elantra Híbrido GLS 2026 con enganche de 50% a 72 meses. Solo con Hyundai Finance (cálculo con Banorte). No aplica con otras promociones ni flotillas; hasta agotar existencias.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Hyundai México (sitio oficial, promociones)",
+      "url": "https://www.hyundai.com.mx/promociones/elantra-hibrido",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Especificaciones y precios Hyundai Elantra Híbrido 2026 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/elantra-hibrido-2026/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Hyundai Elantra Híbrido 2026 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/elantra-hibrido-2026/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hyundai Elantra Híbrido 2026",
+      "url": "https://www.hyundai.com.mx/resources/ficha-tecnica/FichaTecnica_Elantrahibrido_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Hyundai Elantra Híbrido 2026 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/promociones/elantra-hibrido",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Hyundai México",
+      "url": "https://www.hyundai.com.mx/garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Bolsas de aire: la marca lista frontales, laterales y de cortina, pero no publica el número total",
+    "La página de garantía de Hyundai menciona un Elantra de gasolina 2026, pero el sitio oficial ya no publica su página de modelo ni su precio (25-oct-2026)"
+  ]
+}

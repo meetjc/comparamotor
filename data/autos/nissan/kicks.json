@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/kicks.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $476,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 18.64 km/l combinado (ciudad 16.83, carretera 21.46), igual en el catálogo PDF 2026 y en la comparación web. Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/kicks.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $506,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 18.64 km/l combinado (ciudad 16.83, carretera 21.46), igual en el catálogo PDF 2026 y en la comparación web. Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo."
     },
     {
@@ -57,7 +57,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/kicks.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $547,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Incluye ProPILOT Assist y audio BOSE de 10 bocinas. Rendimiento 18.64 km/l combinado (ciudad 16.83, carretera 21.46), igual en el catálogo PDF 2026 y en la comparación web. Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo."
     }
   ],
@@ -74,7 +74,7 @@
       "vigenciaHasta": "2026-11-02",
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/kicks.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     },
     {
       "descripcion": "Hasta 36 meses sin intereses + 1 año de seguro gratis + 0% de comisión por apertura (alternativa al precio especial desde $476,990).",
@@ -83,7 +83,7 @@
       "vigenciaHasta": null,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/kicks.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [
@@ -93,6 +93,7 @@
     "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
   ],
   "pendientes": [
-    "El texto legal de la promoción de meses sin intereses con 1 año de seguro no se desplegó en la página; solo se confirmó la vigencia de la tabla de precios."
+    "El texto legal de la promoción de meses sin intereses con 1 año de seguro no se desplegó en la página; solo se confirmó la vigencia de la tabla de precios.",
+    "La Kicks Play e-POWER (híbrida, desde $616,990) es otro modelo: ver data/autos/nissan/kicks-play-e-power.json."
   ]
 }

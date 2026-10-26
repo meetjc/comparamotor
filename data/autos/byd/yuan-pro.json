@@ -1,0 +1,55 @@
+{
+  "marca": "BYD",
+  "marcaSlug": "byd",
+  "modelo": "Yuan Pro",
+  "slug": "yuan-pro",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "china",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Yuan Pro 380 km",
+      "anio": 2026,
+      "precio": 579800,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Motor eléctrico delantero 130 kW (290 N·m); batería Blade",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 380,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.byd.com/mx/car/BYD-Yuan-Pro",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "SUV eléctrico de 5 plazas, tracción delantera, 0-100 km/h en 7.9 s. Autonomía NEDC de 380 km. Carga AC 7 kW y DC 65 kW. Precio del registro oficial del configurador de BYD México (código CX006024). 6 bolsas de aire inferidas de la ficha (frontales, laterales delanteras y de cortina delanteras y traseras). La ficha de septiembre 2026 lista control crucero, ABS, ESC y frenado inteligente, pero no frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "BYD Yuan Pro en BYD México",
+      "url": "https://www.byd.com/mx/car/BYD-Yuan-Pro",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BYD Yuan Pro 2026",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20YUAN%20PRO%20Flyer-ES-MX-20260911_.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Potencia en hp: BYD publica la potencia en kW",
+    "Capacidad de la batería: la ficha la menciona pero el valor no es legible en el PDF",
+    "Garantía oficial de este modelo: su página y su ficha no la publican; BYD México publica 6 años o 150,000 km (vehículo) y 8 años o 200,000 km (batería) en las páginas del King y del Song Pro DM-i, sin confirmar para este modelo",
+    "Cifra total de bolsas de aire inferida de los tipos listados en la ficha",
+    "Sin oferta de octubre 2026 para el Yuan Pro eléctrico en el PDF de legales"
+  ]
+}

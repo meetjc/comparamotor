@@ -1,0 +1,142 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "A3 Sportback",
+  "slug": "a3-sportback",
+  "carroceria": "hatchback",
+  "segmento": "compacto",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Dynamic 35 TFSI",
+      "anio": 2026,
+      "precio": 729900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (35 TFSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 16.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a3/a3-sportback/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. Tiptronic de 8 velocidades, tracción delantera. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "Select 35 TFSI",
+      "anio": 2026,
+      "precio": 784900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (35 TFSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 16.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a3/a3-sportback/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. Tiptronic de 8 velocidades, tracción delantera. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S line 40 TFSI",
+      "anio": 2026,
+      "precio": 914900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (40 TFSI)",
+      "potenciaHp": 190,
+      "rendimientoCombinadoKmL": 16.9,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a3/a3-sportback/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. S tronic de 7 velocidades (doble embrague), tracción delantera. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S3 Sportback TFSI quattro",
+      "anio": 2026,
+      "precio": 1159900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 333,
+      "rendimientoCombinadoKmL": 13.8,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a3/s3-sportback/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. S tronic de 7 velocidades (doble embrague), tracción quattro. Versión deportiva con página propia en Audi (S3 Sportback). Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "RS 3 Sportback TFSI quattro",
+      "anio": 2026,
+      "precio": 1614900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.5 L 5 cil. turbo (TFSI)",
+      "potenciaHp": 400,
+      "rendimientoCombinadoKmL": 12.3,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a3/rs-3-sportback/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros y traseros y de cabeza. S tronic de 7 velocidades (doble embrague), tracción quattro. Versión de alto desempeño con página propia en Audi (RS 3 Sportback). Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador Audi A3 Sportback",
+      "url": "https://www.audi.com.mx/es/models/a3/a3-sportback/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi S3 Sportback",
+      "url": "https://www.audi.com.mx/es/models/a3/s3-sportback/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi RS 3 Sportback",
+      "url": "https://www.audi.com.mx/es/models/a3/rs-3-sportback/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial A3 Sportback 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_a3_sportback_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial S3 Sportback 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_s3_sportback_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RS 3 Sportback 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_rs_3_sportback_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "S3 Sportback y RS 3 Sportback se incluyeron como versiones de este archivo aunque Audi les da página propia",
+    "Las fichas de A3 y S3 Sportback no mencionan frenado autónomo de emergencia; la del RS 3 sí lo lista",
+    "La página de promociones anuncia mensualidad para A3 Sportback S line 2026 con Audi Now; no se capturó porque no se leyeron sus condiciones"
+  ]
+}

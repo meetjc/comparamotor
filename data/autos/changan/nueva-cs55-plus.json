@@ -1,0 +1,57 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "Nueva CS55 Plus",
+  "slug": "nueva-cs55-plus",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "1.5T Premium",
+      "anio": null,
+      "precio": 539900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 178,
+      "rendimientoCombinadoKmL": 15.3,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/nueva-cs55-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "178 hp y 206 lb-ft, doble embrague (DCT) de 7 velocidades. Rendimiento de laboratorio: ciudad 13.4, carretera 18.6 y combinado 15.3 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia (incluye peatones), control crucero adaptativo, punto ciego y alerta de tráfico cruzado según la ficha. Pantalla de 14.6\", asientos ventilados y calefactables, rines de 19\"."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz 7 años o 200,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan Nueva CS55 Plus",
+      "url": "https://www.changan.mx/models/nueva-cs55-plus",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Nueva CS55 Plus",
+      "url": "https://www.changan.mx/file/manual/nueva-cs55-plus.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Año modelo no publicado en la página ni en la ficha",
+    "Es la nueva generación; convive con CS55 Plus Premium 2025 (data/autos/changan/cs55-plus.json)"
+  ]
+}

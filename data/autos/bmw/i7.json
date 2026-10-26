@@ -1,0 +1,79 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "i7",
+  "slug": "i7",
+  "carroceria": "sedan",
+  "segmento": "grande",
+  "origenMarca": "alemana",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "eDrive50",
+      "anio": 2026,
+      "precio": 2738900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor",
+      "potenciaHp": 455,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 574,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Eléctrico, batería de 101.7 kWh, hasta 574 km (WLTP). Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Aviso de colisión frontal con función de frenado (ficha). Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "M70 xDrive",
+      "anio": 2026,
+      "precio": 3883900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, dos motores",
+      "potenciaHp": 659,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 490,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Eléctrico, batería de 101.7 kWh, hasta 490 km (WLTP). Tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha menciona prevención de colisión trasera con frenado; no confirma el frenado frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW i7 (página oficial)",
+      "url": "https://www.bmw.com.mx/es/modelos/bmw-i/i7/bmw-i7-sedan.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW i7 eDrive50 2026",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/Julio/9-%20BMW%20Serie%207%20Seda%CC%81n%20%28G70%29/BMW%20i7%20eDrive50%202026.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW i7 M70 xDrive 2026",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/Julio/9-%20BMW%20Serie%207%20Seda%CC%81n%20%28G70%29/BMW%20i7%20M70%202026.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas"
+  ]
+}

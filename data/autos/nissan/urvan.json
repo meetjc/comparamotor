@@ -1,0 +1,115 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "Urvan",
+  "slug": "urvan",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Panel Ventanas Amplia",
+      "anio": 2026,
+      "precio": 655900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 142,
+      "rendimientoCombinadoKmL": 9.4,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/urvan.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio especial de contado: $550,900 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L de 4 cilindros, 142 hp. Manual de 5 velocidades, tracción 2WD. Van de carga, 1,351 kg de carga máxima. Rendimiento combinado 9.40 km/l. 2 bolsas de aire (conductor y pasajero)."
+    },
+    {
+      "nombre": "Panel Amplia AA",
+      "anio": 2026,
+      "precio": 657900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 142,
+      "rendimientoCombinadoKmL": 9.4,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/urvan.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio especial de contado: $552,900 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L de 4 cilindros, 142 hp. Manual de 5 velocidades, tracción 2WD. Van de carga con aire acondicionado, 1,344 kg de carga máxima. Rendimiento combinado 9.40 km/l. 2 bolsas de aire (conductor y pasajero)."
+    },
+    {
+      "nombre": "11 Pasajeros AA",
+      "anio": 2026,
+      "precio": 785900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 142,
+      "rendimientoCombinadoKmL": 9.78,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/urvan.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio especial de contado: $670,900 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L de 4 cilindros, 142 hp. Manual de 5 velocidades, tracción 2WD. Rendimiento combinado 9.78 km/l. Bolsas de aire de conductor y pasajero, más laterales y de cortina (la ficha no da el número total)."
+    },
+    {
+      "nombre": "14 Pasajeros Amplia AA",
+      "anio": 2026,
+      "precio": 842900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 142,
+      "rendimientoCombinadoKmL": 9.27,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/urvan.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio especial de contado: $727,900 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L de 4 cilindros, 142 hp. Manual de 5 velocidades, tracción 2WD. Rendimiento combinado 9.27 km/l. Bolsas de aire de conductor y pasajero, más laterales y de cortina (la ficha no da el número total)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 100,000 km (respuesta de preguntas frecuentes de la página de Urvan)",
+    "fuente": "Nissan México (sitio oficial, página del modelo)",
+    "url": "https://www.nissan.com.mx/vehiculos/todos/urvan.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Precio especial de contado: Panel Ventanas Amplia $550,900; Panel Amplia AA $552,900; 11 Pasajeros AA $670,900; 14 Pasajeros Amplia AA $727,900. La página también anuncia bono de hasta $115,000 o 1 año de seguro gratis.",
+      "precioOferta": 550900,
+      "condicion": "Precio de contado publicado en la página del modelo; el texto legal general menciona crédito tradicional con NR Finance México. Consultar condiciones con el distribuidor.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/urvan.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Nissan Urvan (página del modelo)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/urvan.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Nissan Urvan: precios y versiones",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/urvan/precios-y-versiones.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia: la ficha de equipamiento de Urvan no lo menciona en ninguna versión.",
+    "Potencia: la ficha técnica dice 142 hp y el encabezado de la página dice 145 hp; se usó la ficha.",
+    "Número total de bolsas de aire en las versiones de pasajeros no publicado.",
+    "Catálogo PDF de Urvan no localizado (la liga de catálogos de la página no lleva a un PDF)."
+  ]
+}

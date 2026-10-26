@@ -1,0 +1,125 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "Q7",
+  "slug": "q7",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Elite TFSI quattro",
+      "anio": 2026,
+      "precio": 1659900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L V6 turbo (TFSI) con sistema híbrido ligero de 48 V",
+      "potenciaHp": 340,
+      "rendimientoCombinadoKmL": 10.7,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q7/q7-suv/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros y traseros con airbag de cabeza. Tiptronic de 8 velocidades, tracción quattro. Tres filas de asientos. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S line TFSI quattro",
+      "anio": 2026,
+      "precio": 1749900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L V6 turbo (TFSI) con sistema híbrido ligero de 48 V",
+      "potenciaHp": 340,
+      "rendimientoCombinadoKmL": 10.7,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q7/q7-suv/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros y traseros con airbag de cabeza. Tiptronic de 8 velocidades, tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "TFSI e quattro (híbrido enchufable)",
+      "anio": 2026,
+      "precio": 1939900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L V6 turbo (TFSI) híbrido enchufable; batería de 22 kWh netos",
+      "potenciaHp": 394,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 80,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q7/q7tfsie/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros y traseros con airbag de cabeza. Tiptronic de 8 velocidades, tracción quattro. 394 hp combinados. Rendimiento medido con la batería descargada. Autonomía eléctrica de 80 a 84 km según la ficha. Página propia en Audi (Q7 SUV TFSI e). Precio de lista del configurador de Audi México, en pesos con IVA incluido. Rendimiento combinado oficial de 11.7 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "SQ7 TFSI quattro",
+      "anio": 2026,
+      "precio": 2079900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4.0 L V8 biturbo (TFSI)",
+      "potenciaHp": 507,
+      "rendimientoCombinadoKmL": 8.9,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q7/sq7-suv/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), de cabeza y laterales delanteros y traseros. Tiptronic de 8 velocidades, tracción quattro. Versión deportiva con página propia (SQ7 SUV); frenado de emergencia dentro de Audi pre sense front. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador Audi Q7 SUV",
+      "url": "https://www.audi.com.mx/es/models/q7/q7-suv/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi Q7 TFSI e",
+      "url": "https://www.audi.com.mx/es/models/q7/q7tfsie/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi SQ7 SUV",
+      "url": "https://www.audi.com.mx/es/models/q7/sq7-suv/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Q7 SUV 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_q7_suv_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Q7 TFSI e 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_q7_tfsi_e_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial SQ7 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_sq7_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "Se agruparon Q7, Q7 TFSI e (híbrido enchufable) y SQ7 en un solo archivo; el modelo se clasifica como híbrido ligero por su versión de entrada (V6 con sistema de 48 V)",
+    "Las fichas de Q7 y Q7 TFSI e solo listan Audi pre sense trasero; no aclaran si traen frenado autónomo delantero",
+    "Autonomía eléctrica del Q7 TFSI e: se usó el valor menor del rango (80 a 84 km)"
+  ]
+}

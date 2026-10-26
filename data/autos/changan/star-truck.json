@@ -1,0 +1,56 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "New Star Truck",
+  "slug": "star-truck",
+  "carroceria": "pickup",
+  "segmento": "pickup-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Cabina sencilla",
+      "anio": 2026,
+      "precio": 299900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 105,
+      "rendimientoCombinadoKmL": 14.7,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/star-truck",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Camioncito de carga ligera con caja de redilas, 2 plazas y 1,100 kg de carga. 105 hp y 104 lb-ft, manual de 5 velocidades, tracción trasera, gasolina de 87 octanos. Rendimiento de laboratorio: ciudad 13.3, carretera 17.0 y combinado 14.7 km/l. 2 bolsas de aire frontales. Sin frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz 7 años o 200,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan New Star Truck",
+      "url": "https://www.changan.mx/models/star-truck",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial New Star Truck",
+      "url": "https://www.changan.mx/file/manual/star-truck.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Es un vehículo comercial ligero (caja de carga de 1 tonelada); se incluyó como pickup compacta"
+  ]
+}

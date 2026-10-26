@@ -1,0 +1,111 @@
+{
+  "marca": "Hyundai",
+  "marcaSlug": "hyundai",
+  "modelo": "Tucson",
+  "slug": "tucson",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "coreana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GLS TA",
+      "anio": 2026,
+      "precio": 619300,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": 14.9,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
+      "url": "https://www.hyundai.com.mx/modelos/tucson-2026/especificaciones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades, tracción delantera. 7 bolsas de aire (frontales, central delantera, laterales y de cortina). Sin asistente de anticolisión frontal. Precio de lista con IVA."
+    },
+    {
+      "nombre": "Limited TA",
+      "anio": 2026,
+      "precio": 696200,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": 14.9,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
+      "url": "https://www.hyundai.com.mx/modelos/tucson-2026/especificaciones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades, tracción delantera. 7 bolsas de aire (frontales, central delantera, laterales y de cortina). Incluye asistente de anticolisión frontal. Precio de lista con IVA."
+    },
+    {
+      "nombre": "Limited Tech TA",
+      "anio": 2026,
+      "precio": 799900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": 14.9,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
+      "url": "https://www.hyundai.com.mx/modelos/tucson-2026/especificaciones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades, tracción delantera. 7 bolsas de aire (frontales, central delantera, laterales y de cortina). Incluye asistente de anticolisión frontal y de giro. Precio de lista con IVA."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica 5 años o 100,000 km y tren motriz 7 años o 150,000 km (lo que ocurra primero), para modelos 2026 en adelante incluidos en la lista de Hyundai",
+    "fuente": "Hyundai México (sitio oficial, página de garantía)",
+    "url": "https://www.hyundai.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Elige tu Tucson: Tucson GLS 2026 desde $569,300 con mensualidades desde $5,599, o bono flexible de $50,000; tasa desde 9.49% en toda la gama Tucson",
+      "precioOferta": 569300,
+      "condicion": "Precio y mensualidad calculados para Tucson GLS 2026 de gasolina con bono de $50,000 aplicado a reducción de precio, enganche 50% a 72 meses, tasa 9.49%. La tasa de 9.49% aplica a todas las Tucson (gasolina e híbrida) con enganche desde 50%. Solo con Hyundai Finance (cálculo con Banorte). No aplica con otras promociones ni flotillas; hasta agotar existencias.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Hyundai México (sitio oficial, promociones)",
+      "url": "https://www.hyundai.com.mx/promociones/elige-tu-tucson",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Especificaciones y precios Hyundai Tucson 2026 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/tucson-2026/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Hyundai Tucson 2026 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/tucson-2026/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hyundai Tucson 2026",
+      "url": "https://www.hyundai.com.mx/resources/ficha-tecnica/260910_FichaTecnica_CarryOver_TucsonICE2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Hyundai Tucson 2026 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/promociones/elige-tu-tucson",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Hyundai México",
+      "url": "https://www.hyundai.com.mx/garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El número de 7 bolsas de aire aparece en la descripción de la versión GLS; las demás versiones listan las mismas bolsas en la ficha",
+    "Hyundai vende la Tucson como año modelo 2026 (25-oct-2026); la Tucson Híbrida tiene su propio archivo (tucson-hibrida)"
+  ]
+}

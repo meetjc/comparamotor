@@ -1,0 +1,92 @@
+{
+  "marca": "Volvo",
+  "marcaSlug": "volvo",
+  "modelo": "EX40",
+  "slug": "ex40",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "sueca",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Core",
+      "anio": 2026,
+      "precio": 969900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor (Single Motor)",
+      "potenciaHp": 238,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 378,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/ex40-electric/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Single Motor, tracción trasera, batería de 70 kWh, hasta 377.6 km (FTP-75). Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+    },
+    {
+      "nombre": "Plus",
+      "anio": 2026,
+      "precio": 1045900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor (Single Motor)",
+      "potenciaHp": 238,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 378,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/ex40-electric/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Single Motor (su precio queda por debajo del «desde» del Twin Motor), hasta 377.6 km (FTP-75). Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+    },
+    {
+      "nombre": "Ultra",
+      "anio": 2026,
+      "precio": 1145900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, dos motores (Twin Motor Performance)",
+      "potenciaHp": 442,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 402,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/ex40-electric/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Twin Motor Performance, tracción integral, batería de 82 kWh, hasta 401.9 km (FTP-75); el precio coincide con el «desde» del Twin Motor Performance. Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de defensa a defensa por 3 años o hasta 100,000 km (lo que suceda primero)",
+    "fuente": "Volvo Car México (sitio oficial: garantía)",
+    "url": "https://www.volvocars.com/mx/l/mantenimiento/garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Volvo EX40 (página oficial)",
+      "url": "https://www.volvocars.com/mx/cars/ex40-electric/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Volvo EX40: especificaciones oficiales",
+      "url": "https://www.volvocars.com/mx/cars/ex40-electric/specifications/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Volvo México",
+      "url": "https://www.volvocars.com/mx/l/mantenimiento/garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Volvo no publica qué tren motriz lleva cada nivel del EX40; se asignó por precio frente a los «desde» de especificaciones",
+    "Volvo México no publica ficha técnica PDF descargable; los datos salen de la página del modelo y de su página de especificaciones (cifras preliminares según Volvo)",
+    "Volvo no da el número total de bolsas de aire, solo su tipo"
+  ]
+}

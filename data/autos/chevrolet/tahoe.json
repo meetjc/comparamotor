@@ -1,0 +1,124 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Tahoe",
+  "slug": "tahoe",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "RST",
+      "anio": 2026,
+      "precio": 2058500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "5.3 L V8",
+      "potenciaHp": 355,
+      "rendimientoCombinadoKmL": 9.7,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/suvs/suv-4x4-tahoe/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,883,500 y precio financiado o de arrendamiento $1,898,500 (ver ofertas). Automática de 10 velocidades, tracción 4x4. La ficha lista \"asistente de colisión frontal\" sin decir si frena de forma automática."
+    },
+    {
+      "nombre": "Z71",
+      "anio": 2026,
+      "precio": 2130500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.2 L V8",
+      "potenciaHp": 425,
+      "rendimientoCombinadoKmL": 9.1,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/suvs/suv-4x4-tahoe/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,955,500 y precio financiado o de arrendamiento $1,970,500 (ver ofertas). Automática de 10 velocidades, tracción 4x4, suspensión de aire adaptativa."
+    },
+    {
+      "nombre": "High Country",
+      "anio": 2026,
+      "precio": 2139600,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.2 L V8",
+      "potenciaHp": 425,
+      "rendimientoCombinadoKmL": 9.1,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/suvs/suv-4x4-tahoe/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,964,600 y precio financiado o de arrendamiento $1,979,600 (ver ofertas). Automática de 10 velocidades, tracción 4x4, suspensión Magnetic Ride Control."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Tahoe RST: precio de contado $1,883,500 y precio financiado o de arrendamiento $1,898,500 (precio de lista $2,058,500). Promociones publicadas: De contado: Bono de $175,000. Con financiamiento: Hasta 18 MSI, Bono de $160,000, 1 año de seguro ¡Gratis!",
+      "precioOferta": 1883500,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/tahoe/CHTAH01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Tahoe Z71: precio de contado $1,955,500 y precio financiado o de arrendamiento $1,970,500 (precio de lista $2,130,500). Promociones publicadas: De contado: Bono de $175,000. Con financiamiento: Hasta 18 MSI, Bono de $160,000, 1 año de seguro ¡Gratis!",
+      "precioOferta": 1955500,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/tahoe/CHTAH01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Tahoe High Country: precio de contado $1,964,600 y precio financiado o de arrendamiento $1,979,600 (precio de lista $2,139,600). Promociones publicadas: De contado: Bono de $175,000. Con financiamiento: Hasta 18 MSI, Bono de $160,000, 1 año de seguro ¡Gratis!",
+      "precioOferta": 1964600,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/tahoe/CHTAH01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Tahoe",
+      "url": "https://www.chevrolet.com.mx/suvs/suv-4x4-tahoe/precios-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Tahoe (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/tahoe/CHTAH01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Tahoe",
+      "url": "https://www.chevrolet.com.mx/suvs/suv-4x4-tahoe/especificaciones-automotriz",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Tahoe 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/crossovers-suvs/2026-tahoe/mov/02-pdf/ficha-tecnica-tahoe-2026-tld.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia sin confirmar (\"asistente de colisión frontal\" en la ficha).",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

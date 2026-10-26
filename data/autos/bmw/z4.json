@@ -1,0 +1,79 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "Z4",
+  "slug": "z4",
+  "carroceria": "coupe",
+  "segmento": "deportivo",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "M40i",
+      "anio": 2026,
+      "precio": 1529000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6 cil. 3.0 L turbo (TwinPower)",
+      "potenciaHp": 387,
+      "rendimientoCombinadoKmL": 12.8,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Roadster de dos plazas. Automática deportiva de 8 velocidades, tracción trasera. Bolsas de aire frontales y laterales (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "M40i Final Edition",
+      "anio": 2026,
+      "precio": 1595900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6 cil. 3.0 L turbo (TwinPower)",
+      "potenciaHp": 387,
+      "rendimientoCombinadoKmL": 12.8,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición final. Automática deportiva de 8 velocidades, tracción trasera. Bolsas de aire frontales y laterales (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW Z4 (página oficial)",
+      "url": "https://www.bmw.com.mx/es/modelos/autos-bmw-serie-m/z4-m40i/bmw-z4-m40i-roadster.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW Z4 M40i 2026",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/Julio/19-%20BMW%20Z4%20%28G29%29/Ficha%20Te%CC%81cnica%20BMW%20Z4%20M40i%202026.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW Z4 M40i Final Edition 2026",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/Julio/19-%20BMW%20Z4%20%28G29%29/Ficha%20Te%CC%81cnica%20BMW%20Z4%20M40i%20Final%20Edition%202026.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas"
+  ]
+}

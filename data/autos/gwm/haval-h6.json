@@ -1,0 +1,113 @@
+{
+  "marca": "GWM",
+  "marcaSlug": "gwm",
+  "modelo": "Haval H6",
+  "slug": "haval-h6",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Gasolina Premium",
+      "anio": 2026,
+      "precio": 575900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 235,
+      "rendimientoCombinadoKmL": 13.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/haval-h6-2026",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 9 velocidades (9DCT), 235 hp @ 6,000 rpm y 283 lb-ft, tracción delantera. 6 bolsas de aire (frontales, laterales y cortina). Cámara 360°, pantalla de 14.6\". Según la ficha, el frenado autónomo de emergencia no viene en esta versión."
+    },
+    {
+      "nombre": "Híbrida Premium",
+      "anio": 2026,
+      "precio": 656900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo + motor eléctrico (híbrido, batería de 1.67 kWh)",
+      "potenciaHp": 240,
+      "rendimientoCombinadoKmL": 19.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/haval-h6-2026",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido convencional: motor de gasolina de 151 hp y motor eléctrico de 130 kW; potencia combinada de 240 hp. Transmisión híbrida dedicada (DHT). 6 bolsas de aire. Incluye frenado autónomo de emergencia con detección de peatones y ciclistas y control crucero adaptativo. Llantas runflat."
+    },
+    {
+      "nombre": "Híbrida Luxury",
+      "anio": 2026,
+      "precio": 737900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo + motor eléctrico (híbrido, batería de 1.67 kWh)",
+      "potenciaHp": 240,
+      "rendimientoCombinadoKmL": 19.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/haval-h6-2026",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido, 240 hp combinados, transmisión DHT. 6 bolsas de aire y frenado autónomo de emergencia. Agrega techo panorámico, head-up display, asientos delanteros con calefacción y ventilación, alerta de punto ciego y estacionamiento autónomo."
+    },
+    {
+      "nombre": "PHEV Luxury",
+      "anio": 2026,
+      "precio": 774900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo híbrido enchufable + motor eléctrico; batería de 19.09 kWh",
+      "potenciaHp": 322,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 102,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/haval-h6-2026",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable: motor de gasolina de 152 hp y motor eléctrico de 174 kW; potencia combinada de 322 hp y 398 lb-ft según la ficha (la página dice 389 lb-ft). Transmisión DHT. Autonomía eléctrica de 102 km (NEDC) y total de 1,082 km. El rendimiento combinado de 100 km/l de la ficha está calculado con la batería cargada al máximo. 6 bolsas de aire y frenado autónomo de emergencia. Rendimiento combinado oficial de 100 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "7 años de garantía defensa a defensa sin límite de kilometraje (GWM Care); baterías de alto voltaje de híbridos y eléctricos: 8 años o 150,000 km, lo que ocurra primero; programa anticorrosión y pintura de 7 años. Requiere servicios cada 6 meses o 10,000 km en distribuidor autorizado",
+    "fuente": "GWM México (sitio oficial: GWM Care, garantía)",
+    "url": "https://www.gwm-mx.com/es/owner/care/warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Haval H6 2026 (página oficial)",
+      "url": "https://www.gwm-mx.com/es/models/haval-h6-2026",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Haval H6 2026",
+      "url": "https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/pdf/fichas/gwm-h6-ficha-tecnica-2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ofertas GWM México",
+      "url": "https://www.gwm-mx.com/es/offer",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía GWM Care",
+      "url": "https://www.gwm-mx.com/es/owner/care/warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Promoción en la página de ofertas de GWM al 25-oct-2026: H6 PHEV con bono de hasta $45,000 + 0% comisión por apertura + instalación de cargador; H6 Gasolina mensualidad desde $6,333 y H6 Híbrida desde $7,333 + 0% comisión; el sitio no publica condiciones ni vigencia (solo asterisco), por eso no se registró como oferta",
+    "Torque combinado del PHEV: la ficha dice 398 lb-ft y la página 389 lb-ft"
+  ]
+}

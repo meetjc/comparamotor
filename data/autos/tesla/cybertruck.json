@@ -1,0 +1,77 @@
+{
+  "marca": "Tesla",
+  "marcaSlug": "tesla",
+  "modelo": "Cybertruck",
+  "slug": "cybertruck",
+  "carroceria": "pickup",
+  "segmento": "pickup-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Premium All-Wheel Drive",
+      "anio": 2026,
+      "precio": 1949900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, dos motores (tracción integral)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 523,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Tesla México (sitio oficial: configurador)",
+      "url": "https://www.tesla.com/es_mx/cybertruck/design",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía estimada de 523 km según Tesla. Tesla no publica la potencia de esta versión. Alerta de colisión frontal y frenado de emergencia activo de serie según Tesla."
+    },
+    {
+      "nombre": "Cyberbeast",
+      "anio": 2026,
+      "precio": 2399900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, tres motores (tracción integral)",
+      "potenciaHp": 845,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 515,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Tesla México (sitio oficial: configurador)",
+      "url": "https://www.tesla.com/es_mx/cybertruck/design",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía estimada de 515 km, 0-100 km/h en 2.7 s y 845 hp que Tesla presenta como «energía bruta». Alerta de colisión frontal y frenado de emergencia activo de serie según Tesla."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía limitada básica de 4 años u 80,000 km; batería y unidad de tracción de 8 años (160,000 km en Model Y RWD; 192,000 km en Model 3 Performance y Model Y Premium y Performance; 240,000 km en Cybertruck) con mínimo de 70% de capacidad",
+    "fuente": "Tesla México (sitio oficial: garantía del vehículo)",
+    "url": "https://www.tesla.com/es_mx/support/vehicle-warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador Tesla Cybertruck México",
+      "url": "https://www.tesla.com/es_mx/cybertruck/design",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Tesla Cybertruck (página oficial)",
+      "url": "https://www.tesla.com/es_mx/cybertruck",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Tesla México",
+      "url": "https://www.tesla.com/es_mx/support/vehicle-warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La potencia de 845 hp de Cyberbeast es la cifra que Tesla llama «energía bruta»; la versión Premium no tiene potencia publicada",
+    "Tesla no publica año modelo en el configurador de México; se registró 2026 como año vigente por la fecha de verificación",
+    "Tesla no publica el número de bolsas de aire (solo «múltiples bolsas de aire»)",
+    "El configurador muestra «precio de compra» sin detallar si incluye cargos de entrega o trámites; confirmar con Tesla",
+    "Tesla no publica ficha técnica PDF en México; los datos salen del configurador y la página del modelo"
+  ]
+}

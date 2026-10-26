@@ -1,0 +1,97 @@
+{
+  "marca": "Jeep",
+  "marcaSlug": "jeep",
+  "modelo": "Compass",
+  "slug": "compass",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Limited Premium 4X2 ATX6 1.3L Turbo",
+      "anio": 2026,
+      "precio": 546900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.3 L 4 cil. turbo",
+      "potenciaHp": 173,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/compass.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Tracción delantera. Automática de 6 velocidades. Bolsas de aire frontales, laterales delanteras y de cortina (la ficha no da el total). La asistencia de prevención de colisión frontal se agrega desde la Altitude. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Altitude 4X2 ATX6 1.3L Turbo",
+      "anio": 2026,
+      "precio": 574900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.3 L 4 cil. turbo",
+      "potenciaHp": 173,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/compass.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Tracción delantera. Automática de 6 velocidades. Bolsas de aire frontales, laterales delanteras y de cortina (la ficha no da el total). Agrega prevención de colisión frontal plus y control crucero adaptativo. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "High Altitude AWD ATX8 2.0L Turbo",
+      "anio": 2026,
+      "precio": 702900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L 4 cil. turbo",
+      "potenciaHp": 200,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/compass.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Tracción integral. Automática de 8 velocidades. Incluye prevención de colisión frontal plus y frenado de emergencia con detección de peatón y ciclista. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Jeep México (sitio oficial, ficha técnica)",
+    "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/compass/FT_JEEP_COMPASS_LIMITED_PREMIUM_&_ALTITUDE_2026_07MAY2026_V2.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Jeep Compass",
+      "url": "https://www.jeep.com.mx/compass.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Jeep",
+      "url": "https://www.jeep.com.mx/hostb/fiat_mx/JSONConversion/jeep/jeep-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Jeep Compass Limited Premium y Altitude 2026",
+      "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/compass/FT_JEEP_COMPASS_LIMITED_PREMIUM_&_ALTITUDE_2026_07MAY2026_V2.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Jeep Compass High Altitude 2026",
+      "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/compass/FT_JEEP_COMPASS_HIGH_ALTITUDE_2026_06MAY2026_V2.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento combinado: las fichas técnicas no lo publican",
+    "Total de bolsas de aire: las fichas listan los tipos sin total",
+    "La lista oficial de precios también incluye unidades de años modelo anteriores con otros precios; aquí solo se muestran las del año modelo vigente. (Compass 2024 y 2025)."
+  ]
+}

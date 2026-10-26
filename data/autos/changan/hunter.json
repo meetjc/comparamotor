@@ -1,0 +1,128 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "Hunter",
+  "slug": "hunter",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "Chassis",
+      "anio": 2025,
+      "precio": 449900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L turbo 4 cil.",
+      "potenciaHp": 222,
+      "rendimientoCombinadoKmL": 12.3,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/hunter",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Chasis cabina sencilla de 2 plazas. 222 hp y 287 lb-ft, manual de 6 velocidades, tracción trasera 4x2, carga de 1,100 kg. Rendimiento de laboratorio: ciudad 10.7, carretera 15.1 y combinado 12.3 km/l. 2 bolsas de aire (frontales). Sin frenado autónomo de emergencia según la ficha."
+    },
+    {
+      "nombre": "Work",
+      "anio": 2025,
+      "precio": 479900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L turbo 4 cil.",
+      "potenciaHp": 222,
+      "rendimientoCombinadoKmL": 12.3,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/hunter",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina, 5 plazas. 222 hp y 287 lb-ft, manual de 6 velocidades, 4x2, carga de 1,100 kg. Rendimiento combinado de laboratorio 12.3 km/l. 2 bolsas de aire frontales. Sin frenado autónomo de emergencia según la ficha. Rines de acero de 17\"."
+    },
+    {
+      "nombre": "Plus 4x4 TA",
+      "anio": 2025,
+      "precio": 634500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo 4 cil.",
+      "potenciaHp": 222,
+      "rendimientoCombinadoKmL": 10.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/hunter",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina. 222 hp y 287 lb-ft, automática de 8 velocidades, tracción 4x4 con bloqueo central del diferencial, carga de 950 kg. Rendimiento de laboratorio: ciudad 9.6, carretera 12.9 y combinado 10.8 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Sin frenado autónomo de emergencia según la ficha. Cámara 360°, rines de 18\"."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz 7 años o 200,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Hunter Chassis 2025: precio con bono de $399,900 (bono de $50,000 sobre $449,900)",
+      "precioOferta": 399900,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/hunter",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Hunter Work 2025: precio con bono de $429,900 (bono de $50,000 sobre $479,900)",
+      "precioOferta": 429900,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/hunter",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Hunter Plus 4x4 TA 2025: precio con bono de $589,000 (bono de $45,500 sobre $634,500)",
+      "precioOferta": 589000,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/hunter",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan Hunter",
+      "url": "https://www.changan.mx/models/hunter",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hunter Plus",
+      "url": "https://www.changan.mx/profile/upload/2026/08/25/hunter_1e611724.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hunter Work",
+      "url": "https://www.changan.mx/profile/upload/2026/08/25/hunter-work%20%285%29%20%282%29_92ece687_20f4b768.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hunter Chassis",
+      "url": "https://www.changan.mx/profile/upload/2026/08/25/HUNTER%20CHASSIS_14a24d7e_05d6a879.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha de Hunter Plus muestra también una versión 4x2 MT que no está a la venta en la página del modelo"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "Kicks Play e-POWER",
+  "slug": "kicks-play-e-power",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Advance",
+      "anio": 2026,
+      "precio": 616990,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.2 L 3 cil. + motor eléctrico (e-POWER)",
+      "potenciaHp": 134,
+      "rendimientoCombinadoKmL": 23.3,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kicks-play-e-power.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $496,990 (vigencia 01-oct a 02-nov-2026). Sistema e-POWER: motor de gasolina 1.2 L de 3 cilindros (80 hp) que solo genera electricidad y motor eléctrico de 134 hp que mueve las ruedas; no se conecta a la corriente. Transmisión automática de una sola velocidad. Rendimiento combinado 23.3 km/l (ciudad 24.8, carretera 21.7). Bolsas de aire frontales, laterales y de cortina (el catálogo no da el número). Frenado Inteligente de Emergencia: solo en Platinum según el catálogo."
+    },
+    {
+      "nombre": "Exclusive",
+      "anio": 2026,
+      "precio": 627990,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.2 L 3 cil. + motor eléctrico (e-POWER)",
+      "potenciaHp": 134,
+      "rendimientoCombinadoKmL": 23.3,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kicks-play-e-power.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio CrediNissan: $527,990 (vigencia 01-oct a 02-nov-2026). Sistema e-POWER: motor de gasolina 1.2 L de 3 cilindros (80 hp) que solo genera electricidad y motor eléctrico de 134 hp que mueve las ruedas; no se conecta a la corriente. Transmisión automática de una sola velocidad. Rendimiento combinado 23.3 km/l (ciudad 24.8, carretera 21.7). Bolsas de aire frontales, laterales y de cortina (el catálogo no da el número). Frenado Inteligente de Emergencia: solo en Platinum según el catálogo."
+    },
+    {
+      "nombre": "Platinum",
+      "anio": 2026,
+      "precio": 651990,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.2 L 3 cil. + motor eléctrico (e-POWER)",
+      "potenciaHp": 134,
+      "rendimientoCombinadoKmL": 23.3,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kicks-play-e-power.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio CrediNissan: $551,990 (vigencia 01-oct a 02-nov-2026). Sistema e-POWER: motor de gasolina 1.2 L de 3 cilindros (80 hp) que solo genera electricidad y motor eléctrico de 134 hp que mueve las ruedas; no se conecta a la corriente. Transmisión automática de una sola velocidad. Rendimiento combinado 23.3 km/l (ciudad 24.8, carretera 21.7). Bolsas de aire frontales, laterales y de cortina (el catálogo no da el número). Incluye Frenado Inteligente de Emergencia con Detección de Peatones."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero, más 2 años adicionales en ciertos componentes del sistema e-POWER",
+    "fuente": "Nissan México (sitio oficial, preguntas frecuentes de la página del modelo)",
+    "url": "https://www.nissan.com.mx/vehiculos/todos/kicks-play-e-power.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Precio especial CrediNissan: Advance $496,990; Exclusive $527,990; Platinum $551,990. La página también anuncia hasta 48 MSI + 1 año de seguro gratis.",
+      "precioOferta": 496990,
+      "condicion": "Solo crédito tradicional con NR Finance México, sujeto a aprobación y comportamiento crediticio; no aplica con otras promociones. Sin crédito rige el precio de lista.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kicks-play-e-power.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Nissan Kicks Play e-POWER (página del modelo)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kicks-play-e-power.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Nissan Kicks Play e-POWER: precios y versiones",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kicks-play-e-power/precios-y-versiones.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Kicks Play e-POWER 2026 (catálogo)",
+      "url": "https://www.nissan.com.mx/content/dam/Nissan/mexico/assets/kicks_play_e_power/my26/vlp/catalogos/nissan-2026-kicks_e_power-catalogo.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Número de bolsas de aire no publicado (frontales, laterales y de cortina).",
+    "La versión Advance enlaza al catálogo 2025; se usó el catálogo 2026 de las otras versiones."
+  ]
+}

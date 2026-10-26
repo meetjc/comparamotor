@@ -1,0 +1,117 @@
+{
+  "marca": "GMC",
+  "marcaSlug": "gmc",
+  "modelo": "Acadia",
+  "slug": "acadia",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Denali 2027",
+      "anio": 2027,
+      "precio": 1504500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L 4 cil. turbo",
+      "potenciaHp": 328,
+      "rendimientoCombinadoKmL": 12.6,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/suvs/acadia-suv-7-pasajeros/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Automática de 8 velocidades, tracción AWD. Datos técnicos del catálogo 2026."
+    },
+    {
+      "nombre": "AT4 2026",
+      "anio": 2026,
+      "precio": 1432000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L 4 cil. turbo",
+      "potenciaHp": 328,
+      "rendimientoCombinadoKmL": 12.6,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/suvs/acadia-suv-7-pasajeros/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,312,000 y precio financiado o de arrendamiento $1,332,000 (ver ofertas). Automática de 8 velocidades, tracción AWD. 7 bolsas de aire."
+    },
+    {
+      "nombre": "Denali 2026",
+      "anio": 2026,
+      "precio": 1494000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L 4 cil. turbo",
+      "potenciaHp": 328,
+      "rendimientoCombinadoKmL": 12.6,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/suvs/acadia-suv-7-pasajeros/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,374,000 y precio financiado o de arrendamiento $1,394,000 (ver ofertas). Automática de 8 velocidades, tracción AWD. Incluye alerta y asistencia de colisión frontal."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía original de fábrica)",
+    "fuente": "GMC México (sitio oficial, sección Garantía)",
+    "url": "https://www.gmc.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Acadia AT4 2026: precio de contado $1,312,000 y precio financiado o de arrendamiento $1,332,000 (precio de lista $1,432,000). Promociones publicadas: De contado: ¡Bono de hasta $120,000! Con financiamiento: Bono de hasta $100,000, 24 meses sin intereses, 1 Año de seguro gratis, 0% de comisión por apertura. Con arrendamiento: ¡Bono de hasta $100,000!, 1 Año de seguro gratis, 0% de comisión por apertura, FLEXCLUSIVE, Rentas desde $12,999.",
+      "precioOferta": 1312000,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/acadia/GCACA01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Acadia Denali 2026: precio de contado $1,374,000 y precio financiado o de arrendamiento $1,394,000 (precio de lista $1,494,000). Promociones publicadas: De contado: ¡Bono de hasta $120,000! Con financiamiento: Bono de hasta $100,000, 24 meses sin intereses, 1 Año de seguro gratis, 0% de comisión por apertura. Con arrendamiento: ¡Bono de hasta $100,000!, 1 Año de seguro gratis, 0% de comisión por apertura, FLEXCLUSIVE, Rentas desde $12,999.",
+      "precioOferta": 1374000,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/acadia/GCACA01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "GMC México: precios y promociones Acadia",
+      "url": "https://www.gmc.com.mx/suvs/acadia-suv-7-pasajeros/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "GMC México: tabla de precios Acadia (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/acadia/GCACA01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "GMC México: tabla de precios Acadia (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/acadia/GCACA01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo oficial GMC Acadia 2026",
+      "url": "https://www.gmc.com.mx/content/dam/gmc/na/mx/es/index/crossovers-suvs/2026-acadia/mov/02-pdf/GMC%20Acadia%202026%20Catalogo.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia sin confirmar: el catálogo dice \"alerta y asistencia de colisión frontal\" y solo en Denali.",
+    "Acadia 2027 solo se publica en versión Denali.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer.",
+    "GMC publica catálogos, no fichas técnicas; el PDF guardado es el catálogo oficial."
+  ]
+}

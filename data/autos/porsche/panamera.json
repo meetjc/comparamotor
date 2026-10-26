@@ -1,0 +1,117 @@
+{
+  "marca": "Porsche",
+  "marcaSlug": "porsche",
+  "modelo": "Panamera",
+  "slug": "panamera",
+  "carroceria": "sedan",
+  "segmento": "grande",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Panamera 4 E-Hybrid",
+      "anio": 2027,
+      "precio": 2658000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina híbrido enchufable (E-Hybrid)",
+      "potenciaHp": 470,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/panamera/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Sport Saloon, tracción integral, transmisión automática. Híbrido enchufable; la potencia es la combinada del sistema. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    },
+    {
+      "nombre": "Panamera 4S E-Hybrid",
+      "anio": 2027,
+      "precio": 2968000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina híbrido enchufable (E-Hybrid)",
+      "potenciaHp": 544,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/panamera/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Sport Saloon, tracción integral, transmisión automática. Híbrido enchufable; la potencia es la combinada del sistema. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    },
+    {
+      "nombre": "Panamera GTS",
+      "anio": 2027,
+      "precio": 3348000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina",
+      "potenciaHp": 500,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/panamera/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Sport Saloon, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    },
+    {
+      "nombre": "Panamera Turbo E-Hybrid",
+      "anio": 2027,
+      "precio": 4178000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina híbrido enchufable (E-Hybrid)",
+      "potenciaHp": 680,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/panamera/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Sport Saloon, tracción integral, transmisión automática. Híbrido enchufable; la potencia es la combinada del sistema. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    },
+    {
+      "nombre": "Panamera Turbo S E-Hybrid",
+      "anio": 2027,
+      "precio": 4658000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina híbrido enchufable (E-Hybrid)",
+      "potenciaHp": 782,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/panamera/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Sport Saloon, tracción integral, transmisión automática. Híbrido enchufable; la potencia es la combinada del sistema. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    }
+  ],
+  "garantia": null,
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Porsche México: modelos y precios",
+      "url": "https://www.porsche.com/mexico/models/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Porsche Panamera (página oficial)",
+      "url": "https://www.porsche.com/mexico/models/panamera/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Porsche México publica precio y potencia por versión, pero no rendimiento, autonomía, número de bolsas de aire ni frenado automático en la página de modelos; quedan por confirmar con la ficha de cada versión",
+    "La página no indica si los precios incluyen IVA e ISAN",
+    "Porsche México no publica ficha técnica PDF descargable; no se registró garantía porque no se encontró en el sitio oficial"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "marca": "Chirey",
+  "marcaSlug": "chirey",
+  "modelo": "Tiggo 4 Pro",
+  "slug": "tiggo-4-pro",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Comfort",
+      "anio": 2027,
+      "precio": 402900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L Turbo (1,498 cc)",
+      "potenciaHp": 144,
+      "rendimientoCombinadoKmL": 14.08,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Chirey México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.chirey.mx/autos/ice/tiggo-4-pro-2027/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista $402,900; la página lo muestra tachado y anuncia $392,900 con el bono de $10,000 de octubre. Transmisión CVT. Ficha técnica oficial 2027: motor 1.5 L turbo (1,498 cc), 144 hp @ 5,500 rpm, 154 lb-ft, tracción delantera, gasolina de 91 octanos mínimo. Rendimiento de laboratorio: ciudad 10.87, carretera 17.24, combinado 14.08 km/l (la ficha da un solo valor para ambas transmisiones). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado automático de emergencia ni asistencias de manejo con radar. Pantalla de 10.25\" e instrumentos de 7\"."
+    },
+    {
+      "nombre": "Luxury",
+      "anio": 2027,
+      "precio": 444900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L Turbo (1,498 cc)",
+      "potenciaHp": 144,
+      "rendimientoCombinadoKmL": 14.08,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Chirey México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.chirey.mx/autos/ice/tiggo-4-pro-2027/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista $444,900; la página lo muestra tachado y anuncia $424,900 con el bono de $20,000 de octubre. Transmisión de doble embrague (DCT; la ficha no dice cuántas velocidades). Ficha técnica oficial 2027: motor 1.5 L turbo (1,498 cc), 144 hp @ 5,500 rpm, 154 lb-ft, tracción delantera, gasolina de 91 octanos mínimo. Rendimiento de laboratorio: ciudad 10.87, carretera 17.24, combinado 14.08 km/l (la ficha da un solo valor para ambas transmisiones). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado automático de emergencia ni asistencias de manejo con radar. Pantalla dual de 20.5\", cargador inalámbrico de 50 W, asiento del conductor eléctrico."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica 150,000 km o 60 meses; motor 1,000,000 km o 120 meses (garantía ConTiggo, con condiciones de la póliza); pintura y perforación por corrosión 150,000 km o 60 meses; refacciones y accesorios 30,000 km o 12 meses (lo que ocurra primero)",
+    "fuente": "Chirey México (sitio oficial)",
+    "url": "https://www.chirey.mx/cobertura-de-garantia/"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Tiggo 4 Pro Comfort 2027: bono de $10,000 (precio con bono $392,900) más tasa de 12.09%",
+      "precioOferta": 392900,
+      "condicion": "Financiamiento con Autoexpress Inbursa, sujeto a aprobación de crédito; comisión por apertura 2.0% sin IVA; el bono incluye IVA y lo otorga la marca; vigencia del 1 al 31 de octubre de 2026. Tasa fija 12.09% sin IVA a 72 meses, enganche mínimo 30%, CAT promedio 22.1% sin IVA (calculado al 29-sep-2026).",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Chirey México (sitio oficial, página de promociones) / Autoexpress Inbursa",
+      "url": "https://www.chirey.mx/promociones/",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Tiggo 4 Pro Luxury 2027: bono de $20,000 (precio con bono $424,900) más tasa de 12.09%",
+      "precioOferta": 424900,
+      "condicion": "Financiamiento con Autoexpress Inbursa, sujeto a aprobación de crédito; comisión por apertura 2.0% sin IVA; el bono incluye IVA y lo otorga la marca; vigencia del 1 al 31 de octubre de 2026. Tasa fija 12.09% sin IVA a 72 meses, enganche mínimo 30%, CAT promedio 22.9% sin IVA (calculado al 29-sep-2026).",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Chirey México (sitio oficial, página de promociones) / Autoexpress Inbursa",
+      "url": "https://www.chirey.mx/promociones/",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chirey México: Tiggo 4 Pro 2027",
+      "url": "https://www.chirey.mx/autos/ice/tiggo-4-pro-2027/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Tiggo 4 Pro 2027",
+      "url": "https://d16b8fnjzv0ami.cloudfront.net/media/tech_files/2026/08/07/TIGGO_4_FT.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chirey México: promociones",
+      "url": "https://www.chirey.mx/promociones/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chirey México: cobertura de garantía",
+      "url": "https://www.chirey.mx/cobertura-de-garantia/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La página de promociones también ofrece Tiggo 4 Pro 2026 (Comfort desde $402,900 con mensualidades de $5,899; Luxury desde $444,900 con bono de $40,000 o 24 MSI). No tiene página de modelo propia ni ficha 2026, así que no se capturó como versión aparte",
+    "Número de velocidades de la DCT de la versión Luxury: la ficha solo dice \"DCT\""
+  ]
+}

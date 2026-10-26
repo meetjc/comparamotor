@@ -1,0 +1,66 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "Frontier V6 PRO-4X",
+  "slug": "frontier-v6-pro-4x",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "PRO-4X",
+      "anio": 2026,
+      "precio": 1071900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.8 L V6",
+      "potenciaHp": 310,
+      "rendimientoCombinadoKmL": 9.9,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/frontier-v6-pro-4x.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $889,900 (vigencia 01-oct a 02-nov-2026). Automática de 9 velocidades, 4x4 con selector de tracción y bloqueo de diferencial. Rendimiento combinado 9.9 km/l (ciudad 8.4, carretera 12.8). 8 bolsas de aire (frontales, de rodilla, laterales y de cortina). Frenado Inteligente de Emergencia con Detección de Peatones y frenado autónomo en reversa incluidos."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía de fábrica; requiere servicios cada 6 meses o 10,000 km)",
+    "fuente": "Nissan México (Portal de Clientes oficial, artículo del 28-mar-2025)",
+    "url": "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Precio especial CrediNissan $889,900 en Frontier V6 PRO-4X 2026.",
+      "precioOferta": 889900,
+      "condicion": "Solo crédito tradicional con NR Finance México, sujeto a aprobación y comportamiento crediticio; no aplica con otras promociones. Sin crédito rige el precio de lista. Precio modelo incluye accesorio original Nissan.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/frontier-v6-pro-4x.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Nissan Frontier V6 PRO-4X (página del modelo)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/frontier-v6-pro-4x.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Nissan Frontier V6 PRO-4X: versiones",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/frontier-v6-pro-4x/versiones.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Frontier V6 PRO-4X 2026 (catálogo)",
+      "url": "https://www.nissan.com.mx/content/dam/Nissan/mexico/assets/frontier_usa/my26/vlp/catalogos/nissan-2026-frontier_v6-catalogo.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Es un modelo distinto de la Frontier (2.5 L) de data/autos/nissan/frontier.json, cuya versión 'PRO-4X 4X4 TA' es otra camioneta."
+  ]
+}

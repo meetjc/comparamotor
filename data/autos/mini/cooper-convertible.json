@@ -1,0 +1,91 @@
+{
+  "marca": "MINI",
+  "marcaSlug": "mini",
+  "modelo": "Cooper Convertible",
+  "slug": "cooper-convertible",
+  "carroceria": "coupe",
+  "segmento": "subcompacto",
+  "origenMarca": "britanica",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "C",
+      "anio": 2026,
+      "precio": 802000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. turbo",
+      "potenciaHp": 163,
+      "rendimientoCombinadoKmL": 17.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Convertible. Automática de 7 velocidades, tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    },
+    {
+      "nombre": "S",
+      "anio": 2026,
+      "precio": 868000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo",
+      "potenciaHp": 204,
+      "rendimientoCombinadoKmL": 17.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Convertible. Automática de 7 velocidades, tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    },
+    {
+      "nombre": "John Cooper Works Convertible",
+      "anio": 2026,
+      "precio": 974000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo",
+      "potenciaHp": 231,
+      "rendimientoCombinadoKmL": 16.4,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Convertible. Automática de 7 velocidades, tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía MINI por 3 años o 200,000 km (lo que ocurra primero); en versiones eléctricas, la batería de alto voltaje tiene 8 años o 160,000 km",
+    "fuente": "MINI México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mini.com.mx/es_MX/home/local/ft/ft-2/fichas-tecnicas-modelos-mini.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios MINI México",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "MINI Cooper Convertible (página oficial)",
+      "url": "https://www.mini.com.mx/es_MX/home/range/mini-cooper-convertible.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MINI Cooper Convertible (convertible) 2026",
+      "url": "https://www.mini.com.mx/content/dam/MINI/marketMX/mini_com_mx/FT/ft_2026/octubre/Ficha_Tecnica_DIGITAL_Importadores_MINICooper_Convertible_2026.pdf.asset.1761255293431.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Los precios de las fichas técnicas son anteriores a la lista de precios vigente; se usó la lista: C (ficha $799,000, lista $802,000); S (ficha $855,000, lista $868,000); John Cooper Works Convertible (ficha $955,000, lista $974,000)",
+    "Las fichas de MINI describen un Driving Assistant (alerta de cambio de carril, tráfico cruzado, prevención de colisión trasera) pero no confirman frenado automático de emergencia frontal"
+  ]
+}

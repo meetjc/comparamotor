@@ -1,0 +1,93 @@
+{
+  "marca": "GMC",
+  "marcaSlug": "gmc",
+  "modelo": "Canyon",
+  "slug": "canyon",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Denali",
+      "anio": 2026,
+      "precio": 1328000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.7 L 4 cil. turbo",
+      "potenciaHp": 310,
+      "rendimientoCombinadoKmL": 10.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/pickups/canyon-pickup-premium/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,258,000 y precio financiado o de arrendamiento $1,258,000 (ver ofertas). Automática de 8 velocidades, tracción 4x4. Frenado automático de emergencia según el catálogo."
+    },
+    {
+      "nombre": "AT4X",
+      "anio": 2026,
+      "precio": 1378000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.7 L 4 cil. turbo",
+      "potenciaHp": 310,
+      "rendimientoCombinadoKmL": 10.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/pickups/canyon-pickup-premium/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,258,000 y precio financiado o de arrendamiento $1,258,000 (ver ofertas). Automática de 8 velocidades, tracción 4x4, paquete de chasis todoterreno."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía original de fábrica)",
+    "fuente": "GMC México (sitio oficial, sección Garantía)",
+    "url": "https://www.gmc.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Canyon Denali: precio de contado $1,258,000 y precio financiado o de arrendamiento $1,258,000 (precio de lista $1,328,000). Promociones publicadas: De contado: Bono de $70 mil pesos para la versión Denali, Bono de $120 mil pesos para la versión AT4X, 1 Año de Seguro Gratis en Denali y AT4X. Con financiamiento: 12 Meses Sin Intereses, Bono de $70 mil pesos para la versión Denali, Bono de $100 mil pesos para la versión AT4X, 1 año de seguro gratis, 0% de comisión por apertura. Con arrendamiento: Bono de $70 mil pesos para la versión Denali, Bono de $100 mil pesos para la versión AT4X, 1 Año de Seguro Gratis en Denali y AT4X, 0% de comisión por apertura.",
+      "precioOferta": 1258000,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/canyon/GCCAN01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Canyon AT4X: precio de contado $1,258,000 y precio financiado o de arrendamiento $1,258,000 (precio de lista $1,378,000). Promociones publicadas: De contado: Bono de $70 mil pesos para la versión Denali, Bono de $120 mil pesos para la versión AT4X, 1 Año de Seguro Gratis en Denali y AT4X. Con financiamiento: 12 Meses Sin Intereses, Bono de $70 mil pesos para la versión Denali, Bono de $100 mil pesos para la versión AT4X, 1 año de seguro gratis, 0% de comisión por apertura. Con arrendamiento: Bono de $70 mil pesos para la versión Denali, Bono de $100 mil pesos para la versión AT4X, 1 Año de Seguro Gratis en Denali y AT4X, 0% de comisión por apertura.",
+      "precioOferta": 1258000,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/canyon/GCCAN01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "GMC México: precios y promociones Canyon",
+      "url": "https://www.gmc.com.mx/pickups/canyon-pickup-premium/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "GMC México: tabla de precios Canyon (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/canyon/GCCAN01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo oficial GMC Canyon 2026",
+      "url": "https://www.gmc.com.mx/content/dam/gmc/na/mx/es/index/trucks/2026-canyon/mov/02-pdf/catalogo-canyon-2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer.",
+    "GMC publica catálogos, no fichas técnicas; el PDF guardado es el catálogo oficial."
+  ]
+}

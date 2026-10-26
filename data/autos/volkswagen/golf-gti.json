@@ -1,0 +1,71 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "Golf GTI",
+  "slug": "golf-gti",
+  "carroceria": "hatchback",
+  "segmento": "deportivo",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GTI",
+      "anio": 2026,
+      "precio": 857990,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 261,
+      "rendimientoCombinadoKmL": 15.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/golf-gti.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales y de cortina). Caja DSG de doble embrague y 7 velocidades, tracción delantera. Freno autónomo de emergencia con detección de peatones y ciclistas. Precio de lista con IVA e ISAN según el configurador de VW."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años de garantía defensa a defensa o hasta 100,000 km (Protección VW; incluye seguro de robo de autopartes, asistencia vial y protección de llantas)",
+    "fuente": "Volkswagen de México (sitio oficial, página del modelo)",
+    "url": "https://www.vw.com.mx/es/autos-suvs/golf-gti.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "GTI 2026: 'Llévatelo desde $799,990' (precio financiado vía Volkswagen Leasing), o bono de $58,000, o seguro gratis + 0% de comisión por apertura",
+      "precioOferta": 799990,
+      "condicion": "Precio financiado para plazos desde 24 meses en productos Credit de Volkswagen Leasing. El bono incluye IVA y se aplica solo como descuento al precio de lista o como subvención a la tasa. Seguro de cobertura amplia gratis el primer año. Solo unidades nuevas; no acumulable; sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Volkswagen de México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.vw.com.mx/es/promociones/gti.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Golf GTI 2026 (página del modelo)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/golf-gti.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador VW: GTI",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/golf-gti.app",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial GTI 2026",
+      "url": "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2026/vw-ficha-tecnica-gti-2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción GTI (VW México)",
+      "url": "https://www.vw.com.mx/es/promociones/gti.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "VW México lo vende como 'GTI 2026' con una sola versión"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Express Max",
+  "slug": "express-max",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "estadounidense",
+  "propulsion": "diesel",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Express Max diésel",
+      "anio": 2026,
+      "precio": 787700,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L turbodiésel",
+      "potenciaHp": 167,
+      "rendimientoCombinadoKmL": 13.61,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vans-camiones/express-max-diesel/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $737,700 y precio financiado o de arrendamiento $737,700 (ver ofertas). Manual de 6 velocidades. 2 bolsas de aire (conductor y pasajero). La ficha no incluye frenado autónomo."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Express Max Express Max diésel: precio de contado $737,700 y precio financiado o de arrendamiento $737,700 (precio de lista $787,700). Promociones publicadas: De contado: Bono de $50,000. Con financiamiento: Bono de $50,000.",
+      "precioOferta": 737700,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/express-max/CHEXP03/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Express Max",
+      "url": "https://www.chevrolet.com.mx/vans-camiones/express-max-diesel/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Express Max (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/express-max/CHEXP03/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Express Max",
+      "url": "https://www.chevrolet.com.mx/vans-camiones/express-max-diesel/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Express Max 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/vans-and-trucks/2026-express-max/mov/02-pdf/2026-Express-Max-Ficha-Tecnica.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Express Max EV (eléctrica) es otro modelo: ver express-max-ev.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

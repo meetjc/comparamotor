@@ -1,0 +1,79 @@
+{
+  "marca": "Mercedes-Benz",
+  "marcaSlug": "mercedes-benz",
+  "modelo": "CLE Coupé",
+  "slug": "cle",
+  "carroceria": "coupe",
+  "segmento": "deportivo",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "CLE 300 4MATIC",
+      "anio": 2027,
+      "precio": 1344900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo",
+      "potenciaHp": 258,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Tracción integral 4MATIC. 8 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 190 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    },
+    {
+      "nombre": "Mercedes-AMG CLE 53 4MATIC+",
+      "anio": 2027,
+      "precio": 1929000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6 cil. 3.0 L turbo",
+      "potenciaHp": 449,
+      "rendimientoCombinadoKmL": 12.78,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "AMG SPEEDSHIFT TCT 9G, 4MATIC+. 8 bolsas de aire (ficha). La ficha no confirma frenado automático de emergencia. Potencia convertida de 330 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de 3 años sin límite de kilometraje y 4 servicios de mantenimiento incluidos (según fichas técnicas oficiales; consultar términos con el distribuidor)",
+    "fuente": "Mercedes-Benz México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mercedes-benz.com.mx/es/passengercars/cars-guide/brochures-download.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador y precios Mercedes-Benz México",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Mercedes-Benz CLE Coupé (página oficial)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/models/coupe/cle/overview.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial CLE 300 4MATIC (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-benz/cle/300-4matic/CLE-300-4MATIC.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Mercedes-AMG CLE 53 4MATIC+ (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-amg/cle/53-4matic/Mercedes-AMG-CLE-53-4MATIC.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Precios del configurador oficial al 25 de octubre de 2026; las fichas técnicas PDF tienen precios anteriores y algunas son de un año modelo previo, por lo que solo se usaron para datos técnicos de la misma versión",
+    "El configurador da la potencia en kW; los hp se calcularon con el factor de Mercedes-Benz (1 kW = 1.36 hp), que coincide con las fichas"
+  ]
+}

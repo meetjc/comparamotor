@@ -1,0 +1,73 @@
+{
+  "marca": "MINI",
+  "marcaSlug": "mini",
+  "modelo": "Cooper 5 Puertas",
+  "slug": "cooper-5-puertas",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "britanica",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "C",
+      "anio": 2026,
+      "precio": 723000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3 cil. 1.5 L turbo",
+      "potenciaHp": 156,
+      "rendimientoCombinadoKmL": 19.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 7 velocidades, tracción delantera. Ficha técnica 2026. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    },
+    {
+      "nombre": "S",
+      "anio": 2026,
+      "precio": 793000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo",
+      "potenciaHp": 204,
+      "rendimientoCombinadoKmL": 18.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 7 velocidades, tracción delantera. Ficha técnica 2026. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía MINI por 3 años o 200,000 km (lo que ocurra primero); en versiones eléctricas, la batería de alto voltaje tiene 8 años o 160,000 km",
+    "fuente": "MINI México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mini.com.mx/es_MX/home/local/ft/ft-2/fichas-tecnicas-modelos-mini.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios MINI México",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "MINI Cooper 5 Puertas (página oficial)",
+      "url": "https://www.mini.com.mx/es_MX/home/range/mini-cooper-5-door.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MINI Cooper 5 Puertas (cooper 5 puertas) 2026",
+      "url": "https://www.mini.com.mx/content/dam/MINI/marketMX/mini_com_mx/FT/ft_2026/octubre/FichaTecnica_F65_MINICooper_5Ptas_DIGITAL.pdf.asset.1761255304908.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de MINI describen un Driving Assistant (alerta de cambio de carril, tráfico cruzado, prevención de colisión trasera) pero no confirman frenado automático de emergencia frontal"
+  ]
+}

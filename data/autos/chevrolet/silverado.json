@@ -1,0 +1,124 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Silverado",
+  "slug": "silverado",
+  "carroceria": "pickup",
+  "segmento": "pickup-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Cabina Regular 4x2 5.3L",
+      "anio": 2026,
+      "precio": 999500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "5.3 L V8",
+      "potenciaHp": 355,
+      "rendimientoCombinadoKmL": 10.4,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/silverado-turbo-camioneta-de-trabajo/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $828,500 y precio financiado o de arrendamiento $828,500 (ver ofertas). La página de equipamiento dice automática de 8 velocidades y la ficha técnica de 10. La ficha solo lista alerta de colisión frontal."
+    },
+    {
+      "nombre": "Cabina Regular 4x4 5.3L",
+      "anio": 2026,
+      "precio": 1058200,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "5.3 L V8",
+      "potenciaHp": 355,
+      "rendimientoCombinadoKmL": 10.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/silverado-turbo-camioneta-de-trabajo/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $887,200 y precio financiado o de arrendamiento $887,200 (ver ofertas). La página de equipamiento dice automática de 8 velocidades y la ficha técnica de 10. Tracción 4x4."
+    },
+    {
+      "nombre": "Custom Doble Cabina 4x4 5.3L",
+      "anio": 2026,
+      "precio": 1221300,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "5.3 L V8",
+      "potenciaHp": 355,
+      "rendimientoCombinadoKmL": 10.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/silverado-turbo-camioneta-de-trabajo/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,008,300 y precio financiado o de arrendamiento $971,300 (ver ofertas). Automática de 10 velocidades, tracción 4x4, espacio para 6 pasajeros."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Silverado Cabina Regular 4x2 5.3L: precio de contado $828,500 y precio financiado o de arrendamiento $828,500 (precio de lista $999,500). Promociones publicadas: De contado: Bono de hasta $155,000, Año de seguro ¡Gratis!, Precio desde $1,008,300. Con financiamiento: Bono de hasta $198,000, 1 Año de seguro ¡Gratis!, Bono de $250,000.",
+      "precioOferta": 828500,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/silverado/CHSIL01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Silverado Cabina Regular 4x4 5.3L: precio de contado $887,200 y precio financiado o de arrendamiento $887,200 (precio de lista $1,058,200). Promociones publicadas: De contado: Bono de hasta $155,000, Año de seguro ¡Gratis!, Precio desde $1,008,300. Con financiamiento: Bono de hasta $198,000, 1 Año de seguro ¡Gratis!, Bono de $250,000.",
+      "precioOferta": 887200,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/silverado/CHSIL01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Silverado Custom Doble Cabina 4x4 5.3L: precio de contado $1,008,300 y precio financiado o de arrendamiento $971,300 (precio de lista $1,221,300). Promociones publicadas: De contado: Bono de hasta $155,000, Año de seguro ¡Gratis!, Precio desde $1,008,300. Con financiamiento: Bono de hasta $198,000, 1 Año de seguro ¡Gratis!, Bono de $250,000.",
+      "precioOferta": 971300,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/silverado/CHSIL01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Silverado",
+      "url": "https://www.chevrolet.com.mx/pickups/silverado-turbo-camioneta-de-trabajo/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Silverado (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/silverado/CHSIL01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Silverado",
+      "url": "https://www.chevrolet.com.mx/pickups/silverado-turbo-camioneta-de-trabajo/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Silverado 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2026-silverado/mov/02-pdf/Ficha-Tecnica-Silverado-2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Velocidades de la transmisión en Cabina Regular: 8 según la página de equipamiento, 10 según la ficha técnica.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

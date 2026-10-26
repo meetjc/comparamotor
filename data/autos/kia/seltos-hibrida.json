@@ -1,0 +1,79 @@
+{
+  "marca": "Kia",
+  "marcaSlug": "kia",
+  "modelo": "Seltos Híbrida",
+  "slug": "seltos-hibrida",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "coreana",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "SXL",
+      "anio": 2027,
+      "precio": 649900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.6 L 4 cil. GDI + motor eléctrico (híbrido)",
+      "potenciaHp": 154,
+      "rendimientoCombinadoKmL": 25.11,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/seltos-hibrida/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada del sistema híbrido: 154 hp. Doble embrague de 6 velocidades, tracción delantera. 7 bolsas de aire (frontales, laterales, de cortina y central). Incluye asistente de evasión de colisión frontal y de giro. Rines de 18 pulgadas."
+    },
+    {
+      "nombre": "X-Line",
+      "anio": 2027,
+      "precio": 704900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.6 L 4 cil. GDI + motor eléctrico (híbrido)",
+      "potenciaHp": 154,
+      "rendimientoCombinadoKmL": 25.11,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/seltos-hibrida/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada del sistema híbrido: 154 hp. Doble embrague de 6 velocidades, tracción delantera. 7 bolsas de aire (frontales, laterales, de cortina y central). Incluye asistente de evasión de colisión frontal y de giro. Rines de 19 pulgadas."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica (defensa a defensa) 5 años o 100,000 km; tren motriz 7 años o 150,000 km (lo que ocurra primero); batería del sistema híbrido hasta 84 meses o 150,000 km",
+    "fuente": "Kia México (sitio oficial, página de garantía)",
+    "url": "https://www.kia.com/mx/owners/warranty-recalls.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Precios y especificaciones Kia Seltos Híbrida 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/seltos-hibrida/specification.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Kia Seltos Híbrida 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/seltos-hibrida.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial (catálogo) Kia Seltos Híbrida 2027",
+      "url": "https://www.kia.com/content/dam/kwcms/mx/es/pdf/brochures/Kia-Seltos-HEV-MY27_Brochure_WEB.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Kia México",
+      "url": "https://www.kia.com/mx/owners/warranty-recalls.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo: se tomó el Asistente de evasión de colisión frontal (FCA) de la tabla oficial.",
+    "Kia México no publica una promoción vigente para el Seltos Híbrida (octubre 2026)"
+  ]
+}

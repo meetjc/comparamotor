@@ -1,0 +1,109 @@
+{
+  "marca": "Volvo",
+  "marcaSlug": "volvo",
+  "modelo": "EX30",
+  "slug": "ex30",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "sueca",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Core",
+      "anio": 2026,
+      "precio": 749900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor (Single Motor)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 265,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/ex30-electric/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Single Motor, tracción trasera, batería de 51 kWh, hasta 265 km (FTP-75). El tren motriz se asignó porque el precio coincide con el «desde» del Single Motor en especificaciones. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). Prevención y mitigación de colisiones con frenado (especificaciones). Precio con impuestos incluidos según Volvo."
+    },
+    {
+      "nombre": "Plus",
+      "anio": 2026,
+      "precio": 847900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor (Single Motor Extended Range)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 366,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/ex30-electric/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Single Motor Extended Range, batería de 69 kWh, hasta 366 km (FTP-75). El tren motriz se asignó porque el precio coincide con el «desde» del Extended Range en especificaciones. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). Prevención y mitigación de colisiones con frenado (especificaciones). Precio con impuestos incluidos según Volvo."
+    },
+    {
+      "nombre": "Ultra",
+      "anio": 2026,
+      "precio": 904900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/ex30-electric/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Volvo no indica el tren motriz de esta versión; por precio es de un motor (272 hp), sin confirmar si es de autonomía estándar (265 km) o extendida (366 km). Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). Prevención y mitigación de colisiones con frenado (especificaciones). Precio con impuestos incluidos según Volvo."
+    },
+    {
+      "nombre": "Cross Country",
+      "anio": 2026,
+      "precio": 943900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, dos motores (Twin Motor Performance)",
+      "potenciaHp": 428,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 366,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/ex30-electric/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición Cross Country con altura elevada. Twin Motor Performance, tracción integral, hasta 366 km (FTP-75); su precio coincide con el «desde» del Twin Motor Performance. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). Prevención y mitigación de colisiones con frenado (especificaciones). Precio con impuestos incluidos según Volvo."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de defensa a defensa por 3 años o hasta 100,000 km (lo que suceda primero)",
+    "fuente": "Volvo Car México (sitio oficial: garantía)",
+    "url": "https://www.volvocars.com/mx/l/mantenimiento/garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Volvo EX30 (página oficial)",
+      "url": "https://www.volvocars.com/mx/cars/ex30-electric/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Volvo EX30: especificaciones oficiales",
+      "url": "https://www.volvocars.com/mx/cars/ex30-electric/specifications/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Volvo México",
+      "url": "https://www.volvocars.com/mx/l/mantenimiento/garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Volvo no publica qué tren motriz lleva cada nivel de equipamiento del EX30; se asignó por coincidencia de precio con los «desde» de la página de especificaciones; la autonomía de la versión Ultra queda por confirmar",
+    "Volvo México no publica ficha técnica PDF descargable; los datos salen de la página del modelo y de su página de especificaciones (cifras preliminares según Volvo)",
+    "Volvo no da el número total de bolsas de aire, solo su tipo"
+  ]
+}

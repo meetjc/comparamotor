@@ -1,0 +1,58 @@
+{
+  "marca": "Dodge",
+  "marcaSlug": "dodge",
+  "modelo": "Durango",
+  "slug": "durango",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "6.2L V8 Hellcat SRT",
+      "anio": 2027,
+      "precio": 2299900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.2 L V8 HEMI supercargado",
+      "potenciaHp": 710,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Dodge México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.dodge.com/mx/buzz-model/durango/hellcat.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades. 0 a 100 km/h en 3.5 s según la marca. Bolsas frontales, laterales, de cortina y de rodilla para conductor (sin total). Potencia de la ficha de la edición Hellcat Redline 2027. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Dodge México (sitio oficial, página de garantía)",
+    "url": "https://www.dodge.com/mx/posventa/garantia.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Dodge Durango SRT Hellcat",
+      "url": "https://www.dodge.com/mx/buzz-model/durango/hellcat.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Dodge",
+      "url": "https://www.dodge.com/hostb/fiat_mx/JSONConversion/dodge/dodge-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Dodge Durango Hellcat Redline 2027",
+      "url": "https://www.dodge.com/content/dam/cross-regional/nafta/dodge/es_mx/archivos-descargables/durango/FT_DURANGO_REDLINE_2027.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Solo se vende la versión SRT Hellcat; la 2026 sigue en la lista a $2,179,900",
+    "Las fichas son de ediciones especiales (Redline 2027; Red Fury, Road Predator y Black Demon 2026); confirmar si el precio corresponde a una de ellas",
+    "Frenado autónomo, rendimiento y total de bolsas: no publicados en la ficha"
+  ]
+}

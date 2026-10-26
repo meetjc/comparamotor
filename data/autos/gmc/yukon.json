@@ -1,0 +1,93 @@
+{
+  "marca": "GMC",
+  "marcaSlug": "gmc",
+  "modelo": "Yukon",
+  "slug": "yukon",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Denali",
+      "anio": 2026,
+      "precio": 2374500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.2 L V8",
+      "potenciaHp": 420,
+      "rendimientoCombinadoKmL": 8.7,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/suvs/yukon-suv-grande/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $2,194,500 y precio financiado o de arrendamiento $2,194,500 (ver ofertas). Automática de 10 velocidades. Frenado automático de emergencia según el catálogo."
+    },
+    {
+      "nombre": "Denali XL",
+      "anio": 2026,
+      "precio": 2465500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.2 L V8",
+      "potenciaHp": 420,
+      "rendimientoCombinadoKmL": 8.7,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/suvs/yukon-suv-grande/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $2,265,500 y precio financiado o de arrendamiento $2,265,500 (ver ofertas). Versión de carrocería larga. Automática de 10 velocidades."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía original de fábrica)",
+    "fuente": "GMC México (sitio oficial, sección Garantía)",
+    "url": "https://www.gmc.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Yukon Denali: precio de contado $2,194,500 y precio financiado o de arrendamiento $2,194,500 (precio de lista $2,374,500). Promociones publicadas: De contado: Bonos de hasta $180,000 MXN en Yukon SUV, Bono de hasta $200 mil pesos en Yukon XL. Con financiamiento: Bonos de hasta $180,000 MXN en Yukon SUV, Bono de hasta $200 mil pesos en Yukon XL. Con arrendamiento: Bonos de hasta $180,000 MXN en Yukon SUV, Bonos de hasta $200,000 MXN en Yukon XL.",
+      "precioOferta": 2194500,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/yukon/GCYUK01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Yukon Denali XL: precio de contado $2,265,500 y precio financiado o de arrendamiento $2,265,500 (precio de lista $2,465,500). Promociones publicadas: De contado: Bonos de hasta $180,000 MXN en Yukon SUV, Bono de hasta $200 mil pesos en Yukon XL. Con financiamiento: Bonos de hasta $180,000 MXN en Yukon SUV, Bono de hasta $200 mil pesos en Yukon XL. Con arrendamiento: Bonos de hasta $180,000 MXN en Yukon SUV, Bonos de hasta $200,000 MXN en Yukon XL.",
+      "precioOferta": 2265500,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/yukon/GCYUK01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "GMC México: precios y promociones Yukon",
+      "url": "https://www.gmc.com.mx/suvs/yukon-suv-grande/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "GMC México: tabla de precios Yukon (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/yukon/GCYUK01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo oficial GMC Yukon 2026",
+      "url": "https://www.gmc.com.mx/content/dam/gmc/na/mx/es/index/crossovers-suvs/2026-yukon/mov/02-pdf/catalogo-yukon-2026-v2.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer.",
+    "GMC publica catálogos, no fichas técnicas; el PDF guardado es el catálogo oficial."
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "Hunter E",
+  "slug": "hunter-e",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "4x4 Luxury",
+      "anio": 2025,
+      "precio": 819900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "Rango extendido: 2.0 L turbo (181 hp, funciona como generador) + dos motores eléctricos (268 hp en conjunto); batería LFP de 31.18 kWh",
+      "potenciaHp": 268,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 131,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/hunter-e",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2025. Potencia eléctrica total 268 hp y 346 lb-ft, tracción 4x4 con diferencial bloqueable, carga de 900 kg y arrastre de 2,500 kg. Autonomía eléctrica 131 km y combinada 1,031 km (NEDC). Rendimiento de combustible de la ficha: ciudad 16.8, carretera 14.9 y combinado 15.9 km/l. 4 bolsas de aire (frontales y laterales) según la ficha; la página del modelo dice 6. Sin frenado autónomo de emergencia (solo alerta de salida de carril). Incluye cargador de casa. Rendimiento combinado oficial de 15.9 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "4x4 Premium",
+      "anio": 2026,
+      "precio": 899900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "Rango extendido: 2.0 L turbo (181 hp, funciona como generador) + dos motores eléctricos (268 hp en conjunto); batería LFP de 31.18 kWh",
+      "potenciaHp": 268,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 131,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/hunter-e",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2026. La página del modelo lista el mismo equipo que Luxury (268 hp eléctricos, 4x4, autonomía eléctrica 131 km y combinada 1,031 km); la ficha publicada es la de Luxury, por lo que rendimiento, bolsas de aire y frenado autónomo de Premium quedan por confirmar. Incluye cargador de casa."
+    }
+  ],
+  "garantia": {
+    "texto": "Esquema para vehículos eléctricos: batería de alto voltaje 8 años o 200,000 km; defensa a defensa 6 años o 150,000 km; tren motriz 8 años o 150,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Hunter E 4x4 Luxury 2025: precio con bono de $749,900 (bono de $50,000 sobre $819,900)",
+      "precioOferta": 749900,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/hunter-e",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Hunter E 4x4 Premium 2026: precio con bono de $799,900 (bono de $69,100 sobre $899,900)",
+      "precioOferta": 799900,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/hunter-e",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan Hunter E",
+      "url": "https://www.changan.mx/models/hunter-e",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hunter E Luxury 2026",
+      "url": "https://www.changan.mx/file/manual/hunter-e-luxury-2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Es un híbrido de rango extendido (REEV): el motor de gasolina recarga la batería y las ruedas las mueven los motores eléctricos; se clasificó como híbrido enchufable",
+    "La ficha publicada es \"Luxury 2026\" pero el sitio vende Luxury 2025 y Premium 2026; falta ficha de Premium",
+    "Bolsas de aire: la ficha de Luxury marca 4 y la página dice 6",
+    "Garantía: la página de Changan publica un esquema para \"vehículos de gasolina\" y otro para \"vehículos eléctricos\"; no aclara cuál aplica a los híbridos enchufables y de rango extendido. Se registró el esquema eléctrico, por confirmar"
+  ]
+}

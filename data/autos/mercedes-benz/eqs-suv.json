@@ -1,0 +1,58 @@
+{
+  "marca": "Mercedes-Benz",
+  "marcaSlug": "mercedes-benz",
+  "modelo": "EQS SUV",
+  "slug": "eqs-suv",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "alemana",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "EQS 450 4MATIC SUV",
+      "anio": 2027,
+      "precio": 2450000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, dos motores",
+      "potenciaHp": 360,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 692,
+      "bolsasAire": 10,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Batería de 118 kWh útiles, hasta 692 km (ficha 2026), tracción integral. 10 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 265 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de 3 años sin límite de kilometraje y 4 servicios de mantenimiento incluidos (según fichas técnicas oficiales; consultar términos con el distribuidor)",
+    "fuente": "Mercedes-Benz México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mercedes-benz.com.mx/es/passengercars/cars-guide/brochures-download.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador y precios Mercedes-Benz México",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Mercedes-Benz EQS SUV (página oficial)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/models/suv/eqs/overview.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial EQS 450 4MATIC SUV (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-benz/eqs/450-suv/EQS-450-4MATIC-SUV.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Los sedanes EQE y EQS y los SUV EQA, EQB y EQE tienen ficha descargable (2024-2025) pero no aparecen en el configurador vigente",
+    "Precios del configurador oficial al 25 de octubre de 2026; las fichas técnicas PDF tienen precios anteriores y algunas son de un año modelo previo, por lo que solo se usaron para datos técnicos de la misma versión",
+    "El configurador da la potencia en kW; los hp se calcularon con el factor de Mercedes-Benz (1 kW = 1.36 hp), que coincide con las fichas"
+  ]
+}

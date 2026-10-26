@@ -1,0 +1,71 @@
+{
+  "marca": "Mercedes-Benz",
+  "marcaSlug": "mercedes-benz",
+  "modelo": "CLA",
+  "slug": "cla",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "CLA 200 HEV",
+      "anio": 2027,
+      "precio": 955900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. turbo híbrido (HEV)",
+      "potenciaHp": 163,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Nueva generación. Mercedes la identifica como HEV (híbrido); el configurador la clasifica como gasolina, automática. No hay ficha técnica descargable de esta generación. Potencia convertida de 120 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    },
+    {
+      "nombre": "CLA 200 BEV",
+      "anio": 2027,
+      "precio": 1049000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico",
+      "potenciaHp": 224,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Versión 100% eléctrica, batería de 58 kWh útiles. No hay ficha técnica descargable ni autonomía publicada en el configurador. Potencia convertida de 165 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de 3 años sin límite de kilometraje y 4 servicios de mantenimiento incluidos (según fichas técnicas oficiales; consultar términos con el distribuidor)",
+    "fuente": "Mercedes-Benz México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mercedes-benz.com.mx/es/passengercars/cars-guide/brochures-download.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador y precios Mercedes-Benz México",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Mercedes-Benz CLA (página oficial)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/models/saloon/cla/overview.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El CLA vigente es la nueva generación (gasolina HEV y eléctrico); las fichas técnicas descargables del sitio son de la generación anterior (CLA 200 MH y AMG CLA 35/45), que ya no aparecen en el configurador",
+    "Falta la autonomía oficial del CLA 200 BEV y el rendimiento del CLA 200 HEV",
+    "Precios del configurador oficial al 25 de octubre de 2026; las fichas técnicas PDF tienen precios anteriores y algunas son de un año modelo previo, por lo que solo se usaron para datos técnicos de la misma versión",
+    "El configurador da la potencia en kW; los hp se calcularon con el factor de Mercedes-Benz (1 kW = 1.36 hp), que coincide con las fichas"
+  ]
+}

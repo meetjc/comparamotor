@@ -1,0 +1,29 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "Coolray",
+  "slug": "coolray",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [],
+  "garantia": {
+    "texto": null,
+    "fuente": "No aplica: el modelo ya no se vende en el sitio oficial de Geely México",
+    "url": "https://www.geelymexico.com/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Geely México (sitio oficial)",
+      "url": "https://www.geelymexico.com/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Coolray (sin \"Plus\") ya no se vende en México según el sitio oficial: Geely lo marca como descontinuado y su página redirige a Coolray Plus. Ver data/autos/geely/coolray-plus.json y coolray-lite.json",
+    "Decidir si se conserva este archivo vacío o se redirige al modelo vigente en el sitio"
+  ]
+}

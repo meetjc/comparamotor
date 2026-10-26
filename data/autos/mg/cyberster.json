@@ -1,0 +1,109 @@
+{
+  "marca": "MG",
+  "marcaSlug": "mg",
+  "modelo": "Cyberster",
+  "slug": "cyberster",
+  "carroceria": "coupe",
+  "segmento": "deportivo",
+  "origenMarca": "britanica-china",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Trophy AWD 100 Años",
+      "anio": 2025,
+      "precio": 1320000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Dos motores eléctricos, 400 kW combinados; batería de 77 kWh",
+      "potenciaHp": 536,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 446,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/cyberster",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición 2025. Roadster eléctrico convertible de 2 plazas. Dos motores (150 kW delantero + 250 kW trasero), 536 hp y 534 lb-pie, tracción integral, 0-100 km/h en 3.7 s. Batería de 77 kWh; autonomía WLTP de 446 km. Carga AC 11 kW y DC hasta 100 kW. 4 bolsas de aire (2 frontales y 2 cefalotórax). MG Pilot con 11 asistencias, incluido frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Trophy AWD 100 Años Red Top",
+      "anio": 2025,
+      "precio": 1350000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Dos motores eléctricos, 400 kW combinados; batería de 77 kWh",
+      "potenciaHp": 536,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 446,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/cyberster",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición 2025 con capota roja. Roadster eléctrico convertible de 2 plazas. Dos motores (150 kW delantero + 250 kW trasero), 536 hp y 534 lb-pie, tracción integral, 0-100 km/h en 3.7 s. Batería de 77 kWh; autonomía WLTP de 446 km. Carga AC 11 kW y DC hasta 100 kW. 4 bolsas de aire (2 frontales y 2 cefalotórax). MG Pilot con 11 asistencias, incluido frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Trophy AT",
+      "anio": 2026,
+      "precio": 1399000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Dos motores eléctricos, 400 kW combinados; batería de 77 kWh",
+      "potenciaHp": 536,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 446,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/cyberster",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Modelo 2026. Roadster eléctrico convertible de 2 plazas. Dos motores (150 kW delantero + 250 kW trasero), 536 hp y 534 lb-pie, tracción integral, 0-100 km/h en 3.7 s. Batería de 77 kWh; autonomía WLTP de 446 km. Carga AC 11 kW y DC hasta 100 kW. 4 bolsas de aire (2 frontales y 2 cefalotórax). MG Pilot con 11 asistencias, incluido frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Trophy Red Top AT",
+      "anio": 2026,
+      "precio": 1430000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Dos motores eléctricos, 400 kW combinados; batería de 77 kWh",
+      "potenciaHp": 536,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 446,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/cyberster",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Modelo 2026 con capota roja. Roadster eléctrico convertible de 2 plazas. Dos motores (150 kW delantero + 250 kW trasero), 536 hp y 534 lb-pie, tracción integral, 0-100 km/h en 3.7 s. Batería de 77 kWh; autonomía WLTP de 446 km. Carga AC 11 kW y DC hasta 100 kW. 4 bolsas de aire (2 frontales y 2 cefalotórax). MG Pilot con 11 asistencias, incluido frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": "Cobertura total del vehículo 60 meses o 100,000 km (lo que ocurra primero); garantía limitada de tren motriz hasta 84 meses o 150,000 km; programa Lucky Seven sin costo (7 años de garantía, asistencia vial y cobertura en autopartes robadas). Exige servicios en agencia cada 6 meses o 10,000 km",
+    "fuente": "MG Motor México (sitio oficial)",
+    "url": "https://www.mgmotor.com.mx/preguntas-frecuentes"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Cyberster en MG Motor México",
+      "url": "https://www.mgmotor.com.mx/vehiculos/cyberster",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MG Cyberster 2026",
+      "url": "https://cdn.mgmotor.com.mx/storage/fichas-tecnicas/mg-cyberster-ficha-tecnica-02.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía MG (preguntas frecuentes)",
+      "url": "https://www.mgmotor.com.mx/preguntas-frecuentes",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Carrocería: es convertible (roadster); se clasificó como coupé por las opciones del catálogo",
+    "La ficha dice 'transmisión automática'; se registró como directa por ser eléctrico de una velocidad",
+    "Garantía de la batería de alto voltaje: el sitio no la detalla"
+  ]
+}

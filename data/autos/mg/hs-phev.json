@@ -1,0 +1,75 @@
+{
+  "marca": "MG",
+  "marcaSlug": "mg",
+  "modelo": "HS PHEV",
+  "slug": "hs-phev",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "britanica-china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "PHEV Excite AT",
+      "anio": 2026,
+      "precio": 714900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L Turbo 4 cil. híbrido enchufable",
+      "potenciaHp": 274,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 119,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/hsphev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable: motor 1.5 L turbo de 140 hp + motor eléctrico de tracción de 135 kW; potencia combinada 274 hp y 248 lb-pie. Transmisión híbrida Duo Drive (automática EDU). Batería de 21 kWh, cargador a bordo de 7 kW con conector SAE J1772. Autonomía 100% eléctrica de 119 km. MG publica un rendimiento combinado de 100.7 km/l medido con la batería cargada al 100% (ciudad 109.7, carretera 91.5); no se registra como rendimiento combinado porque no es comparable con un auto de gasolina. 6 bolsas de aire. La ficha no marca frenado autónomo de emergencia en Excite PHEV. El sitio muestra además un precio especial de $604,900 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    },
+    {
+      "nombre": "PHEV Trophy AT",
+      "anio": 2026,
+      "precio": 779900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L Turbo 4 cil. híbrido enchufable",
+      "potenciaHp": 274,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 119,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/hsphev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable: motor 1.5 L turbo de 140 hp + motor eléctrico de tracción de 135 kW; potencia combinada 274 hp y 248 lb-pie. Transmisión híbrida Duo Drive (automática EDU). Batería de 21 kWh, cargador a bordo de 7 kW con conector SAE J1772. Autonomía 100% eléctrica de 119 km. MG publica un rendimiento combinado de 100.7 km/l medido con la batería cargada al 100% (ciudad 109.7, carretera 91.5); no se registra como rendimiento combinado porque no es comparable con un auto de gasolina. 6 bolsas de aire. MG Pilot con nueve asistencias, incluido frenado autónomo de emergencia; techo panorámico y cargador inalámbrico. El sitio muestra además un precio especial de $699,900 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    }
+  ],
+  "garantia": {
+    "texto": "Cobertura total del vehículo 60 meses o 100,000 km (lo que ocurra primero); garantía limitada de tren motriz hasta 84 meses o 150,000 km; programa Lucky Seven sin costo (7 años de garantía, asistencia vial y cobertura en autopartes robadas). Exige servicios en agencia cada 6 meses o 10,000 km",
+    "fuente": "MG Motor México (sitio oficial)",
+    "url": "https://www.mgmotor.com.mx/preguntas-frecuentes"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "HS PHEV en MG Motor México",
+      "url": "https://www.mgmotor.com.mx/vehiculos/hsphev",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MG HS 2027",
+      "url": "https://cdn.mgmotor.com.mx/storage/fichas-tecnicas/mg-hs-2027-ficha-tecnica-01.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía MG (preguntas frecuentes)",
+      "url": "https://www.mgmotor.com.mx/preguntas-frecuentes",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento combinado: MG publica 100.7 km/l con batería llena; queda fuera del campo para no compararlo con autos de gasolina. Decidir un criterio común para híbridos enchufables",
+    "Garantía de la batería de alto voltaje: el sitio no la detalla",
+    "Precios especiales: el sitio los muestra junto al precio de lista sin vigencia ni condiciones; la página de promociones dice \"Muy pronto, promociones exclusivas para ti\" y el PDF de legales de octubre 2026 venció el 6 de octubre, por eso no se cargaron como ofertas"
+  ]
+}

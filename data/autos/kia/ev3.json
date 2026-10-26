@@ -1,0 +1,80 @@
+{
+  "marca": "Kia",
+  "marcaSlug": "kia",
+  "modelo": "EV3",
+  "slug": "ev3",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "coreana",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "EX",
+      "anio": 2027,
+      "precio": 689700,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, batería de 58.3 kWh (ion-litio), tracción delantera",
+      "potenciaHp": 201,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 436,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/ev3/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía aproximada de 436 km según estimaciones de Kia Corporation (no garantizada). 6 bolsas de aire. Incluye asistente de evasión de colisión frontal y de giro."
+    },
+    {
+      "nombre": "SXL",
+      "anio": 2027,
+      "precio": 767700,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, batería de 81.4 kWh (ion-litio), tracción delantera",
+      "potenciaHp": 201,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 605,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/ev3/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía aproximada de 605 km según estimaciones de Kia Corporation (no garantizada). 6 bolsas de aire. Incluye asistente de evasión de colisión frontal, de giro y en cambio de carril."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica (defensa a defensa) 5 años o 100,000 km; tren motriz 7 años o 150,000 km (lo que ocurra primero); batería de alto voltaje del vehículo eléctrico 8 años o 160,000 km",
+    "fuente": "Kia México (sitio oficial, página de garantía)",
+    "url": "https://www.kia.com/mx/owners/warranty-recalls.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Precios y especificaciones Kia EV3 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/ev3/specification.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Kia EV3 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/ev3.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial (catálogo) Kia EV3 2027",
+      "url": "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/2027/ev3/pdf/Web_BROCHURE_EV3_Agosto_2026_2027_MorningHaze.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Kia México",
+      "url": "https://www.kia.com/mx/owners/warranty-recalls.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo: se tomó el Asistente de evasión de colisión frontal (FCA) de la tabla oficial.",
+    "La autonomía publicada es una estimación de Kia Corporation, no una cifra homologada en México",
+    "Kia México no publica una promoción vigente para el EV3 (octubre 2026)"
+  ]
+}

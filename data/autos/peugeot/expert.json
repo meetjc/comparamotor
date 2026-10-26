@@ -1,0 +1,70 @@
+{
+  "marca": "Peugeot",
+  "marcaSlug": "peugeot",
+  "modelo": "Expert",
+  "slug": "expert",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "francesa",
+  "propulsion": "diesel",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "2.0L Diésel SC",
+      "anio": 2026,
+      "precio": 690900,
+      "moneda": "MXN",
+      "transmision": null,
+      "motor": "2.0 L 4 cil. turbodiésel",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nueva-expert.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Van comercial, carga útil de hasta 1,400 kg. 2 bolsas de aire frontales. Asistente de frenado de urgencia (no es frenado autónomo). Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "2.0L Diésel",
+      "anio": 2026,
+      "precio": 708900,
+      "moneda": "MXN",
+      "transmision": null,
+      "motor": "2.0 L 4 cil. turbodiésel",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nueva-expert.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Van comercial. Rendimiento de hasta 19.2 km/l según la marca. 2 bolsas de aire frontales. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km contra piezas defectuosas; garantía anticorrosión de 12 años en vehículos particulares (5 años en comerciales)",
+    "fuente": "Peugeot México (sitio oficial, página de garantías)",
+    "url": "https://www.peugeot.com.mx/clientes-peugeot/asistencia-y-garantia/garantias.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Peugeot Expert",
+      "url": "https://www.peugeot.com.mx/gama/nueva-expert.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Peugeot",
+      "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Transmisión: la página no la especifica",
+    "Diferencia entre la versión SC y la estándar: no se explica en la página",
+    "Rendimiento combinado oficial: no publicado"
+  ]
+}

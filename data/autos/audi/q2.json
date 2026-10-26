@@ -1,0 +1,94 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "Q2",
+  "slug": "q2",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "35 TFSI Dynamic",
+      "anio": 2026,
+      "precio": 724900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (35 TFSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 17.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: catálogo de modelos y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q2/q2/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales y laterales delanteros con sistema de airbag de cabeza. Tiptronic de 8 velocidades, tracción delantera. Precio \"desde\" que publica Audi en su catálogo de modelos; el Q2 no tiene configurador en línea, así que se asignó a la versión de entrada. Precio en pesos con IVA incluido según el catálogo de Audi México."
+    },
+    {
+      "nombre": "35 TFSI Select",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (35 TFSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 17.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q2/q2/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales y laterales delanteros con sistema de airbag de cabeza. Tiptronic de 8 velocidades, tracción delantera. Audi no publica el precio de esta versión."
+    },
+    {
+      "nombre": "35 TFSI Sport",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (35 TFSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 17.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q2/q2/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales y laterales delanteros con sistema de airbag de cabeza. Tiptronic de 8 velocidades, tracción delantera. Audi no publica el precio de esta versión."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Audi Q2 (página oficial)",
+      "url": "https://www.audi.com.mx/es/models/q2/q2/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de modelos Audi México",
+      "url": "https://www.audi.com.mx/es/models/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Q2 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_q2_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "El Q2 no tiene configurador en audi.com.mx (\"Consulta disponibilidad\"); solo hay un precio \"desde\" de $724,900 en el catálogo de modelos",
+    "Precios de las versiones Select y Sport no publicados",
+    "La ficha técnica no menciona frenado autónomo de emergencia",
+    "La página de promociones anuncia mensualidad para Q2 Dynamic 2026 con Audi Now; no se capturó porque no se leyeron sus condiciones"
+  ]
+}

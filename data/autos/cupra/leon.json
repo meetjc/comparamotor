@@ -1,0 +1,102 @@
+{
+  "marca": "CUPRA",
+  "marcaSlug": "cupra",
+  "modelo": "León",
+  "slug": "leon",
+  "carroceria": "hatchback",
+  "segmento": "compacto",
+  "origenMarca": "espanola",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "190 HP",
+      "anio": 2026,
+      "precio": 656900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 190,
+      "rendimientoCombinadoKmL": 16.5,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/leon/leon-190",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "7 bolsas de aire (frontales, laterales delanteras, de cortina y central delantera). DSG de 7 velocidades, tracción delantera. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+    },
+    {
+      "nombre": "VZ",
+      "anio": 2026,
+      "precio": 800900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 300,
+      "rendimientoCombinadoKmL": 15.0,
+      "autonomiaKm": null,
+      "bolsasAire": 10,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/leon/leon-vz",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "10 bolsas de aire (frontales, laterales delanteras y traseras, de cortina, central delantera y de rodilla para el conductor). DSG de 7 velocidades, tracción delantera. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+    },
+    {
+      "nombre": "VZ Tribe Edition",
+      "anio": 2026,
+      "precio": 865900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 300,
+      "rendimientoCombinadoKmL": 15.0,
+      "autonomiaKm": null,
+      "bolsasAire": 10,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/leon/tribe-edition",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "10 bolsas de aire (frontales, laterales delanteras y traseras, de cortina, central delantera y de rodilla para el conductor). DSG de 7 velocidades, tracción delantera. Edición con color Manganeso Mate y rines de 19 pulgadas en negro mate. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km de garantía defensa a defensa (desde el año modelo 2026) y mantenimientos sin costo hasta 5 años o 50,000 km. CUPRA Care incluye 5 años de asistencia vial y de seguro de robo de autopartes, 12 años contra perforación por corrosión y 3 años en defectos de pintura",
+    "fuente": "CUPRA México (ficha técnica oficial y CUPRA Care)",
+    "url": "https://www.cupraoficial.mx/propietarios/cupra-care"
+  },
+  "ofertas": [
+    {
+      "descripcion": "CUPRA León 190 HP 2026 desde $635,900 con CUPRA Financial Services",
+      "precioOferta": 635900,
+      "condicion": "Precio con bono de $43,000 (IVA incluido) aplicado al precio de lista al contratar cualquier producto financiero de Volkswagen Leasing; enganche máximo 50%. Solo unidades nuevas, no acumulable, sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "CUPRA México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.cupraoficial.mx/promociones/leon-190",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "CUPRA León 2026 (página del modelo)",
+      "url": "https://www.cupraoficial.mx/autos/leon",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial CUPRA León 2026",
+      "url": "https://www.cupraoficial.mx/content/dam/countries/mx/cupra-website/descargas/fichas-tecnicas/2026/CUPRA_Leon_2026_cars-models-brochure-KUG-NA-08-2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones CUPRA México",
+      "url": "https://www.cupraoficial.mx/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "CUPRA publica un «precio de contado» con IVA e ISAN por versión; en el detalle de sus promociones menciona un «precio de lista» más alto (ej. Terramar 1.4: $802,900 de lista contra $732,900 de contado). Se usó el precio de contado; confirmar el criterio editorial",
+    "Oferta de León 190 HP tomada de la tarjeta del listado de promociones; no se abrió su detalle",
+    "El slug «leon» coincide con el SEAT León; son modelos distintos en carpetas de marca distintas"
+  ]
+}

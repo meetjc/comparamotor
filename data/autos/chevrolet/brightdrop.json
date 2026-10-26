@@ -1,0 +1,103 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "BrightDrop",
+  "slug": "brightdrop",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "estadounidense",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "400 FWD",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, batería de 12 módulos, tracción delantera",
+      "potenciaHp": 233,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 280,
+      "bolsasAire": 5,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vans-camiones/brightdrop-van-electrica-de-reparto/equipamiento",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía desde 280 km por carga. 5 bolsas de aire (frontal del conductor, laterales y de cortina). Incluye asistente de frenado de emergencia, frenado en intersecciones y frenado por peatones y ciclistas."
+    },
+    {
+      "nombre": "400 AWD",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, batería de 12 módulos, tracción integral AWD",
+      "potenciaHp": 300,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 280,
+      "bolsasAire": 5,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vans-camiones/brightdrop-van-electrica-de-reparto/equipamiento",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía desde 280 km por carga. 5 bolsas de aire (frontal del conductor, laterales y de cortina). Incluye asistente de frenado de emergencia, frenado en intersecciones y frenado por peatones y ciclistas."
+    },
+    {
+      "nombre": "600 FWD",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, batería de 12 módulos, tracción delantera",
+      "potenciaHp": 233,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 280,
+      "bolsasAire": 5,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vans-camiones/brightdrop-van-electrica-de-reparto/equipamiento",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía desde 280 km por carga. 5 bolsas de aire (frontal del conductor, laterales y de cortina). Incluye asistente de frenado de emergencia, frenado en intersecciones y frenado por peatones y ciclistas."
+    },
+    {
+      "nombre": "600 AWD",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, batería de 12 módulos, tracción integral AWD",
+      "potenciaHp": 300,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 280,
+      "bolsasAire": 5,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vans-camiones/brightdrop-van-electrica-de-reparto/equipamiento",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía desde 280 km por carga. 5 bolsas de aire (frontal del conductor, laterales y de cortina). Incluye asistente de frenado de emergencia, frenado en intersecciones y frenado por peatones y ciclistas."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: BrightDrop, equipamiento",
+      "url": "https://www.chevrolet.com.mx/vans-camiones/brightdrop-van-electrica-de-reparto/equipamiento",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Chevrolet BrightDrop 2025",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/vans-and-trucks/2025-brightdrop/02-pdf/Ficha-Tecnica-Chevrolet-BrightDrop-2025-5.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Sin precio de lista por versión: el menú del sitio muestra \"desde $1,764,100\" sin tabla de precios ni aclaración de bonos.",
+    "Modelo 2025; no hay año modelo 2026 publicado."
+  ]
+}

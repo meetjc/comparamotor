@@ -1,0 +1,101 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "Serie 3",
+  "slug": "serie-3",
+  "carroceria": "sedan",
+  "segmento": "mediano",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "320i",
+      "anio": 2026,
+      "precio": 1002900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo (TwinPower)",
+      "potenciaHp": 184,
+      "rendimientoCombinadoKmL": 17.5,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática deportiva de 8 velocidades. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "330e Híbrido Conectable",
+      "anio": 2026,
+      "precio": 1323900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo (TwinPower) híbrido enchufable",
+      "potenciaHp": 292,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 85,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable, batería de 19.5 kWh, hasta 85 km eléctricos (WLTP). Potencia del sistema 292 hp. Tracción trasera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW. Rendimiento combinado oficial de 15.7 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "M340i xDrive",
+      "anio": 2026,
+      "precio": 1443900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6 cil. 3.0 L turbo (TwinPower)",
+      "potenciaHp": 387,
+      "rendimientoCombinadoKmL": 14.5,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática deportiva de 8 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW Serie 3 (página oficial)",
+      "url": "https://www.bmw.com.mx/es_MX/all-models/3-series/sedan/2022/bmw-3-series-sedan-highlights.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW 320i 2026",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/Julio/4-%20BMW%20Serie%203%20Seda%CC%81n%20LCI%20%28G20%29/BMW%20320i%202026.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW 330e Híbrido Conectable 2026",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/Julio/4-%20BMW%20Serie%203%20Seda%CC%81n%20LCI%20%28G20%29/BMW%20330e%202026.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW M340i xDrive 2026",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/Julio/4-%20BMW%20Serie%203%20Seda%CC%81n%20LCI%20%28G20%29/BMW%20M340i%20xDrive%202026.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas"
+  ]
+}

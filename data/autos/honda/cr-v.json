@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/cr-v",
-      "fechaVerificacion": "2026-10-24",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Motor 1.5 L Turbo VTEC 188 hp @ 6,000 rpm y 177 lb-pie; transmisión CVT; tracción delantera según la ficha. 10 bolsas de aire sumadas de la ficha (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila). Honda Sensing con CMBS y alerta de colisión frontal. Precio con IVA (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. "
     },
     {
@@ -40,8 +40,42 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/cr-v",
-      "fechaVerificacion": "2026-10-24",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Motor 1.5 L Turbo VTEC 188 hp @ 6,000 rpm y 177 lb-pie; transmisión CVT; tracción delantera según la ficha. 10 bolsas de aire sumadas de la ficha (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila). Honda Sensing con CMBS y alerta de colisión frontal. Precio con IVA (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Añade sensores de estacionamiento delanteros y traseros respecto de la Turbo Plus."
+    },
+    {
+      "nombre": "Touring HEV",
+      "anio": 2027,
+      "precio": 965900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.0 L 4 cil. híbrido de dos motores (204 HP combinados)",
+      "potenciaHp": 204,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 10,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Honda México (sitio oficial)",
+      "url": "https://www.honda.mx/autos/cr-v-hibrido",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable, transmisión E-CVT, tracción delantera. 10 bolsas de aire (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila, según el brochure). Honda Sensing con CMBS. Precio \"Desde\" publicado en el configurador de honda.mx."
+    },
+    {
+      "nombre": "Sport Touring HEV",
+      "anio": 2027,
+      "precio": 993900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.0 L 4 cil. híbrido de dos motores (204 HP combinados)",
+      "potenciaHp": 204,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 10,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Honda México (sitio oficial)",
+      "url": "https://www.honda.mx/autos/cr-v-hibrido",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable, transmisión E-CVT, tracción integral (AWD). 10 bolsas de aire (2 frontales, 2 laterales y 2 de rodilla en 1ª fila; 2 de cortina y 2 laterales en 2ª fila, según el brochure). Honda Sensing con CMBS. Precio \"Desde\" publicado en el configurador de honda.mx."
     }
   ],
   "garantia": {
@@ -49,16 +83,38 @@
     "fuente": null,
     "url": null
   },
-  "ofertas": [],
+  "ofertas": [
+    {
+      "descripcion": "CR-V Touring HEV y Sport Touring HEV 2027: bono flexible de hasta $30,000",
+      "precioOferta": null,
+      "condicion": "El bono no aplica con otras promociones; hasta agotar existencias",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Honda México (sitio oficial)",
+      "url": "https://www.honda.mx/autos/cr-v-hibrido",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
   "fuentes": [
     "https://www.honda.mx/autos/cr-v",
     "https://www.honda.mx/autos/cr-v/configurador",
-    "https://www.honda.mx/autos"
+    "https://www.honda.mx/autos",
+    "https://www.honda.mx/autos/cr-v-hibrido",
+    "https://www.honda.mx/autos/cr-v-hibrido/configurador",
+    {
+      "nombre": "Brochure oficial Honda CR-V 2027",
+      "url": "https://www.honda.mx/web/pdf/brochure/honda/Brochure_CRV_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Brochure oficial Honda CR-V Hybrid 2027",
+      "url": "https://www.honda.mx/web/pdf/brochure/honda/Brochure_CRV_Hybrid_2027.pdf",
+      "tipo": "oficial"
+    }
   ],
   "pendientes": [
     "Rendimiento combinado oficial de combustible (la ficha de honda.mx no lo publica)",
     "Garantía oficial (honda.mx no la publica en la ficha del modelo)",
-    "El CR-V Híbrido (Touring HEV $965,900 y Sport Touring HEV $993,900) es otra ficha en honda.mx (/autos/cr-v-hibrido) y no se incluye en este archivo",
-    "Tracción AWD: la ficha de honda.mx no la especifica por versión"
+    "Tracción AWD: la ficha de honda.mx no la especifica por versión",
+    "Propulsión: el CR-V de gasolina y el CR-V Hybrid (página aparte en honda.mx) se agruparon en este archivo; el campo propulsion es el de la versión de entrada"
   ]
 }

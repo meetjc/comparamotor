@@ -1,0 +1,130 @@
+{
+  "marca": "GWM",
+  "marcaSlug": "gwm",
+  "modelo": "P300",
+  "slug": "p300",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "Manual Premium",
+      "anio": null,
+      "precio": 469900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 221,
+      "rendimientoCombinadoKmL": 11.3,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/gwm-p300",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades, 221 hp y 284 lb-ft, tracción trasera, capacidad de carga de 1,050 kg. 6 bolsas de aire en todas las versiones. Pantalla de 12.3\" con CarPlay y Android Auto inalámbricos. Según la ficha, sin frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Manual Luxury",
+      "anio": null,
+      "precio": 499900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 221,
+      "rendimientoCombinadoKmL": 11.3,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/gwm-p300",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades, 221 hp. 6 bolsas de aire. Agrega faros de niebla, espejo electrocrómico, cámara de punto ciego y asientos en piel sintética. Sin frenado autónomo de emergencia según la ficha."
+    },
+    {
+      "nombre": "Automática Premium",
+      "anio": null,
+      "precio": 559900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 221,
+      "rendimientoCombinadoKmL": 11.4,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/gwm-p300",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades, 221 hp, tracción trasera. 6 bolsas de aire, luces LED, cluster digital de 7\" y cargador inalámbrico. Según la ficha, sin frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Automática Luxury",
+      "anio": null,
+      "precio": 599900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 221,
+      "rendimientoCombinadoKmL": 11.4,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/gwm-p300",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades, 221 hp, tracción trasera. 6 bolsas de aire. Incluye frenado autónomo de emergencia con detección de peatones y ciclistas, control crucero adaptativo, cámara 360°, quemacocos y asientos de piel con calefacción."
+    },
+    {
+      "nombre": "Automática Luxury 4x4",
+      "anio": null,
+      "precio": 644900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 221,
+      "rendimientoCombinadoKmL": 10.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/gwm-p300",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades, 4x4 inteligente con reductora 4L y bloqueo de diferencial trasero. 6 bolsas de aire y frenado autónomo de emergencia. Agrega asientos ventilados y barra antivuelco."
+    }
+  ],
+  "garantia": {
+    "texto": "7 años de garantía defensa a defensa sin límite de kilometraje (GWM Care); baterías de alto voltaje de híbridos y eléctricos: 8 años o 150,000 km, lo que ocurra primero; programa anticorrosión y pintura de 7 años. Requiere servicios cada 6 meses o 10,000 km en distribuidor autorizado",
+    "fuente": "GWM México (sitio oficial: GWM Care, garantía)",
+    "url": "https://www.gwm-mx.com/es/owner/care/warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "P300 (página oficial)",
+      "url": "https://www.gwm-mx.com/es/models/gwm-p300",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial P300 (manual y automática)",
+      "url": "https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/car-model/p300/charging/gwm-p300-ficha-tecnicaMTAT.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ofertas GWM México",
+      "url": "https://www.gwm-mx.com/es/offer",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía GWM Care",
+      "url": "https://www.gwm-mx.com/es/owner/care/warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El sitio no indica el año modelo de este vehículo; se dejó sin año",
+    "Rendimiento: la ficha da 11.3 km/l (manual), 11.4 (automática 4x2) y 10.8 (automática 4x4); la asignación por columna se dedujo del orden de la ficha"
+  ]
+}

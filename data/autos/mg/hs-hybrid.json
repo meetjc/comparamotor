@@ -1,0 +1,76 @@
+{
+  "marca": "MG",
+  "marcaSlug": "mg",
+  "modelo": "HS Hybrid+",
+  "slug": "hs-hybrid",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "britanica-china",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "HEV Excite AT",
+      "anio": 2026,
+      "precio": 619900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L Turbo 4 cil. híbrido (HEV)",
+      "potenciaHp": 195,
+      "rendimientoCombinadoKmL": 22.3,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/hshev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido (HEV) no enchufable: motor 1.5 L turbo de 140 hp + motor eléctrico de tracción de 146 kW; potencia combinada 195 hp y 250 lb-pie. Transmisión híbrida automática EDU. Batería de 1.8 kWh. Rendimiento oficial ciudad, carretera y combinado de 22.3 km/l (ficha HS 2027). 6 bolsas de aire. La ficha no marca frenado autónomo de emergencia en Excite HEV. El sitio muestra además un precio especial de $509,900 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    },
+    {
+      "nombre": "HEV Premier AT",
+      "anio": 2026,
+      "precio": 689900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L Turbo 4 cil. híbrido (HEV)",
+      "potenciaHp": 195,
+      "rendimientoCombinadoKmL": 22.3,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/hshev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido (HEV) no enchufable: motor 1.5 L turbo de 140 hp + motor eléctrico de tracción de 146 kW; potencia combinada 195 hp y 250 lb-pie. Transmisión híbrida automática EDU. Batería de 1.8 kWh. Rendimiento oficial ciudad, carretera y combinado de 22.3 km/l (ficha HS 2027). 6 bolsas de aire. MG Pilot con nueve asistencias, incluido frenado autónomo de emergencia; cámara 360° y techo panorámico. El sitio muestra además un precio especial de $599,900 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    }
+  ],
+  "garantia": {
+    "texto": "Cobertura total del vehículo 60 meses o 100,000 km (lo que ocurra primero); garantía limitada de tren motriz hasta 84 meses o 150,000 km; programa Lucky Seven sin costo (7 años de garantía, asistencia vial y cobertura en autopartes robadas). Exige servicios en agencia cada 6 meses o 10,000 km",
+    "fuente": "MG Motor México (sitio oficial)",
+    "url": "https://www.mgmotor.com.mx/preguntas-frecuentes"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "HS Hybrid+ en MG Motor México",
+      "url": "https://www.mgmotor.com.mx/vehiculos/hshev",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MG HS 2027",
+      "url": "https://cdn.mgmotor.com.mx/storage/fichas-tecnicas/mg-hs-2027-ficha-tecnica-01.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía MG (preguntas frecuentes)",
+      "url": "https://www.mgmotor.com.mx/preguntas-frecuentes",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El sitio también registra HEV Premier 2027 al mismo precio (sin mostrarla)",
+    "Autonomía total de 1,200 km publicada por MG (no es autonomía eléctrica)",
+    "Garantía específica de la batería híbrida: el sitio no la detalla",
+    "Precios especiales: el sitio los muestra junto al precio de lista sin vigencia ni condiciones; la página de promociones dice \"Muy pronto, promociones exclusivas para ti\" y el PDF de legales de octubre 2026 venció el 6 de octubre, por eso no se cargaron como ofertas"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "CS35 Max",
+  "slug": "cs35-max",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "Luxury",
+      "anio": null,
+      "precio": 439900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 178,
+      "rendimientoCombinadoKmL": 14.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/cs35-max",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "178 hp y 206 lb-ft, doble embrague (DCT) de 7 velocidades. Rendimiento de laboratorio: ciudad 12.8, carretera 18.8 y combinado 14.9 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Sin frenado autónomo de emergencia en Luxury según la ficha. Pantalla de 10.25\", rines de 18\"."
+    },
+    {
+      "nombre": "Premium",
+      "anio": null,
+      "precio": 469900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 178,
+      "rendimientoCombinadoKmL": 14.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/cs35-max",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "178 hp y 206 lb-ft, doble embrague (DCT) de 7 velocidades. Rendimiento de laboratorio: ciudad 12.8, carretera 18.8 y combinado 14.9 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia, alerta de colisión frontal y control crucero adaptativo según la ficha. Cámara 540°, pantallas de 12.3\", cajuela eléctrica."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz 7 años o 200,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan CS35 Max",
+      "url": "https://www.changan.mx/models/cs35-max",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial CS35 Max",
+      "url": "https://www.changan.mx/profile/upload/2026/06/23/Cs35%20Max%205_compressed%20%283%29_67c3c05c.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Año modelo no publicado en la página ni en la ficha"
+  ]
+}

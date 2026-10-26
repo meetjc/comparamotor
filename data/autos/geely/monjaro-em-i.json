@@ -1,0 +1,85 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "Monjaro EM-i",
+  "slug": "monjaro-em-i",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GL",
+      "anio": 2027,
+      "precio": 747900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Híbrido enchufable: 1.5 L turbo 4 cil. (142 hp) + motor eléctrico de 161 hp; batería LFP de 18.4 kWh",
+      "potenciaHp": 275,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 92,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-electricos/vehiculos/monjaro-em-i",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada 275 hp y 544 Nm, tracción delantera, transmisión híbrida dedicada 3DHT. Autonomía eléctrica 92 km y combinada 1,200 km (NEDC); rendimiento de laboratorio ciudad 18.12, carretera 18.35 y combinado 18.22 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia y 14 asistencias de manejo según la ficha 2027. Carga rápida DC de 38 kW. Rendimiento combinado oficial de 18.22 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "GF",
+      "anio": 2027,
+      "precio": 819900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Híbrido enchufable: 1.5 L turbo 4 cil. (142 hp) + dos motores eléctricos (268 hp en conjunto); batería LFP de 29.8 kWh",
+      "potenciaHp": 335,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 130,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-electricos/vehiculos/monjaro-em-i",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada 335 hp y 667 Nm, tracción integral eléctrica (e-AWD), transmisión híbrida dedicada 3DHT y suspensión adaptativa CCD. Autonomía eléctrica 130 km y combinada 1,095 km (NEDC); rendimiento de laboratorio ciudad 16.08, carretera 17.53 y combinado 16.70 km/l. 6 bolsas de aire. Frenado autónomo de emergencia según la ficha 2027. 0 a 100 km/h en 5.8 s; carga rápida DC de 78 kW. Rendimiento combinado oficial de 16.7 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz eléctrico (batería de alto voltaje, motor eléctrico y controlador) 8 años o 150,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-electricos/vehiculos/monjaro-em-i"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Monjaro EM-i 2027: precio desde $747,900 con 0% de comisión por apertura y, a elegir, 12 meses sin intereses (versión GF), bono de lanzamiento de $20,000 o 1 año de seguro gratis",
+      "precioOferta": null,
+      "condicion": "El bono de $20,000 sin IVA se aplica a tasa, enganche o complemento de pago de contado, nunca a precio. Vigencia del 30 de septiembre al 30 de octubre de 2026 o hasta agotar existencias; crédito simple con Geely Financial Services (BBVA México), sujeto a aprobación; CAT promedio 25.61% sin IVA (calculado al 31-ago-2026); no acumulable con otras promociones ni válido en flotillas.",
+      "vigenciaHasta": "2026-10-30",
+      "fuente": "Geely México (sitio oficial, promociones)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Monjaro EM-i",
+      "url": "https://www.geelymexico.com/autos-electricos/vehiculos/monjaro-em-i",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Monjaro EM-i 2027",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-monjaro-em-i-ficha-tecnica-2027-01.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica 2027 es una imagen; los datos se leyeron de ella directamente",
+    "Ofertas: las promociones de Geely son de financiamiento (mensualidad, tasa, meses sin intereses o bonos con crédito BBVA); el precio de lista no cambia salvo donde se indica",
+    "La transmisión se registró como automática: Geely la describe como híbrida dedicada 3DHT"
+  ]
+}

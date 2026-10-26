@@ -1,0 +1,127 @@
+{
+  "marca": "Jeep",
+  "marcaSlug": "jeep",
+  "modelo": "Wrangler",
+  "slug": "wrangler",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Unlimited Willys 2.0L Turbo 4x4",
+      "anio": 2026,
+      "precio": 1103900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L I4 turbo",
+      "potenciaHp": 270,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/wrangler.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "4 puertas, 4x4. Automática de 8 velocidades. Bolsas frontales multietapa y laterales (sin total en la ficha). Incluye asistencia de colisión frontal plus y control crucero adaptativo. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Unlimited Willys 41 2.0L Turbo 4x4",
+      "anio": 2026,
+      "precio": 1163900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L I4 turbo",
+      "potenciaHp": 270,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/wrangler.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición especial de 4 puertas, 4x4. No aparece en la ficha técnica; la potencia corresponde al mismo motor 2.0 L turbo. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Rubicon 2.0L Turbo 4x4",
+      "anio": 2026,
+      "precio": 1336900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L I4 turbo",
+      "potenciaHp": 270,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/wrangler.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "2 puertas, 4x4. Automática de 8 velocidades. La ficha de esta versión no detalla el equipo de asistencia de colisión. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Unlimited Sahara 2.0L Turbo 4x4",
+      "anio": 2026,
+      "precio": 1350900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L I4 turbo",
+      "potenciaHp": 270,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/wrangler.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "4 puertas, 4x4. Automática de 8 velocidades. Bolsas frontales multietapa y laterales (sin total en la ficha). Incluye asistencia de colisión frontal plus. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Unlimited Rubicon 2.0L Turbo 4x4",
+      "anio": 2026,
+      "precio": 1520900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L I4 turbo",
+      "potenciaHp": 270,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/wrangler.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "4 puertas, 4x4 con bloqueo de diferenciales. Automática de 8 velocidades. Bolsas frontales multietapa y laterales (sin total en la ficha). Incluye asistencia de colisión frontal plus. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Jeep México (sitio oficial, ficha técnica)",
+    "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/wrangler/FT_DIPTICO_WRANGLER_2026_V2.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Jeep Wrangler",
+      "url": "https://www.jeep.com.mx/wrangler.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Jeep",
+      "url": "https://www.jeep.com.mx/hostb/fiat_mx/JSONConversion/jeep/jeep-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Jeep Wrangler 2026",
+      "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/wrangler/FT_DIPTICO_WRANGLER_2026_V2.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento combinado: la ficha técnica no lo publica",
+    "Willys 41 y Rubicon 2 puertas: falta confirmar frenado autónomo",
+    "Wrangler 4xe (híbrido enchufable) 2025 sigue en la lista de precios ($1,455,900 y $1,619,900) pero no en el menú de modelos; no se incluyó",
+    "La lista oficial de precios también incluye unidades de años modelo anteriores con otros precios; aquí solo se muestran las del año modelo vigente. (Wrangler 2024 y 2025)."
+  ]
+}

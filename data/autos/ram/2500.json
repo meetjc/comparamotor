@@ -1,0 +1,120 @@
+{
+  "marca": "Ram",
+  "marcaSlug": "ram",
+  "modelo": "2500",
+  "slug": "2500",
+  "carroceria": "pickup",
+  "segmento": "pickup-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "HD Tradesman 6.4L 8A/T",
+      "anio": 2026,
+      "precio": 1362700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.4 L V8 HEMI con MDS",
+      "potenciaHp": 405,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-2500-hd-2024.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Pickup de trabajo pesado. Automática de 8 velocidades. Bolsas de aire frontales multietapa, laterales delanteras y de cortina (la ficha no da el total). Incluye prevención de colisión frontal plus y frenado de emergencia para peatones. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "HD Bighorn 6.4L 8A/T",
+      "anio": 2026,
+      "precio": 1368410,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.4 L V8 HEMI con MDS",
+      "potenciaHp": 405,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-2500-hd-2024.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades. No hay ficha técnica 2026 de esta versión; la potencia corresponde al mismo motor 6.4 L que la ficha de la Tradesman 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "HD Limited 6.4L 8A/T RAMBOX",
+      "anio": 2024,
+      "precio": 1719900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.4 L V8 HEMI con MDS",
+      "potenciaHp": 410,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-2500-hd-limited-2024.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2024 (la marca no lista una versión Limited más reciente). Automática de 8 velocidades. Bolsas frontales multietapa, laterales delanteras y traseras y de cortina para ambas filas. Alerta de colisión frontal con frenado. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Power Wagon HD 6.4L V8 8A/T",
+      "anio": 2026,
+      "precio": 1953700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.4 L V8 HEMI con MDS",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-2500-hd-2024.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Versión todoterreno. No hay ficha técnica 2026 publicada de esta versión; potencia y seguridad por confirmar. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "RAM México (sitio oficial, ficha técnica)",
+    "url": "https://www.ram.com/content/dam/cross-regional/nafta/ramtrucks/es_mx/archivos-descargables/ram-2500-tradesman-my26/Ficha_Tecnica_RAM_2500_Tradesman_2026MY.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página RAM 2500 HD",
+      "url": "https://www.ram.com/mx/ram-2500-hd-2024.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página RAM 2500 HD Limited",
+      "url": "https://www.ram.com/mx/ram-2500-hd-limited-2024.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios RAM",
+      "url": "https://www.ram.com/hostb/fiat_mx/JSONConversion/ram/ram-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RAM 2500 Tradesman 2026",
+      "url": "https://www.ram.com/content/dam/cross-regional/nafta/ramtrucks/es_mx/archivos-descargables/ram-2500-tradesman-my26/Ficha_Tecnica_RAM_2500_Tradesman_2026MY.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RAM 2500 HD Limited 2024",
+      "url": "https://www.ram.com/content/dam/cross-regional/nafta/ramtrucks/es_mx/archivos-descargables/ram-2500-hd-limited-2024/FT_RAM_2500_HDLIMITED_2024_05JUL2023_V2_(1).pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La página del modelo en ram.com/mx todavía se llama RAM 2500 HD 2024; los precios 2026 salen de la lista oficial",
+    "Bighorn y Power Wagon 2026: sin ficha técnica 2026; falta confirmar potencia y seguridad",
+    "Rendimiento combinado: no publicado en las fichas",
+    "La lista oficial de precios también incluye unidades de años modelo anteriores con otros precios; aquí solo se muestran las del año modelo vigente. (2500 HD 2024 y 2500 Power Wagon 2024)."
+  ]
+}

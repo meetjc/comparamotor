@@ -1,0 +1,101 @@
+{
+  "marca": "Mercedes-Benz",
+  "marcaSlug": "mercedes-benz",
+  "modelo": "GLA",
+  "slug": "gla",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GLA 200 MH",
+      "anio": 2027,
+      "precio": 959000,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "4 cil. 1.3 L turbo mild hybrid",
+      "potenciaHp": 163,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid, 7G-DCT. La ficha disponible es del año modelo 2025. 7 bolsas de aire (ficha). La ficha no confirma frenado automático de emergencia. Potencia convertida de 120 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    },
+    {
+      "nombre": "GLA 200 MH Night Edition",
+      "anio": 2027,
+      "precio": 1059000,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "4 cil. 1.3 L turbo mild hybrid",
+      "potenciaHp": 163,
+      "rendimientoCombinadoKmL": 17.69,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid, 7G-DCT, tracción delantera. Datos de ficha 2026. 7 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 120 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    },
+    {
+      "nombre": "Mercedes-AMG GLA 35 4MATIC MH",
+      "anio": 2027,
+      "precio": 1295000,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "4 cil. 2.0 L turbo mild hybrid",
+      "potenciaHp": 306,
+      "rendimientoCombinadoKmL": 13.19,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid, AMG SPEEDSHIFT DCT 8G, 4MATIC. 7 bolsas de aire (ficha). La ficha no confirma frenado automático de emergencia. Potencia convertida de 225 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de 3 años sin límite de kilometraje y 4 servicios de mantenimiento incluidos (según fichas técnicas oficiales; consultar términos con el distribuidor)",
+    "fuente": "Mercedes-Benz México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mercedes-benz.com.mx/es/passengercars/cars-guide/brochures-download.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador y precios Mercedes-Benz México",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Mercedes-Benz GLA (página oficial)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/models/suv/gla/overview.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial GLA 200 MH (2025)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2025/mercedes-benz/gla/200-mh/octubre/GLA-200-MH.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial GLA 200 MH Night Edition (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-benz/gla/200-mh-night-edition/GLA-200-Night-Edition.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Mercedes-AMG GLA 35 4MATIC MH (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-amg/gla/gla-35-4matic-mh/Mercedes-AMG-GLA-35-4MATIC-MH.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Precios del configurador oficial al 25 de octubre de 2026; las fichas técnicas PDF tienen precios anteriores y algunas son de un año modelo previo, por lo que solo se usaron para datos técnicos de la misma versión",
+    "El configurador da la potencia en kW; los hp se calcularon con el factor de Mercedes-Benz (1 kW = 1.36 hp), que coincide con las fichas"
+  ]
+}

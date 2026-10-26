@@ -1,0 +1,101 @@
+{
+  "marca": "Renault",
+  "marcaSlug": "renault",
+  "modelo": "Oroch",
+  "slug": "oroch",
+  "carroceria": "pickup",
+  "segmento": "pickup-compacta",
+  "origenMarca": "francesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Zen TM",
+      "anio": 2026,
+      "precio": 433500,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 115,
+      "rendimientoCombinadoKmL": 17.1,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
+      "url": "https://www.renault.com.mx/autos-particulares/oroch/precios-y-versiones.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades. Rendimiento mixto 17.1 km/l (ciudad 15.0, carretera 20.8). Capacidad de arrastre 685 kg. 2 bolsas de aire frontales (conductor y pasajero). El catálogo no lista frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Outsider TM",
+      "anio": 2026,
+      "precio": 470500,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 115,
+      "rendimientoCombinadoKmL": 17.1,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
+      "url": "https://www.renault.com.mx/autos-particulares/oroch/precios-y-versiones.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades. Rendimiento mixto 17.1 km/l (ciudad 15.0, carretera 20.8). 2 bolsas de aire frontales (conductor y pasajero). El catálogo no lista frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Outsider CVT",
+      "anio": 2026,
+      "precio": 555500,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.3 L turbo 4 cil.",
+      "potenciaHp": 154,
+      "rendimientoCombinadoKmL": 16.7,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
+      "url": "https://www.renault.com.mx/autos-particulares/oroch/precios-y-versiones.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión CVT con modo manual de 8 velocidades. Rendimiento mixto 16.7 km/l (ciudad 14.8, carretera 19.8). Capacidad de arrastre 710 kg. 2 bolsas de aire frontales (conductor y pasajero). El catálogo no lista frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 140,000 km (lo que ocurra primero) si se hacen servicios cada 5,000 km o 6 meses; con servicios cada año o 10,000 km se conserva la garantía contractual de 3 años. Pintura 3 años, anticorrosión 6 años",
+    "fuente": "Renault México (sitio oficial)",
+    "url": "https://www.renault.com.mx/discover-renault-service/extended-warranty.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Oroch Zen TM 2026 con precio especial desde $363,400 + 1 año de seguro gratis, o bono de hasta $70,100 sobre el precio de lista de $433,500, o mensualidades de $4,499.",
+      "precioOferta": 363400,
+      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación de crédito. No aplica con otras promociones ni en flotillas; hasta agotar existencias. Seguro gratis con MAPFRE (uso carga) para Outsider TM con 'Plan PyME Renault'. Mensualidad: enganche 47.5%, 72 meses. CAT promedio 18.5% sin IVA.",
+      "vigenciaHasta": "2026-11-01",
+      "fuente": "Renault México (sitio oficial)",
+      "url": "https://www.renault.com.mx/autos-particulares/oroch/precios-y-versiones.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Renault Oroch: precios y versiones",
+      "url": "https://www.renault.com.mx/autos-particulares/oroch/precios-y-versiones.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Renault Oroch: ficha técnica",
+      "url": "https://www.renault.com.mx/autos-particulares/oroch/specifications.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Oroch (catálogo digital, febrero 2026)",
+      "url": "https://cdn.group.renault.com/ren/mx/mex/catalogos/CATALOGO%20DIGITAL_ORORCH_FEB%202026.pdf.asset.pdf/f2cde8313c.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia: el catálogo no lo menciona en ninguna versión.",
+    "El encabezado de promociones dice 'desde $364,900' y la nota legal $363,400 para Zen TM; se usó la nota legal."
+  ]
+}

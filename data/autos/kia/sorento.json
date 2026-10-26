@@ -1,0 +1,97 @@
+{
+  "marca": "Kia",
+  "marcaSlug": "kia",
+  "modelo": "Sorento",
+  "slug": "sorento",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "coreana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "EX",
+      "anio": 2026,
+      "precio": 833200,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L 4 cil. GDI",
+      "potenciaHp": 191,
+      "rendimientoCombinadoKmL": 15.26,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/sorento/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades. 9 bolsas de aire. El asistente de evasión de colisión frontal no aparece en esta versión."
+    },
+    {
+      "nombre": "EX Pack",
+      "anio": 2026,
+      "precio": 897600,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L 4 cil. GDI",
+      "potenciaHp": 191,
+      "rendimientoCombinadoKmL": 15.26,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/sorento/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades. 9 bolsas de aire. Incluye asistente de evasión de colisión frontal y de giro."
+    },
+    {
+      "nombre": "SXL",
+      "anio": 2026,
+      "precio": 992900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.5 L 4 cil. turbo GDI",
+      "potenciaHp": 277,
+      "rendimientoCombinadoKmL": 15.22,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/sorento/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 8 velocidades. 9 bolsas de aire. Incluye asistente de evasión de colisión frontal y de giro."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica (defensa a defensa) 5 años o 100,000 km; tren motriz 7 años o 150,000 km (lo que ocurra primero)",
+    "fuente": "Kia México (sitio oficial, página de garantía)",
+    "url": "https://www.kia.com/mx/owners/warranty-recalls.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Precios y especificaciones Kia Sorento 2026 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/sorento/specification.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Kia Sorento 2026 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/sorento.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial (catálogo) Kia Sorento 2026",
+      "url": "https://www.kia.com/content/dam/kwcms/mx/es/pdf/brochures/Web_BROCHURE_SORENTO_Octubre_21_2025.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Kia México",
+      "url": "https://www.kia.com/mx/owners/warranty-recalls.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo: se tomó el Asistente de evasión de colisión frontal (FCA) de la tabla oficial.",
+    "Kia México vende el Sorento como año modelo 2026 (octubre 2026)",
+    "Kia México no publica una promoción vigente para el Sorento (octubre 2026)"
+  ]
+}

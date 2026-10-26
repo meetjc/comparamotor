@@ -1,0 +1,177 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Cheyenne",
+  "slug": "cheyenne",
+  "carroceria": "pickup",
+  "segmento": "pickup-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "LT Cabina Regular 4x4",
+      "anio": 2026,
+      "precio": 1240100,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "5.3 L V8",
+      "potenciaHp": 355,
+      "rendimientoCombinadoKmL": 10.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,051,100 y precio financiado o de arrendamiento $1,051,100 (ver ofertas). Automática de 10 velocidades. La ficha lista \"asistente de colisión frontal\" sin decir si frena de forma automática."
+    },
+    {
+      "nombre": "RST Doble Cabina 4x4",
+      "anio": 2026,
+      "precio": 1453300,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "5.3 L V8",
+      "potenciaHp": 355,
+      "rendimientoCombinadoKmL": 10.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,313,300 y precio financiado o de arrendamiento $1,123,300 (ver ofertas). Automática de 10 velocidades."
+    },
+    {
+      "nombre": "High Country Doble Cabina 4x4 6.2L",
+      "anio": 2026,
+      "precio": 1772900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.2 L V8",
+      "potenciaHp": 425,
+      "rendimientoCombinadoKmL": 9.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,632,900 y precio financiado o de arrendamiento $1,442,900 (ver ofertas). Automática de 10 velocidades."
+    },
+    {
+      "nombre": "ZR2 Doble Cabina 4x4",
+      "anio": 2026,
+      "precio": 1836700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.2 L V8",
+      "potenciaHp": 425,
+      "rendimientoCombinadoKmL": 9.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,696,700 y precio financiado o de arrendamiento $1,506,700 (ver ofertas). Automática de 10 velocidades, suspensión con amortiguadores Multimatic."
+    },
+    {
+      "nombre": "ZR2 Bison Doble Cabina 4x4",
+      "anio": 2026,
+      "precio": 2006900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.2 L V8",
+      "potenciaHp": 425,
+      "rendimientoCombinadoKmL": 9.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,866,900 y precio financiado o de arrendamiento $1,676,900 (ver ofertas). Automática de 10 velocidades, equipo todoterreno AEV."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Cheyenne LT Cabina Regular 4x4: precio de contado $1,051,100 y precio financiado o de arrendamiento $1,051,100 (precio de lista $1,240,100). Promociones publicadas: De contado: Bono de hasta $189,000, 1 Año de seguro ¡Gratis!, 12 meses de internet ilimitado y OnStar Essentials. Con financiamiento: Bono de hasta $330,000.",
+      "precioOferta": 1051100,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/cheyenne/CHCHE01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Cheyenne RST Doble Cabina 4x4: precio de contado $1,313,300 y precio financiado o de arrendamiento $1,123,300 (precio de lista $1,453,300). Promociones publicadas: De contado: Bono de hasta $189,000, 1 Año de seguro ¡Gratis!, 12 meses de internet ilimitado y OnStar Essentials. Con financiamiento: Bono de hasta $330,000.",
+      "precioOferta": 1123300,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/cheyenne/CHCHE01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Cheyenne High Country Doble Cabina 4x4 6.2L: precio de contado $1,632,900 y precio financiado o de arrendamiento $1,442,900 (precio de lista $1,772,900). Promociones publicadas: De contado: Bono de hasta $189,000, 1 Año de seguro ¡Gratis!, 12 meses de internet ilimitado y OnStar Essentials. Con financiamiento: Bono de hasta $330,000.",
+      "precioOferta": 1442900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/cheyenne/CHCHE01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Cheyenne ZR2 Doble Cabina 4x4: precio de contado $1,696,700 y precio financiado o de arrendamiento $1,506,700 (precio de lista $1,836,700). Promociones publicadas: De contado: Bono de hasta $189,000, 1 Año de seguro ¡Gratis!, 12 meses de internet ilimitado y OnStar Essentials. Con financiamiento: Bono de hasta $330,000.",
+      "precioOferta": 1506700,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/cheyenne/CHCHE01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Cheyenne ZR2 Bison Doble Cabina 4x4: precio de contado $1,866,900 y precio financiado o de arrendamiento $1,676,900 (precio de lista $2,006,900). Promociones publicadas: De contado: Bono de hasta $189,000, 1 Año de seguro ¡Gratis!, 12 meses de internet ilimitado y OnStar Essentials. Con financiamiento: Bono de hasta $330,000.",
+      "precioOferta": 1676900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/cheyenne/CHCHE01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Cheyenne",
+      "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Cheyenne (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/cheyenne/CHCHE01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Cheyenne",
+      "url": "https://www.chevrolet.com.mx/pickups/cheyenne-camioneta-pickup/especificaciones-automotriz",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Cheyenne 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2026-cheyenne/mov/02-pdf/ficha-tecnica-cheyenne-2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Motor por versión deducido del rendimiento de la ficha (5.3 L: 10 km/l; 6.2 L: 9.2 km/l), porque la tabla de motores no distingue columnas en el texto del PDF.",
+    "Frenado autónomo de emergencia sin confirmar.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

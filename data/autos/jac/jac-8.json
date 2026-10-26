@@ -1,0 +1,74 @@
+{
+  "marca": "JAC",
+  "marcaSlug": "jac",
+  "modelo": "JAC 8",
+  "slug": "jac-8",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Limited DCT",
+      "anio": 2027,
+      "precio": 499900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 172,
+      "rendimientoCombinadoKmL": 13.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/jac8",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2027. Doble embrague de 7 velocidades, 172 hp @ 5,500 rpm, tracción delantera, 3 filas (6 pasajeros). 6 bolsas de aire (conductor, pasajero, 2 laterales y 2 de cortina). Incluye monitoreo de punto ciego y alerta de tráfico cruzado; la ficha no incluye frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Limited DCT",
+      "anio": 2026,
+      "precio": 499000,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 172,
+      "rendimientoCombinadoKmL": 13.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/jac8",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2026, misma versión Limited. Datos técnicos de la ficha oficial (publicada como año 2027)."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero, de acuerdo con la póliza de garantía vigente (aplican términos y condiciones)",
+    "fuente": "JAC México (sitio oficial: ficha técnica y términos de garantías)",
+    "url": "https://www.jac.mx/legales/terminos-condiciones-garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "JAC 8 (página oficial)",
+      "url": "https://www.jac.mx/jac8",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial JAC 8 2027",
+      "url": "https://s3-giant-motors-cms-media-prod.s3.us-east-1.amazonaws.com/Ficha%20te%C3%8Ccnica%20JAC8.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Tabla oficial de rendimiento combinado JAC (año modelo 2026/2027), sección legal",
+      "url": "https://www.jac.mx/legales",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha no dice si el motor 1.5 L es turbo (la página lo llama 1.5 L TGDI)",
+    "Sin oferta con condiciones publicada para este modelo en el sitio de JAC al 25-oct-2026; JAC aclara que sus precios son los recomendados al distribuidor"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "Deepal S05",
+  "slug": "deepal-s05",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "REEV",
+      "anio": 2026,
+      "precio": 719900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Rango extendido: 1.5 L (96 hp, funciona como generador) + motor eléctrico de 160 kW; batería LFP de 27.28 kWh",
+      "potenciaHp": 214,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 158,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/deepal-s05",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor eléctrico de 214 hp y 236 lb-ft, tracción trasera, transmisión de relación fija, 0 a 100 km/h en 7.9 s. Autonomía eléctrica 158 km y combinada 1,129 km (NEDC). Rendimiento de laboratorio: ciudad 24.1, carretera 19.2 y combinado 21.6 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia (vehículos, peatones y ciclistas) y frenado trasero automático según la ficha. Head-Up Display, pantalla de 15.4\", incluye cargador de casa. Rendimiento combinado oficial de 21.6 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Esquema para vehículos eléctricos: batería de alto voltaje 8 años o 200,000 km; defensa a defensa 6 años o 150,000 km; tren motriz 8 años o 150,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan Deepal S05",
+      "url": "https://www.changan.mx/models/deepal-s05",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Deepal S05",
+      "url": "https://www.changan.mx/profile/upload/2026/06/22/DEEPAL_S05_57a27d8b.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Es un híbrido de rango extendido (REEV); se clasificó como híbrido enchufable",
+    "Garantía: la página de Changan publica un esquema para \"vehículos de gasolina\" y otro para \"vehículos eléctricos\"; no aclara cuál aplica a los híbridos enchufables y de rango extendido. Se registró el esquema eléctrico, por confirmar"
+  ]
+}

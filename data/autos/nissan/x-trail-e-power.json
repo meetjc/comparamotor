@@ -1,0 +1,84 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "X-Trail e-POWER",
+  "slug": "x-trail-e-power",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Exclusive e-POWER",
+      "anio": 2027,
+      "precio": 751990,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.5 L turbo 3 cil. + motor eléctrico (e-POWER)",
+      "potenciaHp": 201,
+      "rendimientoCombinadoKmL": 21.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail-e-power.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio publicado en nissan.com.mx como 'Estrena desde'. Tracción delantera, motor eléctrico de 201 hp. Rendimiento combinado 21.1 km/l (ciudad 22.1, carretera 19.9). Sistema e-POWER: motor de gasolina 1.5 L turbo de 3 cilindros (142 hp) que genera electricidad; las ruedas las mueve el motor eléctrico. Transmisión de caja reductora (una velocidad). 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina). Frenado Inteligente de Emergencia con Detección de Peatones incluido."
+    },
+    {
+      "nombre": "Platinum e-POWER e-4ORCE",
+      "anio": 2027,
+      "precio": 899990,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.5 L turbo 3 cil. + dos motores eléctricos (e-POWER e-4ORCE)",
+      "potenciaHp": 210,
+      "rendimientoCombinadoKmL": 18.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail-e-power.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio publicado en nissan.com.mx. Tracción integral e-4ORCE con dos motores eléctricos (210 hp combinados). Rendimiento combinado 18.8 km/l (ciudad 19.2, carretera 18.4). Sistema e-POWER: motor de gasolina 1.5 L turbo de 3 cilindros (142 hp) que genera electricidad; las ruedas las mueve el motor eléctrico. Transmisión de caja reductora (una velocidad). 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina). Frenado Inteligente de Emergencia con Detección de Peatones incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero, más 2 años adicionales en ciertos componentes del sistema e-POWER",
+    "fuente": "Nissan México (sitio oficial, preguntas frecuentes de la página del modelo)",
+    "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail-e-power.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Bono especial + 1 año de seguro gratis en X-Trail e-POWER 2027.",
+      "precioOferta": null,
+      "condicion": "Monto del bono no publicado; consultar con el distribuidor. El texto legal menciona crédito tradicional con NR Finance México, sujeto a aprobación.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail-e-power.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Nissan X-Trail e-POWER (página del modelo)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail-e-power.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Nissan X-Trail e-POWER: precios y versiones",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail-e-power/precios-y-versiones.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial X-Trail e-POWER 2027 (catálogo)",
+      "url": "https://www.nissan.com.mx/content/dam/Nissan/mexico/assets/xtrail_e_power/my27/vlp/catalogos/nissan-2027-x_trail_e_power-catalogo.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Precio: la página muestra $751,990 y $899,990 sin etiqueta de 'precio de lista' y con un texto legal genérico de precio especial con crédito; distribuidores y Autocosmos los citan como precio de lista. Confirmar en la próxima revisión.",
+    "Monto del bono especial no publicado."
+  ]
+}

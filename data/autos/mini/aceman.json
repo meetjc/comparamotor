@@ -1,0 +1,91 @@
+{
+  "marca": "MINI",
+  "marcaSlug": "mini",
+  "modelo": "Aceman",
+  "slug": "aceman",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "britanica",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "E",
+      "anio": 2026,
+      "precio": 752000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor",
+      "potenciaHp": 184,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 309,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Batería de 38.5 kWh, hasta 309 km (WLTP), tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    },
+    {
+      "nombre": "SE",
+      "anio": 2026,
+      "precio": 872000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor",
+      "potenciaHp": 218,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 405,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Batería de 49.2 kWh, hasta 405 km (WLTP), tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    },
+    {
+      "nombre": "John Cooper Works Aceman E",
+      "anio": 2026,
+      "precio": 962000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor",
+      "potenciaHp": 258,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 355,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Batería de 49.2 kWh, hasta 355 km (WLTP), tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía MINI por 3 años o 200,000 km (lo que ocurra primero); en versiones eléctricas, la batería de alto voltaje tiene 8 años o 160,000 km",
+    "fuente": "MINI México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mini.com.mx/es_MX/home/local/ft/ft-2/fichas-tecnicas-modelos-mini.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios MINI México",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "MINI Aceman (página oficial)",
+      "url": "https://www.mini.com.mx/es_MX/home/range/mini-aceman.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MINI Aceman (aceman) 2026",
+      "url": "https://www.mini.com.mx/content/dam/MINI/marketMX/mini_com_mx/FT/ft_2026/Agosto/FichaTecnica_DIGITAL_MINI%20Aceman%20El%C3%A9ctrico_J05_2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Los precios de las fichas técnicas son anteriores a la lista de precios vigente; se usó la lista: E (ficha $749,000, lista $752,000); SE (ficha $860,000, lista $872,000); John Cooper Works Aceman E (ficha $950,000, lista $962,000)",
+    "Las fichas de MINI describen un Driving Assistant (alerta de cambio de carril, tráfico cruzado, prevención de colisión trasera) pero no confirman frenado automático de emergencia frontal"
+  ]
+}

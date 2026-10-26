@@ -1,0 +1,100 @@
+{
+  "marca": "Porsche",
+  "marcaSlug": "porsche",
+  "modelo": "Macan",
+  "slug": "macan",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Macan",
+      "anio": 2026,
+      "precio": 1318000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina",
+      "potenciaHp": 265,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/macan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería SUV, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    },
+    {
+      "nombre": "Macan T",
+      "anio": 2026,
+      "precio": 1418000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina",
+      "potenciaHp": 265,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/macan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería SUV, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    },
+    {
+      "nombre": "Macan S",
+      "anio": 2026,
+      "precio": 1618000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina",
+      "potenciaHp": 380,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/macan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería SUV, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    },
+    {
+      "nombre": "Macan GTS",
+      "anio": 2026,
+      "precio": 1978000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina",
+      "potenciaHp": 440,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/macan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería SUV, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    }
+  ],
+  "garantia": null,
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Porsche México: modelos y precios",
+      "url": "https://www.porsche.com/mexico/models/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Porsche Macan (página oficial)",
+      "url": "https://www.porsche.com/mexico/models/macan/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Porsche México publica precio y potencia por versión, pero no rendimiento, autonomía, número de bolsas de aire ni frenado automático en la página de modelos; quedan por confirmar con la ficha de cada versión",
+    "La página no indica si los precios incluyen IVA e ISAN",
+    "Porsche México no publica ficha técnica PDF descargable; no se registró garantía porque no se encontró en el sitio oficial"
+  ]
+}

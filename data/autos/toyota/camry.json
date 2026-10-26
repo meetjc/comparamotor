@@ -1,0 +1,101 @@
+{
+  "marca": "Toyota",
+  "marcaSlug": "toyota",
+  "modelo": "Camry",
+  "slug": "camry",
+  "carroceria": "sedan",
+  "segmento": "mediano",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "LE HEV",
+      "anio": 2026,
+      "precio": 625600,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.5 L 4 cil. híbrido (225 HP combinados)",
+      "potenciaHp": 225,
+      "rendimientoCombinadoKmL": 27.26,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/hibridos/camry-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable, tracción delantera. 8 bolsas de aire (frontales, laterales, de rodillas y de cortina). Toyota Safety Sense con pre-colisión y detección de peatones. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "XSE HEV",
+      "anio": 2026,
+      "precio": 705600,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.5 L 4 cil. híbrido (225 HP combinados)",
+      "potenciaHp": 225,
+      "rendimientoCombinadoKmL": 27.26,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/hibridos/camry-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable, tracción delantera. 8 bolsas de aire (frontales, laterales, de rodillas y de cortina). Toyota Safety Sense con pre-colisión y detección de peatones. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "XSE Bi-tono HEV",
+      "anio": 2026,
+      "precio": 715600,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.5 L 4 cil. híbrido (225 HP combinados)",
+      "potenciaHp": 225,
+      "rendimientoCombinadoKmL": 27.26,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/hibridos/camry-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable, pintura bitono. 8 bolsas de aire (frontales, laterales, de rodillas y de cortina). Toyota Safety Sense con pre-colisión y detección de peatones. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "XLE HEV",
+      "anio": 2026,
+      "precio": 760600,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.5 L 4 cil. híbrido (225 HP combinados)",
+      "potenciaHp": 225,
+      "rendimientoCombinadoKmL": 27.26,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/hibridos/camry-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable, tracción delantera. 8 bolsas de aire (frontales, laterales, de rodillas y de cortina). Toyota Safety Sense con pre-colisión y detección de peatones. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "36 meses o 60,000 km, lo que ocurra primero (garantía de todos los autos nuevos Toyota; cubre defectos de materiales o mano de obra)",
+    "fuente": "Toyota México (sitio oficial, Cuidamos tu auto)",
+    "url": "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.toyota.mx/modelos/hibridos/camry-hev/",
+    {
+      "nombre": "Ficha técnica oficial Camry HEV 2026",
+      "url": "https://www.toyota.mx/content/dam/tmex/camry-hev/ficha/Ficha_tecnica_CAMRY_HEV_26_web.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Toyota México solo vende Camry híbrido (HEV); no hay versión de gasolina",
+    "Toyota publica una sola cifra de rendimiento (27.26 km/l) para todas las versiones",
+    "Sin oferta o promoción vigente publicada por Toyota para Camry en octubre 2026",
+    "Clasificación del segmento (mediano) es criterio editorial, no viene de la marca"
+  ]
+}

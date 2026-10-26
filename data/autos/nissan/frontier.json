@@ -17,14 +17,14 @@
       "transmision": "manual",
       "motor": "2.5 L gasolina",
       "potenciaHp": 166,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.9,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
-      "fuente": "Nissan México (sitio oficial)",
+      "fuente": "Nissan México (sitio oficial: página del modelo y catálogo PDF 2026)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/frontier.html",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $401,990 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L 166 hp. Transmisión manual de 6 velocidades, 4x2. Rines de acero de 16\". 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $401,990 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L 166 hp. Transmisión manual de 6 velocidades, 4x2. Rines de acero de 16\". 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial. Rendimiento combinado 11.9 km/l según el catálogo PDF 2026."
     },
     {
       "nombre": "XE TM 2026",
@@ -34,14 +34,14 @@
       "transmision": "manual",
       "motor": "2.5 L gasolina",
       "potenciaHp": 166,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.4,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
-      "fuente": "Nissan México (sitio oficial)",
+      "fuente": "Nissan México (sitio oficial: página del modelo y catálogo PDF 2026)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/frontier.html",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $458,990 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L 166 hp (motor gasolina publicado en la FAQ del modelo). Manual de 6 velocidades, 4x2. Rines de aluminio de 17\". 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $458,990 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L 166 hp. Manual de 6 velocidades, 4x2. Rines de aluminio de 17\". 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial. Rendimiento combinado 11.4 km/l según el catálogo PDF 2026."
     },
     {
       "nombre": "LE TM 2026",
@@ -51,14 +51,14 @@
       "transmision": "manual",
       "motor": "2.5 L gasolina",
       "potenciaHp": 166,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.4,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
-      "fuente": "Nissan México (sitio oficial)",
+      "fuente": "Nissan México (sitio oficial: página del modelo y catálogo PDF 2026)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/frontier.html",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $577,990 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L 166 hp (FAQ del modelo). Manual de 6 velocidades, 4x2. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $577,990 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L 166 hp. Manual de 6 velocidades, 4x2. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial. Rendimiento combinado 11.4 km/l según el catálogo PDF 2026."
     },
     {
       "nombre": "LE TA 2026",
@@ -68,14 +68,14 @@
       "transmision": "automatica",
       "motor": "2.5 L gasolina",
       "potenciaHp": 166,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.8,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
-      "fuente": "Nissan México (sitio oficial)",
+      "fuente": "Nissan México (sitio oficial: página del modelo y catálogo PDF 2026)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/frontier.html",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $599,990 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L 166 hp (FAQ del modelo). Automática de 7 velocidades con M-Mode, tracción 2WD. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $599,990 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L 166 hp. Automática de 7 velocidades con M-Mode, tracción 2WD. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial. Rendimiento combinado 11.8 km/l según el catálogo PDF 2026."
     },
     {
       "nombre": "PLATINUM LE TA 2026",
@@ -85,14 +85,14 @@
       "transmision": "automatica",
       "motor": "2.5 L gasolina",
       "potenciaHp": 166,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 11.8,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
-      "fuente": "Nissan México (sitio oficial)",
+      "fuente": "Nissan México (sitio oficial: página del modelo y catálogo PDF 2026)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/frontier.html",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $694,990 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L 166 hp (FAQ del modelo). Automática de 7 velocidades, 4x2. Incluye Monitor Inteligente de Visión Periférica. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $694,990 (vigencia 01-oct a 02-nov-2026). Gasolina 2.5 L 166 hp. Automática de 7 velocidades, 4x2. Incluye Monitor Inteligente de Visión Periférica. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial. Rendimiento combinado 11.8 km/l según el catálogo PDF 2026."
     },
     {
       "nombre": "PRO-4X 4X4 TA 2026",
@@ -100,16 +100,16 @@
       "precio": 810990,
       "moneda": "MXN",
       "transmision": "automatica",
-      "motor": null,
-      "potenciaHp": null,
-      "rendimientoCombinadoKmL": null,
+      "motor": "2.5 L gasolina",
+      "potenciaHp": 162,
+      "rendimientoCombinadoKmL": 11.0,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
-      "fuente": "Nissan México (sitio oficial)",
+      "fuente": "Nissan México (sitio oficial: página del modelo y catálogo PDF 2026)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/frontier.html",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $726,990 (vigencia 01-oct a 02-nov-2026). Tracción 4x4, automática de 7 velocidades. La ficha de la versión no publica motor ni potencia (el sitio ofrece gasolina 2.5 L 166 hp y diésel 2.5 L 161 o 188 hp según versión), por lo que se dejan en por confirmar. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $726,990 (vigencia 01-oct a 02-nov-2026). Tracción 4x4, automática de 7 velocidades. Gasolina 2.5 L de 162 hp y 175 lb-pie según el catálogo PDF 2026. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial. Rendimiento combinado 11.0 km/l según el catálogo PDF 2026."
     },
     {
       "nombre": "DC DIESEL 4X4 TM 2026",
@@ -119,14 +119,14 @@
       "transmision": "manual",
       "motor": "2.5 L diésel",
       "potenciaHp": 161,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 13.0,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
-      "fuente": "Nissan México (sitio oficial)",
+      "fuente": "Nissan México (sitio oficial: página del modelo y catálogo PDF 2026)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/frontier.html",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $528,990 (vigencia 01-oct a 02-nov-2026). Diésel 2.5 L 161 hp, 297 lb-pie, tracción 4x4, manual de 6 velocidades. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $528,990 (vigencia 01-oct a 02-nov-2026). Diésel 2.5 L 161 hp, 297 lb-pie, tracción 4x4, manual de 6 velocidades. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial. Rendimiento combinado 13.0 km/l según el catálogo PDF 2026."
     },
     {
       "nombre": "PLATINUM LE DIESEL 4X4 TA 2026",
@@ -136,20 +136,20 @@
       "transmision": "automatica",
       "motor": "2.5 L diésel",
       "potenciaHp": 188,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 12.54,
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
-      "fuente": "Nissan México (sitio oficial)",
+      "fuente": "Nissan México (sitio oficial: página del modelo y catálogo PDF 2026)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/frontier.html",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $769,990 (vigencia 01-oct a 02-nov-2026). Diésel 2.5 L 188 hp, 332 lb-pie, tracción 4x4, automática de 7 velocidades. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en nissan.com.mx. Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $769,990 (vigencia 01-oct a 02-nov-2026). Diésel 2.5 L 188 hp, 332 lb-pie, tracción 4x4, automática de 7 velocidades. 6 bolsas de aire con ABS, EBD, BA y VDC. Todas las versiones integran Frenado Inteligente de Emergencia (I-EB) y Alerta de Colisión Frontal según la FAQ oficial. Rendimiento combinado 12.54 km/l según el catálogo PDF 2026."
     }
   ],
   "garantia": {
-    "texto": null,
-    "fuente": null,
-    "url": null
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía de fábrica; requiere servicios cada 6 meses o 10,000 km)",
+    "fuente": "Nissan México (Portal de Clientes oficial, artículo del 28-mar-2025)",
+    "url": "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
   },
   "ofertas": [
     {
@@ -159,17 +159,20 @@
       "vigenciaHasta": "2026-11-02",
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/frontier.html",
-      "fechaVerificacion": "2026-10-24"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [
-    "https://www.nissan.com.mx/vehiculos/todos/frontier.html"
+    "https://www.nissan.com.mx/vehiculos/todos/frontier.html",
+    {
+      "nombre": "Ficha técnica oficial Frontier 2026 (catálogo)",
+      "url": "https://www.nissan.com.mx/content/dam/Nissan/mexico/assets/frontier/my26/vlp/catalogos/nissan-2026-frontier-catalogo.pdf",
+      "tipo": "oficial"
+    },
+    "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
   ],
   "pendientes": [
-    "Garantía oficial (no publicada en la página del modelo)",
-    "Rendimiento combinado oficial por versión",
-    "Motor y potencia de la versión PRO-4X 4X4 TA",
-    "Potencia/motor de XE, LE y Platinum LE TA inferidos del motor gasolina único de la FAQ (no listado por versión)",
-    "Frontier diésel y gasolina conviven en el catálogo; propulsion del modelo = gasolina por mayoría de versiones"
+    "Frontier diésel y gasolina conviven en el catálogo; propulsion del modelo = gasolina por mayoría de versiones",
+    "La Frontier V6 PRO-4X (3.8 L, desde $1,071,900) es otro modelo: ver data/autos/nissan/frontier-v6-pro-4x.json."
   ]
 }

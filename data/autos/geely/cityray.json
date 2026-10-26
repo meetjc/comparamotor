@@ -1,0 +1,67 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "Cityray",
+  "slug": "cityray",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GF Bitono",
+      "anio": 2026,
+      "precio": 528990,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 172,
+      "rendimientoCombinadoKmL": 17.87,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/cityray",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "172 hp @ 5,500 rpm y 290 Nm, doble embrague (DCT) de 7 velocidades, tracción delantera. Rendimiento de laboratorio: ciudad 15.70, carretera 21.51 y combinado 17.87 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia, alerta de colisión frontal y control crucero adaptativo según la ficha. Pantalla vertical de 13.2\", cámara 360°, techo panorámico, carrocería bitono."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz (motor y transmisión) 8 años o 250,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/cityray"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Cityray 2026 GF Bitono: mensualidades desde $5,459 con tasa desde 10.99%, o enganche desde $106,000 con 0% de comisión por apertura",
+      "precioOferta": null,
+      "condicion": "Precio de referencia $528,990; enganche de 20% a 72 meses y tasa de 15.99% en la opción de 0% de comisión (plan CAMP). Vigencia del 30 de septiembre al 30 de octubre de 2026 o hasta agotar existencias; crédito simple con Geely Financial Services (BBVA México), sujeto a aprobación; CAT promedio 25.61% sin IVA (calculado al 31-ago-2026); no acumulable con otras promociones ni válido en flotillas.",
+      "vigenciaHasta": "2026-10-30",
+      "fuente": "Geely México (sitio oficial, promociones)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Geely Cityray",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/cityray",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Cityray 2026",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-cityray-2026-ficha-tecnica-05.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Única versión publicada: GF Bitono 2026 (el sitio ya no muestra GL)",
+    "Ofertas: las promociones de Geely son de financiamiento (mensualidad, tasa, meses sin intereses o bonos con crédito BBVA); el precio de lista no cambia salvo donde se indica"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "marca": "Ram",
+  "marcaSlug": "ram",
+  "modelo": "ProMaster",
+  "slug": "promaster",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "2500 11.5 m3",
+      "anio": 2026,
+      "precio": 1044900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.6 L V6 (Pentastar)",
+      "potenciaHp": 280,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-promaster.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Van de carga de 11.5 m³, tracción delantera. Automática de 9 velocidades. Bolsas frontales, laterales y de cortina (sin total en la ficha). Incluye prevención de colisión frontal y detección de peatones y ciclistas. Datos técnicos de la ficha 2025, la más reciente publicada. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "RAM México (sitio oficial, ficha técnica)",
+    "url": "https://www.ram.com/content/dam/cross-regional/nafta/ramtrucks/es_mx/archivos-descargables/ram-promaster-2025/FT_RAM_PROMASTER_2025_04SEPT2024_V1.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo RAM ProMaster",
+      "url": "https://www.ram.com/mx/ram-promaster.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios RAM",
+      "url": "https://www.ram.com/hostb/fiat_mx/JSONConversion/ram/ram-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RAM ProMaster 2025",
+      "url": "https://www.ram.com/content/dam/cross-regional/nafta/ramtrucks/es_mx/archivos-descargables/ram-promaster-2025/FT_RAM_PROMASTER_2025_04SEPT2024_V1.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica publicada es del año modelo 2025; el precio es del año modelo 2026",
+    "Rendimiento combinado y total de bolsas de aire: no publicados",
+    "La lista oficial de precios también incluye unidades de años modelo anteriores con otros precios; aquí solo se muestran las del año modelo vigente. (ProMaster 2024 y 2025). ProMaster Rapid 2024 sigue en la lista de precios pero ya no tiene página de modelo."
+  ]
+}

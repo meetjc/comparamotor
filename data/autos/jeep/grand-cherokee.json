@@ -1,0 +1,110 @@
+{
+  "marca": "Jeep",
+  "marcaSlug": "jeep",
+  "modelo": "Grand Cherokee",
+  "slug": "grand-cherokee",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Altitude I4 Turbo 4X2",
+      "anio": 2027,
+      "precio": 1206900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L I4 turbo (Hurricane)",
+      "potenciaHp": 324,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/grand-cherokee.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Tracción trasera. Automática de 8 velocidades. Bolsas frontales multietapa, de rodilla para conductor y pasajero, laterales delanteras y de cortina (sin total en la ficha). Incluye prevención de colisión frontal plus y en intersección. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Limited I4 Turbo 4X4",
+      "anio": 2027,
+      "precio": 1416900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L I4 turbo (Hurricane)",
+      "potenciaHp": 324,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/grand-cherokee.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "4x4. Automática de 8 velocidades. Bolsas frontales multietapa, de rodilla para conductor y pasajero, laterales delanteras y de cortina (sin total en la ficha). Incluye prevención de colisión frontal plus y en intersección. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Limited L I4 Turbo 4X4",
+      "anio": 2027,
+      "precio": 1476900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L I4 turbo (Hurricane)",
+      "potenciaHp": 324,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/grand-cherokee.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Versión larga, 4x4. Automática de 8 velocidades. Bolsas frontales multietapa, de rodilla para conductor y pasajero, laterales delanteras y de cortina (sin total en la ficha). Incluye prevención de colisión frontal plus y en intersección. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Summit I4 Turbo 4X4",
+      "anio": 2026,
+      "precio": 1603900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L I4 turbo (Hurricane)",
+      "potenciaHp": 324,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/grand-cherokee.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2026: la lista 2027 todavía no incluye la Summit. 4x4. Automática de 8 velocidades. Bolsas frontales multietapa, de rodilla para conductor y pasajero, laterales delanteras y de cortina (sin total en la ficha). Incluye prevención de colisión frontal plus y en intersección. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Jeep México (sitio oficial, ficha técnica)",
+    "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/grand-cherokee/FT_JEEP_GCH_2026_07MAY2026_V2.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Jeep Grand Cherokee",
+      "url": "https://www.jeep.com.mx/grand-cherokee.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Jeep",
+      "url": "https://www.jeep.com.mx/hostb/fiat_mx/JSONConversion/jeep/jeep-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Jeep Grand Cherokee 2026",
+      "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/grand-cherokee/FT_JEEP_GCH_2026_07MAY2026_V2.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica publicada es 2026; Altitude, Limited y Limited L tienen precio 2027 (las 2026 cuestan $1,094,900, $1,272,900 y $1,333,900)",
+    "Rendimiento combinado: la ficha no lo publica",
+    "Grand Cherokee 4xe (híbrido enchufable) 2025 sigue en la lista de precios ($1,735,900 a $2,169,900) pero no en el menú de modelos; no se incluyó",
+    "Total de bolsas de aire: la ficha lista los tipos sin total"
+  ]
+}

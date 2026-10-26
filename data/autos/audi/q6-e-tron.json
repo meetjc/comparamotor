@@ -1,0 +1,98 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "Q6 e-tron",
+  "slug": "q6-e-tron",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "alemana",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "55 e-tron Advanced quattro",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, 2 motores; batería de 94.9 kWh netos",
+      "potenciaHp": 390,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 536,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q6-e-tron/q6etron/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales y laterales delanteros y traseros con airbag de cabeza. Tracción quattro, transmisión de 1 velocidad. Autonomía WLTP de 536 a 625 km según la ficha. Audi no publica su precio."
+    },
+    {
+      "nombre": "55 e-tron S line quattro",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, 2 motores; batería de 94.9 kWh netos",
+      "potenciaHp": 390,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 536,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q6-e-tron/q6etron/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales y laterales delanteros y traseros con airbag de cabeza. Tracción quattro, transmisión de 1 velocidad. Autonomía WLTP de 536 a 625 km según la ficha. Audi no publica su precio."
+    },
+    {
+      "nombre": "SQ6 e-tron quattro",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, 2 motores; batería de 94.9 kWh netos",
+      "potenciaHp": 490,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 560,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q6-e-tron/sq6-suv-e-tron/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales y laterales delanteros y traseros con airbag de cabeza. Tracción quattro, transmisión de 1 velocidad. Autonomía WLTP de 560 a 598 km según la ficha. Versión deportiva con página propia. Audi no publica su precio."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Audi Q6 SUV e-tron (página oficial)",
+      "url": "https://www.audi.com.mx/es/models/q6-e-tron/q6etron/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Audi SQ6 SUV e-tron (página oficial)",
+      "url": "https://www.audi.com.mx/es/models/q6-e-tron/sq6-suv-e-tron/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Q6 SUV e-tron 2025",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my25/q6_suv_e-tron_audi_ficha_tecnica_2025.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial SQ6 e-tron 2025",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my25/sq6_etron_ficha_tecnica_2025.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "Q6 SUV e-tron y SQ6 SUV e-tron 2025: sin precio publicado ni configurador (\"Consulta disponibilidad\")",
+    "La autonomía se tomó del valor menor del rango WLTP que da la ficha, que no la separa por versión",
+    "El Q6 Sportback e-tron 2027 sí tiene precio y va en q6-sportback-e-tron.json"
+  ]
+}

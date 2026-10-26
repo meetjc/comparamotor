@@ -1,0 +1,90 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "Eado Plus",
+  "slug": "eado-plus",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Luxury",
+      "anio": 2026,
+      "precio": 379900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 178,
+      "rendimientoCombinadoKmL": 16.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/eado-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "178 hp y 206 lb-ft, doble embrague (DCT) de 7 velocidades. Rendimiento de laboratorio: ciudad 12.6, carretera 20.4 y combinado 16.1 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Sin frenado autónomo de emergencia en Luxury según la ficha. Pantalla de 13.2\", rines de 17\"."
+    },
+    {
+      "nombre": "Premium",
+      "anio": 2026,
+      "precio": 419000,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 178,
+      "rendimientoCombinadoKmL": 16.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/eado-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "178 hp y 206 lb-ft, DCT de 7 velocidades. Rendimiento combinado de laboratorio 16.1 km/l. 6 bolsas de aire. Frenado autónomo de emergencia (incluye peatones), alerta de colisión frontal, control crucero adaptativo y punto ciego según la ficha. Cámara 540°, techo panorámico, rines de 18\"."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz 7 años o 200,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Eado Plus: precio especial de promoción desde $379,900 (precio de lista de Luxury 2026)",
+      "precioOferta": null,
+      "condicion": "Promoción válida en México del 1 al 31 de octubre de 2026 o hasta agotar existencias; no acumulable ni aplicable a flotillas; consulta términos con tu distribuidor (página de promociones de Changan).",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Changan México (sitio oficial, página del modelo y promociones)",
+      "url": "https://www.changan.mx/compra/promociones-autos-nuevos",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Eado Plus Premium 2026: precio con bono de $399,000 (bono de $20,000 sobre $419,000)",
+      "precioOferta": 399000,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/eado-plus",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan Eado Plus",
+      "url": "https://www.changan.mx/models/eado-plus",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Eado Plus",
+      "url": "https://www.changan.mx/file/manual/EADO-PLUS.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": []
+}

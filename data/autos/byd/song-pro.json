@@ -1,0 +1,68 @@
+{
+  "marca": "BYD",
+  "marcaSlug": "byd",
+  "modelo": "Song Pro DM-i",
+  "slug": "song-pro",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Song Pro DM-i 1.5L FWD 71 km",
+      "anio": 2026,
+      "precio": 599880,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.5 L híbrido enchufable (78 kW) + motor eléctrico 145 kW (300 N·m); batería Blade 12.9 kWh",
+      "potenciaHp": 220,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 71,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.byd.com/mx/car/song-pro-dmi",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada de 220 hp, tracción delantera, 0-100 km/h en 8.3 s. Autonomía eléctrica NEDC de 71 km y combinada de 1,001 km. BYD publica un consumo combinado NEDC de 22.7 km/l; no se registra como rendimiento combinado para no mezclar ciclos de medición con los autos de gasolina. Carga AC 6.6 kW. 6 bolsas de aire inferidas de la ficha (frontales, laterales delanteras y cortina). La ficha lista control crucero pero no frenado autónomo de emergencia. Precio del configurador oficial (código CX005019)."
+    }
+  ],
+  "garantia": {
+    "texto": "Vehículo hasta 6 años o 150,000 km (defensa a defensa); batería hasta 8 años o 200,000 km; sistema de alto voltaje y motor eléctrico hasta 8 años o 150,000 km (lo que ocurra primero). Sujeta a servicios de mantenimiento según el manual",
+    "fuente": "BYD México (sitio oficial, página del modelo)",
+    "url": "https://www.byd.com/mx/car/song-pro-dmi"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Song Pro DM-i modelo 2026: mensualidad de $4,745 con bono de $35,000 (IVA incluido) aplicado a la tasa",
+      "precioOferta": null,
+      "condicion": "Crédito simple con BBVA México, sujeto a aprobación: enganche desde 50%, importe promedio a financiar $299,940, 72 meses, tasa fija anual sin IVA de 3.75%. No incluye seguro y no es acumulable. CAT promedio 6.7% sin IVA, calculado al 01-oct-2026. El cargador doméstico no incluye instalación.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "BYD Song Pro DM-i en BYD México",
+      "url": "https://www.byd.com/mx/car/song-pro-dmi",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BYD Song Pro DM-i",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20SONG%20PRO%2020260911-MX.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ofertas BYD octubre 2026 (legales)",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento: BYD publica 22.7 km/l combinado NEDC; queda fuera del campo por usar otro ciclo. Decidir un criterio común para híbridos enchufables",
+    "Tipo de transmisión: BYD no la nombra; se marcó como directa",
+    "Cifra total de bolsas de aire inferida de los tipos listados en la ficha"
+  ]
+}

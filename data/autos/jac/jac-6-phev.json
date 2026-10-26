@@ -1,0 +1,75 @@
+{
+  "marca": "JAC",
+  "marcaSlug": "jac",
+  "modelo": "JAC 6 PHEV",
+  "slug": "jac-6-phev",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Dual e-drive",
+      "anio": 2027,
+      "precio": 599000,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "1.5 L 4 cil. (ciclo Atkinson) + motor eléctrico; batería NMC de 21.68 kWh",
+      "potenciaHp": 310,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 120,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/phev/jac6-phev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable. Motor de gasolina de 109 hp y motor eléctrico de 201 hp; potencia combinada de 310 hp según la página. Transmisión E-CVT (DHT). Autonomía eléctrica de 120 km y combinada de 1,150 km (NEDC). Rendimiento combinado de 30.5 km/l (cifra de laboratorio de híbrido enchufable). 6 bolsas de aire. Incluye frenado autónomo de emergencia y control crucero adaptativo. Rendimiento combinado oficial de 30.5 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "Dual e-drive",
+      "anio": 2026,
+      "precio": 599000,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "1.5 L 4 cil. (ciclo Atkinson) + motor eléctrico; batería NMC de 21.68 kWh",
+      "potenciaHp": 310,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 120,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/phev/jac6-phev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2026, mismo precio y misma versión que el 2027. Datos de la ficha oficial (publicada como año 2027). Rendimiento combinado oficial de 30.5 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero, de acuerdo con la póliza de garantía vigente (aplican términos y condiciones)",
+    "fuente": "JAC México (sitio oficial: ficha técnica y términos de garantías)",
+    "url": "https://www.jac.mx/legales/terminos-condiciones-garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "JAC 6 PHEV (página oficial)",
+      "url": "https://www.jac.mx/phev/jac6-phev",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial JAC 6 PHEV 2027",
+      "url": "https://s3-giant-motors-cms-media-prod.s3.us-east-1.amazonaws.com/Ficha%20te%C3%8Ccnica%20JAC6%20PHEV-1.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Tabla oficial de rendimiento combinado JAC (año modelo 2026/2027), sección legal",
+      "url": "https://www.jac.mx/legales",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La potencia combinada (310 hp) sale de la página del modelo; la ficha solo da 109 hp del motor de gasolina y 201 hp del eléctrico",
+    "Sin oferta con condiciones publicada para este modelo en el sitio de JAC al 25-oct-2026; JAC aclara que sus precios son los recomendados al distribuidor",
+    "JAC menciona que puede incluir un cargador portátil de 1.8 kW sujeto a disponibilidad"
+  ]
+}

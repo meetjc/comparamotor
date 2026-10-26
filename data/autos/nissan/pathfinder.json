@@ -1,0 +1,66 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "Pathfinder",
+  "slug": "pathfinder",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Platinum",
+      "anio": 2026,
+      "precio": 1199990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6 (VQ35DD)",
+      "potenciaHp": 270,
+      "rendimientoCombinadoKmL": 11.85,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/pathfinder.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $1,146,990 (vigencia 01-oct a 02-nov-2026). Automática de 9 velocidades con modo manual, tracción 4WD. Rendimiento combinado 11.85 km/l. 7 bolsas de aire (2 frontales, 2 laterales, 2 de cortina y 1 de rodilla para conductor). Frenado Inteligente de Emergencia con Detección de Peatones incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía de fábrica; requiere servicios cada 6 meses o 10,000 km)",
+    "fuente": "Nissan México (Portal de Clientes oficial, artículo del 28-mar-2025)",
+    "url": "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Precio especial CrediNissan $1,146,990 en Pathfinder Platinum; la página también anuncia tasa de 14.99% o 1 año de seguro gratis.",
+      "precioOferta": 1146990,
+      "condicion": "Solo crédito tradicional con NR Finance México, sujeto a aprobación y comportamiento crediticio; no aplica con otras promociones. Sin crédito rige el precio de lista.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/pathfinder.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Nissan Pathfinder (página del modelo)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/pathfinder.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Nissan Pathfinder: precios y versiones",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/pathfinder/precios-y-versiones.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Pathfinder 2026 (catálogo)",
+      "url": "https://www.nissan.com.mx/content/dam/Nissan/mexico/assets/pathfinder/my26/vlp/catalogos/nissan-2026-pathfinder-catalogo.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Condiciones de la tasa de 14.99% (plazo, enganche, CAT) no publicadas junto a la leyenda."
+  ]
+}

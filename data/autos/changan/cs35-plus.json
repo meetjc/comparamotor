@@ -1,0 +1,74 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "CS35 Plus",
+  "slug": "cs35-plus",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Comfort",
+      "anio": 2026,
+      "precio": 379900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.4 L turbo 4 cil.",
+      "potenciaHp": 158,
+      "rendimientoCombinadoKmL": 14.4,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/cs35-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "158 hp y 192 lb-ft, doble embrague (DCT) de 7 velocidades. Rendimiento de laboratorio: ciudad 12.1, carretera 18.8 y combinado 14.4 km/l. 2 bolsas de aire frontales según la ficha. Sin frenado autónomo de emergencia. Pantalla de 7\", asientos de tela."
+    },
+    {
+      "nombre": "Premium",
+      "anio": 2025,
+      "precio": 439900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.4 L turbo 4 cil.",
+      "potenciaHp": 158,
+      "rendimientoCombinadoKmL": 14.4,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/cs35-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2025. 158 hp y 192 lb-ft, DCT de 7 velocidades. Rendimiento combinado de laboratorio 14.4 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia, alerta de colisión frontal y control crucero adaptativo según la ficha. Techo panorámico, cámara 360°."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz 7 años o 200,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan CS35 Plus",
+      "url": "https://www.changan.mx/models/cs35-plus",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial CS35 Plus",
+      "url": "https://www.changan.mx/file/manual/cs35-plus.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha también incluye una versión Luxury que no aparece a la venta en la página del modelo",
+    "Conviven Comfort 2026 y Premium 2025 (marcado con asterisco en el sitio)"
+  ]
+}

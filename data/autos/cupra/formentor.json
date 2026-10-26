@@ -1,0 +1,145 @@
+{
+  "marca": "CUPRA",
+  "marcaSlug": "cupra",
+  "modelo": "Formentor",
+  "slug": "formentor",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "espanola",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "MHEV",
+      "anio": 2026,
+      "precio": 667900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L 4 cil. turbo (TSI) con sistema híbrido ligero (MHEV)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 18.9,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/formentor/formentor-mhev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "7 bolsas de aire (frontales, laterales delanteras, de cortina y central delantera). DSG de 7 velocidades, tracción delantera. Asistente de colisión frontal con freno de emergencia de serie. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+    },
+    {
+      "nombre": "190 HP",
+      "anio": 2026,
+      "precio": 699900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 190,
+      "rendimientoCombinadoKmL": 16.7,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/formentor/formentor-190",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "7 bolsas de aire (frontales, laterales delanteras, de cortina y central delantera). DSG de 7 velocidades, tracción delantera. Asistente de colisión frontal con freno de emergencia de serie. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+    },
+    {
+      "nombre": "PHEV",
+      "anio": 2026,
+      "precio": 899900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L 4 cil. turbo híbrido enchufable (PHEV)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 118,
+      "bolsasAire": 10,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/formentor/formentor-phev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "10 bolsas de aire (frontales, laterales delanteras y traseras, de cortina, central delantera y de rodilla para el conductor). DSG de 6 velocidades, tracción delantera. 272 hp de potencia combinada (motor de gasolina de 177 hp y eléctrico de 116 hp). Batería de 25.8 kWh; autonomía eléctrica de hasta 118 km. La ficha da 95.3 km/l combinado del sistema con la batería en uso, cifra que no se compara con autos de gasolina. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+    },
+    {
+      "nombre": "VZ",
+      "anio": 2026,
+      "precio": 913900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 333,
+      "rendimientoCombinadoKmL": 12.1,
+      "autonomiaKm": null,
+      "bolsasAire": 10,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/formentor/formentor-vz",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "10 bolsas de aire (frontales, laterales delanteras y traseras, de cortina, central delantera y de rodilla para el conductor). DSG de 7 velocidades con tracción integral 4Drive. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+    },
+    {
+      "nombre": "VZ Tribe Edition",
+      "anio": 2026,
+      "precio": 1009900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 333,
+      "rendimientoCombinadoKmL": 12.1,
+      "autonomiaKm": null,
+      "bolsasAire": 10,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/formentor/tribe-edition",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "10 bolsas de aire (frontales, laterales delanteras y traseras, de cortina, central delantera y de rodilla para el conductor). DSG de 7 velocidades con tracción integral 4Drive. Edición con color Manganeso Mate, acabados Dark Chrome y rines de 19 pulgadas en negro mate. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km de garantía defensa a defensa (desde el año modelo 2026) y mantenimientos sin costo hasta 5 años o 50,000 km. CUPRA Care incluye 5 años de asistencia vial y de seguro de robo de autopartes, 12 años contra perforación por corrosión y 3 años en defectos de pintura",
+    "fuente": "CUPRA México (ficha técnica oficial y CUPRA Care)",
+    "url": "https://www.cupraoficial.mx/propietarios/cupra-care"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Formentor VZ 2026 desde $872,900 con CUPRA Financial Services",
+      "precioOferta": 872900,
+      "condicion": "Precio con bono de $142,000 (IVA incluido) aplicado al precio de lista al contratar cualquier producto financiero de Volkswagen Leasing; enganche máximo 50%. Solo unidades nuevas, no acumulable, sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "CUPRA México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.cupraoficial.mx/promociones/formentor",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Formentor PHEV 2026 desde $865,900 con CUPRA Financial Services",
+      "precioOferta": 865900,
+      "condicion": "Precio con bono de $122,000 (IVA incluido) aplicado al precio de lista al contratar cualquier producto financiero de Volkswagen Leasing; enganche máximo 50%. Solo unidades nuevas, no acumulable, sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "CUPRA México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.cupraoficial.mx/promociones/phev",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "CUPRA Formentor 2026 (página del modelo)",
+      "url": "https://www.cupraoficial.mx/autos/formentor",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Formentor 2026",
+      "url": "https://www.cupraoficial.mx/content/dam/countries/mx/cupra-website/descargas/fichas-tecnicas/2026/CUPRA_Formentor_2026_cars-models-brochure-KMP-NA-08-2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones CUPRA México",
+      "url": "https://www.cupraoficial.mx/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "CUPRA publica un «precio de contado» con IVA e ISAN por versión; en el detalle de sus promociones menciona un «precio de lista» más alto (ej. Terramar 1.4: $802,900 de lista contra $732,900 de contado). Se usó el precio de contado; confirmar el criterio editorial",
+    "Formentor PHEV: el rendimiento combinado oficial (95.3 km/l) mide el sistema con la batería en uso; se dejó fuera del dato comparable y se anotó en la versión",
+    "Ofertas de Formentor VZ y PHEV tomadas de las tarjetas del listado de promociones; no se abrió el detalle de cada una"
+  ]
+}

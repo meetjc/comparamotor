@@ -1,0 +1,84 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "EX2",
+  "slug": "ex2",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "china",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GL",
+      "anio": 2026,
+      "precio": 389900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico: motor síncrono de imán permanente de 85 kW; batería LFP de 39.4 kWh",
+      "potenciaHp": 114,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 395,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex2",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor eléctrico de 114 hp y 150 Nm, tracción trasera. Autonomía 395 km y consumo 11.8 kWh/100 km (NEDC); carga rápida DC hasta 70 kW (30 a 80% en 25 min). Rines de acero de 15\". Bolsas de aire: la ficha marca frontales, laterales y de cortina para ambas versiones, pero la página del modelo dice 4 bolsas (frontales y laterales) para GL; dato por confirmar. Sin frenado autónomo de emergencia ni alerta de colisión frontal en esta versión según la ficha."
+    },
+    {
+      "nombre": "GF",
+      "anio": 2026,
+      "precio": 419900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico: motor síncrono de imán permanente de 85 kW; batería LFP de 39.4 kWh",
+      "potenciaHp": 114,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 395,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex2",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor eléctrico de 114 hp y 150 Nm, tracción trasera. Autonomía 395 km y consumo 11.8 kWh/100 km (NEDC); carga rápida DC hasta 70 kW. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia, alerta de colisión frontal, control crucero adaptativo y cámara 540° según la ficha. Función V2L para alimentar aparatos externos. Rines de aluminio de 16\"."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz eléctrico (batería de alto voltaje, motor eléctrico y controlador) 8 años o 150,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex2"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Geely EX2 2026: mensualidades desde $3,495 con tasa desde 10.49% (GL), o enganche desde $94,000 o tasa de 6.78% usando un bono flexible de $23,000; incluye cargador de casa (Wallbox, sin instalación)",
+      "precioOferta": null,
+      "condicion": "El bono flexible solo aplica con crédito BBVA y puede usarse a precio, tasa o enganche. Vigencia del 30 de septiembre al 30 de octubre de 2026 o hasta agotar existencias; crédito simple con Geely Financial Services (BBVA México), sujeto a aprobación; CAT promedio 25.61% sin IVA (calculado al 31-ago-2026); no acumulable con otras promociones ni válido en flotillas.",
+      "vigenciaHasta": "2026-10-30",
+      "fuente": "Geely México (sitio oficial, promociones)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Geely EX2",
+      "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex2",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial EX2 2026",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-ex2-ficha-tecnica-02.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Bolsas de aire de EX2 GL: la ficha técnica indica 6 (incluye cortina) y la página del modelo dice 4; falta confirmar con Geely",
+    "Ofertas: las promociones de Geely son de financiamiento (mensualidad, tasa, meses sin intereses o bonos con crédito BBVA); el precio de lista no cambia salvo donde se indica"
+  ]
+}

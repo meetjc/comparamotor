@@ -1,0 +1,106 @@
+{
+  "marca": "Subaru",
+  "marcaSlug": "subaru",
+  "modelo": "Forester",
+  "slug": "forester",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Premium Plus CVT",
+      "anio": 2026,
+      "precio": 689900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.5 L 4 cil. bóxer (182 HP)",
+      "potenciaHp": 182,
+      "rendimientoCombinadoKmL": 16.1,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/Forester/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión Lineartronic CVT. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "Sport CVT",
+      "anio": 2026,
+      "precio": 749900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.5 L 4 cil. bóxer (182 HP)",
+      "potenciaHp": 182,
+      "rendimientoCombinadoKmL": 16.1,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/Forester/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión Lineartronic CVT. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "Touring CVT",
+      "anio": 2026,
+      "precio": 799900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.5 L 4 cil. bóxer (182 HP)",
+      "potenciaHp": 182,
+      "rendimientoCombinadoKmL": 16.1,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/Forester/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión Lineartronic CVT. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "e-Boxer HEV",
+      "anio": 2026,
+      "precio": 849900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.5 L 4 cil. bóxer híbrido (162 HP gasolina + 122 HP eléctrico)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": 21.4,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/Forester/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido e-Boxer: motor de gasolina de 162 HP y motor eléctrico de 90 kW (122 HP); Subaru no publica la potencia combinada. Transmisión CVT. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero (aplica al vehículo aunque cambie de propietario, con mantenimiento al día en servicio autorizado Subaru)",
+    "fuente": "Subaru México (sitio oficial, Garantía)",
+    "url": "https://subaru.com.mx/Garantia/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://subaru.com.mx/Forester/",
+    {
+      "nombre": "Ficha técnica oficial Subaru Forester 2026",
+      "url": "https://subaru.com.mx/Assets/ModelosNuevos/Catalogos/Pdf/Forester-26.Pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Subaru Forester e-Boxer 2026",
+      "url": "https://subaru.com.mx/Assets/ModelosNuevos/Catalogos/Pdf/Forester-26-EBOXER.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Potencia combinada del Forester e-Boxer HEV no publicada por Subaru (solo 162 HP del motor de gasolina y 122 HP del eléctrico)",
+    "Propulsión: gasolina en tres versiones e híbrida en e-Boxer HEV; el campo propulsion es el de la versión de entrada",
+    "Subaru México no publica promociones con condiciones en subaru.com.mx al 25-oct-2026",
+    "Clasificación del segmento (suv-compacta) es criterio editorial, no viene de la marca"
+  ]
+}

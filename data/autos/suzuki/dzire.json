@@ -1,0 +1,76 @@
+{
+  "marca": "Suzuki",
+  "marcaSlug": "suzuki",
+  "modelo": "Dzire",
+  "slug": "dzire",
+  "carroceria": "sedan",
+  "segmento": "subcompacto",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GLS TM",
+      "anio": 2027,
+      "precio": 304990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.2 L 3 cil. Z12E BoosterGreen (híbrido ligero)",
+      "potenciaHp": 80,
+      "rendimientoCombinadoKmL": 24.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/dzire-boostergreen",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades. Sistema BoosterGreen: asistencia eléctrica de 12 V (híbrido ligero). 6 bolsas de aire (frontales, laterales y de cortina). Precio de venta al público publicado por Suzuki (con IVA)."
+    },
+    {
+      "nombre": "GLX CVT",
+      "anio": 2027,
+      "precio": 364990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.2 L 3 cil. Z12E BoosterGreen (híbrido ligero)",
+      "potenciaHp": 80,
+      "rendimientoCombinadoKmL": 25.3,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/dzire-boostergreen",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión CVT. Sistema BoosterGreen: asistencia eléctrica de 12 V (híbrido ligero). 6 bolsas de aire (frontales, laterales y de cortina). Precio de venta al público publicado por Suzuki (con IVA)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía limitada)",
+    "fuente": "Suzuki México (sitio oficial)",
+    "url": "https://autos.suzuki.com.mx/pages/garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Suzuki Dzire BoosterGreen (Suzuki México)",
+      "url": "https://autos.suzuki.com.mx/cars/dzire-boostergreen",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Suzuki México",
+      "url": "https://autos.suzuki.com.mx/pages/promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Suzuki México",
+      "url": "https://autos.suzuki.com.mx/pages/garantias",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica PDF de Suzuki se entrega mediante un formulario de contacto, por lo que no se descargó",
+    "Frenado autónomo de emergencia: la tabla oficial no lo menciona",
+    "En la página de promociones, la tarjeta del Dzire GLS 2027 dice en su texto legal que aplica al Across; no se registró como oferta hasta aclararlo",
+    "El año modelo 2027 se tomó de la página de promociones; la página del modelo no lo indica"
+  ]
+}

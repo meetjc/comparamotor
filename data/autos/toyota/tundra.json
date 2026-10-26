@@ -1,0 +1,100 @@
+{
+  "marca": "Toyota",
+  "marcaSlug": "toyota",
+  "modelo": "Tundra",
+  "slug": "tundra",
+  "carroceria": "pickup",
+  "segmento": "pickup-grande",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "Limited HEV",
+      "anio": 2025,
+      "precio": 1494000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6 biturbo híbrido i-Force Max (437 HP combinados)",
+      "potenciaHp": 437,
+      "rendimientoCombinadoKmL": 11.4,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/pickup/tundra-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 10 velocidades, 4WD de tiempo parcial con reductora. 8 bolsas de aire (frontales, laterales, de rodillas y de cortina). Toyota Safety Sense con pre-colisión. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "TRD Off Road HEV",
+      "anio": 2025,
+      "precio": 1520200,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6 biturbo híbrido i-Force Max (437 HP combinados)",
+      "potenciaHp": 437,
+      "rendimientoCombinadoKmL": 11.4,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/pickup/tundra-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 10 velocidades, 4WD de tiempo parcial con reductora. 8 bolsas de aire (frontales, laterales, de rodillas y de cortina). Toyota Safety Sense con pre-colisión. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "Platinum HEV",
+      "anio": 2025,
+      "precio": 1660500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6 biturbo híbrido i-Force Max (437 HP combinados)",
+      "potenciaHp": 437,
+      "rendimientoCombinadoKmL": 11.4,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/pickup/tundra-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 10 velocidades, 4WD de tiempo parcial con reductora. 8 bolsas de aire (frontales, laterales, de rodillas y de cortina). Toyota Safety Sense con pre-colisión. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "TRD PRO HEV",
+      "anio": 2025,
+      "precio": 1695400,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6 biturbo híbrido i-Force Max (437 HP combinados)",
+      "potenciaHp": 437,
+      "rendimientoCombinadoKmL": 11.4,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/pickup/tundra-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 10 velocidades, 4WD de tiempo parcial con reductora. 8 bolsas de aire (frontales, laterales, de rodillas y de cortina). Toyota Safety Sense con pre-colisión. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "36 meses o 60,000 km, lo que ocurra primero (garantía de todos los autos nuevos Toyota; cubre defectos de materiales o mano de obra)",
+    "fuente": "Toyota México (sitio oficial, Cuidamos tu auto)",
+    "url": "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.toyota.mx/modelos/pickup/tundra-hev/",
+    {
+      "nombre": "Ficha técnica oficial Tundra HEV 2025",
+      "url": "https://www.toyota.mx/content/dam/tmex/tundra-hev/ficha/Ficha_tecnica_TUNDRA_HV_25_web.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Año modelo tomado de la ficha técnica oficial (MY 25, ficha 2025); toyota.mx no publica una ficha 2026 de Tundra",
+    "Toyota publica una sola cifra de rendimiento (11.40 km/l) para todas las versiones",
+    "Sin oferta o promoción vigente publicada por Toyota para Tundra en octubre 2026"
+  ]
+}

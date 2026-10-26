@@ -1,0 +1,65 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Express Max EV",
+  "slug": "express-max-ev",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "estadounidense",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Versión corta",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, batería de 77 kWh, tracción delantera",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 277,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/express-max-ev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor eléctrico de 150 kW (la marca no publica la potencia en HP). Autonomía de 277 km. Capacidad de carga 1,480 kg y área de carga de 5.9 m³. La página publica \"precio desde $1,079,000\" sin precio de lista por versión."
+    },
+    {
+      "nombre": "Versión larga",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, batería de 88.8 kWh, tracción delantera",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 302,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/express-max-ev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor eléctrico de 150 kW (la marca no publica la potencia en HP). Autonomía de 302 km. Capacidad de carga 1,305 kg y área de carga de 8.7 m³."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero",
+    "fuente": "Chevrolet México (sitio oficial, página del modelo)",
+    "url": "https://www.chevrolet.com.mx/vehiculos-electricos/express-max-ev"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: Express MAX EV",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/express-max-ev",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Sin precio de lista por versión: la página solo dice \"precio desde $1,079,000\" y no aclara si es precio de lista o con bono.",
+    "Bolsas de aire y frenado autónomo no publicados.",
+    "Chevrolet no publica ficha técnica PDF de este modelo."
+  ]
+}

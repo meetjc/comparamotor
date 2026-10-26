@@ -1,0 +1,76 @@
+{
+  "marca": "Hyundai",
+  "marcaSlug": "hyundai",
+  "modelo": "Tucson Híbrida",
+  "slug": "tucson-hibrida",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "coreana",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Limited Tech Híbrida",
+      "anio": 2026,
+      "precio": 890500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo + motor eléctrico (híbrido)",
+      "potenciaHp": 226,
+      "rendimientoCombinadoKmL": 21.3,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
+      "url": "https://www.hyundai.com.mx/modelos/tucson-hibrida-2026/especificaciones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada del sistema híbrido: 226 hp. Automática de 6 velocidades, tracción delantera. Bolsas frontales, central delantera, laterales y de cortina. Incluye asistente de anticolisión frontal y de giro. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica 5 años o 100,000 km y tren motriz 7 años o 150,000 km (lo que ocurra primero), para modelos 2026 en adelante incluidos en la lista de Hyundai. La garantía de la batería de alto voltaje del sistema híbrido se detalla en el documento de garantía de Hyundai",
+    "fuente": "Hyundai México (sitio oficial, página de garantía)",
+    "url": "https://www.hyundai.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Tucson Híbrida 2026: bono flexible de hasta $100,000 y tasa desde 9.49%",
+      "precioOferta": null,
+      "condicion": "El bono de $100,000 aplica a Tucson Híbrida 2026 y puede usarse en enganche, accesorios, precio, tasa o seguro. Tasa de 9.49% con enganche desde 50%. Solo con Hyundai Finance (cálculo con Banorte). No aplica con otras promociones ni flotillas; hasta agotar existencias.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Hyundai México (sitio oficial, promociones)",
+      "url": "https://www.hyundai.com.mx/promociones/elige-tu-tucson",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Especificaciones y precios Hyundai Tucson Híbrida 2026 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/tucson-hibrida-2026/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Hyundai Tucson Híbrida 2026 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/tucson-hibrida-2026/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hyundai Tucson Híbrida 2026",
+      "url": "https://www.hyundai.com.mx/resources/ficha-tecnica/260909_FichaTecnica_CarryOver_TucsonHEV2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Hyundai Tucson Híbrida 2026 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/promociones/elige-tu-tucson",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Hyundai México",
+      "url": "https://www.hyundai.com.mx/garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Bolsas de aire: la marca lista frontales, central delantera, laterales y de cortina, pero no publica el número total en la página de la híbrida"
+  ]
+}

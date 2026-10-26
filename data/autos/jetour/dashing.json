@@ -1,0 +1,57 @@
+{
+  "marca": "Jetour",
+  "marcaSlug": "jetour",
+  "modelo": "Dashing",
+  "slug": "dashing",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "Dashing",
+      "anio": 2025,
+      "precio": 589900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.6 L Turbo (1,598 cc)",
+      "potenciaHp": 197,
+      "rendimientoCombinadoKmL": 14.64,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jetour México (sitio oficial jetoursoueast.mx: página del modelo y ficha técnica)",
+      "url": "https://jetoursoueast.mx/jetour/jetour-modelo-dashing/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Única versión publicada, $589,900. Ficha técnica oficial: 197 hp @ 5,500 rpm, 214 lb-ft, DCT de 7 velocidades, tracción delantera. Rendimiento: ciudad 12.69, carretera 18.05, combinado 14.64 km/l (la misma ficha da 13.6 km/l como combinado EPA). 6 bolsas de aire (frontales, laterales y de cortina). Frenado avanzado de emergencia (AEBS), control crucero adaptativo y detector de punto ciego. Rines de 20\", pantalla de 15.6\", cámara 360°."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica (defensa a defensa, incluye transmisión) 7 años o 200,000 km; motor de gasolina 10 años o 1,000,000 km (excepto turbocompresor); refacciones 1 año o 20,000 km; partes limitadas 3 o 4 años según la pieza (lo que ocurra primero)",
+    "fuente": "Jetour Soueast México (boletín oficial de cobertura de garantía)",
+    "url": "https://jetoursoueast.mx/wp-content/uploads/2025/08/Jetour_Soueast_Cobertura_Garantia_2025.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Jetour México: Dashing",
+      "url": "https://jetoursoueast.mx/jetour/jetour-modelo-dashing/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Jetour Dashing (julio 2026)",
+      "url": "https://jetoursoueast.mx/wp-content/uploads/2026/07/Dashing_Ficha-Tecnica_Vjuly.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Jetour Soueast: cobertura de garantía",
+      "url": "https://jetoursoueast.mx/wp-content/uploads/2025/08/Jetour_Soueast_Cobertura_Garantia_2025.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El sitio publica precios \"desde\"; se tomaron como precio de lista con IVA (no se dice si incluyen ISAN ni si son precio con descuento)",
+    "Sin promoción publicada para Dashing al 25-oct-2026"
+  ]
+}

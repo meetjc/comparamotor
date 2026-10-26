@@ -1,0 +1,52 @@
+{
+  "marca": "Peugeot",
+  "marcaSlug": "peugeot",
+  "modelo": "Partner Rapid",
+  "slug": "partner-rapid",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "francesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "1.3 FireFly",
+      "anio": 2026,
+      "precio": 289400,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.3 L 4 cil. (FireFly)",
+      "potenciaHp": 97,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/peugeot-partner-rapid.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Van compacta de carga: 3.3 m³ y hasta 650 kg. Manual de 5 velocidades. La marca anuncia hasta 21.13 km/l sin decir si es combinado. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km contra piezas defectuosas; garantía anticorrosión de 12 años en vehículos particulares (5 años en comerciales)",
+    "fuente": "Peugeot México (sitio oficial, página de garantías)",
+    "url": "https://www.peugeot.com.mx/clientes-peugeot/asistencia-y-garantia/garantias.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Peugeot Partner Rapid",
+      "url": "https://www.peugeot.com.mx/gama/peugeot-partner-rapid.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Peugeot",
+      "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento combinado, bolsas de aire y frenado autónomo: no publicados en la página",
+    "Es un vehículo de la misma base que la RAM ProMaster Rapid"
+  ]
+}

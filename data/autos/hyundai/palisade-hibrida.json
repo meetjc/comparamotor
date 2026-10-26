@@ -1,0 +1,63 @@
+{
+  "marca": "Hyundai",
+  "marcaSlug": "hyundai",
+  "modelo": "Palisade Híbrida",
+  "slug": "palisade-hibrida",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "coreana",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Limited Tech AWD Híbrida",
+      "anio": 2027,
+      "precio": 1298100,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L 4 cil. turbo + motor eléctrico (híbrido)",
+      "potenciaHp": 329,
+      "rendimientoCombinadoKmL": 17.71,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
+      "url": "https://www.hyundai.com.mx/modelos/palisade-hibrida-2027/especificaciones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada del sistema híbrido: 329 hp. Automática de 6 velocidades, tracción integral. Bolsas frontales, laterales, de cortina y de rodilla para el conductor. Incluye asistente de anticolisión frontal y de giro con detección de peatones y ciclistas. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica 5 años o 100,000 km y tren motriz 7 años o 150,000 km (lo que ocurra primero), para modelos 2026 en adelante incluidos en la lista de Hyundai. La garantía de la batería de alto voltaje del sistema híbrido se detalla en el documento de garantía de Hyundai",
+    "fuente": "Hyundai México (sitio oficial, página de garantía)",
+    "url": "https://www.hyundai.com.mx/garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Especificaciones y precios Hyundai Palisade Híbrida 2027 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/palisade-hibrida-2027/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Hyundai Palisade Híbrida 2027 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/palisade-hibrida-2027/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hyundai Palisade Híbrida 2027",
+      "url": "https://www.hyundai.com.mx/resources/ficha-tecnica/260731_FichaTecnica_Palisade2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Hyundai México",
+      "url": "https://www.hyundai.com.mx/garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Bolsas de aire: la marca lista frontales, laterales, de cortina y de rodilla, pero no publica el número total",
+    "Hyundai también publica la Palisade Limited Tech Híbrida 2026 a $1,288,300 (año anterior, no incluida)",
+    "Hyundai México no publica una promoción vigente para la Palisade (25-oct-2026)"
+  ]
+}

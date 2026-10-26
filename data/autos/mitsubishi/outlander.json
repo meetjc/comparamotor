@@ -1,0 +1,93 @@
+{
+  "marca": "Mitsubishi",
+  "marcaSlug": "mitsubishi",
+  "modelo": "Outlander",
+  "slug": "outlander",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "SE Plus",
+      "anio": 2026,
+      "precio": 609900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 181,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/outlander",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Gasolina 2.5 L de 4 cilindros, 181 hp, CVT con modo sport, tracción delantera (2WD), 7 plazas. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM). La ficha técnica no publica rendimiento de combustible."
+    },
+    {
+      "nombre": "Limited",
+      "anio": 2026,
+      "precio": 699900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.5 L 4 cil.",
+      "potenciaHp": 181,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/outlander",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Rines de 20\", piel genuina, cajuela eléctrica. Gasolina 2.5 L de 4 cilindros, 181 hp, CVT con modo sport, tracción delantera (2WD), 7 plazas. 7 bolsas de aire y sistema de mitigación de impacto frontal (FCM). La ficha técnica no publica rendimiento de combustible."
+    }
+  ],
+  "garantia": {
+    "texto": "7 años de garantía de defensa a defensa sin límite de kilometraje, contados desde la entrega, siempre que se cumplan los mantenimientos en tiempo y forma y no se trate de exclusiones (vehículos vendidos desde el 1-feb-2019)",
+    "fuente": "Mitsubishi Motors de México (sitio oficial, página de garantía)",
+    "url": "https://www.mitsubishi-motors.mx/propietarios/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Outlander Limited 2026 desde $679,900 de contado (bono en efectivo de $17,365 sobre el precio de lista).",
+      "precioOferta": 679900,
+      "condicion": "Solo pago de contado; no acumulable con otras promociones; sujeto a existencias.",
+      "vigenciaHasta": "2026-11-03",
+      "fuente": "Mitsubishi Motors de México (sitio oficial, promociones)",
+      "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Outlander Limited 2026: tasa desde 7.9% o 1 año de seguro gratis + 0% de comisión por apertura.",
+      "precioOferta": null,
+      "condicion": "Solo con Mitsubishi Motors Financial Services (NR Finance México), sujeto a aprobación de crédito. No aplica con otras promociones ni en flotillas; hasta agotar existencias. Tasa con enganche de 35.7% a 36 meses; seguro gratis con Mapfre para todas las versiones Outlander 2026.",
+      "vigenciaHasta": "2026-11-03",
+      "fuente": "Mitsubishi Motors de México (sitio oficial, promociones)",
+      "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Mitsubishi Outlander (página del modelo)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/outlander",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Outlander 2026",
+      "url": "https://www.mitsubishi-motors.mx/assets/Ficha-Tecnica-Mitsubishi-Outlander-2026_3375_sBIEZGDcrF.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Mitsubishi",
+      "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento de combustible no publicado en la ficha técnica.",
+    "Precio de lista Limited: la página del modelo dice $699,900, pero la promoción de contado ($679,900 tras un bono de $17,365) implica un precio de lista de $697,265."
+  ]
+}

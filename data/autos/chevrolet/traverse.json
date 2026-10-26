@@ -1,0 +1,95 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Traverse",
+  "slug": "traverse",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "LT 7 pasajeros 2027",
+      "anio": 2027,
+      "precio": 1128700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L 4 cil. turbo",
+      "potenciaHp": 328,
+      "rendimientoCombinadoKmL": 13.2,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/suvs/traverse-camioneta-para-7-pasajeros/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Automática de 8 velocidades. Datos técnicos tomados de la ficha 2026 (la marca no publica ficha 2027). 7 bolsas de aire y frenado autónomo con detección de peatones."
+    },
+    {
+      "nombre": "LT 7 pasajeros 2026",
+      "anio": 2026,
+      "precio": 1208600,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.5 L 4 cil. turbo",
+      "potenciaHp": 328,
+      "rendimientoCombinadoKmL": 13.2,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/suvs/traverse-camioneta-para-7-pasajeros/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio financiado o de arrendamiento $1,073,600 (ver ofertas). Automática de 8 velocidades. 7 bolsas de aire y frenado autónomo con detección de peatones."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Traverse LT 7 pasajeros 2026: precio de contado $1,208,600 y precio financiado o de arrendamiento $1,073,600 (precio de lista $1,208,600). Promociones publicadas: De contado: 1 año de Seguro ¡Gratis! Con financiamiento: Hasta 36 MSI, Bono de $135,000, 1 año de seguro ¡Gratis!",
+      "precioOferta": 1073600,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/traverse/CHTRA03/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Traverse",
+      "url": "https://www.chevrolet.com.mx/suvs/traverse-camioneta-para-7-pasajeros/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Traverse (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/traverse/CHTRA01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Traverse (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/traverse/CHTRA03/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Traverse",
+      "url": "https://www.chevrolet.com.mx/suvs/traverse-camioneta-para-7-pasajeros/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Traverse 2027",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/crossovers-suvs/2026-traverse/mov/02-pdf/Ficha-Tecnica-Traverse-2026-v2.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Conviven Traverse 2026 y 2027 en la página de precios; la 2027 tiene menor precio de lista.",
+    "No hay ficha técnica 2027; se usó la 2026.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

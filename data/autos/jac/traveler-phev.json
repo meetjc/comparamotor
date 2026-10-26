@@ -1,0 +1,57 @@
+{
+  "marca": "JAC",
+  "marcaSlug": "jac",
+  "modelo": "Traveler PHEV",
+  "slug": "traveler-phev",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Dual e-drive",
+      "anio": 2026,
+      "precio": 899000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo 4 cil. (TGDI) + motor eléctrico; batería LFP de 27.59 kWh",
+      "potenciaHp": 376,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 150,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/phev/traveler-phev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Minivan híbrida enchufable de 7 plazas con puertas corredizas eléctricas. Motor de gasolina de 161 hp y motor eléctrico de 215 hp; potencia combinada de 376 hp según la página. Transmisión híbrida dedicada DHT de 3 velocidades. Autonomía eléctrica de 150 km (CLTC, dato de la página) y combinada de 1,150 km (CLTC). Rendimiento combinado de 33.8 km/l (laboratorio). 6 bolsas de aire (frontales, laterales y cortina para las tres filas). Incluye frenado autónomo de emergencia y control crucero adaptativo. Rendimiento combinado oficial de 33.8 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero, de acuerdo con la póliza de garantía vigente (aplican términos y condiciones)",
+    "fuente": "JAC México (sitio oficial: ficha técnica y términos de garantías)",
+    "url": "https://www.jac.mx/legales/terminos-condiciones-garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Traveler PHEV (página oficial)",
+      "url": "https://www.jac.mx/phev/traveler-phev",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Traveler PHEV 2026",
+      "url": "https://s3-giant-motors-cms-media-prod.s3.us-east-1.amazonaws.com/Ficha%20te%C3%8Ccnica_Traveler%20PHEV_19.01.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Tabla oficial de rendimiento combinado JAC (año modelo 2026/2027), sección legal",
+      "url": "https://www.jac.mx/legales",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La autonomía eléctrica (150 km CLTC) y la potencia combinada vienen de la página; la ficha no las desglosa",
+    "Sin oferta con condiciones publicada para este modelo en el sitio de JAC al 25-oct-2026; JAC aclara que sus precios son los recomendados al distribuidor"
+  ]
+}

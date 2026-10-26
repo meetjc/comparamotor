@@ -1,0 +1,66 @@
+{
+  "marca": "Lexus",
+  "marcaSlug": "lexus",
+  "modelo": "ES",
+  "slug": "es",
+  "carroceria": "sedan",
+  "segmento": "mediano",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "ES 350h Premium",
+      "anio": 2026,
+      "precio": 1069900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.5 L 4 cil. híbrido (244 HP combinados)",
+      "potenciaHp": 244,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Lexus México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.lexus.mx/modelos/ESh",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable, tracción delantera. La ficha técnica incluye Pre-Collision System (sistema de precolisión). Precio de lista publicado por Lexus en la página del modelo (Lexus indica que debe confirmarse con el distribuidor)."
+    },
+    {
+      "nombre": "ES 350h Luxury",
+      "anio": 2026,
+      "precio": 1169900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.5 L 4 cil. híbrido (244 HP combinados)",
+      "potenciaHp": 244,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Lexus México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.lexus.mx/modelos/ESh",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable, tracción delantera. La ficha técnica incluye Pre-Collision System (sistema de precolisión). Precio de lista publicado por Lexus en la página del modelo (Lexus indica que debe confirmarse con el distribuidor)."
+    }
+  ],
+  "garantia": {
+    "texto": "4 años u 80,000 km (la batería híbrida está cubierta por el mismo periodo)",
+    "fuente": "Lexus México (sitio oficial, Garantía)",
+    "url": "https://www.lexus.mx/servicio/garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.lexus.mx/modelos/ESh",
+    {
+      "nombre": "Ficha técnica oficial Lexus ES 350h 2026",
+      "url": "https://www.lexus.mx/content/dam/lexus-mx/documentos/ficha-tecnica/2026/ES_350_hybrid_26MY_FichaTecnica.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento de combustible oficial: la ficha técnica PDF y la página del modelo no muestran la cifra en texto; queda por confirmar",
+    "Número total de bolsas de aire: la ficha técnica no lo indica en texto",
+    "Clasificación del segmento (mediano) es criterio editorial, no viene de la marca"
+  ]
+}

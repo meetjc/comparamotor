@@ -1,0 +1,85 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "EX5 EM-i",
+  "slug": "ex5-em-i",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GL",
+      "anio": 2026,
+      "precio": 569990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Híbrido enchufable: 1.5 L 4 cil. (98 hp) + motor eléctrico de 214 hp; batería LFP de 18.4 kWh",
+      "potenciaHp": 259,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 105,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex5-em-i",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada 259 hp y 262 Nm, tracción delantera, transmisión híbrida dedicada 1DHT. Autonomía eléctrica 105 km y combinada 1,000 km (NEDC). Rendimiento de laboratorio de la ficha: ciudad 55.3, carretera 32.4 y combinado 41.9 km/l (cifra de híbrido enchufable con batería cargada). 6 bolsas de aire. Paquete de asistencias nivel 2 con frenado autónomo de emergencia según la página del modelo. Rines de 18\", asientos de ajuste manual. Rendimiento combinado oficial de 41.9 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "GF",
+      "anio": 2026,
+      "precio": 599990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Híbrido enchufable: 1.5 L 4 cil. (98 hp) + motor eléctrico de 214 hp; batería LFP de 18.4 kWh",
+      "potenciaHp": 259,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 105,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex5-em-i",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada 259 hp y 262 Nm, transmisión híbrida dedicada 1DHT. Autonomía eléctrica 105 km y combinada 1,000 km (NEDC); rendimiento combinado de laboratorio 41.9 km/l según la ficha. 6 bolsas de aire. Frenado autónomo de emergencia, control crucero adaptativo y mitigación de colisión frontal y trasera. Audio Flyme Sound de 16 bocinas, Head-Up Display, techo panorámico, asientos delanteros ventilados y calefactados. Rendimiento combinado oficial de 41.9 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz eléctrico (batería de alto voltaje, motor eléctrico y controlador) 8 años o 150,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex5-em-i"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Geely EX5 EM-i 2026 GF: mensualidades desde $5,999 o tasa desde 10.49%, con cargador de casa incluido (Wallbox, sin instalación)",
+      "precioOferta": null,
+      "condicion": "Precio de lista de referencia $599,990 (GF), enganche desde 50%, 72 meses, plan SOSTENIBLE con 2.5% de comisión por apertura. Vigencia del 30 de septiembre al 30 de octubre de 2026 o hasta agotar existencias; crédito simple con Geely Financial Services (BBVA México), sujeto a aprobación; CAT promedio 25.61% sin IVA (calculado al 31-ago-2026); no acumulable con otras promociones ni válido en flotillas.",
+      "vigenciaHasta": "2026-10-30",
+      "fuente": "Geely México (sitio oficial, promociones)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Geely EX5 EM-i",
+      "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex5-em-i",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial EX5 EM-i 2026",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-ex5-em-i-ficha-tecnica-05.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La transmisión se registró como automática: Geely la describe como híbrida dedicada 1DHT",
+    "El rendimiento de 41.9 km/l es la cifra de laboratorio de la ficha para híbrido enchufable; no es comparable directamente con un auto de gasolina",
+    "Ofertas: las promociones de Geely son de financiamiento (mensualidad, tasa, meses sin intereses o bonos con crédito BBVA); el precio de lista no cambia salvo donde se indica"
+  ]
+}

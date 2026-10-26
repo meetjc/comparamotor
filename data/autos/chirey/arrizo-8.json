@@ -1,0 +1,74 @@
+{
+  "marca": "Chirey",
+  "marcaSlug": "chirey",
+  "modelo": "Arrizo 8",
+  "slug": "arrizo-8",
+  "carroceria": "sedan",
+  "segmento": "mediano",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "Luxury",
+      "anio": null,
+      "precio": 569900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.6 L Turbo (1,598 cc)",
+      "potenciaHp": 183,
+      "rendimientoCombinadoKmL": 16.1,
+      "autonomiaKm": null,
+      "bolsasAire": 10,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chirey México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.chirey.mx/autos/ice/arrizo-8/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio publicado $569,900 (sin descuento mostrado). Ficha técnica oficial: 1.6 L turbo, 183 hp @ 5,500 rpm, 202 lb-ft. Rendimiento de laboratorio: ciudad 13.42, carretera 21.30, combinado 16.10 km/l. DCT de 7 velocidades, tracción delantera. 10 bolsas de aire (frontales, laterales delanteras, laterales de segunda fila, de cortina y de rodilla para conductor y copiloto). Frenado automático de emergencia (AEB), alerta de colisión frontal, control crucero adaptativo y 14 asistencias según la ficha. Techo panorámico, cámara 360°. Pantallas de 10\", 6 bocinas."
+    },
+    {
+      "nombre": "Premium",
+      "anio": null,
+      "precio": 629900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L Turbo (1,998 cc)",
+      "potenciaHp": 241,
+      "rendimientoCombinadoKmL": 16.8,
+      "autonomiaKm": null,
+      "bolsasAire": 10,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chirey México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.chirey.mx/autos/ice/arrizo-8/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio publicado $629,900 (sin descuento mostrado). Ficha técnica oficial: 2.0 L turbo, 241 hp @ 5,500 rpm, 276 lb-ft. Rendimiento de laboratorio: ciudad 13.90, carretera 22.60, combinado 16.80 km/l. DCT de 7 velocidades, tracción delantera. 10 bolsas de aire (frontales, laterales delanteras, laterales de segunda fila, de cortina y de rodilla para conductor y copiloto). Frenado automático de emergencia (AEB), alerta de colisión frontal, control crucero adaptativo y 14 asistencias según la ficha. Techo panorámico, cámara 360°. Pantallas de 12\", 12 bocinas Sony."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica 150,000 km o 60 meses; motor 1,000,000 km o 120 meses (garantía ConTiggo, con condiciones de la póliza); pintura y perforación por corrosión 150,000 km o 60 meses; refacciones y accesorios 30,000 km o 12 meses (lo que ocurra primero)",
+    "fuente": "Chirey México (sitio oficial)",
+    "url": "https://www.chirey.mx/cobertura-de-garantia/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Chirey México: Arrizo 8",
+      "url": "https://www.chirey.mx/autos/ice/arrizo-8/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Arrizo 8",
+      "url": "https://d16b8fnjzv0ami.cloudfront.net/media/tech_files/2025/08/24/chirey-arrizo-8-ficha-tecnica.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chirey México: cobertura de garantía",
+      "url": "https://www.chirey.mx/cobertura-de-garantia/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Año modelo no publicado: ni la página, ni la ficha técnica, ni el catálogo del Arrizo 8 dicen el año (la ficha se subió en agosto de 2025)",
+    "Sin oferta: el Arrizo 8 no aparece en la página de promociones al 25-oct-2026"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "marca": "Jetour",
+  "marcaSlug": "jetour",
+  "modelo": "F700",
+  "slug": "f700",
+  "carroceria": "pickup",
+  "segmento": "pickup-grande",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Wild",
+      "anio": 2027,
+      "precio": 1209900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo híbrido enchufable (1,997 cc) + 3 motores eléctricos; batería LFP 34.13 kWh",
+      "potenciaHp": 892,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 110,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jetour México (sitio oficial jetoursoueast.mx: página del modelo y ficha técnica)",
+      "url": "https://jetoursoueast.mx/jetour/jetour-modelo-f700/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" $1,209,900. Ficha técnica oficial 2027: pickup doble cabina de 5 plazas, potencia combinada hasta 892 hp y 837 lb-ft (gasolina 208 hp; eléctricos 684 hp), transmisión híbrida dedicada de 2 velocidades (2DHT), tracción integral, chasis de largueros, capacidad de carga 880 kg, caja de 1,520 x 1,520 x 570 mm. Consumo EPA: ciudad 141.83, carretera 33.08, combinado 57.2 km/l. Autonomía eléctrica 110 km (NEDC) y combinada 1,010 km. 6 bolsas de aire según la página. Frenado automático de emergencia (AEB). Rendimiento combinado oficial de 57.2 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica (defensa a defensa, incluye transmisión) 7 años o 200,000 km; motor de gasolina 10 años o 1,000,000 km (excepto turbocompresor); generador eléctrico, unidad de control, cargador a bordo y batería de alto voltaje 8 años o 150,000 km; refacciones 1 año o 20,000 km; partes limitadas 3 o 4 años según la pieza (lo que ocurra primero)",
+    "fuente": "Jetour Soueast México (boletín oficial de cobertura de garantía)",
+    "url": "https://jetoursoueast.mx/wp-content/uploads/2025/08/Jetour_Soueast_Cobertura_Garantia_2025.pdf"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Jetour F700 2027: bono de lanzamiento de $40,000 o tasa de 10.99%",
+      "precioOferta": null,
+      "condicion": "Bono de lanzamiento de $40,000 para aplicar al precio, enganche o tasa en unidad participante (no canjeable por efectivo). Tasa subsidiada fija anual de 10.99%, 0% de comisión por apertura y enganche de 30%, de 12 a 72 meses, con institución financiera participante, sujeto a aprobación de crédito y disponibilidad. No acumulable con otras promociones. Vigencia del 15 de octubre al 2 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Jetour Soueast México (sitio oficial, página de promociones)",
+      "url": "https://jetoursoueast.mx/jetour/jetour-promociones/",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Jetour México: F700",
+      "url": "https://jetoursoueast.mx/jetour/jetour-modelo-f700/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Jetour F700 2027",
+      "url": "https://jetoursoueast.mx/wp-content/uploads/2026/10/F700_Ficha-Tecnica_V610.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Jetour Soueast: promociones",
+      "url": "https://jetoursoueast.mx/jetour/jetour-promociones/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Jetour Soueast: cobertura de garantía",
+      "url": "https://jetoursoueast.mx/wp-content/uploads/2025/08/Jetour_Soueast_Cobertura_Garantia_2025.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El sitio publica precios \"desde\"; se tomaron como precio de lista con IVA (no se dice si incluyen ISAN ni si son precio con descuento)",
+    "El consumo combinado es de un híbrido enchufable con batería cargada y no es comparable directamente con el de un auto de gasolina",
+    "El texto legal de la promoción del F700 dice por error \"Jetour G700 año-modelo 2027\" en el cuerpo; el encabezado sí dice F700"
+  ]
+}

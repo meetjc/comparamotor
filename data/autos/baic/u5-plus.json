@@ -1,0 +1,59 @@
+{
+  "marca": "BAIC",
+  "marcaSlug": "baic",
+  "modelo": "U5 Plus",
+  "slug": "u5-plus",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "STD Luxury",
+      "anio": null,
+      "precio": 299900,
+      "moneda": "MXN",
+      "transmision": null,
+      "motor": null,
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BAIC México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.baicmx.com/models/17",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio publicado en la página del modelo. BAIC México no publica ficha técnica de U5 Plus (solo el manual de usuario, que cubre varias versiones sin distinguirlas), así que motor, potencia, transmisión, rendimiento, bolsas de aire y frenado autónomo quedan por confirmar."
+    }
+  ],
+  "garantia": {
+    "texto": "Motor y transmisión: 5 años o 100,000 km para vehículos de gasolina comprados a partir del 1 de octubre de 2025, sujeto al manual de garantía incluido con el vehículo",
+    "fuente": "BAIC México (sitio oficial, página de garantía)",
+    "url": "https://www.baicmx.com/about/warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial BAIC U5 Plus",
+      "url": "https://www.baicmx.com/models/17",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Manual de usuario oficial U5 Plus",
+      "url": "https://www.baicmx.com/file/upload/2025/08/15/U5PLUS-user%20manual-ES_20250815102325A006.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía BAIC México",
+      "url": "https://www.baicmx.com/about/warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Sin ficha técnica oficial publicada: faltan motor, potencia, transmisión, rendimiento, bolsas de aire y frenado autónomo",
+    "Año modelo no publicado en la página ni en la ficha",
+    "La página lleva la leyenda \"promoción sujeta a términos y condiciones\"; no aclara si $299,900 es precio de lista o de promoción",
+    "Garantía: la página de BAIC solo muestra la cobertura de motor y transmisión (5 años o 100,000 km) para gasolina; no publica la garantía defensa a defensa ni la de componentes eléctricos"
+  ]
+}

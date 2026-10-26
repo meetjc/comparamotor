@@ -1,0 +1,57 @@
+{
+  "marca": "JAC",
+  "marcaSlug": "jac",
+  "modelo": "Sei2 Flex",
+  "slug": "sei2-flex",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "MT",
+      "anio": 2026,
+      "precio": 259000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L VVT gasolina",
+      "potenciaHp": 103,
+      "rendimientoCombinadoKmL": 17.6,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/sei2-flex",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades, 103 hp @ 6,000 rpm, rin de acero de 16\". 2 bolsas de aire (conductor y pasajero). Incluye control de estabilidad; la ficha no incluye frenado autónomo de emergencia. Rendimiento combinado de 17.6 km/l según la tabla oficial de JAC."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero, de acuerdo con la póliza de garantía vigente (aplican términos y condiciones)",
+    "fuente": "JAC México (sitio oficial: ficha técnica y términos de garantías)",
+    "url": "https://www.jac.mx/legales/terminos-condiciones-garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Sei2 Flex (página oficial)",
+      "url": "https://www.jac.mx/sei2-flex",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Sei2 Flex 2026",
+      "url": "https://s3-giant-motors-cms-media-prod.s3.us-east-1.amazonaws.com/Ficha%20te%C3%83cnica%20Sei2%20Flex%20%281%29.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Tabla oficial de rendimiento combinado JAC (año modelo 2026/2027), sección legal",
+      "url": "https://www.jac.mx/legales",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Solo se publica la versión manual; la tabla de rendimiento 2025 listaba una Sei2 Flex automática que ya no aparece",
+    "Sin oferta con condiciones publicada para este modelo en el sitio de JAC al 25-oct-2026; JAC aclara que sus precios son los recomendados al distribuidor"
+  ]
+}

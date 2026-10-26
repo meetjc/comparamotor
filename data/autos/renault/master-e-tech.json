@@ -1,0 +1,52 @@
+{
+  "marca": "Renault",
+  "marcaSlug": "renault",
+  "modelo": "Master E-Tech",
+  "slug": "master-e-tech",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "francesa",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "L2H2",
+      "anio": 2026,
+      "precio": 1583500,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Motor eléctrico, batería de 52 kWh",
+      "potenciaHp": 76,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 180,
+      "bolsasAire": 1,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
+      "url": "https://www.renault.com.mx/vehiculos-utilitarios/master-etech/prices-offers.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Furgón 100% eléctrico de 11 m³, 76 hp, transmisión automática directa. Batería de 52 kWh; autonomía real máxima en uso de reparto de 180 km según el catálogo (no es un ciclo de homologación). 1 bolsa de aire (conductor)."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 140,000 km (lo que ocurra primero) si se hacen servicios cada 5,000 km o 6 meses; con servicios cada año o 10,000 km se conserva la garantía contractual de 3 años. Pintura 3 años, anticorrosión 6 años",
+    "fuente": "Renault México (sitio oficial)",
+    "url": "https://www.renault.com.mx/discover-renault-service/extended-warranty.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Renault Master E-Tech: precios y versiones",
+      "url": "https://www.renault.com.mx/vehiculos-utilitarios/master-etech/prices-offers.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Master E-Tech (catálogo 2024)",
+      "url": "https://cdn.group.renault.com/ren/mx/mex/catalogos/Catalogo%20Master%20E-Tech%202024.pdf.asset.pdf/5ecc6fb857.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Año modelo no publicado junto al precio; el catálogo disponible es de 2024.",
+    "Garantía de la batería no publicada en las páginas consultadas."
+  ]
+}

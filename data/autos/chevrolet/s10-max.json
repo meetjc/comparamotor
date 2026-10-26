@@ -1,0 +1,124 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "S10 Max",
+  "slug": "s10-max",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Chasis Cabina 4x2",
+      "anio": 2027,
+      "precio": 481000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.4 L 4 cil.",
+      "potenciaHp": 141,
+      "rendimientoCombinadoKmL": 12.0,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/s10-max-camioneta-pickup-4-cilindros/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $426,000 y precio financiado o de arrendamiento $408,000 (ver ofertas). Manual de 5 velocidades. 2 bolsas de aire frontales. Incluye frenado autónomo de emergencia y alerta de colisión frontal. Capacidad de carga 1,200 kg."
+    },
+    {
+      "nombre": "Cabina Regular 4x2",
+      "anio": 2027,
+      "precio": 484000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.4 L 4 cil.",
+      "potenciaHp": 141,
+      "rendimientoCombinadoKmL": 12.0,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/s10-max-camioneta-pickup-4-cilindros/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $459,000 y precio financiado o de arrendamiento $411,000 (ver ofertas). Manual de 5 velocidades. 2 bolsas de aire frontales. Caja de carga larga, capacidad 1,000 kg."
+    },
+    {
+      "nombre": "Doble Cabina 4x2",
+      "anio": 2027,
+      "precio": 503200,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.4 L 4 cil.",
+      "potenciaHp": 141,
+      "rendimientoCombinadoKmL": 11.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/s10-max-camioneta-pickup-4-cilindros/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $488,200 y precio financiado o de arrendamiento $426,700 (ver ofertas). Manual de 5 velocidades. 6 bolsas de aire y control de estabilidad. Capacidad de carga 885 kg."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "S10 Max Chasis Cabina 4x2: precio de contado $426,000 y precio financiado o de arrendamiento $408,000 (precio de lista $481,000). Promociones publicadas: De contado: Bono de hasta $15,000, 1 Año de seguro ¡gratis! Con financiamiento: Hasta 36 Meses Sin Intereses, 1 Año de seguro ¡gratis!",
+      "precioOferta": 408000,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/s10-max/CHS1001/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "S10 Max Cabina Regular 4x2: precio de contado $459,000 y precio financiado o de arrendamiento $411,000 (precio de lista $484,000). Promociones publicadas: De contado: Bono de hasta $15,000, 1 Año de seguro ¡gratis! Con financiamiento: Hasta 36 Meses Sin Intereses, 1 Año de seguro ¡gratis!",
+      "precioOferta": 411000,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/s10-max/CHS1001/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "S10 Max Doble Cabina 4x2: precio de contado $488,200 y precio financiado o de arrendamiento $426,700 (precio de lista $503,200). Promociones publicadas: De contado: Bono de hasta $15,000, 1 Año de seguro ¡gratis! Con financiamiento: Hasta 36 Meses Sin Intereses, 1 Año de seguro ¡gratis!",
+      "precioOferta": 426700,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/s10-max/CHS1001/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones S10 Max",
+      "url": "https://www.chevrolet.com.mx/pickups/s10-max-camioneta-pickup-4-cilindros/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios S10 Max (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/s10-max/CHS1001/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones S10 Max",
+      "url": "https://www.chevrolet.com.mx/pickups/s10-max-camioneta-pickup-4-cilindros/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial S10 Max 2027",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2027-s10-max/mov/02-pdf/ficha-tecnica-s10-max-2027.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La transmisión manual de 5 velocidades solo se publica para Chasis Cabina; las otras dos versiones la heredan según la página de equipamiento.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

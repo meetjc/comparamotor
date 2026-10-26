@@ -1,0 +1,96 @@
+{
+  "marca": "Mercedes-Benz",
+  "marcaSlug": "mercedes-benz",
+  "modelo": "GLE Coupé",
+  "slug": "gle-coupe",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GLE 450 4MATIC Coupé MH",
+      "anio": 2027,
+      "precio": 1875900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6 cil. 3.0 L turbo mild hybrid",
+      "potenciaHp": 381,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid, 4MATIC. 9 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 280 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    },
+    {
+      "nombre": "GLE 450 e 4MATIC Coupé Plug-in-Hybrid",
+      "anio": 2027,
+      "precio": 2056000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Híbrido enchufable de gasolina",
+      "potenciaHp": 326,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable. Sin ficha técnica descargable de esta versión. Potencia convertida de 240 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz."
+    },
+    {
+      "nombre": "Mercedes-AMG GLE 53 HYBRID 4MATIC+ Coupé",
+      "anio": 2027,
+      "precio": 2441000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6 cil. 3.0 L turbo híbrido enchufable",
+      "potenciaHp": 449,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 95,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Mercedes-Benz México (sitio oficial: configurador y precios; ficha técnica)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable, potencia del sistema de 544 hp y hasta 95 km eléctricos (ficha 2026). 9 bolsas de aire (ficha). Asistente de frenado activo (ficha). Potencia convertida de 330 kW del configurador con el factor que usa Mercedes-Benz en sus fichas. Precio de venta con IVA según el configurador de Mercedes-Benz. Rendimiento combinado oficial de 10.67 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de 3 años sin límite de kilometraje y 4 servicios de mantenimiento incluidos (según fichas técnicas oficiales; consultar términos con el distribuidor)",
+    "fuente": "Mercedes-Benz México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mercedes-benz.com.mx/es/passengercars/cars-guide/brochures-download.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador y precios Mercedes-Benz México",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/configurator.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Mercedes-Benz GLE Coupé (página oficial)",
+      "url": "https://www.mercedes-benz.com.mx/es/passengercars/models/suv/gle-coupe/overview.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial GLE 450 4MATIC Coupé MH (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-benz/gle/450-4matic-coupe-mh/GLE-450-4MATIC-Coupe-Sport.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Mercedes-AMG GLE 53 HYBRID 4MATIC+ Coupé (2026)",
+      "url": "https://www.mercedes-benz.com.mx/content/dam/mexico/passengercars/cars-guide/fichas-tecnicas/2026/mercedes-amg/gle/53-hybrid-4matic-coupe/Mercedes-AMG-GLE-53-HYBRID-4MATIC-Coupe.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Precios del configurador oficial al 25 de octubre de 2026; las fichas técnicas PDF tienen precios anteriores y algunas son de un año modelo previo, por lo que solo se usaron para datos técnicos de la misma versión",
+    "El configurador da la potencia en kW; los hp se calcularon con el factor de Mercedes-Benz (1 kW = 1.36 hp), que coincide con las fichas"
+  ]
+}

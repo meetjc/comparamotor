@@ -1,0 +1,109 @@
+{
+  "marca": "Volvo",
+  "marcaSlug": "volvo",
+  "modelo": "XC60",
+  "slug": "xc60",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "sueca",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Core",
+      "anio": 2027,
+      "precio": 1299900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "T8 AWD híbrido enchufable (gasolina 250 hp + eléctrico 156 hp)",
+      "potenciaHp": 406,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/xc60-hybrid/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada de 406 hp, automática Geartronic de 8 velocidades, tracción integral, batería de 18.8 kWh. La autonomía eléctrica aparece sin dato en el sitio. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+    },
+    {
+      "nombre": "Plus",
+      "anio": 2027,
+      "precio": 1399900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "T8 AWD híbrido enchufable (gasolina 250 hp + eléctrico 156 hp)",
+      "potenciaHp": 406,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/xc60-hybrid/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada de 406 hp, automática de 8 velocidades, tracción integral. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+    },
+    {
+      "nombre": "Ultra",
+      "anio": 2027,
+      "precio": 1449900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "T8 AWD híbrido enchufable (gasolina 250 hp + eléctrico 156 hp)",
+      "potenciaHp": 406,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/xc60-hybrid/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada de 406 hp, automática de 8 velocidades, tracción integral. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+    },
+    {
+      "nombre": "Black Edition",
+      "anio": 2027,
+      "precio": 1499900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "T8 AWD híbrido enchufable (gasolina 250 hp + eléctrico 156 hp)",
+      "potenciaHp": 406,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/xc60-hybrid/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición especial. Potencia combinada de 406 hp, tracción integral. Bolsas frontales para conductor y pasajero y de cortina (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de defensa a defensa por 3 años o hasta 100,000 km (lo que suceda primero)",
+    "fuente": "Volvo Car México (sitio oficial: garantía)",
+    "url": "https://www.volvocars.com/mx/l/mantenimiento/garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Volvo XC60 (página oficial)",
+      "url": "https://www.volvocars.com/mx/cars/xc60-hybrid/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Volvo XC60: especificaciones oficiales",
+      "url": "https://www.volvocars.com/mx/cars/xc60-hybrid/specifications/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Volvo México",
+      "url": "https://www.volvocars.com/mx/l/mantenimiento/garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La autonomía eléctrica del XC60 aparece sin valor en el sitio oficial (texto de plantilla); el rendimiento en km/l no se publica",
+    "Volvo México no publica ficha técnica PDF descargable; los datos salen de la página del modelo y de su página de especificaciones (cifras preliminares según Volvo)",
+    "Volvo no da el número total de bolsas de aire, solo su tipo"
+  ]
+}

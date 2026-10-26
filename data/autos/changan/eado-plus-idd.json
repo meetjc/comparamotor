@@ -1,0 +1,93 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "Eado Plus iDD",
+  "slug": "eado-plus-idd",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Luxury",
+      "anio": 2026,
+      "precio": 459900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "Híbrido enchufable: 1.5 L 4 cil. (108 hp) + motor eléctrico de 211 hp; batería LFP de 18.4 kWh",
+      "potenciaHp": 211,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 120,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/eado-plus-idd",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia del motor eléctrico 211 hp y 243 lb-ft (torque combinado 348 lb-ft); transmisión E-CVT, tracción delantera. Autonomía eléctrica 120 km y combinada 1,180 km (NEDC). Rendimiento de laboratorio: ciudad 27.7, carretera 26.8 y combinado 27.2 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Incluye cargador de casa. Sin frenado autónomo de emergencia en Luxury según la ficha. Rendimiento combinado oficial de 27.2 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "Premium",
+      "anio": 2026,
+      "precio": 499900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "Híbrido enchufable: 1.5 L 4 cil. (108 hp) + motor eléctrico de 211 hp; batería LFP de 18.4 kWh",
+      "potenciaHp": 211,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 120,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/eado-plus-idd",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia del motor eléctrico 211 hp y 243 lb-ft (torque combinado 348 lb-ft); transmisión E-CVT, tracción delantera. Autonomía eléctrica 120 km y combinada 1,180 km (NEDC). Rendimiento de laboratorio: ciudad 27.7, carretera 26.8 y combinado 27.2 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Incluye cargador de casa. Frenado autónomo de emergencia (peatones y ciclistas), control crucero adaptativo y punto ciego según la ficha. Rines de 18\". Rendimiento combinado oficial de 27.2 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Esquema para vehículos eléctricos: batería de alto voltaje 8 años o 200,000 km; defensa a defensa 6 años o 150,000 km; tren motriz 8 años o 150,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Eado Plus iDD Luxury 2026: precio con bono de $439,900 (bono de $20,000 sobre $459,900)",
+      "precioOferta": 439900,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/eado-plus-idd",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Eado Plus iDD Premium 2026: precio con bono de $479,900 (bono de $20,000 sobre $499,900)",
+      "precioOferta": 479900,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/eado-plus-idd",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan Eado Plus iDD",
+      "url": "https://www.changan.mx/models/eado-plus-idd",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Eado Plus iDD",
+      "url": "https://www.changan.mx/profile/upload/2026/05/29/RUFETy1QTFVTLWlERA==_20260529020224A001.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha da la potencia del motor de gasolina (108 hp) y la del eléctrico (211 hp), no una potencia combinada; se registró la del eléctrico",
+    "Garantía: la página de Changan publica un esquema para \"vehículos de gasolina\" y otro para \"vehículos eléctricos\"; no aclara cuál aplica a los híbridos enchufables y de rango extendido. Se registró el esquema eléctrico, por confirmar"
+  ]
+}

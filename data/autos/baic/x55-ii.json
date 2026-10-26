@@ -1,0 +1,59 @@
+{
+  "marca": "BAIC",
+  "marcaSlug": "baic",
+  "modelo": "X55 II",
+  "slug": "x55-ii",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "Luxury",
+      "anio": null,
+      "precio": 499900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 185,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "BAIC México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.baicmx.com/models/26",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor de 138 kW (unos 185 hp; 130 kW netos) y 305 Nm, doble embrague de 7 velocidades, tracción delantera. Consumo de combustible de la ficha: 7.7 L/100 km (no se publica en km/l). 4 bolsas de aire (frontales y laterales). Sin frenado automático de emergencia según la ficha (solo asistencia de frenado). Techo panorámico, pantallas de 10\"."
+    }
+  ],
+  "garantia": {
+    "texto": "Motor y transmisión: 5 años o 100,000 km para vehículos de gasolina comprados a partir del 1 de octubre de 2025, sujeto al manual de garantía incluido con el vehículo",
+    "fuente": "BAIC México (sitio oficial, página de garantía)",
+    "url": "https://www.baicmx.com/about/warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial BAIC X55 II",
+      "url": "https://www.baicmx.com/models/26",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial X55 II",
+      "url": "https://www.baicmx.com/file/upload/2026/05/26/X55%20II%20Ficha%20t%C3%A9cnica_20260526091544A024.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía BAIC México",
+      "url": "https://www.baicmx.com/about/warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Año modelo no publicado en la página ni en la ficha",
+    "BAIC da la potencia en kW; los hp se calcularon (1 kW = 1.341 hp)",
+    "Rendimiento: la ficha da 7.7 L/100 km, no km/l",
+    "Garantía: la página de BAIC solo muestra la cobertura de motor y transmisión (5 años o 100,000 km) para gasolina; no publica la garantía defensa a defensa ni la de componentes eléctricos"
+  ]
+}

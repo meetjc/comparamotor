@@ -1,0 +1,52 @@
+{
+  "marca": "JAC",
+  "marcaSlug": "jac",
+  "modelo": "E10X",
+  "slug": "e10x",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "china",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Pure Electric",
+      "anio": 2026,
+      "precio": 371000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Motor eléctrico; batería LFP de 31.4 kWh",
+      "potenciaHp": 60,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 301,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/e10x",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Eléctrico con transmisión reductora, 60 hp y 111 lb-pie. Autonomía de 301 km (NEDC) según la ficha; la página anuncia hasta 302 km. Carga completa en unas 6 horas. 2 bolsas de aire (conductor y pasajero). La ficha no incluye frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero, de acuerdo con la póliza de garantía vigente (aplican términos y condiciones)",
+    "fuente": "JAC México (sitio oficial: ficha técnica y términos de garantías)",
+    "url": "https://www.jac.mx/legales/terminos-condiciones-garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "E10X (página oficial)",
+      "url": "https://www.jac.mx/e10x",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial E10X 2026",
+      "url": "https://s3-giant-motors-cms-media-prod.s3.us-east-1.amazonaws.com/Ficha%20te%C3%8Ccnica%20E%2010X%20MY26.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Sin oferta con condiciones publicada para este modelo en el sitio de JAC al 25-oct-2026; JAC aclara que sus precios son los recomendados al distribuidor",
+    "Existe una E10X Cargo (comercial, $392,000) que no se incluyó por ser vehículo de carga"
+  ]
+}

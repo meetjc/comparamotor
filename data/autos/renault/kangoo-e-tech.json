@@ -1,0 +1,52 @@
+{
+  "marca": "Renault",
+  "marcaSlug": "renault",
+  "modelo": "Kangoo E-Tech",
+  "slug": "kangoo-e-tech",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "francesa",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "E-Tech",
+      "anio": 2026,
+      "precio": 833000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Motor eléctrico, batería de 45 kWh",
+      "potenciaHp": 120,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 270,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
+      "url": "https://www.renault.com.mx/vehiculos-utilitarios/kangoo-e-tech/prices-offers.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Furgón 100% eléctrico de 120 hp, transmisión automática directa. Batería de 45 kWh, carga en corriente alterna de 11 kW. Autonomía real en uso de reparto de 270 km según el catálogo técnico (no es un ciclo de homologación). 2 bolsas de aire frontales."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 140,000 km (lo que ocurra primero) si se hacen servicios cada 5,000 km o 6 meses; con servicios cada año o 10,000 km se conserva la garantía contractual de 3 años. Pintura 3 años, anticorrosión 6 años",
+    "fuente": "Renault México (sitio oficial)",
+    "url": "https://www.renault.com.mx/discover-renault-service/extended-warranty.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Renault Kangoo E-Tech: precios y versiones",
+      "url": "https://www.renault.com.mx/vehiculos-utilitarios/kangoo-e-tech/prices-offers.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Kangoo E-Tech (catálogo técnico, mayo 2026)",
+      "url": "https://cdn.group.renault.com/ren/mx/mex/catalogos/13%20MAY%202026_CATALOGO%20DIGITAL%20TECNICO_KANGOO%20E-TECH%20MX_MAY%202026.pdf.asset.pdf/ddf9593cf0.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Año modelo no publicado junto al precio; se asumió el vigente de la gama (2026).",
+    "Garantía de la batería no publicada en las páginas consultadas."
+  ]
+}

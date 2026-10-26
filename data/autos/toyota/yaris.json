@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Toyota México (sitio oficial)",
       "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-hatchback/",
-      "fechaVerificacion": "2026-10-24",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Motor 1.5 L 4 cil. VVT-i, 106 hp @ 6,000 rpm y 103 lb-pie (ficha técnica 2026, actualizada en agosto de 2026). 7 bolsas de aire (2 frontales, 2 laterales, 1 de rodillas y 2 de cortina). Rendimiento de combustible informativo de laboratorio publicado por Toyota: 19.22 km/l con CVT y 18.13 km/l con manual. La ficha de esta versión no incluye Toyota Safety Sense."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Toyota México (sitio oficial)",
       "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-hatchback/",
-      "fechaVerificacion": "2026-10-24",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Motor 1.5 L 4 cil. VVT-i, 106 hp @ 6,000 rpm y 103 lb-pie (ficha técnica 2026, actualizada en agosto de 2026). 7 bolsas de aire (2 frontales, 2 laterales, 1 de rodillas y 2 de cortina). Rendimiento de combustible informativo de laboratorio publicado por Toyota: 19.22 km/l con CVT y 18.13 km/l con manual. Manual de 5 velocidades. La ficha de esta versión no incluye Toyota Safety Sense."
     },
     {
@@ -57,14 +57,14 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Toyota México (sitio oficial)",
       "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-hatchback/",
-      "fechaVerificacion": "2026-10-24",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Motor 1.5 L 4 cil. VVT-i, 106 hp @ 6,000 rpm y 103 lb-pie (ficha técnica 2026, actualizada en agosto de 2026). 7 bolsas de aire (2 frontales, 2 laterales, 1 de rodillas y 2 de cortina). Rendimiento de combustible informativo de laboratorio publicado por Toyota: 19.22 km/l con CVT y 18.13 km/l con manual. Incluye Toyota Safety Sense (TSS) con Sistema de Pre-Colisión (PCS) y Alerta de Cambio de Carril (LDA) según la ficha por versión. Toyota no describe en la ficha si el PCS frena de forma autónoma."
     }
   ],
   "garantia": {
-    "texto": null,
-    "fuente": null,
-    "url": null
+    "texto": "36 meses o 60,000 km, lo que ocurra primero (garantía de todos los autos nuevos Toyota; cubre defectos de materiales o mano de obra)",
+    "fuente": "Toyota México (sitio oficial, Cuidamos tu auto)",
+    "url": "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/"
   },
   "ofertas": [],
   "fuentes": [
@@ -73,9 +73,8 @@
     "https://www.toyota.mx/modelos/"
   ],
   "pendientes": [
-    "Garantía oficial (toyota.mx no la publica en la ficha del modelo)",
     "Potencia en la ficha: 106 hp",
-    "El Yaris Sedán ($327,700) y el Yaris Sedán HEV ($450,000) son otras fichas en toyota.mx y no se incluyen; este archivo es el Yaris Hatchback",
+    "Este archivo es el Yaris Hatchback; el Yaris Sedán y el Yaris Sedán HEV están en yaris-sedan.json",
     "Toyota Yaris Cross no se vende en México: el SUV subcompacto de la marca es el Raize",
     "Frenado autónomo del S CVT: la ficha dice \"Sistema de Pre-Colisión (PCS)\" sin detallar frenado automático; se marcó true",
     "Precios de la ficha son \"Desde\" por versión"

@@ -17,14 +17,14 @@
       "transmision": "manual",
       "motor": "1.5 L 4 cil.",
       "potenciaHp": 109,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 16.7,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
-      "fuente": "MG Motor México (sitio oficial)",
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $274,900 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. La página no lista frenado autónomo."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $274,900 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. Rendimiento oficial ciudad 14, carretera 22, combinado 16.7 km/l (ficha MG5 MCE 2027). La ficha técnica no incluye frenado autónomo de emergencia (solo luces de emergencia al frenar)."
     },
     {
       "nombre": "Excite MT 2027",
@@ -34,14 +34,14 @@
       "transmision": "manual",
       "motor": "1.5 L 4 cil.",
       "potenciaHp": 109,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 16.7,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
-      "fuente": "MG Motor México (sitio oficial)",
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $284,000 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. La página no lista frenado autónomo."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $284,000 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. Rendimiento oficial ciudad 14, carretera 22, combinado 16.7 km/l (ficha MG5 MCE 2027). La ficha técnica no incluye frenado autónomo de emergencia (solo luces de emergencia al frenar)."
     },
     {
       "nombre": "Excite CVT 2027",
@@ -51,14 +51,14 @@
       "transmision": "cvt",
       "motor": "1.5 L 4 cil.",
       "potenciaHp": 109,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 18,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
-      "fuente": "MG Motor México (sitio oficial)",
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $318,000 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. La página no lista frenado autónomo."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $318,000 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. Rendimiento oficial ciudad 15.4, carretera 22.6, combinado 18 km/l (ficha MG5 MCE 2027). La ficha técnica no incluye frenado autónomo de emergencia (solo luces de emergencia al frenar)."
     },
     {
       "nombre": "Elegance CVT 2027",
@@ -68,14 +68,14 @@
       "transmision": "cvt",
       "motor": "1.5 L 4 cil.",
       "potenciaHp": 109,
-      "rendimientoCombinadoKmL": null,
+      "rendimientoCombinadoKmL": 18,
       "autonomiaKm": null,
       "bolsasAire": 6,
-      "frenadoAutonomoEmergencia": null,
-      "fuente": "MG Motor México (sitio oficial)",
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
-      "fechaVerificacion": "2026-10-24",
-      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $339,000 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. La página no lista frenado autónomo."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista publicado en la página del modelo; precio especial publicado $339,000 sin condiciones ni vigencia visibles (ver ofertas). Motor 1.5 L de 109 hp y 105 lb-pie. 6 bolsas de aire (2 frontales, 2 laterales, 2 de cortina), frenos de disco en las 4 ruedas con ABS y EBD. Rendimiento oficial ciudad 15.4, carretera 22.6, combinado 18 km/l (ficha MG5 MCE 2027). La ficha técnica no incluye frenado autónomo de emergencia (solo luces de emergencia al frenar)."
     }
   ],
   "garantia": {
@@ -91,7 +91,7 @@
       "vigenciaHasta": null,
       "fuente": "MG Motor México (sitio oficial)",
       "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
-      "fechaVerificacion": "2026-10-24"
+      "fechaVerificacion": "2026-10-25"
     },
     {
       "descripcion": "MG5 Excite MT 2027: precio especial desde $284,000 (precio de lista $344,000)",
@@ -100,7 +100,7 @@
       "vigenciaHasta": null,
       "fuente": "MG Motor México (sitio oficial)",
       "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
-      "fechaVerificacion": "2026-10-24"
+      "fechaVerificacion": "2026-10-25"
     },
     {
       "descripcion": "MG5 Excite CVT 2027: precio especial desde $318,000 (precio de lista $378,000)",
@@ -109,7 +109,7 @@
       "vigenciaHasta": null,
       "fuente": "MG Motor México (sitio oficial)",
       "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
-      "fechaVerificacion": "2026-10-24"
+      "fechaVerificacion": "2026-10-25"
     },
     {
       "descripcion": "MG5 Elegance CVT 2027: precio especial desde $339,000 (precio de lista $399,000)",
@@ -118,18 +118,22 @@
       "vigenciaHasta": null,
       "fuente": "MG Motor México (sitio oficial)",
       "url": "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
-      "fechaVerificacion": "2026-10-24"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [
     "https://www.mgmotor.com.mx/vehiculos/mg5nuevo",
     "https://www.mgmotor.com.mx/promociones/mg5nuevo",
-    "https://www.mgmotor.com.mx/preguntas-frecuentes"
+    "https://www.mgmotor.com.mx/preguntas-frecuentes",
+    {
+      "nombre": "Ficha técnica oficial MG5 MCE 2027",
+      "url": "https://cdn.mgmotor.com.mx/storage/fichas-tecnicas/mg-mg5nuevo-2027-ficha-tecnica-01.pdf",
+      "tipo": "oficial"
+    }
   ],
   "pendientes": [
-    "Rendimiento combinado oficial (la página no lo publica; la ficha técnica PDF es imagen sin texto extraíble)",
-    "Frenado autónomo (no listado)",
     "Condiciones y vigencia del precio especial",
-    "Nombre comercial en el sitio: \"MG5\" (URL mg5nuevo, MG5 MCE 2027)"
+    "Nombre comercial en el sitio: \"MG5\" (URL mg5nuevo, MG5 MCE 2027)",
+    "Precios de lista y especiales sin cambio al 25-oct-2026; el PDF de legales de octubre (Style MT desde $274,900 con bono de $25,000) venció el 6 de octubre"
   ]
 }

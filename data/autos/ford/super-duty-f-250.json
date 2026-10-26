@@ -1,0 +1,85 @@
+{
+  "marca": "Ford",
+  "marcaSlug": "ford",
+  "modelo": "Super Duty F-250",
+  "slug": "super-duty-f-250",
+  "carroceria": "pickup",
+  "segmento": "pickup-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "diesel",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "XLT",
+      "anio": 2026,
+      "precio": 1560800,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.7 L V8 turbodiésel",
+      "potenciaHp": 475,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/camiones/f250/2026/versiones-precios/xlt/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Automática de 10 velocidades TorqShift, tracción 4x4. 6 bolsas de aire. Asistencia pre-colisión con freno de emergencia automático."
+    },
+    {
+      "nombre": "King Ranch",
+      "anio": 2026,
+      "precio": 1962400,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.7 L V8 turbodiésel",
+      "potenciaHp": 475,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/camiones/f250/2026/versiones-precios/king-ranch/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Automática de 10 velocidades TorqShift, tracción 4x4. 6 bolsas de aire. Asistencia pre-colisión con freno de emergencia automático."
+    },
+    {
+      "nombre": "Platinum Plus",
+      "anio": 2026,
+      "precio": 2477500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.7 L V8 turbodiésel",
+      "potenciaHp": 500,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/camiones/f250/2026/versiones-precios/platinum-plus/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Automática de 10 velocidades TorqShift, tracción 4x4. 6 bolsas de aire. Asistencia pre-colisión con freno de emergencia automático."
+    }
+  ],
+  "garantia": null,
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Ford México: Super Duty F-250 2026, versiones y precios",
+      "url": "https://www.ford.mx/camiones/f250/2026/versiones-precios/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo oficial Ford Super Duty F-250 2026",
+      "url": "https://www.ford.mx/content/dam/Ford/website-assets/latam/mx/nameplate/f-250/2026/pdf/ford-super-duty-f250-2026-catalogo-descargable.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Super Duty F-250 2027 y Super Duty Chasis tienen página en ford.mx; el 2027 no tiene precio y el chasis cabina no se incluyó.",
+    "Confirmar si los precios de ford. Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro.",
+    "Ford no publica rendimiento combinado en km/l en sus páginas de versiones ni en el catálogo.",
+    "Garantía original no publicada en ford.mx (la página de garantía solo describe extensiones Ford Protect).",
+    "ford.mx bloquea la descarga directa de PDF por curl; el catálogo se leyó en el navegador y no quedó copia local."
+  ]
+}

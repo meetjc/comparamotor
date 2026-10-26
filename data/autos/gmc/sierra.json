@@ -1,0 +1,147 @@
+{
+  "marca": "GMC",
+  "marcaSlug": "gmc",
+  "modelo": "Sierra",
+  "slug": "sierra",
+  "carroceria": "pickup",
+  "segmento": "pickup-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Cabina Regular",
+      "anio": 2026,
+      "precio": 1332500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "5.3 L V8",
+      "potenciaHp": 355,
+      "rendimientoCombinadoKmL": 10.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/pickups/sierra-pickup-4x4/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,152,500 y precio financiado o de arrendamiento $1,127,500 (ver ofertas). Tracción 4x4. La ficha no le asigna la transmisión de 10 velocidades y no dice cuántas tiene."
+    },
+    {
+      "nombre": "AT4 5.3L",
+      "anio": 2026,
+      "precio": 1656500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "5.3 L V8",
+      "potenciaHp": 355,
+      "rendimientoCombinadoKmL": 10.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/pickups/sierra-pickup-4x4/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,406,500 y precio financiado o de arrendamiento $1,376,500 (ver ofertas). Automática de 10 velocidades, tracción 4x4, suspensión todoterreno elevada."
+    },
+    {
+      "nombre": "Denali",
+      "anio": 2026,
+      "precio": 1931000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.2 L V8",
+      "potenciaHp": 425,
+      "rendimientoCombinadoKmL": 9.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/pickups/sierra-pickup-4x4/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,581,000 y precio financiado o de arrendamiento $1,581,000 (ver ofertas). Automática de 10 velocidades, tracción 4x4."
+    },
+    {
+      "nombre": "Denali Ultimate",
+      "anio": 2026,
+      "precio": 2121500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.2 L V8",
+      "potenciaHp": 425,
+      "rendimientoCombinadoKmL": 9.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/pickups/sierra-pickup-4x4/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,771,500 y precio financiado o de arrendamiento $1,771,500 (ver ofertas). Automática de 10 velocidades, tracción 4x4."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía original de fábrica)",
+    "fuente": "GMC México (sitio oficial, sección Garantía)",
+    "url": "https://www.gmc.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Sierra Cabina Regular: precio de contado $1,152,500 y precio financiado o de arrendamiento $1,127,500 (precio de lista $1,332,500). Promociones publicadas: De contado: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $250,000 en Sierra Crew Cab AT4, Bono de hasta $180,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials. Con financiamiento: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $280,000 en Sierra Crew Cab AT4, Bono de hasta $205,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials. Con arrendamiento: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $280,000 en Sierra Crew Cab AT4, Bono de hasta $205,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials.",
+      "precioOferta": 1127500,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/sierra/GCSIE01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Sierra AT4 5.3L: precio de contado $1,406,500 y precio financiado o de arrendamiento $1,376,500 (precio de lista $1,656,500). Promociones publicadas: De contado: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $250,000 en Sierra Crew Cab AT4, Bono de hasta $180,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials. Con financiamiento: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $280,000 en Sierra Crew Cab AT4, Bono de hasta $205,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials. Con arrendamiento: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $280,000 en Sierra Crew Cab AT4, Bono de hasta $205,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials.",
+      "precioOferta": 1376500,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/sierra/GCSIE01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Sierra Denali: precio de contado $1,581,000 y precio financiado o de arrendamiento $1,581,000 (precio de lista $1,931,000). Promociones publicadas: De contado: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $250,000 en Sierra Crew Cab AT4, Bono de hasta $180,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials. Con financiamiento: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $280,000 en Sierra Crew Cab AT4, Bono de hasta $205,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials. Con arrendamiento: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $280,000 en Sierra Crew Cab AT4, Bono de hasta $205,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials.",
+      "precioOferta": 1581000,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/sierra/GCSIE01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Sierra Denali Ultimate: precio de contado $1,771,500 y precio financiado o de arrendamiento $1,771,500 (precio de lista $2,121,500). Promociones publicadas: De contado: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $250,000 en Sierra Crew Cab AT4, Bono de hasta $180,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials. Con financiamiento: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $280,000 en Sierra Crew Cab AT4, Bono de hasta $205,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials. Con arrendamiento: Bono de hasta $350,000 en Sierra Crew Cab Denali y Denali Ultimate, Bono de hasta $280,000 en Sierra Crew Cab AT4, Bono de hasta $205,000 en Sierra Regular Cab, 2 años de servicio certificado sin costo, 1 año de internet ilimitado y OnStar Essentials.",
+      "precioOferta": 1771500,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/sierra/GCSIE01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "GMC México: precios y promociones Sierra",
+      "url": "https://www.gmc.com.mx/pickups/sierra-pickup-4x4/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "GMC México: tabla de precios Sierra (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/sierra/GCSIE01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo oficial GMC Sierra 2026",
+      "url": "https://www.gmc.com.mx/content/dam/gmc/na/mx/es/index/trucks/2026-sierra/mov/02-pdf/Catalogo-Sierra-2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia sin confirmar (\"alerta de colisión frontal con asistente de frenado\").",
+    "Número de velocidades de la Cabina Regular no publicado.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer.",
+    "GMC publica catálogos, no fichas técnicas; el PDF guardado es el catálogo oficial."
+  ]
+}

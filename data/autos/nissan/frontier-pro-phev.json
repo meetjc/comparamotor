@@ -1,0 +1,75 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "Frontier Pro PHEV",
+  "slug": "frontier-pro-phev",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "LE",
+      "anio": 2027,
+      "precio": 899900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo 4 cil. + motor eléctrico (híbrido enchufable)",
+      "potenciaHp": 350,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 75,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/frontier-pro-phev.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio publicado en nissan.com.mx ('Precio desde'); el modelo incluye accesorio original Nissan. Híbrida enchufable: motor 1.5 L turbo de 4 cilindros (141 hp) y motor eléctrico de 209 hp; potencia total de 350 hp según la página. Transmisión híbrida 4DHT de 4 velocidades, tracción 4WD con bloqueo de diferencial. Batería de 20 kWh. Autonomía eléctrica de 75 km (NEDC) y total de 966 km. Rendimiento combinado con batería baja: 13.31 km/l. Bolsas de aire frontales, laterales y de cortina (el catálogo no da el número). Frenado Inteligente de Emergencia con Detección de Peatones incluido según el catálogo. Rendimiento combinado oficial de 13.31 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "Platinum",
+      "anio": 2027,
+      "precio": 969900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo 4 cil. + motor eléctrico (híbrido enchufable)",
+      "potenciaHp": 350,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 75,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/frontier-pro-phev.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio publicado en nissan.com.mx; el modelo incluye accesorio original Nissan. Agrega alerta de punto ciego, alerta y frenado de tráfico cruzado trasero, entre otros. Híbrida enchufable: motor 1.5 L turbo de 4 cilindros (141 hp) y motor eléctrico de 209 hp; potencia total de 350 hp según la página. Transmisión híbrida 4DHT de 4 velocidades, tracción 4WD con bloqueo de diferencial. Batería de 20 kWh. Autonomía eléctrica de 75 km (NEDC) y total de 966 km. Rendimiento combinado con batería baja: 13.31 km/l. Bolsas de aire frontales, laterales y de cortina (el catálogo no da el número). Frenado Inteligente de Emergencia con Detección de Peatones incluido según el catálogo. Rendimiento combinado oficial de 13.31 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía Nissan de 3 años o 60,000 km; la batería de alto voltaje queda cubierta por la garantía Nissan según sus términos (la página no da plazo específico para la batería)",
+    "fuente": "Nissan México (sitio oficial, preguntas frecuentes de la página del modelo y Portal de Clientes)",
+    "url": "https://www.nissan.com.mx/vehiculos/todos/frontier-pro-phev.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Nissan Frontier Pro PHEV (página del modelo)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/frontier-pro-phev.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Nissan Frontier Pro PHEV: precios y versiones",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/frontier-pro-phev/precios-y-versiones.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Frontier Pro PHEV 2027 (catálogo)",
+      "url": "https://www.nissan.com.mx/content/dam/Nissan/mexico/assets/frontier_pro_phev/my27/vlp/catalogos/nissan-2027-frontier_pro_phev-catalogo.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Número de bolsas de aire no publicado (frontales, laterales y de cortina).",
+    "El rendimiento oficial publicado es con batería baja; no hay cifra de consumo combinado con batería cargada.",
+    "La página menciona una vigencia del 7 de octubre al 2 de noviembre de 2026 sin oferta específica visible."
+  ]
+}

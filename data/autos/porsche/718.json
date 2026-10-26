@@ -1,0 +1,118 @@
+{
+  "marca": "Porsche",
+  "marcaSlug": "porsche",
+  "modelo": "718 Cayman y Boxster",
+  "slug": "718",
+  "carroceria": "coupe",
+  "segmento": "deportivo",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "718 Cayman Style Edition",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina",
+      "potenciaHp": 300,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/718/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Porsche México no publica precio para esta versión."
+    },
+    {
+      "nombre": "718 Cayman GTS 4.0",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina",
+      "potenciaHp": 400,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/718/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Porsche México no publica precio para esta versión."
+    },
+    {
+      "nombre": "718 Boxster GTS 4.0",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina",
+      "potenciaHp": 400,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/718/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Roadster, tracción trasera, transmisión automática. Porsche México no publica precio para esta versión."
+    },
+    {
+      "nombre": "718 Spyder RS",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina",
+      "potenciaHp": 500,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/718/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Roadster, tracción trasera, transmisión automática. Porsche México no publica precio para esta versión."
+    },
+    {
+      "nombre": "718 Cayman GT4 RS",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Gasolina",
+      "potenciaHp": 500,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/718/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Coupé, tracción trasera, transmisión automática. Porsche México no publica precio para esta versión."
+    }
+  ],
+  "garantia": null,
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Porsche México: modelos y precios",
+      "url": "https://www.porsche.com/mexico/models/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Porsche 718 Cayman y Boxster (página oficial)",
+      "url": "https://www.porsche.com/mexico/models/718/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Porsche México lista las versiones 718 (año modelo 2025) sin precio; el modelo está al final de su producción",
+    "Porsche México publica precio y potencia por versión, pero no rendimiento, autonomía, número de bolsas de aire ni frenado automático en la página de modelos; quedan por confirmar con la ficha de cada versión",
+    "La página no indica si los precios incluyen IVA e ISAN",
+    "Porsche México no publica ficha técnica PDF descargable; no se registró garantía porque no se encontró en el sitio oficial"
+  ]
+}

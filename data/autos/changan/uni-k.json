@@ -1,0 +1,92 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "Uni-K",
+  "slug": "uni-k",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Premium 2WD",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo 4 cil.",
+      "potenciaHp": 233,
+      "rendimientoCombinadoKmL": 13.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/uni-k",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Sin precio de lista publicado: la página solo muestra un \"precio especial de promoción\" de $599,900. Tracción delantera. Rendimiento de laboratorio: ciudad 11.8, carretera 17.3 y combinado 13.7 km/l. 233 hp y 288 lb-ft, automática de 8 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia con detección de peatones, alerta de colisión frontal y control crucero adaptativo según la ficha. Rines de 21\", audio Sony de 12 bocinas."
+    },
+    {
+      "nombre": "Premium 4WD",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo 4 cil.",
+      "potenciaHp": 233,
+      "rendimientoCombinadoKmL": 12.3,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/uni-k",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2025. Sin precio de lista publicado: la página solo muestra un \"precio especial de promoción\" de $669,900. Tracción integral. Rendimiento de laboratorio: ciudad 10.3, carretera 16.2 y combinado 12.3 km/l. 233 hp y 288 lb-ft, automática de 8 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia con detección de peatones, alerta de colisión frontal y control crucero adaptativo según la ficha."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz 7 años o 200,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Uni-K Premium 2WD 2026: precio especial de promoción de $599,900",
+      "precioOferta": 599900,
+      "condicion": "Changan no publica el precio de lista. Promoción válida en México del 1 al 31 de octubre de 2026 o hasta agotar existencias; no acumulable ni aplicable a flotillas; consulta términos con tu distribuidor (página de promociones de Changan).",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Changan México (sitio oficial, página del modelo y promociones)",
+      "url": "https://www.changan.mx/compra/promociones-autos-nuevos",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Uni-K Premium 4WD 2025: precio especial de promoción de $669,900",
+      "precioOferta": 669900,
+      "condicion": "Changan no publica el precio de lista ni vigencia para esta versión. La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/uni-k",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan Uni-K",
+      "url": "https://www.changan.mx/models/uni-k",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Uni-K",
+      "url": "https://www.changan.mx/file/manual/uni-k.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Precio de lista no publicado para ninguna versión: solo hay \"precio especial de promoción\"; falta confirmar precios de lista con Changan"
+  ]
+}

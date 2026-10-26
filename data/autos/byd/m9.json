@@ -1,0 +1,71 @@
+{
+  "marca": "BYD",
+  "marcaSlug": "byd",
+  "modelo": "M9",
+  "slug": "m9",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "M9 GL",
+      "anio": 2026,
+      "precio": 979800,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.5 L híbrido enchufable (115 kW) + motor eléctrico 200 kW (315 N·m); batería Blade 20.39 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 95,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.byd.com/mx/car/M9",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Minivan de 7 plazas (2+2+3) con puertas corredizas eléctricas, tracción delantera, 0-100 km/h en 8.1 s. Autonomía eléctrica NEDC de 95 km y combinada de 945 km. Consumo con batería baja de 17.8 km/l (NEDC); no se registra como rendimiento combinado. 6 bolsas de aire inferidas de la ficha (frontales, laterales delanteras y cortina). La ficha lista control crucero pero no frenado autónomo de emergencia. Precio del configurador oficial (código CX004034; el configurador no muestra el precio formateado, pero el registro oficial trae $979,800)."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [
+    {
+      "descripcion": "M9 modelo 2026: bono flexible de $100,000",
+      "precioOferta": null,
+      "condicion": "Bono flexible: de contado se aplica sobre el precio total; con financiamiento solo con BBVA, Santander, Banorte o Kuna, al enganche o como subsidio a la tasa, con enganche mínimo de 10%. La tasa varía según la financiera. No incluye instalación del cargador doméstico.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "BYD M9 en BYD México",
+      "url": "https://www.byd.com/mx/car/M9",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BYD M9",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/flyers/september/Flyer%20BYD%20M9-ES-MX-20260911.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ofertas BYD octubre 2026 (legales)",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Potencia en hp: BYD publica la potencia en kW",
+    "Rendimiento: BYD publica 17.8 km/l con batería baja (NEDC), no un combinado comparable",
+    "Precio: el configurador no lo muestra en pantalla; sale del registro oficial del configurador (cms-api.byd.com). Confirmar en agencia",
+    "Cifra total de bolsas de aire inferida de los tipos listados en la ficha",
+    "Garantía oficial de este modelo: su página y su ficha no la publican; BYD México publica 6 años o 150,000 km (vehículo) y 8 años o 200,000 km (batería) en las páginas del King y del Song Pro DM-i, sin confirmar para este modelo",
+    "Tipo de transmisión: BYD no la nombra; se marcó como directa"
+  ]
+}

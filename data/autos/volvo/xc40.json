@@ -1,0 +1,75 @@
+{
+  "marca": "Volvo",
+  "marcaSlug": "volvo",
+  "modelo": "XC40",
+  "slug": "xc40",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "sueca",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Core",
+      "anio": 2026,
+      "precio": 799900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "B4 mild hybrid de gasolina",
+      "potenciaHp": 197,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/xc40/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática Geartronic de 8 velocidades, tracción delantera. Consumo combinado de 7.1 L/100 km (WLTP, preliminar; equivale a unos 14.1 km/l). Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+    },
+    {
+      "nombre": "Plus",
+      "anio": 2026,
+      "precio": 857900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "B4 mild hybrid de gasolina",
+      "potenciaHp": 197,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Volvo Car México (sitio oficial: página del modelo y especificaciones)",
+      "url": "https://www.volvocars.com/mx/cars/xc40/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática Geartronic de 8 velocidades, tracción delantera. Consumo combinado de 7.1 L/100 km (WLTP, preliminar; equivale a unos 14.1 km/l). Bolsas frontales para conductor y pasajero, de cortina y de rodilla del conductor (el sitio no da el número total). El sitio menciona aviso de colisión por alcance; no confirma frenado automático de emergencia frontal. Precio con impuestos incluidos según Volvo."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía de defensa a defensa por 3 años o hasta 100,000 km (lo que suceda primero)",
+    "fuente": "Volvo Car México (sitio oficial: garantía)",
+    "url": "https://www.volvocars.com/mx/l/mantenimiento/garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Volvo XC40 (página oficial)",
+      "url": "https://www.volvocars.com/mx/cars/xc40/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Volvo XC40: especificaciones oficiales",
+      "url": "https://www.volvocars.com/mx/cars/xc40/specifications/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Volvo México",
+      "url": "https://www.volvocars.com/mx/l/mantenimiento/garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Volvo publica el consumo del XC40 en litros por 100 km (WLTP preliminar), no en km/l con norma mexicana; no se registró rendimiento en km/l",
+    "Volvo México no publica ficha técnica PDF descargable; los datos salen de la página del modelo y de su página de especificaciones (cifras preliminares según Volvo)",
+    "Volvo no da el número total de bolsas de aire, solo su tipo"
+  ]
+}

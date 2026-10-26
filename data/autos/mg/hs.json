@@ -1,0 +1,75 @@
+{
+  "marca": "MG",
+  "marcaSlug": "mg",
+  "modelo": "HS Turbo",
+  "slug": "hs",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "britanica-china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Excite DCT",
+      "anio": 2026,
+      "precio": 599900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L Turbo 4 cil.",
+      "potenciaHp": 168,
+      "rendimientoCombinadoKmL": 16.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/hsnueva",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor 1.5 L turbo de 168 hp y 202 lb-pie, doble embrague húmedo de 7 velocidades. Rendimiento oficial ciudad 14.8, carretera 20.5, combinado 16.9 km/l (ficha HS 2027). 6 bolsas de aire. La ficha no marca frenado autónomo de emergencia en esta versión. El sitio muestra además un precio especial de $499,900 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    },
+    {
+      "nombre": "Trophy AT",
+      "anio": 2026,
+      "precio": 659900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L Turbo 4 cil.",
+      "potenciaHp": 228,
+      "rendimientoCombinadoKmL": 14.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/hsnueva",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor 2.0 L turbo de 228 hp y 280 lb-pie, automática ZF de 9 velocidades. Rendimiento oficial ciudad 12.4, carretera 18.2, combinado 14.5 km/l (ficha HS 2027). 6 bolsas de aire; MG Pilot con 11 asistencias, incluido frenado autónomo de emergencia; cámara 360°. El sitio muestra además un precio especial de $579,900 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    }
+  ],
+  "garantia": {
+    "texto": "Cobertura total del vehículo 60 meses o 100,000 km (lo que ocurra primero); garantía limitada de tren motriz hasta 84 meses o 150,000 km; programa Lucky Seven sin costo (7 años de garantía, asistencia vial y cobertura en autopartes robadas). Exige servicios en agencia cada 6 meses o 10,000 km",
+    "fuente": "MG Motor México (sitio oficial)",
+    "url": "https://www.mgmotor.com.mx/preguntas-frecuentes"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "HS Turbo en MG Motor México",
+      "url": "https://www.mgmotor.com.mx/vehiculos/hsnueva",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MG HS 2027",
+      "url": "https://cdn.mgmotor.com.mx/storage/fichas-tecnicas/mg-hs-2027-ficha-tecnica-01.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía MG (preguntas frecuentes)",
+      "url": "https://www.mgmotor.com.mx/preguntas-frecuentes",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El sitio vende las versiones como 2026 y publica la ficha HS 2027 (misma mecánica)",
+    "HS Hybrid+ y HS PHEV están en archivos aparte (hs-hybrid, hs-phev)",
+    "Precios especiales: el sitio los muestra junto al precio de lista sin vigencia ni condiciones; la página de promociones dice \"Muy pronto, promociones exclusivas para ti\" y el PDF de legales de octubre 2026 venció el 6 de octubre, por eso no se cargaron como ofertas"
+  ]
+}

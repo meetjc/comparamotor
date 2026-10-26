@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/march.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $245,990 (vigencia 01-oct a 02-nov-2026). Manual de 5 velocidades. Rendimiento del catálogo PDF 2026 (ciudad 16.08, carretera 21.06, combinado 17.99 km/l; columna Sense según llantas y pesos de la tabla); coincide con el texto de la página del modelo. Frenado autónomo: el catálogo oficial no lo lista (solo ABS, EBD, BA, VDC y TCS)."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/march.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $273,990 (vigencia 01-oct a 02-nov-2026). Manual de 5 velocidades. Rendimiento del catálogo PDF 2026 (ciudad 15.22, carretera 20.90, combinado 17.34 km/l; columna Advance, rines de 15 pulgadas); la comparación web muestra 18.0 para ambas versiones. Frenado autónomo: el catálogo oficial no lo lista."
     }
   ],
@@ -57,7 +57,7 @@
       "vigenciaHasta": "2026-11-02",
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/march.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     },
     {
       "descripcion": "Hasta 24 meses sin intereses + 0% de comisión por apertura (leyenda del encabezado de la página del modelo).",
@@ -66,7 +66,7 @@
       "vigenciaHasta": null,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/march.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [

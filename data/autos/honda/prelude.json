@@ -1,0 +1,46 @@
+{
+  "marca": "Honda",
+  "marcaSlug": "honda",
+  "modelo": "Prelude",
+  "slug": "prelude",
+  "carroceria": "coupe",
+  "segmento": "deportivo",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Prelude",
+      "anio": 2026,
+      "precio": 949900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.0 L 4 cil. híbrido de dos motores (200 HP combinados)",
+      "potenciaHp": 200,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
+      "url": "https://www.honda.mx/autos/prelude",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable, transmisión E-CVT con Honda S+ Shift. Incluye Honda Sensing según el configurador. Precio \"Desde\" publicado en el configurador de honda.mx."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.honda.mx/autos/prelude",
+    "https://www.honda.mx/autos/prelude/configurador"
+  ],
+  "pendientes": [
+    "Rendimiento combinado oficial de combustible (honda.mx no lo publica en el configurador ni en el brochure)",
+    "Garantía oficial (honda.mx no la publica en la página del modelo)",
+    "Número de bolsas de aire y frenado autónomo de emergencia por confirmar: el enlace de brochure de la página del Prelude lleva a un documento de otro modelo (Accord 2025) y el configurador solo menciona Honda Sensing",
+    "Clasificación del segmento (deportivo) es criterio editorial, no viene de la marca"
+  ]
+}

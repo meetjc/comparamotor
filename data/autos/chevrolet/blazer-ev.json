@@ -1,0 +1,91 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Blazer EV",
+  "slug": "blazer-ev",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "estadounidense",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "RS 2026",
+      "anio": 2026,
+      "precio": 1226500,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, tracción AWD",
+      "potenciaHp": 331,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 449,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/blazer-ev-camioneta-suv-electrica/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Autonomía desde 449 km con carga completa. 7 bolsas de aire y frenado de emergencia automático."
+    },
+    {
+      "nombre": "RS 2025",
+      "anio": 2025,
+      "precio": 1195400,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, tracción AWD",
+      "potenciaHp": 331,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 449,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/blazer-ev-camioneta-suv-electrica/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $999,900 y precio financiado o de arrendamiento $999,900 (ver ofertas). Unidades 2025 aún publicadas en la tabla de precios. Datos técnicos de la página de especificaciones vigente."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Blazer EV RS 2025: precio de contado $999,900 y precio financiado o de arrendamiento $999,900 (precio de lista $1,195,400). Promociones publicadas: De contado: Bono de $195,500. Con financiamiento: 24 MSI, 1 año de seguro ¡Gratis!, Bono de $20,000, Bono de $195,500.",
+      "precioOferta": 999900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2025/blazer-ev/CHBLA02/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Blazer EV",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/blazer-ev-camioneta-suv-electrica/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Blazer EV (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/blazer-ev/CHBLA02/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Blazer EV (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2025/blazer-ev/CHBLA02/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Blazer EV",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/blazer-ev-camioneta-suv-electrica/especificaciones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Chevrolet no publica ficha técnica PDF de Blazer EV; datos de la página de especificaciones.",
+    "Capacidad de batería no publicada.",
+    "Datos técnicos de la versión 2025 asumidos iguales a los de la página vigente.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

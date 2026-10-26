@@ -1,0 +1,69 @@
+{
+  "marca": "Peugeot",
+  "marcaSlug": "peugeot",
+  "modelo": "2008",
+  "slug": "2008",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "francesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Allure Pack 1.2L Turbo",
+      "anio": 2027,
+      "precio": 468900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.2 L 3 cil. turbo (PureTech)",
+      "potenciaHp": 130,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nueva-peugeot2008.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 6 velocidades. La marca anuncia un consumo combinado de hasta 17.3 km/l sin decir en qué versión. Frenado de emergencia y alerta de colisión «disponibles según versión». Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "GT 1.2L Turbo",
+      "anio": 2027,
+      "precio": 520900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.2 L 3 cil. turbo (PureTech)",
+      "potenciaHp": 130,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nueva-peugeot2008.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 6 velocidades. Consumo combinado de hasta 17.3 km/l según la marca. Frenado de emergencia «disponible según versión». Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km contra piezas defectuosas; garantía anticorrosión de 12 años en vehículos particulares (5 años en comerciales)",
+    "fuente": "Peugeot México (sitio oficial, página de garantías)",
+    "url": "https://www.peugeot.com.mx/clientes-peugeot/asistencia-y-garantia/garantias.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Peugeot 2008",
+      "url": "https://www.peugeot.com.mx/gama/nueva-peugeot2008.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Peugeot",
+      "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Sin ficha técnica descargable: falta rendimiento por versión, total de bolsas de aire y qué versión trae frenado autónomo",
+    "También hay 2008 2026 en la lista: Allure Pack $458,900 y GT $500,900"
+  ]
+}

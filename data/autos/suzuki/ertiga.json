@@ -1,0 +1,88 @@
+{
+  "marca": "Suzuki",
+  "marcaSlug": "suzuki",
+  "modelo": "Ertiga",
+  "slug": "ertiga",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "GLS TM",
+      "anio": null,
+      "precio": 390990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil. BoosterGreen (híbrido ligero)",
+      "potenciaHp": 103,
+      "rendimientoCombinadoKmL": 17.0,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/ertiga-boostergreen",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades. Motor 1.5 L de 103 hp. Sistema BoosterGreen: asistencia eléctrica de 12 V (híbrido ligero). 7 pasajeros. La tabla oficial solo lista bolsas frontales (2). Precio de venta al público publicado por Suzuki (con IVA)."
+    },
+    {
+      "nombre": "GLS TA",
+      "anio": null,
+      "precio": 409990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. BoosterGreen (híbrido ligero)",
+      "potenciaHp": 103,
+      "rendimientoCombinadoKmL": 18.3,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/ertiga-boostergreen",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 4 velocidades. Motor 1.5 L de 103 hp. Sistema BoosterGreen: asistencia eléctrica de 12 V (híbrido ligero). 7 pasajeros. La tabla oficial solo lista bolsas frontales (2). Precio de venta al público publicado por Suzuki (con IVA)."
+    },
+    {
+      "nombre": "GLX TM",
+      "anio": null,
+      "precio": 423990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil. BoosterGreen (híbrido ligero)",
+      "potenciaHp": 103,
+      "rendimientoCombinadoKmL": 17.0,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/ertiga-boostergreen",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades. Motor 1.5 L de 103 hp. Sistema BoosterGreen: asistencia eléctrica de 12 V (híbrido ligero). 7 pasajeros. La tabla oficial solo lista bolsas frontales (2). Precio de venta al público publicado por Suzuki (con IVA)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía limitada)",
+    "fuente": "Suzuki México (sitio oficial)",
+    "url": "https://autos.suzuki.com.mx/pages/garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Suzuki Ertiga BoosterGreen (Suzuki México)",
+      "url": "https://autos.suzuki.com.mx/cars/ertiga-boostergreen",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Suzuki México",
+      "url": "https://autos.suzuki.com.mx/pages/garantias",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica PDF de Suzuki se entrega mediante un formulario de contacto, por lo que no se descargó",
+    "Año modelo: la página oficial no lo indica",
+    "Número total de bolsas de aire: la tabla solo menciona bolsas frontales (x2); confirmar si hay laterales o de cortina",
+    "Frenado autónomo de emergencia: la tabla oficial no lo menciona"
+  ]
+}

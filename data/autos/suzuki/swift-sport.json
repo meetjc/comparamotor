@@ -1,0 +1,110 @@
+{
+  "marca": "Suzuki",
+  "marcaSlug": "suzuki",
+  "modelo": "Swift Sport",
+  "slug": "swift-sport",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "GLX TM",
+      "anio": null,
+      "precio": 397990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.4 L 4 cil. turbo Boosterjet",
+      "potenciaHp": 138,
+      "rendimientoCombinadoKmL": 17.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/swift-sport",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades. Motor 1.4 L turbo Boosterjet de 138 hp. 6 bolsas de aire (frontales, laterales y de cortina). Precio de venta al público publicado por Suzuki (con IVA)."
+    },
+    {
+      "nombre": "GLX TA",
+      "anio": null,
+      "precio": 425990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo Boosterjet",
+      "potenciaHp": 138,
+      "rendimientoCombinadoKmL": 18.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/swift-sport",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 6 velocidades. Motor 1.4 L turbo Boosterjet de 138 hp. 6 bolsas de aire (frontales, laterales y de cortina). Precio de venta al público publicado por Suzuki (con IVA)."
+    },
+    {
+      "nombre": "Final Edition GLX TM",
+      "anio": null,
+      "precio": 429990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.4 L 4 cil. turbo Boosterjet",
+      "potenciaHp": 138,
+      "rendimientoCombinadoKmL": 17.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/swiftsportfe",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición final. Manual de 6 velocidades. Motor 1.4 L turbo Boosterjet de 138 hp. 6 bolsas de aire (frontales, laterales y de cortina). Precio de venta al público publicado por Suzuki (con IVA)."
+    },
+    {
+      "nombre": "Final Edition GLX TA",
+      "anio": null,
+      "precio": 454990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo Boosterjet",
+      "potenciaHp": 138,
+      "rendimientoCombinadoKmL": 18.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/swiftsportfe",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición final. Automática de 6 velocidades. Motor 1.4 L turbo Boosterjet de 138 hp. 6 bolsas de aire (frontales, laterales y de cortina). Precio de venta al público publicado por Suzuki (con IVA)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía limitada)",
+    "fuente": "Suzuki México (sitio oficial)",
+    "url": "https://autos.suzuki.com.mx/pages/garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Suzuki Swift Sport (Suzuki México)",
+      "url": "https://autos.suzuki.com.mx/cars/swift-sport",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Suzuki Swift Sport Final Edition (Suzuki México)",
+      "url": "https://autos.suzuki.com.mx/cars/swiftsportfe",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Suzuki México",
+      "url": "https://autos.suzuki.com.mx/pages/garantias",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica PDF de Suzuki se entrega mediante un formulario de contacto, por lo que no se descargó",
+    "Año modelo: las páginas oficiales no lo indican",
+    "Frenado autónomo de emergencia: la tabla oficial no lo menciona",
+    "El Swift Sport estaba antes como una versión dentro de swift.json; ahora tiene su propio archivo"
+  ]
+}

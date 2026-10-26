@@ -1,0 +1,102 @@
+{
+  "marca": "Subaru",
+  "marcaSlug": "subaru",
+  "modelo": "BRZ",
+  "slug": "brz",
+  "carroceria": "coupe",
+  "segmento": "deportivo",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Limited 6MT",
+      "anio": 2026,
+      "precio": 779900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.4 L 4 cil. bóxer (228 HP)",
+      "potenciaHp": 228,
+      "rendimientoCombinadoKmL": 12.4,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/BRZ/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades, tracción trasera. 7 bolsas de aire (frontales, laterales, de cortina y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "Limited 6AT",
+      "anio": 2026,
+      "precio": 809900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.4 L 4 cil. bóxer (228 HP)",
+      "potenciaHp": 228,
+      "rendimientoCombinadoKmL": 13.8,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/BRZ/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 6 velocidades, tracción trasera. 7 bolsas de aire (frontales, laterales, de cortina y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "tS 6MT",
+      "anio": 2026,
+      "precio": 884900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.4 L 4 cil. bóxer (228 HP)",
+      "potenciaHp": 228,
+      "rendimientoCombinadoKmL": 12.4,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/BRZ/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades, frenos Brembo y suspensión STI. 7 bolsas de aire (frontales, laterales, de cortina y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "tS Yellow Edition 6MT",
+      "anio": 2026,
+      "precio": 899900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.4 L 4 cil. bóxer (228 HP)",
+      "potenciaHp": 228,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/BRZ/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición especial basada en el tS, manual de 6 velocidades. 7 bolsas de aire (frontales, laterales, de cortina y de rodilla del conductor). Precio \"desde\" publicado por Subaru en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero (aplica al vehículo aunque cambie de propietario, con mantenimiento al día en servicio autorizado Subaru)",
+    "fuente": "Subaru México (sitio oficial, Garantía)",
+    "url": "https://subaru.com.mx/Garantia/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://subaru.com.mx/BRZ/",
+    {
+      "nombre": "Ficha técnica oficial Subaru BRZ 2026",
+      "url": "https://subaru.com.mx/Assets/ModelosNuevos/Catalogos/Pdf/BRZ-26.Pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento del BRZ tS Yellow Edition: la ficha técnica solo cubre Limited 6MT, Limited 6AT y tS 6MT",
+    "La página de BRZ también lista un BRZ tS 6MT 2025 a $884,900; no se incluyó como versión aparte",
+    "EyeSight con frenado preventivo de colisión en Limited 6MT, Limited 6AT y tS 6MT según la ficha; en la tS Yellow Edition no está confirmado",
+    "Subaru México no publica promociones con condiciones en subaru.com.mx al 25-oct-2026",
+    "Clasificación del segmento (deportivo) es criterio editorial, no viene de la marca"
+  ]
+}

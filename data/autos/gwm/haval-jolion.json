@@ -1,0 +1,119 @@
+{
+  "marca": "GWM",
+  "marcaSlug": "gwm",
+  "modelo": "Haval Jolion",
+  "slug": "haval-jolion",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "Gasolina Active",
+      "anio": null,
+      "precio": 399900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo",
+      "potenciaHp": 148,
+      "rendimientoCombinadoKmL": 16.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/haval-jolion",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 7 velocidades, 148 hp y 162 lb-ft, tracción delantera. 6 bolsas de aire (frontales, laterales y cortina). Pantalla de 10.25\" y cámara de reversa. La ficha de esta versión no incluye frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Gasolina Luxury",
+      "anio": null,
+      "precio": 502900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo",
+      "potenciaHp": 181,
+      "rendimientoCombinadoKmL": 13.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/haval-jolion",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 7 velocidades, 181 hp y 202 lb-ft. 6 bolsas de aire. Incluye frenado autónomo de emergencia con detección de peatones y ciclistas, cámara 360°, techo panorámico y pantalla de 12.3\"."
+    },
+    {
+      "nombre": "Híbrida Premium",
+      "anio": null,
+      "precio": 538900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L + motor eléctrico (híbrido, batería de 1.67 kWh)",
+      "potenciaHp": 188,
+      "rendimientoCombinadoKmL": 20.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/haval-jolion",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido convencional: motor de gasolina de 99 hp y motor eléctrico de 115 kW; 188 hp combinados. Transmisión DHT. 6 bolsas de aire. Según la ficha, el frenado autónomo de emergencia solo viene en la Híbrida Luxury."
+    },
+    {
+      "nombre": "Híbrida Luxury",
+      "anio": null,
+      "precio": 594900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L + motor eléctrico (híbrido, batería de 1.67 kWh)",
+      "potenciaHp": 188,
+      "rendimientoCombinadoKmL": 20.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/haval-jolion",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido, 188 hp combinados, transmisión DHT. 6 bolsas de aire y frenado autónomo de emergencia. Agrega techo panorámico, asientos delanteros con calefacción y asiento eléctrico del conductor."
+    }
+  ],
+  "garantia": {
+    "texto": "7 años de garantía defensa a defensa sin límite de kilometraje (GWM Care); baterías de alto voltaje de híbridos y eléctricos: 8 años o 150,000 km, lo que ocurra primero; programa anticorrosión y pintura de 7 años. Requiere servicios cada 6 meses o 10,000 km en distribuidor autorizado",
+    "fuente": "GWM México (sitio oficial: GWM Care, garantía)",
+    "url": "https://www.gwm-mx.com/es/owner/care/warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Haval Jolion (página oficial)",
+      "url": "https://www.gwm-mx.com/es/models/haval-jolion",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Haval Jolion HEV",
+      "url": "https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/car-model/haval-jolion/jolion-fl-hev-ficha-tecnica.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Fichas técnicas oficiales Haval Jolion gasolina (Active y Luxury, archivo zip)",
+      "url": "https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/pdf/fichas/v2/gwm-jolion-ficha-tecnica.zip",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ofertas GWM México",
+      "url": "https://www.gwm-mx.com/es/offer",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía GWM Care",
+      "url": "https://www.gwm-mx.com/es/owner/care/warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El sitio no indica el año modelo de este vehículo; se dejó sin año",
+    "Promoción en la página de ofertas de GWM al 25-oct-2026: Jolion Híbrida con bono de hasta $50,000 + 0% comisión; Jolion Gasolina Active con mensualidad desde $4,333 + 0% comisión; el sitio no publica condiciones ni vigencia (solo asterisco), por eso no se registró como oferta",
+    "Las fichas de gasolina vienen en un zip oficial; se leyeron sin guardarse en .cache (allí está la ficha híbrida como haval-jolion.pdf)"
+  ]
+}

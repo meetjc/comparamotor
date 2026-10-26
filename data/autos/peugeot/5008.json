@@ -1,0 +1,69 @@
+{
+  "marca": "Peugeot",
+  "marcaSlug": "peugeot",
+  "modelo": "5008",
+  "slug": "5008",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "francesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GT 1.6L Turbo",
+      "anio": 2027,
+      "precio": 792900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo",
+      "potenciaHp": 180,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nuevo-5008.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "GT 1.6L Turbo Black Edition",
+      "anio": 2027,
+      "precio": 795900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo",
+      "potenciaHp": 180,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nuevo-5008.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición Black. Automática de 6 velocidades. 6 bolsas de aire. Incluye frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km contra piezas defectuosas; garantía anticorrosión de 12 años en vehículos particulares (5 años en comerciales)",
+    "fuente": "Peugeot México (sitio oficial, página de garantías)",
+    "url": "https://www.peugeot.com.mx/clientes-peugeot/asistencia-y-garantia/garantias.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Peugeot 5008",
+      "url": "https://www.peugeot.com.mx/gama/nuevo-5008.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Peugeot",
+      "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento combinado: la página no lo publica",
+    "También hay 5008 GT 2026 en la lista a $749,900"
+  ]
+}

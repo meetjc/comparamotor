@@ -1,0 +1,114 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "Q5",
+  "slug": "q5",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Dynamic TFSI quattro",
+      "anio": 2027,
+      "precio": 1254900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": 13.5,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q5/q5-suv/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros con sistema de airbag de cabeza y airbag central delantero. S tronic de 7 velocidades (doble embrague), tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "Elite TFSI quattro",
+      "anio": 2027,
+      "precio": 1404900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": 13.5,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q5/q5-suv/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros con sistema de airbag de cabeza y airbag central delantero. S tronic de 7 velocidades (doble embrague), tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S line TFSI quattro",
+      "anio": 2027,
+      "precio": 1444900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": 13.5,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q5/q5-suv/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros con sistema de airbag de cabeza y airbag central delantero. S tronic de 7 velocidades (doble embrague), tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "SQ5 TFSI quattro",
+      "anio": 2027,
+      "precio": 1669900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "3.0 L V6 turbo (TFSI)",
+      "potenciaHp": 367,
+      "rendimientoCombinadoKmL": 10.8,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q5/sq5-suv/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros y traseros con airbag de cabeza y airbag central. S tronic de 7 velocidades (doble embrague), tracción quattro. Versión deportiva con página propia en Audi (SQ5 SUV); frenado de emergencia delantero y trasero. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador Audi Q5 SUV",
+      "url": "https://www.audi.com.mx/es/models/q5/q5-suv/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi SQ5 SUV",
+      "url": "https://www.audi.com.mx/es/models/q5/sq5-suv/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Q5 SUV 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_q5_suv_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial SQ5 SUV 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_sq5_suv_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "SQ5 SUV se incluyó como versión de este archivo aunque Audi le da página propia",
+    "La página de promociones anuncia una oferta para Q5 SUV S line 2026; no se capturó porque es año modelo anterior y no se leyeron sus condiciones"
+  ]
+}

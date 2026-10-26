@@ -21,9 +21,9 @@
       "autonomiaKm": null,
       "bolsasAire": 6,
       "frenadoAutonomoEmergencia": true,
-      "fuente": "Chirey México (sitio oficial)",
+      "fuente": "Chirey México (sitio oficial: página del modelo y ficha técnica)",
       "url": "https://www.chirey.mx/autos/ice/tiggo-7-pro-2026/",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Única versión publicada en la página oficial. Ficha técnica oficial (https://d16b8fnjzv0ami.cloudfront.net/media/tech_files/2026/03/13/FT_TIGGO-7-Gasolina_2026.pdf): 145 hp @ 5,500 rpm, 155 lb-ft, DCT de 6 velocidades con palanca E-Shift, tracción delantera, consumo ciudad 14.7, carretera 20.1, combinado 16.7 km/l. Bolsas de aire: 2 frontales, 2 laterales y 2 de cortina. Incluye 13 ADAS con frenado automático (AEB) y alerta de colisión frontal (FCW). Cámara 540°, techo panorámico, rines de 18\"."
     }
   ],
@@ -37,11 +37,16 @@
     "https://www.chirey.mx/autos/ice/tiggo-7-pro-2026/",
     "https://d16b8fnjzv0ami.cloudfront.net/media/tech_files/2026/03/13/FT_TIGGO-7-Gasolina_2026.pdf",
     "https://www.chirey.mx/promociones/",
-    "https://www.chirey.mx/cobertura-de-garantia/"
+    "https://www.chirey.mx/cobertura-de-garantia/",
+    {
+      "nombre": "Ficha técnica oficial Tiggo 7 Pro 2026",
+      "url": "https://d16b8fnjzv0ami.cloudfront.net/media/tech_files/2026/03/13/FT_TIGGO-7-Gasolina_2026.pdf",
+      "tipo": "oficial"
+    }
   ],
   "pendientes": [
-    "Sin oferta publicada: la página de promociones de Chirey no incluye el Tiggo 7 Pro al 20-oct-2026",
-    "Nombre oficial vigente: sigue siendo 'Tiggo 7 Pro 2026' (no cambió). El 'Tiggo 7 PHEV CSH' es el híbrido enchufable, modelo aparte y no incluido",
+    "Sin oferta publicada: la página de promociones de Chirey no incluye el Tiggo 7 Pro al 25-oct-2026, y la página del modelo muestra solo el precio de lista",
+    "Nombre oficial vigente: sigue siendo 'Tiggo 7 Pro 2026' con una sola versión (Luxury). El 'Tiggo 7 PHEV CSH' es el híbrido enchufable, en data/autos/chirey/tiggo-7-phev.json",
     "Número de cilindros del motor 1.5T: la ficha solo dice '1.5TCI / 1,499 cc'"
   ]
 }

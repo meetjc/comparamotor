@@ -1,0 +1,87 @@
+{
+  "marca": "Peugeot",
+  "marcaSlug": "peugeot",
+  "modelo": "3008",
+  "slug": "3008",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "francesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Allure Pack 1.6L Turbo",
+      "anio": 2027,
+      "precio": 664900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo",
+      "potenciaHp": 180,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nuevo-3008.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales delanteras y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "GT 1.6L Turbo",
+      "anio": 2027,
+      "precio": 742900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo",
+      "potenciaHp": 180,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nuevo-3008.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales delanteras y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Agrega alerta de tráfico cruzado trasero y asistente de cambio de carril. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "GT 1.6L Turbo Black Edition",
+      "anio": 2027,
+      "precio": 745900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo",
+      "potenciaHp": 180,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nuevo-3008.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición Black sobre la GT. Automática de 6 velocidades. 6 bolsas de aire (frontales, laterales delanteras y de cortina). Incluye alerta de colisión frontal con frenado de emergencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km contra piezas defectuosas; garantía anticorrosión de 12 años en vehículos particulares (5 años en comerciales)",
+    "fuente": "Peugeot México (sitio oficial, página de garantías)",
+    "url": "https://www.peugeot.com.mx/clientes-peugeot/asistencia-y-garantia/garantias.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Peugeot 3008",
+      "url": "https://www.peugeot.com.mx/gama/nuevo-3008.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Peugeot",
+      "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento combinado: la página no lo publica",
+    "También hay 3008 2026 en la lista: Allure Pack $629,900 y GT $704,900",
+    "Los metadatos de la página dicen «3008 Plug-In Hybrid», pero el contenido y la lista de precios solo muestran el motor 1.6 L turbo de gasolina"
+  ]
+}

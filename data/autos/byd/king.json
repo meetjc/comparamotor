@@ -1,0 +1,122 @@
+{
+  "marca": "BYD",
+  "marcaSlug": "byd",
+  "modelo": "King DM-i",
+  "slug": "king",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "King DM-i GL 8.3 kWh",
+      "anio": 2026,
+      "precio": 499800,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.5 L híbrido enchufable (81 kW) + motor eléctrico 132 kW (316 N·m); batería Blade 8.3 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 50,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.byd.com/mx/car/king",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Generación 2026 que sigue a la venta en su propia página. Autonomía eléctrica NEDC de 50 km y combinada de 1,175 km; consumo NEDC de 3.9 L/100 km (no se registra como rendimiento combinado). 0-100 km/h en 7.9 s. 6 bolsas de aire inferidas de la ficha (frontales, laterales delanteras y cortina). La ficha lista control crucero de velocidad fija pero no frenado autónomo de emergencia. Precio del configurador oficial (código CX015018)."
+    },
+    {
+      "nombre": "King DM-i GL",
+      "anio": 2027,
+      "precio": 524900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.5 L híbrido enchufable DM 5.0; batería Blade 7.42 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 50,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.byd.com/mx/new-king-2027",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Nueva generación 2027. Autonomía eléctrica NEDC de 50 km y combinada de 1,600 km. Carga AC 3.3 kW. 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina) según la página. Frenado automático de emergencia y crucero adaptativo de serie según la ficha. BYD anuncia un consumo de 27.39 km/l (NEDC) para el modelo; no se registra como rendimiento combinado. Precio del configurador oficial (código CX015020)."
+    },
+    {
+      "nombre": "King DM-i GS",
+      "anio": 2027,
+      "precio": 579900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.5 L híbrido enchufable DM 5.0; batería Blade 24.57 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 170,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.byd.com/mx/new-king-2027",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Nueva generación 2027. Autonomía eléctrica NEDC de 170 km y combinada de 1,680 km. Carga AC 6.6 kW y DC 48 kW. 6 bolsas de aire. Frenado automático de emergencia, punto ciego, alerta de tráfico cruzado y pantalla de 15.6\" según la ficha. Precio del configurador oficial (código CX015020)."
+    }
+  ],
+  "garantia": {
+    "texto": "Vehículo hasta 6 años o 150,000 km (defensa a defensa); batería hasta 8 años o 200,000 km; sistema de alto voltaje y motor eléctrico hasta 8 años o 150,000 km (lo que ocurra primero). Sujeta a servicios de mantenimiento según el manual",
+    "fuente": "BYD México (sitio oficial, página del modelo)",
+    "url": "https://www.byd.com/mx/car/king"
+  },
+  "ofertas": [
+    {
+      "descripcion": "King DM-i GL modelo 2027: bono flexible de $25,000",
+      "precioOferta": null,
+      "condicion": "Bono flexible: de contado se aplica sobre el precio total; con financiamiento solo con BBVA, Santander, Banorte o Kuna, al enganche o como subsidio a la tasa, con enganche mínimo de 10%. La tasa varía según la financiera. No incluye instalación del cargador doméstico.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "King DM-i GS modelo 2027: mensualidad de $5,147",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Banorte, sujeto a aprobación: crédito $289,950, 72 meses, enganche 50%, tasa 7.18%, comisión por apertura 2%, seguro de daños y vida anual de contado. CAT promedio 12.4% sin IVA, calculado al 01-oct-2026.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "BYD México (sitio oficial)",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "BYD King DM-i en BYD México",
+      "url": "https://www.byd.com/mx/car/king",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BYD King 2027 en BYD México",
+      "url": "https://www.byd.com/mx/new-king-2027",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BYD King DM-i 2026",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20KING%20flyer-ES-MX-MY26_20260911-.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BYD King DM-i 2027",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20KING%20MY%2027%20Flyer-ES-MX-20260911.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ofertas BYD octubre 2026 (legales)",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/legales/BYDLegales_Octubre_26BYD_.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Potencia en hp: BYD publica la potencia en kW; la ficha 2027 no publica la potencia de los motores (la página menciona un motor 1.5 L de 120 kW y 220 N·m)",
+    "Rendimiento: BYD publica consumos NEDC (3.9 L/100 km en 2026; 27.39 km/l en 2027), no un combinado comparable",
+    "Tipo de transmisión: BYD no la nombra; se marcó como directa",
+    "En el King 2026 la cifra de bolsas de aire se infirió de los tipos listados en la ficha"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "marca": "Lexus",
+  "marcaSlug": "lexus",
+  "modelo": "LX",
+  "slug": "lx",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "LX 700h F SPORT",
+      "anio": 2026,
+      "precio": 2422900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6 biturbo híbrido (457 HP)",
+      "potenciaHp": 457,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Lexus México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.lexus.mx/modelos/LXh",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido. Automática Direct Shift de 10 velocidades. Pre-Collision System con detección de peatones. Precio de lista publicado por Lexus en la página del modelo (Lexus indica que debe confirmarse con el distribuidor)."
+    },
+    {
+      "nombre": "LX 700h Luxury",
+      "anio": 2026,
+      "precio": 2459900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6 biturbo híbrido (457 HP)",
+      "potenciaHp": 457,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Lexus México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.lexus.mx/modelos/LXh",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido. Automática Direct Shift de 10 velocidades. Pre-Collision System con detección de peatones. Precio de lista publicado por Lexus en la página del modelo (Lexus indica que debe confirmarse con el distribuidor)."
+    }
+  ],
+  "garantia": {
+    "texto": "4 años u 80,000 km (la batería híbrida está cubierta por el mismo periodo)",
+    "fuente": "Lexus México (sitio oficial, Garantía)",
+    "url": "https://www.lexus.mx/servicio/garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.lexus.mx/modelos/LXh",
+    {
+      "nombre": "Ficha técnica oficial Lexus LX 2026",
+      "url": "https://www.lexus.mx/content/dam/lexus-mx/documentos/ficha-tecnica/2026/Ficha-Tecnica-LX-26MY.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento de combustible oficial: la ficha técnica PDF y la página del modelo no muestran la cifra en texto; queda por confirmar",
+    "Número total de bolsas de aire: la ficha técnica no lo indica en texto",
+    "Clasificación del segmento (suv-grande) es criterio editorial, no viene de la marca"
+  ]
+}

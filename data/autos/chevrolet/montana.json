@@ -1,0 +1,97 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Montana",
+  "slug": "montana",
+  "carroceria": "pickup",
+  "segmento": "pickup-compacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "LT",
+      "anio": 2026,
+      "precio": 571700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.2 L 3 cil. turbo",
+      "potenciaHp": 130,
+      "rendimientoCombinadoKmL": 19.3,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/montana-pickup-compacta/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $483,700 y precio financiado o de arrendamiento $483,700 (ver ofertas). Automática de 6 velocidades con modo Low Gear. La ficha de seguridad no incluye frenado autónomo."
+    },
+    {
+      "nombre": "RS",
+      "anio": 2026,
+      "precio": 640900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.2 L 3 cil. turbo",
+      "potenciaHp": 130,
+      "rendimientoCombinadoKmL": 18.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/montana-pickup-compacta/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $535,900 y precio financiado o de arrendamiento $535,900 (ver ofertas). Automática de 6 velocidades con modo Low Gear. La ficha de seguridad no incluye frenado autónomo."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Montana LT: precio de contado $483,700 y precio financiado o de arrendamiento $483,700 (precio de lista $571,700). Promociones publicadas: De contado: Bono de $55,000, 1 Año de seguro ¡Gratis!, Bono de hasta $105,000. Con financiamiento: 24 MSI, 1 Año de seguro ¡Gratis!, Bono de hasta $105,000.",
+      "precioOferta": 483700,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/montana/CHMON01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Montana RS: precio de contado $535,900 y precio financiado o de arrendamiento $535,900 (precio de lista $640,900). Promociones publicadas: De contado: Bono de $55,000, 1 Año de seguro ¡Gratis!, Bono de hasta $105,000. Con financiamiento: 24 MSI, 1 Año de seguro ¡Gratis!, Bono de hasta $105,000.",
+      "precioOferta": 535900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/montana/CHMON01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Montana",
+      "url": "https://www.chevrolet.com.mx/pickups/montana-pickup-compacta/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Montana (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/montana/CHMON01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Montana",
+      "url": "https://www.chevrolet.com.mx/pickups/montana-pickup-compacta/especificaciones-automotriz",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Montana 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2026-montana/mov/02-pdf/ficha-tecnica-montana-2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

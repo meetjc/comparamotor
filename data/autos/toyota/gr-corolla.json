@@ -1,0 +1,47 @@
+{
+  "marca": "Toyota",
+  "marcaSlug": "toyota",
+  "modelo": "GR Corolla",
+  "slug": "gr-corolla",
+  "carroceria": "hatchback",
+  "segmento": "deportivo",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GR Corolla",
+      "anio": 2026,
+      "precio": 975000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 3 cil. turbo (296 HP)",
+      "potenciaHp": 296,
+      "rendimientoCombinadoKmL": 13.4,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/gr/gr-corolla/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades. 7 bolsas de aire (frontales, laterales, de cortina y de rodillas). Sistema de pre-colisión (Toyota Safety Sense). Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "36 meses o 60,000 km, lo que ocurra primero (garantía de todos los autos nuevos Toyota; cubre defectos de materiales o mano de obra)",
+    "fuente": "Toyota México (sitio oficial, Cuidamos tu auto)",
+    "url": "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.toyota.mx/modelos/gr/gr-corolla/",
+    {
+      "nombre": "Ficha técnica oficial GR Corolla 2026",
+      "url": "https://www.toyota.mx/content/dam/tmex/gr-corolla/ficha-tecnica/01Ficha_tecnica_GR_COROLLA_26_web.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Tracción integral GR-Four no confirmada en la ficha técnica mexicana"
+  ]
+}

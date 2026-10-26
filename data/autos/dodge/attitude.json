@@ -1,0 +1,94 @@
+{
+  "marca": "Dodge",
+  "marcaSlug": "dodge",
+  "modelo": "Attitude",
+  "slug": "attitude",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "SXT",
+      "anio": 2026,
+      "precio": 364900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 168,
+      "rendimientoCombinadoKmL": 17.98,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Dodge México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.dodge.com/mx/attitude.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 7 velocidades. Bolsas frontales, laterales delanteras y de cortina (sin total en la ficha). La ficha lista alerta de colisión frontal, sin mencionar frenado automático. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Sport",
+      "anio": 2026,
+      "precio": 424900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 168,
+      "rendimientoCombinadoKmL": 17.39,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Dodge México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.dodge.com/mx/attitude.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 7 velocidades. Bolsas frontales, laterales delanteras y de cortina (sin total en la ficha). La ficha lista alerta de colisión frontal, sin mencionar frenado automático. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "GT",
+      "anio": 2026,
+      "precio": 450900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 168,
+      "rendimientoCombinadoKmL": 16.87,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Dodge México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.dodge.com/mx/attitude.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 7 velocidades, rines de 18\". Bolsas frontales, laterales delanteras y de cortina (sin total en la ficha). La ficha lista alerta de colisión frontal, sin mencionar frenado automático. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Dodge México (sitio oficial, página de garantía)",
+    "url": "https://www.dodge.com/mx/posventa/garantia.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Dodge Attitude",
+      "url": "https://www.dodge.com/mx/attitude.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Dodge",
+      "url": "https://www.dodge.com/hostb/fiat_mx/JSONConversion/dodge/dodge-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Dodge Attitude 2026",
+      "url": "https://www.dodge.com/content/dam/cross-regional/nafta/dodge/es_mx/2026/attitude/documentos/FT_ATTITUDE_2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "En la lista de precios aparece como «New Attitude 2026»",
+    "Frenado autónomo de emergencia: la ficha solo menciona alerta de colisión frontal; confirmar",
+    "Total de bolsas de aire: la ficha lista los tipos sin total",
+    "Rendimiento combinado asignado por versión según el orden de columnas de la ficha (SXT, Sport, GT)",
+    "La lista oficial de precios también incluye unidades de años modelo anteriores con otros precios; aquí solo se muestran las del año modelo vigente. (Attitude 2024 y 2025)."
+  ]
+}

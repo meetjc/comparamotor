@@ -1,0 +1,85 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "Starray",
+  "slug": "starray",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GL 2.0",
+      "anio": 2026,
+      "precio": 599990,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L turbo 4 cil. (inyección directa)",
+      "potenciaHp": 215,
+      "rendimientoCombinadoKmL": 15.74,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/starray",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "215 hp @ 5,000 rpm y 325 Nm, doble embrague (DCT) de 7 velocidades, tracción delantera, 0 a 100 km/h en 7.4 s. Rendimiento de laboratorio: ciudad 13.90, carretera 18.77 y combinado 15.74 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia (peatones, vehículos y bicicletas) y control crucero adaptativo en ambas versiones según la ficha. Audio de 6 bocinas, cámara 360°, techo panorámico fijo."
+    },
+    {
+      "nombre": "GF 2.0",
+      "anio": 2026,
+      "precio": 655990,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L turbo 4 cil. (inyección directa)",
+      "potenciaHp": 215,
+      "rendimientoCombinadoKmL": 15.74,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/starray",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "215 hp @ 5,000 rpm y 325 Nm, doble embrague (DCT) de 7 velocidades, tracción delantera, 0 a 100 km/h en 7.4 s. Rendimiento de laboratorio: ciudad 13.90, carretera 18.77 y combinado 15.74 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia (peatones, vehículos y bicicletas) y control crucero adaptativo en ambas versiones según la ficha. Audio Harman Infinity de 11 bocinas, Head-Up Display, asientos ventilados y calefactados con memoria, techo panorámico corredizo, rines de 20\"."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz (motor y transmisión) 8 años o 250,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/starray"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Starray 2026 GL: precio desde $599,990 con 24 meses sin intereses (bono de $50,000 sin IVA aplicado a la tasa), o mensualidad desde $6,199 con tasa desde 6.73% y 1 año de seguro gratis",
+      "precioOferta": null,
+      "condicion": "24 MSI con enganche desde 45%; mensualidad con enganche desde 50% a 60 meses y subsidio de $34,470 a la tasa; 2.5% de comisión por apertura en plan BASE. Vigencia del 30 de septiembre al 30 de octubre de 2026 o hasta agotar existencias; crédito simple con Geely Financial Services (BBVA México), sujeto a aprobación; CAT promedio 25.61% sin IVA (calculado al 31-ago-2026); no acumulable con otras promociones ni válido en flotillas.",
+      "vigenciaHasta": "2026-10-30",
+      "fuente": "Geely México (sitio oficial, promociones)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Geely Starray",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/starray",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Starray",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-starray-ficha-tecnica-02.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha publicada está rotulada como Starray 2025; las versiones a la venta son 2026",
+    "El título de la página dice \"precio inicial de $559,990\", pero las versiones publicadas cuestan desde $599,990; se usó el precio de las versiones",
+    "Starray EM-i (híbrido enchufable) no aparece en el sitio oficial de México al 25-oct-2026"
+  ]
+}

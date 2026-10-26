@@ -1,0 +1,62 @@
+{
+  "marca": "GWM",
+  "marcaSlug": "gwm",
+  "modelo": "Poer 500",
+  "slug": "poer-500",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Híbrida Enchufable Premium",
+      "anio": 2026,
+      "precio": 939900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo híbrido enchufable + motor eléctrico; batería de 37.1 kWh; AWD + 4L (Hi4-T)",
+      "potenciaHp": 402,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 115,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/poer500",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Pickup híbrida enchufable: motor de gasolina de 248 hp y motor eléctrico de 120 kW; 402 hp y 553 lb-ft combinados. Transmisión automática híbrida de 9 velocidades con sistema Hi4-T, tracción AWD con reductora 4L. Autonomía eléctrica de 115 km (NEDC) y total de 1,060 km. 6 bolsas de aire y frenado autónomo de emergencia con detección de peatones y ciclistas. Kit estético Black Samurai. Rendimiento combinado oficial de 12.6 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "7 años de garantía defensa a defensa sin límite de kilometraje (GWM Care); baterías de alto voltaje de híbridos y eléctricos: 8 años o 150,000 km, lo que ocurra primero; programa anticorrosión y pintura de 7 años. Requiere servicios cada 6 meses o 10,000 km en distribuidor autorizado",
+    "fuente": "GWM México (sitio oficial: GWM Care, garantía)",
+    "url": "https://www.gwm-mx.com/es/owner/care/warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Poer 500 (página oficial)",
+      "url": "https://www.gwm-mx.com/es/models/poer500",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Poer 500 2026",
+      "url": "https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/pdf/fichas/gwm-poer500-ficha-tecnica-2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ofertas GWM México",
+      "url": "https://www.gwm-mx.com/es/offer",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía GWM Care",
+      "url": "https://www.gwm-mx.com/es/owner/care/warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha también describe las versiones Luxury y Ultimate, pero la página solo publica precio de la Premium",
+    "Promoción en la página de ofertas de GWM al 25-oct-2026: Poer 500 PHEV Modelo 2026 con bono de hasta $80,000 + instalación de cargador; el sitio no publica condiciones ni vigencia (solo asterisco), por eso no se registró como oferta"
+  ]
+}

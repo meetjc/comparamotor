@@ -1,0 +1,112 @@
+{
+  "marca": "Tesla",
+  "marcaSlug": "tesla",
+  "modelo": "Model Y",
+  "slug": "model-y",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "estadounidense",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Rear-Wheel Drive",
+      "anio": 2026,
+      "precio": 799000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor (tracción trasera)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 517,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Tesla México (sitio oficial: configurador)",
+      "url": "https://www.tesla.com/es_mx/modely/design",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía de 517 km (estimado de la EPA según Tesla) con rines de 18\". Tesla no publica la potencia de esta versión. Alerta de colisión frontal y frenado de emergencia activo de serie según Tesla."
+    },
+    {
+      "nombre": "Premium Rear-Wheel Drive",
+      "anio": 2026,
+      "precio": 899000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor (tracción trasera)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 571,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Tesla México (sitio oficial: configurador)",
+      "url": "https://www.tesla.com/es_mx/modely/design",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía de 571 km (estimado de la EPA según Tesla) con los rines de serie. Tesla no publica la potencia de esta versión. Alerta de colisión frontal y frenado de emergencia activo de serie según Tesla."
+    },
+    {
+      "nombre": "Premium All-Wheel Drive",
+      "anio": 2026,
+      "precio": 959000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, dos motores (tracción integral)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 526,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Tesla México (sitio oficial: configurador)",
+      "url": "https://www.tesla.com/es_mx/modely/design",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía de 526 km (estimado de la EPA según Tesla) con los rines de serie. Tesla no publica la potencia de esta versión. Alerta de colisión frontal y frenado de emergencia activo de serie según Tesla."
+    },
+    {
+      "nombre": "Performance All-Wheel Drive",
+      "anio": 2026,
+      "precio": 1129000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, dos motores (tracción integral)",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 492,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Tesla México (sitio oficial: configurador)",
+      "url": "https://www.tesla.com/es_mx/modely/design",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Autonomía de 492 km (estimado de la EPA según Tesla). Tesla no publica la potencia de esta versión en México. Alerta de colisión frontal y frenado de emergencia activo de serie según Tesla."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía limitada básica de 4 años u 80,000 km; batería y unidad de tracción de 8 años (160,000 km en Model Y RWD; 192,000 km en Model 3 Performance y Model Y Premium y Performance; 240,000 km en Cybertruck) con mínimo de 70% de capacidad",
+    "fuente": "Tesla México (sitio oficial: garantía del vehículo)",
+    "url": "https://www.tesla.com/es_mx/support/vehicle-warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador Tesla Model Y México",
+      "url": "https://www.tesla.com/es_mx/modely/design",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Tesla Model Y (página oficial)",
+      "url": "https://www.tesla.com/es_mx/modely",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Tesla México",
+      "url": "https://www.tesla.com/es_mx/support/vehicle-warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Tesla no publica la potencia en hp del Model Y en México",
+    "Tesla muestra un bono de $50,000 para inventario elegible sin condiciones detalladas por versión; no se registró como oferta",
+    "Tesla no publica año modelo en el configurador de México; se registró 2026 como año vigente por la fecha de verificación",
+    "Tesla no publica el número de bolsas de aire (solo «múltiples bolsas de aire»)",
+    "El configurador muestra «precio de compra» sin detallar si incluye cargos de entrega o trámites; confirmar con Tesla",
+    "Tesla no publica ficha técnica PDF en México; los datos salen del configurador y la página del modelo"
+  ]
+}

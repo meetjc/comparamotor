@@ -1,0 +1,125 @@
+{
+  "marca": "Ford",
+  "marcaSlug": "ford",
+  "modelo": "Transit Van",
+  "slug": "transit-van",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Gasolina Techo Bajo 2027",
+      "anio": 2027,
+      "precio": 1010000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6",
+      "potenciaHp": 271,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/camiones/transit/van/2027/versiones-precios/gasolina-techo-bajo/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Automática de 10 velocidades, tracción trasera. 4 bolsas de aire (frontales y de cortina). Asistencia pre-colisión con freno de emergencia automático."
+    },
+    {
+      "nombre": "Gasolina Techo Mediano 2027",
+      "anio": 2027,
+      "precio": 1050000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6",
+      "potenciaHp": 271,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/camiones/transit/van/2027/versiones-precios/gasolina-techo-mediano/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Automática de 10 velocidades, tracción trasera. 4 bolsas de aire. Asistencia pre-colisión con freno de emergencia automático."
+    },
+    {
+      "nombre": "Diésel Jumbo 2027",
+      "anio": 2027,
+      "precio": 1068500,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L 4 cil. diésel (Panther)",
+      "potenciaHp": 167,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 1,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/camiones/transit/van/2027/versiones-precios/diesel-jumbo/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Manual de 6 velocidades, tracción trasera. Bolsa de aire frontal para el conductor. Asistencia pre-colisión con freno de emergencia automático."
+    },
+    {
+      "nombre": "Gasolina Techo Mediano 2026",
+      "anio": 2026,
+      "precio": 1035600,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6",
+      "potenciaHp": 271,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/camiones/transit/van/2026/versiones-precios/gasolina-mediana/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Año modelo anterior aún publicado. Automática de 10 velocidades. 4 bolsas de aire."
+    },
+    {
+      "nombre": "Diésel Jumbo 2026",
+      "anio": 2026,
+      "precio": 1052600,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L 4 cil. diésel (Panther)",
+      "potenciaHp": 167,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/camiones/transit/van/2026/versiones-precios/diesel-jumbo/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Año modelo anterior aún publicado. Manual de 6 velocidades. La lista de equipo 2026 no detalla bolsas de aire."
+    }
+  ],
+  "garantia": null,
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Ford México: Transit Van 2027, versiones y precios",
+      "url": "https://www.ford.mx/camiones/transit/van/2027/versiones-precios/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ford México: Transit Van 2026, versiones y precios",
+      "url": "https://www.ford.mx/camiones/transit/van/2026/versiones-precios/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo oficial Ford Transit Van 2027",
+      "url": "https://www.ford.mx/content/dam/Ford/website-assets/latam/mx/nameplate/transit/van/2027/pdf/ford-transit-van-2027-catalogo-descargable.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Transit Chasis 2026 y 2027 (chasis cabina) no se incluyeron.",
+    "La propulsión del modelo es la de la versión de entrada (gasolina); hay versiones diésel.",
+    "Confirmar si los precios de ford. Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro.",
+    "Ford no publica rendimiento combinado en km/l en sus páginas de versiones ni en el catálogo.",
+    "Garantía original no publicada en ford.mx (la página de garantía solo describe extensiones Ford Protect).",
+    "ford.mx bloquea la descarga directa de PDF por curl; el catálogo se leyó en el navegador y no quedó copia local."
+  ]
+}

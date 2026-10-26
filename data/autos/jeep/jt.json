@@ -1,0 +1,92 @@
+{
+  "marca": "Jeep",
+  "marcaSlug": "jeep",
+  "modelo": "JT",
+  "slug": "jt",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Willys 4X4",
+      "anio": 2026,
+      "precio": 1149900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.6 L V6 (Pentastar)",
+      "potenciaHp": 285,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/jt.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina, 4x4. Automática de 8 velocidades. Bolsas frontales multietapa, frontales laterales y laterales (sin total en la ficha). Incluye prevención de colisión frontal plus y control crucero adaptativo. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Rubicon 4x4",
+      "anio": 2026,
+      "precio": 1450900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.6 L V6 (Pentastar)",
+      "potenciaHp": 285,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/jt.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina, 4x4. Automática de 8 velocidades. Bolsas frontales multietapa, frontales laterales y laterales (sin total en la ficha). Incluye prevención de colisión frontal plus y control crucero adaptativo. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Mojave 4x4",
+      "anio": 2026,
+      "precio": 1504900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.6 L V6 (Pentastar)",
+      "potenciaHp": 285,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/jt.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina, 4x4. Automática de 8 velocidades. Bolsas frontales multietapa, frontales laterales y laterales (sin total en la ficha). Incluye prevención de colisión frontal plus y control crucero adaptativo. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Jeep México (sitio oficial, ficha técnica)",
+    "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/jt/FT_DIPTICO_JT_2026.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Jeep JT",
+      "url": "https://www.jeep.com.mx/jt.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Jeep",
+      "url": "https://www.jeep.com.mx/hostb/fiat_mx/JSONConversion/jeep/jeep-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Jeep JT 2026",
+      "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/jt/FT_DIPTICO_JT_2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "En México la pickup de Jeep se vende como «Jeep JT» (en otros mercados se llama Gladiator)",
+    "Rendimiento combinado: la ficha técnica no lo publica",
+    "La lista oficial de precios también incluye unidades de años modelo anteriores con otros precios; aquí solo se muestran las del año modelo vigente. (JT 2024 y 2025)."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "marca": "Jeep",
+  "marcaSlug": "jeep",
+  "modelo": "Cherokee",
+  "slug": "cherokee",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "estadounidense",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Limited HEV 1.6L Turbo 4x4",
+      "anio": 2027,
+      "precio": 913900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "1.6 L 4 cil. turbo híbrido (sistema de 3 motores)",
+      "potenciaHp": 210,
+      "rendimientoCombinadoKmL": 15.73,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/cherokee.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido convencional (no se enchufa), 4x4. Potencia combinada de 210 hp. Transmisión híbrida de variación continua. Bolsas frontales multietapa, de rodilla para conductor, laterales delanteras y traseras y de cortina (sin total en la ficha). Incluye alerta de colisión frontal plus y asistencia contra colisiones en intersección. Datos técnicos de la ficha 2026, la publicada en el sitio. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Overland HEV 1.6L Turbo 4x4",
+      "anio": 2027,
+      "precio": 963900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "1.6 L 4 cil. turbo híbrido (sistema de 3 motores)",
+      "potenciaHp": 210,
+      "rendimientoCombinadoKmL": 15.73,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jeep México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.jeep.com.mx/cherokee.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido convencional, 4x4. Agrega equipo de confort sobre la Limited. Bolsas frontales multietapa, de rodilla para conductor, laterales delanteras y traseras y de cortina (sin total en la ficha). Incluye alerta de colisión frontal plus y asistencia contra colisiones en intersección. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Jeep México (sitio oficial, ficha técnica)",
+    "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/cherokee/FT_JEEP_CHEROKEE_2026_07MAY2026_V3.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Jeep Cherokee",
+      "url": "https://www.jeep.com.mx/cherokee.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Jeep",
+      "url": "https://www.jeep.com.mx/hostb/fiat_mx/JSONConversion/jeep/jeep-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Jeep Cherokee 2026",
+      "url": "https://www.jeep.com.mx/content/dam/cross-regional/nafta/jeep/es_mx/paginas-genericas/archivos-descargables/cherokee/FT_JEEP_CHEROKEE_2026_07MAY2026_V3.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica publicada es 2026; los precios son del año modelo 2027 (la lista también trae Cherokee 2026: Limited $858,900 y Overland $908,900)",
+    "Rendimiento de 15.73 km/l tomado de la ficha (no distingue versión)",
+    "Total de bolsas de aire: la ficha lista los tipos sin total"
+  ]
+}

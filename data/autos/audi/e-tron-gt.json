@@ -1,0 +1,71 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "e-tron GT",
+  "slug": "e-tron-gt",
+  "carroceria": "sedan",
+  "segmento": "deportivo",
+  "origenMarca": "alemana",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "RS e-tron GT",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, 2 motores",
+      "potenciaHp": 857,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: página del modelo)",
+      "url": "https://www.audi.com.mx/es/models/e-tron-gt/rs-e-tron-gt/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Tracción quattro. 857 hp (630 kW) en modo launch control, según la página del modelo. Audi no publica precio, configurador ni ficha técnica."
+    },
+    {
+      "nombre": "RS e-tron GT performance",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, 2 motores",
+      "potenciaHp": 925,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: página del modelo)",
+      "url": "https://www.audi.com.mx/es/models/e-tron-gt/rs-e-tron-gt-performance/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Tracción quattro. 925 hp (680 kW) en modo launch control, según la página del modelo. Audi no publica precio, configurador ni ficha técnica."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Audi RS e-tron GT (página oficial)",
+      "url": "https://www.audi.com.mx/es/models/e-tron-gt/rs-e-tron-gt/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Audi RS e-tron GT performance (página oficial)",
+      "url": "https://www.audi.com.mx/es/models/e-tron-gt/rs-e-tron-gt-performance/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "RS e-tron GT y RS e-tron GT performance 2026: sin precio, configurador ni ficha técnica en audi.com.mx",
+    "Potencia tomada en modo launch control (la página no da la potencia normal); autonomía, bolsas de aire y frenado autónomo sin dato oficial",
+    "Carrocería: gran turismo de 4 puertas, clasificado como sedán"
+  ]
+}

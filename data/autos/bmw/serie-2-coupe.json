@@ -1,0 +1,79 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "Serie 2 Coupé",
+  "slug": "serie-2-coupe",
+  "carroceria": "coupe",
+  "segmento": "deportivo",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "220i Coupé",
+      "anio": 2027,
+      "precio": 932900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo (TwinPower)",
+      "potenciaHp": 184,
+      "rendimientoCombinadoKmL": 16.5,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática deportiva de 8 velocidades, tracción trasera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "M240i xDrive Coupé",
+      "anio": 2027,
+      "precio": 1286900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6 cil. 3.0 L turbo (TwinPower)",
+      "potenciaHp": 387,
+      "rendimientoCombinadoKmL": 14.1,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática deportiva de 8 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW Serie 2 Coupé (página oficial)",
+      "url": "https://www.bmw.com.mx/es/modelos/series-2/2-series-coupe/bmw-2serie-coupe.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW 220i Coupé 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/serie%202/Coupe/BMW%20220i%20Coupe%CC%81%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW M240i xDrive Coupé 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/serie%202/Coupe/BMW%20M240i%20xDrive%20Coupe%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas"
+  ]
+}

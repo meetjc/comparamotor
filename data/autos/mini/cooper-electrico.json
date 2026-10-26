@@ -1,0 +1,114 @@
+{
+  "marca": "MINI",
+  "marcaSlug": "mini",
+  "modelo": "Cooper Eléctrico",
+  "slug": "cooper-electrico",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "britanica",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "E",
+      "anio": 2026,
+      "precio": 702000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Sin ficha técnica descargable en el sitio oficial para esta versión. La página del modelo da de 184 a 218 hp y hasta 400 km (WLTP) para la gama, sin separar por versión. Precio de lista con IVA, ISAN y transportación según MINI."
+    },
+    {
+      "nombre": "SE",
+      "anio": 2026,
+      "precio": 808000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Sin ficha técnica descargable en el sitio oficial para esta versión. La página del modelo da de 184 a 218 hp y hasta 400 km (WLTP) para la gama, sin separar por versión. Precio de lista con IVA, ISAN y transportación según MINI."
+    },
+    {
+      "nombre": "SE Paul Smith Edition",
+      "anio": 2026,
+      "precio": 839000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor",
+      "potenciaHp": 218,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 400,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición especial. Batería de 49.2 kWh, hasta 400 km (WLTP), tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    },
+    {
+      "nombre": "John Cooper Works Eléctrico",
+      "anio": 2027,
+      "precio": 908000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor",
+      "potenciaHp": 258,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 371,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Batería de 49.2 kWh, hasta 371 km (WLTP), tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía MINI por 3 años o 200,000 km (lo que ocurra primero); en versiones eléctricas, la batería de alto voltaje tiene 8 años o 160,000 km",
+    "fuente": "MINI México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mini.com.mx/es_MX/home/local/ft/ft-2/fichas-tecnicas-modelos-mini.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios MINI México",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "MINI Cooper Eléctrico (página oficial)",
+      "url": "https://www.mini.com.mx/es_MX/home/range/mini-cooper-electrico.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MINI Cooper Eléctrico (paul smith) 2026",
+      "url": "https://www.mini.com.mx/content/dam/MINI/marketMX/mini_com_mx/FT/ft_2027/MINI-Cooper-El%C3%A9ctrico-Paul-Smith-Edition_2026.pdf.asset.1772665788394.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MINI Cooper Eléctrico (jcw electrico) 2027",
+      "url": "https://www.mini.com.mx/content/dam/MINI/marketMX/mini_com_mx/FT/ft_2027/julio/FichaTecnica_MiniElectricoJCW_J01_DealersDigital.pdf.asset.1782914322629.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Los precios de las fichas técnicas son anteriores a la lista de precios vigente; se usó la lista: John Cooper Works Eléctrico (ficha $905,000, lista $908,000)",
+    "Las fichas de MINI describen un Driving Assistant (alerta de cambio de carril, tráfico cruzado, prevención de colisión trasera) pero no confirman frenado automático de emergencia frontal",
+    "No hay ficha técnica descargable de MINI Cooper Eléctrico E y SE en el sitio oficial; faltan potencia, autonomía y bolsas de aire por versión"
+  ]
+}

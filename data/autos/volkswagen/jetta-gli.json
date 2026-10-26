@@ -1,0 +1,71 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "Jetta GLI",
+  "slug": "jetta-gli",
+  "carroceria": "sedan",
+  "segmento": "deportivo",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GLI",
+      "anio": 2027,
+      "precio": 691190,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 230,
+      "rendimientoCombinadoKmL": 16.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/jetta-gli.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales y de cortina). Caja DSG de doble embrague y 7 velocidades, tracción delantera. Freno autónomo de emergencia de serie. Precio de lista con IVA e ISAN según el configurador de VW."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años de garantía defensa a defensa o hasta 100,000 km (Protección VW; incluye seguro de robo de autopartes, asistencia vial y protección de llantas)",
+    "fuente": "Volkswagen de México (sitio oficial, página del modelo)",
+    "url": "https://www.vw.com.mx/es/autos-suvs/jetta-gli.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "GLI 2026 (año anterior): tasa de 6.99% + seguro gratis, o bono de $66,200 + seguro gratis",
+      "precioOferta": null,
+      "condicion": "Aplica a unidades GLI modelo 2026, no al 2027 del configurador. Plan Credit, persona física asalariada, enganche 34.5%, 24 meses, tasa fija 6.99%, CAT 10.5% sin IVA (calculado al 28-sep-2026). El bono incluye IVA y se aplica solo como descuento al precio de lista o como subvención a la tasa. Seguro de cobertura amplia gratis el primer año. No acumulable; sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Volkswagen de México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.vw.com.mx/es/promociones/jetta-gli.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "GLI 2027 (página del modelo)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/jetta-gli.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador VW: GLI",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/jetta-gli.app",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial GLI 2027",
+      "url": "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2027/volkswagen-gli-2027-ficha-tecnica.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción GLI (VW México)",
+      "url": "https://www.vw.com.mx/es/promociones/jetta-gli.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La promoción vigente es para GLI 2026; el configurador ya solo muestra GLI 2027 con precio de lista de $691,190"
+  ]
+}

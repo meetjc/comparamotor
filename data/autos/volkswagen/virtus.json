@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
       "url": "https://www.vw.com.mx/es/configurador.html/__app/virtus/trendline.app",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (frontales, laterales y cortina). Precio de lista con IVA e ISAN según VW. Manual de 5 velocidades, tracción delantera. Asistente de colisión frontal con freno de emergencia: no disponible (ficha)."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
       "url": "https://www.vw.com.mx/es/configurador.html/__app/virtus/trendline.app",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (frontales, laterales y cortina). Precio de lista con IVA e ISAN según VW. Tiptronic de 6 velocidades, tracción delantera. Asistente de colisión frontal con freno de emergencia: no disponible (ficha)."
     },
     {
@@ -74,7 +74,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
       "url": "https://www.vw.com.mx/es/configurador.html/__app/virtus/highline.app",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (frontales, laterales y cortina). Precio de lista con IVA e ISAN según VW. Tiptronic de 6 velocidades. La página del modelo muestra 'Precio de contado desde $399,990', distinto del precio de lista del configurador."
     }
   ],
@@ -106,6 +106,7 @@
     "Precio de lista de Virtus Comfortline AT: VW no lo publica (solo 'precio de contado desde $389,990' en la página del modelo; el configurador no lista esta versión)",
     "Rendimiento: la página del modelo dice 16.1 km/l 'del motor 1.0 L TSI', pero la ficha técnica 2026 asigna 17.5 km/l a las versiones 1.0 L TSI y 16.1 km/l a Trendline AT 1.6 L; se usó la ficha",
     "La página del modelo y el configurador no coinciden en cuántas versiones están a la venta (3 vs 2); confirmar con VW si Comfortline sigue disponible",
-    "Solo hay Virtus 2026 en el sitio de VW (no hay año modelo 2027)"
+    "Solo hay Virtus 2026 en el sitio de VW (no hay año modelo 2027)",
+    "El 25-oct-2026 el configurador seguía mostrando solo Trendline (MT $322,490 y AT $342,490) y Highline ($399,490); Comfortline no aparece"
   ]
 }

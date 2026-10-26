@@ -1,0 +1,67 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "EX5",
+  "slug": "ex5",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GF",
+      "anio": 2026,
+      "precio": 699900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico: motor síncrono de imán permanente de 160 kW; batería de 60.22 kWh",
+      "potenciaHp": 214,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 470,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex5",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor eléctrico de 214 hp y 320 Nm, tracción delantera. Autonomía 470 km y consumo 14 kWh/100 km (NEDC). 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia, frenado por tráfico cruzado trasero y asistente de cambio de carril según la ficha. Audio Flyme Sound de 16 bocinas, Head-Up Display, asientos con masaje, techo panorámico."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz eléctrico (batería de alto voltaje, motor eléctrico y controlador) 8 años o 150,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex5"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Geely EX5 2026 GF: tasa desde 6.25% con 2 años de mantenimiento incluidos, o mensualidad desde $6,499 con 1 año de seguro gratis",
+      "precioOferta": null,
+      "condicion": "Precio $699,900, enganche desde 50.08% a 72 meses con subsidio de $47,108.66 IVA incluido a la tasa; mantenimiento cubre 2 años o 40,000 km. Vigencia del 30 de septiembre al 30 de octubre de 2026 o hasta agotar existencias; crédito simple con Geely Financial Services (BBVA México), sujeto a aprobación; CAT promedio 25.61% sin IVA (calculado al 31-ago-2026); no acumulable con otras promociones ni válido en flotillas.",
+      "vigenciaHasta": "2026-10-30",
+      "fuente": "Geely México (sitio oficial, promociones)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Geely EX5",
+      "url": "https://www.geelymexico.com/autos-electricos/vehiculos/geely-ex5",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial EX5 2026",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-ex5-ficha-tecnica-01.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Única versión publicada: GF 2026",
+    "La ficha dice batería tipo \"LIP\"; no se aclara la química"
+  ]
+}

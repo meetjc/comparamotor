@@ -1,0 +1,63 @@
+{
+  "marca": "Kia",
+  "marcaSlug": "kia",
+  "modelo": "Telluride",
+  "slug": "telluride",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "coreana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "SX",
+      "anio": 2025,
+      "precio": 1191300,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.8 L V6 GDI",
+      "potenciaHp": 291,
+      "rendimientoCombinadoKmL": 11.33,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/telluride/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades, tracción integral (AWD), 7 pasajeros. 9 bolsas de aire. Incluye asistente de evasión de colisión frontal y de giro."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica (defensa a defensa) 5 años o 100,000 km; tren motriz 7 años o 150,000 km (lo que ocurra primero)",
+    "fuente": "Kia México (sitio oficial, página de garantía)",
+    "url": "https://www.kia.com/mx/owners/warranty-recalls.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Precios y especificaciones Kia Telluride 2025 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/telluride/specification.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Kia Telluride 2025 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/telluride.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial (catálogo) Kia Telluride 2025",
+      "url": "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/2027/telluride2025/pdf/Web_BROCHURE_Telluride_Abril_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Kia México",
+      "url": "https://www.kia.com/mx/owners/warranty-recalls.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo: se tomó el Asistente de evasión de colisión frontal (FCA) de la tabla oficial.",
+    "Kia México sigue vendiendo la Telluride como año modelo 2025 (octubre 2026); puede tratarse de inventario remanente",
+    "Kia México no publica una promoción vigente para la Telluride (octubre 2026)"
+  ]
+}

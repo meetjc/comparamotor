@@ -1,0 +1,59 @@
+{
+  "marca": "BAIC",
+  "marcaSlug": "baic",
+  "modelo": "ARCFOX T1",
+  "slug": "arcfox-t1",
+  "carroceria": "hatchback",
+  "segmento": "compacto",
+  "origenMarca": "china",
+  "propulsion": "electrico",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "Comfort",
+      "anio": null,
+      "precio": 509900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico: motor síncrono de imanes permanentes de 70 kW; batería LFP de 42 kWh",
+      "potenciaHp": 94,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 375,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "BAIC México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.baicmx.com/models/arcfox/55",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor eléctrico de 70 kW (unos 94 hp) y 176 Nm, transmisión de relación única. Autonomía 375 km (NEDC; WLTC preliminar de al menos 310 km). Carga rápida DC de 89 kW y función V2L/V2V. 2 bolsas de aire frontales. Sin frenado automático de emergencia según la ficha. Pantalla de 15.6\", cámara 360°, rines de acero de 17\"."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": "BAIC México (sitio oficial, página de garantía): solo publica la cobertura para vehículos de gasolina",
+    "url": "https://www.baicmx.com/about/warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial ARCFOX T1 (BAIC México)",
+      "url": "https://www.baicmx.com/models/arcfox/55",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial ARCFOX T1",
+      "url": "https://www.baicmx.com/file/upload/2026/06/02/ARCFOX%20T1%20Ficha%20t%C3%A9cnica_20260602091202A029.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía BAIC México",
+      "url": "https://www.baicmx.com/about/warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "ARCFOX es la submarca eléctrica de BAIC; se vende en México a través de BAIC México y se registró bajo la marca BAIC",
+    "Año modelo no publicado en la página ni en la ficha",
+    "BAIC da la potencia en kW; los hp se calcularon (1 kW = 1.341 hp)",
+    "Garantía de batería y componentes eléctricos no publicada en el sitio de BAIC México"
+  ]
+}

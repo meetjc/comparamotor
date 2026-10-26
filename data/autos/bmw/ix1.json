@@ -1,0 +1,57 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "iX1",
+  "slug": "ix1",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "alemana",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "eDrive20",
+      "anio": 2027,
+      "precio": 1171900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, un motor",
+      "potenciaHp": 204,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 430,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Eléctrico, batería de 64.8 kWh, hasta 430 km. Tracción delantera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW iX1 (página oficial)",
+      "url": "https://www.bmw.com.mx/es_MX/all-models/bmw-i/iX1/2022/bmw-ix1-highlights.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW iX1 eDrive20 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/x1/BMW%20iX1%20eDrive20%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas"
+  ]
+}

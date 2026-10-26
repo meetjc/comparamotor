@@ -1,0 +1,56 @@
+{
+  "marca": "Fiat",
+  "marcaSlug": "fiat",
+  "modelo": "Pulse Abarth",
+  "slug": "pulse-abarth",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "italiana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Abarth",
+      "anio": 2027,
+      "precio": 523900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.3 L 4 cil. turbo",
+      "potenciaHp": 173,
+      "rendimientoCombinadoKmL": 16.29,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Fiat México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.fiat.com.mx/pulse-abarth.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Versión deportiva. Automática de 6 velocidades con paletas y modo Poison. 0 a 100 km/h en 8 s según la marca. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). Incluye alerta de colisión frontal con frenado automático. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Fiat México (sitio oficial, ficha técnica)",
+    "url": "https://www.fiat.com.mx/content/dam/cross-regional/nafta/fiat/es_mx/2026/pulse-abarth/documentos-tecnicos/FT_ABARTH_VERTCIAL_26_07MAY2026_V6.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Fiat Pulse Abarth",
+      "url": "https://www.fiat.com.mx/pulse-abarth.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Fiat",
+      "url": "https://www.fiat.com.mx/hostb/fiat_mx/JSONConversion/fiat/fiat-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Fiat Pulse Abarth 2026",
+      "url": "https://www.fiat.com.mx/content/dam/cross-regional/nafta/fiat/es_mx/2026/pulse-abarth/documentos-tecnicos/FT_ABARTH_VERTCIAL_26_07MAY2026_V6.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica publicada es 2026; el precio es 2027 (la 2026 cuesta $473,500)"
+  ]
+}

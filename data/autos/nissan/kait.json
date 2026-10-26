@@ -1,0 +1,98 @@
+{
+  "marca": "Nissan",
+  "marcaSlug": "nissan",
+  "modelo": "Kait",
+  "slug": "kait",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Advance CVT",
+      "anio": 2027,
+      "precio": 479900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.6 L 4 cil. (HR16DE)",
+      "potenciaHp": 122,
+      "rendimientoCombinadoKmL": 18.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kait.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $439,990 (vigencia 01-oct a 02-nov-2026). Transmisión CVT, tracción delantera. Rendimiento combinado 18.9 km/l (ciudad 16.97, carretera 21.95). 6 bolsas de aire (frontales, laterales y cortina). Frenado Inteligente de Emergencia con Detección de Peatones incluido."
+    },
+    {
+      "nombre": "Exclusive CVT",
+      "anio": 2027,
+      "precio": 496900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.6 L 4 cil. (HR16DE)",
+      "potenciaHp": 122,
+      "rendimientoCombinadoKmL": 18.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kait.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio CrediNissan: $460,990 (vigencia 01-oct a 02-nov-2026). Transmisión CVT, tracción delantera. 6 bolsas de aire. Frenado Inteligente de Emergencia con Detección de Peatones incluido."
+    },
+    {
+      "nombre": "Platinum CVT",
+      "anio": 2027,
+      "precio": 515900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.6 L 4 cil. (HR16DE)",
+      "potenciaHp": 122,
+      "rendimientoCombinadoKmL": 18.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Nissan México (sitio oficial: página del modelo, precios y versiones y catálogo PDF)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kait.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio CrediNissan: $475,990 (vigencia 01-oct a 02-nov-2026). Transmisión CVT, tracción delantera. 6 bolsas de aire. Frenado Inteligente de Emergencia con Detección de Peatones incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía de fábrica; requiere servicios cada 6 meses o 10,000 km)",
+    "fuente": "Nissan México (Portal de Clientes oficial, artículo del 28-mar-2025)",
+    "url": "https://portalclientes.nissan.com.mx/s/article/Cuanto-dura-la-garantia-de-fabrica-del-vehiculo"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Precio especial CrediNissan: Advance CVT $439,990; Exclusive CVT $460,990; Platinum CVT $475,990.",
+      "precioOferta": 439990,
+      "condicion": "Solo crédito tradicional con NR Finance México, sujeto a aprobación y comportamiento crediticio; no aplica con otras promociones. Sin crédito rige el precio de lista.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Nissan México (sitio oficial)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kait.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Nissan Kait (página del modelo)",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kait.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Nissan Kait: precios y versiones",
+      "url": "https://www.nissan.com.mx/vehiculos/todos/kait/precios-y-versiones.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Kait 2027 (catálogo)",
+      "url": "https://www.nissan.com.mx/content/dam/Nissan/mexico/assets/kait/my27/vlp/catalogos/nissan-2027-kait-catalogo.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": []
+}

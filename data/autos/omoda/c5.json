@@ -1,0 +1,67 @@
+{
+  "marca": "Omoda",
+  "marcaSlug": "omoda",
+  "modelo": "C5",
+  "slug": "c5",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "1.5T Unlimited",
+      "anio": 2026,
+      "precio": 489900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L Turbo (1,498 cc)",
+      "potenciaHp": 154,
+      "rendimientoCombinadoKmL": 16.24,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Omoda México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.omoda.mx/autos/detalle/omoda-c5-2026/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista $489,900 (también en la ficha técnica); la página lo muestra tachado y anuncia $449,900 con bono de $40,000. Ficha técnica oficial: 154 hp @ 5,550 rpm, 169 lb-ft, CVT, tracción delantera. Rendimiento de laboratorio: ciudad 14.85, combinado 16.24 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado automático de emergencia (AEB), control crucero adaptativo y 12 asistencias. Cámara 540°, pantallas de 10.25\", quemacocos."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica 5 años o 150,000 km; motor 10 años o 1,000,000 km (con condiciones de la póliza); perforación por corrosión 5 años o 150,000 km; pintura 1 año o 150,000 km; refacciones y accesorios 1 año o 30,000 km (lo que ocurra primero)",
+    "fuente": "Omoda México (sitio oficial)",
+    "url": "https://www.omoda.mx/garantia/"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Omoda C5 1.5T Unlimited 2026: bono de $40,000 (precio con bono $449,900)",
+      "precioOferta": 449900,
+      "condicion": "Vigencia del 1 al 31 de octubre de 2026; precio sugerido; aplican restricciones. La página no detalla si el bono exige financiamiento (el cotizador del sitio usa crédito de BBVA México, sujeto a aprobación, solo personas físicas, no acumulable con otras promociones).",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Omoda México (sitio oficial, página del modelo)",
+      "url": "https://www.omoda.mx/autos/detalle/omoda-c5-2026/",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Omoda México: C5 2026",
+      "url": "https://www.omoda.mx/autos/detalle/omoda-c5-2026/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Omoda C5 2026",
+      "url": "https://d2ivywpatow20m.cloudfront.net/media/tech_files/2026/01/23/FichaTecnica__Omoda_C5_2026_Carta_compressed.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Omoda México: garantía",
+      "url": "https://www.omoda.mx/garantia/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La página menciona dos versiones (1.5T Life y 1.5T Unlimited), pero solo publica precio y ficha de la Unlimited; la Life no se capturó",
+    "La ficha no publica rendimiento en carretera"
+  ]
+}

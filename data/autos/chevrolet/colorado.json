@@ -1,0 +1,98 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Colorado",
+  "slug": "colorado",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Z71",
+      "anio": 2026,
+      "precio": 1122000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.7 L 4 cil. turbo",
+      "potenciaHp": 310,
+      "rendimientoCombinadoKmL": 11.4,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/colorado-camioneta-todoterreno-4x4/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,044,000 y precio financiado o de arrendamiento $1,044,000 (ver ofertas). Automática de 8 velocidades, tracción 4x4. La ficha lista \"asistente de colisión frontal\" sin decir si frena de forma automática."
+    },
+    {
+      "nombre": "ZR2",
+      "anio": 2026,
+      "precio": 1255700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.7 L 4 cil. turbo",
+      "potenciaHp": 310,
+      "rendimientoCombinadoKmL": 10.0,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/pickups/colorado-camioneta-todoterreno-4x4/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,177,700 y precio financiado o de arrendamiento $1,177,700 (ver ofertas). Automática de 8 velocidades, tracción 4x4, suspensión todoterreno."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Colorado Z71: precio de contado $1,044,000 y precio financiado o de arrendamiento $1,044,000 (precio de lista $1,122,000). Promociones publicadas: De contado: Bono de $78,000, 1 Año de seguro ¡Gratis¡, 12 meses de internet ilimitado y OnStar Essentials. Con financiamiento: Bono de $78,000, 1 Año de seguro ¡Gratis¡, 12 meses de internet ilimitado y OnStar Essentials.",
+      "precioOferta": 1044000,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/colorado/CHCOL01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Colorado ZR2: precio de contado $1,177,700 y precio financiado o de arrendamiento $1,177,700 (precio de lista $1,255,700). Promociones publicadas: De contado: Bono de $78,000, 1 Año de seguro ¡Gratis¡, 12 meses de internet ilimitado y OnStar Essentials. Con financiamiento: Bono de $78,000, 1 Año de seguro ¡Gratis¡, 12 meses de internet ilimitado y OnStar Essentials.",
+      "precioOferta": 1177700,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/colorado/CHCOL01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Colorado",
+      "url": "https://www.chevrolet.com.mx/pickups/colorado-camioneta-todoterreno-4x4/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Colorado (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/colorado/CHCOL01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Colorado",
+      "url": "https://www.chevrolet.com.mx/pickups/colorado-camioneta-todoterreno-4x4/especificaciones-automotriz",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Colorado 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2026-colorado/mov/02-pdf/2026-colorado-ficha-tecnica-v2.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia sin confirmar (\"asistente de colisión frontal\").",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

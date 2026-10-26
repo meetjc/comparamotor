@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
       "url": "https://www.vw.com.mx/es/autos-suvs/jetta.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (frontales, laterales y cortina). Tiptronic de 8 velocidades, tracción delantera. Precio de lista con IVA e ISAN según VW. Asistente de colisión frontal con freno de emergencia: no disponible (ficha)."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
       "url": "https://www.vw.com.mx/es/autos-suvs/jetta.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (frontales, laterales y cortina). Tiptronic de 8 velocidades, tracción delantera. Precio de lista con IVA e ISAN según VW."
     },
     {
@@ -57,7 +57,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
       "url": "https://www.vw.com.mx/es/autos-suvs/jetta.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (frontales, laterales y cortina). Tiptronic de 8 velocidades, tracción delantera. Precio de lista con IVA e ISAN según VW."
     }
   ],
@@ -85,6 +85,6 @@
   ],
   "pendientes": [
     "Solo hay Jetta 2027 en el sitio de VW; no se vio una versión manual ni año modelo 2026",
-    "Jetta GLI 2027 es otro modelo del catálogo de VW (precio de lista desde $691,190) y no se incluyó en este archivo"
+    "Jetta GLI 2027 es otro modelo del catálogo de VW (precio de lista desde $691,190); está en data/autos/volkswagen/jetta-gli.json"
   ]
 }

@@ -1,0 +1,117 @@
+{
+  "marca": "Porsche",
+  "marcaSlug": "porsche",
+  "modelo": "Macan Electric",
+  "slug": "macan-electric",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "alemana",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Macan Electric",
+      "anio": 2027,
+      "precio": 1778000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico",
+      "potenciaHp": 360,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/macan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Macan Electric, tracción trasera, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    },
+    {
+      "nombre": "Macan 4 Electric",
+      "anio": 2027,
+      "precio": 1848000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico",
+      "potenciaHp": 408,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/macan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    },
+    {
+      "nombre": "Macan 4S Electric",
+      "anio": 2027,
+      "precio": 2048000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico",
+      "potenciaHp": 516,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/macan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    },
+    {
+      "nombre": "Macan GTS Electric",
+      "anio": 2027,
+      "precio": 2248000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico",
+      "potenciaHp": 571,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/macan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    },
+    {
+      "nombre": "Macan Turbo Electric",
+      "anio": 2027,
+      "precio": 2408000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico",
+      "potenciaHp": 639,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Porsche México (sitio oficial: modelos y precios)",
+      "url": "https://www.porsche.com/mexico/models/macan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería Macan Electric, tracción integral, transmisión automática. Precio publicado por Porsche México (la página no aclara si incluye IVA e ISAN)."
+    }
+  ],
+  "garantia": null,
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Porsche México: modelos y precios",
+      "url": "https://www.porsche.com/mexico/models/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Porsche Macan Electric (página oficial)",
+      "url": "https://www.porsche.com/mexico/models/macan/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Porsche México publica precio y potencia por versión, pero no rendimiento, autonomía, número de bolsas de aire ni frenado automático en la página de modelos; quedan por confirmar con la ficha de cada versión",
+    "La página no indica si los precios incluyen IVA e ISAN",
+    "Porsche México no publica ficha técnica PDF descargable; no se registró garantía porque no se encontró en el sitio oficial"
+  ]
+}

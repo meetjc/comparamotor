@@ -1,0 +1,106 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "Teramont",
+  "slug": "teramont",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Trendline",
+      "anio": 2026,
+      "precio": 901190,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 269,
+      "rendimientoCombinadoKmL": 12.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/teramont.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales y de cortina). Tiptronic de 8 velocidades, tracción delantera, 7 pasajeros. Precio de lista con IVA e ISAN según el configurador de VW."
+    },
+    {
+      "nombre": "Peak Edition",
+      "anio": 2026,
+      "precio": 1082190,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 269,
+      "rendimientoCombinadoKmL": 11.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/teramont.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales y de cortina). Tiptronic de 8 velocidades, tracción integral 4MOTION, 7 pasajeros. Incluye Long Drive (mantenimiento). Precio de lista con IVA e ISAN según el configurador de VW."
+    },
+    {
+      "nombre": "Highline",
+      "anio": 2026,
+      "precio": 1152190,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 269,
+      "rendimientoCombinadoKmL": 11.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/teramont.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales y de cortina). Tiptronic de 8 velocidades, tracción integral 4MOTION, 6 pasajeros, asistente de estacionamiento. Incluye Long Drive (mantenimiento). Precio de lista con IVA e ISAN según el configurador de VW."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años de garantía defensa a defensa o hasta 100,000 km (Protección VW; incluye seguro de robo de autopartes, asistencia vial y protección de llantas)",
+    "fuente": "Volkswagen de México (sitio oficial, página del modelo)",
+    "url": "https://www.vw.com.mx/es/autos-suvs/teramont.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Teramont Trendline 2026: 'Llévatelo desde $797,045' (precio financiado vía Volkswagen Leasing), o 24 meses sin intereses, o bono de $104,145",
+      "precioOferta": 797045,
+      "condicion": "Precio financiado para plazos desde 24 meses en productos Credit. Meses sin intereses: persona física asalariada, enganche 40%, 24 meses, tasa 0%, CAT 10.3% sin IVA (calculado al 24-abr-2026). El bono incluye IVA y se aplica solo como descuento al precio de lista o como subvención a la tasa. Solo unidades nuevas; no acumulable; sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Volkswagen de México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.vw.com.mx/es/promociones/teramont.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Teramont 2026 (página del modelo)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/teramont.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador VW: Teramont",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/teramont.app",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Teramont 2026",
+      "url": "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2026/volkswagen-teramont-2026-ficha-tecnica.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Teramont (VW México)",
+      "url": "https://www.vw.com.mx/es/promociones/teramont.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "VW anuncia un 'Nuevo Teramont' (motor 2.0 L TSI de 282 hp) como próximamente, sin precio; cuando salga a la venta habrá que actualizar este archivo",
+    "La ficha técnica no rotula versiones por nombre en cada fila; el orden Trendline, Peak Edition, Highline viene del encabezado de la ficha"
+  ]
+}

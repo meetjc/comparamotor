@@ -1,0 +1,152 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "Q8",
+  "slug": "q8",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Elite 55 TFSI quattro",
+      "anio": 2027,
+      "precio": 1749900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L V6 turbo (TFSI) con sistema híbrido ligero de 48 V",
+      "potenciaHp": 340,
+      "rendimientoCombinadoKmL": 10.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q8/q8-suv/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros y traseros con airbag de cabeza. Tiptronic de 8 velocidades, tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S line 55 TFSI quattro",
+      "anio": 2027,
+      "precio": 1919900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L V6 turbo (TFSI) con sistema híbrido ligero de 48 V",
+      "potenciaHp": 340,
+      "rendimientoCombinadoKmL": 10.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q8/q8-suv/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros y traseros con airbag de cabeza. Tiptronic de 8 velocidades, tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "e-hybrid TFSI e quattro (híbrido enchufable)",
+      "anio": 2027,
+      "precio": 2089900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L V6 turbo (TFSI) híbrido enchufable; batería de 22 kWh netos",
+      "potenciaHp": 490,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 76,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q8/q8-suv-e-hybrid/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros y traseros con airbag de cabeza. Tiptronic de 8 velocidades, tracción quattro. 490 hp combinados. Rendimiento medido con la batería descargada. Autonomía eléctrica de 76 a 83 km según la ficha. Página propia en Audi (Q8 SUV e-hybrid). Precio de lista del configurador de Audi México, en pesos con IVA incluido. Rendimiento combinado oficial de 11.3 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "SQ8 TFSI quattro",
+      "anio": 2027,
+      "precio": 2179900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4.0 L V8 biturbo (TFSI)",
+      "potenciaHp": 507,
+      "rendimientoCombinadoKmL": 9.0,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q8/sq8/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), de cabeza y laterales delanteros y traseros. Tiptronic de 8 velocidades, tracción quattro. Versión deportiva con página propia (SQ8 SUV); frenado de emergencia dentro de Audi pre sense front. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "RS Q8 performance TFSI quattro",
+      "anio": 2027,
+      "precio": 3239900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4.0 L V8 biturbo (TFSI) con sistema híbrido ligero de 48 V",
+      "potenciaHp": 640,
+      "rendimientoCombinadoKmL": 8.7,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q8/rs-q8-suv-performance/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), entre otros que lista la ficha. Tiptronic de 8 velocidades, tracción quattro. Versión de alto desempeño con página propia (RS Q8 SUV performance); frenado de emergencia dentro de Audi pre sense front. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador Audi Q8 SUV",
+      "url": "https://www.audi.com.mx/es/models/q8/q8-suv/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi Q8 SUV e-hybrid",
+      "url": "https://www.audi.com.mx/es/models/q8/q8-suv-e-hybrid/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi SQ8 SUV",
+      "url": "https://www.audi.com.mx/es/models/q8/sq8/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi RS Q8 SUV performance",
+      "url": "https://www.audi.com.mx/es/models/q8/rs-q8-suv-performance/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Q8 SUV 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_q8_suv_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Q8 SUV e-hybrid 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_q8_suv_e_hybrid_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial SQ8 SUV 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_sq8_suv_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RS Q8 SUV performance 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_rs_q8_suv_performance_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "Se agruparon Q8, Q8 e-hybrid, SQ8 y RS Q8 performance en un solo archivo; el modelo se clasifica como híbrido ligero por su versión de entrada (V6 con sistema de 48 V)",
+    "Las fichas de Q8 y Q8 e-hybrid solo listan Audi pre sense trasero; no aclaran si traen frenado autónomo delantero",
+    "Autonomía eléctrica del Q8 e-hybrid: se usó el valor menor del rango (76 a 83 km)"
+  ]
+}

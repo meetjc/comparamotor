@@ -1,0 +1,74 @@
+{
+  "marca": "MG",
+  "marcaSlug": "mg",
+  "modelo": "RX9",
+  "slug": "rx9",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "britanica-china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "Elegance AT",
+      "anio": 2025,
+      "precio": 777000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L Turbo 4 cil.",
+      "potenciaHp": 201,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/rx9",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "SUV de 3 filas y 7 pasajeros. Motor 2.0 L turbo de 4 cilindros, 201 hp y 258 lb-pie, automática de 9 velocidades. 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina). Según la ficha, el frenado autónomo de emergencia y el control crucero adaptativo son solo de Premier. El sitio muestra además un precio especial de $577,000 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    },
+    {
+      "nombre": "Premier AT",
+      "anio": 2025,
+      "precio": 869900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L Turbo 4 cil.",
+      "potenciaHp": 201,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/rx9",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "SUV de 3 filas y 7 pasajeros. Motor 2.0 L turbo de 4 cilindros, 201 hp y 258 lb-pie, automática de 9 velocidades. 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina). MG Pilot (nivel 2) con frenado autónomo de emergencia, audio Bose de 12 bocinas, asientos delanteros ventilados y calefactados. El sitio muestra además un precio especial de $729,900 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    }
+  ],
+  "garantia": {
+    "texto": "Cobertura total del vehículo 60 meses o 100,000 km (lo que ocurra primero); garantía limitada de tren motriz hasta 84 meses o 150,000 km; programa Lucky Seven sin costo (7 años de garantía, asistencia vial y cobertura en autopartes robadas). Exige servicios en agencia cada 6 meses o 10,000 km",
+    "fuente": "MG Motor México (sitio oficial)",
+    "url": "https://www.mgmotor.com.mx/preguntas-frecuentes"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "RX9 en MG Motor México",
+      "url": "https://www.mgmotor.com.mx/vehiculos/rx9",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MG RX9 2025",
+      "url": "https://cdn.mgmotor.com.mx/storage/fichas-tecnicas/mg-rx9-ficha-tecnica-04.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía MG (preguntas frecuentes)",
+      "url": "https://www.mgmotor.com.mx/preguntas-frecuentes",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento combinado oficial: la ficha del RX9 2025 no lo publica",
+    "Precios especiales: el sitio los muestra junto al precio de lista sin vigencia ni condiciones; la página de promociones dice \"Muy pronto, promociones exclusivas para ti\" y el PDF de legales de octubre 2026 venció el 6 de octubre, por eso no se cargaron como ofertas"
+  ]
+}

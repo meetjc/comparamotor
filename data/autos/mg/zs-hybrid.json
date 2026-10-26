@@ -1,0 +1,75 @@
+{
+  "marca": "MG",
+  "marcaSlug": "mg",
+  "modelo": "ZS Hybrid+",
+  "slug": "zs-hybrid",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "britanica-china",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "HEV Excite AT",
+      "anio": 2026,
+      "precio": 545000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. híbrido (HEV)",
+      "potenciaHp": 191,
+      "rendimientoCombinadoKmL": 24.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/zshev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido (HEV) no enchufable: motor 1.5 L + motor eléctrico de tracción de 100 kW (134 hp); potencia combinada 191 hp y 310 lb-pie. Transmisión automática de engranes planetarios. Rendimiento oficial ciudad 25.4, carretera 23.8, combinado 24.7 km/l (ficha ZS 2027). 6 bolsas de aire. Frenado automático de emergencia (incluye tráfico cruzado) según la página del modelo. Pantalla de 10.25\", rines de 17\". El sitio muestra además un precio especial de $445,000 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    },
+    {
+      "nombre": "HEV Elegance AT",
+      "anio": 2026,
+      "precio": 580000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. híbrido (HEV)",
+      "potenciaHp": 191,
+      "rendimientoCombinadoKmL": 24.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "MG Motor México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.mgmotor.com.mx/vehiculos/zshev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido (HEV) no enchufable: motor 1.5 L + motor eléctrico de tracción de 100 kW (134 hp); potencia combinada 191 hp y 310 lb-pie. Transmisión automática de engranes planetarios. Rendimiento oficial ciudad 25.4, carretera 23.8, combinado 24.7 km/l (ficha ZS 2027). 6 bolsas de aire. Frenado automático de emergencia (incluye tráfico cruzado) según la página del modelo. Suma techo panorámico, pantalla de 12.3\", cámara 360° y rines de 18\". El sitio muestra además un precio especial de $499,500 sin condiciones ni vigencia publicadas (no se registra como oferta)."
+    }
+  ],
+  "garantia": {
+    "texto": "Cobertura total del vehículo 60 meses o 100,000 km (lo que ocurra primero); garantía limitada de tren motriz hasta 84 meses o 150,000 km; programa Lucky Seven sin costo (7 años de garantía, asistencia vial y cobertura en autopartes robadas). Exige servicios en agencia cada 6 meses o 10,000 km",
+    "fuente": "MG Motor México (sitio oficial)",
+    "url": "https://www.mgmotor.com.mx/preguntas-frecuentes"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "ZS Hybrid+ en MG Motor México",
+      "url": "https://www.mgmotor.com.mx/vehiculos/zshev",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MG ZS 2027",
+      "url": "https://cdn.mgmotor.com.mx/storage/fichas-tecnicas/mg-zs-2027-ficha-tecnica-01.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía MG (preguntas frecuentes)",
+      "url": "https://www.mgmotor.com.mx/preguntas-frecuentes",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Autonomía total de 1,070 km publicada por MG (no es autonomía eléctrica)",
+    "Garantía de la batería híbrida: el sitio no la detalla",
+    "Precios especiales: el sitio los muestra junto al precio de lista sin vigencia ni condiciones; la página de promociones dice \"Muy pronto, promociones exclusivas para ti\" y el PDF de legales de octubre 2026 venció el 6 de octubre, por eso no se cargaron como ofertas"
+  ]
+}

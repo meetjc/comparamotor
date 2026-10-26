@@ -1,0 +1,71 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "CS75 Pro",
+  "slug": "cs75-pro",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Pro Luxury",
+      "anio": 2026,
+      "precio": 489900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 185,
+      "rendimientoCombinadoKmL": 15.1,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/cs75-pro",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "185 hp y 221 lb-ft, doble embrague (DCT) de 7 velocidades, tracción delantera, 7 plazas. Rendimiento de laboratorio: ciudad 13.6, carretera 17.6 y combinado 15.1 km/l. 4 bolsas de aire (frontales y laterales; la ficha no incluye cortinas). Sin frenado autónomo de emergencia según la ficha. Pantalla de 12.3\", cámara 360°, techo panorámico."
+    },
+    {
+      "nombre": "Pro Premium",
+      "anio": 2026,
+      "precio": 519900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 185,
+      "rendimientoCombinadoKmL": 15.1,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/cs75-pro",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "185 hp y 221 lb-ft, doble embrague (DCT) de 7 velocidades, tracción delantera, 7 plazas. Rendimiento de laboratorio: ciudad 13.6, carretera 17.6 y combinado 15.1 km/l. 4 bolsas de aire (frontales y laterales; la ficha no incluye cortinas). Sin frenado autónomo de emergencia según la ficha. Cajuela eléctrica, asiento del conductor calefactable y ventilado, piel sintética."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz 7 años o 200,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan CS75 Pro",
+      "url": "https://www.changan.mx/models/cs75-pro",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial CS75 Pro",
+      "url": "https://www.changan.mx/profile/upload/2026/09/03/CS75%20PRO%208_compressed%20%281%29_8f2ecd49.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": []
+}

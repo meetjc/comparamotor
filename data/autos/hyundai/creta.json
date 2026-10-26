@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": null,
       "fuente": "Hyundai México (sitio oficial)",
       "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio de lista (la página lo etiqueta 'Precio de lista'). Manual de 6 velocidades, 2WD, rines de 17\". Rendimiento NOM-163 de laboratorio: ciudad 15.27, carretera 20.17 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. El Hyundai SmartSense de la tabla de especificaciones no lista asistente de anticolisión frontal (FCA) para esta versión; solo la página de la Limited Turbo lo destaca."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": null,
       "fuente": "Hyundai México (sitio oficial)",
       "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Hyundai la nombra IVT (transmisión variable inteligente, de tipo continuamente variable). Rendimiento NOM-163: ciudad 16.18, carretera 20.45 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. El Hyundai SmartSense de la tabla de especificaciones no lista asistente de anticolisión frontal (FCA) para esta versión; solo la página de la Limited Turbo lo destaca."
     },
     {
@@ -57,7 +57,7 @@
       "frenadoAutonomoEmergencia": null,
       "fuente": "Hyundai México (sitio oficial)",
       "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "IVT. Rendimiento NOM-163: ciudad 16.18, carretera 20.45 km/l. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra. El Hyundai SmartSense de la tabla de especificaciones no lista asistente de anticolisión frontal (FCA) para esta versión; solo la página de la Limited Turbo lo destaca."
     },
     {
@@ -74,7 +74,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Hyundai México (sitio oficial)",
       "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "DCT de 7 velocidades. Rendimiento NOM-163: ciudad 17.39, carretera 23.46 km/l. Frenado: la página de la versión (https://www.hyundai.com.mx/modelos/creta-2027/limited-turbo) destaca 'Asistencia de Anticolisión y de Giro incluyendo Ciclistas, Peatones (FCA + JT + CAR/PED/CYC)'. La página de la Creta 2027 lista bolsas de aire frontales, laterales y de cortina sin publicar el total (la Creta Grand sí dice 6: dos frontales, dos laterales y dos de cortina); no se infiere la cifra."
     }
   ],
@@ -91,20 +91,60 @@
       "vigenciaHasta": "2026-11-02",
       "fuente": "Hyundai México (sitio oficial)",
       "url": "https://www.hyundai.com.mx/promociones/modelos-creta",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Hyundaimanía SUVs: Creta 2027 con 60 meses sin intereses o mensualidades desde $4,799 con tasa 8.99%, más 0% de comisión por apertura",
+      "precioOferta": null,
+      "condicion": "Los 60 meses sin intereses se calcularon para Creta Limited Turbo 2027 con bono flexible de $90,000 aplicado a reducción de tasa y enganche de 45%. 0% de comisión por apertura en Creta 5 puertas 2027 solo con Banorte. Solo con Hyundai Finance (cálculo con Banorte). No aplica con otras promociones ni flotillas; hasta agotar existencias.",
+      "vigenciaHasta": "2026-10-25",
+      "fuente": "Hyundai México (sitio oficial, promociones)",
+      "url": "https://www.hyundai.com.mx/promociones/hyundaimania-semana-suvs",
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [
-    "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
-    "https://www.hyundai.com.mx/modelos/creta-2027/",
-    "https://www.hyundai.com.mx/modelos/creta-2027/limited-turbo",
-    "https://www.hyundai.com.mx/promociones/modelos-creta",
-    "https://www.hyundai.com.mx/garantia"
+    {
+      "nombre": "Especificaciones y precios Hyundai Creta 2027 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/creta-2027/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Hyundai Creta 2027 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/creta-2027/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hyundai Creta 2027",
+      "url": "https://www.hyundai.com.mx/resources/ficha-tecnica/260819_FichaTecnica_Creta2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Versión Limited Turbo Hyundai Creta 2027 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/creta-2027/limited-turbo",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Hyundai Creta (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/promociones/modelos-creta",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Hyundai México",
+      "url": "https://www.hyundai.com.mx/garantia",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Hyundaimanía SUVs (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/promociones/hyundaimania-semana-suvs",
+      "tipo": "oficial"
+    }
   ],
   "pendientes": [
     "Número total de bolsas de aire de la Creta 5P (la página no lo publica; solo la Creta Grand dice 6)",
     "Frenado autónomo (FCA) en GL TM, GLS IVT y GLS Premium IVT: no confirmado en la fuente",
     "La página de garantía de Hyundai lista Creta 2026 y Creta Grand, pero no nombra explícitamente a Creta 2027; la página de la Creta 2027 sí promete 7 años",
-    "Creta Grand 2026/2027 (hyundai.com.mx/modelos/creta-grand-2027/) es un modelo aparte y no está en este archivo"
+    "Creta Grand tiene su propio archivo (creta-grand)",
+    "La ficha técnica PDF lista el asistente de anticolisión frontal y de giro, pero la tabla web (25-oct-2026) ya no lo muestra; se conservó el dato previo solo para Limited Turbo"
   ]
 }

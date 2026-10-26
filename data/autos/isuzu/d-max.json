@@ -1,0 +1,110 @@
+{
+  "marca": "Isuzu",
+  "marcaSlug": "isuzu",
+  "modelo": "D-MAX",
+  "slug": "d-max",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "japonesa",
+  "propulsion": "diesel",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "SE 4x2 MT",
+      "anio": null,
+      "precio": 550000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "3.0 L 4 cil. turbodiésel (4JJ3)",
+      "potenciaHp": 188,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Isuzu México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.isuzumex.com.mx/d-max/se",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Cabina sencilla, 4x2. Manual de 6 velocidades. 2 bolsas de aire frontales. Sin frenado autónomo según la ficha. Precio «desde» publicado en la página del modelo; la página no dice si incluye IVA ni su vigencia."
+    },
+    {
+      "nombre": "HL 4x4 MT",
+      "anio": null,
+      "precio": 696000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "3.0 L 4 cil. turbodiésel (4JJ3)",
+      "potenciaHp": 188,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Isuzu México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.isuzumex.com.mx/d-max/hl",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina, 4x4. Manual de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Sin frenado autónomo (solo en DX). Precio «desde» publicado en la página del modelo; la página no dice si incluye IVA ni su vigencia."
+    },
+    {
+      "nombre": "HL 4x4 AT",
+      "anio": null,
+      "precio": 724000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L 4 cil. turbodiésel (4JJ3)",
+      "potenciaHp": 188,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Isuzu México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.isuzumex.com.mx/d-max/hl",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina, 4x4. Automática de 6 velocidades. 6 bolsas de aire. Sin frenado autónomo (solo en DX). Precio «desde» publicado en la página del modelo; la página no dice si incluye IVA ni su vigencia."
+    },
+    {
+      "nombre": "DX 4x4 AT",
+      "anio": null,
+      "precio": 792000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L 4 cil. turbodiésel (4JJ3)",
+      "potenciaHp": 188,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Isuzu México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.isuzumex.com.mx/d-max/dx",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina, 4x4. Automática de 6 velocidades. 6 bolsas de aire. Incluye frenado de emergencia autónomo, control crucero adaptativo y alerta de punto ciego. Precio «desde» publicado en la página del modelo; la página no dice si incluye IVA ni su vigencia."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km",
+    "fuente": "Isuzu México (ficha técnica oficial D-MAX)",
+    "url": "https://www.isuzumex.com.mx/assets/Fichas_tecnicas/dmax/Ficha%20Tecnica%20HL-DX.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Isuzu D-MAX",
+      "url": "https://www.isuzumex.com.mx/d-max",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Isuzu D-MAX SE",
+      "url": "https://www.isuzumex.com.mx/assets/Fichas_tecnicas/dmax/Ficha%20Tecnica%20SE.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Isuzu D-MAX HL y DX",
+      "url": "https://www.isuzumex.com.mx/assets/Fichas_tecnicas/dmax/Ficha%20Tecnica%20HL-DX.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Año modelo: no aparece en la página ni en las fichas",
+    "Confirmar si los precios «desde» incluyen IVA y su vigencia",
+    "Rendimiento combinado: no publicado en las fichas",
+    "Isuzu México también vende camiones ELF y FORWARD, que no son vehículos ligeros y no se incluyeron"
+  ]
+}

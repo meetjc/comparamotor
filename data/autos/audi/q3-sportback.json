@@ -1,0 +1,71 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "Q3 Sportback",
+  "slug": "q3-sportback",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Select TFSI",
+      "anio": 2027,
+      "precio": 999900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.4 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 15.5,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q3/q3-sportback/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros con airbag de cabeza y airbag central delantero. S tronic de 7 velocidades (doble embrague), tracción delantera. En la ficha técnica esta versión aparece como \"Sport\". Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S line TFSI quattro",
+      "anio": 2027,
+      "precio": 1114900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 204,
+      "rendimientoCombinadoKmL": 14.7,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q3/q3-sportback/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros con airbag de cabeza y airbag central delantero. S tronic de 7 velocidades (doble embrague), tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador Audi Q3 Sportback",
+      "url": "https://www.audi.com.mx/es/models/q3/q3-sportback/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Q3 Sportback 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_q3_sportback_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "Nombres distintos: el configurador llama \"Select\" a la versión 1.4 que la ficha técnica llama \"Sport\"",
+    "La ficha del Q3 Sportback no lista frenado autónomo de emergencia (la del Q3 SUV sí); confirmar",
+    "La página de promociones anuncia tasa de 4.99% o mensualidad con Audi Now para Q3 Sportback S line 2026; no se capturó porque es año modelo anterior"
+  ]
+}

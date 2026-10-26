@@ -1,0 +1,69 @@
+{
+  "marca": "JAC",
+  "marcaSlug": "jac",
+  "modelo": "E30X",
+  "slug": "e30x",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "china",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Advanced",
+      "anio": 2026,
+      "precio": 515000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Motor eléctrico síncrono de imanes permanentes; batería LFP de 41 kWh",
+      "potenciaHp": 94,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 405,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/e30x",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Eléctrico con transmisión reductora, 94 hp (70 kW) y 100 lb-pie. Autonomía de 405 km (CLTC). 6 bolsas de aire (frontales, laterales y cortina). Incluye frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Limited",
+      "anio": 2026,
+      "precio": 556000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Motor eléctrico síncrono de imanes permanentes; batería LFP de 41 kWh",
+      "potenciaHp": 134,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 405,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/e30x",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Eléctrico, 134 hp (100 kW) y 129 lb-pie. Autonomía de 405 km (CLTC). 6 bolsas de aire. Agrega techo panorámico, control crucero adaptativo y asistente de manejo en tráfico."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero, de acuerdo con la póliza de garantía vigente (aplican términos y condiciones)",
+    "fuente": "JAC México (sitio oficial: ficha técnica y términos de garantías)",
+    "url": "https://www.jac.mx/legales/terminos-condiciones-garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "E30X (página oficial)",
+      "url": "https://www.jac.mx/e30x",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial E30X 2026",
+      "url": "https://s3-giant-motors-cms-media-prod.s3.us-east-1.amazonaws.com/Ficha%20te%C3%8Ccnica%20E%2030X%20MY26.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Sin oferta con condiciones publicada para este modelo en el sitio de JAC al 25-oct-2026; JAC aclara que sus precios son los recomendados al distribuidor",
+    "La autonomía está medida en ciclo chino CLTC, que suele dar cifras más altas que otros ciclos"
+  ]
+}

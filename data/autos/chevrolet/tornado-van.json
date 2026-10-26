@@ -1,0 +1,71 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Tornado Van",
+  "slug": "tornado-van",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "LS Cargo",
+      "anio": 2026,
+      "precio": 356200,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 103,
+      "rendimientoCombinadoKmL": 18.1,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vans-camiones/furgoneta-tornado-van/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $315,200 y precio financiado o de arrendamiento $315,200 (ver ofertas). Manual de 6 velocidades. 2 bolsas de aire (conductor y pasajero). La ficha no incluye frenado autónomo."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Tornado Van LS Cargo: precio de contado $315,200 y precio financiado o de arrendamiento $315,200 (precio de lista $356,200). Promociones publicadas: De contado: Bono de $41,000. Con financiamiento: Bono de $41,000, 0% de Comisión por Apertura.",
+      "precioOferta": 315200,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/tornado-van/CHTOR01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Tornado Van",
+      "url": "https://www.chevrolet.com.mx/vans-camiones/furgoneta-tornado-van/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Tornado Van (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/tornado-van/CHTOR01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Tornado Van",
+      "url": "https://www.chevrolet.com.mx/vans-camiones/furgoneta-tornado-van/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Tornado Van 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/vans-and-trucks/2026-tornado-van/mov/02-pdf/ficha-tecnica-tornado-van-2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "marca": "Honda",
+  "marcaSlug": "honda",
+  "modelo": "Pilot",
+  "slug": "pilot",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Touring",
+      "anio": 2026,
+      "precio": 1240900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6 (285 HP)",
+      "potenciaHp": 285,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
+      "url": "https://www.honda.mx/autos/pilot",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 10 velocidades, tracción integral (AWD). 8 bolsas de aire (frontales, laterales, de cortina y de rodillas). Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx."
+    },
+    {
+      "nombre": "Black Edition",
+      "anio": 2026,
+      "precio": 1270900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6 (285 HP)",
+      "potenciaHp": 285,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Honda México (sitio oficial: configurador y brochure del modelo)",
+      "url": "https://www.honda.mx/autos/pilot",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 10 velocidades, AWD, detalles en negro. 8 bolsas de aire. Honda Sensing con sistema de mitigación de colisión con frenado (CMBS). Precio \"Desde\" publicado en el configurador de honda.mx."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [
+    {
+      "descripcion": "Pilot Black Edition 2026: bono flexible de hasta $80,000",
+      "precioOferta": null,
+      "condicion": "El bono no aplica con otras promociones; hasta agotar existencias",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Honda México (sitio oficial)",
+      "url": "https://www.honda.mx/autos/pilot",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    "https://www.honda.mx/autos/pilot",
+    "https://www.honda.mx/autos/pilot/configurador",
+    {
+      "nombre": "Brochure oficial Honda Pilot 2026",
+      "url": "https://www.honda.mx/web/pdf/brochure/honda/Brochure_PILOT_2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento combinado oficial de combustible (honda.mx no lo publica en el configurador ni en el brochure)",
+    "Garantía oficial (honda.mx no la publica en la página del modelo)",
+    "Clasificación del segmento (suv-grande) es criterio editorial, no viene de la marca"
+  ]
+}

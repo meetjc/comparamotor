@@ -1,0 +1,111 @@
+{
+  "marca": "Kia",
+  "marcaSlug": "kia",
+  "modelo": "Sportage Híbrida",
+  "slug": "sportage-hibrida",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "coreana",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "EX Pack",
+      "anio": 2027,
+      "precio": 799900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo GDI + motor eléctrico (híbrido)",
+      "potenciaHp": 227,
+      "rendimientoCombinadoKmL": 23.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/sportage-hibrida/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Sistema híbrido de 227 hp. Automática de 6 velocidades, tracción delantera. 6 bolsas de aire. Incluye asistente de evasión de colisión frontal y de giro."
+    },
+    {
+      "nombre": "X-Line",
+      "anio": 2027,
+      "precio": 893200,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo GDI + motor eléctrico (híbrido)",
+      "potenciaHp": 227,
+      "rendimientoCombinadoKmL": 23.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/sportage-hibrida/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Sistema híbrido de 227 hp. Automática de 6 velocidades, tracción delantera. 6 bolsas de aire. Incluye asistente de evasión de colisión frontal y de giro."
+    },
+    {
+      "nombre": "X-Line Terracota Brown",
+      "anio": 2027,
+      "precio": 894200,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo GDI + motor eléctrico (híbrido)",
+      "potenciaHp": 227,
+      "rendimientoCombinadoKmL": 23.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/sportage-hibrida/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Sistema híbrido de 227 hp. Automática de 6 velocidades, tracción delantera. 6 bolsas de aire. Incluye asistente de evasión de colisión frontal y de giro. Edición con acabado Terracota Brown."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica (defensa a defensa) 5 años o 100,000 km; tren motriz 7 años o 150,000 km (lo que ocurra primero); batería del sistema híbrido hasta 84 meses o 150,000 km",
+    "fuente": "Kia México (sitio oficial, página de garantía)",
+    "url": "https://www.kia.com/mx/owners/warranty-recalls.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Kia Sportage Híbrida (HEV) 2026 y 2027, todas las versiones: hasta 60 meses sin intereses + 0% de comisión por apertura, o bono de $100,000 al enganche (IVA incluido); en ambos casos compra ahora y comienza a pagar en diciembre de 2026",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Autoexpress Inbursa (Kia Finance). Meses sin intereses: enganche mínimo 30% de 12 a 48 meses y 40% a 60 meses; CAT promedio 9.9% sin IVA (calculado al 30-sep-2026). Bono de $100,000: CAT promedio 22.5% sin IVA a 60 meses, enganche 30%, comisión 2.0%, tasa fija anual 10.84% sin IVA. Sujeto a aprobación de crédito; no acumulable",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Kia México (sitio oficial, promociones)",
+      "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-sportage-hibrida.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Precios y especificaciones Kia Sportage Híbrida 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/sportage-hibrida/specification.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Kia Sportage Híbrida 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/sportage-hibrida.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial (catálogo) Kia Sportage Híbrida 2027",
+      "url": "https://www.kia.com/content/dam/kwcms/mx/es/pdf/brochures/BROCHURE_Sportage_HEV_Agosto_2026_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Kia Sportage Híbrida 2027 (Kia México)",
+      "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-sportage-hibrida.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Kia México",
+      "url": "https://www.kia.com/mx/owners/warranty-recalls.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo: se tomó el Asistente de evasión de colisión frontal (FCA) de la tabla oficial.",
+    "La tabla oficial lista 227 hp junto al motor de gasolina; por la cifra corresponde a la potencia combinada del sistema híbrido. Confirmar en el catálogo"
+  ]
+}

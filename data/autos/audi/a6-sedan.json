@@ -1,0 +1,138 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "A6 Sedán",
+  "slug": "a6-sedan",
+  "carroceria": "sedan",
+  "segmento": "grande",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Select TFSI",
+      "anio": 2027,
+      "precio": 1264900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 199,
+      "rendimientoCombinadoKmL": 15.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a6/a6-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros y traseros con airbag de cabeza y airbag central. S tronic de 7 velocidades (doble embrague), tracción delantera. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "Elite TFSI quattro",
+      "anio": 2027,
+      "precio": 1494900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": 14.4,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a6/a6-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros y traseros con airbag de cabeza y airbag central. S tronic de 7 velocidades (doble embrague), tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S line TFSI quattro 2.0",
+      "anio": 2027,
+      "precio": 1529900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": 14.4,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a6/a6-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros y traseros con airbag de cabeza y airbag central. S tronic de 7 velocidades (doble embrague), tracción quattro. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S line TFSI quattro 3.0",
+      "anio": 2027,
+      "precio": 1679900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "3.0 L V6 turbo (TFSI)",
+      "potenciaHp": 367,
+      "rendimientoCombinadoKmL": 12.2,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a6/a6-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros y traseros con airbag de cabeza y airbag central. S tronic de 7 velocidades (doble embrague), tracción quattro. El configurador la llama igual que la S line 2.0 (\"S line TFSI quattro S tronic\"); por precio y por la ficha corresponde al motor V6 de 367 hp. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "RS 6 Avant performance",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4.0 L V8 biturbo (TFSI) con sistema híbrido ligero de 48 V",
+      "potenciaHp": 630,
+      "rendimientoCombinadoKmL": 9.1,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a6/rs6-avant-performance/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), entre otros que lista la ficha. Tiptronic de 8 velocidades, tracción quattro. Carrocería familiar (Avant). Audi no publica precio ni configurador para esta versión (\"Consulta disponibilidad\")."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador Audi A6 Sedán",
+      "url": "https://www.audi.com.mx/es/models/a6/a6-sedan/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Audi RS 6 Avant performance (página oficial)",
+      "url": "https://www.audi.com.mx/es/models/a6/rs6-avant-performance/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial A6 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_a6_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RS 6 Avant performance 2025",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my25/rs6avantperformance_audi_ficha_tecnica_2025.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Audi México",
+      "url": "https://www.audi.com.mx/es/experiencia/promocAudi/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "La versión S line con motor 3.0 V6 se identificó por precio y por la ficha, porque el configurador muestra el mismo nombre para los dos motores S line",
+    "RS 6 Avant performance 2025: sin precio publicado ni configurador; se dejó en este archivo como versión sin precio",
+    "La ficha del RS 6 lista Audi pre sense trasero pero no aclara si tiene frenado autónomo delantero",
+    "La página de promociones anuncia meses sin intereses para A6 Sedán Select 2026 y RS 6 Avant performance 2025; no se capturaron porque no se leyeron sus condiciones"
+  ]
+}

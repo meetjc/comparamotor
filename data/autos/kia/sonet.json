@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Kia México (sitio oficial)",
       "url": "https://www.kia.com/mx/showroom/sonet/specification.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Manual de 6 velocidades. Rines de aluminio de 16\". La tabla oficial de seguridad marca el sistema de evasión de colisión frontal (FCA) solo en la versión SX IVT; todas incluyen frenos multicolisión (MCB), que no es frenado autónomo."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Kia México (sitio oficial)",
       "url": "https://www.kia.com/mx/showroom/sonet/specification.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Kia la nombra IVT (transmisión variable inteligente, de tipo continuamente variable). Sin FCA según la tabla oficial."
     },
     {
@@ -57,7 +57,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Kia México (sitio oficial)",
       "url": "https://www.kia.com/mx/showroom/sonet/specification.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "IVT. Sin FCA según la tabla oficial; suma control crucero y limitador de velocidad manual frente a LX."
     },
     {
@@ -74,14 +74,14 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Kia México (sitio oficial)",
       "url": "https://www.kia.com/mx/showroom/sonet/specification.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "IVT. Única versión con FCA (sistema de evasión de colisión frontal) en la tabla oficial; además trae asistente de mantenimiento y seguimiento de carril, luces de carretera automáticas y alerta de atención del conductor."
     }
   ],
   "garantia": {
-    "texto": "Tren motriz 7 años o 150,000 km; garantía básica (defensa a defensa) 5 años o 100,000 km (lo que ocurra primero)",
-    "fuente": "Kia México (sitio oficial), página de promociones",
-    "url": "https://www.kia.com/mx/shopping-tools/promociones-new.html"
+    "texto": "Garantía básica (defensa a defensa) 5 años o 100,000 km; tren motriz 7 años o 150,000 km (lo que ocurra primero)",
+    "fuente": "Kia México (sitio oficial, página de garantía)",
+    "url": "https://www.kia.com/mx/owners/warranty-recalls.html"
   },
   "ofertas": [
     {
@@ -91,13 +91,35 @@
       "vigenciaHasta": "2026-10-31",
       "fuente": "Kia México (sitio oficial)",
       "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-sonet.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [
-    "https://www.kia.com/mx/showroom/sonet/specification.html",
-    "https://www.kia.com/mx/shopping-tools/promociones-new.html",
-    "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-sonet.html"
+    {
+      "nombre": "Precios y especificaciones Kia Sonet 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/sonet/specification.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Kia Sonet 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/shopping-tools/promociones-new.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Kia Sonet 2027 (Kia México)",
+      "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-sonet.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial (catálogo) Kia Sonet 2027",
+      "url": "https://www.kia.com/content/dam/kwcms/mx/es/pdf/brochures/Brochure_Sonet_MY27.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Kia México",
+      "url": "https://www.kia.com/mx/owners/warranty-recalls.html",
+      "tipo": "oficial"
+    }
   ],
   "pendientes": [
     "El widget de apartado (apartatukia.com) mostraba el Sonet 'desde $396,000', distinto del precio de $398,400 del sitio oficial kia.com/mx; se usó el del sitio oficial"

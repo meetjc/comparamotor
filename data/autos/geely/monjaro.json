@@ -1,0 +1,67 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "Monjaro",
+  "slug": "monjaro",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GF",
+      "anio": 2026,
+      "precio": 699900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo 4 cil.",
+      "potenciaHp": 235,
+      "rendimientoCombinadoKmL": 13.47,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/monjaro",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "235 hp @ 5,500 rpm y 350 Nm, automática de 8 velocidades, tracción integral (AWD). Rendimiento de laboratorio: ciudad 11.30, carretera 17.60 y combinado 13.47 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia, alerta de colisión frontal y trasera según la ficha. Audio Harman Infinity de 12 bocinas, Head-Up Display, cámara 540°, techo panorámico."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz (motor y transmisión) 8 años o 250,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/monjaro"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Monjaro 2026 GF: precio desde $699,900 con 24 meses sin intereses (bono de $50,000 sin IVA aplicado a la tasa), o tasa desde 8.28% con 1 año de seguro gratis",
+      "precioOferta": null,
+      "condicion": "Enganche desde 50%, plan BASE con 2.5% de comisión por apertura. Vigencia del 30 de septiembre al 30 de octubre de 2026 o hasta agotar existencias; crédito simple con Geely Financial Services (BBVA México), sujeto a aprobación; CAT promedio 25.61% sin IVA (calculado al 31-ago-2026); no acumulable con otras promociones ni válido en flotillas.",
+      "vigenciaHasta": "2026-10-30",
+      "fuente": "Geely México (sitio oficial, promociones)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Geely Monjaro",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/monjaro",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Monjaro 2026",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-monjaro-ficha-tecnica-01.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Única versión publicada: GF 2026",
+    "Ofertas: las promociones de Geely son de financiamiento (mensualidad, tasa, meses sin intereses o bonos con crédito BBVA); el precio de lista no cambia salvo donde se indica"
+  ]
+}

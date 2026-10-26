@@ -1,0 +1,85 @@
+{
+  "marca": "Lexus",
+  "marcaSlug": "lexus",
+  "modelo": "NX",
+  "slug": "nx",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "NX 350h Base",
+      "anio": 2026,
+      "precio": 1079900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.5 L 4 cil. híbrido (240 HP combinados)",
+      "potenciaHp": 240,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Lexus México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.lexus.mx/modelos/NXh",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable con tracción integral (AWD). La ficha técnica incluye Pre-Collision System (sistema de precolisión). Precio de lista publicado por Lexus en la página del modelo (Lexus indica que debe confirmarse con el distribuidor)."
+    },
+    {
+      "nombre": "NX 350h F SPORT",
+      "anio": 2026,
+      "precio": 1279900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.5 L 4 cil. híbrido (240 HP combinados)",
+      "potenciaHp": 240,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Lexus México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.lexus.mx/modelos/NXh",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable, AWD, con suspensión adaptativa y modo Sport S+. La ficha técnica incluye Pre-Collision System (sistema de precolisión). Precio de lista publicado por Lexus en la página del modelo (Lexus indica que debe confirmarse con el distribuidor)."
+    },
+    {
+      "nombre": "NX 350h Luxury",
+      "anio": 2026,
+      "precio": 1379900,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.5 L 4 cil. híbrido (240 HP combinados)",
+      "potenciaHp": 240,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Lexus México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.lexus.mx/modelos/NXh",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable, AWD. La ficha técnica incluye Pre-Collision System (sistema de precolisión). Precio de lista publicado por Lexus en la página del modelo (Lexus indica que debe confirmarse con el distribuidor)."
+    }
+  ],
+  "garantia": {
+    "texto": "4 años u 80,000 km (la batería híbrida está cubierta por el mismo periodo)",
+    "fuente": "Lexus México (sitio oficial, Garantía)",
+    "url": "https://www.lexus.mx/servicio/garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.lexus.mx/modelos/NXh",
+    {
+      "nombre": "Ficha técnica oficial Lexus NX 2026",
+      "url": "https://www.lexus.mx/content/dam/lexus-mx/documentos/ficha-tecnica/2026/NX-26MY-4sep.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento de combustible oficial: la ficha técnica PDF y la página del modelo no muestran la cifra en texto; queda por confirmar",
+    "Lexus Financial Services anuncia promociones de octubre 2026 para NX Hybrid, RX y TX 500h F SPORT, pero las condiciones solo aparecen en imágenes y ventanas emergentes; no se registraron como ofertas",
+    "Número total de bolsas de aire: la ficha técnica no lo indica en texto",
+    "La ficha técnica cubre NX 350 Hybrid y NX 350h F SPORT; la versión Luxury solo aparece con precio en la página del modelo",
+    "Clasificación del segmento (suv-compacta) es criterio editorial, no viene de la marca"
+  ]
+}

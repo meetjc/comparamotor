@@ -1,0 +1,84 @@
+{
+  "marca": "Mitsubishi",
+  "marcaSlug": "mitsubishi",
+  "modelo": "Mirage G4",
+  "slug": "mirage-g4",
+  "carroceria": "sedan",
+  "segmento": "subcompacto",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GLX CVT",
+      "anio": 2026,
+      "precio": 322900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.2 L 3 cil.",
+      "potenciaHp": 76,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/mirage-g4",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión CVT, tracción delantera. 76 hp y 74 lb-pie. La ficha técnica no publica rendimiento de combustible. La ficha lista bolsas de aire sin dar el número y no menciona frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "GLS CVT",
+      "anio": 2026,
+      "precio": 351900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.2 L 3 cil.",
+      "potenciaHp": 76,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Mitsubishi Motors de México (sitio oficial: página del modelo y ficha técnica PDF)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/mirage-g4",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión CVT, tracción delantera, acceso con llave inteligente. 76 hp y 74 lb-pie. La ficha técnica no publica rendimiento de combustible. La ficha lista bolsas de aire sin dar el número."
+    }
+  ],
+  "garantia": {
+    "texto": "7 años de garantía de defensa a defensa sin límite de kilometraje, contados desde la entrega, siempre que se cumplan los mantenimientos en tiempo y forma y no se trate de exclusiones (vehículos vendidos desde el 1-feb-2019)",
+    "fuente": "Mitsubishi Motors de México (sitio oficial, página de garantía)",
+    "url": "https://www.mitsubishi-motors.mx/propietarios/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Mirage G4 2026 con mensualidades de $4,999 (GLX CVT) o Bono Flexible de hasta $23,900 aplicable a tasa, seguro gratis o precio.",
+      "precioOferta": null,
+      "condicion": "Solo con Mitsubishi Motors Financial Services (NR Finance México), sujeto a aprobación de crédito. No aplica con otras promociones ni en flotillas; hasta agotar existencias. Mensualidad: enganche 37% a 60 meses pagando el seguro de contado. El bono a precio es de $14,450 y a tasa de $9,450. CAT promedio 9.8% sin IVA.",
+      "vigenciaHasta": "2026-11-03",
+      "fuente": "Mitsubishi Motors de México (sitio oficial, promociones)",
+      "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Mitsubishi Mirage G4 (página del modelo)",
+      "url": "https://www.mitsubishi-motors.mx/modelos/mirage-g4",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Mirage G4 2026",
+      "url": "https://www.mitsubishi-motors.mx/assets/Ficha-Tecnica-Mitsubishi-MirageG4-2026_3168_0nBiWODi6u.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Mitsubishi",
+      "url": "https://www.mitsubishi-motors.mx/comprar/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Número de bolsas de aire y rendimiento no legibles en la ficha técnica (texto en imagen).",
+    "Frenado autónomo de emergencia no mencionado."
+  ]
+}

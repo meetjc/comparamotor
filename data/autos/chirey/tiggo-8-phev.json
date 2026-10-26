@@ -1,0 +1,83 @@
+{
+  "marca": "Chirey",
+  "marcaSlug": "chirey",
+  "modelo": "Tiggo 8 PHEV CSH",
+  "slug": "tiggo-8-phev",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Luxury",
+      "anio": 2026,
+      "precio": 779900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo híbrido enchufable (1,498 cc) + motor eléctrico; batería LFP 18.3 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 100,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chirey México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.chirey.mx/autos/ev/tiggo-8-phev-csh/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista $779,900; la página lo muestra tachado y anuncia $739,900 con el bono de $40,000 de octubre. Ficha técnica oficial: motor de gasolina 134 hp @ 5,200 rpm y 162 lb-ft; motor eléctrico 201 hp y 229 lb-ft; Chirey no publica la potencia combinada. Transmisión híbrida dedicada (DHT), tracción delantera, 7 pasajeros, 0-100 km/h en 8.5 s. Consumo combinado 20.5 km/l, autonomía eléctrica 100 km y combinada 1,200 km (NEDC). Cargador de pared de 7 kW incluido. 9 bolsas de aire (frontales, laterales delanteras y de segunda fila, de cortina y de rodilla para el conductor). Frenado automático de emergencia (AEB) entre 22 asistencias. Audio Sony de 11 bocinas, HUD. Rendimiento combinado oficial de 20.5 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica para híbridos enchufables 200,000 km o 7 años; motor 1,000,000 km o 120 meses (con condiciones de la póliza); pintura y perforación por corrosión 150,000 km o 60 meses; refacciones y accesorios 30,000 km o 12 meses (lo que ocurra primero)",
+    "fuente": "Chirey México (sitio oficial)",
+    "url": "https://www.chirey.mx/cobertura-de-garantia/"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Tiggo 8 PHEV CSH Luxury 2026: bono de $40,000 (precio con bono $739,900) o 12 meses sin intereses",
+      "precioOferta": 739900,
+      "condicion": "Financiamiento con Autoexpress Inbursa, sujeto a aprobación de crédito; comisión por apertura 2.0% sin IVA; el bono incluye IVA y lo otorga la marca; vigencia del 1 al 31 de octubre de 2026. 12 MSI: enganche mínimo 30%, tasa 0% a 12 meses, CAT promedio 13.1% sin IVA (calculado al 29-sep-2026). Bono o MSI, no ambos.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Chirey México (sitio oficial, página de promociones) / Autoexpress Inbursa",
+      "url": "https://www.chirey.mx/promociones/",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Tiggo 8 PHEV CSH Luxury 2026: tasa de 5.99% a 60 meses",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Autoexpress Inbursa, sujeto a aprobación de crédito; comisión por apertura 2.0% sin IVA; el bono incluye IVA y lo otorga la marca; vigencia del 1 al 31 de octubre de 2026. Enganche mínimo 53%, CAT promedio 17.0% sin IVA a 60 meses (calculado al 29-sep-2026).",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Chirey México (sitio oficial, página de promociones) / Autoexpress Inbursa",
+      "url": "https://www.chirey.mx/promociones/",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chirey México: Tiggo 8 PHEV CSH 2026",
+      "url": "https://www.chirey.mx/autos/ev/tiggo-8-phev-csh/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Tiggo 8 PHEV CSH 2026",
+      "url": "https://d16b8fnjzv0ami.cloudfront.net/media/tech_files/2026/01/14/Ficha-Tecnica-Tiggo-8-CSH-2026_compressed.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chirey México: promociones",
+      "url": "https://www.chirey.mx/promociones/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chirey México: cobertura de garantía",
+      "url": "https://www.chirey.mx/cobertura-de-garantia/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Potencia combinada del sistema híbrido: Chirey no la publica (solo motor de gasolina 134 hp y eléctrico 201 hp)",
+    "La página del modelo dice 95 km de autonomía eléctrica en una sección y 100 km en otra; la ficha técnica dice 100 km (se usó la ficha)",
+    "La transmisión híbrida dedicada (DHT) se clasificó como automática",
+    "El consumo combinado de 20.5 km/l es dato NEDC de un híbrido enchufable y no es comparable directamente con el de un auto de gasolina"
+  ]
+}

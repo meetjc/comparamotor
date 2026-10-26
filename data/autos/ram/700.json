@@ -1,0 +1,142 @@
+{
+  "marca": "Ram",
+  "marcaSlug": "ram",
+  "modelo": "700",
+  "slug": "700",
+  "carroceria": "pickup",
+  "segmento": "pickup-compacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Tradesman Regular Cab",
+      "anio": 2026,
+      "precio": 338400,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.3 L 4 cil. (Firefly)",
+      "potenciaHp": 98,
+      "rendimientoCombinadoKmL": 18.3,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-700.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Cabina regular, 2 pasajeros. Manual de 5 velocidades, tracción delantera. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Tradesman Crew Cab",
+      "anio": 2026,
+      "precio": 388400,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.3 L 4 cil. (Firefly)",
+      "potenciaHp": 98,
+      "rendimientoCombinadoKmL": 18.4,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-700.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina, hasta 5 pasajeros. Manual de 5 velocidades. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Bighorn S Crew Cab",
+      "anio": 2026,
+      "precio": 398500,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.3 L 4 cil. (Firefly)",
+      "potenciaHp": 98,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-700.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina. Esta versión aparece en la lista de precios pero no en la ficha técnica 2026, así que su rendimiento y equipo de seguridad quedan por confirmar. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Bighorn Crew Cab",
+      "anio": 2026,
+      "precio": 413500,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.3 L 4 cil. (Firefly)",
+      "potenciaHp": 98,
+      "rendimientoCombinadoKmL": 18.4,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-700.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina. Manual de 5 velocidades. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Bighorn Crew Cab CVT",
+      "anio": 2026,
+      "precio": 463500,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.3 L 4 cil. (Firefly)",
+      "potenciaHp": 98,
+      "rendimientoCombinadoKmL": 18.4,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-700.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina. Transmisión CVT. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Laramie Crew Cab 1.0L Turbo CVT",
+      "anio": 2026,
+      "precio": 491500,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.0 L 3 cil. turbo",
+      "potenciaHp": 118,
+      "rendimientoCombinadoKmL": 17.0,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-700.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina. Transmisión CVT. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha no lista frenado autónomo de emergencia. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "RAM México (sitio oficial, ficha técnica)",
+    "url": "https://www.ram.com/content/dam/cross-regional/nafta/ramtrucks/es_mx/archivos-descargables/ram-700-2026/FT_RAM-700-2026_21ENE2026_V145.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo RAM 700",
+      "url": "https://www.ram.com/mx/ram-700.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios RAM",
+      "url": "https://www.ram.com/hostb/fiat_mx/JSONConversion/ram/ram-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RAM 700 2026",
+      "url": "https://www.ram.com/content/dam/cross-regional/nafta/ramtrucks/es_mx/archivos-descargables/ram-700-2026/FT_RAM-700-2026_21ENE2026_V145.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Bighorn S Crew Cab: no aparece en la ficha técnica 2026; falta confirmar rendimiento y bolsas de aire",
+    "La lista oficial de precios también incluye unidades de años modelo anteriores con otros precios; aquí solo se muestran las del año modelo vigente. (RAM 700 2024 y 2025)."
+  ]
+}

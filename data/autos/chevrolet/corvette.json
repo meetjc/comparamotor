@@ -1,0 +1,196 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Corvette",
+  "slug": "corvette",
+  "carroceria": "coupe",
+  "segmento": "deportivo",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Stingray Z51 Coupé 2026",
+      "anio": 2026,
+      "precio": 3311000,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "6.2 L V8",
+      "potenciaHp": 495,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades con cambios al volante. Chevrolet no publica ficha técnica PDF del Stingray."
+    },
+    {
+      "nombre": "Stingray Z51 Coupé Performance 2026",
+      "anio": 2026,
+      "precio": 3618500,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "6.2 L V8",
+      "potenciaHp": 495,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades. Paquete Z51 Performance con escape deportivo, divisor delantero y spoiler."
+    },
+    {
+      "nombre": "Stingray Z51 Convertible 2026",
+      "anio": 2026,
+      "precio": 3726500,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "6.2 L V8",
+      "potenciaHp": 495,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades. Techo duro retráctil."
+    },
+    {
+      "nombre": "Grand Sport Coupé 2027",
+      "anio": 2027,
+      "precio": 3699000,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "6.7 L V8 atmosférico",
+      "potenciaHp": 535,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades. La ficha menciona bolsas frontales para conductor y pasajero, sin dar el total. Frenado de emergencia automático con detección a baja velocidad."
+    },
+    {
+      "nombre": "Z06 Coupé 2027",
+      "anio": 2027,
+      "precio": 4353300,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "5.5 L V8 atmosférico (LT6)",
+      "potenciaHp": 670,
+      "rendimientoCombinadoKmL": 7.5,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades. Frenado de emergencia automático con detección a baja velocidad."
+    },
+    {
+      "nombre": "ZR1 Coupé 2027",
+      "anio": 2027,
+      "precio": 5578900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "5.5 L V8 biturbo (LT7)",
+      "potenciaHp": 1064,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Doble embrague de 8 velocidades. Frenado de emergencia automático con detección a baja velocidad."
+    },
+    {
+      "nombre": "ZR1X Coupé 2027",
+      "anio": 2027,
+      "precio": 5975800,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "5.5 L V8 biturbo + motor eléctrico (híbrido, batería de 1.9 kWh)",
+      "potenciaHp": 1250,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; sin bono publicado. Potencia combinada de 1,250 HP, tracción eléctrica eAWD, doble embrague de 8 velocidades. La página lista \"asistente de colisión frontal\" sin decir si frena de forma automática."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Corvette",
+      "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/precios-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Corvette (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/corvette-stingray/CHCORC8/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Corvette (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/corvette-grand-sport-coupe/CHCOR02/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Corvette (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/corvette-z06/CHCORZ02/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Corvette (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/corvette-zr1-coupe/CHCOR02/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Corvette (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/corvette-zr1x-coupe/CHCORZ01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Corvette",
+      "url": "https://www.chevrolet.com.mx/deportivos/corvette-stingray/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Corvette 2027",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/performance/2027-corvette-z06/mov/02-pdf/2027-corvette-z06-ficha-tecnica.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Corvette Grand Sport 2027",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/performance/2027-corvette-gs/mov/02-pdf/Ficha-Tecnica-Grand-Sport-2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Corvette ZR1 2027",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/performance/2027-corvette-zr1/mov/02-files/ficha-tecnica-zr1-2027.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Número total de bolsas de aire no publicado (las fichas mencionan solo las frontales).",
+    "Rendimiento combinado publicado solo para Z06 (7.5 km/l).",
+    "El ZR1X es híbrido; el archivo registra la propulsión de la versión de entrada (gasolina).",
+    "Stingray y ZR1X no tienen ficha técnica PDF; datos de sus páginas de especificaciones."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "marca": "Subaru",
+  "marcaSlug": "subaru",
+  "modelo": "Outback",
+  "slug": "outback",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Touring CVT",
+      "anio": 2026,
+      "precio": 899900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.5 L 4 cil. bóxer (180 HP)",
+      "potenciaHp": 180,
+      "rendimientoCombinadoKmL": 15.1,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/Outback/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Lineartronic CVT. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "Wilderness XT CVT",
+      "anio": 2026,
+      "precio": 959900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.4 L 4 cil. bóxer turbo (260 HP)",
+      "potenciaHp": 260,
+      "rendimientoCombinadoKmL": 13.0,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/Outback/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Lineartronic CVT, versión para terracería. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero (aplica al vehículo aunque cambie de propietario, con mantenimiento al día en servicio autorizado Subaru)",
+    "fuente": "Subaru México (sitio oficial, Garantía)",
+    "url": "https://subaru.com.mx/Garantia/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://subaru.com.mx/Outback/",
+    {
+      "nombre": "Ficha técnica oficial Subaru Outback 2026",
+      "url": "https://subaru.com.mx/Assets/ModelosNuevos/Catalogos/Pdf/Outback-26.Pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Subaru presenta el Outback como crossover tipo guayín; se clasificó como SUV",
+    "Subaru México no publica promociones con condiciones en subaru.com.mx al 25-oct-2026",
+    "Clasificación del segmento (suv-mediana) es criterio editorial, no viene de la marca"
+  ]
+}

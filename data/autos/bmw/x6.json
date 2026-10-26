@@ -1,0 +1,101 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "X6",
+  "slug": "x6",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "xDrive40i M Sport",
+      "anio": 2027,
+      "precio": 1836900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6 cil. 3.0 L turbo (TwinPower) mild hybrid",
+      "potenciaHp": 381,
+      "rendimientoCombinadoKmL": 14.2,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid. Automática deportiva de 8 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "xDrive40i M Pro Edition",
+      "anio": 2027,
+      "precio": 1899900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6 cil. 3.0 L turbo (TwinPower)",
+      "potenciaHp": 381,
+      "rendimientoCombinadoKmL": 14.2,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición especial. Automática deportiva de 8 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "M60i",
+      "anio": 2027,
+      "precio": 2290900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "V8 4.4 L biturbo (TwinPower) mild hybrid",
+      "potenciaHp": 530,
+      "rendimientoCombinadoKmL": 10.7,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid. Automática deportiva de 8 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW X6 (página oficial)",
+      "url": "https://www.bmw.com.mx/es/modelos/series-x/x6/bmw-x6.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW X6 xDrive40i M Sport 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/x6/BMW%20X6%20xDrive40i%20M%20Sport%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW X6 xDrive40i M Pro Edition 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/Julio/16-%20BMW%20X6%20SAC%20%28G06%29/Ficha%20Te%CC%81cnica%20BMW%20X6%20xDrive40i%20M%20Pro%20Edition%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW X6 M60i 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/x6/BMW%20X6%20M60i%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas"
+  ]
+}

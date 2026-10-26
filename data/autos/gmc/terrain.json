@@ -1,0 +1,204 @@
+{
+  "marca": "GMC",
+  "marcaSlug": "gmc",
+  "modelo": "Terrain",
+  "slug": "terrain",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Black Edition 2027",
+      "anio": 2027,
+      "precio": 848900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 175,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/suvs/terrain-suv-premium/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $798,900 y precio financiado o de arrendamiento $808,900 (ver ofertas). Automática de 8 velocidades. El catálogo indica tracción AWD solo para AT4 y Denali."
+    },
+    {
+      "nombre": "AT4 2027",
+      "anio": 2027,
+      "precio": 961900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 175,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/suvs/terrain-suv-premium/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $911,900 y precio financiado o de arrendamiento $921,900 (ver ofertas). Automática de 8 velocidades, tracción AWD."
+    },
+    {
+      "nombre": "Denali 2027",
+      "anio": 2027,
+      "precio": 1007900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 175,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/suvs/terrain-suv-premium/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $957,900 y precio financiado o de arrendamiento $967,900 (ver ofertas). Automática de 8 velocidades, tracción AWD."
+    },
+    {
+      "nombre": "Black Edition 2026",
+      "anio": 2026,
+      "precio": 848900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 175,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/suvs/terrain-suv-premium/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $748,900 y precio financiado o de arrendamiento $768,900 (ver ofertas). Año modelo anterior aún publicado. Datos técnicos del catálogo 2027."
+    },
+    {
+      "nombre": "AT4 2026",
+      "anio": 2026,
+      "precio": 961900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 175,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/suvs/terrain-suv-premium/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $861,900 y precio financiado o de arrendamiento $881,900 (ver ofertas). Año modelo anterior aún publicado. Datos técnicos del catálogo 2027."
+    },
+    {
+      "nombre": "Denali 2026",
+      "anio": 2026,
+      "precio": 1007900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. turbo",
+      "potenciaHp": 175,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GMC México (sitio oficial: tabla de precios y catálogo)",
+      "url": "https://www.gmc.com.mx/suvs/terrain-suv-premium/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $907,900 y precio financiado o de arrendamiento $927,900 (ver ofertas). Año modelo anterior aún publicado. Datos técnicos del catálogo 2027."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía original de fábrica)",
+    "fuente": "GMC México (sitio oficial, sección Garantía)",
+    "url": "https://www.gmc.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Terrain Black Edition 2027: precio de contado $798,900 y precio financiado o de arrendamiento $808,900 (precio de lista $848,900). Promociones publicadas: De contado: Bono de hasta $50,000. Con financiamiento: Bono de hasta $40,000, ¡18 meses sin intereses!, ¡1 Año de Seguro Gratis! Con arrendamiento: Bono de hasta $40,000, ¡1 Año de Seguro Gratis!",
+      "precioOferta": 798900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/terrain/GCTER01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Terrain AT4 2027: precio de contado $911,900 y precio financiado o de arrendamiento $921,900 (precio de lista $961,900). Promociones publicadas: De contado: Bono de hasta $50,000. Con financiamiento: Bono de hasta $40,000, ¡18 meses sin intereses!, ¡1 Año de Seguro Gratis! Con arrendamiento: Bono de hasta $40,000, ¡1 Año de Seguro Gratis!",
+      "precioOferta": 911900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/terrain/GCTER01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Terrain Denali 2027: precio de contado $957,900 y precio financiado o de arrendamiento $967,900 (precio de lista $1,007,900). Promociones publicadas: De contado: Bono de hasta $50,000. Con financiamiento: Bono de hasta $40,000, ¡18 meses sin intereses!, ¡1 Año de Seguro Gratis! Con arrendamiento: Bono de hasta $40,000, ¡1 Año de Seguro Gratis!",
+      "precioOferta": 957900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/terrain/GCTER01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Terrain Black Edition 2026: precio de contado $748,900 y precio financiado o de arrendamiento $768,900 (precio de lista $848,900). Promociones publicadas: De contado: Bono de hasta $100,000. Con financiamiento: ¡Bono de $80,000!, ¡1 Año de Seguro Gratis!, ¡24 meses sin intereses!, 0% de comisión por apertura, ¡36 meses sin intereses!, ¡1 Año de Seguro Gratis!, 0% de comisión por apertura. Con arrendamiento: ¡1 Año de Seguro Gratis!, ¡Bono de $80,000!, 0% de comisión por apertura, FLEXCLUSIVE, Mensualidades desde $7,999 MXN.",
+      "precioOferta": 748900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/terrain/GCTER01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Terrain AT4 2026: precio de contado $861,900 y precio financiado o de arrendamiento $881,900 (precio de lista $961,900). Promociones publicadas: De contado: Bono de hasta $100,000. Con financiamiento: ¡Bono de $80,000!, ¡1 Año de Seguro Gratis!, ¡24 meses sin intereses!, 0% de comisión por apertura, ¡36 meses sin intereses!, ¡1 Año de Seguro Gratis!, 0% de comisión por apertura. Con arrendamiento: ¡1 Año de Seguro Gratis!, ¡Bono de $80,000!, 0% de comisión por apertura, FLEXCLUSIVE, Mensualidades desde $7,999 MXN.",
+      "precioOferta": 861900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/terrain/GCTER01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Terrain Denali 2026: precio de contado $907,900 y precio financiado o de arrendamiento $927,900 (precio de lista $1,007,900). Promociones publicadas: De contado: Bono de hasta $100,000. Con financiamiento: ¡Bono de $80,000!, ¡1 Año de Seguro Gratis!, ¡24 meses sin intereses!, 0% de comisión por apertura, ¡36 meses sin intereses!, ¡1 Año de Seguro Gratis!, 0% de comisión por apertura. Con arrendamiento: ¡1 Año de Seguro Gratis!, ¡Bono de $80,000!, 0% de comisión por apertura, FLEXCLUSIVE, Mensualidades desde $7,999 MXN.",
+      "precioOferta": 907900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "GMC México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/terrain/GCTER01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "GMC México: precios y promociones Terrain",
+      "url": "https://www.gmc.com.mx/suvs/terrain-suv-premium/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "GMC México: tabla de precios Terrain (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2027/terrain/GCTER01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "GMC México: tabla de precios Terrain (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/terrain/GCTER01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo oficial GMC Terrain 2027",
+      "url": "https://www.gmc.com.mx/content/dam/gmc/na/mx/es/index/crossovers-suvs/2027-terrain/mov/02-pdf/catalogo-gmc-terrain-2027-v3.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento combinado y número de bolsas de aire no publicados: la página de especificaciones de Terrain 2027 no carga la tabla.",
+    "Terrain 2026 y 2027 tienen el mismo precio de lista; cambian los bonos.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer.",
+    "GMC publica catálogos, no fichas técnicas; el PDF guardado es el catálogo oficial."
+  ]
+}

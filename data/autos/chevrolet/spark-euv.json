@@ -1,0 +1,73 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Spark EUV",
+  "slug": "spark-euv",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Activ",
+      "anio": 2026,
+      "precio": 464200,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, batería de 40 kWh",
+      "potenciaHp": 100,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 281,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/spark-euv/precios",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $429,200 y precio financiado o de arrendamiento $389,700 (ver ofertas). Autonomía de 281 km según EPA (360 km en ciclo NEDC). La variante Activ Bitono tiene el mismo precio de lista. 6 bolsas de aire (frontales, laterales y de cortina), frenado autónomo de emergencia, control crucero adaptativo y cámara 360°."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Spark EUV Activ: precio de contado $429,200 y precio financiado o de arrendamiento $389,700 (precio de lista $464,200). Promociones publicadas: De contado: Bono de $35,000, Año de seguro ¡Gratis! Con financiamiento: Precio desde $389,700 (incluye bono $10,000 por toma a cuenta), Bono de $35,000, Año de seguro ¡Gratis!, 0% de comisión por apertura.",
+      "precioOferta": 389700,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/spark-euv/CHSPA01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Spark EUV",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/spark-euv/precios",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Spark EUV (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/spark-euv/CHSPA01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Spark EUV",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/spark-euv/equipamiento",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Spark EUV 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/electric/2026-spark-euv/mov/02-pdf/ficha-tecnica-spark-euv-2026-v2.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La variante Activ Bitono (mismo precio que Activ) no se registró como versión aparte.",
+    "La autonomía registrada es la EPA; la marca también publica 360 km en ciclo NEDC.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

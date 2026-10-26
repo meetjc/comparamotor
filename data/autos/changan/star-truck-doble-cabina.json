@@ -1,0 +1,57 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "New Star Truck Doble Cabina",
+  "slug": "star-truck-doble-cabina",
+  "carroceria": "pickup",
+  "segmento": "pickup-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "Doble cabina",
+      "anio": null,
+      "precio": 329900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 105,
+      "rendimientoCombinadoKmL": 14.7,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/startruck-doble-cabina",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina de 5 plazas con caja de carga, 745 kg de carga. 105 hp y 106 lb-ft según la ficha (la página dice 104 lb-ft), manual de 5 velocidades, tracción trasera. Rendimiento de laboratorio: ciudad 13.3, carretera 17.0 y combinado 14.7 km/l. 2 bolsas de aire frontales. Sin frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz 7 años o 200,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan New Star Truck Doble Cabina",
+      "url": "https://www.changan.mx/models/startruck-doble-cabina",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial New Star Truck Doble Cabina",
+      "url": "https://www.changan.mx/profile/upload/2026/03/24/U1RBUiBUUlVDSyBET0JMRSBDQUJJTkFfY29tcHJlc3NlZCAoMSk=_20260324044736A006.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Año modelo no publicado en la página ni en la ficha",
+    "Es un vehículo comercial ligero; se incluyó como pickup compacta"
+  ]
+}

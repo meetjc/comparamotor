@@ -1,0 +1,105 @@
+{
+  "marca": "Suzuki",
+  "marcaSlug": "suzuki",
+  "modelo": "Jimny",
+  "slug": "jimny",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "GLX TM",
+      "anio": null,
+      "precio": 475990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 101,
+      "rendimientoCombinadoKmL": 15.4,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/jimny-3door",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades. Motor 1.5 L de 101 hp, tracción 4x4 con reductora (AllGrip Pro), 4 pasajeros. 6 bolsas de aire. Incluye frenado autónomo de emergencia. Precio de venta al público publicado por Suzuki (con IVA)."
+    },
+    {
+      "nombre": "GLX TM Bitono",
+      "anio": null,
+      "precio": 475990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 101,
+      "rendimientoCombinadoKmL": 15.4,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/jimny-3door",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades, pintura bitono. Motor 1.5 L de 101 hp, tracción 4x4 con reductora (AllGrip Pro), 4 pasajeros. 6 bolsas de aire. Incluye frenado autónomo de emergencia. Precio de venta al público publicado por Suzuki (con IVA)."
+    },
+    {
+      "nombre": "GLX TA",
+      "anio": null,
+      "precio": 499990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 101,
+      "rendimientoCombinadoKmL": 15.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/jimny-3door",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 4 velocidades. Motor 1.5 L de 101 hp, tracción 4x4 con reductora (AllGrip Pro), 4 pasajeros. 6 bolsas de aire. Incluye frenado autónomo de emergencia. Precio de venta al público publicado por Suzuki (con IVA)."
+    },
+    {
+      "nombre": "GLX TA Bitono",
+      "anio": null,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 101,
+      "rendimientoCombinadoKmL": 15.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/jimny-3door",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 4 velocidades, pintura bitono. La página no mostró su precio. Motor 1.5 L de 101 hp, tracción 4x4 con reductora (AllGrip Pro), 4 pasajeros. 6 bolsas de aire. Incluye frenado autónomo de emergencia. Precio de venta al público publicado por Suzuki (con IVA)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía limitada)",
+    "fuente": "Suzuki México (sitio oficial)",
+    "url": "https://autos.suzuki.com.mx/pages/garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Suzuki Jimny 3 puertas (Suzuki México)",
+      "url": "https://autos.suzuki.com.mx/cars/jimny-3door",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Suzuki México",
+      "url": "https://autos.suzuki.com.mx/pages/garantias",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica PDF de Suzuki se entrega mediante un formulario de contacto, por lo que no se descargó",
+    "Precio de la versión GLX TA Bitono: la página no lo muestra (la lista de versiones solo despliega tres)",
+    "Año modelo: la página oficial no lo indica",
+    "La tabla oficial no llena todos los datos de las versiones bitono; se tomaron iguales a la versión del mismo tipo de transmisión"
+  ]
+}

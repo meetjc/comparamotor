@@ -1,0 +1,74 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "GX3 Pro",
+  "slug": "gx3-pro",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GC",
+      "anio": 2026,
+      "precio": 329990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 102,
+      "rendimientoCombinadoKmL": 17.3,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/gx3-pro",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "102 hp @ 5,600 rpm y 140 Nm, manual de 5 velocidades. Rendimiento de laboratorio: ciudad 15.41, carretera 19.61 y combinado 17.30 km/l. 2 bolsas de aire frontales. Tiene asistencia de frenado de emergencia (ayuda a frenar más fuerte cuando el conductor pisa el pedal), pero no frenado autónomo. Techo corredizo, cámara de reversa."
+    },
+    {
+      "nombre": "GF",
+      "anio": 2026,
+      "precio": 359990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 102,
+      "rendimientoCombinadoKmL": 21.49,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/gx3-pro",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "102 hp y 140 Nm, transmisión CVT. Rendimiento de laboratorio: ciudad 18.76, carretera 24.81 y combinado 21.49 km/l. 2 bolsas de aire frontales. Sin frenado autónomo de emergencia (solo asistencia de frenado). Techo panorámico corredizo, control crucero, llave inteligente."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz (motor y transmisión) 8 años o 250,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/gx3-pro"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Geely GX3 Pro",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/gx3-pro",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial GX3 Pro",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-gx3-pro-2026-ficha-tecnica-02.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha publicada está rotulada como GX3 PRO 2025 aunque el archivo dice 2026; las versiones a la venta son 2026",
+    "La página de promociones solo dice \"Estrena tu GX3 Pro desde $329,990\", que es el precio de lista de GC; no hay oferta con condición"
+  ]
+}

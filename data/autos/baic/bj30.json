@@ -1,0 +1,94 @@
+{
+  "marca": "BAIC",
+  "marcaSlug": "baic",
+  "modelo": "BJ30",
+  "slug": "bj30",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "BJ30 1.5TD 2WD",
+      "anio": null,
+      "precio": 599900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 185,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BAIC México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.baicmx.com/models/43",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor de 138 kW (unos 185 hp) y 305 Nm, doble embrague de 7 velocidades, tracción delantera. La página del modelo indica un consumo NEDC de 7.39 L/100 km; la ficha no da rendimiento en km/l. 6 bolsas de aire (frontales, laterales y de cortina para ambas filas). Frenado automático de emergencia (vehículos y peatones), control crucero adaptativo, punto ciego y cámara 360° según la ficha."
+    },
+    {
+      "nombre": "BJ30e 1.5 DHT",
+      "anio": null,
+      "precio": 679900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Híbrido: 1.5 L 4 cil. (116 kW) + motor eléctrico de 130 kW",
+      "potenciaHp": 330,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BAIC México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.baicmx.com/models/43",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido con transmisión DHT, tracción delantera. Potencia del sistema 246 kW (unos 330 hp) y 550 Nm. La ficha no publica rendimiento ni datos de batería. 6 bolsas de aire (frontales, laterales y de cortina para ambas filas). Frenado automático de emergencia (vehículos y peatones), control crucero adaptativo, punto ciego y cámara 360° según la ficha."
+    },
+    {
+      "nombre": "BJ30e 1.5T DHT 4WD",
+      "anio": null,
+      "precio": 729900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Híbrido: 1.5 L turbo 4 cil. (116 kW) + dos motores eléctricos (130 kW delantero y 55 kW trasero)",
+      "potenciaHp": 404,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BAIC México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.baicmx.com/models/43",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido con transmisión DHT y tracción integral 4WD. Potencia del sistema 301 kW (unos 404 hp) y 685 Nm. La ficha no publica rendimiento ni datos de batería. 6 bolsas de aire (frontales, laterales y de cortina para ambas filas). Frenado automático de emergencia (vehículos y peatones), control crucero adaptativo, punto ciego y cámara 360° según la ficha."
+    }
+  ],
+  "garantia": {
+    "texto": "Motor y transmisión: 5 años o 100,000 km para vehículos de gasolina comprados a partir del 1 de octubre de 2025, sujeto al manual de garantía incluido con el vehículo",
+    "fuente": "BAIC México (sitio oficial, página de garantía)",
+    "url": "https://www.baicmx.com/about/warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial BAIC BJ30",
+      "url": "https://www.baicmx.com/models/43",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BJ30",
+      "url": "https://www.baicmx.com/file/upload/2026/06/18/BJ30%20Ficha%20t%C3%A9cnica_20260606074242A029_20260618091127A035.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía BAIC México",
+      "url": "https://www.baicmx.com/about/warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Año modelo no publicado en la página ni en la ficha",
+    "BAIC da la potencia en kW; los hp se calcularon (1 kW = 1.341 hp)",
+    "Rendimiento: ni la ficha ni la página publican km/l; la página da 7.39 L/100 km (NEDC) para BJ30 de gasolina",
+    "Las versiones BJ30e son híbridas; la ficha no dice si son enchufables ni publica batería o autonomía eléctrica; se marcaron como híbridas (transmisión DHT registrada como automática)",
+    "Garantía: la página de BAIC solo muestra la cobertura de motor y transmisión (5 años o 100,000 km) para gasolina; no publica la garantía defensa a defensa ni la de componentes eléctricos"
+  ]
+}

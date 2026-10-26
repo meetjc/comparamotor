@@ -1,0 +1,80 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "Serie 5",
+  "slug": "serie-5",
+  "carroceria": "sedan",
+  "segmento": "grande",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "520i",
+      "anio": 2027,
+      "precio": 1314900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo (TwinPower) mild hybrid",
+      "potenciaHp": 190,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid. Automática, tracción trasera. Rendimiento de combustible: la ficha dice «valores por confirmar». Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Aviso de colisión frontal con función de frenado (ficha). Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "530e Híbrido Conectable",
+      "anio": 2027,
+      "precio": 1618900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo (TwinPower) híbrido enchufable",
+      "potenciaHp": 299,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 94,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable, batería de 19.4 kWh, hasta 94 km eléctricos (WLTP). La ficha no publica rendimiento en km/l. Tracción trasera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Aviso de colisión frontal con función de frenado (ficha). Precio sugerido con IVA, ISAN y transportación según BMW."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW Serie 5 (página oficial)",
+      "url": "https://www.bmw.com.mx/es/modelos/bmw-i/i5/presentacion.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW 520i 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/serie%205/BMW%20520i%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW 530e Híbrido Conectable 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/serie%205/BMW%20530e%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas",
+    "El rendimiento de combustible del 520i aparece como «valores por confirmar» en la ficha oficial; el 530e no publica km/l"
+  ]
+}

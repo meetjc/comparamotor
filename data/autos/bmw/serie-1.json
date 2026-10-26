@@ -1,0 +1,79 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "Serie 1",
+  "slug": "serie-1",
+  "carroceria": "hatchback",
+  "segmento": "compacto",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "118",
+      "anio": 2027,
+      "precio": 801400,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "3 cil. 1.5 L turbo (TwinPower)",
+      "potenciaHp": 156,
+      "rendimientoCombinadoKmL": 18.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 7 velocidades, tracción delantera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Active Guard con alerta de colisión frontal; la ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "M135 xDrive",
+      "anio": 2027,
+      "precio": 1188900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "4 cil. 2.0 L turbo (TwinPower)",
+      "potenciaHp": 317,
+      "rendimientoCombinadoKmL": 15.0,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 7 velocidades, tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Active Guard con alerta de colisión frontal; la ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW Serie 1 (página oficial)",
+      "url": "https://www.bmw.com.mx/es/modelos/series-1/1-series-5doors/bmw-serie-1.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW 118 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/Serie%201/BMW%20118%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW M135 xDrive 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/Serie%201/BMW%20M135%20xDrive%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas"
+  ]
+}

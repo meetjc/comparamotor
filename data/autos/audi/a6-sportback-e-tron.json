@@ -1,0 +1,72 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "A6 Sportback e-tron",
+  "slug": "a6-sportback-e-tron",
+  "carroceria": "hatchback",
+  "segmento": "grande",
+  "origenMarca": "alemana",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "Advanced RWD",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, 1 motor trasero; batería de 94.9 kWh netos",
+      "potenciaHp": 362,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 673,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a6-e-tron/a6-sportback-e-tron/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros y traseros con airbags de cabeza. Tracción trasera, transmisión de 1 velocidad. 362 hp (380 hp en modo launch control). Autonomía WLTP de 673 a 756 km según la ficha. Audi no publica su precio."
+    },
+    {
+      "nombre": "S line quattro",
+      "anio": 2025,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, 2 motores; batería de 94.9 kWh netos",
+      "potenciaHp": 422,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 644,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a6-e-tron/a6-sportback-e-tron/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros y traseros con airbags de cabeza. Tracción quattro, transmisión de 1 velocidad. 422 hp (462 hp en modo launch control). Autonomía WLTP de 644 a 716 km según la ficha. Audi no publica su precio."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Audi A6 Sportback e-tron (página oficial)",
+      "url": "https://www.audi.com.mx/es/models/a6-e-tron/a6-sportback-e-tron/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial A6 Sportback e-tron 2025",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my25/a6_sb_e-tron_ficha_tecnica_2025.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "A6 Sportback e-tron 2025 sin precio publicado ni configurador (\"Consulta disponibilidad\")",
+    "La autonomía se tomó del valor menor del rango WLTP que da la ficha",
+    "El catálogo de Audi también lista S6 Sportback e-tron 2025 sin precio ni ficha técnica; no se incluyó",
+    "La página de promociones anuncia 48 meses sin intereses para A6 Sportback e-tron S line 2025, sin precio de lista"
+  ]
+}

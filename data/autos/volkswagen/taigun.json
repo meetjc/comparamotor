@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
       "url": "https://www.vw.com.mx/es/configurador.html/__app/taigun.app",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (frontales, laterales y cortina, según ficha). Tiptronic de 8 velocidades, tracción delantera. Incluye asistente de colisión frontal con freno de emergencia. Precio de lista con IVA e ISAN según VW."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
       "url": "https://www.vw.com.mx/es/configurador.html/__app/taigun.app",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (frontales, laterales y cortina, según ficha). Tiptronic de 8 velocidades, tracción delantera. Incluye asistente de colisión frontal con freno de emergencia. Precio de lista con IVA e ISAN según VW."
     }
   ],
@@ -58,8 +58,8 @@
   ],
   "pendientes": [
     "Archivo extra: Taigun es el SUV subcompacto que VW vende hoy en México; la URL vw.com.mx/es/autos-suvs/t-cross.html redirige a la página de Nuevo Taigun",
-    "Rendimiento combinado 18.9 km/l tomado de la página del modelo; el extracto de la ficha técnica solo mostró carretera (22.5 km/l) y ciudad (16.6 km/l)",
     "Condiciones exactas de la garantía de Taigun (km) no confirmadas en su página",
-    "Sin promoción de Taigun verificada con vigencia; el listado general de VW menciona bono de hasta $12,180 o seguro gratis, sin leer sus condiciones"
+    "Sin promoción de Taigun verificada con vigencia; el listado general de VW menciona bono de hasta $12,180 o seguro gratis, sin leer sus condiciones",
+    "Rendimiento combinado 18.9 km/l confirmado en la ficha técnica 2026 (carretera 22.5 y ciudad 16.6 km/l)"
   ]
 }

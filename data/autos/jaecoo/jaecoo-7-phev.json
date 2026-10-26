@@ -1,0 +1,97 @@
+{
+  "marca": "Jaecoo",
+  "marcaSlug": "jaecoo",
+  "modelo": "Jaecoo 7 PHEV (SHS)",
+  "slug": "jaecoo-7-phev",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": null,
+  "versiones": [
+    {
+      "nombre": "Elemental",
+      "anio": null,
+      "precio": 649900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo híbrido enchufable + motor eléctrico; batería LFP 18.3 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 106,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Jaecoo México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.jaecoo.mx/modelos/detalle/jaecoo-7-phev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista $649,900; la página lo muestra tachado y anuncia $579,900 con bono de $70,000. Ficha técnica oficial (Jaecoo 7 SHS): motor de gasolina 1.5 L turbo de 141 hp y 159 lb-ft; motor eléctrico de 201 hp y 229 lb-ft; Jaecoo no publica la potencia combinada. Transmisión híbrida dedicada (DHT), tracción delantera, batería LFP de 18.3 kWh. Consumo combinado 31.6 km/l (ciudad 30.1, carretera 33.7); autonomía eléctrica 106 km (NEDC) y combinada 1,300 km. 7 bolsas de aire (frontales, laterales, de cortina y de rodilla para el conductor). Sin frenado automático de emergencia ni asistencias con radar en esta versión según la ficha. Rendimiento combinado oficial de 31.6 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "Inspire",
+      "anio": null,
+      "precio": 699900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo híbrido enchufable + motor eléctrico; batería LFP 18.3 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 106,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jaecoo México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.jaecoo.mx/modelos/detalle/jaecoo-7-phev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista $699,900; la página lo muestra tachado y anuncia $629,900 con bono de $70,000. Ficha técnica oficial (Jaecoo 7 SHS): motor de gasolina 1.5 L turbo de 141 hp y 159 lb-ft; motor eléctrico de 201 hp y 229 lb-ft; Jaecoo no publica la potencia combinada. Transmisión híbrida dedicada (DHT), tracción delantera, batería LFP de 18.3 kWh. Consumo combinado 31.6 km/l (ciudad 30.1, carretera 33.7); autonomía eléctrica 106 km (NEDC) y combinada 1,300 km. 7 bolsas de aire (frontales, laterales, de cortina y de rodilla para el conductor). Frenado automático de emergencia (AEB), control crucero adaptativo y monitoreo del conductor según la ficha; cámara 540°, techo panorámico, HUD. Rendimiento combinado oficial de 31.6 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica 5 años o 150,000 km; motor 10 años o 1,000,000 km (con condiciones de la póliza); perforación por corrosión 5 años o 150,000 km (lo que ocurra primero). La tabla del sitio incluye otros renglones sin etiqueta legible",
+    "fuente": "Jaecoo México (sitio oficial)",
+    "url": "https://www.jaecoo.mx/garantia/"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Jaecoo 7 PHEV Elemental: bono de $70,000 (precio con bono $579,900)",
+      "precioOferta": 579900,
+      "condicion": "Vigencia del 1 al 31 de octubre de 2026; precio sugerido; aplican restricciones. La página no detalla si el bono exige financiamiento; consultar con distribuidor Omoda & Jaecoo.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Jaecoo México (sitio oficial, página del modelo)",
+      "url": "https://www.jaecoo.mx/modelos/detalle/jaecoo-7-phev/",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Jaecoo 7 PHEV Inspire: bono de $70,000 (precio con bono $629,900)",
+      "precioOferta": 629900,
+      "condicion": "Vigencia del 1 al 31 de octubre de 2026; precio sugerido; aplican restricciones. La página no detalla si el bono exige financiamiento; consultar con distribuidor Omoda & Jaecoo.",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Jaecoo México (sitio oficial, página del modelo)",
+      "url": "https://www.jaecoo.mx/modelos/detalle/jaecoo-7-phev/",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Jaecoo México: Jaecoo 7 PHEV",
+      "url": "https://www.jaecoo.mx/modelos/detalle/jaecoo-7-phev/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Jaecoo 7 SHS (PHEV)",
+      "url": "https://d9y8ahn3y4j6w.cloudfront.net/media/tech_files/2026/04/01/FT_JAECOO-7-PHEV.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Jaecoo México: garantía",
+      "url": "https://www.jaecoo.mx/garantia/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Año modelo no publicado en la página ni en la ficha técnica",
+    "Potencia combinada no publicada (solo gasolina 141 hp y eléctrico 201 hp)",
+    "La página anuncia \"hasta 1,675 km\" de autonomía combinada en prueba notariada; la ficha dice 1,300 km",
+    "Garantía específica de batería para el PHEV: la página de garantía de Jaecoo no la muestra de forma legible",
+    "El consumo de 31.6 km/l es NEDC de un híbrido enchufable y no es comparable directamente con el de un auto de gasolina",
+    "La transmisión híbrida dedicada (DHT) se clasificó como automática"
+  ]
+}

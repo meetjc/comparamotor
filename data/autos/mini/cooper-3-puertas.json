@@ -1,0 +1,118 @@
+{
+  "marca": "MINI",
+  "marcaSlug": "mini",
+  "modelo": "Cooper 3 Puertas",
+  "slug": "cooper-3-puertas",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "britanica",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "C",
+      "anio": 2027,
+      "precio": 702000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3 cil. 1.5 L turbo",
+      "potenciaHp": 156,
+      "rendimientoCombinadoKmL": 19.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 7 velocidades, tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    },
+    {
+      "nombre": "S",
+      "anio": 2027,
+      "precio": 768000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo",
+      "potenciaHp": 204,
+      "rendimientoCombinadoKmL": 18.7,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 7 velocidades, tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    },
+    {
+      "nombre": "John Cooper Works",
+      "anio": 2027,
+      "precio": 865000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo",
+      "potenciaHp": 231,
+      "rendimientoCombinadoKmL": 17.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 7 velocidades, tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    },
+    {
+      "nombre": "John Cooper Works GP Inspired Edition",
+      "anio": 2027,
+      "precio": 919000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "4 cil. 2.0 L turbo",
+      "potenciaHp": 231,
+      "rendimientoCombinadoKmL": 17.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "MINI México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición especial. Automática de 7 velocidades, tracción delantera. 6 bolsas de aire: 2 frontales, 2 laterales y 2 de cabeza (ficha). La ficha no confirma frenado automático de emergencia frontal. Precio de lista con IVA, ISAN y transportación según MINI."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía MINI por 3 años o 200,000 km (lo que ocurra primero); en versiones eléctricas, la batería de alto voltaje tiene 8 años o 160,000 km",
+    "fuente": "MINI México (sitio oficial: fichas técnicas)",
+    "url": "https://www.mini.com.mx/es_MX/home/local/ft/ft-2/fichas-tecnicas-modelos-mini.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios MINI México",
+      "url": "https://www.mini.com.mx/es_MX/home/local/lista-precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "MINI Cooper 3 Puertas (página oficial)",
+      "url": "https://www.mini.com.mx/es_MX/home/range/mini-cooper-3-puertas.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MINI Cooper 3 Puertas (cooper 3 puertas) 2027",
+      "url": "https://www.mini.com.mx/content/dam/MINI/marketMX/mini_com_mx/FT/ft_2027/julio/Ficha_Tecnica_F66_MINICooper_2027_Digital.pdf.asset.1782914299693.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MINI Cooper 3 Puertas (jcw) 2027",
+      "url": "https://www.mini.com.mx/content/dam/MINI/marketMX/mini_com_mx/FT/ft_2027/julio/Ficha_Tecnica_MINI-JCW_2027_Digital.pdf.asset.1782914311544.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial MINI Cooper 3 Puertas (jcw gp) 2027",
+      "url": "https://www.mini.com.mx/content/dam/MINI/marketMX/mini_com_mx/FT/ft_2027/mayo/Ficha-Tecnica_MINI-JCW-GP-INSPIRED-EDITION-2027_Digital.pdf.asset.1779834120146.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Los precios de las fichas técnicas son anteriores a la lista de precios vigente; se usó la lista: C (ficha $699,000, lista $702,000); S (ficha $765,000, lista $768,000); John Cooper Works (ficha $860,000, lista $865,000)",
+    "Las fichas de MINI describen un Driving Assistant (alerta de cambio de carril, tráfico cruzado, prevención de colisión trasera) pero no confirman frenado automático de emergencia frontal"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "marca": "GWM",
+  "marcaSlug": "gwm",
+  "modelo": "Poer",
+  "slug": "poer",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Manual Premium",
+      "anio": 2026,
+      "precio": 455900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": 11.35,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/poer",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades, 187 hp @ 5,500 rpm y 265 lb-ft, tracción trasera 2WD. Rines de 17\", control de estabilidad y antivolcaduras. La ficha de versiones manuales no incluye frenado autónomo de emergencia. Rendimiento combinado de 11.35 km/l."
+    },
+    {
+      "nombre": "Manual Luxury",
+      "anio": 2026,
+      "precio": 493900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": 11.35,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/poer",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades, 187 hp. 4 bolsas de aire (frontales y laterales). Agrega llave inteligente, cámara de reversa y de punto ciego, pantalla de 9\". Sin frenado autónomo de emergencia según la ficha."
+    },
+    {
+      "nombre": "Automática Premium",
+      "anio": 2026,
+      "precio": 565900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": 11.41,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/poer",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades, 187 hp, tracción trasera. 2 bolsas de aire frontales según la ficha. Rines de 18\", faros LED, freno de mano eléctrico. Según la ficha, el frenado autónomo de emergencia no viene en esta versión. Rendimiento combinado de 11.41 km/l."
+    },
+    {
+      "nombre": "Automática Luxury",
+      "anio": 2026,
+      "precio": 627900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": 11.41,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/poer",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades, 187 hp, tracción trasera. 6 bolsas de aire (frontales, laterales y cortina). Incluye frenado autónomo de emergencia, cámara 360°, quemacocos y alerta de tráfico cruzado."
+    },
+    {
+      "nombre": "Automática Luxury 4x4",
+      "anio": 2026,
+      "precio": 674900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": 11.41,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/poer",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades, 4x4 con caja de transferencia y reductora 4L, diferencial trasero bloqueable. 6 bolsas de aire y frenado autónomo de emergencia. Agrega asistente de mantenimiento de carril. La ficha da un solo rendimiento para las versiones automáticas."
+    }
+  ],
+  "garantia": {
+    "texto": "7 años de garantía defensa a defensa sin límite de kilometraje (GWM Care); baterías de alto voltaje de híbridos y eléctricos: 8 años o 150,000 km, lo que ocurra primero; programa anticorrosión y pintura de 7 años. Requiere servicios cada 6 meses o 10,000 km en distribuidor autorizado",
+    "fuente": "GWM México (sitio oficial: GWM Care, garantía)",
+    "url": "https://www.gwm-mx.com/es/owner/care/warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Poer (página oficial)",
+      "url": "https://www.gwm-mx.com/es/models/poer",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Fichas técnicas oficiales Poer 2026 (pasajeros y comercial, archivo zip)",
+      "url": "https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/pdf/fichas/v2/gwm-Poer-ficha-tecnica.zip",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ofertas GWM México",
+      "url": "https://www.gwm-mx.com/es/offer",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía GWM Care",
+      "url": "https://www.gwm-mx.com/es/owner/care/warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Bolsas de aire de la Manual Premium: la página no lo dice y la ficha comercial no es clara; dato pendiente",
+    "Promoción en la página de ofertas de GWM al 25-oct-2026: Poer Automática Modelo 2026 ('últimas unidades') con mensualidad desde $6,333 + 0% comisión; Poer Manual Modelo 2026 con bono de hasta $49,000 + 0% comisión; el sitio no publica condiciones ni vigencia (solo asterisco), por eso no se registró como oferta",
+    "En .cache/fichas/gwm/poer.pdf se guardó la ficha de versiones automáticas; la de manuales (comercial) viene en el mismo zip oficial",
+    "Existen páginas antiguas poer-at y poer-mt con otros precios ($438,900 a $639,900) que ya no aparecen en el menú; se usó la página vigente /es/models/poer"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Trax",
+  "slug": "trax",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "LT",
+      "anio": 2026,
+      "precio": 599300,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.2 L 3 cil. turbo",
+      "potenciaHp": 137,
+      "rendimientoCombinadoKmL": 17.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/suvs/trax-suv-deportiva/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $483,300 y precio financiado o de arrendamiento $473,300 (ver ofertas). Automática de 6 velocidades. La ficha lista alerta y asistente de colisión frontal, sin decir si frena de forma automática."
+    },
+    {
+      "nombre": "RS",
+      "anio": 2026,
+      "precio": 635800,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.2 L 3 cil. turbo",
+      "potenciaHp": 137,
+      "rendimientoCombinadoKmL": 17.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/suvs/trax-suv-deportiva/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $519,800 y precio financiado o de arrendamiento $509,800 (ver ofertas). Automática de 6 velocidades. La ficha lista alerta y asistente de colisión frontal, sin decir si frena de forma automática."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Trax LT: precio de contado $483,300 y precio financiado o de arrendamiento $473,300 (precio de lista $599,300). Promociones publicadas: De contado: Bono de $116,000, 1 Año de seguro ¡Gratis! Con financiamiento: Hasta 48 MSI, 1 Año de seguro ¡Gratis!, Comisión por apertura ¡Gratis!, Bono de hasta $126,000.",
+      "precioOferta": 473300,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/trax/CHTRX01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Trax RS: precio de contado $519,800 y precio financiado o de arrendamiento $509,800 (precio de lista $635,800). Promociones publicadas: De contado: Bono de $116,000, 1 Año de seguro ¡Gratis! Con financiamiento: Hasta 48 MSI, 1 Año de seguro ¡Gratis!, Comisión por apertura ¡Gratis!, Bono de hasta $126,000.",
+      "precioOferta": 509800,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/trax/CHTRX01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Trax",
+      "url": "https://www.chevrolet.com.mx/suvs/trax-suv-deportiva/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Trax (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/trax/CHTRX01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Trax",
+      "url": "https://www.chevrolet.com.mx/suvs/trax-suv-deportiva/especificaciones-automotriz",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Trax 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/crossovers-suvs/2026-trax/mov/02-pdf/ficha-tecnica-trax-2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia sin confirmar: la ficha dice \"asistente de colisión frontal\" sin mencionar frenado.",
+    "La ficha técnica incluye una versión LS que no aparece en la tabla de precios vigente.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

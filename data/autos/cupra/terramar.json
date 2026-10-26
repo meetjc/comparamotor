@@ -1,0 +1,133 @@
+{
+  "marca": "CUPRA",
+  "marcaSlug": "cupra",
+  "modelo": "Terramar",
+  "slug": "terramar",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "espanola",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Terramar 1.4",
+      "anio": 2026,
+      "precio": 732900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.4 L 4 cil. turbo (TSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 15.8,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/terramar/terramar-1-4",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "7 bolsas de aire (frontales con bolsa central, laterales delanteras y de cortina). DSG de 7 velocidades, tracción delantera. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026. En su promoción CUPRA cita un precio de lista de $802,900."
+    },
+    {
+      "nombre": "VZ",
+      "anio": 2026,
+      "precio": 974900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 265,
+      "rendimientoCombinadoKmL": 14.1,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/terramar/terramar-vz",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "7 bolsas de aire (frontales con bolsa central, laterales delanteras y de cortina). DSG de 7 velocidades con tracción integral 4Drive. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+    },
+    {
+      "nombre": "VZ Tribe Edition",
+      "anio": 2026,
+      "precio": 1000900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TSI)",
+      "potenciaHp": 265,
+      "rendimientoCombinadoKmL": 14.1,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/terramar/tribe-edition",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "7 bolsas de aire (frontales con bolsa central, laterales delanteras y de cortina). DSG de 7 velocidades con tracción integral 4Drive. Edición con color Manganeso Mate y rines de 20 pulgadas en negro mate. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+    },
+    {
+      "nombre": "PHEV",
+      "anio": 2026,
+      "precio": 1043900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L 4 cil. turbo híbrido enchufable (PHEV)",
+      "potenciaHp": 272,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 123,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "CUPRA México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.cupraoficial.mx/autos/terramar/terramar-phev",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "7 bolsas de aire (frontales con bolsa central, laterales delanteras y de cortina). DSG de 6 velocidades, tracción delantera. 272 hp de potencia combinada (gasolina 177 hp y eléctrico 116 hp). Autonomía eléctrica de hasta 123 km. La ficha da 94.3 km/l combinado del sistema con la batería en uso, cifra que no se compara con autos de gasolina. Precio de contado con IVA e ISAN publicado por CUPRA, vigente del 1 al 31 de octubre de 2026."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km de garantía defensa a defensa (desde el año modelo 2026) y mantenimientos sin costo hasta 5 años o 50,000 km. CUPRA Care incluye 5 años de asistencia vial y de seguro de robo de autopartes, 12 años contra perforación por corrosión y 3 años en defectos de pintura",
+    "fuente": "CUPRA México (ficha técnica oficial y CUPRA Care)",
+    "url": "https://www.cupraoficial.mx/propietarios/cupra-care"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Terramar 1.4 2026 desde $699,900 con CUPRA Financial Services, o desde $9,399 al mes con seguro y comisión por apertura gratis, o hasta 24 meses sin intereses",
+      "precioOferta": 699900,
+      "condicion": "Precio con bono de $103,000 (IVA incluido) aplicado al precio de lista de $802,900 al contratar cualquier producto financiero de Volkswagen Leasing; enganche máximo 50%. Meses sin intereses: Plan Credit con 31.1% de enganche, CAT 8.3% sin IVA. Solo unidades nuevas, no acumulable, sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "CUPRA México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.cupraoficial.mx/promociones/terramar-1_4",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Terramar VZ 2.0 2026 desde $945,900 con CUPRA Financial Services",
+      "precioOferta": 945900,
+      "condicion": "Precio con bono de $74,000 (IVA incluido) aplicado al precio de lista al contratar cualquier producto financiero de Volkswagen Leasing; enganche máximo 50%. Solo unidades nuevas, no acumulable, sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "CUPRA México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.cupraoficial.mx/promociones/terramar",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "CUPRA Terramar 2026 (página del modelo)",
+      "url": "https://www.cupraoficial.mx/autos/terramar",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Terramar 2026",
+      "url": "https://www.cupraoficial.mx/content/dam/countries/mx/cupra-website/descargas/fichas-tecnicas/2026/CUPRA_Terramar_2026_cars-models-brochure-KP1-NA-09-2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción CUPRA Terramar 1.4",
+      "url": "https://www.cupraoficial.mx/promociones/terramar-1_4",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones CUPRA México",
+      "url": "https://www.cupraoficial.mx/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "CUPRA publica un «precio de contado» con IVA e ISAN por versión; en el detalle de sus promociones menciona un «precio de lista» más alto (ej. Terramar 1.4: $802,900 de lista contra $732,900 de contado). Se usó el precio de contado; confirmar el criterio editorial",
+    "Terramar PHEV: el rendimiento combinado oficial (94.3 km/l) mide el sistema con la batería en uso; se dejó fuera del dato comparable",
+    "Oferta de Terramar VZ tomada de la tarjeta del listado de promociones; no se abrió su detalle"
+  ]
+}

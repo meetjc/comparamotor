@@ -1,0 +1,67 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "CS55 Plus",
+  "slug": "cs55-plus",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "Premium",
+      "anio": 2025,
+      "precio": 549900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo 4 cil.",
+      "potenciaHp": 185,
+      "rendimientoCombinadoKmL": 18.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/cs55-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2025. 185 hp y 222 lb-ft, doble embrague húmedo (DCT) de 7 velocidades. Rendimiento de laboratorio: ciudad 14.9, carretera 26.4 y combinado 18.5 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia, alerta de colisión frontal, control crucero adaptativo y punto ciego según la ficha. Techo panorámico, cámara 360°."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz 7 años o 200,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "CS55 Plus Premium 2025: precio especial de $479,900 (bono de $70,000 sobre $549,900)",
+      "precioOferta": 479900,
+      "condicion": "Promoción válida en México del 1 al 31 de octubre de 2026 o hasta agotar existencias; no acumulable ni aplicable a flotillas; consulta términos con tu distribuidor (página de promociones de Changan).",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Changan México (sitio oficial, página del modelo y promociones)",
+      "url": "https://www.changan.mx/models/cs55-plus",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan CS55 Plus",
+      "url": "https://www.changan.mx/models/cs55-plus",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial CS55 Plus",
+      "url": "https://www.changan.mx/file/manual/cs55-plus.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Solo queda Premium 2025 de la generación anterior; la generación nueva está en data/autos/changan/nueva-cs55-plus.json",
+    "La ficha también incluye una versión Luxury que ya no aparece a la venta"
+  ]
+}

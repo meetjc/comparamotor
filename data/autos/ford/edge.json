@@ -1,0 +1,69 @@
+{
+  "marca": "Ford",
+  "marcaSlug": "ford",
+  "modelo": "Edge Híbrida",
+  "slug": "edge",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "estadounidense",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Trend",
+      "anio": 2026,
+      "precio": 897000,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.0 L turbo híbrido (EcoBoost)",
+      "potenciaHp": 271,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/suv/edge/2026/versiones-precios/trend/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Potencia combinada de 271 HP; motor eléctrico de 190 HP. Transmisión eléctrica continuamente variable, tracción delantera. 6 bolsas de aire. Ford solo menciona frenado post-colisión."
+    },
+    {
+      "nombre": "Titanium",
+      "anio": 2026,
+      "precio": 987000,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "2.0 L turbo híbrido (EcoBoost)",
+      "potenciaHp": 271,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/suv/edge/2026/versiones-precios/titanium/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Potencia combinada de 271 HP. Transmisión eléctrica continuamente variable, tracción AWD. 6 bolsas de aire."
+    }
+  ],
+  "garantia": null,
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Ford México: Edge Híbrida 2026, versiones y precios",
+      "url": "https://www.ford.mx/suv/edge/2026/versiones-precios/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo oficial Ford Edge 2026",
+      "url": "https://www.ford.mx/content/dam/Ford/website-assets/latam/mx/nameplate/edge/2026/pdf/ford-edge-2026-catalogo-descargable.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia no aparece en la lista de equipo ni en el catálogo (solo frenado post-colisión).",
+    "Edge Híbrida 2027 tiene página en ford.mx sin precio publicado.",
+    "Confirmar si los precios de ford. Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro.",
+    "Ford no publica rendimiento combinado en km/l en sus páginas de versiones ni en el catálogo.",
+    "Garantía original no publicada en ford.mx (la página de garantía solo describe extensiones Ford Protect).",
+    "ford.mx bloquea la descarga directa de PDF por curl; el catálogo se leyó en el navegador y no quedó copia local."
+  ]
+}

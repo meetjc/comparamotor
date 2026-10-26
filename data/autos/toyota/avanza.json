@@ -1,0 +1,67 @@
+{
+  "marca": "Toyota",
+  "marcaSlug": "toyota",
+  "modelo": "Avanza",
+  "slug": "avanza",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "LE MT",
+      "anio": 2026,
+      "precio": 367300,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil. (105 HP)",
+      "potenciaHp": 105,
+      "rendimientoCombinadoKmL": 16.4,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/suv/avanza/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "XLE CVT",
+      "anio": 2026,
+      "precio": 400200,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil. (105 HP)",
+      "potenciaHp": 105,
+      "rendimientoCombinadoKmL": 19.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/suv/avanza/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión CVT. 6 bolsas de aire (frontales, laterales y de cortina). Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "36 meses o 60,000 km, lo que ocurra primero (garantía de todos los autos nuevos Toyota; cubre defectos de materiales o mano de obra)",
+    "fuente": "Toyota México (sitio oficial, Cuidamos tu auto)",
+    "url": "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.toyota.mx/modelos/suv/avanza/",
+    {
+      "nombre": "Ficha técnica oficial Avanza 2026",
+      "url": "https://www.toyota.mx/content/dam/tmex/avanza/ficha/Ficha_Tecnica_AVANZA_26_web.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia no confirmado: la ficha técnica oficial no menciona sistema de pre-colisión en ninguna versión",
+    "Rendimiento tal como lo publica toyota.mx: 19.10 km/l CVT y 16.40 km/l manual",
+    "Toyota la presenta en la sección SUV y minivans; se clasificó como van (minivan de 7 plazas), criterio editorial",
+    "Sin oferta o promoción vigente publicada por Toyota para Avanza en octubre 2026"
+  ]
+}

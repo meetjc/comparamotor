@@ -1,0 +1,58 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "Deepal G318",
+  "slug": "deepal-g318",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Premium",
+      "anio": 2026,
+      "precio": 1139900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Rango extendido: 1.5 L turbo (147 hp, funciona como generador) + dos motores eléctricos (433 hp en conjunto); batería LFP de 35.07 kWh",
+      "potenciaHp": 433,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 143,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/deepal-g318",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia total 433 hp y 572 lb-ft, tracción 4x4 con suspensión de amortiguación continua, 0 a 100 km/h en 6.3 s. Autonomía eléctrica 143 km y combinada 938 km (NEDC). Rendimiento de laboratorio: ciudad 16.2, carretera 13.9 y combinado 15.1 km/l. 8 bolsas de aire (frontales, laterales delanteras y traseras, y de cortina). La ficha no incluye frenado autónomo de emergencia entre sus asistencias (sí control crucero adaptativo y punto ciego). Incluye cargador de casa. Rendimiento combinado oficial de 15.1 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Esquema para vehículos eléctricos: batería de alto voltaje 8 años o 200,000 km; defensa a defensa 6 años o 150,000 km; tren motriz 8 años o 150,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan Deepal G318",
+      "url": "https://www.changan.mx/models/deepal-g318",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Deepal G318",
+      "url": "https://www.changan.mx/profile/upload/2026/06/30/DEEPAL-G318%20TS2_compressed_92160bc6.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Es un híbrido de rango extendido (REEV); se clasificó como híbrido enchufable",
+    "Frenado autónomo de emergencia: la ficha no lo menciona; por confirmar",
+    "Garantía: la página de Changan publica un esquema para \"vehículos de gasolina\" y otro para \"vehículos eléctricos\"; no aclara cuál aplica a los híbridos enchufables y de rango extendido. Se registró el esquema eléctrico, por confirmar"
+  ]
+}

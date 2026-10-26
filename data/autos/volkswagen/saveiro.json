@@ -1,0 +1,100 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "Saveiro",
+  "slug": "saveiro",
+  "carroceria": "pickup",
+  "segmento": "pickup-compacta",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Robust",
+      "anio": 2026,
+      "precio": 342490,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil. (MPI)",
+      "potenciaHp": 109,
+      "rendimientoCombinadoKmL": 15.9,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/saveiro.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "2 bolsas de aire frontales. Manual de 5 velocidades, tracción delantera, cabina sencilla de 2 pasajeros, carga útil de 667 kg. La ficha técnica no menciona freno autónomo de emergencia. Precio de lista con IVA e ISAN según el configurador de VW."
+    },
+    {
+      "nombre": "Extreme",
+      "anio": 2026,
+      "precio": 432990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil. (MPI)",
+      "potenciaHp": 109,
+      "rendimientoCombinadoKmL": 15.9,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/saveiro.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "2 bolsas de aire frontales. Manual, tracción delantera, cabina doble de 5 pasajeros. La ficha técnica no menciona freno autónomo de emergencia. Precio de lista con IVA e ISAN según el configurador de VW."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años de garantía defensa a defensa o hasta 100,000 km (Protección VW; incluye seguro de robo de autopartes, asistencia vial y protección de llantas)",
+    "fuente": "Volkswagen de México (sitio oficial, página del modelo)",
+    "url": "https://www.vw.com.mx/es/autos-suvs/saveiro.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Saveiro Robust 2026: seguro gratis + 0% de comisión por apertura, o bono de $24,109",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Volkswagen Leasing; seguro de cobertura amplia sin costo el primer año. El bono incluye IVA y se aplica solo como descuento al precio de lista o como subvención a la tasa. Solo unidades nuevas; no acumulable; sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Volkswagen de México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.vw.com.mx/es/promociones/saveiro.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Saveiro 2026 (página del modelo)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/saveiro.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador VW: Saveiro Robust",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/saveiro.app",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador VW: Saveiro Extreme",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/saveiro-extreme.app",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Saveiro Robust 2026",
+      "url": "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2026/volkswagen-saveiro-robust-2026-ficha-tecnica-.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Saveiro Extreme 2026",
+      "url": "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2026/volkswagen-saveiro-extreme-2026-ficha-tecnica.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Saveiro (VW México)",
+      "url": "https://www.vw.com.mx/es/promociones/saveiro.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Freno autónomo de emergencia: las fichas de Robust y Extreme no lo mencionan; confirmar con VW",
+    "VW publica Saveiro Robust y Saveiro Extreme como modelos separados en el configurador; aquí van como dos versiones del mismo modelo",
+    "La ficha de la Extreme no indica el número de velocidades de la caja manual"
+  ]
+}

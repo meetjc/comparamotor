@@ -1,0 +1,69 @@
+{
+  "marca": "Peugeot",
+  "marcaSlug": "peugeot",
+  "modelo": "Manager",
+  "slug": "manager",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "francesa",
+  "propulsion": "diesel",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "L2H2 2.2L Diésel",
+      "anio": 2027,
+      "precio": 833900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.2 L 4 cil. turbodiésel",
+      "potenciaHp": 138,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/peugeot-manager.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Van de carga de 11.5 m³. Manual de 6 velocidades. Asistente de frenado de urgencia. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "L4H2 2.2L Diésel",
+      "anio": 2027,
+      "precio": 890900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.2 L 4 cil. turbodiésel",
+      "potenciaHp": 138,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/peugeot-manager.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Van de carga de 15 m³, hasta 1,850 kg. Manual de 6 velocidades. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km contra piezas defectuosas; garantía anticorrosión de 12 años en vehículos particulares (5 años en comerciales)",
+    "fuente": "Peugeot México (sitio oficial, página de garantías)",
+    "url": "https://www.peugeot.com.mx/clientes-peugeot/asistencia-y-garantia/garantias.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Peugeot Manager",
+      "url": "https://www.peugeot.com.mx/gama/peugeot-manager.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Peugeot",
+      "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento, bolsas de aire y frenado autónomo: no publicados",
+    "También hay Manager 2026 en la lista: L2H2 $727,900 y L4H2 $876,900"
+  ]
+}

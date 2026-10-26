@@ -1,0 +1,101 @@
+{
+  "marca": "Ford",
+  "marcaSlug": "ford",
+  "modelo": "Bronco Sport",
+  "slug": "bronco-sport",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Big Bend",
+      "anio": 2026,
+      "precio": 773500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo (EcoBoost)",
+      "potenciaHp": 181,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/suv/bronco-sport/2026/versiones-precios/big-bend/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Automática de 8 velocidades, 4x4. 9 bolsas de aire (frontales, laterales, de rodilla del conductor y de cortina). Asistencia pre-colisión con freno de emergencia automático."
+    },
+    {
+      "nombre": "Outer Banks",
+      "anio": 2026,
+      "precio": 873500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo (EcoBoost)",
+      "potenciaHp": 181,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/suv/bronco-sport/2026/versiones-precios/outer-banks/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Automática de 8 velocidades, 4x4. 9 bolsas de aire (frontales, laterales, de rodilla del conductor y de cortina). Asistencia pre-colisión con freno de emergencia automático."
+    },
+    {
+      "nombre": "Badlands",
+      "anio": 2026,
+      "precio": 909500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo (EcoBoost)",
+      "potenciaHp": 250,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/suv/bronco-sport/2026/versiones-precios/badlands/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Automática de 8 velocidades con paletas, 4x4 avanzada. 9 bolsas de aire (frontales, laterales, de rodilla del conductor y de cortina). Asistencia pre-colisión con freno de emergencia automático."
+    },
+    {
+      "nombre": "Badlands Sasquatch",
+      "anio": 2026,
+      "precio": 939500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo (EcoBoost)",
+      "potenciaHp": 250,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/suv/bronco-sport/2026/versiones-precios/badlands-sasquatch/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Automática de 8 velocidades con paletas, 4x4 avanzada, paquete Sasquatch. 9 bolsas de aire (frontales, laterales, de rodilla del conductor y de cortina). Asistencia pre-colisión con freno de emergencia automático."
+    }
+  ],
+  "garantia": null,
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Ford México: Bronco Sport 2026, versiones y precios",
+      "url": "https://www.ford.mx/suv/bronco-sport/2026/versiones-precios/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo oficial Ford Bronco Sport 2026",
+      "url": "https://www.ford.mx/content/dam/Ford/website-assets/latam/mx/nameplate/bronco-sport/2026/pdf/ford-bronco-sport-2026-catalogo-descargable.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Confirmar si los precios de ford. Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro.",
+    "Ford no publica rendimiento combinado en km/l en sus páginas de versiones ni en el catálogo.",
+    "Garantía original no publicada en ford.mx (la página de garantía solo describe extensiones Ford Protect).",
+    "ford.mx bloquea la descarga directa de PDF por curl; el catálogo se leyó en el navegador y no quedó copia local."
+  ]
+}

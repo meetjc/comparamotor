@@ -1,0 +1,70 @@
+{
+  "marca": "Peugeot",
+  "marcaSlug": "peugeot",
+  "modelo": "Partner",
+  "slug": "partner",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "francesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Maxi Pack 1.2L Turbo",
+      "anio": 2027,
+      "precio": 474900,
+      "moneda": "MXN",
+      "transmision": null,
+      "motor": "1.2 L 3 cil. turbo (PureTech)",
+      "potenciaHp": 110,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nueva-partner.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Van de carga, hasta 950 kg. 4 bolsas de aire (frontales y laterales). Asistente de frenado de urgencia (no es frenado autónomo). Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Maxi Pack 1.6L Diésel",
+      "anio": 2027,
+      "precio": 483900,
+      "moneda": "MXN",
+      "transmision": null,
+      "motor": "1.6 L 4 cil. turbodiésel (HDi)",
+      "potenciaHp": 90,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Peugeot México (sitio oficial: lista de precios y página del modelo)",
+      "url": "https://www.peugeot.com.mx/gama/nueva-partner.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Van de carga. Rendimiento de hasta 20.8 km/l según la marca (sin decir si es combinado). 4 bolsas de aire. Precio de lista en pesos con impuestos incluidos de la lista oficial de precios de octubre de 2026 (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km contra piezas defectuosas; garantía anticorrosión de 12 años en vehículos particulares (5 años en comerciales)",
+    "fuente": "Peugeot México (sitio oficial, página de garantías)",
+    "url": "https://www.peugeot.com.mx/clientes-peugeot/asistencia-y-garantia/garantias.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Peugeot Partner",
+      "url": "https://www.peugeot.com.mx/gama/nueva-partner.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Peugeot",
+      "url": "https://www.peugeot.com.mx/adquiere-tu-peugeot/lista-de-precios.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Transmisión: la página no la especifica",
+    "Rendimiento combinado oficial por versión: no publicado",
+    "También hay Partner 2026 en la lista: $464,900 (1.2 L) y $473,900 (diésel)"
+  ]
+}

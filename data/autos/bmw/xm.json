@@ -1,0 +1,79 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "XM",
+  "slug": "xm",
+  "carroceria": "suv",
+  "segmento": "deportivo",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "XM",
+      "anio": 2027,
+      "precio": 4216900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "V8 4.4 L biturbo híbrido enchufable",
+      "potenciaHp": 653,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 76,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable, batería de 25.7 kWh, hasta 76 km eléctricos (WLTP). Tracción integral M xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Aviso de colisión frontal; la ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW. Rendimiento combinado oficial de 10.4 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "XM Label",
+      "anio": 2027,
+      "precio": 4519900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "V8 4.4 L biturbo híbrido enchufable",
+      "potenciaHp": 748,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 84,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable, batería de 25.7 kWh, hasta 84 km eléctricos (WLTP). Tracción integral M xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Aviso de colisión frontal; la ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW. Rendimiento combinado oficial de 10.4 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW XM (página oficial)",
+      "url": "https://www.bmw.com.mx/es/modelos/autos-bmw-serie-m/xm/bmw-xm.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW XM 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/M/BMW%20XM%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW XM Label 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/M/BMW%20XM%20Label%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas"
+  ]
+}

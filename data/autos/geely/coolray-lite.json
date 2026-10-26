@@ -1,0 +1,118 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "Coolray Lite",
+  "slug": "coolray-lite",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GS MT",
+      "anio": 2027,
+      "precio": 359990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 17.74,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-lite",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2027. 121 hp @ 6,300 rpm y 152 Nm, transmisión manual de 5 velocidades. Rendimiento de laboratorio: ciudad 15.53, carretera 21.47 y combinado 17.74 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas."
+    },
+    {
+      "nombre": "GS CVT",
+      "anio": 2027,
+      "precio": 379990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 16.58,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-lite",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2027. 121 hp @ 6,300 rpm y 152 Nm, transmisión CVT. Rendimiento de laboratorio: ciudad 14.78, carretera 19.49 y combinado 16.58 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas."
+    },
+    {
+      "nombre": "GS MT",
+      "anio": 2026,
+      "precio": 339990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 17.74,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-lite",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2026. 121 hp @ 6,300 rpm y 152 Nm, transmisión manual de 5 velocidades. Rendimiento de laboratorio: ciudad 15.53, carretera 21.47 y combinado 17.74 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas."
+    },
+    {
+      "nombre": "GS CVT",
+      "anio": 2026,
+      "precio": 359990,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 16.58,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-lite",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2026. 121 hp @ 6,300 rpm y 152 Nm, transmisión CVT. Rendimiento de laboratorio: ciudad 14.78, carretera 19.49 y combinado 16.58 km/l (ficha publicada para Coolray Lite, rotulada 2026). 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\" con CarPlay, 4 bocinas."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz (motor y transmisión) 8 años o 250,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-lite"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Coolray Lite 2026 GS MT: precio desde $339,990 en cualquier forma de compra, o mensualidades desde $3,499 con tasa desde 10.99%",
+      "precioOferta": null,
+      "condicion": "El precio de $339,990 corresponde al precio de lista de la versión GS MT 2026. Vigencia del 30 de septiembre al 30 de octubre de 2026 o hasta agotar existencias; crédito simple con Geely Financial Services (BBVA México), sujeto a aprobación; CAT promedio 25.61% sin IVA (calculado al 31-ago-2026); no acumulable con otras promociones ni válido en flotillas.",
+      "vigenciaHasta": "2026-10-30",
+      "fuente": "Geely México (sitio oficial, promociones)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Geely Coolray Lite",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/coolray-lite",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Coolray Lite",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-coolray-lite-ficha-tecnica-02.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha publicada está rotulada como Coolray 2026; se usó también para las versiones 2027 porque es la que enlaza la página del modelo",
+    "Ofertas: las promociones de Geely son de financiamiento (mensualidad, tasa, meses sin intereses o bonos con crédito BBVA); el precio de lista no cambia salvo donde se indica"
+  ]
+}

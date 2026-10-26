@@ -1,0 +1,73 @@
+{
+  "marca": "Jetour",
+  "marcaSlug": "jetour",
+  "modelo": "T2 i-DM",
+  "slug": "t2-idm",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Savage i-DM",
+      "anio": 2027,
+      "precio": 899900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo híbrido enchufable (1,499 cc) + 2 motores eléctricos; batería LFP 26.7 kWh",
+      "potenciaHp": 375,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 139,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Jetour México (sitio oficial jetoursoueast.mx: página del modelo y ficha técnica)",
+      "url": "https://jetoursoueast.mx/jetour/modelo-t2-idm/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio publicado $899,900. Ficha técnica oficial 2027: potencia combinada 375 hp y 450 lb-ft (gasolina 154 hp; eléctricos 221 hp). Transmisión híbrida dedicada de 3 velocidades (3DHT), tracción delantera, 0-100 km/h en 7.5 s. Consumo: ciudad 41.7, carretera 25.2, combinado 32.2 km/l. Autonomía eléctrica 139 km (NEDC; 100 km WLTC) y combinada 1,139 km. 6 bolsas de aire según la página. Frenado automático de emergencia (AEB) y control crucero adaptativo. Rendimiento combinado oficial de 32.2 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica (defensa a defensa, incluye transmisión) 7 años o 200,000 km; motor de gasolina 10 años o 1,000,000 km (excepto turbocompresor); generador eléctrico, unidad de control, cargador a bordo y batería de alto voltaje 8 años o 150,000 km; refacciones 1 año o 20,000 km; partes limitadas 3 o 4 años según la pieza (lo que ocurra primero)",
+    "fuente": "Jetour Soueast México (boletín oficial de cobertura de garantía)",
+    "url": "https://jetoursoueast.mx/wp-content/uploads/2025/08/Jetour_Soueast_Cobertura_Garantia_2025.pdf"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Jetour T2 i-DM 2027: bono de $40,000 o tasa de 10.99% + 1 año de seguro gratis",
+      "precioOferta": null,
+      "condicion": "Bono de $40,000 flexible para aplicar al precio, enganche o tasa en unidad participante (no canjeable por efectivo), 1 año de seguro gratis según el programa vigente. Tasa subsidiada fija anual de 10.99%, 0% de comisión por apertura y enganche de 30%, de 12 a 72 meses, con institución financiera participante, sujeto a aprobación de crédito y disponibilidad. No acumulable con otras promociones. Vigencia del 15 de octubre al 2 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Jetour Soueast México (sitio oficial, página de promociones)",
+      "url": "https://jetoursoueast.mx/jetour/jetour-promociones/",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Jetour México: T2 i-DM",
+      "url": "https://jetoursoueast.mx/jetour/modelo-t2-idm/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Jetour T2 i-DM 2027",
+      "url": "https://jetoursoueast.mx/FT/09/JT&SE_T2_i-DM_FichaTecnica.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Jetour Soueast: promociones",
+      "url": "https://jetoursoueast.mx/jetour/jetour-promociones/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Jetour Soueast: cobertura de garantía",
+      "url": "https://jetoursoueast.mx/wp-content/uploads/2025/08/Jetour_Soueast_Cobertura_Garantia_2025.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El sitio publica precios \"desde\"; se tomaron como precio de lista con IVA (no se dice si incluyen ISAN ni si son precio con descuento)",
+    "El consumo combinado es de un híbrido enchufable con batería cargada y no es comparable directamente con el de un auto de gasolina",
+    "La transmisión híbrida dedicada de 3 velocidades se clasificó como automática"
+  ]
+}

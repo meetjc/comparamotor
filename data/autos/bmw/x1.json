@@ -1,0 +1,101 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "X1",
+  "slug": "x1",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "sDrive18i",
+      "anio": 2027,
+      "precio": 971900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "3 cil. 1.5 L turbo (TwinPower)",
+      "potenciaHp": 156,
+      "rendimientoCombinadoKmL": 18.4,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 7 velocidades, tracción delantera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "sDrive18i Technology Edition",
+      "anio": 2027,
+      "precio": 971900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "3 cil. 1.5 L turbo (TwinPower)",
+      "potenciaHp": 156,
+      "rendimientoCombinadoKmL": 18.4,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición con más equipo al mismo precio que la sDrive18i. Doble embrague de 7 velocidades, tracción delantera. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "xDrive25e",
+      "anio": 2027,
+      "precio": 1197900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "3 cil. 1.5 L turbo (TwinPower) híbrido enchufable",
+      "potenciaHp": 245,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 78,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable, batería de 14.2 kWh, hasta 78 km eléctricos (WLTP). Tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). La ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW. Rendimiento combinado oficial de 19.1 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW X1 (página oficial)",
+      "url": "https://www.bmw.com.mx/es/modelos/series-x/x1/bmw-x1.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW X1 sDrive18i 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/x1/BMW%20X1%20sDrive18i%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW X1 sDrive18i Technology Edition 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/x1/BMW%20X1%20sDrive18i%20Technology%20Edition%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW X1 xDrive25e 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/x1/BMW%20X1%20xDrive25e%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas"
+  ]
+}

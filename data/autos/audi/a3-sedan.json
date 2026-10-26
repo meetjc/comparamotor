@@ -1,0 +1,173 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "A3 Sedán",
+  "slug": "a3-sedan",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Dynamic 35 TFSI",
+      "anio": 2026,
+      "precio": 769900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (35 TFSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 17.4,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a3/a3-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. Tiptronic de 8 velocidades, tracción delantera. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "Select 35 TFSI",
+      "anio": 2026,
+      "precio": 814900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (35 TFSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 17.4,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a3/a3-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. Tiptronic de 8 velocidades, tracción delantera. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S line 35 TFSI",
+      "anio": 2026,
+      "precio": 884900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo (35 TFSI)",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 17.4,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a3/a3-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. Tiptronic de 8 velocidades, tracción delantera. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S line 40 TFSI",
+      "anio": 2026,
+      "precio": 944900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (40 TFSI)",
+      "potenciaHp": 190,
+      "rendimientoCombinadoKmL": 17.4,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a3/a3-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. S tronic de 7 velocidades (doble embrague), tracción delantera. El configurador la llama \"S line TFSI S tronic\"; la ficha la identifica como 40 TFSI de 190 hp. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S3 Sedán TFSI quattro",
+      "anio": 2026,
+      "precio": 1189900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.0 L 4 cil. turbo (TFSI)",
+      "potenciaHp": 333,
+      "rendimientoCombinadoKmL": 14.2,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a3/s3-sedan/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. S tronic de 7 velocidades (doble embrague), tracción quattro. Versión deportiva con página propia en Audi (S3 Sedán). Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "RS 3 Sedán TFSI quattro",
+      "anio": 2026,
+      "precio": 1644900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "2.5 L 5 cil. turbo (TFSI)",
+      "potenciaHp": 400,
+      "rendimientoCombinadoKmL": 12.4,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a3/rs3-sedan/configurator/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante), laterales delanteros y traseros y de cabeza. S tronic de 7 velocidades (doble embrague), tracción quattro. Versión de alto desempeño con página propia en Audi (RS 3 Sedán). Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [
+    {
+      "descripcion": "A3 Sedán 35 TFSI Dynamic 2026: mensualidad desde $5,499 (IVA incluido) con Audi Now, 0% comisión por apertura y seguro promocional",
+      "precioOferta": null,
+      "condicion": "Plan Audi Now con enganche de 39%, 24 meses, persona física profesionista, valor final de 48%; tasa anual fija de 2.35%, CAT 8% sin IVA (calculado al 24-sep-2026). Sin equipamiento extra; no aplica con otras promociones; sujeto a aprobación de crédito (Volkswagen Leasing)",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Audi de México (sitio oficial, Promociones)",
+      "url": "https://www.audi.com.mx/es/experiencia/promocAudi/",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Configurador Audi A3 Sedán",
+      "url": "https://www.audi.com.mx/es/models/a3/a3-sedan/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi S3 Sedán",
+      "url": "https://www.audi.com.mx/es/models/a3/s3-sedan/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador Audi RS 3 Sedán",
+      "url": "https://www.audi.com.mx/es/models/a3/rs3-sedan/configurator/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial A3 Sedán 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_a3_sedan_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial S3 Sedán 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_s3_sedan_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RS 3 Sedán 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_rs_3_sedan_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Audi México",
+      "url": "https://www.audi.com.mx/es/experiencia/promocAudi/",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "S3 Sedán y RS 3 Sedán se incluyeron como versiones de este archivo aunque Audi les da página propia; son la misma carrocería con motor deportivo",
+    "Las fichas de A3 Sedán y S3 Sedán no mencionan frenado autónomo de emergencia; la del RS 3 sí lo lista"
+  ]
+}

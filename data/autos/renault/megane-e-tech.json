@@ -1,0 +1,68 @@
+{
+  "marca": "Renault",
+  "marcaSlug": "renault",
+  "modelo": "Megane E-Tech",
+  "slug": "megane-e-tech",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "francesa",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "E-Tech",
+      "anio": 2026,
+      "precio": 825500,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Motor eléctrico, batería de 60 kWh",
+      "potenciaHp": 215,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 480,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
+      "url": "https://www.renault.com.mx/autos-electricos/megane-e-tech-100-electric/prices-offers.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "100% eléctrico, 215 hp. Batería de 60 kWh; autonomía de hasta 480 km según el ciclo SAE del catálogo. Incluye frenado autónomo de emergencia (AEB). El catálogo dice 'hasta 7 bolsas de aire' sin dar el número de esta versión."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 140,000 km (lo que ocurra primero) si se hacen servicios cada 5,000 km o 6 meses; con servicios cada año o 10,000 km se conserva la garantía contractual de 3 años. Pintura 3 años, anticorrosión 6 años",
+    "fuente": "Renault México (sitio oficial)",
+    "url": "https://www.renault.com.mx/discover-renault-service/extended-warranty.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Megane E-Tech 2026 desde $635,000 con 'Plan Renault e-TECH' a partir de 48 meses, o a 24 MSI con enganche desde 35%.",
+      "precioOferta": 635000,
+      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación de crédito. No aplica con otras promociones ni en flotillas; hasta agotar existencias.",
+      "vigenciaHasta": "2026-11-01",
+      "fuente": "Renault México (sitio oficial)",
+      "url": "https://www.renault.com.mx/autos-electricos/megane-e-tech-100-electric/prices-offers.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Renault Megane E-Tech: precios y ofertas",
+      "url": "https://www.renault.com.mx/autos-electricos/megane-e-tech-100-electric/prices-offers.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Renault Megane E-Tech (página del modelo)",
+      "url": "https://www.renault.com.mx/autos-electricos/megane-e-tech-100-electric.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Megane E-Tech (catálogo, marzo 2025)",
+      "url": "https://cdn.group.renault.com/ren/mx/mex/catalogos/Catalogo_MEGANE%20E-TECH_MARZO%202025.pdf.asset.pdf/3babe6cbfb.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Garantía específica de la batería no publicada en las páginas consultadas.",
+    "Número de bolsas de aire de la versión mexicana no publicado ('hasta 7').",
+    "Renault lo presenta como auto eléctrico; aquí se clasifica como SUV compacta por su carrocería crossover."
+  ]
+}

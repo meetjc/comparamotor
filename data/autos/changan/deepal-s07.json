@@ -1,0 +1,94 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "Deepal S07",
+  "slug": "deepal-s07",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "china",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "BEV",
+      "anio": 2025,
+      "precio": 799000,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "Eléctrico: motor de 160 kW; batería LFP de 79.97 kWh",
+      "potenciaHp": 215,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 560,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/deepal-s07",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2025. Motor eléctrico de 160 kW (unos 215 hp, convertido de kW) y 236 lb-ft. Autonomía 560 km (NEDC). Tracción trasera, transmisión E-CVT, 0 a 100 km/h en 7.9 s. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia con detección de peatones, control crucero adaptativo y punto ciego según la ficha. Incluye cargador de casa."
+    },
+    {
+      "nombre": "REEV",
+      "anio": 2025,
+      "precio": 829000,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "Rango extendido: 1.5 L (52 hp, funciona como generador) + motor eléctrico de 175 kW; batería LFP de 31.74 kWh",
+      "potenciaHp": 235,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 174,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/deepal-s07",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2025. Motor eléctrico de 175 kW (unos 235 hp, convertido de kW) y 236 lb-ft. Autonomía eléctrica 174 km y combinada 985 km (NEDC). Rendimiento de laboratorio: ciudad 20.19, carretera 20.63 y combinado 20.39 km/l. Tracción trasera, transmisión E-CVT, 0 a 100 km/h en 7.9 s. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia con detección de peatones, control crucero adaptativo y punto ciego según la ficha. Incluye cargador de casa. Rendimiento combinado oficial de 20.39 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Esquema para vehículos eléctricos: batería de alto voltaje 8 años o 200,000 km; defensa a defensa 6 años o 150,000 km; tren motriz 8 años o 150,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Deepal S07 BEV 2025: precio con bono de $719,000 (precio de lista $799,000)",
+      "precioOferta": 719000,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/deepal-s07",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Deepal S07 REEV 2025: precio con bono de $749,000 (precio de lista $829,000)",
+      "precioOferta": 749000,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/deepal-s07",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan Deepal S07",
+      "url": "https://www.changan.mx/models/deepal-s07",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Deepal S07",
+      "url": "https://www.changan.mx/file/manual/deepal-s07.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha da la potencia en kW; los hp se calcularon (1 kW = 1.341 hp)",
+    "La versión REEV es de rango extendido (el motor de gasolina solo recarga la batería)",
+    "Garantía: la página de Changan publica un esquema para \"vehículos de gasolina\" y otro para \"vehículos eléctricos\"; no aclara cuál aplica a los híbridos enchufables y de rango extendido. Se registró el esquema eléctrico, por confirmar"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "marca": "Ram",
+  "marcaSlug": "ram",
+  "modelo": "5500",
+  "slug": "5500",
+  "carroceria": "pickup",
+  "segmento": "pickup-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Chasis PL 6.4L V8 HEMI 8AT HD",
+      "anio": 2027,
+      "precio": 1273700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.4 L V8 HEMI HD",
+      "potenciaHp": 375,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-5500.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Chasis cabina regular largo. Automática TorqueFlite HD de 8 velocidades. Bolsas de aire delanteras multietapa para conductor y pasajero. Incluye asistencia de colisión frontal plus y frenado de emergencia para peatones y ciclistas. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Chasis PL 6.7L I6 Turbo Diesel 8AT HD",
+      "anio": 2027,
+      "precio": 1523700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.7 L I6 Cummins turbodiésel",
+      "potenciaHp": 360,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-5500.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Chasis cabina regular largo, motor diésel. Automática TorqueFlite HD de 8 velocidades. Bolsas de aire delanteras multietapa para conductor y pasajero. Incluye asistencia de colisión frontal plus y frenado de emergencia para peatones y ciclistas. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Chasis P 6.7L I6 Turbo Diesel 8AT HD 4X4",
+      "anio": 2027,
+      "precio": 1548700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.7 L I6 Cummins turbodiésel",
+      "potenciaHp": 360,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-5500.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Chasis cabina regular, 4x4, motor diésel. Automática TorqueFlite HD de 8 velocidades. Bolsas de aire delanteras multietapa para conductor y pasajero. Incluye asistencia de colisión frontal plus y frenado de emergencia para peatones y ciclistas. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "RAM México (sitio oficial, ficha técnica)",
+    "url": "https://www.ram.com/content/dam/cross-regional/nafta/ramtrucks/es_mx/archivos-descargables/ram-5500-2027/FT_RAM_5500_2027_09SEPT2026_V3.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo RAM 5500",
+      "url": "https://www.ram.com/mx/ram-5500.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios RAM",
+      "url": "https://www.ram.com/hostb/fiat_mx/JSONConversion/ram/ram-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RAM 5500 2027",
+      "url": "https://www.ram.com/content/dam/cross-regional/nafta/ramtrucks/es_mx/archivos-descargables/ram-5500-2027/FT_RAM_5500_2027_09SEPT2026_V3.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Vehículo comercial de chasis cabina: se vende sin caja de carga",
+    "La propulsión del modelo es gasolina (versión de entrada); las versiones 6.7 L son diésel",
+    "Rendimiento combinado: no publicado"
+  ]
+}

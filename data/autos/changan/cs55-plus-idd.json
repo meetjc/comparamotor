@@ -1,0 +1,95 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "CS55 Plus iDD",
+  "slug": "cs55-plus-idd",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Luxury",
+      "anio": 2026,
+      "precio": 549900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Híbrido enchufable: 1.5 L 4 cil. (108 hp) + motor eléctrico de 211 hp; batería LFP de 18.4 kWh",
+      "potenciaHp": 211,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 120,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/cs55-plus-idd",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor eléctrico de 211 hp y 243 lb-ft (torque combinado 348 lb-ft); transmisión híbrida DHT, tracción delantera. Autonomía eléctrica 120 km y combinada 1,085 km (NEDC). Rendimiento de laboratorio: ciudad 21.3, carretera 19.6 y combinado 20.5 km/l. Incluye cargador de casa. 4 bolsas de aire (frontales y laterales; la ficha no marca cortinas en Luxury, aunque la página del modelo dice 6). Sin frenado autónomo de emergencia en Luxury según la ficha. Rendimiento combinado oficial de 20.5 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    },
+    {
+      "nombre": "Premium",
+      "anio": 2026,
+      "precio": 599900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "Híbrido enchufable: 1.5 L 4 cil. (108 hp) + motor eléctrico de 211 hp; batería LFP de 18.4 kWh",
+      "potenciaHp": 211,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 120,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/cs55-plus-idd",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Motor eléctrico de 211 hp y 243 lb-ft (torque combinado 348 lb-ft); transmisión híbrida DHT, tracción delantera. Autonomía eléctrica 120 km y combinada 1,085 km (NEDC). Rendimiento de laboratorio: ciudad 21.3, carretera 19.6 y combinado 20.5 km/l. Incluye cargador de casa. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia (incluye peatones), control crucero adaptativo y punto ciego según la ficha. Techo panorámico, rines de 19\". Rendimiento combinado oficial de 20.5 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Esquema para vehículos eléctricos: batería de alto voltaje 8 años o 200,000 km; defensa a defensa 6 años o 150,000 km; tren motriz 8 años o 150,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "CS55 Plus iDD Luxury 2026: precio con bono de $499,900 (bono de $50,000 sobre $549,900)",
+      "precioOferta": 499900,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/cs55-plus-idd",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "CS55 Plus iDD Premium 2026: precio con bono de $569,900 (bono de $30,000 sobre $599,900)",
+      "precioOferta": 569900,
+      "condicion": "La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/cs55-plus-idd",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan CS55 Plus iDD",
+      "url": "https://www.changan.mx/models/cs55-plus-idd",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial CS55 Plus iDD",
+      "url": "https://www.changan.mx/file/manual/CS55-PLUS-iDD.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Bolsas de aire en Luxury: la ficha marca 4 y la página del modelo dice 6; falta confirmar",
+    "La transmisión se registró como automática: Changan la llama DHT (híbrida dedicada)",
+    "La ficha no da potencia combinada; se registró la del motor eléctrico",
+    "Garantía: la página de Changan publica un esquema para \"vehículos de gasolina\" y otro para \"vehículos eléctricos\"; no aclara cuál aplica a los híbridos enchufables y de rango extendido. Se registró el esquema eléctrico, por confirmar"
+  ]
+}

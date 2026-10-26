@@ -1,0 +1,57 @@
+{
+  "marca": "Dodge",
+  "marcaSlug": "dodge",
+  "modelo": "Charger",
+  "slug": "charger",
+  "carroceria": "coupe",
+  "segmento": "deportivo",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Scat Pack Plus 2 Puertas",
+      "anio": 2027,
+      "precio": 1489900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.0 L I6 biturbo (Sixpack)",
+      "potenciaHp": 550,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Dodge México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.dodge.com/mx/charger.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Coupé de 2 puertas. Automática de 8 velocidades. 0 a 100 km/h en 3.9 s según la marca. Bolsas frontales, laterales delanteras, de cortina y de rodilla (sin total en la ficha). Incluye asistencia de colisión con frenado automático. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Dodge México (sitio oficial, página de garantía)",
+    "url": "https://www.dodge.com/mx/posventa/garantia.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Dodge Charger",
+      "url": "https://www.dodge.com/mx/charger.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Dodge",
+      "url": "https://www.dodge.com/hostb/fiat_mx/JSONConversion/dodge/dodge-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Dodge Charger Scat Pack 2027",
+      "url": "https://www.dodge.com/content/dam/cross-regional/nafta/dodge/es_mx/2027/charger/catalog/FT_CHARGER_SCAT_PACK_2027_28SEPT2026_V3_LR.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El Charger 2026 sigue en la lista al mismo precio ($1,489,900)",
+    "Rendimiento combinado y total de bolsas: no publicados en la ficha"
+  ]
+}

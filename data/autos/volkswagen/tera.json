@@ -1,0 +1,106 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "Tera",
+  "slug": "tera",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Trendline",
+      "anio": 2026,
+      "precio": 387990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil. (MPI)",
+      "potenciaHp": 109,
+      "rendimientoCombinadoKmL": 17.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/tera.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales y de cortina). Manual de 5 velocidades, tracción delantera. Freno autónomo de emergencia de serie. Precio de lista con IVA e ISAN según el configurador de VW."
+    },
+    {
+      "nombre": "Comfortline",
+      "anio": 2026,
+      "precio": 428990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.0 L 3 cil. turbo (TSI)",
+      "potenciaHp": 99,
+      "rendimientoCombinadoKmL": 17.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/tera.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales y de cortina). Tiptronic de 6 velocidades, tracción delantera, control de crucero adaptativo. Precio de lista con IVA e ISAN según el configurador de VW."
+    },
+    {
+      "nombre": "Highline",
+      "anio": 2026,
+      "precio": 467990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.0 L 3 cil. turbo (TSI)",
+      "potenciaHp": 99,
+      "rendimientoCombinadoKmL": 17.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/tera.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales y de cortina). Tiptronic de 6 velocidades, tracción delantera; agrega Lane Assist, monitor de punto ciego y cámara de reversa. Precio de lista con IVA e ISAN según el configurador de VW."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años de garantía defensa a defensa o hasta 100,000 km (Protección VW; incluye seguro de robo de autopartes, asistencia vial y protección de llantas)",
+    "fuente": "Volkswagen de México (sitio oficial, página del modelo)",
+    "url": "https://www.vw.com.mx/es/autos-suvs/tera.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Tera Comfortline 2026: tasa desde 3.76% (precio de $428,990 que incluye un bono de $27,586.20 más IVA aplicado a la tasa)",
+      "precioOferta": null,
+      "condicion": "Financiamiento BBVA para personas físicas: enganche desde 30%, 36 meses, tasa anual sin IVA de 9.99% antes del bono, comisión por apertura de 2%, CAT promedio 6.5% sin IVA (calculado al 1-oct-2026). Requiere seguro de vida y daños; sujeto a aprobación de crédito; no acumulable",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Volkswagen de México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.vw.com.mx/es/promociones/tera.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Volkswagen Tera 2026 (página del modelo)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/tera.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador VW: Tera",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/tera.app",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Tera 2026",
+      "url": "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2026/vw-ficha-tecnica-tera-2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Tera (VW México)",
+      "url": "https://www.vw.com.mx/es/promociones/tera.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La página del modelo anuncia motor 1.0 L TSI de 99 hp como dato general, pero la ficha técnica y el configurador indican que la versión Trendline usa motor 1.6 L de 109 hp con caja manual; se usó la ficha",
+    "Solo hay Tera 2026 en el sitio de VW"
+  ]
+}

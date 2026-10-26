@@ -1,0 +1,58 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "Serie 7",
+  "slug": "serie-7",
+  "carroceria": "sedan",
+  "segmento": "grande",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "750e xDrive",
+      "anio": 2026,
+      "precio": 2738900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6 cil. 3.0 L turbo (TwinPower) híbrido enchufable",
+      "potenciaHp": 489,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 71,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido enchufable, batería de 17.6 kWh, hasta 71 km eléctricos (WLTP). Tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Aviso de colisión frontal con función de frenado (ficha). Precio sugerido con IVA, ISAN y transportación según BMW. Rendimiento combinado oficial de 14.2 km/l medido con la batería cargada; no es comparable con el de un auto de gasolina, por eso no se usa en el cálculo de gasolina."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW Serie 7 (página oficial)",
+      "url": "https://www.bmw.com.mx/es/modelos/7-series/7er-sedan/bmw-7-series-sedan.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW 750e xDrive 2026",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/Julio/9-%20BMW%20Serie%207%20Seda%CC%81n%20%28G70%29/BMW%20750e%202026.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas",
+    "La lista de BMW incluye el 760i Protection xDrive blindado ($15,000,000); no se incluyó por ser vehículo de protección especial"
+  ]
+}

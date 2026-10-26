@@ -1,0 +1,71 @@
+{
+  "marca": "JAC",
+  "marcaSlug": "jac",
+  "modelo": "Sunray Pasajeros",
+  "slug": "sunray-pasajeros",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "china",
+  "propulsion": "diesel",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Euro 6",
+      "anio": 2027,
+      "precio": 849000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.5 L turbo diésel Cummins 4 cil. (Euro VI)",
+      "potenciaHp": 162,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/sunray-pasajeros-euro6",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Van de 17 pasajeros (incluido el conductor). Manual de 6 velocidades, 162 hp. 2 bolsas de aire (conductor y copiloto) según la ficha; la página dice que la del acompañante es opcional. Aire acondicionado para cabina y zona de pasajeros, control de estabilidad. La ficha no incluye frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Euro 6",
+      "anio": 2026,
+      "precio": 842000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.5 L turbo diésel Cummins 4 cil. (Euro VI)",
+      "potenciaHp": 162,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/sunray-pasajeros-euro6",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2026 de la misma versión; datos técnicos de la ficha oficial 2027."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero, de acuerdo con la póliza de garantía vigente (aplican términos y condiciones)",
+    "fuente": "JAC México (sitio oficial: ficha técnica y términos de garantías)",
+    "url": "https://www.jac.mx/legales/terminos-condiciones-garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Sunray Pasajeros Euro 6 (página oficial)",
+      "url": "https://www.jac.mx/sunray-pasajeros-euro6",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Sunray Pasajeros Euro VI 2027",
+      "url": "https://s3-giant-motors-cms-media-prod.s3.us-east-1.amazonaws.com/Ficha%20te%C3%8Ccnica%20Sunray%20Pasajeros%20EURO%20VI-2.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "JAC no publica rendimiento de combustible de la Sunray Pasajeros",
+    "Confirmar si la bolsa de aire del copiloto es de serie (ficha) u opcional (página)",
+    "La página muestra 150 hp en sus datos estructurados y 162 hp en el texto y en la ficha; se usó 162 hp",
+    "Sin oferta con condiciones publicada para este modelo en el sitio de JAC al 25-oct-2026; JAC aclara que sus precios son los recomendados al distribuidor"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "marca": "Subaru",
+  "marcaSlug": "subaru",
+  "modelo": "Crosstrek",
+  "slug": "crosstrek",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Dynamic CVT",
+      "anio": 2026,
+      "precio": 554900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil. bóxer (154 HP)",
+      "potenciaHp": 154,
+      "rendimientoCombinadoKmL": 16.5,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/Crosstrek/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión Lineartronic CVT. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "Sport Edition CVT",
+      "anio": 2026,
+      "precio": 599900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil. bóxer (154 HP)",
+      "potenciaHp": 154,
+      "rendimientoCombinadoKmL": 16.5,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/Crosstrek/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión Lineartronic CVT. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "Limited CVT",
+      "anio": 2026,
+      "precio": 639900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil. bóxer (154 HP)",
+      "potenciaHp": 154,
+      "rendimientoCombinadoKmL": 16.5,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/Crosstrek/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión Lineartronic CVT. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero (aplica al vehículo aunque cambie de propietario, con mantenimiento al día en servicio autorizado Subaru)",
+    "fuente": "Subaru México (sitio oficial, Garantía)",
+    "url": "https://subaru.com.mx/Garantia/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://subaru.com.mx/Crosstrek/",
+    {
+      "nombre": "Ficha técnica oficial Subaru Crosstrek 2026",
+      "url": "https://subaru.com.mx/Assets/ModelosNuevos/Catalogos/Pdf/Crosstrek-26.Pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Subaru publica una sola cifra de rendimiento (16.5 km/l) para las tres versiones",
+    "Subaru México no publica promociones con condiciones en subaru.com.mx al 25-oct-2026",
+    "Clasificación del segmento (suv-compacta) es criterio editorial, no viene de la marca"
+  ]
+}

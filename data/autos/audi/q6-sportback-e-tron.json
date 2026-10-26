@@ -1,0 +1,69 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "Q6 Sportback e-tron",
+  "slug": "q6-sportback-e-tron",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "alemana",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Advanced quattro",
+      "anio": 2027,
+      "precio": 1499900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, 2 motores; batería de 94.9 kWh netos",
+      "potenciaHp": 422,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 570,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q6-e-tron/q6-sportback-e-tron/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales y laterales delanteros y traseros con airbag de cabeza. Tracción quattro, transmisión de 1 velocidad. 422 hp (462 hp en modo launch control). Autonomía WLTP de 570 a 680 km según la ficha; carga de 10 a 80% en 21 minutos a potencia máxima. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    },
+    {
+      "nombre": "S line quattro",
+      "anio": 2027,
+      "precio": 1599900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, 2 motores; batería de 94.9 kWh netos",
+      "potenciaHp": 422,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 570,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Audi de México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/q6-e-tron/q6-sportback-e-tron/configurador/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales y laterales delanteros y traseros con airbag de cabeza. Tracción quattro, transmisión de 1 velocidad. 422 hp (462 hp en modo launch control). Autonomía WLTP de 570 a 680 km según la ficha. Precio de lista del configurador de Audi México, en pesos con IVA incluido."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Configurador Audi Q6 Sportback e-tron",
+      "url": "https://www.audi.com.mx/es/models/q6-e-tron/q6-sportback-e-tron/configurador/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Q6 Sportback e-tron 2027",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my27/audi_q6_sportback_etron_ficha_tecnica_2027.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "La autonomía se tomó del valor menor del rango WLTP que da la ficha, que no la separa por versión"
+  ]
+}

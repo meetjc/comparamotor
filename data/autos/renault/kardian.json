@@ -1,0 +1,84 @@
+{
+  "marca": "Renault",
+  "marcaSlug": "renault",
+  "modelo": "Kardian",
+  "slug": "kardian",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "francesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Evolution TM",
+      "anio": 2026,
+      "precio": 387000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.6 L 4 cil.",
+      "potenciaHp": 113,
+      "rendimientoCombinadoKmL": 18.2,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
+      "url": "https://www.renault.com.mx/autos-particulares/renault-kardian/prices-offers.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades, tracción delantera. Rendimiento mixto 18.2 km/l (ciudad 15.9, carretera 22.3) según el catálogo técnico. 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina). Frenado autónomo de emergencia (AEBS): no disponible en esta versión según el catálogo técnico."
+    },
+    {
+      "nombre": "Techno EDC",
+      "anio": 2026,
+      "precio": 458500,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.0 L turbo 3 cil.",
+      "potenciaHp": 115,
+      "rendimientoCombinadoKmL": 20.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Renault México (sitio oficial: precios y versiones, página del modelo y catálogo PDF)",
+      "url": "https://www.renault.com.mx/autos-particulares/renault-kardian/prices-offers.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión de doble embrague EDC de 6 velocidades, tracción delantera. Rendimiento mixto 20.9 km/l (ciudad 18.5, carretera 24.8). 6 bolsas de aire. Incluye frenado autónomo de emergencia con detección de peatones y ciclistas (AEBS)."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 140,000 km (lo que ocurra primero) si se hacen servicios cada 5,000 km o 6 meses; con servicios cada año o 10,000 km se conserva la garantía contractual de 3 años. Pintura 3 años, anticorrosión 6 años",
+    "fuente": "Renault México (sitio oficial)",
+    "url": "https://www.renault.com.mx/discover-renault-service/extended-warranty.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Kardian 2026 desde $339,500 + 1 año de seguro gratis, o tasa desde 9.99%, o mensualidades de $3,699.",
+      "precioOferta": 339500,
+      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación de crédito. No aplica con otras promociones ni en flotillas; hasta agotar existencias. La nota legal dice $339,000 para Evolution TM 2026 con 'Plan Renault Kardian' (enganche 35%, 60 meses); el encabezado dice $339,500. Seguro gratis con GNP.",
+      "vigenciaHasta": "2026-11-01",
+      "fuente": "Renault México (sitio oficial)",
+      "url": "https://www.renault.com.mx/autos-particulares/renault-kardian/prices-offers.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Renault Kardian: precios y versiones",
+      "url": "https://www.renault.com.mx/autos-particulares/renault-kardian/prices-offers.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Renault Kardian (página del modelo)",
+      "url": "https://www.renault.com.mx/autos-particulares/renault-kardian.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Kardian (catálogo técnico, septiembre 2025)",
+      "url": "https://cdn.group.renault.com/ren/mx/mex/fichas-tecnicas/CATALOGO_TECNICO_KARDIAN_MX_SEPTIEMBRE_2025.pdf.asset.pdf/ea8b852d17.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La oferta tiene dos cifras distintas en la misma página ($339,500 en el encabezado y $339,000 en la nota legal).",
+    "El catálogo técnico incluye una versión 'premiere edition' que no aparece a la venta en el sitio."
+  ]
+}

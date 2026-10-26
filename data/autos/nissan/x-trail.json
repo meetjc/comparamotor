@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $554,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 15.8 km/l combinado (ciudad 13.67, carretera 19.53) en el catálogo PDF 2027; la comparación web de la versión Advance muestra 15.8 (13.6 / 19.5). Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo. Tracción delantera (FWD)."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $601,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 15.8 km/l combinado (ciudad 13.67, carretera 19.53) en el catálogo PDF 2027; la comparación web de la versión Advance muestra 15.8 (13.6 / 19.5). Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo. Tracción delantera (FWD)."
     },
     {
@@ -57,7 +57,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $679,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Rendimiento 15.8 km/l combinado (ciudad 13.67, carretera 19.53) en el catálogo PDF 2027; la comparación web de la versión Advance muestra 15.8 (13.6 / 19.5). Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo. Tracción delantera (FWD)."
     },
     {
@@ -74,7 +74,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $749,990 (vigencia 01-oct a 02-nov-2026). Transmisión Xtronic CVT. Incluye ProPILOT Assist y Head-Up Display. Rendimiento 15.8 km/l combinado (ciudad 13.67, carretera 19.53) en el catálogo PDF 2027; la comparación web de la versión Advance muestra 15.8 (13.6 / 19.5). Frenado Inteligente de Emergencia con Detección de Peatones (I-FEB+PED) incluido según el catálogo. Tracción delantera (FWD)."
     }
   ],
@@ -91,7 +91,7 @@
       "vigenciaHasta": "2026-11-02",
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     },
     {
       "descripcion": "Hasta 24 meses sin intereses + 1 año de seguro gratis + 0% de comisión por apertura, solo con Credi Nissan.",
@@ -100,7 +100,7 @@
       "vigenciaHasta": null,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/x-trail.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [
@@ -112,6 +112,7 @@
   "pendientes": [
     "El sitio solo ofrece versiones de 2 filas (2 Row) a la fecha; no hay versión de 3 filas publicada.",
     "Rendimiento por versión: el catálogo publica un único valor para las cuatro versiones; solo se verificó en la comparación web la versión Advance.",
-    "Vigencia de la leyenda 'hasta 24 MSI' no publicada."
+    "Vigencia de la leyenda 'hasta 24 MSI' no publicada.",
+    "La X-Trail e-POWER (híbrida, desde $751,990) es otro modelo: ver data/autos/nissan/x-trail-e-power.json."
   ]
 }

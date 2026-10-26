@@ -1,0 +1,179 @@
+{
+  "marca": "Kia",
+  "marcaSlug": "kia",
+  "modelo": "K4 Sedán",
+  "slug": "k4-sedan",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "coreana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "L TM",
+      "anio": 2027,
+      "precio": 409500,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L 4 cil. MPI Atkinson",
+      "potenciaHp": 147,
+      "rendimientoCombinadoKmL": 17.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k4-sedan/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). El asistente de evasión de colisión frontal no viene de serie: Kia lo ofrece como paquete de seguridad opcional con el distribuidor."
+    },
+    {
+      "nombre": "L IVT",
+      "anio": 2027,
+      "precio": 428500,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil. MPI Atkinson",
+      "potenciaHp": 147,
+      "rendimientoCombinadoKmL": 19.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k4-sedan/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión IVT (variable continua). 6 bolsas de aire (frontales, laterales y de cortina). El asistente de evasión de colisión frontal no viene de serie: Kia lo ofrece como paquete de seguridad opcional con el distribuidor."
+    },
+    {
+      "nombre": "LX TM",
+      "anio": 2027,
+      "precio": 431500,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L 4 cil. MPI Atkinson",
+      "potenciaHp": 147,
+      "rendimientoCombinadoKmL": 17.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k4-sedan/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). El asistente de evasión de colisión frontal no viene de serie: Kia lo ofrece como paquete de seguridad opcional con el distribuidor."
+    },
+    {
+      "nombre": "LX IVT",
+      "anio": 2027,
+      "precio": 445500,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil. MPI Atkinson",
+      "potenciaHp": 147,
+      "rendimientoCombinadoKmL": 19.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k4-sedan/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión IVT (variable continua). 6 bolsas de aire (frontales, laterales y de cortina). El asistente de evasión de colisión frontal no viene de serie: Kia lo ofrece como paquete de seguridad opcional con el distribuidor."
+    },
+    {
+      "nombre": "EX IVT",
+      "anio": 2027,
+      "precio": 489400,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil. MPI Atkinson",
+      "potenciaHp": 147,
+      "rendimientoCombinadoKmL": 19.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k4-sedan/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión IVT (variable continua). 6 bolsas de aire (frontales, laterales y de cortina). Incluye asistente de evasión de colisión frontal y de giro."
+    },
+    {
+      "nombre": "GT-Line IVT",
+      "anio": 2027,
+      "precio": 526700,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.0 L 4 cil. MPI Atkinson",
+      "potenciaHp": 147,
+      "rendimientoCombinadoKmL": 19.8,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k4-sedan/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Transmisión IVT (variable continua). 6 bolsas de aire (frontales, laterales y de cortina). Incluye asistente de evasión de colisión frontal y de giro."
+    },
+    {
+      "nombre": "GT-Line Turbo TA",
+      "anio": 2027,
+      "precio": 576600,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo GDI",
+      "potenciaHp": 190,
+      "rendimientoCombinadoKmL": 15.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/k4-sedan/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 8 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). Incluye asistente de evasión de colisión frontal y de giro."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica (defensa a defensa) 5 años o 100,000 km; tren motriz 7 años o 150,000 km (lo que ocurra primero)",
+    "fuente": "Kia México (sitio oficial, página de garantía)",
+    "url": "https://www.kia.com/mx/owners/warranty-recalls.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Kia K4 Sedán 2027, todas las versiones: bono de $20,000 al enganche (IVA incluido) + compra ahora y comienza a pagar en diciembre de 2026",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Autoexpress Inbursa (Kia Finance). Ejemplo: CAT promedio 25.5% sin IVA a 60 meses calculado al 1-oct-2026, importe promedio a financiar $266,175, enganche 30%, comisión 2.0% sin IVA, tasa fija anual 11.84% sin IVA. Sujeto a aprobación de crédito; no acumulable",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Kia México (sitio oficial, promociones)",
+      "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-k4-sedan.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Precios y especificaciones Kia K4 Sedán 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/k4-sedan/specification.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Kia K4 Sedán 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/k4-sedan.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial (catálogo) Kia K4 Sedán 2027",
+      "url": "https://www.kia.com/content/dam/kwcms/mx/es/pdf/brochures/Web_BROCHURE_K4_Sedan_2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Kia K4 Sedán 2027 (Kia México)",
+      "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-k4-sedan.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Kia México",
+      "url": "https://www.kia.com/mx/owners/warranty-recalls.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo: se tomó el Asistente de evasión de colisión frontal (FCA) de la tabla oficial.",
+    "En las versiones L y LX el frenado autónomo se ofrece como paquete opcional con costo extra en el distribuidor; se registró como no incluido"
+  ]
+}

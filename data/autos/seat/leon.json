@@ -1,0 +1,108 @@
+{
+  "marca": "SEAT",
+  "marcaSlug": "seat",
+  "modelo": "León",
+  "slug": "leon",
+  "carroceria": "hatchback",
+  "segmento": "compacto",
+  "origenMarca": "espanola",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Style",
+      "anio": 2026,
+      "precio": 473880,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 17.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.seat.mx/autos/leon",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Automática de 8 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. La ficha técnica no lista frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "FR",
+      "anio": 2026,
+      "precio": 519900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 17.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "SEAT México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.seat.mx/autos/leon",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Automática de 8 velocidades. Precio de contado con IVA e ISAN publicado en el configurador de SEAT, vigente del 1 al 31 de octubre de 2026. En su promoción SEAT cita un precio de lista de $592,900 para esta versión. La ficha técnica no lista frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "FR Edición Especial 25 Aniversario",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.4 L 4 cil. turbo",
+      "potenciaHp": 150,
+      "rendimientoCombinadoKmL": 17.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "SEAT México (sitio oficial: página de promociones y ficha técnica)",
+      "url": "https://www.seat.mx/comprar-un-seat/promociones/leon",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales delanteras y de cortina). Automática de 8 velocidades. Edición limitada. No aparece en el configurador; SEAT solo publica su precio de lista ($618,900) en la página de promociones. La ficha técnica no lista frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km (lo que ocurra primero) de garantía defensa a defensa; garantía extendida opcional por 3 años más con costo (hasta 8 años). Incluye 5 años de seguro de robo de autopartes, 5 años de asistencia SERVISEAT, 12 años contra perforación por corrosión y 3 años en defectos de pintura",
+    "fuente": "SEAT México (ficha técnica oficial y sitio oficial)",
+    "url": "https://www.seat.mx/servicio/garantia-beneficios"
+  },
+  "ofertas": [
+    {
+      "descripcion": "León FR 2026 desde $499,900 con SEAT Financial Services, o desde $6,599 al mes con seguro y comisión por apertura gratis, o hasta 30 meses sin intereses",
+      "precioOferta": 499900,
+      "condicion": "Precio con bono de $93,000 (IVA incluido) aplicado al precio de lista de $592,900 al contratar cualquier producto financiero de Volkswagen Leasing; enganche máximo 50%. Meses sin intereses: Plan Credit con 42.79% de enganche, CAT 9.8% sin IVA. Solo unidades nuevas, no acumulable, sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "SEAT México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.seat.mx/comprar-un-seat/promociones/leon",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "SEAT León 2026 (página del modelo)",
+      "url": "https://www.seat.mx/autos/leon",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador SEAT México: León",
+      "url": "https://www.seat.mx/configurador/w/version?wf=seat-mx-es&carlineGroup=CARLINE-GROUP-KLG",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial León 2026",
+      "url": "https://www.seat.mx/content/dam/countries/mx/seat-website/descargas/fichas-tecnicas/2026/SEAT_Leon_2026_cars-models-brochure-KLG-NA-09-2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones SEAT León",
+      "url": "https://www.seat.mx/comprar-un-seat/promociones/leon",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "SEAT publica en su configurador un «precio de contado» con IVA e ISAN por versión; en sus promociones menciona un «precio de lista» más alto para algunas versiones. Se usó el precio de contado del configurador (único publicado para todas las versiones) y el precio de lista se anotó en las notas; confirmar el criterio editorial",
+    "Edición Especial 25 Aniversario: sin precio de contado publicado (solo precio de lista de $618,900 en promociones)",
+    "Frenado autónomo de emergencia: la ficha técnica no lo menciona; confirmar con SEAT",
+    "Solo hay León 2026 en el sitio de SEAT (no hay año modelo 2027)"
+  ]
+}

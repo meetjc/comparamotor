@@ -1,0 +1,109 @@
+{
+  "marca": "Geely",
+  "marcaSlug": "geely",
+  "modelo": "Emgrand",
+  "slug": "emgrand",
+  "carroceria": "sedan",
+  "segmento": "compacto",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "GC",
+      "anio": 2026,
+      "precio": 299990,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 19.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/emgrand",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "121 hp @ 6,300 rpm y 152 Nm, manual de 5 velocidades. Rendimiento de laboratorio: ciudad 16.65, carretera 25.02 y combinado 19.60 km/l. 6 bolsas de aire (frontales, laterales y de cortina). La ficha no incluye frenado autónomo de emergencia. Pantalla de 8\", cámara de reversa, faros de halógeno."
+    },
+    {
+      "nombre": "GL",
+      "anio": 2026,
+      "precio": 347990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 16.42,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/emgrand",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "121 hp y 152 Nm, automática de 6 velocidades. Rendimiento de laboratorio: ciudad 14.58, carretera 19.41 y combinado 16.42 km/l. 6 bolsas de aire. La ficha no incluye frenado autónomo de emergencia. Llave inteligente, freno de mano eléctrico con Auto-Hold."
+    },
+    {
+      "nombre": "GF",
+      "anio": 2026,
+      "precio": 373990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 121,
+      "rendimientoCombinadoKmL": 16.42,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Geely México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/emgrand",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "121 hp y 152 Nm, automática de 6 velocidades. Rendimiento combinado de laboratorio 16.42 km/l. 6 bolsas de aire. La ficha no incluye frenado autónomo de emergencia. Pantalla de 12.3\" con CarPlay, piel sintética, techo corredizo, control crucero."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz (motor y transmisión) 8 años o 250,000 km; asistencia en el camino 24/7. Sujeta al programa de mantenimiento en distribuidores autorizados y a las exclusiones de la póliza",
+    "fuente": "Geely México (sitio oficial, página del modelo)",
+    "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/emgrand"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Emgrand 2026 GC: precio especial de $264,990 con crédito (bono de $35,000 IVA incluido aplicado a precio sobre $299,990)",
+      "precioOferta": 264990,
+      "condicion": "Solo con crédito simple de Geely Financial Services (BBVA México), plan CAMP con 0% de comisión por apertura. Vigencia del 30 de septiembre al 30 de octubre de 2026 o hasta agotar existencias; crédito simple con Geely Financial Services (BBVA México), sujeto a aprobación; CAT promedio 25.61% sin IVA (calculado al 31-ago-2026); no acumulable con otras promociones ni válido en flotillas.",
+      "vigenciaHasta": "2026-10-30",
+      "fuente": "Geely México (sitio oficial, promociones)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Emgrand 2026 GF: bono de hasta $60,000 IVA incluido con crédito, sobre precio de $373,990",
+      "precioOferta": null,
+      "condicion": "Solo con crédito simple de Geely Financial Services (BBVA México); no aplica con el seguro por un año gratis. Vigencia del 30 de septiembre al 30 de octubre de 2026 o hasta agotar existencias; crédito simple con Geely Financial Services (BBVA México), sujeto a aprobación; CAT promedio 25.61% sin IVA (calculado al 31-ago-2026); no acumulable con otras promociones ni válido en flotillas.",
+      "vigenciaHasta": "2026-10-30",
+      "fuente": "Geely México (sitio oficial, promociones)",
+      "url": "https://www.geelymexico.com/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Geely Emgrand",
+      "url": "https://www.geelymexico.com/autos-gasolina/vehiculos/emgrand",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Emgrand 2026",
+      "url": "https://cdn.geelymexico.com/storage/fichas-tecnicas/geely-emgrand-2026-ficha-tecnica-06.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Geely México",
+      "url": "https://www.geelymexico.com/promociones",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Otra promoción vigente: enganche desde $74,800 + mensualidad desde $5,749 + 0% de comisión por apertura (sin detalle de versión en este archivo)"
+  ]
+}

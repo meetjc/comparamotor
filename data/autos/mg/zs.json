@@ -7,11 +7,11 @@
   "segmento": "suv-subcompacta",
   "origenMarca": "britanica-china",
   "propulsion": "gasolina",
-  "anioModeloVigente": 2027,
+  "anioModeloVigente": 2026,
   "versiones": [
     {
       "nombre": "Excite CVT",
-      "anio": 2027,
+      "anio": 2026,
       "precio": 399900,
       "moneda": "MXN",
       "transmision": "cvt",
@@ -23,12 +23,12 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "MG Motor México (sitio oficial)",
       "url": "https://www.mgmotor.com.mx/vehiculos/nuevazs",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio de lista de https://www.mgmotor.com.mx/vehiculos/nuevazs ; especificaciones de la ficha técnica 2027 (https://cdn.mgmotor.com.mx/storage/fichas-tecnicas/mg-zs-2027-ficha-tecnica-01.pdf). Motor 1.5 L turbo de 4 cilindros, 168 hp @ 6,000 rpm, 203 lb-ft, CVT, gasolina de 92 octanos. Rendimiento de laboratorio: ciudad 15.2, carretera 20.3, combinado 17.1 km/l. Bolsas de aire: 2 frontales, 2 laterales y 2 de cortina. Sin frenado automático de emergencia ni advertencia de colisión frontal en esta versión según la ficha (AEB y FCW solo en Elegance). Pantalla de 10.25\", rines bitono de 17\"."
     },
     {
       "nombre": "Elegance CVT",
-      "anio": 2027,
+      "anio": 2026,
       "precio": 490000,
       "moneda": "MXN",
       "transmision": "cvt",
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "MG Motor México (sitio oficial)",
       "url": "https://www.mgmotor.com.mx/vehiculos/nuevazs",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio de lista de https://www.mgmotor.com.mx/vehiculos/nuevazs ; especificaciones de la ficha técnica 2027 (https://cdn.mgmotor.com.mx/storage/fichas-tecnicas/mg-zs-2027-ficha-tecnica-01.pdf). Motor 1.5 L turbo de 4 cilindros, 168 hp @ 6,000 rpm, 203 lb-ft, CVT, gasolina de 92 octanos. Rendimiento de laboratorio: ciudad 15.2, carretera 20.3, combinado 17.1 km/l. Bolsas de aire: 2 frontales, 2 laterales y 2 de cortina. Frenado automático de emergencia (vehículo, peatón, bicicleta e intersección) y asistencias MG Pilot según la ficha. Pantalla de 12.3\", techo panorámico, cámara 360°, rines bitono de 18\"."
     }
   ],
@@ -57,7 +57,7 @@
       "vigenciaHasta": null,
       "fuente": "MG Motor México (sitio oficial)",
       "url": "https://www.mgmotor.com.mx/vehiculos/nuevazs",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     },
     {
       "descripcion": "ZS Turbo Elegance CVT: precio especial desde $399,500 (precio de lista $490,000)",
@@ -66,7 +66,7 @@
       "vigenciaHasta": null,
       "fuente": "MG Motor México (sitio oficial)",
       "url": "https://www.mgmotor.com.mx/vehiculos/nuevazs",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [
@@ -80,7 +80,8 @@
   "pendientes": [
     "Vigencia y condiciones del precio especial (el sitio no las publica y la sección de promociones dice 'Muy pronto')",
     "Nombre: MG renombró la 'Nueva ZS' como 'ZS Turbo' (gasolina) para distinguirla de la 'ZS Hybrid+' (HEV); la URL conserva /nuevazs",
-    "ZS Hybrid+ (HEV, 191 hp, lista $545,000 según mgmotor.com.mx) es un modelo aparte y no está en este archivo",
-    "Si la garantía de 'Lucky Seven' (7 años) equivale a los 84 meses/150,000 km de tren motriz o a algo distinto: el sitio no lo detalla"
+    "Si la garantía de 'Lucky Seven' (7 años) equivale a los 84 meses/150,000 km de tren motriz o a algo distinto: el sitio no lo detalla",
+    "Año: al 25-oct-2026 el sitio muestra Excite CVT y Elegance CVT como modelo 2026 (el legal de octubre también dice 'New ZS 2026'); registra además una Elegance CVT 2027 al mismo precio que no se muestra. La ficha publicada es la 2027. Antes este archivo decía 2027",
+    "ZS Hybrid+ está en data/autos/mg/zs-hybrid.json"
   ]
 }

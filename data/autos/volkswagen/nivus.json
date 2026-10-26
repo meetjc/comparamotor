@@ -1,0 +1,72 @@
+{
+  "marca": "Volkswagen",
+  "marcaSlug": "volkswagen",
+  "modelo": "Nivus",
+  "slug": "nivus",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Highline",
+      "anio": 2027,
+      "precio": 491190,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.0 L 3 cil. turbo (TSI)",
+      "potenciaHp": 114,
+      "rendimientoCombinadoKmL": 17.6,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Volkswagen de México (sitio oficial: configurador, página del modelo y ficha técnica)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/nivus.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "6 bolsas de aire (frontales, laterales y de cortina). Tiptronic de 6 velocidades, tracción delantera, Digital Cockpit. Freno autónomo de emergencia de serie. Precio de lista con IVA e ISAN según el configurador de VW."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años de garantía defensa a defensa o hasta 100,000 km (Protección VW; incluye seguro de robo de autopartes, asistencia vial y protección de llantas)",
+    "fuente": "Volkswagen de México (sitio oficial, página del modelo)",
+    "url": "https://www.vw.com.mx/es/autos-suvs/nivus.html"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Nivus Highline 2027: seguro gratis el primer año + comisión por apertura gratis",
+      "precioOferta": null,
+      "condicion": "Financiamiento con Volkswagen Leasing; seguro de cobertura amplia sin costo el primer año; solo unidades nuevas; no acumulable; sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Volkswagen de México (sitio oficial) / Volkswagen Leasing",
+      "url": "https://www.vw.com.mx/es/promociones/nivus.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Nivus 2027 (página del modelo)",
+      "url": "https://www.vw.com.mx/es/autos-suvs/nivus.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Configurador VW: Nivus",
+      "url": "https://www.vw.com.mx/es/configurador.html/__app/nivus.app",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Nivus 2027",
+      "url": "https://www.vw.com.mx/idhub/content/dam/onehub_pkw/importers/mx/fichas-tecnicas/producto/2027/volkswagen-nivus-2027-ficha-tecnica.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Nivus (VW México)",
+      "url": "https://www.vw.com.mx/es/promociones/nivus.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "El configurador solo publica una versión (Highline) para Nivus 2027",
+    "Clasificación como SUV subcompacta es criterio editorial; VW lo presenta como SUVW"
+  ]
+}

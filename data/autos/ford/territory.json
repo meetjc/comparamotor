@@ -1,0 +1,120 @@
+{
+  "marca": "Ford",
+  "marcaSlug": "ford",
+  "modelo": "Territory",
+  "slug": "territory",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Ambiente",
+      "anio": 2027,
+      "precio": 569900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.8 L 4 cil. turbo (EcoBoost)",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/suv/territory/2027/versiones-precios/ambiente/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Transmisión de 7 velocidades, tracción delantera. 6 bolsas de aire. El catálogo lista la asistencia pre-colisión con frenado de emergencia automático entre las asistencias de Territory 2027 (la tabla no la desglosa por versión)."
+    },
+    {
+      "nombre": "Trend",
+      "anio": 2027,
+      "precio": 649900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.8 L 4 cil. turbo (EcoBoost)",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/suv/territory/2027/versiones-precios/trend/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Transmisión de 7 velocidades, tracción delantera. El catálogo lista la asistencia pre-colisión con frenado de emergencia automático entre las asistencias de Territory 2027 (la tabla no la desglosa por versión)."
+    },
+    {
+      "nombre": "Titanium",
+      "anio": 2027,
+      "precio": 739900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.8 L 4 cil. turbo (EcoBoost)",
+      "potenciaHp": 187,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/suv/territory/2027/versiones-precios/titanium/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Transmisión de 7 velocidades, tracción delantera, cámara 360° y crucero adaptativo. El catálogo lista la asistencia pre-colisión con frenado de emergencia automático entre las asistencias de Territory 2027 (la tabla no la desglosa por versión)."
+    },
+    {
+      "nombre": "Trend Híbrida",
+      "anio": 2027,
+      "precio": 699900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L híbrido (HEV)",
+      "potenciaHp": 241,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/suv/territory/2027/versiones-precios/trend-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Potencia combinada de 241 HP. Transmisión híbrida dedicada 2DHT, tracción delantera. El catálogo lista la asistencia pre-colisión con frenado de emergencia automático entre las asistencias de Territory 2027 (la tabla no la desglosa por versión)."
+    },
+    {
+      "nombre": "Titanium Híbrida",
+      "anio": 2027,
+      "precio": 809900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L híbrido (HEV)",
+      "potenciaHp": 241,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Ford México (sitio oficial: versiones y precios, y catálogo descargable)",
+      "url": "https://www.ford.mx/suv/territory/2027/versiones-precios/titanium-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio \"desde\" publicado por Ford; según el aviso legal de ford.mx (ford.mx/legal/legales.html), incluye IVA (tasa no fronteriza) e ISAN. Potencia combinada de 241 HP. Transmisión híbrida dedicada 2DHT. El catálogo lista la asistencia pre-colisión con frenado de emergencia automático entre las asistencias de Territory 2027 (la tabla no la desglosa por versión)."
+    }
+  ],
+  "garantia": null,
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Ford México: Territory 2027, versiones y precios",
+      "url": "https://www.ford.mx/suv/territory/2027/versiones-precios/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo oficial Ford Territory 2027",
+      "url": "https://www.ford.mx/content/dam/Ford/website-assets/latam/mx/nameplate/territory/2027/pdf/ford-territory-2027-catalogo-descargable.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las versiones híbridas (Trend y Titanium Híbrida) se incluyen en este archivo; la propulsión del modelo es la de la versión de entrada (gasolina).",
+    "Ford no precisa el tipo de la transmisión de 7 velocidades de la versión de gasolina.",
+    "Confirmar si los precios de ford. Según el aviso legal de ford.mx (ford.mx/legal/legales.html), el precio incluye IVA (tasa no fronteriza) e ISAN; no incluye accesorios, placas ni seguro.",
+    "Ford no publica rendimiento combinado en km/l en sus páginas de versiones ni en el catálogo.",
+    "Garantía original no publicada en ford.mx (la página de garantía solo describe extensiones Ford Protect).",
+    "ford.mx bloquea la descarga directa de PDF por curl; el catálogo se leyó en el navegador y no quedó copia local."
+  ]
+}

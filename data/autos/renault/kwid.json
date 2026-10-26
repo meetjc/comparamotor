@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Renault México (sitio oficial)",
       "url": "https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Rines de acero de 14\". Precio de lista de https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html; especificaciones del catálogo técnico oficial MY26 (https://cdn.group.renault.com/ren/mx/mex/catalogos/Catalogo%20_tecnico_Kwid_MY26.pdf.asset.pdf/c11a96c156.pdf). Motor 1.0 L de 3 cilindros, 66 hp @ 5,500 rpm, manual de 5 velocidades. Rendimiento oficial de laboratorio: ciudad 19.0, carretera 27.6, mixto 22.1 km/l (cifra única para las cuatro versiones). Bolsas de aire frontales y laterales para conductor y pasajero (2+2). El 'sistema de frenado de urgencia (AFU)' del catálogo es asistencia de frenado de emergencia, no frenado autónomo; no se lista otro sistema autónomo."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Renault México (sitio oficial)",
       "url": "https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Rines de aluminio de 14\", pantalla de 8\" con Apple CarPlay y Android Auto, cámara de reversa. Precio de lista de https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html; especificaciones del catálogo técnico oficial MY26 (https://cdn.group.renault.com/ren/mx/mex/catalogos/Catalogo%20_tecnico_Kwid_MY26.pdf.asset.pdf/c11a96c156.pdf). Motor 1.0 L de 3 cilindros, 66 hp @ 5,500 rpm, manual de 5 velocidades. Rendimiento oficial de laboratorio: ciudad 19.0, carretera 27.6, mixto 22.1 km/l (cifra única para las cuatro versiones). Bolsas de aire frontales y laterales para conductor y pasajero (2+2). El 'sistema de frenado de urgencia (AFU)' del catálogo es asistencia de frenado de emergencia, no frenado autónomo; no se lista otro sistema autónomo."
     },
     {
@@ -57,7 +57,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Renault México (sitio oficial)",
       "url": "https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Iconic + techo negro nacarado. Precio de lista de https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html; especificaciones del catálogo técnico oficial MY26 (https://cdn.group.renault.com/ren/mx/mex/catalogos/Catalogo%20_tecnico_Kwid_MY26.pdf.asset.pdf/c11a96c156.pdf). Motor 1.0 L de 3 cilindros, 66 hp @ 5,500 rpm, manual de 5 velocidades. Rendimiento oficial de laboratorio: ciudad 19.0, carretera 27.6, mixto 22.1 km/l (cifra única para las cuatro versiones). Bolsas de aire frontales y laterales para conductor y pasajero (2+2). El 'sistema de frenado de urgencia (AFU)' del catálogo es asistencia de frenado de emergencia, no frenado autónomo; no se lista otro sistema autónomo."
     },
     {
@@ -74,7 +74,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Renault México (sitio oficial)",
       "url": "https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Bitono + barras de techo, deflectores y detalles en verde citrón. Precio de lista de https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html; especificaciones del catálogo técnico oficial MY26 (https://cdn.group.renault.com/ren/mx/mex/catalogos/Catalogo%20_tecnico_Kwid_MY26.pdf.asset.pdf/c11a96c156.pdf). Motor 1.0 L de 3 cilindros, 66 hp @ 5,500 rpm, manual de 5 velocidades. Rendimiento oficial de laboratorio: ciudad 19.0, carretera 27.6, mixto 22.1 km/l (cifra única para las cuatro versiones). Bolsas de aire frontales y laterales para conductor y pasajero (2+2). El 'sistema de frenado de urgencia (AFU)' del catálogo es asistencia de frenado de emergencia, no frenado autónomo; no se lista otro sistema autónomo."
     }
   ],
@@ -85,40 +85,40 @@
   },
   "ofertas": [
     {
-      "descripcion": "Kwid Intens TM 2026: precio desde $199,900 (con seguro financiado) o desde $208,000 (con 1 año de seguro gratis), + 0% de comisión por apertura",
+      "descripcion": "Kwid (versión de entrada Intens TM): oferta desde $199,900 o tasas desde 9.99% hasta 60 meses (leyenda de la tarjeta de precios).",
       "precioOferta": 199900,
-      "condicion": "Solo con crédito de Renault Servicios Financieros (NR Finance México, 'Plan Kwid', hasta 84 meses), sujeto a aprobación. El año de seguro gratis es con MAPFRE (uso particular) y exige crédito de 12 a 84 meses; después se contrata póliza. CAT promedio 18.5% sin IVA calculado al 01-oct-2026. No aplica con otras promociones ni flotillas; hasta agotar existencias.",
-      "vigenciaHasta": "2026-11-01",
+      "condicion": "La página no publica la nota legal detallada de esta oferta; consultar términos con el distribuidor. Sujeto a aprobación de crédito con Renault Servicios Financieros.",
+      "vigenciaHasta": null,
       "fuente": "Renault México (sitio oficial)",
       "url": "https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     },
     {
-      "descripcion": "Kwid Iconic TM 2026: precio promoción desde $234,500 + 1 año de seguro gratis, o precio especial desde $253,000 + tasa preferencial desde 9.99% a 60 meses con enganche mínimo de 35%",
-      "precioOferta": 234500,
-      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación. Seguro gratis con GNP (uso particular) con crédito 'Plan Renault' de 12 meses o más. La opción de $253,000 se calcula pagando el seguro de contado y sin accesorios. CAT promedio 18.5% sin IVA al 01-oct-2026. Hasta agotar existencias.",
+      "descripcion": "Kwid Iconic TM 2026: precio promoción desde $229,999 + 1 año de seguro gratis, o precio especial desde $249,000 + tasa preferencial desde 9.99% a 60 meses.",
+      "precioOferta": 229999,
+      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación. Seguro gratis con GNP (uso particular) con crédito 'Plan Renault' de 12 meses o más. La opción de precio especial con tasa 9.99% se calcula con enganche mínimo de 35% a 60 meses, pagando el seguro de contado y sin accesorios. CAT promedio 18.5% sin IVA al 01-oct-2026. Vigencia 16-oct a 01-nov-2026; no aplica con otras promociones ni flotillas; hasta agotar existencias.",
       "vigenciaHasta": "2026-11-01",
       "fuente": "Renault México (sitio oficial)",
       "url": "https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     },
     {
-      "descripcion": "Kwid Bitono TM 2026: la página dice 'precio desde $234,500' en el encabezado y '$241,500' en la nota legal; o precio especial desde $253,000 + tasa preferencial desde 9.99% a 60 meses con enganche mínimo de 35%",
-      "precioOferta": null,
-      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación. La fuente es inconsistente entre encabezado y nota legal, por eso no se fija el precio de oferta. Seguro gratis con GNP con crédito 'Plan Renault' de 12 meses o más. Hasta agotar existencias.",
+      "descripcion": "Kwid Bitono TM 2026: precio desde $229,999 + 1 año de seguro gratis, o precio especial desde $249,000 + tasa preferencial desde 9.99% a 60 meses.",
+      "precioOferta": 229999,
+      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación. Seguro gratis con GNP (uso particular) con crédito 'Plan Renault' de 12 meses o más. La opción de precio especial con tasa 9.99% se calcula con enganche mínimo de 35% a 60 meses, pagando el seguro de contado y sin accesorios. CAT promedio 18.5% sin IVA al 01-oct-2026. Vigencia 16-oct a 01-nov-2026; no aplica con otras promociones ni flotillas; hasta agotar existencias.",
       "vigenciaHasta": "2026-11-01",
       "fuente": "Renault México (sitio oficial)",
       "url": "https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     },
     {
-      "descripcion": "Kwid Outsider TM 2026: precio desde $241,000, o precio especial desde $263,000 + tasa preferencial desde 9.99% a 60 meses con enganche mínimo de 35%",
-      "precioOferta": 241000,
-      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación. Seguro gratis con GNP con crédito 'Plan Renault' de 12 meses o más; la opción de $263,000 se calcula pagando el seguro de contado. Hasta agotar existencias.",
+      "descripcion": "Kwid Outsider TM 2026: precio desde $237,000 + 1 año de seguro gratis, o precio especial desde $259,000 + tasa preferencial desde 9.99% a 60 meses.",
+      "precioOferta": 237000,
+      "condicion": "Solo con Renault Servicios Financieros (NR Finance México), sujeto a aprobación. Seguro gratis con GNP (uso particular) con crédito 'Plan Renault' de 12 meses o más. La opción de precio especial con tasa 9.99% se calcula con enganche mínimo de 35% a 60 meses, pagando el seguro de contado y sin accesorios. CAT promedio 18.5% sin IVA al 01-oct-2026. Vigencia 16-oct a 01-nov-2026; no aplica con otras promociones ni flotillas; hasta agotar existencias.",
       "vigenciaHasta": "2026-11-01",
       "fuente": "Renault México (sitio oficial)",
       "url": "https://www.renault.com.mx/autos-particulares/kwid/prices-offers.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [
@@ -128,8 +128,8 @@
     "https://www.renault.com.mx/discover-renault-service/extended-warranty.html"
   ],
   "pendientes": [
-    "Precio de oferta de la versión Bitono TM: el encabezado de la página dice $234,500 y la nota legal $241,500",
     "Renault presenta el Kwid como 'SUV compacto de cinco asientos' (3.68 m de largo); aquí se clasifica como hatchback subcompacto",
-    "Kwid E-Tech eléctrico (se vende aparte) no está en este archivo"
+    "Kwid E-Tech eléctrico: ya no aparece en el menú de modelos ni en la sección de autos eléctricos de renault.com.mx (25-oct-2026)",
+    "La oferta de la versión Intens TM ($199,900) solo aparece como leyenda corta, sin vigencia ni nota legal propia."
   ]
 }

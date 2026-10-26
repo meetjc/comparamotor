@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/city",
-      "fechaVerificacion": "2026-10-24",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Motor 1.5 L i-VTEC 119 hp @ 6,600 rpm y 107 lb-pie; transmisión CVT; 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina según la ficha). Precio con IVA de la ficha oficial (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Honda Sensing (incluido el CMBS) aparece como no disponible en esta versión en el comparador oficial."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/city",
-      "fechaVerificacion": "2026-10-24",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Motor 1.5 L i-VTEC 119 hp @ 6,600 rpm y 107 lb-pie; transmisión CVT; 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina según la ficha). Precio con IVA de la ficha oficial (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Honda Sensing (incluido el CMBS) aparece como no disponible en esta versión en el comparador oficial. Añade paletas de cambio en el volante."
     },
     {
@@ -57,7 +57,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/city",
-      "fechaVerificacion": "2026-10-24",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Motor 1.5 L i-VTEC 119 hp @ 6,600 rpm y 107 lb-pie; transmisión CVT; 6 bolsas de aire (2 frontales, 2 laterales y 2 de cortina según la ficha). Precio con IVA de la ficha oficial (vigencia 01-oct a 02-nov-2026). La ficha no publica rendimiento de combustible. Incluye Honda Sensing con Sistema de Mitigación de Colisión con Frenado (CMBS) y alerta de colisión frontal según el comparador oficial."
     }
   ],
@@ -74,13 +74,18 @@
       "vigenciaHasta": "2026-11-02",
       "fuente": "Honda México (sitio oficial)",
       "url": "https://www.honda.mx/autos/city",
-      "fechaVerificacion": "2026-10-24"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [
     "https://www.honda.mx/autos/city",
     "https://www.honda.mx/autos/city/configurador",
-    "https://www.honda.mx/autos"
+    "https://www.honda.mx/autos",
+    {
+      "nombre": "Brochure oficial Honda City",
+      "url": "https://www.honda.mx/web/pdf/brochure/honda/Brochure_CITY_2026.pdf",
+      "tipo": "oficial"
+    }
   ],
   "pendientes": [
     "Rendimiento combinado oficial de combustible (la ficha de honda.mx no lo publica)",

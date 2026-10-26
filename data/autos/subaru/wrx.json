@@ -1,0 +1,128 @@
+{
+  "marca": "Subaru",
+  "marcaSlug": "subaru",
+  "modelo": "WRX",
+  "slug": "wrx",
+  "carroceria": "sedan",
+  "segmento": "deportivo",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "High 6MT",
+      "anio": 2027,
+      "precio": 829900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.4 L 4 cil. bóxer turbo (271 HP)",
+      "potenciaHp": 271,
+      "rendimientoCombinadoKmL": 11.6,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/WRX/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "Sport Wagon CVT",
+      "anio": 2027,
+      "precio": 909900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.4 L 4 cil. bóxer turbo (271 HP)",
+      "potenciaHp": 271,
+      "rendimientoCombinadoKmL": 14.0,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/WRX/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Carrocería guayín. Lineartronic CVT con 8 velocidades simuladas y paletas. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "tS Performance 6MT",
+      "anio": 2027,
+      "precio": 929900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.4 L 4 cil. bóxer turbo (271 HP)",
+      "potenciaHp": 271,
+      "rendimientoCombinadoKmL": 11.6,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/WRX/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades, frenos Brembo. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "tS CVT",
+      "anio": 2027,
+      "precio": 929900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "2.4 L 4 cil. bóxer turbo (271 HP)",
+      "potenciaHp": 271,
+      "rendimientoCombinadoKmL": 14.3,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/WRX/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Lineartronic CVT con 8 velocidades simuladas y paletas. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    },
+    {
+      "nombre": "Yellow Edition 6MT",
+      "anio": 2027,
+      "precio": 949900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.4 L 4 cil. bóxer turbo (271 HP)",
+      "potenciaHp": 271,
+      "rendimientoCombinadoKmL": 11.6,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Subaru México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://subaru.com.mx/WRX/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Edición especial, manual de 6 velocidades. Tracción integral simétrica (Symmetrical AWD). 8 bolsas de aire (frontales, laterales, de cortina, central y de rodilla del conductor). Tecnología EyeSight con frenado preventivo de colisión. Precio \"desde\" publicado por Subaru en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero (aplica al vehículo aunque cambie de propietario, con mantenimiento al día en servicio autorizado Subaru)",
+    "fuente": "Subaru México (sitio oficial, Garantía)",
+    "url": "https://subaru.com.mx/Garantia/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://subaru.com.mx/WRX/",
+    {
+      "nombre": "Ficha técnica oficial Subaru WRX 2027",
+      "url": "https://subaru.com.mx/Assets/ModelosNuevos/Catalogos/Pdf/WRX-27.Pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Subaru WRX High 2027",
+      "url": "https://subaru.com.mx/Assets/ModelosNuevos/Catalogos/Pdf/WRX-27-HIGTH.Pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Subaru WRX Yellow Edition 2027",
+      "url": "https://subaru.com.mx/Assets/ModelosNuevos/Catalogos/Pdf/WRX-27-YE.Pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La página de WRX también lista versiones 2026 (High 6MT, tS CVT, tS Performance 6MT y Sport Wagon CVT) con los mismos precios que las 2027; no se incluyeron aparte",
+    "La versión Sport Wagon es carrocería guayín; el modelo se clasificó como sedán",
+    "Subaru México no publica promociones con condiciones en subaru.com.mx al 25-oct-2026",
+    "Clasificación del segmento (deportivo) es criterio editorial, no viene de la marca"
+  ]
+}

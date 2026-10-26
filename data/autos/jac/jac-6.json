@@ -1,0 +1,58 @@
+{
+  "marca": "JAC",
+  "marcaSlug": "jac",
+  "modelo": "JAC 6",
+  "slug": "jac-6",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Limited",
+      "anio": 2027,
+      "precio": 469000,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L 4 cil.",
+      "potenciaHp": 172,
+      "rendimientoCombinadoKmL": 17.03,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/jac6-7dct",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 7 velocidades (7 DCT), 172 hp @ 5,500 rpm. 6 bolsas de aire (delanteras, laterales y cortina). Incluye monitoreo de punto ciego, alerta de tráfico cruzado y de colisión trasera; la ficha no incluye frenado autónomo de emergencia. Rendimiento combinado de 17.03 km/l según la tabla oficial de JAC."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero, de acuerdo con la póliza de garantía vigente (aplican términos y condiciones)",
+    "fuente": "JAC México (sitio oficial: ficha técnica y términos de garantías)",
+    "url": "https://www.jac.mx/legales/terminos-condiciones-garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "JAC 6 2027 (página oficial)",
+      "url": "https://www.jac.mx/jac6-7dct",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial JAC 6 7DCT Limited 2027",
+      "url": "https://s3-giant-motors-cms-media-prod.s3.us-east-1.amazonaws.com/Ficha%20te%C3%8Ccnica%20JAC6%207DCT%20Limited.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Tabla oficial de rendimiento combinado JAC (año modelo 2026/2027), sección legal",
+      "url": "https://www.jac.mx/legales",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha no dice si el motor 1.5 L es turbo",
+    "Sin oferta con condiciones publicada para este modelo en el sitio de JAC al 25-oct-2026; JAC aclara que sus precios son los recomendados al distribuidor",
+    "El JSON de datos estructurados de la página del JAC 6 trae por error los datos del JAC 2; se ignoró"
+  ]
+}

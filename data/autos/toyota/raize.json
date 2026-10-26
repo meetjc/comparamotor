@@ -1,0 +1,94 @@
+{
+  "marca": "Toyota",
+  "marcaSlug": "toyota",
+  "modelo": "Raize",
+  "slug": "raize",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "XLE MT",
+      "anio": 2026,
+      "precio": 390400,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.0 L 3 cil. turbo (97 HP)",
+      "potenciaHp": 97,
+      "rendimientoCombinadoKmL": 19.3,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/suv/raize/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades, tracción delantera. 6 bolsas de aire (frontales, laterales y de cortina). Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "XLE CVT",
+      "anio": 2026,
+      "precio": 404900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.0 L 3 cil. turbo (97 HP)",
+      "potenciaHp": 97,
+      "rendimientoCombinadoKmL": 17.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/suv/raize/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "CVT con 7 velocidades simuladas y paletas al volante. 6 bolsas de aire (frontales, laterales y de cortina). Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "XLE CVT Bi-tono",
+      "anio": 2026,
+      "precio": 418200,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.0 L 3 cil. turbo (97 HP)",
+      "potenciaHp": 97,
+      "rendimientoCombinadoKmL": 17.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/suv/raize/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "CVT con 7 velocidades simuladas, pintura bitono. 6 bolsas de aire (frontales, laterales y de cortina). Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "36 meses o 60,000 km, lo que ocurra primero (garantía de todos los autos nuevos Toyota; cubre defectos de materiales o mano de obra)",
+    "fuente": "Toyota México (sitio oficial, Cuidamos tu auto)",
+    "url": "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Raize CVT Bi-tono 2026: tasa de interés desde 5.55% y 0% de comisión por apertura, solo Plan Tradicional (Toyota Financial Services)",
+      "precioOferta": null,
+      "condicion": "Plazo únicamente de 12 meses; monto máximo a financiar $236,408.22; requiere seguro de daños y seguro de vida crédito; CAT 5.7% sin IVA informativo (calculado al 28-sep-2026); no aplica el bono; no acumulable; sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Toyota México / Toyota Financial Services México (toyota.mx/estrena)",
+      "url": "https://www.toyota.mx/estrena/",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    "https://www.toyota.mx/modelos/suv/raize/",
+    {
+      "nombre": "Ficha técnica oficial Raize 2026",
+      "url": "https://www.toyota.mx/content/dam/tmex/raize/ficha/Ficha_tecnica_RAIZE_26_web.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    "https://www.toyota.mx/estrena/"
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia no confirmado: la ficha técnica oficial no menciona sistema de pre-colisión en ninguna versión",
+    "Raize CVT Bi-tono tiene promoción de financiamiento vigente en octubre 2026 (ver ofertas)",
+    "Clasificación del segmento (suv-subcompacta) es criterio editorial, no viene de la marca"
+  ]
+}

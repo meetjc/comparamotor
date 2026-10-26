@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
       "url": "https://www.toyota.mx/modelos/pickup/tacoma/",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "8 bolsas de aire (frontales 2, laterales 2, rodillas 2, cortina 2). Incluye Toyota Safety Sense (PCS, LKA, LTA, LDA, AHB). Transmisión automática de 8 velocidades. Tracción 2WD (RWD). Rendimiento 12.69 km/l (AT 2WD)."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
       "url": "https://www.toyota.mx/modelos/pickup/tacoma/",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "8 bolsas de aire (frontales 2, laterales 2, rodillas 2, cortina 2). Incluye Toyota Safety Sense (PCS, LKA, LTA, LDA, AHB). Transmisión automática de 8 velocidades. Tracción 4WD part time. Rendimiento 11.71 km/l (AT 4WD)."
     },
     {
@@ -57,7 +57,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
       "url": "https://www.toyota.mx/modelos/pickup/tacoma/",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "8 bolsas de aire (frontales 2, laterales 2, rodillas 2, cortina 2). Incluye Toyota Safety Sense (PCS, LKA, LTA, LDA, AHB). Transmisión automática de 8 velocidades. Tracción 2WD (RWD). Rendimiento 12.31 km/l (AT TRD 2WD)."
     },
     {
@@ -74,7 +74,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
       "url": "https://www.toyota.mx/modelos/pickup/tacoma/",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "8 bolsas de aire (frontales 2, laterales 2, rodillas 2, cortina 2). Incluye Toyota Safety Sense (PCS, LKA, LTA, LDA, AHB). Transmisión automática de 8 velocidades. Tracción 4WD part time. Rendimiento 11.47 km/l (AT TRD 4WD)."
     },
     {
@@ -91,7 +91,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
       "url": "https://www.toyota.mx/modelos/pickup/tacoma/",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "8 bolsas de aire (frontales 2, laterales 2, rodillas 2, cortina 2). Incluye Toyota Safety Sense (PCS, LKA, LTA, LDA, AHB). Transmisión automática de 8 velocidades. Tracción 4WD part time. Potencia 278 HP según celda combinada TRD Sport/TRD Off Road de la ficha. La página publica 11.47 km/l solo como 'TRD 4WD' sin distinguir Off Road; no se asignó. Incluye frenado de emergencia (AEB) con sensores de estacionamiento."
     },
     {
@@ -108,7 +108,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
       "url": "https://www.toyota.mx/modelos/hibridos/tacoma-hev/",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "8 bolsas de aire (frontales 2, laterales 2, rodillas 2, cortina 2). Incluye Toyota Safety Sense (PCS, LKA, LTA, LDA, AHB). Transmisión automática de 8 velocidades. Versión híbrida; 326 HP = potencia total del sistema (motor de combustión 278 HP). Tracción 4WD part time. Rendimiento 12.90 km/l: cifra única de la página Tacoma HEV. Sensores de estacionamiento con frenado de emergencia (AEB)."
     },
     {
@@ -125,7 +125,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Toyota México (sitio oficial y ficha técnica MY26)",
       "url": "https://www.toyota.mx/modelos/hibridos/tacoma-hev/",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "8 bolsas de aire (frontales 2, laterales 2, rodillas 2, cortina 2). Incluye Toyota Safety Sense (PCS, LKA, LTA, LDA, AHB). Transmisión automática de 8 velocidades. Versión híbrida; 326 HP = potencia total del sistema. Tracción 4WD part time. Rendimiento 12.90 km/l: cifra única de la página Tacoma HEV. Sensores de estacionamiento con frenado de emergencia (AEB)."
     }
   ],
@@ -142,7 +142,7 @@
       "vigenciaHasta": "2026-10-31",
       "fuente": "Toyota México / Toyota Financial Services México (toyota.mx/estrena y toyotacredito.com.mx)",
       "url": "https://toyotacredito.com.mx/Portal/promociones",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     },
     {
       "descripcion": "Tacoma TRD Sport 4x4 modelo 2026: tasa de interés desde 4.49% y comisión por apertura 2.50%, solo Plan Tradicional (sin bono)",
@@ -151,7 +151,7 @@
       "vigenciaHasta": "2026-10-31",
       "fuente": "Toyota México / Toyota Financial Services México (toyota.mx/estrena y toyotacredito.com.mx)",
       "url": "https://toyotacredito.com.mx/Portal/promociones",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [

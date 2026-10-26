@@ -19,12 +19,12 @@
       "potenciaHp": 177,
       "rendimientoCombinadoKmL": 15.3,
       "autonomiaKm": null,
-      "bolsasAire": null,
+      "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda-cx-5/ficha-tecnica/ficha-tecnica-mazda-cx-5-2026-v06.pdf",
-      "fechaVerificacion": "2026-10-20",
-      "notas": "Automática SKYACTIV-Drive de 6 velocidades, tracción delantera, rines de 17\". Frenado inteligente (SBS) y SBS a baja velocidad en ciudad de serie. Precio también publicado en https://www.mazda.mx/vehiculos/cx-5/versiones. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática SKYACTIV-Drive de 6 velocidades, tracción delantera, rines de 17\". Frenado inteligente (SBS) y SBS a baja velocidad en ciudad de serie. Precio también publicado en https://www.mazda.mx/vehiculos/cx-5/versiones. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
     },
     {
       "nombre": "i Grand Touring",
@@ -36,12 +36,12 @@
       "potenciaHp": 177,
       "rendimientoCombinadoKmL": 15.3,
       "autonomiaKm": null,
-      "bolsasAire": null,
+      "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda-cx-5/ficha-tecnica/ficha-tecnica-mazda-cx-5-2026-v06.pdf",
-      "fechaVerificacion": "2026-10-20",
-      "notas": "Rendimiento de la celda combinada i Sport / i Grand Touring de la ficha. Rines de 19\", cajuela eléctrica, Bose de 12 bocinas. SBS de serie. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Rendimiento de la celda combinada i Sport / i Grand Touring de la ficha. Rines de 19\", cajuela eléctrica, Bose de 12 bocinas. SBS de serie. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
     },
     {
       "nombre": "Signature",
@@ -53,17 +53,17 @@
       "potenciaHp": 177,
       "rendimientoCombinadoKmL": 14.9,
       "autonomiaKm": null,
-      "bolsasAire": null,
+      "bolsasAire": 7,
       "frenadoAutonomoEmergencia": true,
       "fuente": "Mazda México (sitio oficial, ficha técnica 2026)",
       "url": "https://www.mazda.mx/siteassets/descargables-2026/mazda-cx-5/ficha-tecnica/ficha-tecnica-mazda-cx-5-2026-v06.pdf",
-      "fechaVerificacion": "2026-10-20",
-      "notas": "Techo panorámico, cámara 360°, control crucero adaptativo (MRCC), pantalla de 15.6\". SBS de serie. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra."
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Techo panorámico, cámara 360°, control crucero adaptativo (MRCC), pantalla de 15.6\". SBS de serie. La ficha oficial lista bolsas de aire frontales, laterales, laterales tipo cortina y de rodillas (conductor) sin publicar el total; no se infiere la cifra. 7 bolsas de aire (suma de los tipos que lista la ficha: frontales, laterales, de cortina y de rodilla del conductor)."
     }
   ],
   "garantia": {
-    "texto": "6 años o 125,000 km totales sin costo adicional (Mazda CX-5 2026)",
-    "fuente": "Mazda México (sitio oficial)",
+    "texto": "6 años o 125,000 km, lo que ocurra primero (garantía de fábrica Mazda para CX-5 2026, BT-50 2026 y todos los modelos 2027)",
+    "fuente": "Mazda México (sitio oficial, Garantía Mazda)",
     "url": "https://www.mazda.mx/servicio-mazda/tu-mazda/garantias-mazda"
   },
   "ofertas": [],
@@ -74,7 +74,6 @@
     "https://www.mazda.mx/servicio-mazda/tu-mazda/garantias-mazda"
   ],
   "pendientes": [
-    "Número total de bolsas de aire (mazda.mx lista tipos pero no el total)",
     "La ficha técnica menciona vestiduras de una versión 'Carbon Edition MHEV' que no aparece en la lista de precios ni en el sitio; no se incluyó",
     "Mazda México no publica promociones vigentes en mazda.mx al 20-oct-2026; sin ofertas verificables"
   ]

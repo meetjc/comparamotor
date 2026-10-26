@@ -1,0 +1,63 @@
+{
+  "marca": "Kia",
+  "marcaSlug": "kia",
+  "modelo": "Niro Híbrida",
+  "slug": "niro",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "coreana",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "EX",
+      "anio": 2026,
+      "precio": 729200,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.6 L 4 cil. GDI Atkinson + motor eléctrico (híbrido)",
+      "potenciaHp": 139,
+      "rendimientoCombinadoKmL": 28.08,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
+      "url": "https://www.kia.com/mx/showroom/niro/specification.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada del sistema híbrido: 139 hp (motor de gasolina de 103 hp y eléctrico de 42 hp). Doble embrague de 6 velocidades. 8 bolsas de aire (frontales, laterales, de cortina y de rodilla). Incluye asistente de evasión de colisión frontal."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica (defensa a defensa) 5 años o 100,000 km; tren motriz 7 años o 150,000 km (lo que ocurra primero); batería del sistema híbrido hasta 84 meses o 150,000 km",
+    "fuente": "Kia México (sitio oficial, página de garantía)",
+    "url": "https://www.kia.com/mx/owners/warranty-recalls.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Precios y especificaciones Kia Niro Híbrida 2026 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/niro/specification.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Kia Niro Híbrida 2026 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/niro.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial (catálogo) Kia Niro 2026",
+      "url": "https://www.kia.com/content/dam/kwcms/mx/es/pdf/brochures/BROCHURE_NIRO_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Kia México",
+      "url": "https://www.kia.com/mx/owners/warranty-recalls.html",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo: se tomó el Asistente de evasión de colisión frontal (FCA) de la tabla oficial.",
+    "Kia México vende el Niro como año modelo 2026 (octubre 2026); no hay versión 2027 publicada",
+    "Kia México no publica una promoción vigente para el Niro (octubre 2026)"
+  ]
+}

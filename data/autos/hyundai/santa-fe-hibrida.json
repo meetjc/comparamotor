@@ -1,0 +1,99 @@
+{
+  "marca": "Hyundai",
+  "marcaSlug": "hyundai",
+  "modelo": "Santa Fe Híbrida",
+  "slug": "santa-fe-hibrida",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "coreana",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GLS Premium Híbrida",
+      "anio": 2026,
+      "precio": 1079500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo + motor eléctrico (híbrido)",
+      "potenciaHp": 232,
+      "rendimientoCombinadoKmL": 19.77,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
+      "url": "https://www.hyundai.com.mx/modelos/santa-fe-hibrida-2026/especificaciones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada del sistema híbrido: 232 hp. Automática de 6 velocidades. Bolsas frontales, laterales delanteras y traseras, de cortina y de rodilla para el conductor. Incluye asistente de anticolisión frontal. Versión que solo se ofrece en año modelo 2026. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+    },
+    {
+      "nombre": "Limited Tech TA Híbrida",
+      "anio": 2027,
+      "precio": 1175100,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.6 L 4 cil. turbo + motor eléctrico (híbrido)",
+      "potenciaHp": 232,
+      "rendimientoCombinadoKmL": 19.77,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Hyundai México (sitio oficial: página de especificaciones y ficha técnica)",
+      "url": "https://www.hyundai.com.mx/modelos/santa-fe-hibrida-2027/especificaciones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Potencia combinada del sistema híbrido: 232 hp. Automática de 6 velocidades. Bolsas frontales, laterales delanteras y traseras, de cortina y de rodilla para el conductor. Incluye asistente de anticolisión frontal. Hyundai lo publica como \"precio especial / precio neto estimado\" en pesos con IVA."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía básica 5 años o 100,000 km y tren motriz 7 años o 150,000 km (lo que ocurra primero), para modelos 2026 en adelante incluidos en la lista de Hyundai. La garantía de la batería de alto voltaje del sistema híbrido se detalla en el documento de garantía de Hyundai",
+    "fuente": "Hyundai México (sitio oficial, página de garantía)",
+    "url": "https://www.hyundai.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Santa Fe Híbrida: bono flexible de hasta $130,000, o mensualidades desde $9,199 con tasa desde 9.49%",
+      "precioOferta": null,
+      "condicion": "El bono de $130,000 aplica a Santa Fe Híbrida GLS Premium 2026. Mensualidad calculada para esa versión con enganche de 50.5% a 72 meses y bono aplicado a reducción de precio. Solo con Hyundai Finance (cálculo con Banorte). No aplica con otras promociones ni flotillas; hasta agotar existencias.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Hyundai México (sitio oficial, promociones)",
+      "url": "https://www.hyundai.com.mx/promociones/santa-fe-hibrida",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Especificaciones y precios Hyundai Santa Fe Híbrida 2027 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/santa-fe-hibrida-2027/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Especificaciones y precios Hyundai Santa Fe Híbrida 2026 (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/modelos/santa-fe-hibrida-2026/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hyundai Santa Fe Híbrida 2027",
+      "url": "https://www.hyundai.com.mx/resources/ficha-tecnica/261006_FichaTecnica_SantaFeHEV2027.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Hyundai Santa Fe Híbrida 2026",
+      "url": "https://www.hyundai.com.mx/resources/ficha-tecnica/FichaTecnica_SantaFe_Hibrida_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promoción Hyundai Santa Fe Híbrida (Hyundai México)",
+      "url": "https://www.hyundai.com.mx/promociones/santa-fe-hibrida",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Hyundai México",
+      "url": "https://www.hyundai.com.mx/garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Bolsas de aire: la marca lista frontales, laterales delanteras y traseras, de cortina y de rodilla, pero no publica el número total",
+    "Se incluyó la GLS Premium 2026 porque no existe en 2027; Hyundai también publica la Limited Tech Híbrida 2026 a $1,156,800 (año anterior, no incluida)"
+  ]
+}

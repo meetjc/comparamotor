@@ -1,0 +1,94 @@
+{
+  "marca": "Audi",
+  "marcaSlug": "audi",
+  "modelo": "A1 Sportback",
+  "slug": "a1-sportback",
+  "carroceria": "hatchback",
+  "segmento": "subcompacto",
+  "origenMarca": "alemana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "30 TFSI Cool",
+      "anio": 2026,
+      "precio": 624900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.0 L 3 cil. turbo (30 TFSI)",
+      "potenciaHp": 116,
+      "rendimientoCombinadoKmL": 19.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: catálogo de modelos y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a1/a1-sportback/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. S tronic de 7 velocidades (doble embrague), tracción delantera. Precio \"desde\" que publica Audi en su catálogo de modelos; el A1 no tiene configurador en línea, así que se asignó a la versión de entrada. Precio en pesos con IVA incluido según el catálogo de Audi México."
+    },
+    {
+      "nombre": "30 TFSI Ego",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.0 L 3 cil. turbo (30 TFSI)",
+      "potenciaHp": 116,
+      "rendimientoCombinadoKmL": 19.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a1/a1-sportback/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. S tronic de 7 velocidades (doble embrague), tracción delantera. Audi no publica el precio de esta versión."
+    },
+    {
+      "nombre": "30 TFSI S line",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.0 L 3 cil. turbo (30 TFSI)",
+      "potenciaHp": 116,
+      "rendimientoCombinadoKmL": 19.6,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Audi de México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.audi.com.mx/es/models/a1/a1-sportback/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Bolsas de aire según la ficha: frontales (con desactivación del acompañante) y laterales delanteros con airbag de cabeza. S tronic de 7 velocidades (doble embrague), tracción delantera. Audi no publica el precio de esta versión."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 150,000 km de garantía de fábrica para Audi modelo 2024 y posteriores; se puede extender hasta 8 años o 160,000 km con Audi Garantía Extendida (con costo)",
+    "fuente": "Audi de México (sitio oficial, página de Garantía Extendida)",
+    "url": "https://www.audi.com.mx/es/servicios-al-cliente/postventa/garantia-extendida/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Audi A1 Sportback (página oficial)",
+      "url": "https://www.audi.com.mx/es/models/a1/a1-sportback/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Catálogo de modelos Audi México",
+      "url": "https://www.audi.com.mx/es/models/",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial A1 Sportback 2026",
+      "url": "https://oneaudi-falcon-asset-urls.prod.renderer.one.audi/api/assets/p123727-e1214567/publish?path=/content/dam/country/mx/assets/fichas-tecnicas/my26/audi_a1_sportback_ficha_tecnica_2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Audi no publica el número total de bolsas de aire: la ficha técnica solo lista los tipos (se describen en las notas de cada versión)",
+    "El A1 Sportback no tiene configurador en audi.com.mx (la página dice \"Consulta disponibilidad\"); solo hay un precio \"desde\" de $624,900 en el catálogo de modelos",
+    "Precios de las versiones Ego y S line no publicados; confirmar con un distribuidor",
+    "La ficha técnica no menciona frenado autónomo de emergencia",
+    "La página de promociones anuncia mensualidad para A1 Sportback Ego 2026 con Audi Now; no se capturó como oferta porque no da precio y no se leyeron sus condiciones"
+  ]
+}

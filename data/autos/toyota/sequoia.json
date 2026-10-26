@@ -1,0 +1,65 @@
+{
+  "marca": "Toyota",
+  "marcaSlug": "toyota",
+  "modelo": "Sequoia",
+  "slug": "sequoia",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Limited 2WD HEV",
+      "anio": 2026,
+      "precio": 1735000,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6 biturbo híbrido i-Force Max (389 HP)",
+      "potenciaHp": 389,
+      "rendimientoCombinadoKmL": 12.7,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/suv/sequoia-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 10 velocidades, tracción trasera. 8 bolsas de aire (frontales, laterales, de rodillas y de cortina). Toyota Safety Sense con pre-colisión. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "Platinum 4WD HEV",
+      "anio": 2026,
+      "precio": 1901100,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.5 L V6 biturbo híbrido i-Force Max (389 HP)",
+      "potenciaHp": 389,
+      "rendimientoCombinadoKmL": 11.5,
+      "autonomiaKm": null,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/suv/sequoia-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 10 velocidades, 4WD de tiempo parcial. 8 bolsas de aire (frontales, laterales, de rodillas y de cortina). Toyota Safety Sense con pre-colisión. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "36 meses o 60,000 km, lo que ocurra primero (garantía de todos los autos nuevos Toyota; cubre defectos de materiales o mano de obra)",
+    "fuente": "Toyota México (sitio oficial, Cuidamos tu auto)",
+    "url": "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.toyota.mx/modelos/suv/sequoia-hev/",
+    {
+      "nombre": "Ficha técnica oficial Sequoia HEV 2026",
+      "url": "https://www.toyota.mx/content/dam/tmex/sequoia-hev/ficha/Ficha_Tecnica_SEQUOIA_26_web.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Potencia: toyota.mx y la ficha publican 389 HP; no se encontró una cifra combinada del sistema híbrido para Sequoia (en Tundra, con el mismo motor, Toyota publica 437 HP combinados)",
+    "Sin oferta o promoción vigente publicada por Toyota para Sequoia en octubre 2026"
+  ]
+}

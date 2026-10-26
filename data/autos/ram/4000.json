@@ -1,0 +1,94 @@
+{
+  "marca": "Ram",
+  "marcaSlug": "ram",
+  "modelo": "4000",
+  "slug": "4000",
+  "carroceria": "pickup",
+  "segmento": "pickup-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Chasis Plano Corto P V8 8AT 4X2",
+      "anio": 2027,
+      "precio": 1053700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.4 L V8 HEMI",
+      "potenciaHp": 405,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-4000.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Chasis cabina regular, tracción trasera, doble rodada. Automática de 8 velocidades. Bolsas de aire delanteras multietapa para conductor y pasajero. Incluye asistencia de colisión frontal plus y frenado de emergencia para peatones y ciclistas. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Chasis Plano Largo PL V8 8AT 4X2",
+      "anio": 2027,
+      "precio": 1078700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.4 L V8 HEMI",
+      "potenciaHp": 405,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-4000.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Chasis cabina regular largo, tracción trasera. Automática de 8 velocidades. Bolsas de aire delanteras multietapa para conductor y pasajero. Incluye asistencia de colisión frontal plus y frenado de emergencia para peatones y ciclistas. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Crew Cab Chassis Cabina V8 8AT 4X4",
+      "anio": 2027,
+      "precio": 1243700,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.4 L V8 HEMI",
+      "potenciaHp": 405,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "RAM México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.ram.com/mx/ram-4000.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Chasis doble cabina, 4x4. Automática de 8 velocidades. Bolsas de aire delanteras multietapa para conductor y pasajero. Incluye asistencia de colisión frontal plus y frenado de emergencia para peatones y ciclistas. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "RAM México (sitio oficial, ficha técnica)",
+    "url": "https://www.ram.com/mx/posventa/garantia.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo RAM 4000",
+      "url": "https://www.ram.com/mx/ram-4000.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios RAM",
+      "url": "https://www.ram.com/hostb/fiat_mx/JSONConversion/ram/ram-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial RAM 4000 2027",
+      "url": "https://www.ram.com/content/dam/cross-regional/nafta/ramtrucks/es_mx/archivos-descargables/ram-4000-2026/FT-RAM-DD-4000-2027MY.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Vehículo comercial de chasis cabina: se vende sin caja de carga",
+    "Potencia de 405 hp con el paquete de serie; con el paquete opcional de toma de fuerza son 375 hp",
+    "Rendimiento combinado: no publicado",
+    "Garantía tomada de la política general de RAM (la ficha 2027 no la menciona); confirmar",
+    "La lista oficial de precios también incluye unidades de años modelo anteriores con otros precios; aquí solo se muestran las del año modelo vigente. (RAM 4000 2024, 2025 y 2026)."
+  ]
+}

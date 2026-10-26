@@ -1,0 +1,141 @@
+{
+  "marca": "Toyota",
+  "marcaSlug": "toyota",
+  "modelo": "Yaris Sedán",
+  "slug": "yaris-sedan",
+  "carroceria": "sedan",
+  "segmento": "subcompacto",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Base MT",
+      "anio": 2026,
+      "precio": 327700,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil. (105 HP)",
+      "potenciaHp": 105,
+      "rendimientoCombinadoKmL": 20.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-sedan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades, tracción delantera. 6 bolsas de aire (frontales, laterales y de cortina). La ficha técnica oficial no lista sistema de pre-colisión ni frenado autónomo de emergencia en esta versión. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "Base CVT",
+      "anio": 2026,
+      "precio": 342700,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil. (105 HP)",
+      "potenciaHp": 105,
+      "rendimientoCombinadoKmL": 18.54,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-sedan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "CVT con 7 velocidades simuladas. 6 bolsas de aire (frontales, laterales y de cortina). La ficha técnica oficial no lista sistema de pre-colisión ni frenado autónomo de emergencia en esta versión. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "S MT",
+      "anio": 2026,
+      "precio": 352800,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.5 L 4 cil. (105 HP)",
+      "potenciaHp": 105,
+      "rendimientoCombinadoKmL": 20.1,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-sedan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades. 6 bolsas de aire (frontales, laterales y de cortina). La ficha técnica oficial no lista sistema de pre-colisión ni frenado autónomo de emergencia en esta versión. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "S CVT",
+      "anio": 2026,
+      "precio": 367800,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil. (105 HP)",
+      "potenciaHp": 105,
+      "rendimientoCombinadoKmL": 18.54,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-sedan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "CVT con 7 velocidades simuladas. 6 bolsas de aire (frontales, laterales y de cortina). La ficha técnica oficial no lista sistema de pre-colisión ni frenado autónomo de emergencia en esta versión. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "S Hi CVT",
+      "anio": 2026,
+      "precio": 403800,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.5 L 4 cil. (105 HP)",
+      "potenciaHp": 105,
+      "rendimientoCombinadoKmL": 18.54,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-sedan/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "CVT con 7 velocidades simuladas. 6 bolsas de aire (frontales, laterales y de cortina). Incluye Toyota Safety Sense con sistema de pre-colisión y detección de peatones. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "HEV",
+      "anio": 2026,
+      "precio": 450000,
+      "moneda": "MXN",
+      "transmision": "e-cvt",
+      "motor": "1.5 L 4 cil. híbrido (110 HP combinados)",
+      "potenciaHp": 110,
+      "rendimientoCombinadoKmL": 29.4,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/hibridos/yaris-sedan-hev/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable (la ficha lo nombra S HEV). Transmisión de engranaje planetario. 6 bolsas de aire (frontales, laterales y de cortina). Incluye Toyota Safety Sense con sistema de pre-colisión y detección de peatones. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "36 meses o 60,000 km, lo que ocurra primero (garantía de todos los autos nuevos Toyota; cubre defectos de materiales o mano de obra)",
+    "fuente": "Toyota México (sitio oficial, Cuidamos tu auto)",
+    "url": "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.toyota.mx/modelos/sedanes-y-hatchbacks/yaris-sedan/",
+    "https://www.toyota.mx/modelos/hibridos/yaris-sedan-hev/",
+    {
+      "nombre": "Ficha técnica oficial Yaris Sedán 2026",
+      "url": "https://www.toyota.mx/content/dam/tmex/yaris-sedan/ficha/Ficha_Tecnica_Yaris_Sedan_26_web.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Yaris Sedán HEV 2026",
+      "url": "https://www.toyota.mx/content/dam/tmex/yaris-sedan-hev/ficha-tecnica/Ficha_Tecnica_Yaris_Sedan_HEV_26_web_.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Toyota publica una sola cifra de rendimiento por tipo de transmisión (20.10 km/l manual y 18.54 km/l CVT) y 29.4 km/l para el HEV",
+    "Propulsión: el modelo mezcla versiones de gasolina y una híbrida (HEV, ficha aparte en toyota.mx); el campo propulsion se dejó en gasolina",
+    "Sin oferta o promoción vigente publicada por Toyota para Yaris Sedán en octubre 2026",
+    "El Yaris Hatchback tiene archivo aparte (yaris.json)"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "marca": "Changan",
+  "marcaSlug": "changan",
+  "modelo": "CS95 Plus",
+  "slug": "cs95-plus",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Plus Premium 4WD",
+      "anio": 2026,
+      "precio": null,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.0 L turbo 4 cil.",
+      "potenciaHp": 229,
+      "rendimientoCombinadoKmL": 11.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Changan México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.changan.mx/models/cs95-plus",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Sin precio de lista publicado: la página solo muestra un \"precio especial de promoción\" de $699,900. 229 hp, automática de 8 velocidades, tracción integral. Rendimiento de laboratorio de la versión integral: ciudad 9.6, carretera 13.7 y combinado 11.5 km/l. 6 bolsas de aire (frontales, laterales y de cortina). Frenado autónomo de emergencia con detección de peatones según la ficha. Clima de tres zonas, audio Pioneer de 10 bocinas."
+    }
+  ],
+  "garantia": {
+    "texto": "Defensa a defensa 5 años o 150,000 km; tren motriz 7 años o 200,000 km (lo que ocurra primero); asistencia vial 24/7. Consulte la póliza de garantía",
+    "fuente": "Changan México (sitio oficial, página de garantía)",
+    "url": "https://www.changan.mx/ownerService/Garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "CS95 Plus Premium 4WD 2026: precio especial de promoción de $699,900",
+      "precioOferta": 699900,
+      "condicion": "Changan no publica el precio de lista de esta versión. La página del modelo muestra el bono junto al precio de lista sin publicar vigencia ni condiciones.",
+      "vigenciaHasta": null,
+      "fuente": "Changan México (sitio oficial, página del modelo)",
+      "url": "https://www.changan.mx/models/cs95-plus",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página oficial Changan CS95 Plus",
+      "url": "https://www.changan.mx/models/cs95-plus",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial CS95 Plus",
+      "url": "https://www.changan.mx/file/manual/CS95-PLUS.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Changan México",
+      "url": "https://www.changan.mx/ownerService/Garantia",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Precio de lista no publicado: solo hay \"precio especial de promoción\" de $699,900; falta confirmar el precio de lista con Changan"
+  ]
+}

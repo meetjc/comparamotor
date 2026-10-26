@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/np300.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $439,990 (vigencia 01-oct a 02-nov-2026). Chasis cabina, manual de 6 velocidades, tracción 2WD, carga 1,428 kg y arrastre 1,588 kg. Solo bolsas de aire frontales (2). Rendimiento del catálogo PDF 2026 y de la comparación web: ciudad 10.10, carretera 14.80, combinado 11.80 km/l. Sin frenado autónomo (solo el Pick Up lo trae)."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/np300.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $441,990 (vigencia 01-oct a 02-nov-2026). Caja de carga, manual de 6 velocidades, tracción 2WD, carga 1,226 kg y arrastre 1,588 kg. 6 bolsas de aire (frontales, laterales y cortina). Incluye Frenado Inteligente de Emergencia (I-FEB), Alerta de Colisión Frontal y Monitor de Alerta al Conductor. Rendimiento del catálogo PDF 2026: ciudad 10.10, carretera 14.80, combinado 11.80 km/l."
     },
     {
@@ -57,7 +57,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/np300.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "Precio CrediNissan (solo crédito tradicional con NR Finance México, sujeto a aprobación): $471,990 (vigencia 01-oct a 02-nov-2026). Chasis cabina diésel, manual de 6 velocidades, tracción 2WD, carga 1,326 kg y arrastre 3,500 kg. Solo bolsas de aire frontales (2). Rendimiento del catálogo PDF 2026: ciudad 12.90, carretera 15.50, combinado 14.00 km/l. Sin frenado autónomo."
     }
   ],
@@ -74,7 +74,7 @@
       "vigenciaHasta": "2026-11-02",
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/np300.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     },
     {
       "descripcion": "Hasta 36 meses sin intereses o un bono de hasta $60,000 (leyenda del encabezado de la página del modelo).",
@@ -83,7 +83,7 @@
       "vigenciaHasta": null,
       "fuente": "Nissan México (sitio oficial)",
       "url": "https://www.nissan.com.mx/vehiculos/todos/np300.html",
-      "fechaVerificacion": "2026-10-20"
+      "fechaVerificacion": "2026-10-25"
     }
   ],
   "fuentes": [

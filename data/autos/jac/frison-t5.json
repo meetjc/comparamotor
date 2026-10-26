@@ -1,0 +1,76 @@
+{
+  "marca": "JAC",
+  "marcaSlug": "jac",
+  "modelo": "Frison T5",
+  "slug": "frison-t5",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Cabina sencilla MT",
+      "anio": 2027,
+      "precio": 395000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L turbo 4 cil.",
+      "potenciaHp": 174,
+      "rendimientoCombinadoKmL": 14.02,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/frisonT5",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Pickup de trabajo de cabina sencilla (2 plazas), manual de 6 velocidades, capacidad de carga de 1,235 kg. 2 bolsas de aire (conductor y pasajero). La ficha no incluye frenado autónomo de emergencia. Rendimiento combinado de 14.02 km/l según la tabla oficial de JAC."
+    },
+    {
+      "nombre": "Cabina sencilla MT",
+      "anio": 2026,
+      "precio": 389000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L turbo 4 cil.",
+      "potenciaHp": 174,
+      "rendimientoCombinadoKmL": 14.02,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/frisonT5",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Año modelo 2026 de la misma versión. Datos técnicos de la ficha oficial (año 2027) y de la página."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero, de acuerdo con la póliza de garantía vigente (aplican términos y condiciones)",
+    "fuente": "JAC México (sitio oficial: ficha técnica y términos de garantías)",
+    "url": "https://www.jac.mx/legales/terminos-condiciones-garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Frison T5 (página oficial)",
+      "url": "https://www.jac.mx/frisonT5",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Frison T5 2027",
+      "url": "https://s3-giant-motors-cms-media-prod.s3.us-east-1.amazonaws.com/Ficha%20te%C3%8Ccnica%20Frison%20T5.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Tabla oficial de rendimiento combinado JAC (año modelo 2026/2027), sección legal",
+      "url": "https://www.jac.mx/legales",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La potencia (174 hp) sale de la página del modelo; la ficha solo indica 2.0 L turbo de 4 cilindros",
+    "La ficha escribe '(6)' en la línea de bolsas de conductor y pasajero; la página indica 2 bolsas, que es lo que se usó",
+    "No se incluyó la Frison T5 Chasis ($369,000), versión chasis-cabina para carrocerías de trabajo",
+    "Sin oferta con condiciones publicada para este modelo en el sitio de JAC al 25-oct-2026; JAC aclara que sus precios son los recomendados al distribuidor"
+  ]
+}

@@ -23,7 +23,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
       "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Única versión con motor 1.4 L. Asistente de evasión de colisión frontal (FCA): no incluido."
     },
     {
@@ -40,7 +40,7 @@
       "frenadoAutonomoEmergencia": false,
       "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
       "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Asistente de evasión de colisión frontal (FCA): no incluido."
     },
     {
@@ -57,7 +57,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
       "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Incluye Asistente de evasión de colisión frontal (FCA), mantenimiento de carril y asistente de luces altas."
     },
     {
@@ -74,7 +74,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
       "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Incluye Asistente de evasión de colisión frontal (FCA), mantenimiento de carril y asistente de luces altas."
     },
     {
@@ -91,7 +91,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
       "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Incluye Asistente de evasión de colisión frontal (FCA), mantenimiento de carril y asistente de luces altas."
     },
     {
@@ -108,7 +108,7 @@
       "frenadoAutonomoEmergencia": true,
       "fuente": "Kia México (sitio oficial: página de precios y especificaciones)",
       "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
-      "fechaVerificacion": "2026-10-20",
+      "fechaVerificacion": "2026-10-25",
       "notas": "6 bolsas de aire (2 frontales, 2 laterales, 2 cortina). Transmisión de 6 velocidades. Rendimiento combinado oficial con condiciones de laboratorio (NOM-163). Motor y rendimiento según la tabla de la web de Kia (octubre 2026); la ficha técnica PDF de febrero 2026 indica 2.0 L, 150 HP y 16.8 km/l para GT-Line. Incluye FCA, ángulo muerto (BCA) y tráfico cruzado trasero (RCCA)."
     }
   ],
@@ -147,17 +147,46 @@
     }
   ],
   "fuentes": [
-    "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
-    "https://www.kia.com/mx/showroom/k3-sedan.html",
-    "https://www.kia.com/content/dam/kwcms/mx/es/pdf/brochures/Web_FICHA_K3_Sedan_Febrero_2026.pdf",
-    "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-k3-sedan-hatchback.html",
-    "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-k3-sedan-hatchback-msi.html",
-    "https://dealers.kia.com/mx/satelite/shopping-tools/promociones-new/promocion-k3-sedan.html"
+    {
+      "nombre": "Precios y especificaciones Kia K3 Sedán 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/k3-sedan/specification.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Página del modelo Kia K3 Sedán 2027 (Kia México)",
+      "url": "https://www.kia.com/mx/showroom/k3-sedan.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Kia K3 Sedán 2027",
+      "url": "https://www.kia.com/content/dam/kwcms/mx/es/pdf/brochures/Web_FICHA_K3_Sedan_Febrero_2026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Kia K3 Sedán 2027 (Kia México)",
+      "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-k3-sedan-hatchback.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Kia K3 Sedán 2027 (Kia México)",
+      "url": "https://www.kia.com/content/kwcms/mx/es/shopping-tools/promociones-new/promocion-k3-sedan-hatchback-msi.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Kia K3 Sedán 2027 (Kia México)",
+      "url": "https://dealers.kia.com/mx/satelite/shopping-tools/promociones-new/promocion-k3-sedan.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Kia México",
+      "url": "https://www.kia.com/mx/owners/warranty-recalls.html",
+      "tipo": "oficial"
+    }
   ],
   "pendientes": [
-    "GT-Line TA: la web de Kia (oct 2026) muestra motor 1.6 L 121 HP y 19.16 km/l, pero la ficha técnica PDF de febrero 2026 indica 2.0 L, 150 HP y 16.8 km/l; se usó la web (más reciente); confirmar con Kia",
     "La ficha PDF lista además una versión EX PACK TA (pantalla 10.25 pulgadas, piel artificial); no aparece en la lista de precios de la web, por eso no se incluyó",
-    "El modelo se sigue llamando 'K3 Sedán' en el sitio oficial (año modelo 2027); Kia también vende K3 Hatchback (desde $358,800) y K4 Sedán, que no se incluyeron",
-    "FCA (Asistente de evasión de colisión frontal) se tomó como el frenado autónomo de emergencia de Kia"
+    "El modelo se sigue llamando 'K3 Sedán' en el sitio oficial (año modelo 2027); K3 Hatchback y K4 Sedán tienen su propio archivo (k3-hatchback y k4-sedan)",
+    "FCA (Asistente de evasión de colisión frontal) se tomó como el frenado autónomo de emergencia de Kia",
+    "GT-Line TA: la web de Kia (25-oct-2026) muestra motor 1.6 L de 121 hp y 19.16 km/l; la ficha PDF de febrero de 2026 decía 2.0 L, 150 hp y 16.8 km/l. Se usó la web, que es más reciente"
   ]
 }

@@ -1,0 +1,73 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Equinox EV",
+  "slug": "equinox-ev",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "estadounidense",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "RS",
+      "anio": 2026,
+      "precio": 900000,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, tracción delantera",
+      "potenciaHp": 241,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 513,
+      "bolsasAire": 8,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/equinox-ev-suv-electrica-deportiva/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio financiado o de arrendamiento $785,000 (ver ofertas). Autonomía desde 513 km por carga según EPA. 8 bolsas de aire (frontales, laterales, de cortina y de rodilla). Incluye frenado de emergencia automático. La variante RS Bitono tiene el mismo precio de lista."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Equinox EV RS: precio de contado $900,000 y precio financiado o de arrendamiento $785,000 (precio de lista $900,000). Promociones publicadas: De contado: 1 Año de seguro ¡Gratis! Con financiamiento: 24 Meses Sin Intereses, 1 año de seguro ¡Gratis!, Bono de $115,000.",
+      "precioOferta": 785000,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/equinox-ev/CHEQU01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Equinox EV",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/equinox-ev-suv-electrica-deportiva/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Equinox EV (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/equinox-ev/CHEQU01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Equinox EV",
+      "url": "https://www.chevrolet.com.mx/vehiculos-electricos/equinox-ev-suv-electrica-deportiva/espacificaciones-automotriz",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Equinox EV 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/electric/2026-equinox-ev/mov/02-pdf/Ficha-Tecnica-Equinox-EV-2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La variante RS Bitono (mismo precio) no se registró como versión aparte.",
+    "Capacidad de la batería en kWh no publicada en la ficha.",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

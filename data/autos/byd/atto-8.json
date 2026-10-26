@@ -1,0 +1,57 @@
+{
+  "marca": "BYD",
+  "marcaSlug": "byd",
+  "modelo": "Atto 8",
+  "slug": "atto-8",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "china",
+  "propulsion": "hibrido-enchufable",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Atto 8 DM-p AWD",
+      "anio": 2026,
+      "precio": 1199800,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "1.5 L híbrido enchufable (110 kW) + 2 motores eléctricos de 200 kW; batería Blade 35.6 kWh",
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 152,
+      "bolsasAire": 9,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BYD México (sitio oficial: configurador y ficha técnica)",
+      "url": "https://www.byd.com/mx/car/atto-8",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "SUV de 7 plazas híbrido enchufable de alto desempeño (DM-p), tracción integral, 0-100 km/h en 4.9 s. Autonomía eléctrica NEDC de 152 km y combinada de 1,030 km. Carga DC 30-80% en 20 min. 9 bolsas de aire inferidas de la ficha (2 frontales, una central entre asientos delanteros, laterales delanteras y de segunda fila, y cortina). Frenado automático de emergencia según la ficha. Precio del configurador oficial (código CX004036)."
+    }
+  ],
+  "garantia": {
+    "texto": null,
+    "fuente": null,
+    "url": null
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "BYD Atto 8 en BYD México",
+      "url": "https://www.byd.com/mx/car/atto-8",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BYD Atto 8",
+      "url": "https://www.byd.com/material/__CN/byd-site/mx/flyers/september/BYD%20ATTO8%20flyer-dmp-ES-20260911.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Potencia en hp: BYD publica la potencia en kW",
+    "Rendimiento: la ficha no publica consumo en km/l",
+    "Año modelo: el sitio no lo indica; se tomó 2026 por la fecha de la ficha (septiembre 2026)",
+    "Cifra total de bolsas de aire inferida de los tipos listados en la ficha",
+    "El PDF de ofertas de octubre menciona al Atto 8 sin detallar la oferta",
+    "Garantía oficial de este modelo: su página y su ficha no la publican; BYD México publica 6 años o 150,000 km (vehículo) y 8 años o 200,000 km (batería) en las páginas del King y del Song Pro DM-i, sin confirmar para este modelo",
+    "Tipo de transmisión: BYD no la nombra; se marcó como directa"
+  ]
+}

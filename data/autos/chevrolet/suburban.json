@@ -1,0 +1,124 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Suburban",
+  "slug": "suburban",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "LT",
+      "anio": 2026,
+      "precio": 2056500,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "5.3 L V8",
+      "potenciaHp": 355,
+      "rendimientoCombinadoKmL": 9.8,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/suvs/suburban-camioneta-grande/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $1,916,500 y precio financiado o de arrendamiento $1,931,500 (ver ofertas). Automática de 10 velocidades, tracción 4x2. La ficha lista \"asistente y alerta de colisión frontal\" sin decir si frena de forma automática."
+    },
+    {
+      "nombre": "RST",
+      "anio": 2026,
+      "precio": 2181100,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "5.3 L V8",
+      "potenciaHp": 355,
+      "rendimientoCombinadoKmL": 9.0,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/suvs/suburban-camioneta-grande/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $2,041,100 y precio financiado o de arrendamiento $2,056,100 (ver ofertas). Automática de 10 velocidades, tracción 4x4."
+    },
+    {
+      "nombre": "High Country",
+      "anio": 2026,
+      "precio": 2260100,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "6.2 L V8",
+      "potenciaHp": 425,
+      "rendimientoCombinadoKmL": 9.1,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/suvs/suburban-camioneta-grande/precios-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $2,120,100 y precio financiado o de arrendamiento $2,135,100 (ver ofertas). Automática de 10 velocidades, tracción 4x4."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Suburban LT: precio de contado $1,916,500 y precio financiado o de arrendamiento $1,931,500 (precio de lista $2,056,500). Promociones publicadas: De contado: Bono de $140,000. Con financiamiento: Hasta 12 MSI, Bono de $125,000, 1 Año de seguro ¡Gratis!",
+      "precioOferta": 1916500,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/suburban/CHSUB01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Suburban RST: precio de contado $2,041,100 y precio financiado o de arrendamiento $2,056,100 (precio de lista $2,181,100). Promociones publicadas: De contado: Bono de $140,000. Con financiamiento: Hasta 12 MSI, Bono de $125,000, 1 Año de seguro ¡Gratis!",
+      "precioOferta": 2041100,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/suburban/CHSUB01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    },
+    {
+      "descripcion": "Suburban High Country: precio de contado $2,120,100 y precio financiado o de arrendamiento $2,135,100 (precio de lista $2,260,100). Promociones publicadas: De contado: Bono de $140,000. Con financiamiento: Hasta 12 MSI, Bono de $125,000, 1 Año de seguro ¡Gratis!",
+      "precioOferta": 2120100,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/suburban/CHSUB01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Suburban",
+      "url": "https://www.chevrolet.com.mx/suvs/suburban-camioneta-grande/precios-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Suburban (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2026/suburban/CHSUB01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Suburban",
+      "url": "https://www.chevrolet.com.mx/suvs/suburban-camioneta-grande/especificaciones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Suburban 2026",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/crossovers-suvs/2026-suburban/mov/02-pdf/ficha-tecnica-suburban-2026.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Frenado autónomo de emergencia frontal sin confirmar (la ficha sí lista frenado de prevención en reversa).",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

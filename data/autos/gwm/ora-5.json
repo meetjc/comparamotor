@@ -1,0 +1,97 @@
+{
+  "marca": "GWM",
+  "marcaSlug": "gwm",
+  "modelo": "ORA 5",
+  "slug": "ora-5",
+  "carroceria": "suv",
+  "segmento": "suv-compacta",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Gasolina Premium",
+      "anio": 2026,
+      "precio": 449900,
+      "moneda": "MXN",
+      "transmision": "doble-embrague",
+      "motor": "1.5 L turbo",
+      "potenciaHp": 140,
+      "rendimientoCombinadoKmL": 14.5,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/ora-5",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble embrague de 7 velocidades, 140 hp y 154 lb-ft, tracción delantera. 6 bolsas de aire (frontales, laterales y cortina). Pantalla de 14.6\". Según la ficha, el frenado autónomo de emergencia no viene en esta versión."
+    },
+    {
+      "nombre": "Híbrida Luxury",
+      "anio": 2026,
+      "precio": 574900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L turbo + motor eléctrico (híbrido, batería de 1.09 kWh)",
+      "potenciaHp": 219,
+      "rendimientoCombinadoKmL": 22.7,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/ora-5",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido convencional: 219 hp y 351 lb-ft combinados, transmisión DHT. 7 bolsas de aire (incluye bolsa central entre asientos delanteros). Más de 15 asistencias a la conducción, incluido frenado autónomo de emergencia."
+    },
+    {
+      "nombre": "Eléctrica Luxury",
+      "anio": 2026,
+      "precio": 644900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Motor eléctrico síncrono de imanes permanentes; batería LFP de 58.33 kWh",
+      "potenciaHp": 201,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 520,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "GWM México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.gwm-mx.com/es/models/ora-5",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Eléctrico con reductora de 1 velocidad, 201 hp y 191 lb-ft (la página dice 194). Autonomía de 520 km (NEDC). Función V2L y techo panorámico. 7 bolsas de aire y frenado autónomo de emergencia."
+    }
+  ],
+  "garantia": {
+    "texto": "7 años de garantía defensa a defensa sin límite de kilometraje (GWM Care); baterías de alto voltaje de híbridos y eléctricos: 8 años o 150,000 km, lo que ocurra primero; programa anticorrosión y pintura de 7 años. Requiere servicios cada 6 meses o 10,000 km en distribuidor autorizado",
+    "fuente": "GWM México (sitio oficial: GWM Care, garantía)",
+    "url": "https://www.gwm-mx.com/es/owner/care/warranty"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "ORA 5 (página oficial)",
+      "url": "https://www.gwm-mx.com/es/models/ora-5",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial ORA 5",
+      "url": "https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/pdf/gwm-ora5-ficha-tecnica.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ofertas GWM México",
+      "url": "https://www.gwm-mx.com/es/offer",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía GWM Care",
+      "url": "https://www.gwm-mx.com/es/owner/care/warranty",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Promoción en la página de ofertas de GWM al 25-oct-2026: ORA 5 con mensualidad desde $5,333 + 0% comisión por apertura; el sitio no publica condiciones ni vigencia (solo asterisco), por eso no se registró como oferta",
+    "El ORA 03 (Good Cat) ya no se vende: su página del sitio oficial redirige al ORA 5",
+    "Año 2026 tomado de la página del modelo; la ficha no lo indica"
+  ]
+}

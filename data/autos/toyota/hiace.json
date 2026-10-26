@@ -1,0 +1,85 @@
+{
+  "marca": "Toyota",
+  "marcaSlug": "toyota",
+  "modelo": "Hiace",
+  "slug": "hiace",
+  "carroceria": "van",
+  "segmento": "van",
+  "origenMarca": "japonesa",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "Ventanas",
+      "anio": 2026,
+      "precio": 739000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "3.5 L V6 (277 HP)",
+      "potenciaHp": 277,
+      "rendimientoCombinadoKmL": 8.3,
+      "autonomiaKm": null,
+      "bolsasAire": 3,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/pickup/hiace/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 6 velocidades, tracción trasera. 3 bolsas de aire (2 frontales y 1 de rodillas). Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "Panel",
+      "anio": 2026,
+      "precio": 765800,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.8 L 4 cil. diésel (174 HP)",
+      "potenciaHp": 174,
+      "rendimientoCombinadoKmL": 7.82,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/pickup/hiace/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Diésel. Manual de 6 velocidades, tracción trasera. 2 bolsas de aire frontales. Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    },
+    {
+      "nombre": "12 Pasajeros",
+      "anio": 2026,
+      "precio": 833300,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": null,
+      "potenciaHp": null,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": 3,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Toyota México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.toyota.mx/modelos/pickup/hiace/",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Espacio para 12 pasajeros. Manual de 6 velocidades. 3 bolsas de aire (2 frontales y 1 de rodillas). Precio de lista \"Desde\" publicado por Toyota en la página del modelo."
+    }
+  ],
+  "garantia": {
+    "texto": "36 meses o 60,000 km, lo que ocurra primero (garantía de todos los autos nuevos Toyota; cubre defectos de materiales o mano de obra)",
+    "fuente": "Toyota México (sitio oficial, Cuidamos tu auto)",
+    "url": "https://www.toyota.mx/propietarios-toyota/servicios/cuidamos-tu-auto/"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.toyota.mx/modelos/pickup/hiace/",
+    {
+      "nombre": "Ficha técnica oficial Hiace 2026",
+      "url": "https://www.toyota.mx/content/dam/tmex/hiace/ficha-tecnica/Ficha_Tecnica_HIACE_26_web.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Motor de la Hiace 12 Pasajeros: la página y la ficha no dicen si lleva el 3.5 L de gasolina o el 2.8 L diésel; potencia y rendimiento quedaron por confirmar",
+    "Rendimiento: toyota.mx publica 8.30 km/l para MT gasolina y 7.82 km/l para MT diésel",
+    "Frenado autónomo de emergencia no confirmado: la ficha técnica no menciona sistema de pre-colisión",
+    "Toyota la lista en Pickups y comerciales; se clasificó como van",
+    "Sin oferta o promoción vigente publicada por Toyota para Hiace en octubre 2026"
+  ]
+}

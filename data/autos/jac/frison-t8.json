@@ -1,0 +1,58 @@
+{
+  "marca": "JAC",
+  "marcaSlug": "jac",
+  "modelo": "Frison T8",
+  "slug": "frison-t8",
+  "carroceria": "pickup",
+  "segmento": "pickup-mediana",
+  "origenMarca": "china",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "MT",
+      "anio": 2026,
+      "precio": 459000,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "2.0 L turbo",
+      "potenciaHp": 174,
+      "rendimientoCombinadoKmL": 14.02,
+      "autonomiaKm": null,
+      "bolsasAire": 2,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "JAC México (sitio oficial: selector de versiones y precios de la página del modelo, y ficha técnica)",
+      "url": "https://www.jac.mx/frisonT8",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Doble cabina (2+3 plazas), manual de 6 velocidades, tracción 4x2, 174 hp @ 5,000 rpm. 2 bolsas de aire (conductor y pasajero). Incluye roll-bar y protector de caja; la ficha no incluye frenado autónomo de emergencia. Rendimiento combinado de 14.02 km/l según la tabla oficial 2026/2027 (la ficha 2026 dice 15 km/l)."
+    }
+  ],
+  "garantia": {
+    "texto": "5 años o 100,000 km, lo que ocurra primero, de acuerdo con la póliza de garantía vigente (aplican términos y condiciones)",
+    "fuente": "JAC México (sitio oficial: ficha técnica y términos de garantías)",
+    "url": "https://www.jac.mx/legales/terminos-condiciones-garantias"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Frison T8 (página oficial)",
+      "url": "https://www.jac.mx/frisonT8",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Frison T8 2026",
+      "url": "https://s3-giant-motors-cms-media-prod.s3.us-east-1.amazonaws.com/Ficha%20te%C3%8Ccnica%20Frison%20T8%202026.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Tabla oficial de rendimiento combinado JAC (año modelo 2026/2027), sección legal",
+      "url": "https://www.jac.mx/legales",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento: la ficha 2026 dice 15 km/l y la tabla oficial más reciente 14.02 km/l; se usó la tabla",
+    "La Frison T8 diésel y la Frison T6 aparecían en la tabla 2025 pero ya no se venden en el sitio",
+    "Sin oferta con condiciones publicada para este modelo en el sitio de JAC al 25-oct-2026; JAC aclara que sus precios son los recomendados al distribuidor"
+  ]
+}

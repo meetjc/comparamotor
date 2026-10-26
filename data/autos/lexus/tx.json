@@ -1,0 +1,51 @@
+{
+  "marca": "Lexus",
+  "marcaSlug": "lexus",
+  "modelo": "TX",
+  "slug": "tx",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido",
+  "anioModeloVigente": 2026,
+  "versiones": [
+    {
+      "nombre": "TX 500h F SPORT",
+      "anio": 2026,
+      "precio": 1851900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "2.4 L 4 cil. turbo híbrido (366 HP combinados)",
+      "potenciaHp": 366,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "Lexus México (sitio oficial: página del modelo y ficha técnica)",
+      "url": "https://www.lexus.mx/modelos/TXh",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Híbrido autorrecargable con dos motores eléctricos, tres filas de asientos. Automática de 6 velocidades. La ficha técnica incluye Pre-Collision System (sistema de precolisión). Precio de lista publicado por Lexus en la página del modelo (Lexus indica que debe confirmarse con el distribuidor)."
+    }
+  ],
+  "garantia": {
+    "texto": "4 años u 80,000 km (la batería híbrida está cubierta por el mismo periodo)",
+    "fuente": "Lexus México (sitio oficial, Garantía)",
+    "url": "https://www.lexus.mx/servicio/garantia"
+  },
+  "ofertas": [],
+  "fuentes": [
+    "https://www.lexus.mx/modelos/TXh",
+    {
+      "nombre": "Ficha técnica oficial Lexus TX 2026",
+      "url": "https://www.lexus.mx/content/dam/lexus-mx/documentos/ficha-tecnica/2026/Ficha-Tecnica-TX-26MY.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Rendimiento de combustible oficial: la ficha técnica PDF y la página del modelo no muestran la cifra en texto; queda por confirmar",
+    "Lexus Financial Services anuncia promociones de octubre 2026 para NX Hybrid, RX y TX 500h F SPORT, pero las condiciones solo aparecen en imágenes y ventanas emergentes; no se registraron como ofertas",
+    "Número total de bolsas de aire: la ficha técnica no lo indica en texto",
+    "Lexus México solo ofrece la versión TX 500h F SPORT",
+    "Clasificación del segmento (suv-grande) es criterio editorial, no viene de la marca"
+  ]
+}

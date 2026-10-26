@@ -1,0 +1,57 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "X6 M",
+  "slug": "x6-m",
+  "carroceria": "suv",
+  "segmento": "deportivo",
+  "origenMarca": "alemana",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Competition",
+      "anio": 2027,
+      "precio": 2976900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "V8 4.4 L biturbo (M TwinPower) mild hybrid",
+      "potenciaHp": 625,
+      "rendimientoCombinadoKmL": 9.2,
+      "autonomiaKm": null,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Mild hybrid. M Steptronic de 8 velocidades, tracción integral M xDrive. Bolsas de aire frontales, laterales, de cabeza y de rodilla para el conductor (la ficha no da el número). Aviso de colisión frontal; la ficha no confirma frenado automático de emergencia frontal. Precio sugerido con IVA, ISAN y transportación según BMW."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW X6 M (página oficial)",
+      "url": "https://www.bmw.com.mx/es/modelos/autos-bmw-serie-m/x6-m/bmw-x6-m-models.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW X6 M Competition 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/M/BMW%20X6%20M%20Competition%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "marca": "Fiat",
+  "marcaSlug": "fiat",
+  "modelo": "Pulse",
+  "slug": "pulse",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "italiana",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "Drive",
+      "anio": 2027,
+      "precio": 399900,
+      "moneda": "MXN",
+      "transmision": "manual",
+      "motor": "1.3 L 4 cil.",
+      "potenciaHp": 97,
+      "rendimientoCombinadoKmL": 18.24,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Fiat México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.fiat.com.mx/pulse.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Manual de 5 velocidades. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). La ficha lista asistencia de frenado de emergencia, pero no frenado automático por alerta de colisión. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    },
+    {
+      "nombre": "Drive Plus CVT",
+      "anio": 2027,
+      "precio": 420900,
+      "moneda": "MXN",
+      "transmision": "cvt",
+      "motor": "1.3 L 4 cil.",
+      "potenciaHp": 97,
+      "rendimientoCombinadoKmL": 19.13,
+      "autonomiaKm": null,
+      "bolsasAire": 4,
+      "frenadoAutonomoEmergencia": false,
+      "fuente": "Fiat México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.fiat.com.mx/pulse.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "CVT con 7 velocidades simuladas. 4 bolsas de aire (frontales y laterales delanteras para conductor y pasajero). Sin frenado automático por alerta de colisión según la ficha. Datos técnicos de la ficha 2026. Precio de lista con IVA e ISAN de la lista oficial de precios de la marca (vigencia del 1 de octubre al 3 de noviembre de 2026)."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía 360 defensa a defensa por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "Fiat México (sitio oficial, ficha técnica)",
+    "url": "https://www.fiat.com.mx/content/dam/cross-regional/nafta/fiat/es_mx/2026/pulse-2026/documentos-tecnicos/FT%20PULSE_2026%20VERTICAL_07MAY2026_V7.pdf"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Fiat Pulse",
+      "url": "https://www.fiat.com.mx/pulse.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Lista oficial de precios Fiat",
+      "url": "https://www.fiat.com.mx/hostb/fiat_mx/JSONConversion/fiat/fiat-vehiculos.json",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Fiat Pulse 2026",
+      "url": "https://www.fiat.com.mx/content/dam/cross-regional/nafta/fiat/es_mx/2026/pulse-2026/documentos-tecnicos/FT%20PULSE_2026%20VERTICAL_07MAY2026_V7.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica publicada es 2026; los precios son 2027 (la Pulse 2026 cuesta $349,500 Drive y $369,000 Drive Plus CVT)",
+    "La lista oficial de precios también incluye unidades de años modelo anteriores con otros precios; aquí solo se muestran las del año modelo vigente. (Pulse 2024 y 2025)."
+  ]
+}

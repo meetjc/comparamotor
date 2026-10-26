@@ -1,0 +1,73 @@
+{
+  "marca": "Chevrolet",
+  "marcaSlug": "chevrolet",
+  "modelo": "Blazer",
+  "slug": "blazer",
+  "carroceria": "suv",
+  "segmento": "suv-mediana",
+  "origenMarca": "estadounidense",
+  "propulsion": "gasolina",
+  "anioModeloVigente": 2025,
+  "versiones": [
+    {
+      "nombre": "RS",
+      "anio": 2025,
+      "precio": 1174900,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "3.6 L V6",
+      "potenciaHp": 308,
+      "rendimientoCombinadoKmL": 12.2,
+      "autonomiaKm": null,
+      "bolsasAire": 7,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Chevrolet México (sitio oficial: tabla de precios, equipamiento y ficha técnica)",
+      "url": "https://www.chevrolet.com.mx/suvs/blazer-camioneta-mediana/precios-y-promociones",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Precio de lista con IVA e ISAN según la marca; precio de contado $990,900 y precio financiado o de arrendamiento $990,900 (ver ofertas). Automática de 9 velocidades. 7 bolsas de aire (incluye una de rodilla para el conductor). La tabla lista dos paquetes RS (C y F) con el mismo precio. La marca menciona \"asistente de colisión inminente\", sin decir si frena de forma automática."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o hasta 60,000 km (garantía de fábrica; cubre desperfectos mecánicos o eléctricos inesperados)",
+    "fuente": "Chevrolet México (sitio oficial, sección Garantía)",
+    "url": "https://www.chevrolet.com.mx/garantia"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Blazer RS: precio de contado $990,900 y precio financiado o de arrendamiento $990,900 (precio de lista $1,174,900). Promociones publicadas: De contado: Bono de $184,000 mxn, 1 año de seguro gratis. Con financiamiento: 24 Meses Sin Intereses, 1 año de seguro ¡Gratis!, ¡Comisión por Apertura Gratis!, Bono de $184,000 mxn, 1 año de seguro ¡Gratis!, ¡Comisión por Apertura Gratis!",
+      "precioOferta": 990900,
+      "condicion": "Sujeto a análisis y aprobación de crédito o arrendamiento por GM Financial de México. No aplica a flotillas ni con otras promociones; bonos no acumulables. CAT promedio 19.2% sin IVA (informativo). Vigencia del 01 de octubre al 02 de noviembre de 2026.",
+      "vigenciaHasta": "2026-11-02",
+      "fuente": "Chevrolet México (sitio oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2025/blazer/CHBLA01/precios.html",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Chevrolet México: precios y promociones Blazer",
+      "url": "https://www.chevrolet.com.mx/suvs/blazer-camioneta-mediana/precios-y-promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: tabla de precios Blazer (widget oficial)",
+      "url": "https://ppigmm.com.mx/servicios/html_gmds/2025/blazer/CHBLA01/precios.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Chevrolet México: especificaciones Blazer",
+      "url": "https://www.chevrolet.com.mx/suvs/blazer-camioneta-mediana/especificaciones-automotriz",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial Blazer 2025",
+      "url": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/crossovers-suvs/2025-blazer/mov/02-pdf/ficha-tecnica-blazer-2025-tld.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Chevrolet sigue vendiendo Blazer 2025; no hay año modelo 2026 publicado.",
+    "Frenado autónomo de emergencia sin confirmar (\"asistente de colisión inminente\").",
+    "Ofertas vigentes del 01 de octubre al 02 de noviembre de 2026; revisar al vencer."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "marca": "BMW",
+  "marcaSlug": "bmw",
+  "modelo": "iX",
+  "slug": "ix",
+  "carroceria": "suv",
+  "segmento": "suv-grande",
+  "origenMarca": "alemana",
+  "propulsion": "electrico",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "xDrive45",
+      "anio": 2027,
+      "precio": 1799900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, dos motores",
+      "potenciaHp": 408,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 602,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Eléctrico, batería de 94.3 kWh, hasta 602 km (WLTP). Tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Aviso de colisión frontal con función de frenado (ficha). Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "xDrive60",
+      "anio": 2027,
+      "precio": 2069900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, dos motores",
+      "potenciaHp": 544,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 701,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Eléctrico, batería de 108 kWh, hasta 701 km (WLTP). Tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Aviso de colisión frontal con función de frenado (ficha). Precio sugerido con IVA, ISAN y transportación según BMW."
+    },
+    {
+      "nombre": "M70 xDrive",
+      "anio": 2027,
+      "precio": 2539900,
+      "moneda": "MXN",
+      "transmision": "directa",
+      "motor": "Eléctrico, dos motores",
+      "potenciaHp": 659,
+      "rendimientoCombinadoKmL": null,
+      "autonomiaKm": 600,
+      "bolsasAire": null,
+      "frenadoAutonomoEmergencia": true,
+      "fuente": "BMW de México (sitio oficial: lista de precios y ficha técnica)",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Eléctrico, batería de 107.7 kWh, hasta 600 km (WLTP). Tracción integral xDrive. Bolsas de aire frontales, laterales y de cabeza (la ficha no da el número). Aviso de colisión frontal con función de frenado (ficha). Precio sugerido con IVA, ISAN y transportación según BMW."
+    }
+  ],
+  "garantia": {
+    "texto": "Garantía BMW por 3 años o 200,000 km (lo que ocurra primero) y Mantenimiento Total BMW por 3 años o 60,000 km (lo que ocurra primero)",
+    "fuente": "BMW de México (sitio oficial: fichas técnicas de la lista de precios)",
+    "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html"
+  },
+  "ofertas": [],
+  "fuentes": [
+    {
+      "nombre": "Lista de precios BMW México",
+      "url": "https://www.bmw.com.mx/es/local/lista-de-precios-de-autos-bmw.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "BMW iX (página oficial)",
+      "url": "https://www.bmw.com.mx/es/modelos/i-series/ix/bmw-ix.html",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW iX xDrive45 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/ix/v2/BMW%20iX%20xDrive45%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW iX xDrive60 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/ix/v2/BMW%20iX%20xDrive60%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Ficha técnica oficial BMW iX M70 xDrive 2027",
+      "url": "https://www.bmw.com.mx/content/dam/bmw/marketMX/bmw_com_mx/Descargas/Fichas-tecnicas-2027/octubre%202026/ix/v2/BMW%20iX%20M70%202027.pdf.coredownload.pdf",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "Las fichas de BMW describen las bolsas de aire por zona (frontales, laterales, de cabeza) sin dar el número total; el conteo queda por confirmar con BMW",
+    "BMW no publica ofertas con condiciones verificables en la lista de precios; no se registraron ofertas"
+  ]
+}

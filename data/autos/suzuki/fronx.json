@@ -1,0 +1,85 @@
+{
+  "marca": "Suzuki",
+  "marcaSlug": "suzuki",
+  "modelo": "Fronx",
+  "slug": "fronx",
+  "carroceria": "suv",
+  "segmento": "suv-subcompacta",
+  "origenMarca": "japonesa",
+  "propulsion": "hibrido-ligero",
+  "anioModeloVigente": 2027,
+  "versiones": [
+    {
+      "nombre": "GLS TA",
+      "anio": 2027,
+      "precio": 399990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. K15C BoosterGreen (híbrido ligero)",
+      "potenciaHp": 102,
+      "rendimientoCombinadoKmL": 20.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/fronx-boostergreen",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 6 velocidades, tracción delantera. Motor K15C de 102 hp. Sistema BoosterGreen: asistencia eléctrica de 12 V (híbrido ligero). 6 bolsas de aire (frontales, laterales y de cortina). Rendimiento: ciudad 18.96 y carretera 23.9 km/l. Precio de venta al público publicado por Suzuki (con IVA)."
+    },
+    {
+      "nombre": "GLX TA",
+      "anio": 2027,
+      "precio": 454990,
+      "moneda": "MXN",
+      "transmision": "automatica",
+      "motor": "1.5 L 4 cil. K15C BoosterGreen (híbrido ligero)",
+      "potenciaHp": 102,
+      "rendimientoCombinadoKmL": 20.9,
+      "autonomiaKm": null,
+      "bolsasAire": 6,
+      "frenadoAutonomoEmergencia": null,
+      "fuente": "Suzuki México (sitio oficial: página del modelo en autos.suzuki.com.mx)",
+      "url": "https://autos.suzuki.com.mx/cars/fronx-boostergreen",
+      "fechaVerificacion": "2026-10-25",
+      "notas": "Automática de 6 velocidades, tracción delantera. Motor K15C de 102 hp. Sistema BoosterGreen: asistencia eléctrica de 12 V (híbrido ligero). 6 bolsas de aire (frontales, laterales y de cortina). Rendimiento: ciudad 18.96 y carretera 23.9 km/l. Precio de venta al público publicado por Suzuki (con IVA)."
+    }
+  ],
+  "garantia": {
+    "texto": "3 años o 60,000 km, lo que ocurra primero (garantía limitada)",
+    "fuente": "Suzuki México (sitio oficial)",
+    "url": "https://autos.suzuki.com.mx/pages/garantias"
+  },
+  "ofertas": [
+    {
+      "descripcion": "Fronx BoosterGreen GLS 2027: financiamiento con tasa fija anual de 13.90%",
+      "precioOferta": null,
+      "condicion": "Crédito de Banco Santander México. CAT promedio 25.3% sin IVA (calculado al 30-jun-2026). Sujeto a aprobación de crédito",
+      "vigenciaHasta": "2026-10-31",
+      "fuente": "Suzuki México (sitio oficial, promociones)",
+      "url": "https://autos.suzuki.com.mx/pages/promociones",
+      "fechaVerificacion": "2026-10-25"
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Página del modelo Suzuki Fronx BoosterGreen (Suzuki México)",
+      "url": "https://autos.suzuki.com.mx/cars/fronx-boostergreen",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Promociones Suzuki México",
+      "url": "https://autos.suzuki.com.mx/pages/promociones",
+      "tipo": "oficial"
+    },
+    {
+      "nombre": "Garantía Suzuki México",
+      "url": "https://autos.suzuki.com.mx/pages/garantias",
+      "tipo": "oficial"
+    }
+  ],
+  "pendientes": [
+    "La ficha técnica PDF de Suzuki se entrega mediante un formulario de contacto, por lo que no se descargó",
+    "Frenado autónomo de emergencia: la tabla oficial no lo menciona",
+    "El año modelo 2027 se tomó de la página de promociones"
+  ]
+}
