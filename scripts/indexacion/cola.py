@@ -1,10 +1,11 @@
-# Arma o actualiza la cola de indexación (scripts/indexacion/cola.json) desde los sitemaps de dist/.
+# Arma o actualiza la cola de indexación (scripts/indexacion/cola.json) desde los sitemaps EN VIVO de comparamotor.com.
 # Conserva el estado de las URL ya revisadas y agrega las nuevas en orden de prioridad.
-import json, os, re
+import json, os, re, urllib.request
 R = os.path.expanduser('~/Projects/comparamotor'); P = f'{R}/scripts/indexacion/cola.json'
 urls = []
 for f in ['tramites', 'fichas', 'guias', 'noticias', 'general']:
-    urls += re.findall(r'<loc>([^<]+)</loc>', open(f'{R}/dist/sitemap-{f}.xml').read())
+    req = urllib.request.Request(f'https://comparamotor.com/sitemap-{f}.xml', headers={'User-Agent': 'ComparaMotor-indexacion/1.0'})
+    urls += re.findall(r'<loc>([^<]+)</loc>', urllib.request.urlopen(req, timeout=30).read().decode())
 
 def prio(u):
     p = u.replace('https://comparamotor.com', '')
