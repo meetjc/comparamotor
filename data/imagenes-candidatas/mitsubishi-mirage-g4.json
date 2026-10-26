@@ -1,0 +1,48 @@
+{
+  "marca": "Mitsubishi",
+  "modelo": "Mirage G4",
+  "marcaSlug": "mitsubishi",
+  "modeloSlug": "mirage-g4",
+  "generacionMexico": "Mirage G4 con el rediseño 2020",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mitsubishi_Mirage_G4_A10_FL_1.2_GLX_Red_Metallic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Mitsubishi_Mirage_G4_A10_FL_1.2_GLX_Red_Metallic.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Ethan Llamas",
+      "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4536,
+      "alto": 3024,
+      "anioOGeneracion": "2025 · Mirage G4 con el rediseño 2020",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Mitsubishi Mirage G4 A10 FL 1.2 GLX Red Metallic. Foto de 2025. Categoría Commons: Mitsubishi Mirage G4. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Mirage G4 con el rediseño 2020). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2024_Mitsubishi_Mirage_G4_ES_in_Wine_Red_Metallic%2C_front_left%2C_05-16-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Mitsubishi_Mirage_G4_ES_in_Wine_Red_Metallic,_front_left,_05-16-2026.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Cutlass",
+      "credito": "Foto: Cutlass / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 3740,
+      "alto": 2568,
+      "anioOGeneracion": "2026 · Mirage G4 con el rediseño 2020",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Mitsubishi Mirage G4 ES in Wine Red Metallic, front left, 05-16-2026. Foto de 2026. Categoría Commons: Mitsubishi Mirage G4. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Mirage G4 con el rediseño 2020). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

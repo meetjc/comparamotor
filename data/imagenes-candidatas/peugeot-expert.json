@@ -1,0 +1,48 @@
+{
+  "marca": "Peugeot",
+  "modelo": "Expert",
+  "marcaSlug": "peugeot",
+  "modeloSlug": "expert",
+  "generacionMexico": "Expert con el rediseño 2024 (la «Nueva Expert» de Peugeot México)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/2024_Peugeot_Expert_Professional_L1_BlueHDi_-_1499cc_1.5_%28120PS%29_Diesel_-_White_-_06-2024%2C_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Peugeot_Expert_Professional_L1_BlueHDi_-_1499cc_1.5_(120PS)_Diesel_-_White_-_06-2024,_Front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+      "autor": "Harvey Bold",
+      "credito": "Foto: Harvey Bold / Wikimedia Commons, CC BY 4.0",
+      "compartirIgual": false,
+      "ancho": 4232,
+      "alto": 2720,
+      "anioOGeneracion": "2024 · Expert con el rediseño 2024 (la «Nueva Expert» de Peugeot México)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Peugeot Expert Professional L1 BlueHDi - 1499cc 1.5 (120PS) Diesel - White - 06-2024, Front. Foto de 2024. Categoría Commons: Peugeot Expert III. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Expert con el rediseño 2024 (la «Nueva Expert» de Peugeot México)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/2024_Peugeot_Expert_III_IMG_2658.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Peugeot_Expert_III_IMG_2658.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4901,
+      "alto": 3262,
+      "anioOGeneracion": "2025 · Expert con el rediseño 2024 (la «Nueva Expert» de Peugeot México)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Peugeot Expert III IMG 2658. Foto de 2025. Categoría Commons: Peugeot Expert III. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Expert con el rediseño 2024 (la «Nueva Expert» de Peugeot México)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

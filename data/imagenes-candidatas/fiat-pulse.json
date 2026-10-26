@@ -1,0 +1,48 @@
+{
+  "marca": "Fiat",
+  "modelo": "Pulse",
+  "marcaSlug": "fiat",
+  "modeloSlug": "pulse",
+  "generacionMexico": "Pulse (2022+), mismo frente que muestra Fiat México",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Fiat_Pulse_Drive_1.3_2022_in_Montevideo_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Fiat_Pulse_Drive_1.3_2022_in_Montevideo_(front).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "NaBUru38",
+      "credito": "Foto: NaBUru38 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4600,
+      "alto": 3200,
+      "anioOGeneracion": "2022 · Pulse (2022+), mismo frente que muestra Fiat México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Fiat Pulse Drive 1.3 2022 in Montevideo (front). Foto de 2022. Categoría Commons: Fiat Pulse. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Pulse (2022+), mismo frente que muestra Fiat México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/2023_Fiat_Pulse_Impetus_%28Colombia%29_front_view_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Fiat_Pulse_Impetus_(Colombia)_front_view_01.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "autor": "Autosdeprimera",
+      "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+      "compartirIgual": false,
+      "ancho": 3042,
+      "alto": 1711,
+      "anioOGeneracion": "2022 · Pulse (2022+), mismo frente que muestra Fiat México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2023 Fiat Pulse Impetus (Colombia) front view 01. Foto de 2022. Categoría Commons: Fiat Pulse. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Pulse (2022+), mismo frente que muestra Fiat México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

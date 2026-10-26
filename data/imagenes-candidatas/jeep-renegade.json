@@ -1,0 +1,48 @@
+{
+  "marca": "Jeep",
+  "modelo": "Renegade",
+  "marcaSlug": "jeep",
+  "modeloSlug": "renegade",
+  "generacionMexico": "Renegade con el rediseño 2019",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/2022_Jeep_Renegade_Trailhawk_in_Bikini_Pearl%2C_front_right%2C_2025-09-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Jeep_Renegade_Trailhawk_in_Bikini_Pearl,_front_right,_2025-09-06.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Elise240SX",
+      "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5115,
+      "alto": 3306,
+      "anioOGeneracion": "2025 · Renegade con el rediseño 2019",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2022 Jeep Renegade Trailhawk in Bikini Pearl, front right, 2025-09-06. Foto de 2025. Categoría Commons: Jeep Renegade. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Renegade con el rediseño 2019). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Jeep_Renegade_Limited_BU_FL_Omaha_Orange_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Jeep_Renegade_Limited_BU_FL_Omaha_Orange_(3).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Damian B Oh",
+      "credito": "Foto: Damian B Oh / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3858,
+      "alto": 2893,
+      "anioOGeneracion": "2024 · Renegade con el rediseño 2019",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Jeep Renegade Limited BU FL Omaha Orange (3). Foto de 2024. Categoría Commons: Jeep Renegade. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Renegade con el rediseño 2019). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

@@ -1,0 +1,48 @@
+{
+  "marca": "Ram",
+  "modelo": "2500",
+  "marcaSlug": "ram",
+  "modeloSlug": "2500",
+  "generacionMexico": "Ram 2500 DT con el rediseño 2025",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/2025_RAM_2500_Regular_Cab_8%27_Box_4x4_Tradesman_in_Bright_White%2C_front_right%2C_2025-09-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_RAM_2500_Regular_Cab_8%27_Box_4x4_Tradesman_in_Bright_White,_front_right,_2025-09-07.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Elise240SX",
+      "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5277,
+      "alto": 3071,
+      "anioOGeneracion": "2025 · Ram 2500 DT con el rediseño 2025",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 RAM 2500 Regular Cab 8' Box 4x4 Tradesman in Bright White, front right, 2025-09-07. Foto de 2025. Categoría Commons: Ram 2500 (DT). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Ram 2500 DT con el rediseño 2025). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/2026_RAM_2500_Rebel_in_Bright_White%2C_front_left%2C_2026-06-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_RAM_2500_Rebel_in_Bright_White,_front_left,_2026-06-14.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Elise240SX",
+      "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5159,
+      "alto": 3091,
+      "anioOGeneracion": "2026 · Ram 2500 DT con el rediseño 2025",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2026 RAM 2500 Rebel in Bright White, front left, 2026-06-14. Foto de 2026. Categoría Commons: Ram 2500 (DT). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Ram 2500 DT con el rediseño 2025). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

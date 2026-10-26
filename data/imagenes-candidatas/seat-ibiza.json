@@ -1,0 +1,48 @@
+{
+  "marca": "SEAT",
+  "modelo": "Ibiza",
+  "marcaSlug": "seat",
+  "modeloSlug": "ibiza",
+  "generacionMexico": "Ibiza 6F con el rediseño 2021",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Seat_Ibiza_6F_Facelift_IMG_0117_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Seat_Ibiza_6F_Facelift_IMG_0117_(cropped).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander-93",
+      "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4683,
+      "alto": 2575,
+      "anioOGeneracion": "2024 · Ibiza 6F con el rediseño 2021",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Seat Ibiza 6F Facelift IMG 0117 (cropped). Foto de 2024. Categoría Commons: Seat Ibiza 6F Facelift. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Ibiza 6F con el rediseño 2021). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Seat_Ibiza_6F_Facelift_IMG_5540.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Seat_Ibiza_6F_Facelift_IMG_5540.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander Migl",
+      "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4810,
+      "alto": 2770,
+      "anioOGeneracion": "2021 · Ibiza 6F con el rediseño 2021",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Seat Ibiza 6F Facelift IMG 5540. Foto de 2021. Categoría Commons: Seat Ibiza 6F Facelift. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Ibiza 6F con el rediseño 2021). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

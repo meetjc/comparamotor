@@ -5454,42 +5454,6 @@
    ],
    "notas": "Reducida a 1600 px sin recortar ni editar."
   },
-  "foto-hyundai-tucson-1.jpg": {
-   "licencia": "cc-by-sa",
-   "licenciaNombre": "CC BY-SA 4.0",
-   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-   "fuenteId": "wikimedia-commons",
-   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2021_Hyundai_Tucson_Elite_N-Line_front_(1).jpg",
-   "autor": "LuvsMG481",
-   "credito": "Foto: LuvsMG481 / Wikimedia Commons, CC BY-SA 4.0",
-   "fecha": "2026-10-25",
-   "permiteEdicion": true,
-   "compartirIgual": true,
-   "usos": [
-    "noticias",
-    "fichas",
-    "comparativas"
-   ],
-   "notas": "Reducida a 1600 px sin recortar ni editar."
-  },
-  "foto-hyundai-tucson-2.jpg": {
-   "licencia": "cc-by",
-   "licenciaNombre": "CC BY 4.0",
-   "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
-   "fuenteId": "wikimedia-commons",
-   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Hyundai_Tucson_AWD_N_Line,_Singapore_Motorshow_2025_1.jpg",
-   "autor": "Yuqiao",
-   "credito": "Foto: Yuqiao / Wikimedia Commons, CC BY 4.0",
-   "fecha": "2026-10-25",
-   "permiteEdicion": true,
-   "compartirIgual": false,
-   "usos": [
-    "noticias",
-    "fichas",
-    "comparativas"
-   ],
-   "notas": "Reducida a 1600 px sin recortar ni editar."
-  },
   "foto-hyundai-tucson-hibrida-1.jpg": {
    "licencia": "cc-by-sa",
    "licenciaNombre": "CC BY-SA 4.0",
@@ -6866,24 +6830,6 @@
    "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Hyundai_Santa_Fe_(MX5)_IMG_5295.jpg",
    "autor": "Alexander Migl",
    "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
-   "fecha": "2026-10-25",
-   "permiteEdicion": true,
-   "compartirIgual": true,
-   "usos": [
-    "noticias",
-    "fichas",
-    "comparativas"
-   ],
-   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
-  },
-  "foto-hyundai-tucson-1-t.jpg": {
-   "licencia": "cc-by-sa",
-   "licenciaNombre": "CC BY-SA 4.0",
-   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-   "fuenteId": "wikimedia-commons",
-   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2021_Hyundai_Tucson_Elite_N-Line_front_(1).jpg",
-   "autor": "LuvsMG481",
-   "credito": "Foto: LuvsMG481 / Wikimedia Commons, CC BY-SA 4.0",
    "fecha": "2026-10-25",
    "permiteEdicion": true,
    "compartirIgual": true,
@@ -14408,6 +14354,2616 @@
    "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Volvo_XC90_(facelift),_front_4.11.25.jpg",
    "autor": "Kevauto",
    "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-hyundai-tucson-1.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Hyundai_Tucson_AWD_N_Line,_Singapore_Motorshow_2025_1.jpg",
+   "autor": "Yuqiao",
+   "credito": "Foto: Yuqiao / Wikimedia Commons, CC BY 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-cherokee-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Jeep_Cherokee_Laredo_in_Bright_White,_front_left,_2026-05-03.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-cherokee-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Jeep_Cherokee_Laredo_in_Bright_White,_rear_left.jpg",
+   "autor": "Mr.choppers",
+   "credito": "Foto: Mr.choppers / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-cherokee-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Jeep_Cherokee_Limited_in_Hydro_Blue_Pearl,_front_right,_2026-06-14.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-commander-1.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Jeep_Commander_Overland_T270_(Colombia)_front_view.jpg",
+   "autor": "Autosdeprimera",
+   "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-commander-2.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Jeep_Commander_(1).jpg",
+   "autor": "Mateusmatsuda",
+   "credito": "Foto: Mateusmatsuda / Wikimedia Commons, CC BY 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-compass-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Jeep_Compass_North_in_Silver_Zynith_Metallic,_front_left,_2026-08-08.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-compass-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Jeep_Compass_Sport_in_Bright_White,_front_right,_2025-09-07.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-wagoneer-l-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Jeep_Wagoneer_Series_I,_front_right,_07-13-2023.jpg",
+   "autor": "MercurySable99",
+   "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-wagoneer-l-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Jeep_Wagoneer_Series_I,_front_6.8.23.jpg",
+   "autor": "Kevauto",
+   "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-jt-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Jeep_Gladiator_Mojave_X_Whitecap_in_Anvil,_front_right,_2026-06-14.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-jt-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Jeep_Gladiator_Sport_S_in_Mojito!,_front_left,_2026-05-03.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-renegade-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Jeep_Renegade_Trailhawk_in_Bikini_Pearl,_front_right,_2025-09-06.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-renegade-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Jeep_Renegade_Limited_BU_FL_Omaha_Orange_(3).jpg",
+   "autor": "Damian B Oh",
+   "credito": "Foto: Damian B Oh / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-wrangler-1.jpg": {
+   "licencia": "cc0",
+   "licenciaNombre": "CC0 1.0",
+   "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2019_Jeep_Wrangler_Unlimited_Sport_in_Black_Clearcoat,_front_left,_07-10-2026.jpg",
+   "autor": "Cutlass",
+   "credito": "Foto: Cutlass / Wikimedia Commons (CC0)",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-jeep-wrangler-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Jeep_Wrangler_Sahara_Unlimited.jpg",
+   "autor": "Ethan Llamas",
+   "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-acadia-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_GMC_Acadia_Denali_front_view.jpg",
+   "autor": "Deathpallie325",
+   "credito": "Foto: Deathpallie325 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-acadia-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_GMC_Acadia_base,_rear_2.22.25.jpg",
+   "autor": "Kevauto",
+   "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-acadia-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_GMC_Acadia_base,_front_2.22.25.jpg",
+   "autor": "Kevauto",
+   "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-canyon-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_GMC_Canyon_front_view.jpg",
+   "autor": "deathpallie325",
+   "credito": "Foto: deathpallie325 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-canyon-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_GMC_Canyon_rear_view.jpg",
+   "autor": "deathpallie325",
+   "credito": "Foto: deathpallie325 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-canyon-3.jpg": {
+   "licencia": "cc0",
+   "licenciaNombre": "CC0 1.0",
+   "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:23_GMC_Canyon_AT4.jpg",
+   "autor": "HJUdall",
+   "credito": "Foto: HJUdall / Wikimedia Commons (CC0)",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-hummer-ev-pickup-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_GMC_Hummer_EV_pickup_front.jpg",
+   "autor": "DestinationFearFan",
+   "credito": "Foto: DestinationFearFan / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-hummer-ev-pickup-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_GMC_Hummer_EV_Pickup_2X_4WD_Sport_Package_in_Meteorite_Metallic,_rear_right,_2024-03-31.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-hummer-ev-pickup-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_GMC_Hummer_EV_Pickup_2X_4WD_Sport_Package_in_Meteorite_Metallic,_front_left,_2024-03-31.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-hummer-ev-suv-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_GMC_Hummer_EV3X_SUV,_front_left,_10-29-2023.jpg",
+   "autor": "MercurySable99",
+   "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-hummer-ev-suv-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_GMC_Hummer_EV3X_SUV,_rear_left,_10-29-2023.jpg",
+   "autor": "MercurySable99",
+   "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-sierra-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_GMC_Sierra_front_view.jpg",
+   "autor": "deathpallie325",
+   "credito": "Foto: deathpallie325 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-sierra-2.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 2.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Cleveland_Auto_Show_(52790034934).jpg",
+   "autor": "Erik Drost",
+   "credito": "Foto: Erik Drost / Wikimedia Commons, CC BY 2.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-yukon-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_GMC_Yukon_AT4_Facelift.jpg",
+   "autor": "Wlb5V",
+   "credito": "Foto: Wlb5V / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-gmc-yukon-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025GMCYukonDenaliUltimate.jpg",
+   "autor": "Ontariocarguy07",
+   "credito": "Foto: Ontariocarguy07 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-ram-700-1.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 2.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Ram_700_(52820072647).jpg",
+   "autor": "Jason Lawrence from New York",
+   "credito": "Foto: Jason Lawrence from New York / Wikimedia Commons, CC BY 2.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-ram-700-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 2.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Ram_700_Big_Horn_1.4_CD_2021.jpg",
+   "autor": "RL GNZLZ",
+   "credito": "Foto: RL GNZLZ / Wikimedia Commons, CC BY-SA 2.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-ram-1500-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_RAM_1500,_front_7.1.25.jpg",
+   "autor": "Kevauto",
+   "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-ram-1500-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_RAM_1500_Limited_in_Ivory_Tri-Coat_Pearl,_front_right,_2026-06-14.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-ram-2500-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_RAM_2500_Regular_Cab_8%27_Box_4x4_Tradesman_in_Bright_White,_front_right,_2025-09-07.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-ram-2500-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_RAM_2500_Rebel_in_Bright_White,_front_left,_2026-06-14.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-ram-promaster-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Ram_ProMaster_2500_Cargo_Van_High_Roof_159_in._WB_in_Bright_White,_front_left,_2025-09-06.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-ram-promaster-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Ram_ProMaster_2500_cargo_van_high_roof_159-inch_wheelbase,_front_right,_09-24-2023.jpg",
+   "autor": "MercurySable99",
+   "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-dodge-charger-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Dodge_Charger_Daytona_Scat_Pack_in_Redeye,_front_left,_2026-08-30.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-dodge-charger-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Dodge_Charger_Daytona_Scat_Pack_in_Redeye,_rear_left,_2026-08-30.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-dodge-charger-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Dodge_Charger_Daytona_RT,_front_4.14.25.jpg",
+   "autor": "Kevauto",
+   "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-dodge-durango-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2021_Dodge_Durango_GT_(facelift),_front_6.8.22.jpg",
+   "autor": "Kevauto",
+   "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-dodge-durango-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2021_Dodge_Durango_SXT_Blacktop_Package_in_Destroyer_Grey,_rear_right,_2026-05-24.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-fiat-fastback-1.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Fiat_Fastback_(Colombia)_front_view.png",
+   "autor": "Autosdeprimera",
+   "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-fiat-fastback-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Fiat_Fastback_2023_Impetus_Turbo_200_in_Montevideo_(rear).jpg",
+   "autor": "NaBUru38",
+   "credito": "Foto: NaBUru38 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-fiat-fastback-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Fiat_Fastback_2023_Impetus_Turbo_200_in_Montevideo.jpg",
+   "autor": "NaBUru38",
+   "credito": "Foto: NaBUru38 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-fiat-pulse-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Fiat_Pulse_Drive_1.3_2022_in_Montevideo_(front).jpg",
+   "autor": "NaBUru38",
+   "credito": "Foto: NaBUru38 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-fiat-pulse-2.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Fiat_Pulse_Impetus_(Colombia)_front_view_01.jpg",
+   "autor": "Autosdeprimera",
+   "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-cupra-formentor-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Formentor_(Facelift)_%E2%80%93_f_01012025.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-cupra-formentor-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Formentor_Facelift_IMG_8320_(cropped).jpg",
+   "autor": "Alexander Migl",
+   "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-cupra-formentor-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Formentor_Facelift_IMG_0423.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-cupra-leon-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Leon_Mk4_Facelift_IMG_0398.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-cupra-leon-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Leon_Mk4_Facelift_IMG_0392.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-cupra-leon-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Leon_Sportstourer_VZ_2.0_TSI_4Drive_(Facelift)_%E2%80%93_f_19072025.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-cupra-terramar-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Terramar_1.5_e-Hybrid_DSG_%E2%80%93_f_11102025.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-cupra-terramar-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Terramar_VZ_IMG_2333.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-cupra-terramar-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Terramar_1.5_eTSI_%E2%80%93_f_25012026.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-seat-arona-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Seat_Arona_Xcellence_(Facelift)_%E2%80%93_f_01022023.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-seat-arona-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:SEAT_Arona_Facelift_IMG_5641.jpg",
+   "autor": "Alexander Migl",
+   "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-seat-ateca-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:SEAT_Ateca_facelift_IMG_3866.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-seat-ateca-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:SEAT_Ateca_facelift_IMG_3858.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-seat-ateca-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Seat_Ateca_Road_Edition_(Facelift)_%E2%80%93_f_19072025.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-seat-ibiza-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Seat_Ibiza_6F_Facelift_IMG_0117_(cropped).jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-seat-ibiza-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Seat_Ibiza_6F_Facelift_IMG_5540.jpg",
+   "autor": "Alexander Migl",
+   "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-brz-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_BRZ_(ZD8)_IMG_0771.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-brz-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_BRZ_(ZD8)_IMG_0774.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-brz-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_BRZ_S_(3BA-ZD8)_front.jpg",
+   "autor": "Tokumeigakarinoaoshima",
+   "credito": "Foto: Tokumeigakarinoaoshima / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-crosstrek-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_Crosstrek_2.0ie_Active_(III)_%E2%80%93_f_31052025.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-crosstrek-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_Crosstrek_(GU)_IMG_9927.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-crosstrek-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_Crosstrek_(GU)_IMG_9943.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-forester-1.jpg": {
+   "licencia": "cc0",
+   "licenciaNombre": "CC0 1.0",
+   "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_Forester_Premium_S-HEV_EX.jpg",
+   "autor": "TTTNIS",
+   "credito": "Foto: TTTNIS / Wikimedia Commons (CC0)",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-forester-2.jpg": {
+   "licencia": "cc0",
+   "licenciaNombre": "CC0 1.0",
+   "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_Forester_Premium_S-HEV_EX_rear.jpg",
+   "autor": "TTTNIS",
+   "credito": "Foto: TTTNIS / Wikimedia Commons (CC0)",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-forester-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_Forester_(SL)_e-BOXER_Automesse_Ludwigsburg_2025_DSC_2569.jpg",
+   "autor": "Alexander Migl",
+   "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-outback-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Subaru_Outback_Convenience_in_Magnetite_Grey_Metallic,_front_left,_2025-05-01.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-outback-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Subaru_Outback_Premium,_front_right,_09-09-2023.jpg",
+   "autor": "MercurySable99",
+   "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-wrx-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Subaru_WRX,_front_right,_06-19-2023.jpg",
+   "autor": "MercurySable99",
+   "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-wrx-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Subaru_WRX,_rear_right,_06-19-2023.jpg",
+   "autor": "MercurySable99",
+   "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-subaru-wrx-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Subaru_WRX_front.jpg",
+   "autor": "DestinationFearFan",
+   "credito": "Foto: DestinationFearFan / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-2008-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 2.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Peugeot_2008_Allure_2024_(53479132501).jpg",
+   "autor": "RL GNZLZ from Chile",
+   "credito": "Foto: RL GNZLZ from Chile / Wikimedia Commons, CC BY-SA 2.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-2008-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Peugeot_2008_B_Facelift_IMG_1180.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-2008-3.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Peugeot_2008_1.0_Active,_test_drive.jpg",
+   "autor": "Just a Man",
+   "credito": "Foto: Just a Man / Wikimedia Commons, CC BY 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-3008-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Peugeot_3008_C_IMG_9387.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-3008-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Peugeot_3008_Hybrid_136_e-DSC6_Allure_(III)_%E2%80%93_h_09022025.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-3008-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Peugeot_3008_Hybrid_136_e-DSC6_Allure_(III)_%E2%80%93_f_09022025.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-5008-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Peugeot_5008_C_DSC_2949.jpg",
+   "autor": "Alexander Migl",
+   "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-5008-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Peugeot_5008_C_Automesse_Ludwigsburg_2024_IMG_1460.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-5008-3.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Peugeot_5008_en_Visby.jpg",
+   "autor": "Bene Riobó",
+   "credito": "Foto: Bene Riobó / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-expert-1.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Peugeot_Expert_Professional_L1_BlueHDi_-_1499cc_1.5_(120PS)_Diesel_-_White_-_06-2024,_Front.jpg",
+   "autor": "Harvey Bold",
+   "credito": "Foto: Harvey Bold / Wikimedia Commons, CC BY 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-expert-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Peugeot_Expert_III_IMG_2658.jpg",
+   "autor": "Alexander Migl",
+   "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-peugeot-rifter-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Peugeot_Rifter_IMG_9556.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-mitsubishi-l200-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Mitsubishi_Triton_2.4_Athlete_4x4_in_Yamabuki_Orange_Metallic,_front_right,_06-21-2024.jpg",
+   "autor": "Ethan Llamas",
+   "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-mitsubishi-l200-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Mitsubishi_Triton_2.4_Athlete_4WD_White_Diamond_-_front.jpg",
+   "autor": "Ethan Llamas",
+   "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-mitsubishi-l200-3.jpg": {
+   "licencia": "cc0",
+   "licenciaNombre": "CC0 1.0",
+   "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Mitsubishi_TRITON_GSR_(3DF-LC2T)_front.jpg",
+   "autor": "Tokumeigakarinoaoshima",
+   "credito": "Foto: Tokumeigakarinoaoshima / Wikimedia Commons (CC0)",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-mitsubishi-mirage-g4-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Mitsubishi_Mirage_G4_A10_FL_1.2_GLX_Red_Metallic.jpg",
+   "autor": "Ethan Llamas",
+   "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-mitsubishi-mirage-g4-2.jpg": {
+   "licencia": "cc0",
+   "licenciaNombre": "CC0 1.0",
+   "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Mitsubishi_Mirage_G4_ES_in_Wine_Red_Metallic,_front_left,_05-16-2026.jpg",
+   "autor": "Cutlass",
+   "credito": "Foto: Cutlass / Wikimedia Commons (CC0)",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-mitsubishi-outlander-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Mitsubishi_Outlander_SEL_2.5_in_Alloy_Silver,_front_left.jpg",
+   "autor": "Mr.choppers",
+   "credito": "Foto: Mr.choppers / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-mitsubishi-outlander-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Mitsubishi_Outlander_ES_2WD_7seater_front.jpg",
+   "autor": "LuvsMG481",
+   "credito": "Foto: LuvsMG481 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-mitsubishi-xpander-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2021_Mitsubishi_Xpander_Ultimate_facelift_(Indonesia)_front_view_02.jpg",
+   "autor": "Andra Febrian",
+   "credito": "Foto: Andra Febrian / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-mitsubishi-xpander-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Mitsubishi_Xpander_Sport_facelift_(front),_Pakuwon_Trade_Center,_West_Surabaya.jpg",
+   "autor": "Alex Neman",
+   "credito": "Foto: Alex Neman / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-isuzu-d-max-1.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Isuzu_D-Max_(third_generation)_GIMS_2024_1X7A2055.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-isuzu-d-max-2.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Isuzu_D-Max_X-Rider_front.jpg",
+   "autor": "LuvsMG481",
+   "credito": "Foto: LuvsMG481 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-hyundai-tucson-1-t.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Hyundai_Tucson_AWD_N_Line,_Singapore_Motorshow_2025_1.jpg",
+   "autor": "Yuqiao",
+   "credito": "Foto: Yuqiao / Wikimedia Commons, CC BY 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-jeep-cherokee-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Jeep_Cherokee_Laredo_in_Bright_White,_front_left,_2026-05-03.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-jeep-commander-1-t.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Jeep_Commander_Overland_T270_(Colombia)_front_view.jpg",
+   "autor": "Autosdeprimera",
+   "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-jeep-compass-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Jeep_Compass_North_in_Silver_Zynith_Metallic,_front_left,_2026-08-08.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-jeep-wagoneer-l-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Jeep_Wagoneer_Series_I,_front_right,_07-13-2023.jpg",
+   "autor": "MercurySable99",
+   "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-jeep-jt-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2026_Jeep_Gladiator_Mojave_X_Whitecap_in_Anvil,_front_right,_2026-06-14.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-jeep-renegade-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Jeep_Renegade_Trailhawk_in_Bikini_Pearl,_front_right,_2025-09-06.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-jeep-wrangler-1-t.jpg": {
+   "licencia": "cc0",
+   "licenciaNombre": "CC0 1.0",
+   "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2019_Jeep_Wrangler_Unlimited_Sport_in_Black_Clearcoat,_front_left,_07-10-2026.jpg",
+   "autor": "Cutlass",
+   "credito": "Foto: Cutlass / Wikimedia Commons (CC0)",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-gmc-acadia-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_GMC_Acadia_Denali_front_view.jpg",
+   "autor": "Deathpallie325",
+   "credito": "Foto: Deathpallie325 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-gmc-canyon-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_GMC_Canyon_front_view.jpg",
+   "autor": "deathpallie325",
+   "credito": "Foto: deathpallie325 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-gmc-hummer-ev-pickup-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_GMC_Hummer_EV_pickup_front.jpg",
+   "autor": "DestinationFearFan",
+   "credito": "Foto: DestinationFearFan / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-gmc-hummer-ev-suv-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_GMC_Hummer_EV3X_SUV,_front_left,_10-29-2023.jpg",
+   "autor": "MercurySable99",
+   "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-gmc-sierra-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_GMC_Sierra_front_view.jpg",
+   "autor": "deathpallie325",
+   "credito": "Foto: deathpallie325 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-gmc-yukon-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_GMC_Yukon_AT4_Facelift.jpg",
+   "autor": "Wlb5V",
+   "credito": "Foto: Wlb5V / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-ram-700-1-t.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 2.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Ram_700_(52820072647).jpg",
+   "autor": "Jason Lawrence from New York",
+   "credito": "Foto: Jason Lawrence from New York / Wikimedia Commons, CC BY 2.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-ram-1500-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_RAM_1500,_front_7.1.25.jpg",
+   "autor": "Kevauto",
+   "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-ram-2500-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_RAM_2500_Regular_Cab_8%27_Box_4x4_Tradesman_in_Bright_White,_front_right,_2025-09-07.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-ram-promaster-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Ram_ProMaster_2500_Cargo_Van_High_Roof_159_in._WB_in_Bright_White,_front_left,_2025-09-06.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-dodge-charger-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Dodge_Charger_Daytona_Scat_Pack_in_Redeye,_front_left,_2026-08-30.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-dodge-durango-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2021_Dodge_Durango_GT_(facelift),_front_6.8.22.jpg",
+   "autor": "Kevauto",
+   "credito": "Foto: Kevauto / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-fiat-fastback-1-t.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2023_Fiat_Fastback_(Colombia)_front_view.png",
+   "autor": "Autosdeprimera",
+   "credito": "Foto: Autosdeprimera / Wikimedia Commons, CC BY 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-fiat-pulse-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Fiat_Pulse_Drive_1.3_2022_in_Montevideo_(front).jpg",
+   "autor": "NaBUru38",
+   "credito": "Foto: NaBUru38 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-cupra-formentor-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Formentor_(Facelift)_%E2%80%93_f_01012025.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-cupra-leon-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Leon_Mk4_Facelift_IMG_0398.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-cupra-terramar-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Cupra_Terramar_1.5_e-Hybrid_DSG_%E2%80%93_f_11102025.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-seat-arona-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Seat_Arona_Xcellence_(Facelift)_%E2%80%93_f_01022023.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-seat-ateca-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:SEAT_Ateca_facelift_IMG_3866.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-seat-ibiza-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Seat_Ibiza_6F_Facelift_IMG_0117_(cropped).jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-subaru-brz-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_BRZ_(ZD8)_IMG_0771.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-subaru-crosstrek-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_Crosstrek_2.0ie_Active_(III)_%E2%80%93_f_31052025.jpg",
+   "autor": "© M 93",
+   "credito": "Foto: © M 93 / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-subaru-forester-1-t.jpg": {
+   "licencia": "cc0",
+   "licenciaNombre": "CC0 1.0",
+   "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Subaru_Forester_Premium_S-HEV_EX.jpg",
+   "autor": "TTTNIS",
+   "credito": "Foto: TTTNIS / Wikimedia Commons (CC0)",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-subaru-outback-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Subaru_Outback_Convenience_in_Magnetite_Grey_Metallic,_front_left,_2025-05-01.jpg",
+   "autor": "Elise240SX",
+   "credito": "Foto: Elise240SX / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-subaru-wrx-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Subaru_WRX,_front_right,_06-19-2023.jpg",
+   "autor": "MercurySable99",
+   "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-peugeot-2008-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 2.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Peugeot_2008_Allure_2024_(53479132501).jpg",
+   "autor": "RL GNZLZ from Chile",
+   "credito": "Foto: RL GNZLZ from Chile / Wikimedia Commons, CC BY-SA 2.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-peugeot-3008-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Peugeot_3008_C_IMG_9387.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-peugeot-5008-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Peugeot_5008_C_DSC_2949.jpg",
+   "autor": "Alexander Migl",
+   "credito": "Foto: Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-peugeot-expert-1-t.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Peugeot_Expert_Professional_L1_BlueHDi_-_1499cc_1.5_(120PS)_Diesel_-_White_-_06-2024,_Front.jpg",
+   "autor": "Harvey Bold",
+   "credito": "Foto: Harvey Bold / Wikimedia Commons, CC BY 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-peugeot-rifter-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Peugeot_Rifter_IMG_9556.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-mitsubishi-l200-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Mitsubishi_Triton_2.4_Athlete_4x4_in_Yamabuki_Orange_Metallic,_front_right,_06-21-2024.jpg",
+   "autor": "Ethan Llamas",
+   "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-mitsubishi-mirage-g4-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Mitsubishi_Mirage_G4_A10_FL_1.2_GLX_Red_Metallic.jpg",
+   "autor": "Ethan Llamas",
+   "credito": "Foto: Ethan Llamas / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-mitsubishi-outlander-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 3.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Mitsubishi_Outlander_SEL_2.5_in_Alloy_Silver,_front_left.jpg",
+   "autor": "Mr.choppers",
+   "credito": "Foto: Mr.choppers / Wikimedia Commons, CC BY-SA 3.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-mitsubishi-xpander-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2021_Mitsubishi_Xpander_Ultimate_facelift_(Indonesia)_front_view_02.jpg",
+   "autor": "Andra Febrian",
+   "credito": "Foto: Andra Febrian / Wikimedia Commons, CC BY-SA 4.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": true,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-isuzu-d-max-1-t.jpg": {
+   "licencia": "cc-by-sa",
+   "licenciaNombre": "CC BY-SA 4.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Isuzu_D-Max_(third_generation)_GIMS_2024_1X7A2055.jpg",
+   "autor": "Alexander-93",
+   "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
    "fecha": "2026-10-25",
    "permiteEdicion": true,
    "compartirIgual": true,

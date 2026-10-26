@@ -1,0 +1,48 @@
+{
+  "marca": "Isuzu",
+  "modelo": "D-MAX",
+  "marcaSlug": "isuzu",
+  "modeloSlug": "d-max",
+  "generacionMexico": "D-Max 3.ª generación con el rediseño 2024",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/2024_Isuzu_D-Max_%28third_generation%29_GIMS_2024_1X7A2055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_Isuzu_D-Max_(third_generation)_GIMS_2024_1X7A2055.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alexander-93",
+      "credito": "Foto: Alexander-93 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5405,
+      "alto": 3185,
+      "anioOGeneracion": "2024 · D-Max 3.ª generación con el rediseño 2024",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 Isuzu D-Max (third generation) GIMS 2024 1X7A2055. Foto de 2024. Categoría Commons: Isuzu D-Max (third generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (D-Max 3.ª generación con el rediseño 2024). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/2025_Isuzu_D-Max_X-Rider_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2025_Isuzu_D-Max_X-Rider_front.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "LuvsMG481",
+      "credito": "Foto: LuvsMG481 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 5980,
+      "alto": 3157,
+      "anioOGeneracion": "2025 · D-Max 3.ª generación con el rediseño 2024",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2025 Isuzu D-Max X-Rider front. Foto de 2025. Categoría Commons: Isuzu D-Max (third generation). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (D-Max 3.ª generación con el rediseño 2024). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

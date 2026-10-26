@@ -1,0 +1,48 @@
+{
+  "marca": "GMC",
+  "modelo": "Hummer EV SUV",
+  "marcaSlug": "gmc",
+  "modeloSlug": "hummer-ev-suv",
+  "generacionMexico": "Hummer EV SUV (2024+)",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_GMC_Hummer_EV3X_SUV,_front_left,_10-29-2023.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "MercurySable99",
+      "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4195,
+      "alto": 3092,
+      "anioOGeneracion": "2023 · Hummer EV SUV (2024+)",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 GMC Hummer EV3X SUV, front left, 10-29-2023. Foto de 2023. Categoría Commons: GMC Hummer EV SUV. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Hummer EV SUV (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/2024_GMC_Hummer_EV3X_SUV%2C_rear_left%2C_10-29-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2024_GMC_Hummer_EV3X_SUV,_rear_left,_10-29-2023.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "MercurySable99",
+      "credito": "Foto: MercurySable99 / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4735,
+      "alto": 3288,
+      "anioOGeneracion": "2023 · Hummer EV SUV (2024+)",
+      "angulo": "3/4 trasero",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2024 GMC Hummer EV3X SUV, rear left, 10-29-2023. Foto de 2023. Categoría Commons: GMC Hummer EV SUV. CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Hummer EV SUV (2024+)). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

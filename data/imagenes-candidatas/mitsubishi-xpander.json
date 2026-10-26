@@ -1,0 +1,48 @@
+{
+  "marca": "Mitsubishi",
+  "modelo": "Xpander",
+  "marcaSlug": "mitsubishi",
+  "modeloSlug": "xpander",
+  "generacionMexico": "Xpander con el rediseño 2022, como el que muestra Mitsubishi México",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/2021_Mitsubishi_Xpander_Ultimate_facelift_%28Indonesia%29_front_view_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2021_Mitsubishi_Xpander_Ultimate_facelift_(Indonesia)_front_view_02.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Andra Febrian",
+      "credito": "Foto: Andra Febrian / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 3221,
+      "alto": 2147,
+      "anioOGeneracion": "2021 · Xpander con el rediseño 2022, como el que muestra Mitsubishi México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2021 Mitsubishi Xpander Ultimate facelift (Indonesia) front view 02. Foto de 2021. Categoría Commons: Mitsubishi Xpander (2021). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Xpander con el rediseño 2022, como el que muestra Mitsubishi México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/2022_Mitsubishi_Xpander_Sport_facelift_%28front%29%2C_Pakuwon_Trade_Center%2C_West_Surabaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:2022_Mitsubishi_Xpander_Sport_facelift_(front),_Pakuwon_Trade_Center,_West_Surabaya.jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "autor": "Alex Neman",
+      "credito": "Foto: Alex Neman / Wikimedia Commons, CC BY-SA 4.0",
+      "compartirIgual": true,
+      "ancho": 4000,
+      "alto": 3000,
+      "anioOGeneracion": "2022 · Xpander con el rediseño 2022, como el que muestra Mitsubishi México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: 2022 Mitsubishi Xpander Sport facelift (front), Pakuwon Trade Center, West Surabaya. Foto de 2022. Categoría Commons: Mitsubishi Xpander (2021). CC BY-SA: si se recorta o edita, la versión editada se publica bajo la misma licencia y se indica el cambio. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (Xpander con el rediseño 2022, como el que muestra Mitsubishi México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

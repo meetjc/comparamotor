@@ -2578,32 +2578,6 @@
    "alto": 413
   }
  },
- "hyundai-tucson": {
-  "archivo": "foto-hyundai-tucson-1.jpg",
-  "alt": "Hyundai Tucson, vista 3/4 frontal",
-  "galeria": [
-   {
-    "archivo": "foto-hyundai-tucson-1.jpg",
-    "alt": "Hyundai Tucson, vista 3/4 frontal",
-    "angulo": "3/4 frontal",
-    "ancho": 1600,
-    "alto": 704
-   },
-   {
-    "archivo": "foto-hyundai-tucson-2.jpg",
-    "alt": "Hyundai Tucson, vista 3/4 frontal",
-    "angulo": "3/4 frontal",
-    "ancho": 1600,
-    "alto": 1280
-   }
-  ],
-  "thumb": {
-   "archivo": "foto-hyundai-tucson-1-t.jpg",
-   "alt": "Hyundai Tucson, vista 3/4 frontal",
-   "ancho": 720,
-   "alto": 316
-  }
- },
  "hyundai-tucson-hibrida": {
   "archivo": "foto-hyundai-tucson-hibrida-1.jpg",
   "alt": "Hyundai Tucson Híbrida, vista 3/4 frontal",
@@ -6749,6 +6723,1236 @@
    "alt": "Volvo XC90, vista 3/4 frontal",
    "ancho": 720,
    "alto": 495
+  }
+ },
+ "hyundai-tucson": {
+  "archivo": "foto-hyundai-tucson-1.jpg",
+  "alt": "Hyundai Tucson, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-hyundai-tucson-1.jpg",
+    "alt": "Hyundai Tucson, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1280
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-hyundai-tucson-1-t.jpg",
+   "alt": "Hyundai Tucson, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 576
+  }
+ },
+ "jeep-cherokee": {
+  "archivo": "foto-jeep-cherokee-1.jpg",
+  "alt": "Jeep Cherokee, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-jeep-cherokee-1.jpg",
+    "alt": "Jeep Cherokee, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 980
+   },
+   {
+    "archivo": "foto-jeep-cherokee-2.jpg",
+    "alt": "Jeep Cherokee, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1041
+   },
+   {
+    "archivo": "foto-jeep-cherokee-3.jpg",
+    "alt": "Jeep Cherokee, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 917
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-jeep-cherokee-1-t.jpg",
+   "alt": "Jeep Cherokee, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 441
+  }
+ },
+ "jeep-commander": {
+  "archivo": "foto-jeep-commander-1.jpg",
+  "alt": "Jeep Commander, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-jeep-commander-1.jpg",
+    "alt": "Jeep Commander, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 960
+   },
+   {
+    "archivo": "foto-jeep-commander-2.jpg",
+    "alt": "Jeep Commander, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 901
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-jeep-commander-1-t.jpg",
+   "alt": "Jeep Commander, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 432
+  }
+ },
+ "jeep-compass": {
+  "archivo": "foto-jeep-compass-1.jpg",
+  "alt": "Jeep Compass, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-jeep-compass-1.jpg",
+    "alt": "Jeep Compass, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1111
+   },
+   {
+    "archivo": "foto-jeep-compass-2.jpg",
+    "alt": "Jeep Compass, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 987
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-jeep-compass-1-t.jpg",
+   "alt": "Jeep Compass, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 500
+  }
+ },
+ "jeep-wagoneer-l": {
+  "archivo": "foto-jeep-wagoneer-l-1.jpg",
+  "alt": "Jeep Wagoneer L, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-jeep-wagoneer-l-1.jpg",
+    "alt": "Jeep Wagoneer L, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1051
+   },
+   {
+    "archivo": "foto-jeep-wagoneer-l-2.jpg",
+    "alt": "Jeep Wagoneer L, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 846
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-jeep-wagoneer-l-1-t.jpg",
+   "alt": "Jeep Wagoneer L, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 473
+  }
+ },
+ "jeep-jt": {
+  "archivo": "foto-jeep-jt-1.jpg",
+  "alt": "Jeep JT, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-jeep-jt-1.jpg",
+    "alt": "Jeep JT, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 953
+   },
+   {
+    "archivo": "foto-jeep-jt-2.jpg",
+    "alt": "Jeep JT, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 958
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-jeep-jt-1-t.jpg",
+   "alt": "Jeep JT, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 429
+  }
+ },
+ "jeep-renegade": {
+  "archivo": "foto-jeep-renegade-1.jpg",
+  "alt": "Jeep Renegade, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-jeep-renegade-1.jpg",
+    "alt": "Jeep Renegade, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1034
+   },
+   {
+    "archivo": "foto-jeep-renegade-2.jpg",
+    "alt": "Jeep Renegade, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-jeep-renegade-1-t.jpg",
+   "alt": "Jeep Renegade, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 465
+  }
+ },
+ "jeep-wrangler": {
+  "archivo": "foto-jeep-wrangler-1.jpg",
+  "alt": "Jeep Wrangler, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-jeep-wrangler-1.jpg",
+    "alt": "Jeep Wrangler, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1001
+   },
+   {
+    "archivo": "foto-jeep-wrangler-2.jpg",
+    "alt": "Jeep Wrangler, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-jeep-wrangler-1-t.jpg",
+   "alt": "Jeep Wrangler, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 450
+  }
+ },
+ "gmc-acadia": {
+  "archivo": "foto-gmc-acadia-1.jpg",
+  "alt": "GMC Acadia, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-gmc-acadia-1.jpg",
+    "alt": "GMC Acadia, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-gmc-acadia-2.jpg",
+    "alt": "GMC Acadia, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1029
+   },
+   {
+    "archivo": "foto-gmc-acadia-3.jpg",
+    "alt": "GMC Acadia, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 987
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-gmc-acadia-1-t.jpg",
+   "alt": "GMC Acadia, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "gmc-canyon": {
+  "archivo": "foto-gmc-canyon-1.jpg",
+  "alt": "GMC Canyon, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-gmc-canyon-1.jpg",
+    "alt": "GMC Canyon, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-gmc-canyon-2.jpg",
+    "alt": "GMC Canyon, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-gmc-canyon-3.jpg",
+    "alt": "GMC Canyon, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-gmc-canyon-1-t.jpg",
+   "alt": "GMC Canyon, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "gmc-hummer-ev-pickup": {
+  "archivo": "foto-gmc-hummer-ev-pickup-1.jpg",
+  "alt": "GMC Hummer EV Pickup, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-gmc-hummer-ev-pickup-1.jpg",
+    "alt": "GMC Hummer EV Pickup, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1114
+   },
+   {
+    "archivo": "foto-gmc-hummer-ev-pickup-2.jpg",
+    "alt": "GMC Hummer EV Pickup, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 945
+   },
+   {
+    "archivo": "foto-gmc-hummer-ev-pickup-3.jpg",
+    "alt": "GMC Hummer EV Pickup, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 966
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-gmc-hummer-ev-pickup-1-t.jpg",
+   "alt": "GMC Hummer EV Pickup, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 501
+  }
+ },
+ "gmc-hummer-ev-suv": {
+  "archivo": "foto-gmc-hummer-ev-suv-1.jpg",
+  "alt": "GMC Hummer EV SUV, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-gmc-hummer-ev-suv-1.jpg",
+    "alt": "GMC Hummer EV SUV, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1179
+   },
+   {
+    "archivo": "foto-gmc-hummer-ev-suv-2.jpg",
+    "alt": "GMC Hummer EV SUV, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1111
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-gmc-hummer-ev-suv-1-t.jpg",
+   "alt": "GMC Hummer EV SUV, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 530
+  }
+ },
+ "gmc-sierra": {
+  "archivo": "foto-gmc-sierra-1.jpg",
+  "alt": "GMC Sierra, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-gmc-sierra-1.jpg",
+    "alt": "GMC Sierra, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-gmc-sierra-2.jpg",
+    "alt": "GMC Sierra, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-gmc-sierra-1-t.jpg",
+   "alt": "GMC Sierra, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "gmc-yukon": {
+  "archivo": "foto-gmc-yukon-1.jpg",
+  "alt": "GMC Yukon, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-gmc-yukon-1.jpg",
+    "alt": "GMC Yukon, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   },
+   {
+    "archivo": "foto-gmc-yukon-2.jpg",
+    "alt": "GMC Yukon, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1000
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-gmc-yukon-1-t.jpg",
+   "alt": "GMC Yukon, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "ram-700": {
+  "archivo": "foto-ram-700-1.jpg",
+  "alt": "Ram 700, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ram-700-1.jpg",
+    "alt": "Ram 700, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1312
+   },
+   {
+    "archivo": "foto-ram-700-2.jpg",
+    "alt": "Ram 700, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ram-700-1-t.jpg",
+   "alt": "Ram 700, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 590
+  }
+ },
+ "ram-1500": {
+  "archivo": "foto-ram-1500-1.jpg",
+  "alt": "Ram 1500, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ram-1500-1.jpg",
+    "alt": "Ram 1500, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 871
+   },
+   {
+    "archivo": "foto-ram-1500-2.jpg",
+    "alt": "Ram 1500, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 957
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ram-1500-1-t.jpg",
+   "alt": "Ram 1500, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 392
+  }
+ },
+ "ram-2500": {
+  "archivo": "foto-ram-2500-1.jpg",
+  "alt": "Ram 2500, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ram-2500-1.jpg",
+    "alt": "Ram 2500, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 931
+   },
+   {
+    "archivo": "foto-ram-2500-2.jpg",
+    "alt": "Ram 2500, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 958
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ram-2500-1-t.jpg",
+   "alt": "Ram 2500, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 419
+  }
+ },
+ "ram-promaster": {
+  "archivo": "foto-ram-promaster-1.jpg",
+  "alt": "Ram ProMaster, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-ram-promaster-1.jpg",
+    "alt": "Ram ProMaster, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1045
+   },
+   {
+    "archivo": "foto-ram-promaster-2.jpg",
+    "alt": "Ram ProMaster, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1199
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-ram-promaster-1-t.jpg",
+   "alt": "Ram ProMaster, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 470
+  }
+ },
+ "dodge-charger": {
+  "archivo": "foto-dodge-charger-1.jpg",
+  "alt": "Dodge Charger, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-dodge-charger-1.jpg",
+    "alt": "Dodge Charger, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 823
+   },
+   {
+    "archivo": "foto-dodge-charger-2.jpg",
+    "alt": "Dodge Charger, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-dodge-charger-3.jpg",
+    "alt": "Dodge Charger, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 801
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-dodge-charger-1-t.jpg",
+   "alt": "Dodge Charger, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 370
+  }
+ },
+ "dodge-durango": {
+  "archivo": "foto-dodge-durango-1.jpg",
+  "alt": "Dodge Durango, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-dodge-durango-1.jpg",
+    "alt": "Dodge Durango, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 924
+   },
+   {
+    "archivo": "foto-dodge-durango-2.jpg",
+    "alt": "Dodge Durango, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 931
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-dodge-durango-1-t.jpg",
+   "alt": "Dodge Durango, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 415
+  }
+ },
+ "fiat-fastback": {
+  "archivo": "foto-fiat-fastback-1.jpg",
+  "alt": "Fiat Fastback, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-fiat-fastback-1.jpg",
+    "alt": "Fiat Fastback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   },
+   {
+    "archivo": "foto-fiat-fastback-2.jpg",
+    "alt": "Fiat Fastback, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 889
+   },
+   {
+    "archivo": "foto-fiat-fastback-3.jpg",
+    "alt": "Fiat Fastback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 960
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-fiat-fastback-1-t.jpg",
+   "alt": "Fiat Fastback, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 405
+  }
+ },
+ "fiat-pulse": {
+  "archivo": "foto-fiat-pulse-1.jpg",
+  "alt": "Fiat Pulse, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-fiat-pulse-1.jpg",
+    "alt": "Fiat Pulse, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1113
+   },
+   {
+    "archivo": "foto-fiat-pulse-2.jpg",
+    "alt": "Fiat Pulse, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-fiat-pulse-1-t.jpg",
+   "alt": "Fiat Pulse, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 501
+  }
+ },
+ "cupra-formentor": {
+  "archivo": "foto-cupra-formentor-1.jpg",
+  "alt": "CUPRA Formentor, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-cupra-formentor-1.jpg",
+    "alt": "CUPRA Formentor, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 868
+   },
+   {
+    "archivo": "foto-cupra-formentor-2.jpg",
+    "alt": "CUPRA Formentor, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 861
+   },
+   {
+    "archivo": "foto-cupra-formentor-3.jpg",
+    "alt": "CUPRA Formentor, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 966
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-cupra-formentor-1-t.jpg",
+   "alt": "CUPRA Formentor, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 390
+  }
+ },
+ "cupra-leon": {
+  "archivo": "foto-cupra-leon-1.jpg",
+  "alt": "CUPRA León, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-cupra-leon-1.jpg",
+    "alt": "CUPRA León, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 871
+   },
+   {
+    "archivo": "foto-cupra-leon-2.jpg",
+    "alt": "CUPRA León, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 875
+   },
+   {
+    "archivo": "foto-cupra-leon-3.jpg",
+    "alt": "CUPRA León, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 783
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-cupra-leon-1-t.jpg",
+   "alt": "CUPRA León, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 392
+  }
+ },
+ "cupra-terramar": {
+  "archivo": "foto-cupra-terramar-1.jpg",
+  "alt": "CUPRA Terramar, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-cupra-terramar-1.jpg",
+    "alt": "CUPRA Terramar, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 831
+   },
+   {
+    "archivo": "foto-cupra-terramar-2.jpg",
+    "alt": "CUPRA Terramar, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-cupra-terramar-3.jpg",
+    "alt": "CUPRA Terramar, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 868
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-cupra-terramar-1-t.jpg",
+   "alt": "CUPRA Terramar, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 374
+  }
+ },
+ "seat-arona": {
+  "archivo": "foto-seat-arona-1.jpg",
+  "alt": "SEAT Arona, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-seat-arona-1.jpg",
+    "alt": "SEAT Arona, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 857
+   },
+   {
+    "archivo": "foto-seat-arona-2.jpg",
+    "alt": "SEAT Arona, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 914
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-seat-arona-1-t.jpg",
+   "alt": "SEAT Arona, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 385
+  }
+ },
+ "seat-ateca": {
+  "archivo": "foto-seat-ateca-1.jpg",
+  "alt": "SEAT Ateca, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-seat-ateca-1.jpg",
+    "alt": "SEAT Ateca, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 881
+   },
+   {
+    "archivo": "foto-seat-ateca-2.jpg",
+    "alt": "SEAT Ateca, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-seat-ateca-3.jpg",
+    "alt": "SEAT Ateca, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 849
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-seat-ateca-1-t.jpg",
+   "alt": "SEAT Ateca, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 396
+  }
+ },
+ "seat-ibiza": {
+  "archivo": "foto-seat-ibiza-1.jpg",
+  "alt": "SEAT Ibiza, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-seat-ibiza-1.jpg",
+    "alt": "SEAT Ibiza, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 880
+   },
+   {
+    "archivo": "foto-seat-ibiza-2.jpg",
+    "alt": "SEAT Ibiza, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 921
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-seat-ibiza-1-t.jpg",
+   "alt": "SEAT Ibiza, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 396
+  }
+ },
+ "subaru-brz": {
+  "archivo": "foto-subaru-brz-1.jpg",
+  "alt": "Subaru BRZ, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-subaru-brz-1.jpg",
+    "alt": "Subaru BRZ, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 799
+   },
+   {
+    "archivo": "foto-subaru-brz-2.jpg",
+    "alt": "Subaru BRZ, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 941
+   },
+   {
+    "archivo": "foto-subaru-brz-3.jpg",
+    "alt": "Subaru BRZ, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-subaru-brz-1-t.jpg",
+   "alt": "Subaru BRZ, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 359
+  }
+ },
+ "subaru-crosstrek": {
+  "archivo": "foto-subaru-crosstrek-1.jpg",
+  "alt": "Subaru Crosstrek, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-subaru-crosstrek-1.jpg",
+    "alt": "Subaru Crosstrek, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 876
+   },
+   {
+    "archivo": "foto-subaru-crosstrek-2.jpg",
+    "alt": "Subaru Crosstrek, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 896
+   },
+   {
+    "archivo": "foto-subaru-crosstrek-3.jpg",
+    "alt": "Subaru Crosstrek, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 969
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-subaru-crosstrek-1-t.jpg",
+   "alt": "Subaru Crosstrek, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 394
+  }
+ },
+ "subaru-forester": {
+  "archivo": "foto-subaru-forester-1.jpg",
+  "alt": "Subaru Forester, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-subaru-forester-1.jpg",
+    "alt": "Subaru Forester, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 849
+   },
+   {
+    "archivo": "foto-subaru-forester-2.jpg",
+    "alt": "Subaru Forester, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 903
+   },
+   {
+    "archivo": "foto-subaru-forester-3.jpg",
+    "alt": "Subaru Forester, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 986
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-subaru-forester-1-t.jpg",
+   "alt": "Subaru Forester, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 382
+  }
+ },
+ "subaru-outback": {
+  "archivo": "foto-subaru-outback-1.jpg",
+  "alt": "Subaru Outback, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-subaru-outback-1.jpg",
+    "alt": "Subaru Outback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 875
+   },
+   {
+    "archivo": "foto-subaru-outback-2.jpg",
+    "alt": "Subaru Outback, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1048
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-subaru-outback-1-t.jpg",
+   "alt": "Subaru Outback, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 393
+  }
+ },
+ "subaru-wrx": {
+  "archivo": "foto-subaru-wrx-1.jpg",
+  "alt": "Subaru WRX, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-subaru-wrx-1.jpg",
+    "alt": "Subaru WRX, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 967
+   },
+   {
+    "archivo": "foto-subaru-wrx-2.jpg",
+    "alt": "Subaru WRX, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1022
+   },
+   {
+    "archivo": "foto-subaru-wrx-3.jpg",
+    "alt": "Subaru WRX, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1036
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-subaru-wrx-1-t.jpg",
+   "alt": "Subaru WRX, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 435
+  }
+ },
+ "peugeot-2008": {
+  "archivo": "foto-peugeot-2008-1.jpg",
+  "alt": "Peugeot 2008, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-peugeot-2008-1.jpg",
+    "alt": "Peugeot 2008, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1008
+   },
+   {
+    "archivo": "foto-peugeot-2008-2.jpg",
+    "alt": "Peugeot 2008, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 1065
+   },
+   {
+    "archivo": "foto-peugeot-2008-3.jpg",
+    "alt": "Peugeot 2008, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 900
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-peugeot-2008-1-t.jpg",
+   "alt": "Peugeot 2008, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 453
+  }
+ },
+ "peugeot-3008": {
+  "archivo": "foto-peugeot-3008-1.jpg",
+  "alt": "Peugeot 3008, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-peugeot-3008-1.jpg",
+    "alt": "Peugeot 3008, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 948
+   },
+   {
+    "archivo": "foto-peugeot-3008-2.jpg",
+    "alt": "Peugeot 3008, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 872
+   },
+   {
+    "archivo": "foto-peugeot-3008-3.jpg",
+    "alt": "Peugeot 3008, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 783
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-peugeot-3008-1-t.jpg",
+   "alt": "Peugeot 3008, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 426
+  }
+ },
+ "peugeot-5008": {
+  "archivo": "foto-peugeot-5008-1.jpg",
+  "alt": "Peugeot 5008, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-peugeot-5008-1.jpg",
+    "alt": "Peugeot 5008, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1086
+   },
+   {
+    "archivo": "foto-peugeot-5008-2.jpg",
+    "alt": "Peugeot 5008, vista 3/4 trasero",
+    "angulo": "3/4 trasero",
+    "ancho": 1600,
+    "alto": 899
+   },
+   {
+    "archivo": "foto-peugeot-5008-3.jpg",
+    "alt": "Peugeot 5008, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-peugeot-5008-1-t.jpg",
+   "alt": "Peugeot 5008, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 488
+  }
+ },
+ "peugeot-expert": {
+  "archivo": "foto-peugeot-expert-1.jpg",
+  "alt": "Peugeot Expert, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-peugeot-expert-1.jpg",
+    "alt": "Peugeot Expert, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1028
+   },
+   {
+    "archivo": "foto-peugeot-expert-2.jpg",
+    "alt": "Peugeot Expert, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1065
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-peugeot-expert-1-t.jpg",
+   "alt": "Peugeot Expert, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 462
+  }
+ },
+ "peugeot-rifter": {
+  "archivo": "foto-peugeot-rifter-1.jpg",
+  "alt": "Peugeot Rifter, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-peugeot-rifter-1.jpg",
+    "alt": "Peugeot Rifter, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1345
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-peugeot-rifter-1-t.jpg",
+   "alt": "Peugeot Rifter, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 605
+  }
+ },
+ "mitsubishi-l200": {
+  "archivo": "foto-mitsubishi-l200-1.jpg",
+  "alt": "Mitsubishi L200, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mitsubishi-l200-1.jpg",
+    "alt": "Mitsubishi L200, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 925
+   },
+   {
+    "archivo": "foto-mitsubishi-l200-2.jpg",
+    "alt": "Mitsubishi L200, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   },
+   {
+    "archivo": "foto-mitsubishi-l200-3.jpg",
+    "alt": "Mitsubishi L200, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mitsubishi-l200-1-t.jpg",
+   "alt": "Mitsubishi L200, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 416
+  }
+ },
+ "mitsubishi-mirage-g4": {
+  "archivo": "foto-mitsubishi-mirage-g4-1.jpg",
+  "alt": "Mitsubishi Mirage G4, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mitsubishi-mirage-g4-1.jpg",
+    "alt": "Mitsubishi Mirage G4, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   },
+   {
+    "archivo": "foto-mitsubishi-mirage-g4-2.jpg",
+    "alt": "Mitsubishi Mirage G4, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1098
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mitsubishi-mirage-g4-1-t.jpg",
+   "alt": "Mitsubishi Mirage G4, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "mitsubishi-outlander": {
+  "archivo": "foto-mitsubishi-outlander-1.jpg",
+  "alt": "Mitsubishi Outlander, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mitsubishi-outlander-1.jpg",
+    "alt": "Mitsubishi Outlander, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1006
+   },
+   {
+    "archivo": "foto-mitsubishi-outlander-2.jpg",
+    "alt": "Mitsubishi Outlander, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 722
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mitsubishi-outlander-1-t.jpg",
+   "alt": "Mitsubishi Outlander, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 452
+  }
+ },
+ "mitsubishi-xpander": {
+  "archivo": "foto-mitsubishi-xpander-1.jpg",
+  "alt": "Mitsubishi Xpander, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-mitsubishi-xpander-1.jpg",
+    "alt": "Mitsubishi Xpander, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1066
+   },
+   {
+    "archivo": "foto-mitsubishi-xpander-2.jpg",
+    "alt": "Mitsubishi Xpander, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 1200
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-mitsubishi-xpander-1-t.jpg",
+   "alt": "Mitsubishi Xpander, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 479
+  }
+ },
+ "isuzu-d-max": {
+  "archivo": "foto-isuzu-d-max-1.jpg",
+  "alt": "Isuzu D-MAX, vista 3/4 frontal",
+  "galeria": [
+   {
+    "archivo": "foto-isuzu-d-max-1.jpg",
+    "alt": "Isuzu D-MAX, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 942
+   },
+   {
+    "archivo": "foto-isuzu-d-max-2.jpg",
+    "alt": "Isuzu D-MAX, vista 3/4 frontal",
+    "angulo": "3/4 frontal",
+    "ancho": 1600,
+    "alto": 845
+   }
+  ],
+  "thumb": {
+   "archivo": "foto-isuzu-d-max-1-t.jpg",
+   "alt": "Isuzu D-MAX, vista 3/4 frontal",
+   "ancho": 720,
+   "alto": 424
   }
  }
 }
