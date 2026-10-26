@@ -1,0 +1,48 @@
+{
+  "marca": "Porsche",
+  "modelo": "718 Cayman y Boxster",
+  "marcaSlug": "porsche",
+  "modeloSlug": "718",
+  "generacionMexico": "718 Cayman 982 (2017+), la foto principal es de la 718 Cayman Style Edition que vende Porsche México",
+  "notasModelo": "",
+  "actualizado": "2026-10-25",
+  "candidatas": [
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/DSCF1813_%2852536845263%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:DSCF1813_(52536845263).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "autor": "Stacy Sheff from Los Angeles, USA",
+      "credito": "Foto: Stacy Sheff from Los Angeles, USA / Wikimedia Commons (CC0)",
+      "compartirIgual": false,
+      "ancho": 4000,
+      "alto": 2667,
+      "anioOGeneracion": "2022 · 718 Cayman 982 (2017+), la foto principal es de la 718 Cayman Style Edition que vende Porsche México",
+      "angulo": "3/4 frontal",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: DSCF1813 (52536845263). Foto de 2022. Categoría Commons: Porsche 982 Cayman. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (718 Cayman 982 (2017+), la foto principal es de la 718 Cayman Style Edition que vende Porsche México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    },
+    {
+      "archivoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Sal%C3%A3o_do_Autom%C3%B3vel_2016_%2830968208025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "paginaUrl": "https://commons.wikimedia.org/wiki/File:Sal%C3%A3o_do_Autom%C3%B3vel_2016_(30968208025).jpg",
+      "fuenteId": "wikimedia-commons",
+      "licencia": "CC BY 2.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/2.0",
+      "autor": "Paulo Guereta from São Paulo",
+      "credito": "Foto: Paulo Guereta from São Paulo / Wikimedia Commons, CC BY 2.0",
+      "compartirIgual": false,
+      "ancho": 1200,
+      "alto": 800,
+      "anioOGeneracion": "2016 · 718 Cayman 982 (2017+), la foto principal es de la 718 Cayman Style Edition que vende Porsche México",
+      "angulo": "perfil",
+      "coincideConMexico": true,
+      "revisadaAOjo": true,
+      "verificadoEl": "2026-10-25",
+      "notas": "Archivo: Salão do Automóvel 2016 (30968208025). Foto de 2016. Categoría Commons: Porsche 982 Cayman. CC BY: se puede recortar; indicar «recortada» en el pie si se edita. Revisión visual (Claude, 2026-10-25): misma generación que se vende en México (718 Cayman 982 (2017+), la foto principal es de la 718 Cayman Style Edition que vende Porsche México). Logotipos y nombre del modelo son marcas registradas: uso editorial/informativo, sin sugerir patrocinio."
+    }
+  ],
+  "sinCandidatas": null
+}

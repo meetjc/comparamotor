@@ -19295,6 +19295,60 @@
     "comparativas"
    ],
    "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
+  },
+  "foto-porsche-718-1.jpg": {
+   "licencia": "cc0",
+   "licenciaNombre": "CC0 1.0",
+   "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:DSCF1813_(52536845263).jpg",
+   "autor": "Stacy Sheff from Los Angeles, USA",
+   "credito": "Foto: Stacy Sheff from Los Angeles, USA / Wikimedia Commons (CC0)",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-porsche-718-2.jpg": {
+   "licencia": "cc-by",
+   "licenciaNombre": "CC BY 2.0",
+   "licenciaUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:Sal%C3%A3o_do_Autom%C3%B3vel_2016_(30968208025).jpg",
+   "autor": "Paulo Guereta from São Paulo",
+   "credito": "Foto: Paulo Guereta from São Paulo / Wikimedia Commons, CC BY 2.0",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Reducida a 1600 px sin recortar ni editar."
+  },
+  "foto-porsche-718-1-t.jpg": {
+   "licencia": "cc0",
+   "licenciaNombre": "CC0 1.0",
+   "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fuenteId": "wikimedia-commons",
+   "paginaUrl": "https://commons.wikimedia.org/wiki/File:DSCF1813_(52536845263).jpg",
+   "autor": "Stacy Sheff from Los Angeles, USA",
+   "credito": "Foto: Stacy Sheff from Los Angeles, USA / Wikimedia Commons (CC0)",
+   "fecha": "2026-10-25",
+   "permiteEdicion": true,
+   "compartirIgual": false,
+   "usos": [
+    "noticias",
+    "fichas",
+    "comparativas"
+   ],
+   "notas": "Miniatura de 720 px del mismo archivo, sin recortar ni editar."
   }
  },
  "_campos": {
