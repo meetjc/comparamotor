@@ -178,9 +178,11 @@
     var cerca = over.slice(0, 3), resto = over.slice(3);
     var sup = st.eng + '% de enganche, ' + st.plazo + ' meses y tasa de ejemplo de ' + v('tasa').toFixed(1) + '%';
     $('bud-s').textContent = ok.length ? ok.length + ' de ' + list.length + ' versiones te alcanzan con ' + sup + '.' : 'Ninguna versión te alcanza con ' + sup + '. Prueba subir el enganche o el plazo.';
+    // Escala de las barras: se ajusta al presupuesto y a lo que se muestra, para que la marca nunca se salga de la barra
+    var vis = ok.concat(cerca, showAll ? resto : []), escala = Math.max(budget, vis.reduce(function (m, r) { return Math.max(m, r.pago); }, 0)) * 1.1 || 1;
     function row(r) {
-      var si = r.pago <= budget, pct = Math.min(1, r.pago / 8000);
-      return '<div class="fit' + (si ? '' : ' over') + '"><div><div class="nm">' + esc(r.a.marca + ' ' + r.a.modelo) + '<small>' + esc(ver(r.a)) + '</small></div><div class="pay">Enganche <b>' + mxn.format(r.eng) + '</b> + mensualidad <b>' + mxn.format(r.pago) + '</b> · precio ' + mxn.format(r.precio) + '</div></div><div class="side">' + (si ? '<span class="tag dark">Te alcanza</span>' : '<span class="tag red">Te faltan ' + mxn.format(r.pago - budget) + ' al mes</span>') + '<button class="chip" type="button" data-pick="' + r.k + '">Comparar</button></div><div class="meter" aria-hidden="true"><i style="transform:scaleX(' + pct.toFixed(3) + ')"></i><b style="left:' + (budget / 8000 * 100).toFixed(2) + '%"></b></div></div>';
+      var si = r.pago <= budget, pct = Math.min(1, r.pago / escala);
+      return '<div class="fit' + (si ? '' : ' over') + '"><div><div class="nm">' + esc(r.a.marca + ' ' + r.a.modelo) + '<small>' + esc(ver(r.a)) + '</small></div><div class="pay">Enganche <b>' + mxn.format(r.eng) + '</b> + mensualidad <b>' + mxn.format(r.pago) + '</b> · precio ' + mxn.format(r.precio) + '</div></div><div class="side">' + (si ? '<span class="tag dark">Te alcanza</span>' : '<span class="tag red">Te faltan ' + mxn.format(r.pago - budget) + ' al mes</span>') + '<button class="chip" type="button" data-pick="' + r.k + '">Comparar</button></div><div class="meter" aria-hidden="true"><i style="transform:scaleX(' + pct.toFixed(3) + ')"></i><b style="left:' + Math.min(100, budget / escala * 100).toFixed(2) + '%"></b></div></div>';
     }
     var h = ok.length ? '<h3 class="fit-h">Te alcanzan (' + ok.length + ')</h3>' + ok.map(row).join('') : '';
     if (cerca.length) h += '<h3 class="fit-h">' + (ok.length ? 'Cerca de tu presupuesto' : 'Las más cercanas a tu presupuesto') + '</h3>' + cerca.map(row).join('');

@@ -266,3 +266,15 @@
 
 // En celular, deja a la vista el chip activo de la subnavegación
 (function () { try { var a = document.querySelector('.subnav [aria-current]'); if (a && a.scrollIntoView) { var n = a.parentNode; n.scrollLeft = Math.max(0, a.offsetLeft - (n.clientWidth - a.offsetWidth) / 2); } } catch (e) {} })();
+
+// Al imprimir o guardar PDF: fecha y hora en el aviso legal, y los desplegables abiertos para que salga todo
+(function () {
+  var cerrados = [];
+  addEventListener('beforeprint', function () {
+    var f = document.querySelector('[data-print-fecha]');
+    if (f) try { f.textContent = ' el ' + new Date().toLocaleString('es-MX', { dateStyle: 'long', timeStyle: 'short' }); } catch (e) {}
+    cerrados = [].filter.call(document.querySelectorAll('main details'), function (d) { return !d.open; });
+    cerrados.forEach(function (d) { d.open = true; });
+  });
+  addEventListener('afterprint', function () { cerrados.forEach(function (d) { d.open = false; }); cerrados = []; });
+})();

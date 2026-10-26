@@ -276,7 +276,7 @@ a.tile:active { transform: translateY(0) scale(.99); }
 .pcard2 .tag.dark { background: var(--ink); color: #fff; }
 /* Imprimir o guardar PDF del desglose para llevar a la agencia */
 @media print {
-  body.print-desglose > *:not(main), body.print-desglose main > *:not(#desglose), body.print-desglose .consent, body.print-desglose .acts, body.print-desglose .rends, body.print-desglose .rend { display: none !important; }
+  body.print-desglose > *:not(main):not(.print-legal), body.print-desglose main > *:not(#desglose), body.print-desglose .decide, body.print-desglose .consent, body.print-desglose .acts, body.print-desglose .rends, body.print-desglose .rend { display: none !important; }
   body.print-desglose #desglose { padding: 0; background: #fff; color: #000; }
   body.print-desglose #desglose::before { content: "ComparaMotor · comparamotor.com · Precios con su fuente y fecha. Mensualidad simulada con tasa de ejemplo, no es oferta de crédito."; display: block; font-size: 11px; margin-bottom: 10px; }
   body.print-desglose details.diff { display: block; } body.print-desglose details.diff > * { display: block; }
@@ -294,3 +294,11 @@ a.tile:active { transform: translateY(0) scale(.99); }
 .consent.consent-lite p { margin: 0; color: var(--on-night); }
 .consent.consent-lite .pill { min-height: 34px; padding: 6px 14px; font-size: 13px; }
 @media (max-width: 640px) { .consent.consent-lite { flex-direction: row; align-items: center; flex-wrap: wrap; bottom: calc(10px + env(safe-area-inset-bottom, 0px)); left: 10px; right: 10px; } .consent.consent-lite p { flex: 1 1 100%; } .consent.consent-lite div { flex: 1 1 100%; justify-content: flex-end; } .consent.consent-lite div > * { flex: 0 0 auto; } }
+
+/* Aviso legal en todo lo que se imprime o se guarda en PDF */
+.print-legal { display: none; }
+@media print {
+  .consent, .toast, .vid-ctl, .ticker { display: none !important; }
+  .print-legal { display: block !important; margin: 18px 0 0; padding-top: 10px; border-top: 1px solid #999; font-size: 9.5px; line-height: 13px; color: #222; break-inside: avoid; page-break-inside: avoid; }
+  .print-legal b { font-weight: 700; }
+}
