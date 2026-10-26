@@ -20,6 +20,9 @@
   function trackIdle(n, p) { clearTimeout(tkt[n]); tkt[n] = setTimeout(function () { track(n, p()); }, 1500); }
   var cmpEv = function () { return { herramienta: 'comparador', auto_a: st.a, auto_b: st.b, modo: st.modo }; };
   function v(id) { var n = parseFloat($(id).value); return isFinite(n) && n >= 0 ? n : 0; }
+  var SUP = ['tasa', 'cat', 'km', 'gas', 'seguro', 'serv'];
+  function sup() { var o = {}; SUP.forEach(function (id) { o[id] = v(id); }); return o; }
+  if (st.sup) { SUP.forEach(function (id) { if (st.sup[id] != null && $(id)) $(id).value = st.sup[id]; }); delete st.sup; } // supuestos guardados con la comparación
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   ['sa', 'sb'].forEach(function (id) { var s = $(id); if (s.options.length) return; /* el servidor ya trae las opciones */ Object.keys(AUTOS).forEach(function (k) { var a = AUTOS[k], o = document.createElement('option'); o.value = k; o.textContent = a.marca + ' ' + a.modelo + (a.versionOk ? ' ' + (a.ver || a.version) : ''); s.appendChild(o); }); });
   var CARRO = { suv: 'SUV', sedan: 'sedán', hatchback: 'hatchback', pickup: 'pickup', van: 'van', coupe: 'coupé' };
@@ -218,7 +221,8 @@
     var fb = function () { var ta = document.createElement('textarea'); ta.value = txt; ta.setAttribute('readonly', ''); ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); ok(); } catch (er) { toast('Selecciona y copia el texto a mano.'); } ta.remove(); };
     try { navigator.clipboard.writeText(txt).then(ok, fb); } catch (er) { fb(); }
   });
-  $('save-top').addEventListener('click', function () { track('comparar_guardar', cmpEv()); try { localStorage.setItem('cm-cmp', JSON.stringify(st)); var g = JSON.parse(localStorage.getItem('cm-garage') || '{}'); g.comparaciones = (g.comparaciones || []).filter(function (c) { return !(c.a === st.a && c.b === st.b); }); g.comparaciones.unshift({ a: st.a, b: st.b, ma: AUTOS[st.a].marca + ' ' + AUTOS[st.a].modelo, mb: AUTOS[st.b].marca + ' ' + AUTOS[st.b].modelo, modo: st.modo, eng: st.eng, plazo: st.plazo, fecha: new Date().toISOString().slice(0, 10) }); g.comparaciones = g.comparaciones.slice(0, 12); localStorage.setItem('cm-garage', JSON.stringify(g)); } catch (e) {} });
+  if ($('b-print')) $('b-print').addEventListener('click', function () { track('comparar_imprimir', cmpEv()); document.body.classList.add('print-desglose'); window.print(); setTimeout(function () { document.body.classList.remove('print-desglose'); }, 500); });
+  $('save-top').addEventListener('click', function () { track('comparar_guardar', cmpEv()); try { localStorage.setItem('cm-cmp', JSON.stringify(Object.assign({}, st, { sup: sup() }))); var g = JSON.parse(localStorage.getItem('cm-garage') || '{}'); g.comparaciones = (g.comparaciones || []).filter(function (c) { return !(c.a === st.a && c.b === st.b); }); g.comparaciones.unshift({ sup: sup(), a: st.a, b: st.b, ma: AUTOS[st.a].marca + ' ' + AUTOS[st.a].modelo, mb: AUTOS[st.b].marca + ' ' + AUTOS[st.b].modelo, modo: st.modo, eng: st.eng, plazo: st.plazo, fecha: new Date().toISOString().slice(0, 10) }); g.comparaciones = g.comparaciones.slice(0, 12); localStorage.setItem('cm-garage', JSON.stringify(g)); } catch (e) {} });
   if ($('b-ficha')) $('b-ficha').addEventListener('click', function (e) { e.preventDefault(); track('comparar_ver_ficha', cmpEv()); location.href = AUTOS[st.a].ficha; });
   addEventListener('resize', function () { chart(calc(st.a), calc(st.b)); });
 

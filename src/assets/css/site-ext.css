@@ -256,3 +256,30 @@ a.tile:active { transform: translateY(0) scale(.99); }
 .fit-h { font-size: 15px; line-height: 20px; font-weight: 600; color: var(--on-night); margin: 6px 0 -2px; }
 .fit-h:first-child { margin-top: 0; }
 .fit-more { justify-self: start; margin-top: 4px; }
+/* Promociones escaneables: cifras por opción, condición junto a la cifra */
+.pgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 14px; }
+.pcard2 { background: var(--canvas); color: var(--ink); border-radius: var(--r-xl, 16px); padding: 16px 18px; display: grid; gap: 10px; align-content: start; box-shadow: inset 0 0 0 1px var(--pressed, rgba(0,0,0,.08)); }
+.pcard2 .p-hd { display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; }
+.pcard2 .p-hd h3, .pcard2 .p-hd h4 { flex: 1 1 100%; font-size: 17px; line-height: 23px; font-weight: 700; margin: 0; }
+.pcard2 .p-op { display: grid; gap: 6px; padding-top: 8px; border-top: 1px solid var(--canvas-soft, #eee); }
+.pcard2 .p-ol { font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--body); }
+.pcard2 .p-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.pcard2 .p-chip { display: grid; background: var(--canvas-soft, #f3f1ee); border-radius: 10px; padding: 6px 10px; min-width: 0; }
+.pcard2 .p-chip small { font-size: 11.5px; line-height: 14px; color: var(--body); }
+.pcard2 .p-chip b { font-size: 16px; line-height: 20px; font-variant-numeric: tabular-nums; }
+.pcard2 .p-tx { font-size: 14px; line-height: 20px; color: var(--body); margin: 0; overflow-wrap: anywhere; }
+.pcard2 .p-cond { font-size: 14px; line-height: 20px; margin: 0; overflow-wrap: anywhere; }
+.pcard2 .p-more summary { cursor: pointer; font-size: 14px; font-weight: 600; }
+.pcard2 .p-more p { font-size: 13.5px; line-height: 19px; color: var(--body); margin: 6px 0 0; overflow-wrap: anywhere; }
+.pcard2 .src { font-size: 12.5px; color: var(--body); }
+.pcard2 .src a { color: inherit; text-decoration: underline; }
+.pcard2 .tag.dark { background: var(--ink); color: #fff; }
+/* Imprimir o guardar PDF del desglose para llevar a la agencia */
+@media print {
+  body.print-desglose > *:not(main), body.print-desglose main > *:not(#desglose), body.print-desglose .consent, body.print-desglose .acts, body.print-desglose .rends, body.print-desglose .rend { display: none !important; }
+  body.print-desglose #desglose { padding: 0; background: #fff; color: #000; }
+  body.print-desglose #desglose::before { content: "ComparaMotor · comparamotor.com · Precios con su fuente y fecha. Mensualidad simulada con tasa de ejemplo, no es oferta de crédito."; display: block; font-size: 11px; margin-bottom: 10px; }
+  body.print-desglose details.diff { display: block; } body.print-desglose details.diff > * { display: block; }
+  body.print-desglose a { color: #000; }
+}
+.pcard2 { min-width: 0; } .pcard2 .tag { white-space: normal; max-width: 100%; overflow-wrap: anywhere; text-align: left; }

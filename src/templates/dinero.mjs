@@ -3,7 +3,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { page } from '../layout.mjs';
 import { esc, mxn, num, fechaCorta, fechaLarga, readJSON, SITE } from '../lib.mjs';
-import { answer, table, fuentes, faq, ph, actualizado } from './common.mjs';
+import { answer, table, fuentes, faq, ph, actualizado, promoCard } from './common.mjs';
 import { calcCredito, fichaURL } from './autos.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
@@ -136,7 +136,7 @@ export function paginas(C, D) {
     <div class="wrap blk" style="padding-top:0">
       ${answer(`De las <b>${ps.length} promociones vigentes</b> que verificamos en los sitios oficiales, <b>${exigen} exigen financiar con la financiera de la marca</b>. Si pagas de contado o con tu banco, normalmente pagas el precio de lista. Cada promoción lleva su vigencia, su condición y su fuente.`)}
       <div class="topics" style="margin:20px 0">${marcas.map((m) => `<a class="pill p-white" href="#${slug(m)}">${esc(m)}</a>`).join('')}</div>
-      ${marcas.map((m) => `<h2 id="${slug(m)}" style="margin-top:32px">Promociones de ${esc(m)}</h2>${table({ head: ['Modelo y promoción', 'Condición', 'Vence', 'Fuente'], rows: ps.filter((p) => p.marca === m).map((p) => [`<b>${esc(p.modelo)}</b><br>${esc(p.descripcion)}${p.exige_financiar_con_marca ? '<br><span class="tag red">Exige crédito de la marca</span>' : ''}`, `${esc(p.condicion || 'La fuente no publica la condición.')}${p.cat_promedio_publicado ? `<br><span class="fine">${esc(p.cat_promedio_publicado)}</span>` : ''}`, p.vigencia_fin ? `<b>${esc(fechaCorta(p.vigencia_fin))}</b>` : 'Por confirmar', p.url ? `<a class="src" href="${esc(p.url)}" target="_blank" rel="noopener">Sitio oficial</a>` : '']) })}`).join('')}
+      ${marcas.map((m) => `<h2 id="${slug(m)}" style="margin-top:32px">Promociones de ${esc(m)}</h2><div class="pgrid">${ps.filter((p) => p.marca === m).map((p) => promoCard(p)).join('')}</div>`).join('')}
       <p class="fine" style="margin-top:16px">Promociones publicadas por cada marca y consultadas el ${esc(fechaLarga(fecha))}. Pueden cambiar sin aviso: confirma con la agencia antes de apartar.</p>
     </div>`;
     out.push({ route: '/promociones/', grupo: 'fichas', html: page(ctx, { title: 'Promociones de autos nuevos en México este mes, con su letra chiquita', description: `${ps.length} promociones vigentes de autos nuevos en México con su condición, vigencia, CAT publicado y fuente oficial.`, body, crumbsItems: CR([{ name: 'Promociones', url: '/promociones/' }]), updated: fechaLarga(fecha) }) });

@@ -122,3 +122,42 @@ export function linkify(text) {
   }
   return out + esc(t.slice(last));
 }
+
+// ---------- Promociones escaneables ----------
+// Separa ofertas alternativas («X o Y», «X; Y») y saca, de cada una, sus datos clave tal como los publica la marca.
+// No calcula nada que la fuente no dé: si una cifra no aparece en el texto, no hay chip.
+export function promoOpciones(desc) {
+  const t = String(desc || '').replace(/\s+/g, ' ').trim();
+  const alts = t.split(/\s*;\s*|,?\s+o\s+(?=(?:\d|bono|tasa|precio|a \d|comisi|mensualidad|\$|en financ|plan|enganche))/i).map((x) => x.trim()).filter(Boolean);
+  const M = (re, x) => { const m = x.match(re); return m ? m : null; };
+  return alts.map((x) => {
+    const c = []; let m;
+    if ((m = M(/precio(?: especial)?(?: de contado)? desde \$\s?([\d,]+)/i, x))) c.push(['Precio desde', '$' + m[1]]);
+    if ((m = M(/bono(?: de)?( hasta)? \$\s?([\d,]+)/i, x))) c.push([m[1] ? 'Bono hasta' : 'Bono', '$' + m[2]]);
+    if ((m = M(/(\d+) meses sin intereses|(\d+) MSI/i, x))) c.push(['Sin intereses', (m[1] || m[2]) + ' meses']);
+    if ((m = M(/mensualidad(?:es)?(?: promedio)?(?: desde| de)? \$\s?([\d,.]+)/i, x))) c.push(['Mensualidad', '$' + m[1].replace(/\.$/, '')]);
+    if ((m = M(/tasa(?: preferencial| fija)?(?: desde| de)? ([\d.]+)\s?%/i, x))) c.push(['Tasa', m[1] + '%']);
+    if ((m = M(/enganche(?: m[ií]nimo)?(?: de| del)? (\d+)\s?%/i, x))) c.push(['Enganche', m[1] + '%']);
+    if ((m = M(/(?:a|plazo(?: [úu]nicamente)?(?: de)?) (\d+) meses(?! sin)/i, x))) c.push(['Plazo', m[1] + ' meses']);
+    if ((m = M(/(\d+) a[ñn]os? de seguro gratis/i, x))) c.push(['Seguro gratis', m[1] + (m[1] === '1' ? ' año' : ' años')]);
+    if (/comisi[oó]n por apertura (?:0\s?%|gratis)|0\s?% (?:de )?comisi[oó]n por apertura/i.test(x)) c.push(['Comisión por apertura', '0%']);
+    return { texto: x.charAt(0).toUpperCase() + x.slice(1), chips: c };
+  });
+}
+
+// Tarjeta de promoción: cifras en chips por opción, condición decisiva visible y detalle desplegable
+export function promoCard(p, { tag = 'h3', compacta = false } = {}) {
+  const ops = promoOpciones(p.descripcion);
+  const cond = String(p.condicion || '').trim();
+  const [c1, ...cr] = cond ? cond.split(/(?<=\.)\s+/) : [];
+  const vence = p.vigencia_fin ? `<span class="tag red">Hasta el ${esc(fechaCorta(p.vigencia_fin))}</span>` : '<span class="tag">Vigencia por confirmar</span>';
+  const opsHTML = ops.map((o, i) => `<div class="p-op">${ops.length > 1 ? `<span class="p-ol">Opción ${i + 1}</span>` : ''}${o.chips.length ? `<div class="p-chips">${o.chips.map(([k, v]) => `<span class="p-chip"><small>${esc(k)}</small><b>${esc(v)}</b></span>`).join('')}</div>` : ''}<p class="p-tx">${esc(o.texto)}</p></div>`).join('');
+  const resto = [cr.join(' '), p.cat_promedio_publicado || ''].filter(Boolean);
+  return `<article class="pcard2">
+    <div class="p-hd"><${tag}>${esc(p.marca)} ${esc(p.modelo)}</${tag}>${vence}${p.exige_financiar_con_marca ? `<span class="tag dark">Exige crédito de la marca${p.financiera ? ': ' + esc(String(p.financiera).split('(')[0].trim()) : ''}</span>` : ''}</div>
+    ${opsHTML}
+    <p class="p-cond"><b>Condición:</b> ${c1 ? esc(c1) : 'La fuente no publica la condición. Confírmala antes de apartar.'}</p>
+    ${!compacta && resto.length ? `<details class="p-more"><summary>Ver condiciones completas</summary>${resto.map((x) => `<p>${esc(x)}</p>`).join('')}</details>` : ''}
+    <span class="src">${p.url ? `<a href="${esc(p.url)}" target="_blank" rel="noopener">Sitio oficial</a>` : 'Fuente por confirmar'}${p.fecha_verificacion ? `, consultada el ${esc(fechaCorta(p.fecha_verificacion))}` : ''}</span>
+  </article>`;
+}

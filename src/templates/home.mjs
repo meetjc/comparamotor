@@ -1,7 +1,7 @@
 // Inicio (home v5 aprobada por JC el 20 oct 2026), alimentada con los datos verificados.
 import { page, ticker } from '../layout.mjs';
 import { esc, mxn, fechaCorta, fechaLarga, costo5, SITE } from '../lib.mjs';
-import { img, credito, entrada, rendimiento, sil, CARRO_N } from './common.mjs';
+import { img, credito, entrada, rendimiento, sil, CARRO_N, promoCard } from './common.mjs';
 
 const REND_SUPUESTO = { hatchback: 16, sedan: 15, suv: 13, pickup: 10, van: 11, coupe: 13 };
 const CHECK = '<svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="#1a73e8"/><path d="m6 10.2 2.6 2.6L14 7.4" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
@@ -98,7 +98,7 @@ export function home(ctx, D, opt = {}) {
   const g0 = guias[0], gl = guias.slice(1, 4);
   const guiasHTML = g0 ? `<a class="lead-story rv" href="${ctx.u(g0.url)}"><span class="ph">${img(ctx, reg, g0.imagen, g0.imagenAlt)}</span><span class="tag" style="justify-self:start">${esc(g0.tema)}</span><h3>${esc(g0.titulo)}</h3><p>${esc(g0.resumen)}</p><span class="byline">Redacción ComparaMotor · ${esc(fechaCorta(g0.fecha))}</span></a><div class="list">${gl.map((g) => `<a class="item rv" href="${ctx.u(g.url)}"><div><span class="tag">${esc(g.tema)}</span><h4>${esc(g.titulo)}</h4><span class="byline">Guía · ${g.minutos || 5} min de lectura</span></div><span class="ph">${img(ctx, reg, g.imagen, g.imagenAlt)}</span></a>`).join('')}</div>` : '';
 
-  const promosHTML = promos.slice(0, 3).map((p, i) => `<article class="pcard${i === 0 ? ' feat' : ''} rv"${i ? ` style="--d:${i * 80}ms"` : ''}><span class="tag${p.vigenciaHasta ? ' red' : ''}" style="justify-self:start">${p.vigenciaHasta ? 'Hasta el ' + esc(fechaCorta(p.vigenciaHasta)) : 'Vigencia por confirmar'}</span><h3>${esc(p.titulo)}</h3><p>${esc(p.condicion || '')}</p><span class="src"><a href="${esc(p.url)}" target="_blank" rel="noopener" style="text-decoration:underline">${esc(p.fuente)}</a>, consultada el ${esc(fechaCorta(p.fechaVerificacion))}</span></article>`).join('');
+  const promosHTML = promos.slice(0, 3).map((p) => promoCard({ marca: p.auto.marca, modelo: p.auto.modelo, descripcion: p.oferta.descripcion || (p.oferta.precioOferta ? 'Precio desde ' + mxn(p.oferta.precioOferta) : ''), condicion: p.condicion, vigencia_fin: p.vigenciaHasta, url: p.url, fecha_verificacion: p.fechaVerificacion }, { compacta: true })).join('');
 
   const S = {
     cine: `
@@ -173,7 +173,7 @@ export function home(ctx, D, opt = {}) {
       <div class="dgm" id="dgm"></div>
       <div class="decide">
         <div><h3>¿Ya sabes cuál te conviene?</h3><p>Llévate la cuenta a la agencia. Abre la ficha de cada versión para ver todas sus versiones y fuentes.</p></div>
-        <div class="acts"><button class="pill p-white" type="button" id="b-copy">Copiar para WhatsApp</button><a class="pill p-primary" id="b-ficha" href="${ctx.u('/autos/')}">Ver las fichas</a></div>
+        <div class="acts"><button class="pill p-white" type="button" id="b-copy">Copiar para WhatsApp</button><button class="pill p-white" type="button" id="b-print">Imprimir o guardar PDF</button><a class="pill p-primary" id="b-ficha" href="${ctx.u('/autos/')}">Ver las fichas</a></div>
       </div>
       <details class="diff"><summary>Lo que cambia entre versiones: seguridad, garantía y consumo</summary><div class="diff-in"><table id="dt"></table><p class="legal">Cada dato lleva su fuente en la ficha del modelo. «Por confirmar» nunca se muestra como «no lo trae».</p></div></details>
       <p class="legal" id="legal"></p>
@@ -246,7 +246,7 @@ export function home(ctx, D, opt = {}) {
   ${promosHTML ? `<section class="sec night" id="promos" aria-labelledby="pr-t">
     <div class="wrap">
       <div class="sec-h"><h2 id="pr-t">Promociones que vencen</h2><a class="pill p-primary" href="${ctx.u('/promociones/')}">Ver todas las promociones</a></div>
-      <div class="promos">${promosHTML}</div>
+      <div class="pgrid">${promosHTML}</div>
     </div>
   </section>` : ''}`,
     preguntas: `
