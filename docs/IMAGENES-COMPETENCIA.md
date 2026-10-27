@@ -46,7 +46,7 @@ Avisos legales de imágenes (lo que se pudo leer):
 6. Galería: aparece en notas de prueba y comparativas, no en notas cortas.
 7. Alt: solo Autoproyecto lo escribe como descripción útil.
 
-## Receta para ComparaMotor
+## Receta para Autocifras
 | Elemento | Nota o noticia (500 a 900 palabras) | Guía (1,200 a 1,800 palabras) |
 | :--- | :--- | :--- |
 | Fotos | 3 a 4 | 4 a 6 (unas 3 por 1,000 palabras, mejor que las 1 o 2 de finanzas) |

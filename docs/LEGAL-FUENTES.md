@@ -1,4 +1,4 @@
-# ComparaMotor: fuentes legales verificadas
+# Autocifras: fuentes legales verificadas
 
 **Fecha de consulta de todas las fuentes:** martes 20 de octubre de 2026 (hora de la Ciudad de México).
 **Qué es este documento:** una recopilación de normas y términos oficiales con su artículo, lo que exigen y su liga. No es asesoría legal. Antes de publicar el sitio conviene que una persona abogada revise los puntos marcados como **por confirmar** y los marcados como **interpretación**.
@@ -189,7 +189,7 @@
 | Contenido pagado | Guía de Publicidad para Influencers, Profeco (2023) | Guía no vinculante. Recomienda etiquetas claras y visibles (#Publicidad, #PublicidadPagada, #Patrocinio); considera publicidad también los regalos, viajes o beneficios no económicos; pide opiniones auténticas, fidedignas y recientes; desaconseja etiquetas ambiguas como "#Ad" o "Embajador". |
 | Logotipos | LFPPI art. 386; LFDA art. 13 | **Interpretación:** un logotipo puede ser marca registrada y además obra protegida; usar el nombre en texto es menos riesgoso que el logotipo. Uso de logos de kits de prensa: depende de la licencia de cada armadora (**por confirmar** caso por caso). |
 
-**Para el diseño:** comparaciones con datos objetivos y su fuente y fecha; evitar "el mejor" o "el más barato" sin respaldo; nombres de marcas y modelos en texto, sin sugerir alianza ni patrocinio; aviso visible de independencia ("ComparaMotor no está afiliado a las marcas, salvo donde se indique"); reseñas solo de usuarios verificados, sin pago, y cualquier contenido patrocinado etiquetado.
+**Para el diseño:** comparaciones con datos objetivos y su fuente y fecha; evitar "el mejor" o "el más barato" sin respaldo; nombres de marcas y modelos en texto, sin sugerir alianza ni patrocinio; aviso visible de independencia ("Autocifras no está afiliado a las marcas, salvo donde se indique"); reseñas solo de usuarios verificados, sin pago, y cualquier contenido patrocinado etiquetado.
 
 ---
 
@@ -198,7 +198,7 @@
 | Punto | Norma y artículo | Qué exige |
 |---|---|---|
 | Qué es el CAT | LTOSF art. 3, fr. VI | Costo anual total en porcentaje anual que, **para fines informativos y de comparación**, incorpora todos los costos y gastos del crédito que otorgan las Entidades. |
-| Quién está obligado | LTOSF art. 3, fr. VIII a X | "Entidades" son las Entidades Financieras (bancos, SOFOM reguladas y no reguladas, etc.) y las Entidades Comerciales (sociedades que otorgan crédito al público de manera habitual). **Interpretación:** ComparaMotor no otorga crédito, así que no es Entidad; pero reproduce publicidad de Entidades. Si un comparador queda sujeto directamente es **por confirmar**. |
+| Quién está obligado | LTOSF art. 3, fr. VIII a X | "Entidades" son las Entidades Financieras (bancos, SOFOM reguladas y no reguladas, etc.) y las Entidades Comerciales (sociedades que otorgan crédito al público de manera habitual). **Interpretación:** Autocifras no otorga crédito, así que no es Entidad; pero reproduce publicidad de Entidades. Si un comparador queda sujeto directamente es **por confirmar**. |
 | Metodología | LTOSF art. 8 | Banxico fija la fórmula, componentes y metodología del CAT. |
 | CAT en publicidad | LTOSF art. 15 | La publicidad y los contratos deben contener el CAT cuando así lo dispongan CONDUSEF (Entidades Financieras) o Profeco (Entidades Comerciales). |
 | Autoridades de publicidad | LTOSF art. 12 | CONDUSEF regula la publicidad de Entidades Financieras y puede ordenar suspenderla; Profeco hace lo mismo con las Entidades Comerciales. |
@@ -219,12 +219,12 @@
 
 | Punto | Norma y artículo | Qué exige |
 |---|---|---|
-| Alcance | LFPC art. 76 Bis, primer párrafo | Aplica a transacciones entre proveedores y consumidores por medios electrónicos. **Interpretación:** ComparaMotor no vende autos; aplica de lleno si cobra algo (suscripción, servicio) y como referencia en el resto. |
+| Alcance | LFPC art. 76 Bis, primer párrafo | Aplica a transacciones entre proveedores y consumidores por medios electrónicos. **Interpretación:** Autocifras no vende autos; aplica de lleno si cobra algo (suscripción, servicio) y como referencia en el resto. |
 | Obligaciones | LFPC art. 76 Bis, fr. I a IX | Confidencialidad de los datos; seguridad informada; **domicilio físico, teléfonos y medios de reclamación** antes de la transacción; evitar prácticas engañosas; informar términos, costos y cargos; respetar la decisión de **no recibir avisos comerciales**; no usar estrategias sin información clara, sobre todo con población vulnerable; informar cobros recurrentes y pedir consentimiento expreso (fr. VIII, 2025); permitir cancelar de inmediato (fr. IX, 2025). Multa: art. 128. |
-| Norma Mexicana | LFPC art. 76 Bis 1; NMX-COE-001-SCFI-2018 | Términos y condiciones públicos con nombre comercial, razón social, **domicilio en territorio nacional, RFC**, teléfono y correo (5.2.1.1); información en español y precios en moneda nacional (5.1.2); publicidad veraz (5.1.1); mecanismo para aceptar los términos distinto del consentimiento de datos (5.2.2); consentimiento para perfiles y publicidad (5.4.1); indicar si se cumple la norma (4.1). Define al "Proveedor intermediario" que pone en contacto a terceros proveedores con consumidores (3.12); si ComparaMotor encaja ahí es **por confirmar**. |
+| Norma Mexicana | LFPC art. 76 Bis 1; NMX-COE-001-SCFI-2018 | Términos y condiciones públicos con nombre comercial, razón social, **domicilio en territorio nacional, RFC**, teléfono y correo (5.2.1.1); información en español y precios en moneda nacional (5.1.2); publicidad veraz (5.1.1); mecanismo para aceptar los términos distinto del consentimiento de datos (5.2.2); consentimiento para perfiles y publicidad (5.4.1); indicar si se cumple la norma (4.1). Define al "Proveedor intermediario" que pone en contacto a terceros proveedores con consumidores (3.12); si Autocifras encaja ahí es **por confirmar**. |
 | Publicidad enviada | LFPC art. 17, primer párrafo | La publicidad que se envíe a consumidores (correos) debe indicar nombre, domicilio, teléfono o correo del proveedor, de quien la envía y **de la Procuraduría**. |
 | No molestar | LFPC arts. 17, 18 y 18 Bis | Respetar a quien pida no recibir publicidad y el registro público de Profeco. |
-| NOM-151-SCFI-2016 | Objetivo y campo de aplicación | Aplica a comerciantes que conservan mensajes de datos conforme al Código de Comercio (arts. 33, 34, 38, 46 bis, 49 y 89) y a la digitalización de documentos. **Interpretación:** solo sería relevante si ComparaMotor firma contratos electrónicos (por ejemplo con agencias) y debe conservarlos. |
+| NOM-151-SCFI-2016 | Objetivo y campo de aplicación | Aplica a comerciantes que conservan mensajes de datos conforme al Código de Comercio (arts. 33, 34, 38, 46 bis, 49 y 89) y a la digitalización de documentos. **Interpretación:** solo sería relevante si Autocifras firma contratos electrónicos (por ejemplo con agencias) y debe conservarlos. |
 | Contenido patrocinado | LFPC art. 32; Lineamientos Profeco 2012; Guía Profeco 2023 | La ley no tiene una regla específica de etiquetado; la guía recomienda señalar de forma clara y visible la relación comercial. |
 | Ligas de afiliación | — | No se localizó norma mexicana específica. **Por confirmar.** **Interpretación:** aplicar el mismo criterio de la guía (decir que hay comisión). |
 
@@ -250,7 +250,7 @@
 | Quién es dueño de la reseña | Condiciones del Servicio de Google, "Tu contenido" | La persona usuaria conserva sus derechos de propiedad intelectual y otorga licencia a Google, no a terceros. **Interpretación:** copiar a mano una reseña o foto de un usuario requiere permiso de su autor. |
 | Mapas incrustados | Lineamientos de permisos de Google (geo-guidelines) | Incrustar un mapa de Google no requiere permiso. Toda imagen de Google Maps lleva atribución junto al contenido. No se permite capturar imágenes de Street View. |
 
-**Para el diseño:** si se quieren reseñas de agencias, traerlas en vivo con la Places API, con autor, liga a Google Maps y logo, sin guardarlas; nunca pegar capturas ni copiar el texto de reseñas. Alternativa más segura: reseñas propias de usuarios verificados de ComparaMotor.
+**Para el diseño:** si se quieren reseñas de agencias, traerlas en vivo con la Places API, con autor, liga a Google Maps y logo, sin guardarlas; nunca pegar capturas ni copiar el texto de reseñas. Alternativa más segura: reseñas propias de usuarios verificados de Autocifras.
 
 ---
 
@@ -305,7 +305,7 @@
 3. Si el Reglamento de la LFDA ya publicó los formularios de aviso y retiro.
 4. Si el uso informativo de marcas ajenas en un comparador está admitido por el IMPI o por tribunales, y con qué límites; licencias de uso de logos en los kits de prensa de cada armadora.
 5. Si un comparador que no otorga crédito queda sujeto directamente a las reglas de CAT de CONDUSEF o Profeco; número de artículo y fecha DOF de las disposiciones de CONDUSEF para SOFOM ENR; disposiciones para bancos.
-6. Si la NMX-COE-001-SCFI-2018 es obligatoria para ComparaMotor y si encaja como "Proveedor intermediario"; fecha exacta de su declaratoria en el DOF.
+6. Si la NMX-COE-001-SCFI-2018 es obligatoria para Autocifras y si encaja como "Proveedor intermediario"; fecha exacta de su declaratoria en el DOF.
 7. Reglas específicas sobre reseñas falsas o pagadas y sobre ligas de afiliación (Profeco, 2026).
 8. Qué pasa con las licencias de stock de Magnific ya descargadas al cancelar la suscripción, y si el uso vía MCP está cubierto por el plan.
 9. Reforma posterior a 2014 de la ley de propia imagen de la CDMX y normas de otros estados.

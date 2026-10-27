@@ -18,7 +18,7 @@ Se identificaron 173 imágenes candidatas para el sitio: 166 provenientes de Wik
 
 **Conclusiones:**
 1. Ninguno usa fotos de Wikimedia o Flickr: todos usan prensa de marca o fotos propias, y alojan las imágenes en su propio servidor.
-2. El crédito, cuando aparece, es «Foto: {marca}»; varios no muestran ninguno. ComparaMotor acreditará siempre, aunque la fuente no lo exija.
+2. El crédito, cuando aparece, es «Foto: {marca}»; varios no muestran ninguno. Autocifras acreditará siempre, aunque la fuente no lo exija.
 3. La diferencia de los medios grandes es la foto propia de prueba de manejo: es el siguiente paso cuando haya préstamos de autos.
 
 ## Fuentes por marca y su veredicto
@@ -85,8 +85,8 @@ Formato exacto: `Foto: {autor} / {fuente}, {licencia}` (con ligas a la página d
 ## Riesgos abiertos y lo que necesita JC
 *   **Registros:** solo BYD Europe pide registro (BYD UK no lo aclara). Registrarse y aceptar términos lo hace JC; no hace falta para lanzar, porque Commons y Flickr cubren los 30 modelos.
 *   **Borrador para marcas "No usables":**
-    *   Asunto: Solicitud de acceso a material de prensa - ComparaMotor
-    *   Cuerpo: Hola, represento al sitio ComparaMotor. Deseamos utilizar sus fotografías oficiales con fines editoriales en nuestras fichas técnicas y noticias. ¿Podrían confirmarnos si existe una licencia para medios o si requieren una acreditación específica? Saludos.
+    *   Asunto: Solicitud de acceso a material de prensa - Autocifras
+    *   Cuerpo: Hola, represento al sitio Autocifras. Deseamos utilizar sus fotografías oficiales con fines editoriales en nuestras fichas técnicas y noticias. ¿Podrían confirmarnos si existe una licencia para medios o si requieren una acreditación específica? Saludos.
 *   **Descarga:** no se ha descargado ninguna foto. Al aprobar, se bajan las elegidas, se registran en `data/imagenes.json` con su crédito y aparecen en fichas y comparativas.
 *   **Coincidencia con México:** de 173 candidatas, 97 corresponden al modelo que se vende en México, 75 no se pudieron confirmar y 1 no coincide; en fichas se usan primero las confirmadas.
 

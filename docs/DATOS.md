@@ -1,4 +1,4 @@
-# Formato de datos de ComparaMotor
+# Formato de datos de Autocifras
 
 Regla de oro (JC, 20 oct 2026): **ningún dato, cifra, foto o imagen sin su fuente visible en la página**: precios con fuente y fecha, fotos con autor, liga de origen y licencia, imágenes de IA con «Imagen ilustrativa», notas y guías con lista de fuentes. Si un dato no aparece en una fuente verificable, va como `null` y se anota en `pendientes`. Nunca se infiere ni se estima.
 
