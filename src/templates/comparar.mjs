@@ -93,7 +93,7 @@ export function comparativa(ctx, c, D) {
         <ul>${puntos.map((p) => `<li>${p}</li>`).join('')}</ul>
         <h2>${esc(na)} contra ${esc(nb)}, dato por dato</h2>
         ${tabla}
-        <p><a class="pill p-black" href="${ctx.u('/comparar/')}?a=${c.a}&b=${c.b}">Cambiar enganche, plazo y gasolina en el comparador</a></p>
+        <p><a class="pill p-black" href="${ctx.u('/comparar/')}#a=${c.a}&b=${c.b}">Cambiar enganche, plazo y gasolina en el comparador</a></p>
         <h2>¿Cuánto cuesta cada versión del ${esc(na)}?</h2>
         ${vers(A, va, na)}
         <h2>¿Cuánto cuesta cada versión del ${esc(nb)}?</h2>
@@ -110,7 +110,7 @@ export function comparativa(ctx, c, D) {
     </div>
   </div>`;
   return page(ctx, {
-    title: `${na} vs ${nb} 2026: precio, mensualidad y cuál conviene`, description: `${na} vs ${nb}: desde ${mxn(ea.precio)} contra ${mxn(eb.precio)}. Mensualidad, costo total a cinco años, motor, seguridad y rendimiento con fuentes verificadas.`,
+    title: [`${na} vs ${nb} 2026: precio, mensualidad y cuál conviene`, `${na} vs ${nb} 2026: precio y cuál conviene`, `${na} vs ${nb} 2026: ¿cuál conviene?`], description: `${na} vs ${nb}: desde ${mxn(ea.precio)} contra ${mxn(eb.precio)}. Mensualidad, costo total a cinco años, motor, seguridad y rendimiento con fuentes verificadas.`,
     body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Comparar', url: '/comparar/' }, { name: `${na} vs ${nb}`, url: c.url }], updated: fechaLarga(fecha),
     schema: [f.schema, { '@context': 'https://schema.org', '@type': 'Article', headline: `${na} vs ${nb}: ¿cuál conviene más?`, dateModified: fecha, inLanguage: 'es-MX', author: { '@type': 'Organization', name: 'Redacción Autocifras', url: SITE.url + '/autores/' }, publisher: { '@id': SITE.url + '/#org' }, about: [{ '@type': 'Car', name: nombre(A, c.filtroA) }, { '@type': 'Car', name: nombre(B, c.filtroB) }] }],
   });
@@ -124,7 +124,7 @@ export function compararPage(ctx, D) {
   ${r.S.desglose}
   <section class="sec" id="comparativas"><div class="wrap"><div class="sec-h"><h2>Comparativas más buscadas</h2><p>Pares con demanda real en México, con veredicto por dato.</p></div><div class="grid3">${lista}</div></div></section>`;
   return page(ctx, {
-    title: 'Comparador de autos nuevos en México: precio, mensualidad y costo total',
+    title: 'Comparador de autos nuevos: precio, mensualidad y costo',
     description: 'Compara dos autos nuevos con precios verificados: mensualidad con tasa de ejemplo, costo total a cinco años y diferencias de seguridad y rendimiento.',
     body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Comparar', url: '/comparar/' }], updated: fechaLarga(r.fechaPrecios), bodyClass: 'home',
     dataJSON: { autos: r.cmp, par: [r.A, r.B], supuestos: SITE.supuestos },

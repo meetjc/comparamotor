@@ -31,7 +31,7 @@ function nota(ctx, D, n) {
       <aside class="aside"><div class="tile"><span class="k">Más noticias</span>${rel.map((x) => `<a href="${ctx.u(x.url)}" style="display:block;padding:8px 0;border-bottom:1px solid var(--canvas-soft)">${esc(x.titulo)}</a>`).join('')}</div></aside>
     </div>
   </div>`;
-  return page(ctx, { title: n.titulo, description: String(n.resumen || '').slice(0, 155).replace(/\s\S*$/, '') + '…', body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Noticias', url: '/noticias/' }, { name: n.tema, url: `/noticias/tema/${n.temaSlug}/` }, { name: n.titulo, url: n.url }], schema: [notaLD(n)], ogImage: 'img/' + n.imagen, updated: fechaLarga(n.fechaVerificacion || n.fecha) });
+  return page(ctx, { title: [n.titulo, n.tituloSeo || n.titulo], description: String(n.resumen || '').slice(0, 155).replace(/\s\S*$/, '') + '…', body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Noticias', url: '/noticias/' }, ...(temasConPagina(D).has(n.temaSlug) ? [{ name: n.tema, url: `/noticias/tema/${n.temaSlug}/` }] : []), { name: n.titulo, url: n.url }], schema: [notaLD(n)], ogImage: 'img/' + n.imagen, updated: fechaLarga(n.fechaVerificacion || n.fecha) });
 }
 
 function masVendidos(ctx, D) {
@@ -55,7 +55,7 @@ function masVendidos(ctx, D) {
     ${sinRep.length ? `<p class="fine" style="margin-top:12px"><b>Marcas que no reportan al INEGI:</b> ${esc(sinRep.map((m) => (typeof m === 'string' ? m : m.marca || m.nombre)).join(', '))}.</p>` : ''}
     ${fuentes([mv.fuentePrincipal, ...((mes && mes.fuentes) || []), acu && acu.fuente].filter(Boolean), mv.fechaVerificacion)}
   </div>`;
-  return page(ctx, { title: 'Autos más vendidos en México en septiembre de 2026 y en el año', description: `Ranking de los autos más vendidos en México: septiembre de 2026 y acumulado enero-septiembre, con cifras del INEGI y la AMDA.`, body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Noticias', url: '/noticias/' }, { name: 'Autos más vendidos', url: '/autos-mas-vendidos/' }], updated: fechaLarga(mv.fechaVerificacion) });
+  return page(ctx, { title: 'Autos más vendidos en México: septiembre y año 2026', description: `Ranking de los autos más vendidos en México: septiembre de 2026 y acumulado enero-septiembre, con cifras del INEGI y la AMDA.`, body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Noticias', url: '/noticias/' }, { name: 'Autos más vendidos', url: '/autos-mas-vendidos/' }], updated: fechaLarga(mv.fechaVerificacion) });
 }
 
 function lanzamientos(ctx, D) {
@@ -68,7 +68,14 @@ function lanzamientos(ctx, D) {
     ${(L.anunciadosSinConfirmarParaMexico || []).length ? `<h2 style="margin-top:32px">Anunciados sin confirmar para México</h2><ul>${L.anunciadosSinConfirmarParaMexico.map((x) => `<li><b>${esc((x.marca || '') + ' ' + (x.modelo || ''))}</b>${x.notas || x.nota ? ': ' + esc(x.notas || x.nota) : ''}</li>`).join('')}</ul>` : ''}
     ${fuentes([L.fuentePrincipal].filter(Boolean), L.fechaVerificacion)}
   </div>`;
-  return page(ctx, { title: 'Lanzamientos 2027 en México: precios y fechas de los autos nuevos', description: `${items.length} lanzamientos de autos 2027 en México con precio de lanzamiento y fuente.`, body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Noticias', url: '/noticias/' }, { name: 'Lanzamientos 2027', url: '/lanzamientos/2027/' }], updated: fechaLarga(L.fechaVerificacion) });
+  return page(ctx, { title: 'Lanzamientos 2027 en México: precios y fechas', description: `${items.length} lanzamientos de autos 2027 en México con precio de lanzamiento y fuente.`, body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Noticias', url: '/noticias/' }, { name: 'Lanzamientos 2027', url: '/lanzamientos/2027/' }], updated: fechaLarga(L.fechaVerificacion) });
+}
+
+// Un tema tiene página propia solo con 3 notas o más; con menos sería una página casi vacía.
+const MIN_TEMA = 3;
+function temasConPagina(D) {
+  const c = {}; for (const n of D.noticias) c[n.temaSlug] = (c[n.temaSlug] || 0) + 1;
+  return new Set(Object.keys(c).filter((t) => c[t] >= MIN_TEMA));
 }
 
 export function paginas(C, D) {
@@ -77,13 +84,14 @@ export function paginas(C, D) {
   const temas = {};
   for (const n of D.noticias) (temas[n.temaSlug] = temas[n.temaSlug] || []).push(n);
   for (const [t, list] of Object.entries(temas)) {
+    if (list.length < MIN_TEMA) continue;
     const r = `/noticias/tema/${t}/`, ctx = C(r);
-    out.push({ route: r, grupo: 'noticias', html: page(ctx, { title: `Noticias de ${list[0].tema.toLowerCase()} del sector automotriz en México`, description: `Noticias de ${list[0].tema.toLowerCase()} del sector automotriz en México, con fuentes y cifras verificadas.`, noindex: list.length < 3, body: `${ph({ h1: `Noticias: <em>${esc(list[0].tema)}</em>`, lede: `${list.length} ${list.length === 1 ? 'nota' : 'notas'} con su fuente.` })}<div class="wrap blk" style="padding-top:0">${river(ctx, D, list)}</div>`, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Noticias', url: '/noticias/' }, { name: list[0].tema, url: r }] }) });
+    out.push({ route: r, grupo: 'noticias', html: page(ctx, { title: `Noticias de ${list[0].tema.toLowerCase()} del sector automotriz en México`, description: `Noticias de ${list[0].tema.toLowerCase()} del sector automotriz en México, con fuentes y cifras verificadas.`, body: `${ph({ h1: `Noticias: <em>${esc(list[0].tema)}</em>`, lede: `${list.length} ${list.length === 1 ? 'nota' : 'notas'} con su fuente.` })}<div class="wrap blk" style="padding-top:0">${river(ctx, D, list)}</div>`, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Noticias', url: '/noticias/' }, { name: list[0].tema, url: r }] }) });
   }
   const ctx = C('/noticias/');
   const body = `${ph({ h1: 'Noticias del sector automotriz en México', lede: 'Ventas, precios, seguridad, eléctricos y lanzamientos. Cada nota con sus fuentes y la fecha en que la verificamos.' })}
   <div class="wrap blk" style="padding-top:0">
-    <div class="topics" style="margin-bottom:20px">${Object.entries(temas).map(([t, l]) => `<a class="pill p-white" href="${ctx.u(`/noticias/tema/${t}/`)}">${esc(l[0].tema)}</a>`).join('')}<a class="pill p-white" href="${ctx.u('/autos-mas-vendidos/')}">Autos más vendidos</a><a class="pill p-white" href="${ctx.u('/lanzamientos/2027/')}">Lanzamientos 2027</a></div>
+    <div class="topics" style="margin-bottom:20px">${Object.entries(temas).filter(([, l]) => l.length >= MIN_TEMA).map(([t, l]) => `<a class="pill p-white" href="${ctx.u(`/noticias/tema/${t}/`)}">${esc(l[0].tema)}</a>`).join('')}<a class="pill p-white" href="${ctx.u('/autos-mas-vendidos/')}">Autos más vendidos</a><a class="pill p-white" href="${ctx.u('/lanzamientos/2027/')}">Lanzamientos 2027</a></div>
     ${river(ctx, D, D.noticias)}
   </div>`;
   out.push({ route: '/noticias/', grupo: 'noticias', html: page(ctx, { title: 'Noticias de autos en México: ventas, precios y lanzamientos', description: 'Noticias del sector automotriz en México con fuentes verificadas: ventas del INEGI y la AMDA, precios, seguridad, eléctricos y lanzamientos.', body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Noticias', url: '/noticias/' }] }) });

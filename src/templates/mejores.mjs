@@ -27,9 +27,9 @@ const RANKINGS = [
   { slug: 'autos-baratos', ruta: '/mejores/autos-baratos/', h1: 'Los autos nuevos más baratos de México', corto: 'Autos baratos', criterio: 'precio', desc: 'Los autos nuevos más baratos de México por precio de lista verificado, con mensualidad y costo total a cinco años.', sel: {}, n: 12 },
   { slug: 'hibridos', ruta: '/mejores/autos-hibridos/', h1: 'Autos híbridos en México: los que menos cuestan', corto: 'Híbridos', criterio: 'costo', desc: 'Versiones híbridas a la venta en México ordenadas por costo total a cinco años, con rendimiento oficial y precio verificado.', sel: { filtroVersion: (v, a) => a.propulsion === 'hibrido' || esHibrida(v), porVersion: true }, n: 20 },
   { slug: 'electricos', ruta: '/mejores/autos-electricos/', h1: 'Autos eléctricos en México: precios verificados', corto: 'Eléctricos', criterio: 'precio', desc: 'Autos eléctricos a la venta en México con precio de lista, autonomía oficial y mensualidad estimada.', sel: { filtroAuto: (a) => a.propulsion === 'electrico', porVersion: true }, n: 20 },
-  { slug: 'autos-chinos', ruta: '/autos-chinos/', h1: 'Autos chinos en México: precios y qué tan caros salen en cinco años', corto: 'Autos chinos', criterio: 'costo', desc: 'Autos de marcas chinas en México con precio verificado, mensualidad y costo total a cinco años frente a las marcas tradicionales.', sel: { filtroAuto: (a) => /china/.test(a.origenMarca || '') }, n: 20 },
+  { slug: 'autos-chinos', ruta: '/autos-chinos/', tituloSeo: 'Autos chinos en México 2026: precios y costo a cinco años', h1: 'Autos chinos en México: precios y qué tan caros salen en cinco años', corto: 'Autos chinos', criterio: 'costo', desc: 'Autos de marcas chinas en México con precio verificado, mensualidad y costo total a cinco años frente a las marcas tradicionales.', sel: { filtroAuto: (a) => /china/.test(a.origenMarca || '') }, n: 20 },
   { slug: 'camionetas', ruta: '/mejores/camionetas/', h1: 'Camionetas y SUV que menos cuestan en cinco años', corto: 'Camionetas', criterio: 'costo', desc: 'SUV y pickups a la venta en México ordenadas por costo total a cinco años: enganche, mensualidades, seguro, gasolina y servicios.', sel: { filtroAuto: (a) => a.carroceria === 'suv' || a.carroceria === 'pickup' }, n: 15 },
-  { slug: 'para-plataformas', ruta: '/mejores/autos-para-plataformas/', h1: 'Autos para manejar en plataformas: el que menos cuesta por kilómetro', corto: 'Para plataformas', criterio: 'costo', km: 40000, desc: 'Sedanes y hatchbacks nuevos ordenados por costo total a cinco años con 40,000 km al año, el uso típico de quien maneja en plataformas.', sel: { filtroAuto: (a) => (a.carroceria === 'sedan' || a.carroceria === 'hatchback') && a.propulsion !== 'electrico' }, n: 12 },
+  { slug: 'para-plataformas', ruta: '/mejores/autos-para-plataformas/', tituloSeo: 'Autos para plataformas 2026: el que menos cuesta por km', h1: 'Autos para manejar en plataformas: el que menos cuesta por kilómetro', corto: 'Para plataformas', criterio: 'costo', km: 40000, desc: 'Sedanes y hatchbacks nuevos ordenados por costo total a cinco años con 40,000 km al año, el uso típico de quien maneja en plataformas.', sel: { filtroAuto: (a) => (a.carroceria === 'sedan' || a.carroceria === 'hatchback') && a.propulsion !== 'electrico' }, n: 12 },
 ];
 
 function ranking(ctx, D, R) {
@@ -58,7 +58,7 @@ function ranking(ctx, D, R) {
     ${f.html}
   </div>`;
   return page(ctx, {
-    title: `${R.h1} (2026)`, description: R.desc, body, updated: fechaLarga(fecha),
+    title: [`${R.h1} (2026)`, R.h1, R.tituloSeo || R.h1], description: R.desc, body, updated: fechaLarga(fecha),
     crumbsItems: R.ruta.startsWith('/mejores/') ? [{ name: 'Inicio', url: '/' }, { name: 'Mejores autos', url: '/mejores/' }, { name: R.corto, url: R.ruta }] : [{ name: 'Inicio', url: '/' }, { name: 'Mejores autos', url: '/mejores/' }, { name: R.corto, url: R.ruta }],
     schema: [f.schema, { '@context': 'https://schema.org', '@type': 'ItemList', name: R.h1, itemListOrder: 'https://schema.org/ItemListOrderAscending', itemListElement: rows.map((r, i) => ({ '@type': 'ListItem', position: i + 1, name: nom(r), url: SITE.url + fichaURL(r.a) })) }],
   });
@@ -71,6 +71,6 @@ export function paginas(C, D) {
   const ctx = C('/mejores/');
   const body = `${ph({ h1: 'Mejores autos nuevos en México, <em>con números</em>', lede: 'Rankings con un solo criterio medible y los mismos supuestos para todos: nadie paga por subir.' })}
   <div class="wrap blk" style="padding-top:0"><div class="grid3">${hechos.map((R) => `<a class="tile rv" href="${ctx.u(R.ruta)}"><span class="k">${esc(R.criterio === 'precio' ? 'Por precio' : 'Por costo a 5 años')}</span><h3>${esc(R.h1)}</h3><p>${esc(R.desc)}</p></a>`).join('')}</div></div>`;
-  out.push({ route: '/mejores/', grupo: 'fichas', html: page(ctx, { title: 'Mejores autos nuevos en México: rankings por precio y costo total', description: 'Rankings de autos nuevos en México por precio de lista y costo total a cinco años: baratos, híbridos, eléctricos, chinos, camionetas y para plataformas.', body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Mejores autos', url: '/mejores/' }] }) });
+  out.push({ route: '/mejores/', grupo: 'fichas', html: page(ctx, { title: 'Mejores autos nuevos en México: rankings por precio', description: 'Rankings de autos nuevos en México por precio de lista y costo total a cinco años: baratos, híbridos, eléctricos, chinos, camionetas y para plataformas.', body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Mejores autos', url: '/mejores/' }] }) });
   return out;
 }

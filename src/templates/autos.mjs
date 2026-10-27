@@ -80,7 +80,7 @@ export function ficha(ctx, a, D) {
         <p class="marca">${esc(a.marca)} · ${esc(CARRO_N[a.carroceria] || '')}${a.propulsion ? ' · ' + esc(PROP_N[a.propulsion] || a.propulsion) : ''}</p>
         <h1>${esc(nombre)} ${anio}: precios y versiones en México</h1>
         <div class="price"><b class="num">${mxn(e.precio)}</b><span>Desde, precio de lista · ${vs.length} ${vs.length === 1 ? 'versión' : 'versiones'}${t && t !== e ? ' hasta ' + mxn(t.precio) : ''}</span></div>
-        <div class="ctas"><a class="pill p-primary" href="${ctx.u('/comparar/')}?a=${a.marcaSlug}-${a.slug}${rv[0] ? '&b=' + rv[0].marcaSlug + '-' + rv[0].slug : ''}">Comparar con otro auto</a><a class="pill p-glass" href="#mensualidad">Calcular mensualidad</a></div>
+        <div class="ctas"><a class="pill p-primary" href="${ctx.u('/comparar/')}#a=${a.marcaSlug}-${a.slug}${rv[0] ? '&b=' + rv[0].marcaSlug + '-' + rv[0].slug : ''}">Comparar con otro auto</a><a class="pill p-glass" href="#mensualidad">Calcular mensualidad</a></div>
         <p class="fine" style="color:var(--on-night-2);margin-top:14px">Verificado el ${esc(fechaLarga(fecha))} en ${esc(e.fuente)}.</p>
       </div>
       ${stage}
@@ -116,7 +116,7 @@ export function ficha(ctx, a, D) {
         ${fuentes([...(a.fuentes || []), ...(a.garantia && a.garantia.url ? [{ nombre: 'Garantía: ' + (a.garantia.fuente || a.marca), url: a.garantia.url }] : [])], fecha)}
       </div>
       <aside class="aside">
-        <div class="tile"><span class="k">Desde</span><b class="big num">${mxn(e.precio)}</b><p>${esc(e.nombre)} · lista</p><a class="pill p-black" href="${ctx.u('/comparar/')}?a=${a.marcaSlug}-${a.slug}">Comparar</a></div>
+        <div class="tile"><span class="k">Desde</span><b class="big num">${mxn(e.precio)}</b><p>${esc(e.nombre)} · lista</p><a class="pill p-black" href="${ctx.u('/comparar/')}#a=${a.marcaSlug}-${a.slug}">Comparar</a></div>
         <div class="tile"><span class="k">Mensualidad de ejemplo</span><b class="big num">${mxn(mens)}</b><p>${s.eng}% de enganche, ${s.plazo} meses, tasa ${s.tasa}%</p></div>
         <div class="tile"><span class="k">Más de ${esc(a.marca)}</span>${autos.filter((b) => b.marcaSlug === a.marcaSlug && b !== a && entrada(b)).slice(0, 5).map((b) => `<a href="${ctx.u(fichaURL(b))}" style="text-decoration:underline">${esc(b.modelo)}</a>`).join('<br>') || '<p class="fine">Sin otros modelos todavía.</p>'}</div>
       </aside>
@@ -125,7 +125,7 @@ export function ficha(ctx, a, D) {
 
   const offers = { '@type': 'AggregateOffer', priceCurrency: 'MXN', lowPrice: e.precio, highPrice: t.precio, offerCount: vs.length, availability: 'https://schema.org/InStock' };
   return page(ctx, {
-    title: `${nombre} ${anio}: precios y versiones en México`,
+    title: [`${nombre} ${anio}: precios y versiones en México`, `${nombre} ${anio}: precios y versiones`, `${a.modelo} ${anio}: precios y versiones en México`, `${a.modelo} ${anio}: precios y versiones`, `${a.modelo} ${anio}: precios`],
     description: `${nombre} ${anio} desde ${mxn(e.precio)} hasta ${mxn(t.precio)}: ${vs.length} versiones con precio, fuente y fecha, mensualidad estimada, costo total a cinco años, seguridad y rendimiento.`,
     body, crumbsItems: crumbs, updated: fechaLarga(fecha),
     schema: [{ '@context': 'https://schema.org', '@type': ['Product', 'Car'], name: `${nombre} ${anio}`, brand: { '@type': 'Brand', name: a.marca }, model: a.modelo, vehicleModelDate: String(anio), bodyType: CARRO_N[a.carroceria], fuelType: PROP_N[a.propulsion], offers, url: SITE.url + fichaURL(a), ...(foto ? { image: SITE.url + '/assets/img/' + foto.archivo } : {}) }, f.schema].filter(Boolean),
@@ -188,7 +188,7 @@ export function marcaPage(ctx, marcaSlug, D) {
     <div class="grid4" style="margin-top:24px">${ms.map((a) => autoCard(ctx, a)).join('')}</div>
   </div>`;
   return page(ctx, {
-    title: `${marca} México: precios 2026 y 2027 de todos sus modelos`, description: `Precios de lista de ${ms.length} modelos ${marca} en México con su fuente y fecha: ${ms.map((a) => a.modelo).join(', ')}.`,
+    title: [`${marca} México: precios 2026 y 2027 de todos sus modelos`, `${marca}: precios 2026 y 2027 de todos sus modelos`], description: `Precios de lista de ${ms.length} modelos ${marca} en México con su fuente y fecha: ${ms.map((a) => a.modelo).join(', ')}.`,
     body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Autos nuevos', url: '/autos/' }, { name: marca, url: `/autos/${marcaSlug}/` }], updated: fechaLarga(fecha),
   });
 }
@@ -205,7 +205,7 @@ export function precios(ctx, D) {
     <p style="margin-top:16px"><a href="${ctx.u('/datos/')}">Descarga esta lista en CSV o JSON</a>.</p>
   </div>`;
   return page(ctx, {
-    title: 'Precios de autos nuevos en México: lista completa por versión', description: `Lista de ${rows.length} precios de autos nuevos en México ordenada de menor a mayor, con fuente, fecha y mensualidad estimada.`,
+    title: 'Precios de autos nuevos en México por versión', description: `Lista de ${rows.length} precios de autos nuevos en México ordenada de menor a mayor, con fuente, fecha y mensualidad estimada.`,
     body, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Autos nuevos', url: '/autos/' }, { name: 'Precios', url: '/autos/precios/' }], updated: fechaLarga(fecha),
   });
 }

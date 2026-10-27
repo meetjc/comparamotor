@@ -72,7 +72,7 @@ function estadoPage(ctx, tipo, d, todos) {
     ${fuentes(d.fuentes, fecha)}
   </div><aside class="aside"><div class="tile"><span class="k">${isTen ? 'Tenencia' : 'Verificación'} en otros estados</span>${otros.map((x) => `<a href="${ctx.u(base + x.slug + '/')}" style="text-decoration:underline">${esc(x.estado)}</a>`).join(' · ')}</div><div class="tile"><span class="k">Mi garage</span><p>Guarda tu placa y te decimos qué te toca.</p><a class="pill p-black" href="${ctx.u('/mi-garage/')}">Abrir</a></div></aside></div></div>`;
   return page(ctx, {
-    title: isTen ? `Tenencia ${E} 2026: ¿se paga?, costo del refrendo y fecha límite` : `Verificación vehicular ${E} 2026: calendario, costo y multa`,
+    title: isTen ? [`Tenencia ${E} 2026: ¿se paga?, costo del refrendo y fecha límite`, `Tenencia ${E} 2026: ¿se paga?, refrendo y fecha límite`, `Tenencia ${E} 2026: refrendo y fecha límite`] : [`Verificación vehicular ${E} 2026: calendario, costo y multa`, `Verificación vehicular ${E} 2026: calendario y costo`, `Verificación vehicular ${E} 2026: costo y multa`, `Verificación ${E} 2026: calendario y costo`],
     description: isTen ? `Tenencia en ${E} 2026: si se cobra, cuánto cuesta el refrendo, descuentos, fecha límite y dónde pagar. Con fuentes oficiales.` : `Verificación vehicular en ${E} 2026: calendario por terminación de placa, costo, multa y dónde hacer cita. Con fuentes oficiales.`,
     body, crumbsItems: CR([{ name: isTen ? 'Tenencia' : 'Verificación vehicular', url: base }, { name: E, url: base + d.slug + '/' }]), updated: fechaLarga(fecha), schema: [f.schema],
   });
@@ -126,7 +126,7 @@ export function paginas(C, D) {
       <h2>Preguntas frecuentes</h2>${f.html}
       ${fuentes([{ nombre: G.fuente_principal.nombre + ' (' + G.fuente_principal.institucion + ')', url: G.fuente_principal.pagina_oficial || G.fuente_principal.url_precios }, { nombre: G.fuente_historica_oficial.nombre, url: G.fuente_historica_oficial.pagina_listado }], fecha)}
     </div><aside class="aside"><div class="tile"><span class="k">Rendimiento</span><p>Revisa los km por litro oficiales de cada modelo.</p><a class="pill p-black" href="${ctx.u('/mejores/autos-hibridos/')}">Autos híbridos</a></div></aside></div></div>`;
-    out.push({ route: '/precio-gasolina/', grupo: 'tramites', lastmod: fecha, html: page(ctx, { title: `Precio de la gasolina hoy en México: regular, premium y diésel`, description: `Precio promedio de la gasolina en México y la CDMX: regular ${f2(val(nac, 'regular'))}, premium ${f2(val(nac, 'premium'))}, diésel ${f2(val(nac, 'diesel'))} por litro, con datos oficiales.`, body, crumbsItems: CR([{ name: 'Precio de la gasolina', url: '/precio-gasolina/' }]), updated: fechaLarga(fecha), schema: [f.schema] }) });
+    out.push({ route: '/precio-gasolina/', grupo: 'tramites', lastmod: fecha, html: page(ctx, { title: `Precio de la gasolina hoy: regular, premium y diésel`, description: `Precio promedio de la gasolina en México y la CDMX: regular ${f2(val(nac, 'regular'))}, premium ${f2(val(nac, 'premium'))}, diésel ${f2(val(nac, 'diesel'))} por litro, con datos oficiales.`, body, crumbsItems: CR([{ name: 'Precio de la gasolina', url: '/precio-gasolina/' }]), updated: fechaLarga(fecha), schema: [f.schema] }) });
   }
   D.hncData = hncCompacto();
   const hnc = D.hncData ? hncPaginas(C, D) : [];
@@ -139,6 +139,6 @@ export function paginas(C, D) {
     ver.length && ['/verificacion-vehicular/', 'Verificación vehicular', `${ver.length} estados: calendario por placa, costo y multa.`],
     D.gasolina && ['/precio-gasolina/', 'Precio de la gasolina', 'Precio promedio de la gasolina en México con su fuente.'],
   ].filter(Boolean);
-  out.push({ route: '/tramites/', grupo: 'tramites', html: page(ctx, { title: 'Trámites del auto en México: Hoy No Circula, tenencia y verificación', description: 'Hoy No Circula diario, tenencia y verificación vehicular por estado, con fuentes oficiales y fecha de actualización.', crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Trámites', url: '/tramites/' }], body: `${ph({ h1: 'Trámites del auto, <em>sin vueltas</em>', lede: 'Lo que te toca pagar o cumplir según tu estado y tu placa, con la fuente oficial a un clic.' })}<div class="wrap blk" style="padding-top:0"><div class="grid2">${tiles.map(([u, t, d]) => `<a class="tile rv" href="${ctx.u(u)}"><h3>${t}</h3><p>${d}</p></a>`).join('')}</div>${NO_GOB}</div>` }) });
+  out.push({ route: '/tramites/', grupo: 'tramites', html: page(ctx, { title: 'Trámites del auto: Hoy No Circula, tenencia y verificación', description: 'Hoy No Circula diario, tenencia y verificación vehicular por estado, con fuentes oficiales y fecha de actualización.', crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Trámites', url: '/tramites/' }], body: `${ph({ h1: 'Trámites del auto, <em>sin vueltas</em>', lede: 'Lo que te toca pagar o cumplir según tu estado y tu placa, con la fuente oficial a un clic.' })}<div class="wrap blk" style="padding-top:0"><div class="grid2">${tiles.map(([u, t, d]) => `<a class="tile rv" href="${ctx.u(u)}"><h3>${t}</h3><p>${d}</p></a>`).join('')}</div>${NO_GOB}</div>` }) });
   return out;
 }

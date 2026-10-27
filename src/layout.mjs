@@ -79,7 +79,11 @@ export function page(ctx, o) {
     title, description, body, crumbsItems, schema = [], noindex = false, ogImage = 'img/autocifras-og-1200x630.jpg',
     bodyClass = '', heroDark = false, extraHead = '', canonical = ctx.route, dataJSON = null, updated = null,
   } = o;
-  const full = title.includes('Autocifras') ? title : `${title} | Autocifras`;
+  // La marca va al final solo si el título completo cabe en 60 caracteres (lo que muestra Google).
+  // title puede ser una lista de opciones de más larga a más corta: se usa la primera que cabe en 60 caracteres.
+  const opts = [].concat(title).map((t) => String(t).replace(/\s+:/g, ':').replace(/\s+/g, ' ').trim());
+  const t0 = opts.find((t) => t.length <= 60) || opts[opts.length - 1];
+  const full = t0.includes('Autocifras') || t0.length + 13 > 60 ? t0 : `${t0} | Autocifras`;
   const canon = SITE.url + canonical;
   const graph = [orgLD(), { '@type': 'WebSite', '@id': SITE.url + '/#web', url: SITE.url + '/', name: SITE.name, inLanguage: 'es-MX', publisher: { '@id': SITE.url + '/#org' } }];
   const lds = [ld({ '@context': 'https://schema.org', '@graph': graph })];

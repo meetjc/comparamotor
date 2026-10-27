@@ -9,7 +9,7 @@
   var par = D.par || Object.keys(AUTOS), sp = D.supuestos || {};
   var st = { a: par[0], b: par[1], modo: 'credito', eng: sp.eng || 20, plazo: sp.plazo || 60 };
   try { var sv = JSON.parse(localStorage.getItem('cm-cmp') || 'null'); if (sv && AUTOS[sv.a] && AUTOS[sv.b]) st = Object.assign(st, sv); } catch (e) {}
-  try { var q = new URLSearchParams(location.search); if (AUTOS[q.get('a')]) st.a = q.get('a'); if (AUTOS[q.get('b')]) st.b = q.get('b'); if (st.a === st.b) st.b = Object.keys(AUTOS).filter(function (k) { return k !== st.a; })[0]; } catch (e) {}
+  try { var q = new URLSearchParams(location.search || location.hash.slice(1)); if (AUTOS[q.get('a')]) st.a = q.get('a'); if (AUTOS[q.get('b')]) st.b = q.get('b'); if (st.a === st.b) st.b = Object.keys(AUTOS).filter(function (k) { return k !== st.a; })[0]; } catch (e) {}
   var rend = {}, budget = 5000;
   var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
   var $ = function (id) { return document.getElementById(id); };

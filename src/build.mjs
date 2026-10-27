@@ -137,7 +137,7 @@ if (!PREVIEW) {
   fs.writeFileSync(path.join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${idx.join('\n')}\n</sitemapindex>\n`);
   fs.writeFileSync(path.join(OUT, 'robots.txt'), [
     '# Autocifras: buscadores y asistentes de búsqueda con IA pueden leer el sitio.',
-    'User-agent: *', 'Allow: /', 'Disallow: /mi-garage/', '',
+    'User-agent: *', 'Allow: /', '',
     '# Búsqueda con IA (citan con liga): permitidos', 'User-agent: OAI-SearchBot', 'Allow: /', '', 'User-agent: Claude-SearchBot', 'Allow: /', '', 'User-agent: PerplexityBot', 'Allow: /', '',
     '# Entrenamiento de modelos: decisión de licencia de JC (por ahora permitido; ver docs/DECISIONES.md)', 'User-agent: GPTBot', 'Allow: /', '', 'User-agent: ClaudeBot', 'Allow: /', '', 'User-agent: Google-Extended', 'Allow: /', '',
     `Sitemap: ${SITE.url}/sitemap.xml`, '',

@@ -218,7 +218,7 @@
     }
     pinta(gg);
     var gc = $('g-cmp'), cs = gg.comparaciones || [];
-    if (gc && cs.length) gc.innerHTML = cs.map(function (c) { return '<a class="tile" style="margin-top:8px" href="' + (DATA.compararUrl || '/comparar/') + '?a=' + encodeURIComponent(c.a) + '&b=' + encodeURIComponent(c.b) + '"><h3>' + esc((c.ma || c.a) + ' vs ' + (c.mb || c.b)) + '</h3><p class="fine">' + (c.modo === 'contado' ? 'De contado' : 'A crédito · ' + c.plazo + ' meses · ' + c.eng + '% de enganche') + ' · guardada el ' + esc(c.fecha) + '</p></a>'; }).join('');
+    if (gc && cs.length) gc.innerHTML = cs.map(function (c) { return '<a class="tile" style="margin-top:8px" href="' + (DATA.compararUrl || '/comparar/') + '#a=' + encodeURIComponent(c.a) + '&b=' + encodeURIComponent(c.b) + '"><h3>' + esc((c.ma || c.a) + ' vs ' + (c.mb || c.b)) + '</h3><p class="fine">' + (c.modo === 'contado' ? 'De contado' : 'A crédito · ' + c.plazo + ' meses · ' + c.eng + '% de enganche') + ' · guardada el ' + esc(c.fecha) + '</p></a>'; }).join('');
   }
 
   // ---------- ¿Qué auto me alcanza? (ingreso, enganche y plazo → precio máximo) ----------

@@ -265,7 +265,7 @@ export function home(ctx, D, opt = {}) {
   if (opt.soloComparador) return { S, cmp, A, B, fechaPrecios };
   const body = names.map((n) => S[n]).join('\n\n');
   return page(ctx, {
-    title: 'Autocifras: compara autos nuevos en México sin letras chiquitas',
+    title: 'Autocifras: compara autos nuevos sin letras chiquitas',
     description: `Precios verificados de ${autos.length} modelos con su fuente y fecha, mensualidad con CAT y costo total a cinco años. Comparador, Hoy No Circula, tenencia, verificación y noticias del sector.`,
     body, heroDark: true, bodyClass: 'home', updated: fechaLarga(fechaPrecios),
     dataJSON: { autos: cmp, par: [A, B], supuestos: s },

@@ -82,7 +82,7 @@ export function paginas(C, D) {
       <h2>Preguntas frecuentes</h2>${f.html}
       ${cred && cred.simulador_condusef ? `<p>También puedes comparar créditos en el <a href="${esc(cred.simulador_condusef.url)}" target="_blank" rel="noopener">simulador de crédito automotriz de la CONDUSEF</a>.</p>` : ''}
     </div><aside class="aside"><div class="tile"><span class="k">Siguiente paso</span><h3>Suma seguro, gasolina y servicios</h3><a class="pill p-black" href="${ctx.u('/costo-total/')}">Costo total a 5 años</a></div></aside></div></div>`;
-    out.push({ route: '/credito-automotriz/', grupo: 'guias', html: page(ctx, { title: 'Calculadora de crédito automotriz: mensualidad, CAT e intereses', description: 'Calcula la mensualidad de tu crédito de auto con enganche, plazo y tasa. Total a pagar, intereses y qué revisar del CAT antes de firmar.', body, crumbsItems: CR([{ name: 'Crédito automotriz', url: '/credito-automotriz/' }]), schema: [f.schema] }) });
+    out.push({ route: '/credito-automotriz/', grupo: 'guias', html: page(ctx, { title: 'Calculadora de crédito automotriz: mensualidad y CAT', description: 'Calcula la mensualidad de tu crédito de auto con enganche, plazo y tasa. Total a pagar, intereses y qué revisar del CAT antes de firmar.', body, crumbsItems: CR([{ name: 'Crédito automotriz', url: '/credito-automotriz/' }]), schema: [f.schema] }) });
   }
 
   // Costo total a 5 años
@@ -109,7 +109,7 @@ export function paginas(C, D) {
       </form>
       <p style="margin-top:20px">¿Quieres la cuenta con un modelo concreto? <a href="${ctx.u('/comparar/')}">Compara dos autos con precio verificado</a>.</p>
     </div>`;
-    out.push({ route: '/costo-total/', grupo: 'guias', html: page(ctx, { title: 'Costo total de un auto a 5 años: calculadora con seguro y gasolina', description: 'Calcula cuánto cuesta tener un auto en cinco años: enganche, mensualidades, seguro, gasolina y servicios, a crédito o de contado.', body, crumbsItems: CR([{ name: 'Costo total', url: '/costo-total/' }]) }) });
+    out.push({ route: '/costo-total/', grupo: 'guias', html: page(ctx, { title: 'Costo total de un auto a 5 años: calculadora con seguro', description: 'Calcula cuánto cuesta tener un auto en cinco años: enganche, mensualidades, seguro, gasolina y servicios, a crédito o de contado.', body, crumbsItems: CR([{ name: 'Costo total', url: '/costo-total/' }]) }) });
   }
 
   // Seguro de auto
@@ -149,7 +149,7 @@ export function paginas(C, D) {
       ${marcas.map((m) => `<h2 id="${slug(m)}" style="margin-top:32px">Promociones de ${esc(m)}</h2><div class="pgrid">${ps.filter((p) => p.marca === m).map((p) => promoCard(p)).join('')}</div>`).join('')}
       <p class="fine" style="margin-top:16px">Promociones publicadas por cada marca y consultadas el ${esc(fechaLarga(fecha))}. Pueden cambiar sin aviso: confirma con la agencia antes de apartar.</p>
     </div>`;
-    out.push({ route: '/promociones/', grupo: 'fichas', html: page(ctx, { title: 'Promociones de autos nuevos en México este mes, con su letra chiquita', description: `${ps.length} promociones vigentes de autos nuevos en México con su condición, vigencia, CAT publicado y fuente oficial.`, body, crumbsItems: CR([{ name: 'Promociones', url: '/promociones/' }]), updated: fechaLarga(fecha) }) });
+    out.push({ route: '/promociones/', grupo: 'fichas', html: page(ctx, { title: 'Promociones de autos nuevos en México este mes', description: `${ps.length} promociones vigentes de autos nuevos en México con su condición, vigencia, CAT publicado y fuente oficial.`, body, crumbsItems: CR([{ name: 'Promociones', url: '/promociones/' }]), updated: fechaLarga(fecha) }) });
   }
 
   // Hub

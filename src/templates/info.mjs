@@ -53,7 +53,7 @@ const GLOSARIO = [
 
 const LEGAL = {
   'aviso-de-privacidad': { t: 'Aviso de privacidad integral', d: 'Cómo Autocifras trata tus datos personales, para qué los usa y cómo ejercer tus derechos ARCO.' },
-  terminos: { t: 'Términos de uso', d: 'Condiciones para usar Autocifras, alcance de la información y responsabilidades.' },
+  terminos: { t: 'Términos de uso', ts: 'Términos de uso del comparador de autos', d: 'Condiciones para usar Autocifras, alcance de la información y responsabilidades.' },
   'aviso-y-retiro': { t: 'Aviso y retiro de contenido', d: 'Cómo pedir la corrección o el retiro de un contenido, una imagen o un dato publicado en Autocifras.' },
 };
 
@@ -70,7 +70,7 @@ export function paginas(C, D) {
   const fechaDatos = fechas.pop();
 
   out.push(info(C('/metodologia/'), {
-    route: '/metodologia/', title: 'Metodología: cómo verificamos precios y calculamos el costo total', h1: 'Cómo verificamos cada <em>precio</em>', lede: 'Los pasos, las fuentes y los supuestos detrás de cada número de Autocifras.', desc: 'Metodología de Autocifras: fuentes oficiales, fecha de verificación, segunda revisión, supuestos del costo total a cinco años y cómo corregimos errores.',
+    route: '/metodologia/', title: 'Metodología: cómo verificamos precios y el costo total', h1: 'Cómo verificamos cada <em>precio</em>', lede: 'Los pasos, las fuentes y los supuestos detrás de cada número de Autocifras.', desc: 'Metodología de Autocifras: fuentes oficiales, fecha de verificación, segunda revisión, supuestos del costo total a cinco años y cómo corregimos errores.',
     crumbs: [{ name: 'Inicio', url: '/' }, { name: 'Metodología', url: '/metodologia/' }], updated: fechaLarga(fechaDatos),
     body: `${answer(`Cada precio sale del sitio oficial de la marca en México, lleva la fecha en que lo vimos y pasa por una segunda revisión antes de publicarse. Hoy tenemos <b>${num(nVers)} versiones de ${nMod} modelos</b> verificadas al ${esc(fechaLarga(fechaDatos))}.`)}
     ${ANATOMIA}
@@ -93,7 +93,7 @@ export function paginas(C, D) {
   }));
 
   out.push(info(C('/quienes-somos/'), {
-    route: '/quienes-somos/', title: 'Quiénes somos', h1: 'Hacemos la cuenta <em>completa</em>', lede: 'Autocifras es un comparador de autos nuevos y un medio automotriz hecho en México.', desc: 'Autocifras es un comparador de autos nuevos y medio automotriz en México: precios verificados, costo total y trámites del auto.',
+    route: '/quienes-somos/', title: 'Quiénes somos: un comparador de autos independiente', h1: 'Hacemos la cuenta <em>completa</em>', lede: 'Autocifras es un comparador de autos nuevos y un medio automotriz hecho en México.', desc: 'Autocifras es un comparador de autos nuevos y medio automotriz en México: precios verificados, costo total y trámites del auto.',
     crumbs: [{ name: 'Inicio', url: '/' }, { name: 'Quiénes somos', url: '/quienes-somos/' }],
     body: `${answer('Nacimos para que compares un auto nuevo con la letra chiquita a la vista: el precio real de cada versión con su fuente, la mensualidad con tasa y CAT, y lo que pagas en cinco años.')}
     <h2>¿Qué encuentras aquí?</h2><ul><li>Precios verificados por versión, con fuente y fecha.</li><li>Un comparador que suma enganche, mensualidades, seguro, gasolina y servicios.</li><li>Trámites del auto: Hoy No Circula diario, tenencia y verificación por estado.</li><li>Noticias del sector con cifras del INEGI, la AMDA y las marcas.</li></ul>
@@ -120,7 +120,7 @@ export function paginas(C, D) {
   }));
 
   out.push(info(C('/contacto/'), {
-    route: '/contacto/', title: 'Contacto', h1: 'Contacto', lede: 'Correcciones, prensa y alianzas.', desc: 'Contacta a Autocifras para correcciones de datos, prensa o alianzas.',
+    route: '/contacto/', title: 'Contacto: correcciones, prensa y alianzas', h1: 'Contacto', lede: 'Correcciones, prensa y alianzas.', desc: 'Contacta a Autocifras para correcciones de datos, prensa o alianzas.',
     crumbs: [{ name: 'Inicio', url: '/' }, { name: 'Contacto', url: '/contacto/' }],
     body: `${answer(`Escríbenos a <a href="mailto:${EMAIL}"><b>${EMAIL}</b></a>. Para corregir un dato, incluye la liga de la página y la fuente que lo confirma.`)}
     <h2>¿Eres una marca o una agencia?</h2><p>Puedes enviarnos precios y fichas oficiales; los publicamos con su fuente y fecha. El orden de las comparaciones no se vende (<a href="${C('/contacto/').u('/independencia/')}">política de independencia</a>).</p>
@@ -150,13 +150,13 @@ export function paginas(C, D) {
     const file = path.join(ROOT, 'data/legal', slug + '.html');
     const html = fs.existsSync(file) ? fs.readFileSync(file, 'utf8') : `<p class="callout">Documento en preparación.</p>`;
     const cx = C(`/${slug}/`);
-    out.push({ route: `/${slug}/`, grupo: 'guias', html: page(cx, { title: L.t, description: L.d, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: L.t, url: `/${slug}/` }], body: `${ph({ h1: esc(L.t) })}<div class="wrap blk" style="padding-top:0"><div class="prose" style="max-width:760px">${html.replace(/\{\{EMAIL\}\}/g, EMAIL).replace(/\{\{RESPONSABLE\}\}/g, CFG.responsable || 'El titular del sitio').replace(/\{\{DOMICILIO\}\}/g, CFG.domicilio || 'el que se informa a solicitud en el correo de contacto')}</div></div>` }) });
+    out.push({ route: `/${slug}/`, grupo: 'guias', html: page(cx, { title: L.ts || L.t, description: L.d, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: L.t, url: `/${slug}/` }], body: `${ph({ h1: esc(L.t) })}<div class="wrap blk" style="padding-top:0"><div class="prose" style="max-width:760px">${html.replace(/\{\{EMAIL\}\}/g, EMAIL).replace(/\{\{RESPONSABLE\}\}/g, CFG.responsable || 'El titular del sitio').replace(/\{\{DOMICILIO\}\}/g, CFG.domicilio || 'el que se informa a solicitud en el correo de contacto')}</div></div>` }) });
   }
 
-  // Mi garage (sin indexar: todo vive en el navegador de la persona)
+  // Mi garage: la herramienta se indexa; los datos de cada persona viven solo en su navegador
   const mg = C('/mi-garage/');
   out.push({ route: '/mi-garage/', grupo: 'general', html: page(mg, {
-    title: 'Mi garage', description: 'Guarda tu placa, tu holograma y tus comparaciones en este navegador.', noindex: true, crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Mi garage', url: '/mi-garage/' }],
+    title: 'Mi garage: tu Hoy No Circula y tus comparaciones guardadas', description: 'Guarda tu placa y tu holograma para saber si hoy circulas, y tus comparaciones de autos, sin registro y solo en tu navegador.', crumbsItems: [{ name: 'Inicio', url: '/' }, { name: 'Mi garage', url: '/mi-garage/' }],
     body: `${ph({ h1: 'Mi garage', lede: 'Tu placa, tu holograma y tus comparaciones, guardados solo en este navegador. No pedimos registro y no enviamos nada a ningún servidor.' })}
     <div class="wrap blk" style="padding-top:0" id="garage-page"><div class="grid2" id="garage">
       <form class="calc" id="g-form" aria-label="Datos de mi auto">
