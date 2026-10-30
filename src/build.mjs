@@ -20,6 +20,8 @@ const regFile = readJSON(path.join(ROOT, 'data/imagenes.json'), { imagenes: {} }
 const reg = regFile.imagenes;
 const autos = listJSON(path.join(ROOT, 'data/autos')).map((f) => readJSON(f)).filter(Boolean)
   .sort((a, b) => (a.marca + a.modelo).localeCompare(b.marca + b.modelo, 'es'));
+// Para la franja de créditos del pie: cuántos precios de versión verificados hay en el sitio.
+opts.precios = autos.reduce((s, a) => s + (a.versiones || []).filter((v) => v.precio).length, 0);
 
 const TEMA_N = { mercado: 'Mercado', industria: 'Industria', electricos: 'Eléctricos', seguridad: 'Seguridad', precios: 'Precios', lanzamientos: 'Lanzamientos', credito: 'Crédito', tramites: 'Trámites' };
 const TEMA_IMG = {
