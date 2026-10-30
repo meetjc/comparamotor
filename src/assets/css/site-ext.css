@@ -192,6 +192,16 @@ a.tile:active { transform: translateY(0) scale(.99); }
 .f-cols h2 { font-size: 16px; line-height: 20px; font-weight: 500; margin-bottom: 12px; }
 .f-legal { color: #a59d93; max-width: 120ch; }
 
+/* Franja de créditos al final del pie */
+.f-credit { border-top: 1px solid var(--hairline-mid); background: #0f0e0c; }
+.f-credit p { max-width: 1200px; margin: 0 auto; padding: 18px 16px calc(18px + env(safe-area-inset-bottom, 0px)); text-align: center; font-size: 13px; line-height: 20px; color: #a59d93; letter-spacing: .01em; }
+.f-credit a { color: #fff; font-weight: 600; text-decoration: none; background: linear-gradient(var(--rojo-claro), var(--rojo-claro)) left bottom / 0 1px no-repeat; transition: background-size 300ms var(--ease), color 200ms; }
+.f-credit a:hover, .f-credit a:focus-visible { color: var(--rojo-claro); background-size: 100% 1px; }
+.f-heart { display: inline-block; color: var(--rojo-claro); animation: f-latido 1.6s var(--ease) infinite; }
+.f-x { color: var(--rojo-claro); padding: 0 2px; }
+@keyframes f-latido { 0%, 40%, 100% { transform: scale(1); } 15% { transform: scale(1.25); } 28% { transform: scale(1.1); } }
+@media (prefers-reduced-motion: reduce) { .f-heart { animation: none; } .f-credit a { transition: none; } }
+
 /* Movimiento: las apariciones usan .rv de v5-home.css; con «Reducir movimiento» el contenido queda visible */
 @media (prefers-reduced-motion: reduce) { a.tile, .rank a { transition: none; } a.tile:hover, .rank a:hover { transform: none; } }
 
