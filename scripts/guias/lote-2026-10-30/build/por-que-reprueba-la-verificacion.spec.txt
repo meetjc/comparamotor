@@ -1,0 +1,59 @@
+Escribe en español de México un artículo de blog didáctico para Autocifras (comparador de autos nuevos y medio automotriz en México). Hoy es 30 de octubre de 2026.
+TÍTULO (H1, no lo repitas en el cuerpo): ¿Por qué reprueba un auto la verificación y cómo pasarla a la primera?
+PALABRAS CLAVE (úsalas de forma natural; la principal va en la respuesta inicial y en un H2): verificacion vehicular, por que reprueba la verificacion, verificacion cdmx, verificacion edomex
+TEMAS A CUBRIR: Qué pasa dentro del verificentro paso a paso (revisión visual, OBD-II, gases) explicado fácil, qué gases se miden y para qué, causas de rechazo según FACTS (tabla), qué es el testigo check engine y los monitores OBD, cuánto cuesta la verificación y la multa por hacerlo tarde según FACTS, y una lista de qué revisar una semana antes. Liga a /verificacion-vehicular/, a /hoy-no-circula/ y a /tramites/.
+LECTOR: alguien en México que está por comprar o ya tiene un auto y quiere entender el tema sin tecnicismos. Enseña paso a paso, con ejemplos y números, como un buen maestro.
+EXTENSIÓN: entre 1,400 y 1,750 palabras. No te pases de 1,750: prioriza explicar bien sobre repetir datos.
+ESTRUCTURA OBLIGATORIA (devuelve solo HTML del cuerpo; sin <html>, <body> ni <h1>; sin bloques ```):
+1. Primer elemento: <p class="answer">…</p> con la respuesta directa en 2 o 3 frases con cifras de FACTS.
+2. De 7 a 9 secciones <h2>; cada <h2> es la pregunta literal que alguien escribiría en Google (empieza con ¿ y termina con ?). La primera frase debajo de cada <h2> responde directo.
+3. Al menos 2 tablas, cada una así: <div class="tbl-wrap"><table class="tbl"><thead><tr><th>…</th></tr></thead><tbody>…</tbody></table></div>, con datos de FACTS.
+4. Una caja de ejemplo resuelto: <div class="ejemplo"><p><b>Ejemplo:</b> …</p></div> que haga una cuenta paso a paso con cifras de FACTS (solo sumas, restas, multiplicaciones o divisiones simples; muestra la operación).
+5. Una lista ordenada <ol> en una sección titulada como pregunta práctica (por ejemplo «¿Qué revisar antes de…?») con 5 a 7 pasos concretos.
+6. Al final, <h2>Preguntas frecuentes</h2> con EXACTAMENTE esta estructura: <div class="faq"><details><summary>¿Pregunta?</summary><p>Respuesta de 2 a 4 frases.</p></details> …</div> con 4 preguntas distintas a los H2.
+7. Marcadores de figura: inserta exactamente estos comentarios HTML, cada uno solo en su línea entre párrafos, en este orden y repartidos a lo largo del texto (uno cada 1 o 2 secciones, el primero después de la primera sección): <!--FIG:grafica:limites-hc-->  <!--FIG:foto:nissan-versa:2-->  <!--FIG:grafica:costo-tarde-->  <!--FIG:foto:chevrolet-aveo:2-->. No escribas etiquetas <img>. No describas la gráfica con «como ves en la gráfica» si no está justo antes.
+8. Enlaces internos con <a href="RUTA">texto descriptivo</a>: de 4 a 6, solo a rutas que aparezcan en FACTS o en esta lista: /comparar/ /autos/ /autos/precios/ /autos-chinos/ /autos-mas-vendidos/ /credito-automotriz/ /costo-total/ /que-me-alcanza/ /mejores/autos-hibridos/ /mejores/autos-electricos/ /mejores/autos-baratos/ /mejores/camionetas/ /mejores/autos-para-plataformas/ /seguro-de-auto/ /promociones/ /tramites/ /hoy-no-circula/ /verificacion-vehicular/ /precio-gasolina/ /glosario/ /metodologia/.
+REGLAS DE CONTENIDO (no negociables):
+- Usa SOLO las cifras de FACTS, copiadas tal cual (mismo monto, porcentaje y fecha). No inventes precios, tasas, fechas, leyes, normas, versiones ni modelos que no estén en FACTS. Puedes derivar números con operaciones simples que muestres.
+- Cuando cites una cifra, di la fuente y la fecha como aparecen en FACTS («según el sitio de BYD México, al 30 de octubre de 2026»).
+- No menciones ni recomiendes otros sitios de autos, comparadores, revistas o portales. Las únicas fuentes que nombras son las de FACTS.
+- No agregues datos, columnas de tabla ni afirmaciones que no estén en FACTS (por ejemplo: número de bolsas de aire, equipo, país de fabricación, ventas, consecuencias legales) aunque creas saberlos. Si una celda no tiene dato en FACTS, no pongas esa columna.
+- No especules ni supongas («probablemente», «habría», «seguramente», «podría costar»). No prometas beneficios que FACTS no dice (reventa, depreciación, seguro más barato, ahorro garantizado).
+- No menciones organismos, pruebas, leyes, apps ni sitios que no estén en FACTS.
+- Cada cifra lleva la fecha que trae en FACTS; no le pongas la fecha de hoy a un dato de otra fecha.
+- No des asesoría financiera ni legal personalizada.
+- No rellenes la palabra clave a la fuerza: si suena mal, adáptala con preposiciones y artículos (por ejemplo «autos seguros en México»).
+PSICOLOGÍA CON ÉTICA: abre con un dato ancla fuerte de FACTS; muestra lo que cuesta no revisar el tema (aversión a la pérdida) con cifras de FACTS; usa prueba social solo con cifras reales de FACTS (ventas, estaciones, resultados). Termina cada sección con una conclusión práctica de una frase.
+ESTILO: frases cortas. Sin clichés de IA («en la era digital», «en el mundo actual», «sin lugar a dudas», «es importante destacar», «crucial», «fundamental», «te guiaremos», «adéntrate»). Sin signos de exclamación. Habla de tú. Párrafos de 2 a 4 frases. Nada de «no es X, es Y».
+FACTS (única fuente de cifras):
+Hoy es 30 de octubre de 2026. Reglas del Programa de Verificación Vehicular Obligatoria del segundo semestre de 2026: Ciudad de México (Gaceta Oficial del 1 de julio de 2026) y Estado de México (Gaceta del Gobierno del 30 de junio de 2026). Normas: NOM-047-SEMARNAT-2014 (revisión visual y gases) y NOM-167-SEMARNAT-2017 (prueba OBD).
+== Qué pasa dentro del verificentro, en orden ==
+1. Revisión visual (NOM-047-SEMARNAT-2014): sin fugas en el escape, filtro de aire puesto, tapón del aceite y tapón de la gasolina, bayoneta del aceite, sin fugas de fluidos, llantas en buen estado y componentes de control de emisiones sin alterar. Cualquier falla termina la prueba con rechazo.
+2. Revisión de humo: humo negro o azul constante por más de 10 segundos es rechazo.
+3. Autos de gasolina modelo 2006 en adelante: prueba OBD (en México también se llama SDB). El técnico conecta un lector a la computadora del auto y revisa tres cosas: que haya comunicación, que los monitores de emisiones estén completos y que no haya códigos de falla confirmados del tren motriz.
+4. Si no hay comunicación con la computadora (o el auto no tiene OBD), el auto pasa a la prueba de gases.
+Prueba de gases dinámica: el auto va sobre rodillos (dinamómetro) a 24 y a 40 km/h. Prueba estática: con el auto detenido, a 2,500 rpm y en marcha lenta; no mide NOx.
+Gases que se miden: HC (hidrocarburos sin quemar), CO (monóxido de carbono), NOx (óxidos de nitrógeno), O2 (oxígeno), la dilución (CO + CO2) y el factor lambda (la mezcla de aire y gasolina).
+== Causas de rechazo explícitas (Estado de México, numeral 1.4.5) ==
+A. El auto aprobó por OBD el semestre anterior y ahora no hay comunicación con su computadora.
+B. Luz MIL (check engine) encendida.
+C. La lectura indica que se borraron códigos de falla, sin importar la cantidad o el tipo.
+D. Rebasar los límites de gases.
+E. Uno o más códigos de falla del tren motriz asociados a monitores obligatorios.
+CDMX (numerales 8.3.1 y 8.6.1): rechazo por códigos de falla confirmados y por monitores sin completar; no se tolera ningún monitor incompleto. También rechazo por no pasar la revisión visual o de humo, o por rebasar los límites.
+Códigos P0420 y P0430 (baja eficiencia del convertidor catalítico) en el Estado de México: hay que cambiar el convertidor en un Taller PIREC autorizado antes de volver a verificar; el diagnóstico del Taller PIREC después de un rechazo no cuesta.
+== Límites de gases (iguales en la CDMX y el Estado de México) ==
+Holograma 0 (gasolina 2006 en adelante): HC 80 ppm, CO 0.4%, NOx 250 ppm, O2 0.4%, dilución 13 a 16.5%, lambda máxima 1.03.
+Holograma 1 (gasolina 1994 a 2005, prueba dinámica): HC 100 ppm, CO 0.7%, NOx 700 ppm, O2 2.0%, dilución 13 a 16.5%, lambda 1.03.
+Holograma 2 (gasolina 1993 y anteriores, prueba dinámica): HC 350 ppm, CO 2.5%, NOx 2,000 ppm, O2 2.0%, lambda 1.05.
+Diésel (opacidad): holograma 0 hasta 1.0 m-1 (modelo 2012 en adelante); holograma 1 hasta 1.2 m-1.
+== Costos y multas 2026 (UMA 2026 = $117.31, INEGI) ==
+CDMX: $765.45 por cualquier constancia. El segundo, cuarto y sexto intento es gratis si el anterior fue rechazo y se hace en el mismo verificentro.
+Estado de México: holograma 00 $1,196.56; 0 $610.01; 1 y 2 $469.24. El programa no dice que el segundo intento sea gratis.
+Multa por verificar fuera de plazo: CDMX $2,346.20; Estado de México de $3,519.30 a $4,105.85.
+CDMX: si te rechazan en los últimos 7 días de tu periodo en el mismo verificentro, tienes 15 días más. Un auto que ya aprobó en el semestre y luego obtiene rechazo tiene 30 días para aprobar y circula como holograma 2.
+Ni la CDMX ni el Estado de México publican cuántos autos reprueban.
+== Ejemplo resuelto ==
+Si reprueba y no corriges a tiempo en la CDMX: verificación $765.45 + multa $2,346.20 = $3,111.65, sin contar la reparación. Si verificas a tiempo y apruebas: $765.45. La diferencia es $2,346.20.
+En el Estado de México con holograma 0: $610.01 a tiempo contra $610.01 + $3,519.30 = $4,129.31 con la multa mínima.
+

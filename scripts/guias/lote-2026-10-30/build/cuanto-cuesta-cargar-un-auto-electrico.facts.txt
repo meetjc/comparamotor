@@ -1,0 +1,21 @@
+Hoy es 30 de octubre de 2026.
+== Tarifas de la CFE para casa (Tarifa 1), octubre de 2026, por kWh ==
+Consumo básico, primeros 75 kWh del mes: $1.140. Intermedio, siguientes 65 kWh: $1.385. Excedente, lo que pase de 140 kWh: $4.054. En noviembre de 2026: $1.144, $1.389 y $4.067.
+Tarifa DAC (doméstica de alto consumo), octubre de 2026: cargo fijo de $145.79 al mes más $6.142 a $6.730 por kWh según la región (región Central: $6.730). Una casa pasa a DAC cuando su promedio pasa de 250 kWh al mes en Tarifa 1.
+Los cálculos de Autocifras usan las tarifas publicadas por la CFE, sin IVA.
+Segundo medidor: la CFE dice que, si el cargador se instala en casa, «es posible solicitar un medidor independiente para facturar exclusivamente lo que consume la electrolinera sin afectar la tarifa doméstica». El medidor no tiene costo; la CFE pide instalación por electricista certificado, ficha técnica y certificado del cargador. La CFE no publica qué tarifa aplica a ese medidor.
+Carga pública: ningún operador en México publica un precio fijo por kWh. Tesla usa precio dinámico en su app y publica un cargo por congestión de $10 por minuto.
+Qué es kWh/100 km: los kilowatts-hora que gasta el auto para recorrer 100 km. Es el equivalente eléctrico del rendimiento en km/l, pero al revés: menos es mejor.
+Fórmula: kWh al mes = kilómetros al mes ÷ 100 × consumo (kWh/100 km). Costo = kWh × precio del kWh.
+Precio de la gasolina regular al 30 de octubre de 2026: $23.69 por litro (promedio nacional, CNE). Un Nissan Versa (19.06 km/l) gasta $1,243 al mes con 1,000 km; costo por km $1.24.
+== Consumo oficial y costo de cada eléctrico (cálculo de Autocifras, 1,000 km al mes = 100 kWh por cada 10 kWh/100 km) ==
+BYD Dolphin Mini: precio desde $399,800 (sitio oficial, 25 de octubre de 2026); autonomía 300 km; consumo oficial 10 kWh/100 km (ciclo NEDC); con 1,000 km al mes usa 100 kWh; costo al mes a $1.385 (intermedio) $138; a $4.054 (excedente) $405; a $6.730 (DAC Central) $673; costo por km en excedente $0.41. Enlace /autos/byd/dolphin-mini/
+Geely EX2: precio desde $389,900 (sitio oficial, 25 de octubre de 2026); autonomía 395 km; consumo oficial 11.8 kWh/100 km (ciclo NEDC); con 1,000 km al mes usa 118 kWh; costo al mes a $1.385 (intermedio) $163; a $4.054 (excedente) $478; a $6.730 (DAC Central) $794; costo por km en excedente $0.48. Enlace /autos/geely/ex2/
+Geely EX5: precio desde $699,900 (sitio oficial, 25 de octubre de 2026); autonomía 470 km; consumo oficial 14 kWh/100 km (ciclo NEDC); con 1,000 km al mes usa 140 kWh; costo al mes a $1.385 (intermedio) $194; a $4.054 (excedente) $568; a $6.730 (DAC Central) $942; costo por km en excedente $0.57. Enlace /autos/geely/ex5/
+BYD Seal RWD: precio desde $778,800 (sitio oficial, 25 de octubre de 2026); autonomía 460 km; consumo oficial 15.4 kWh/100 km (ciclo WLTC); con 1,000 km al mes usa 154 kWh; costo al mes a $1.385 (intermedio) $213; a $4.054 (excedente) $624; a $6.730 (DAC Central) $1,036; costo por km en excedente $0.62. Enlace /autos/byd/seal/
+MG4: precio desde $499,000 (sitio oficial, 25 de octubre de 2026); autonomía 350 km; consumo oficial 17.0 kWh/100 km (ciclo WLTP); con 1,000 km al mes usa 170 kWh; costo al mes a $1.385 (intermedio) $235; a $4.054 (excedente) $689; a $6.730 (DAC Central) $1,144; costo por km en excedente $0.69. Enlace /autos/mg/mg4/
+== Ejemplo resuelto (BYD Dolphin Mini, 1,000 km al mes, todo en excedente) ==
+1,000 km ÷ 100 × 10 kWh = 100 kWh. 100 kWh × $4.054 = $405 al mes. Contra un Versa de gasolina ($1,243 al mes) la diferencia es $838 al mes y $10,056 al año.
+Ahorro al año del Dolphin Mini contra el Versa, cargando en excedente: 10,000 km al año $8,375; 15,000 km $12,563; 20,000 km $16,750.
+Cuidado con el bloque: si tu casa ya gasta 140 kWh al mes, todo lo que cargue el auto se cobra en excedente ($4.054). Si el promedio de la casa con el auto pasa de 250 kWh al mes, la casa entera pasa a DAC. Por eso existe el segundo medidor.
+Autos eléctricos más baratos del catálogo de Autocifras (precio de lista desde, 25 de octubre de 2026): JAC E10X $371,000; Geely EX2 $389,900; BYD Dolphin Mini $399,800; MG4 $499,000. Enlaces /autos/jac/e10x/ /autos/geely/ex2/ /autos/byd/dolphin-mini/ /autos/mg/mg4/

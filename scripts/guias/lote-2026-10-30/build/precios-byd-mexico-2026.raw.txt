@@ -1,0 +1,146 @@
+<p class="answer">Los precios de BYD en México 2026 van de $399,800 por el Dolphin Mini a $1,199,800 por el Atto 8, según el configurador oficial de BYD México al 30 de octubre de 2026. Hay 11 modelos y 15 versiones con precio publicado, entre eléctricos e híbridos enchufables.</p>
+
+<h2>¿Cuáles son los precios de BYD en México 2026 por modelo y versión?</h2>
+
+<p>El BYD más barato cuesta $399,800 y el más caro de entrada, $1,199,800: una diferencia de $800,000 dentro de la misma marca. Por eso conviene ver la lista completa antes de cotizar. La tabla reúne las 15 versiones con su precio de lista y su autonomía oficial, verificados el 30 de octubre de 2026 en el configurador de byd.com/mx.</p>
+
+<p>Lee la columna de tipo antes que el precio. En un eléctrico, la autonomía es lo que recorre con una carga. En un híbrido enchufable, es lo que recorre sin usar gasolina.</p>
+
+<div class="tbl-wrap">
+<table class="tbl">
+<thead>
+<tr><th>Modelo</th><th>Versión</th><th>Tipo</th><th>Precio de lista</th><th>Autonomía oficial</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="/autos/byd/dolphin-mini/">Dolphin Mini</a></td><td>5 Seats 300km GL</td><td>Eléctrico</td><td>$399,800</td><td>300 km</td></tr>
+<tr><td>Dolphin Mini</td><td>5 Seats 380km GS</td><td>Eléctrico</td><td>$415,800</td><td>380 km</td></tr>
+<tr><td><a href="/autos/byd/yuan-pro-dmi/">Yuan Pro DM-i</a></td><td>GL</td><td>Híbrido enchufable</td><td>$519,999</td><td>45 km eléctricos</td></tr>
+<tr><td><a href="/autos/byd/king/">King 2027</a></td><td>DM-i GL</td><td>Híbrido enchufable</td><td>$524,900</td><td>50 km eléctricos</td></tr>
+<tr><td>King 2027</td><td>DM-i GS</td><td>Híbrido enchufable</td><td>$579,900</td><td>170 km eléctricos</td></tr>
+<tr><td><a href="/autos/byd/yuan-pro/">Yuan Pro</a></td><td>380km</td><td>Eléctrico</td><td>$579,800</td><td>380 km</td></tr>
+<tr><td><a href="/autos/byd/song-pro/">Song Pro DM-i</a></td><td>1.5L FWD 71km</td><td>Híbrido enchufable</td><td>$599,880</td><td>71 km eléctricos</td></tr>
+<tr><td><a href="/autos/byd/seal/">Seal</a></td><td>RWD 460km</td><td>Eléctrico</td><td>$778,800</td><td>460 km</td></tr>
+<tr><td>Seal</td><td>AWD 520km</td><td>Eléctrico</td><td>$888,800</td><td>520 km</td></tr>
+<tr><td><a href="/autos/byd/song-plus/">Song Plus DM-i</a></td><td>1.5T FWD 105km</td><td>Híbrido enchufable</td><td>$778,800</td><td>105 km eléctricos</td></tr>
+<tr><td><a href="/autos/byd/shark/">Shark</a></td><td>GL MY26</td><td>Híbrido enchufable</td><td>$899,980</td><td>100 km eléctricos</td></tr>
+<tr><td>Shark</td><td>GS MY26</td><td>Híbrido enchufable</td><td>$969,800</td><td>100 km eléctricos</td></tr>
+<tr><td><a href="/autos/byd/sealion-7/">Sealion 7</a></td><td>AWD 456km</td><td>Eléctrico</td><td>$949,800</td><td>456 km</td></tr>
+<tr><td><a href="/autos/byd/m9/">M9</a></td><td>GL</td><td>Híbrido enchufable</td><td>$979,800</td><td>95 km eléctricos</td></tr>
+<tr><td><a href="/autos/byd/atto-8/">Atto 8</a></td><td>DM-p</td><td>Híbrido enchufable</td><td>$1,199,800</td><td>152 km eléctricos</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>Estos precios coinciden con el catálogo de Autocifras del 25 de octubre de 2026. Si quieres ver BYD junto a otras marcas del mismo origen, revisa la sección de <a href="/autos-chinos/">autos chinos</a>. Antes de cotizar, ubica tu presupuesto en esta tabla y quédate solo con los modelos que caben.</p>
+
+<!--FIG:grafica:precio-desde-->
+
+<h2>¿De qué depende el precio de un BYD: eléctrico o híbrido enchufable?</h2>
+
+<p>El precio cambia primero según el tipo de auto y luego según cuánto recorre sin gasolina. Piensa en dos vecinos. Uno tiene un eléctrico y solo lo puede cargar en un enchufe. El otro tiene un híbrido enchufable: lo carga en la noche, pero si se le acaba la batería sigue andando con su motor de gasolina.</p>
+
+<p>BYD vende las dos tecnologías. Los eléctricos (BEV) son el Dolphin Mini, el Yuan Pro, el Seal y el Sealion 7. Los híbridos enchufables llevan las siglas DM-i o DM-p: Yuan Pro DM-i, King, Song Pro DM-i, Song Plus DM-i, Shark, M9 y Atto 8.</p>
+
+<p>Dentro de un mismo modelo, la autonomía suele marcar la diferencia de precio. El Seal RWD 460km cuesta $778,800 y el Seal AWD 520km cuesta $888,800. Las dos versiones del Shark tienen la misma autonomía eléctrica de 100 km y aun así cambian de precio, porque BYD las vende como versiones distintas (GL y GS). Conclusión práctica: compara versiones del mismo modelo antes de comparar marcas.</p>
+
+<h2>¿Cuál es el BYD más barato y cuánto cuesta el Dolphin Mini?</h2>
+
+<p>El BYD más barato es el Dolphin Mini, desde $399,800 al 30 de octubre de 2026. Es un hatchback eléctrico con dos versiones. La GL cuesta $399,800 con 300 km de autonomía oficial, y la GS cuesta $415,800 con 380 km.</p>
+
+<p>¿Vale la pena pagar más por la GS? Depende de cuánto manejas entre cargas. Si cargas todas las noches y haces trayectos cortos, quizá no uses los kilómetros extra. Para decidir, calcula cuánto pagas por cada kilómetro de autonomía adicional.</p>
+
+<div class="ejemplo">
+<p><b>Ejemplo:</b> Comparas las dos versiones del Dolphin Mini con los precios del 30 de octubre de 2026.<br>
+Diferencia de precio: $415,800 − $399,800 = $16,000.<br>
+Diferencia de autonomía: 380 km − 300 km = 80 km.<br>
+Costo de cada kilómetro extra: $16,000 ÷ 80 = $200.<br>
+Cada kilómetro adicional de autonomía te cuesta $200 en el precio de compra. Si tus recorridos diarios caben de sobra en 300 km, esos $16,000 se quedan en tu bolsa.</p>
+</div>
+
+<p>Puedes ver el detalle en la ficha del <a href="/autos/byd/dolphin-mini/">BYD Dolphin Mini</a>. Haz la misma cuenta con cualquier modelo que tenga dos versiones.</p>
+
+<!--FIG:foto:byd-dolphin-mini:0-->
+
+<h2>¿Cuánto cuesta el BYD King 2027 y qué cambia entre versiones?</h2>
+
+<p>El precio del BYD King 2027 va de $524,900 a $579,900, según el sitio de BYD México al 30 de octubre de 2026. Es un sedán híbrido enchufable. El King DM-i anterior, el GL de 8.3 kWh, ya no aparece en el sitio de la marca.</p>
+
+<p>La versión GL cuesta $524,900 y recorre 50 km sin gasolina. La GS cuesta $579,900 y recorre 170 km sin gasolina. Un ejemplo: si tu ida y vuelta diaria cabe en 50 km y cargas en casa cada noche, la GL cubre ese trayecto sin gasolina según su autonomía oficial. Si haces más kilómetros al día, revisa la GS. Elige la versión con tus kilómetros diarios en la mano.</p>
+
+<h2>¿Qué BYD conviene para ciudad, familia o trabajo?</h2>
+
+<p>Conviene el que encaja en tu uso diario y en tu presupuesto. Separa tus necesidades en tres perfiles y busca el tipo de carrocería que corresponde.</p>
+
+<p>Para ciudad, el Dolphin Mini es el hatchback eléctrico de la marca. Si buscas un sedán eléctrico, el precio del BYD Seal arranca en $778,800 con 460 km de autonomía oficial.</p>
+
+<p>Para familia hay varias SUV. La Yuan Pro DM-i arranca en $519,999, la Yuan Pro eléctrica en $579,800 y la Song Pro DM-i en $599,880. El precio del BYD Song Plus DM-i es de $778,800, con 105 km eléctricos. Si necesitas una van, la M9 cuesta $979,800.</p>
+
+<!--FIG:foto:byd-shark:0-->
+
+<p>Para trabajo, la única pickup es la Shark. El precio del BYD Shark es de $899,980 en la versión GL MY26 y de $969,800 en la GS MY26, ambas con 100 km de autonomía eléctrica oficial. Si tu presupuesto es mayor, están la Sealion 7, SUV eléctrica de $949,800, y el Atto 8, SUV híbrida de $1,199,800. Define tu perfil primero y después compara solo los modelos de ese grupo.</p>
+
+<!--FIG:grafica:autonomia-->
+
+<h2>¿Qué incluye la garantía de BYD en México?</h2>
+
+<p>BYD México publica su garantía en la página del Song Pro DM-i y no la publica modelo por modelo. Una garantía funciona por tiempo o por kilómetros. Por ejemplo, con 8 años o 200,000 km, la cobertura termina con lo primero que cumplas.</p>
+
+<div class="tbl-wrap">
+<table class="tbl">
+<thead>
+<tr><th>Componente</th><th>Garantía publicada</th></tr>
+</thead>
+<tbody>
+<tr><td>Batería</td><td>8 años o 200,000 km</td></tr>
+<tr><td>Sistema de alto voltaje y motor</td><td>8 años o 150,000 km</td></tr>
+<tr><td>Defensa a defensa</td><td>6 años o 150,000 km</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>Como la marca no publica la garantía de cada modelo, pide por escrito la del auto que vas a comprar. BYD tenía 108 puntos de venta en su localizador oficial al 30 de octubre de 2026. Antes de firmar, ubica cuál te queda cerca para el servicio.</p>
+
+<h2>¿Hay promociones de BYD este mes?</h2>
+
+<p>Las promociones de BYD cambian cada mes y las vigentes se publican en byd.com/mx. Por eso esta guía no da montos de descuento: lo que hoy aplica puede no aplicar el mes que entra.</p>
+
+<p>Trata el precio de lista como tu punto de partida y la promoción como un extra que verificas el día que cotizas. Puedes ver cómo funcionan en nuestra sección de <a href="/promociones/">promociones</a>. Pide que la promoción aparezca por escrito en tu cotización.</p>
+
+<!--FIG:foto:byd-sealion-7:0-->
+
+<h2>¿Cómo comparar un BYD contra un auto de gasolina por costo total?</h2>
+
+<p>Suma lo que pagas por tener y mover el auto, además de su precio en la agencia. Para eso necesitas tus kilómetros diarios y saber dónde vas a cargar. Sigue estos pasos:</p>
+
+<ol>
+<li>Anota el precio de lista de la versión exacta que te interesa, con la fecha de consulta.</li>
+<li>Calcula cuántos kilómetros manejas en un día normal.</li>
+<li>Si eliges un eléctrico, confirma que su autonomía oficial cubre tus recorridos entre cargas.</li>
+<li>Si eliges un híbrido enchufable, revisa cuántos de tus kilómetros diarios cubre su autonomía eléctrica.</li>
+<li>Confirma que tienes dónde cargar en casa o en el trabajo.</li>
+<li>Calcula el <a href="/costo-total/">costo total</a> del BYD y del auto de gasolina con los mismos kilómetros.</li>
+<li>Pon ambas opciones lado a lado en el <a href="/comparar/">comparador</a>.</li>
+</ol>
+
+<p>Un dato más: BYD no reporta sus ventas al INEGI, así que no hay cifra oficial de ventas de la marca en México. Decide con precio, autonomía y costo total.</p>
+
+<h2>Preguntas frecuentes</h2>
+
+<div class="faq">
+<details>
+<summary>¿Cuántos modelos vende BYD en México?</summary>
+<p>Al 30 de octubre de 2026, BYD México tenía 11 modelos con precio publicado y 15 versiones en total. Van del Dolphin Mini, desde $399,800, al Atto 8, desde $1,199,800.</p>
+</details>
+<details>
+<summary>¿Qué significa DM-i en un BYD?</summary>
+<p>Las siglas DM-i y DM-p identifican a los híbridos enchufables de la marca. Tienen motor de gasolina y una batería que se carga. Su autonomía eléctrica es lo que recorren sin usar gasolina.</p>
+</details>
+<details>
+<summary>¿Se sigue vendiendo el King anterior?</summary>
+<p>No en el sitio de la marca. El King DM-i anterior, el GL de 8.3 kWh, ya no aparece en el sitio de BYD México. Hoy se vende el King 2027, desde $524,900.</p>
+</details>
+<details>
+<summary>¿Cuántas ventas tiene BYD en México?</summary>
+<p>No hay cifra oficial. BYD no reporta sus ventas al INEGI y no aparece en el Registro Administrativo de la Industria Automotriz de Vehículos Ligeros.</p>
+</details>
+</div>

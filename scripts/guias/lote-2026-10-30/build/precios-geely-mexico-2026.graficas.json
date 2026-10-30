@@ -1,0 +1,122 @@
+{
+ "precio-desde": {
+  "titulo": "Precio desde de cada Geely en México",
+  "desc": "Versión de entrada de cada modelo, precio de lista al 30 de octubre de 2026. El color indica el tipo de motor.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Emgrand",
+    "valor": 299990,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "GX3 Pro",
+    "valor": 329990,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Coolray Lite",
+    "valor": 339990,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "EX2",
+    "valor": 389900,
+    "color": "#171513"
+   },
+   {
+    "label": "Coolray Plus",
+    "valor": 399990,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Cityray",
+    "valor": 528990,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "EX5 EM-i",
+    "valor": 569990,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Starray",
+    "valor": 599990,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "EX5",
+    "valor": 699900,
+    "color": "#171513"
+   },
+   {
+    "label": "Monjaro",
+    "valor": 699900,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Okavango",
+    "valor": 729888,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Monjaro EM-i",
+    "valor": 747900,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#171513",
+    "texto": "Eléctrico"
+   },
+   {
+    "color": "#2a78d6",
+    "texto": "Gasolina"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Híbrido enchufable"
+   }
+  ],
+  "fuente": "Sitio oficial de Geely México, 30 de octubre de 2026."
+ },
+ "autonomia": {
+  "titulo": "Autonomía oficial con la batería",
+  "desc": "Kilómetros con una carga. En los híbridos enchufables es lo que recorren sin gasolina; después sigue el motor de gasolina.",
+  "unidad": "km",
+  "datos": [
+   {
+    "label": "EX5",
+    "valor": 470,
+    "color": "#171513"
+   },
+   {
+    "label": "EX2",
+    "valor": 395,
+    "color": "#171513"
+   },
+   {
+    "label": "Monjaro EM-i",
+    "valor": 130,
+    "color": "#eb6834"
+   },
+   {
+    "label": "EX5 EM-i",
+    "valor": 105,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#171513",
+    "texto": "Eléctrico: autonomía total"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Híbrido enchufable: solo la parte eléctrica"
+   }
+  ],
+  "fuente": "Fichas oficiales de Geely México (versión con más autonomía de cada modelo)."
+ }
+}

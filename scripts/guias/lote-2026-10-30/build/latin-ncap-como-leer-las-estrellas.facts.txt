@@ -1,0 +1,44 @@
+Hoy es 30 de octubre de 2026. Datos consultados en latinncap.com, dof.gob.mx e INEGI/AMDA el 30 de octubre de 2026.
+== Qué es y cómo califica Latin NCAP ==
+Latin NCAP evalúa cuatro áreas, cada una en porcentaje: Protección de Ocupante Adulto, Protección de Ocupante Infantil, Protección a Peatones y Usuarios Vulnerables de las Vías, y Sistemas de Asistencia a la Seguridad.
+Regla de Latin NCAP: «La caja con menor calificación de estrellas es la responsable del resultado total en estrellas del vehículo». El área más débil fija las estrellas.
+Desde el 1 de enero de 2026 rige un protocolo nuevo, vigente hasta el 31 de diciembre de 2029 (comunicado de Latin NCAP del 21 de noviembre de 2025).
+Umbrales mínimos del protocolo 2026 (pruebas de 2025 a 2027), en orden Adulto / Infantil / Peatones / Asistencias: 5 estrellas 80% / 75% / 65% / 85%; 4 estrellas 75% / 65% / 60% / 75%; 3 estrellas 65% / 55% / 50% / 65%; 2 estrellas 50% / 30% / 25% / 50%; 1 estrella 40% / 15% / 10% / 50%.
+Para 2028 y 2029 suben: 5 estrellas exigirán 85% / 80% / 70% / 85%.
+El protocolo 2026 pide de serie en todas las versiones: control electrónico de estabilidad (ESC), recordatorio de cinturón, detección de punto ciego y asistente de velocidad.
+Pruebas nuevas de 2026: impacto lateral a 60 km/h con barrera de 1,400 kg; impacto contra poste a 32 km/h con ángulo de 75 grados; se evalúa por primera vez al adulto del asiento trasero; entra un maniquí de 10 años en un elevador sin respaldo; frenado autónomo de emergencia (AEB) nocturno para peatones y para ciclistas; prueba del alce (maniobra evasiva) a mayor velocidad.
+Sin ISOFIX y sin interruptor para apagar la bolsa del copiloto la calificación infantil baja de forma importante.
+Vigencia según Latin NCAP: los resultados valen mientras estén publicados; cada resultado indica el año del test y el protocolo; «el año de prueba es fundamental para una interpretación correcta». No hay equivalencia entre las estrellas de un protocolo y las de otro.
+Las marcas solo pueden usar un resultado en su publicidad durante 4 años desde su publicación.
+Resultados de antes de 2020: daban estrellas separadas para Adulto (puntos sobre 34) e Infantil (puntos sobre 49), no un resultado único.
+El catálogo de resultados de Latin NCAP tenía 199 resultados al 30 de octubre de 2026.
+== Autos más vendidos en México (contexto) ==
+Ventas enero a septiembre de 2026 (AMDA con datos del INEGI): 1. Nissan Versa 59,621; 2. Chevrolet Aveo 51,698; 3. Kia K3 43,696; 4. Nissan NP300 39,657; 5. Mazda CX-30 21,875; 6. RAM 1200 21,477; 7. Nissan Magnite 21,185; 8. MG5 20,881; 9. Nissan March 19,681; 10. Hyundai Grand i10 19,423.
+Total de autos nuevos vendidos en México de enero a septiembre de 2026: 1,143,988 unidades (INEGI, RAIAVL, boletín del 7 de octubre de 2026).
+== Resultados recientes (formato actual, % por área: Adulto / Infantil / Peatones / Asistencias) ==
+Kia K3 (Sedán, Hatchback y Cross): 5 estrellas, prueba 2024, 87% / 84% / 65% / 81%. Fabricado en México; Latin NCAP indica mercados «México, Mercado Latin NCAP». 6 bolsas de aire. Enlace /autos/kia/k3/
+Nissan Nuevo Kicks con 6 bolsas: 5 estrellas, prueba 2025, 86.29% / 91.66% / 72.79% / 85.17%. La versión evaluada es la hecha en México; el 13 de octubre de 2026 Latin NCAP confirmó las 5 estrellas también para la versión de Brasil. Enlace /autos/nissan/kicks/
+Volkswagen Nuevo Virtus con 6 bolsas: 5 estrellas, prueba 2022, 92% / 92% / 53% / 85%. Enlace /autos/volkswagen/virtus/
+Volkswagen Nuevo Polo / Polo Track con 4 bolsas: 3 estrellas, prueba 2022, 73% / 71% / 51% / 58%.
+Toyota Yaris Sedán y Hatchback con 6 bolsas: 2 estrellas, prueba 2025, 66% / 64% / 54% / 58%. Producción Tailandia y Brasil. Latin NCAP señala protección marginal en pecho y rodillas y AEB opcional o ausente.
+Chevrolet Groove con 4 bolsas: 0 estrellas, prueba 2024, 39% / 69% / 36% / 58%. Enlace /autos/chevrolet/groove/
+Chirey Tiggo 2 Pro «para México» (Chery Tiggo 2) con 4 bolsas: 0 estrellas, prueba 2026, primer resultado con el protocolo nuevo, 0% / 0% / 49% / 45%.
+Suzuki Swift con 2 bolsas: 0 estrellas, prueba 2021, 16% / 0% / 66% / 7%.
+== Resultados viejos (formato antes de 2020: estrellas Adulto / Infantil) ==
+Chevrolet New Onix Plus con 6 bolsas, 2019: Adulto 5 estrellas / Infantil 5 estrellas.
+Toyota Hilux doble cabina con 7 bolsas, 2019: Adulto 5 estrellas / Infantil 5 estrellas (generación anterior al cambio de 2025).
+Chevrolet Aveo de la generación anterior con 2 bolsas, 2019: Adulto 3 estrellas / Infantil 4 estrellas.
+Nissan Versa de la generación anterior con 2 bolsas, 2016: Adulto 3 estrellas / Infantil 2 estrellas.
+Nissan March con 2 bolsas, 2018: Adulto 1 estrella / Infantil 2 estrellas.
+Renault Kwid con 4 bolsas, 2017: Adulto 3 estrellas / Infantil 3 estrellas.
+== Sin prueba de su generación actual ==
+No tienen resultado de Latin NCAP de su generación vigente: Nissan Versa actual, Chevrolet Aveo actual, Mazda CX-30, MG5, Nissan Magnite, RAM 1200, Hyundai Grand i10 actual, Nissan NP300 de trabajo. «Sin prueba» no significa «cero estrellas»: significa que no hay dato.
+== Norma mexicana NOM-194-SE-2021 ==
+Publicada en el DOF el 3 de octubre de 2022. Aplica a vehículos ligeros nuevos de 400 kg a 3,857 kg.
+Obliga a frenos ABS, recordatorio de uso de cinturón, protección a ocupantes en impacto frontal y lateral (desde el 1 de enero de 2024, excluidos los año modelo 2024 y anteriores).
+Control electrónico de estabilidad (ESC) y anclajes ISOFIX o Latch: obligatorios con la misma fecha; en la práctica desde el año modelo 2025.
+Sensor de presión de llantas (TPMS) desde el 1 de enero de 2025.
+Impacto lateral de poste e integridad del sistema de combustible desde el 1 de enero de 2026, excluidos los año modelo 2026 y anteriores.
+El frenado autónomo de emergencia y la protección a peatones son voluntarios en la NOM-194.
+La ficha técnica de cada auto debe decir «Este vehículo contiene los dispositivos de seguridad obligatorios de conformidad con la NOM-194-SE-2021».
+La exposición de motivos de la norma dice que en México mueren alrededor de 16 mil personas al año en siniestros viales.

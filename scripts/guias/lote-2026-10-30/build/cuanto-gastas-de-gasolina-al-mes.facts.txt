@@ -1,0 +1,26 @@
+Hoy es 30 de octubre de 2026.
+Precios de combustible al 30 de octubre de 2026, promedio nacional calculado por Autocifras con el archivo diario de precios de la Comisión Nacional de Energía (CNE), 13,852 estaciones:
+Gasolina regular $23.69 por litro; premium $28.59 por litro; diésel $26.98 por litro.
+Promedio oficial de septiembre de 2026 publicado por la CNE: regular $23.68, premium $28.58, diésel $27.00 por litro. Los precios incluyen IVA.
+Por ciudad al 30 de octubre de 2026 (CNE), regular / premium / diésel: Ciudad de México $23.82 / $28.74 / $26.96; Monterrey $24.21 / $29.63 / $26.91; Guadalajara $23.93 / $29.34 / $26.95.
+Acuerdo voluntario entre el Gobierno de México y los gasolineros: la Profeco informó el 4 de septiembre de 2026 que se renovó el 31 de agosto de 2026 por seis meses más, con la regular por debajo de $24 por litro y el diésel en máximo $27. La premium no entra en el acuerdo. Es voluntario: en Monterrey el promedio de la regular ya pasa de $24.
+Rendimiento: es la cantidad de kilómetros que recorre un auto con un litro (km/l). Los rendimientos de abajo son el rendimiento combinado oficial publicado por cada marca o por la CONUEE, verificado por Autocifras el 25 de octubre de 2026. En el uso real suele ser menor: tráfico, aire acondicionado, llantas bajas y carga.
+No existe una cifra oficial nacional de kilómetros recorridos al año. Usamos escenarios de 500, 1,000 y 1,500 km al mes.
+Fórmula: gasto al mes = kilómetros al mes ÷ rendimiento (km/l) × precio del litro. Costo por kilómetro = precio del litro ÷ rendimiento.
+== Gasto en gasolina regular a $23.69 por litro (cálculo de Autocifras) ==
+Chevrolet Onix: rendimiento 23.4 km/l; costo por km $1.01; 500 km al mes $506; 1,000 km al mes $1,012; 1,500 km al mes $1,519; al año con 1,000 km al mes $12,149. Enlace /autos/chevrolet/onix/
+Kia K3: rendimiento 20.61 km/l; costo por km $1.15; 500 km al mes $575; 1,000 km al mes $1,149; 1,500 km al mes $1,724; al año con 1,000 km al mes $13,793. Enlace /autos/kia/k3/
+Chevrolet Aveo: rendimiento 20.4 km/l; costo por km $1.16; 500 km al mes $581; 1,000 km al mes $1,161; 1,500 km al mes $1,742; al año con 1,000 km al mes $13,935. Enlace /autos/chevrolet/aveo/
+Toyota Corolla: rendimiento 19.14 km/l; costo por km $1.24; 500 km al mes $619; 1,000 km al mes $1,238; 1,500 km al mes $1,857; al año con 1,000 km al mes $14,853. Enlace /autos/toyota/corolla/
+Nissan Versa: rendimiento 19.06 km/l; costo por km $1.24; 500 km al mes $621; 1,000 km al mes $1,243; 1,500 km al mes $1,864; al año con 1,000 km al mes $14,915. Enlace /autos/nissan/versa/
+Nissan Kicks: rendimiento 18.64 km/l; costo por km $1.27; 500 km al mes $635; 1,000 km al mes $1,271; 1,500 km al mes $1,906; al año con 1,000 km al mes $15,251. Enlace /autos/nissan/kicks/
+Nissan March: rendimiento 17.99 km/l; costo por km $1.32; 500 km al mes $658; 1,000 km al mes $1,317; 1,500 km al mes $1,975; al año con 1,000 km al mes $15,802. Enlace /autos/nissan/march/
+MG5: rendimiento 16.7 km/l; costo por km $1.42; 500 km al mes $709; 1,000 km al mes $1,419; 1,500 km al mes $2,128; al año con 1,000 km al mes $17,023. Enlace /autos/mg/mg5/
+Volkswagen Virtus: rendimiento 16.5 km/l; costo por km $1.44; 500 km al mes $718; 1,000 km al mes $1,436; 1,500 km al mes $2,154; al año con 1,000 km al mes $17,229. Enlace /autos/volkswagen/virtus/
+== Ejemplo resuelto (Nissan Versa, 1,000 km al mes) ==
+1,000 km ÷ 19.06 km/l = 52.5 litros. 52.5 litros × $23.69 = $1,243 al mes. Al año: $1,243 × 12 = $14,915.
+== Regular contra premium ==
+Con el mismo Versa, 1,000 km al mes con premium a $28.59: $1,500 al mes; diferencia contra regular: $257 al mes y $3,085 al año.
+La premium cuesta $4.90 más por litro que la regular.
+Tip de rendimiento: sube 1 km/l y el gasto baja. Ejemplo: un auto de 15 km/l a 1,000 km al mes gasta $1,579; con 16 km/l gasta $1,481.
+Cálculo de Autocifras: diferencia del tip de rendimiento, $1,579 − $1,481 = $98 al mes.

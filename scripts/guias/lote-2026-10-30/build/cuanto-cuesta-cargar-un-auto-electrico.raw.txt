@@ -1,0 +1,108 @@
+<p class="answer">Cargar en casa un auto eléctrico que recorre 1,000 km al mes cuesta entre $405 y $689 si la CFE te cobra esa luz en el bloque de excedente ($4.054 por kWh, octubre de 2026). Un Nissan Versa de gasolina gasta $1,243 por los mismos 1,000 km, con la gasolina regular a $23.69 por litro al 30 de octubre de 2026. Con un BYD Dolphin Mini, la diferencia es de $838 al mes.</p>
+
+<h2>¿Cuánto cuesta cargar un auto eléctrico en México?</h2>
+
+<p>Depende de dos cosas: cuánta energía gasta tu auto y a qué precio te cobra la CFE cada kWh. Piensa en un auto de gasolina. Lo que pagas al mes sale de los litros que usa por el precio del litro. Con un eléctrico es igual, solo cambias litros por kilowatts-hora (kWh) y la gasolinera por tu recibo de luz.</p>
+
+<p>La fórmula tiene dos pasos. Primero, kWh al mes = kilómetros al mes ÷ 100 × consumo del auto (kWh/100 km). Después, costo = kWh × precio del kWh. Con 1,000 km al mes y la tarifa de excedente de octubre de 2026, el BYD Dolphin Mini cuesta $405, el Geely EX2 $478, el Geely EX5 $568, el BYD Seal RWD $624 y el MG4 $689.</p>
+
+<p>Todas estas cifras son cálculo de Autocifras con las tarifas publicadas por la CFE, sin IVA. Antes de comparar, ten a la mano tus kilómetros al mes: son el dato que más mueve la cuenta.</p>
+
+<!--FIG:grafica:ev-vs-gas-->
+
+<h2>¿Qué significa el consumo en kWh por cada 100 km?</h2>
+
+<p>Es la cantidad de kilowatts-hora que gasta el auto para recorrer 100 km. Funciona como el rendimiento en km/l de un auto de gasolina, pero al revés: aquí menos es mejor.</p>
+
+<p>Un ejemplo. El <a href="/autos/byd/dolphin-mini/">BYD Dolphin Mini</a> tiene un consumo oficial de 10 kWh/100 km (ciclo NEDC). Si manejas 1,000 km al mes, haces 1,000 ÷ 100 = 10 tramos de 100 km. Cada tramo usa 10 kWh, así que el mes suma 100 kWh. El MG4 marca 17.0 kWh/100 km (ciclo WLTP); con los mismos 1,000 km usa 170 kWh.</p>
+
+<p>Fíjate también en el ciclo de prueba que marca la ficha (NEDC, WLTC o WLTP), porque cada marca reporta el suyo. Busca este dato en la ficha técnica antes de elegir: es el rendimiento de tu futuro auto.</p>
+
+<!--FIG:foto:byd-dolphin-mini:0-->
+
+<h2>¿Cómo cobra la CFE la luz de tu casa por bloques?</h2>
+
+<p>La Tarifa 1 cobra cada kWh según el bloque en el que cae dentro del mes. Imagina una escalera: los primeros escalones son baratos y, al subir, cada kWh cuesta más.</p>
+
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Bloque</th><th>kWh del mes</th><th>Octubre de 2026</th><th>Noviembre de 2026</th></tr></thead><tbody><tr><td>Básico</td><td>Primeros 75 kWh</td><td>$1.140</td><td>$1.144</td></tr><tr><td>Intermedio</td><td>Siguientes 65 kWh</td><td>$1.385</td><td>$1.389</td></tr><tr><td>Excedente</td><td>Lo que pase de 140 kWh</td><td>$4.054</td><td>$4.067</td></tr></tbody></table></div>
+
+<p>Ahora suma el auto. Si tu casa ya gasta 140 kWh al mes entre refrigerador, luces y lavadora, todo lo que cargue el auto entra en excedente a $4.054. Por eso los cálculos de esta guía usan ese bloque.</p>
+
+<p>Con el mismo Dolphin Mini y sus 100 kWh al mes, el precio intermedio daría $138, el excedente $405 y la DAC de la región Central $673. Ojo: el bloque intermedio solo tiene 65 kWh, así que 100 kWh no caben completos en él. Revisa en tu recibo cuántos kWh gastas hoy, porque ese número te dice en qué escalón empieza a cargar tu auto.</p>
+
+<!--FIG:grafica:bloques-->
+
+<h2>¿Por qué la tarifa de la CFE para un auto eléctrico puede subir a DAC?</h2>
+
+<p>Porque la DAC se activa por promedio. Una casa pasa a la tarifa doméstica de alto consumo (DAC) cuando su promedio pasa de 250 kWh al mes en Tarifa 1. Y el auto suma kWh todos los meses.</p>
+
+<p>Haz la cuenta con el MG4. Si tu casa gasta 140 kWh y el auto suma 170 kWh, el total queda arriba de 250 kWh. En DAC cambia el recibo de toda la casa, no solo lo del auto. En octubre de 2026, la DAC cobra un cargo fijo de $145.79 al mes más $6.142 a $6.730 por kWh según la región. En la región Central, los 1,000 km del MG4 costarían $1,144 en lugar de $689 en excedente.</p>
+
+<p>Para esto existe el segundo medidor. La CFE dice que «es posible solicitar un medidor independiente para facturar exclusivamente lo que consume la electrolinera sin afectar la tarifa doméstica». El medidor no tiene costo. A cambio, la CFE pide instalación por electricista certificado, ficha técnica y certificado del cargador. Un detalle: la CFE no publica qué tarifa aplica a ese medidor.</p>
+
+<p>Si tu casa ya está cerca de 250 kWh al mes, pregunta por el segundo medidor antes de enchufar el auto.</p>
+
+<h2>¿Cuánto gasta cada auto eléctrico por kilómetro?</h2>
+
+<p>El costo por kilómetro sale de dividir el gasto del mes entre los kilómetros. Con el Dolphin Mini en excedente: $405 ÷ 1,000 km = $0.41 por km. El mismo cálculo con un Versa de gasolina da $1.24 por km.</p>
+
+<p>La tabla junta cinco eléctricos con 1,000 km al mes. El precio de lista es el del sitio oficial de cada marca al 25 de octubre de 2026, y las tarifas son las de la CFE de octubre de 2026.</p>
+
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Modelo</th><th>Precio desde</th><th>Consumo oficial (kWh/100 km)</th><th>kWh con 1,000 km</th><th>Excedente ($4.054)</th><th>DAC Central ($6.730)</th><th>Costo por km en excedente</th></tr></thead><tbody><tr><td>BYD Dolphin Mini</td><td>$399,800</td><td>10</td><td>100</td><td>$405</td><td>$673</td><td>$0.41</td></tr><tr><td>Geely EX2</td><td>$389,900</td><td>11.8</td><td>118</td><td>$478</td><td>$794</td><td>$0.48</td></tr><tr><td>Geely EX5</td><td>$699,900</td><td>14</td><td>140</td><td>$568</td><td>$942</td><td>$0.57</td></tr><tr><td>BYD Seal RWD</td><td>$778,800</td><td>15.4</td><td>154</td><td>$624</td><td>$1,036</td><td>$0.62</td></tr><tr><td>MG4</td><td>$499,000</td><td>17.0</td><td>170</td><td>$689</td><td>$1,144</td><td>$0.69</td></tr></tbody></table></div>
+
+<p>Mira los extremos. El <a href="/autos/mg/mg4/">MG4</a> gasta $689 y el Dolphin Mini $405 por la misma distancia, porque consume 17.0 contra 10 kWh/100 km. Si vas a manejar mucho, compara el consumo junto con el precio de lista.</p>
+
+<!--FIG:foto:mg-mg4:0-->
+
+<h2>¿Cuánto ahorras con un eléctrico contra uno de gasolina?</h2>
+
+<p>Con 1,000 km al mes, un Dolphin Mini cargado en excedente te ahorra $838 al mes frente a un Nissan Versa. El Versa rinde 19.06 km/l, y la gasolina regular costaba $23.69 por litro al 30 de octubre de 2026 (promedio nacional, CNE). Puedes seguir ese dato en nuestra página de <a href="/precio-gasolina/">precio de la gasolina</a>.</p>
+
+<div class="ejemplo"><p><b>Ejemplo:</b> BYD Dolphin Mini, 1,000 km al mes, todo en excedente.<br>Paso 1, energía: 1,000 km ÷ 100 × 10 kWh = 100 kWh.<br>Paso 2, costo de la luz: 100 kWh × $4.054 = $405 al mes (redondeado).<br>Paso 3, diferencia contra el Versa: $1,243 − $405 = $838 al mes.<br>Paso 4, al año: $838 × 12 = $10,056.</p></div>
+
+<p>Ahora cambia los kilómetros. Este es el ahorro al año del Dolphin Mini contra el Versa, siempre cargando en excedente.</p>
+
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Kilómetros al año</th><th>Ahorro al año</th></tr></thead><tbody><tr><td>10,000 km</td><td>$8,375</td></tr><tr><td>15,000 km</td><td>$12,563</td></tr><tr><td>20,000 km</td><td>$16,750</td></tr></tbody></table></div>
+
+<p>El ahorro crece con cada kilómetro: al doble de kilómetros, el doble de ahorro. Para sumar la luz al resto de lo que cuesta tener un auto, revisa el <a href="/costo-total/">costo total</a>.</p>
+
+<!--FIG:foto:geely-ex2:0-->
+
+<h2>¿Cuánto cuesta cargar un auto eléctrico en una estación pública?</h2>
+
+<p>No hay un precio único. Ningún operador en México publica un precio fijo por kWh, así que no puedes hacer la cuenta de antemano como en casa.</p>
+
+<p>Tesla, por ejemplo, usa precio dinámico en su app: el costo lo ves ahí al momento de cargar. Además publica un cargo por congestión de $10 por minuto.</p>
+
+<p>Haz tus números con la tarifa de tu casa y toma la carga pública como un costo aparte que revisas en cada app.</p>
+
+<h2>¿Qué revisar antes de cargar tu auto eléctrico en casa?</h2>
+
+<p>Siete pasos, en orden, para que el recibo de luz no te dé una sorpresa.</p>
+
+<ol>
+<li>Calcula tus kilómetros al mes. Con 1,000 km tienes una base para usar las cifras de esta guía.</li>
+<li>Busca el consumo oficial del auto en kWh/100 km y aplica la fórmula: kilómetros al mes ÷ 100 × consumo.</li>
+<li>Revisa tu recibo. Si tu casa ya gasta 140 kWh al mes, todo lo del auto se cobra en excedente ($4.054).</li>
+<li>Suma los kWh del auto a los de tu casa. Si el promedio pasa de 250 kWh al mes, la casa entera pasa a DAC.</li>
+<li>Si te acercas a ese límite, solicita a la CFE el segundo medidor, que no tiene costo.</li>
+<li>Prepara lo que pide la CFE: instalación por electricista certificado, ficha técnica y certificado del cargador.</li>
+<li>Compara el resultado contra lo que hoy gastas de gasolina al mes.</li>
+</ol>
+
+<h2>¿A quién le conviene un auto eléctrico en México?</h2>
+
+<p>Le conviene sobre todo a quien puede cargar en casa y maneja muchos kilómetros. Con 20,000 km al año, el Dolphin Mini ahorra $16,750 contra el Versa cargando en excedente. Con 10,000 km, el ahorro es de $8,375.</p>
+
+<p>Si buscas autos eléctricos baratos, estos son los precios de lista más bajos del catálogo de Autocifras al 25 de octubre de 2026: JAC E10X desde $371,000, <a href="/autos/geely/ex2/">Geely EX2</a> desde $389,900, BYD Dolphin Mini desde $399,800 y MG4 desde $499,000. Puedes ver más autos eléctricos en México en la lista de <a href="/mejores/autos-electricos/">mejores autos eléctricos</a>.</p>
+
+<p>Antes de decidir, haz la cuenta con tu recibo. Con el mismo Dolphin Mini, el bloque en el que cargues puede llevar el costo de $405 a $673 al mes.</p>
+
+<h2>Preguntas frecuentes</h2>
+
+<div class="faq">
+<details><summary>¿Cambian las tarifas de la CFE en noviembre de 2026?</summary><p>Sí, un poco. En noviembre de 2026 el bloque básico queda en $1.144, el intermedio en $1.389 y el excedente en $4.067 por kWh. En octubre de 2026 eran $1.140, $1.385 y $4.054.</p></details>
+<details><summary>¿Cuánto cuesta el segundo medidor de la CFE?</summary><p>El medidor no tiene costo. La CFE pide que lo instale un electricista certificado y que entregues la ficha técnica y el certificado del cargador. La CFE no publica qué tarifa aplica a ese medidor.</p></details>
+<details><summary>¿Los cálculos de esta guía incluyen IVA?</summary><p>No. Los cálculos de Autocifras usan las tarifas publicadas por la CFE, sin IVA. Tómalo en cuenta al compararlos con tu recibo.</p></details>
+<details><summary>¿Cuál es el auto eléctrico más barato en México?</summary><p>En el catálogo de Autocifras, el precio de lista más bajo al 25 de octubre de 2026 es el del JAC E10X, desde $371,000. Le siguen el Geely EX2 desde $389,900 y el BYD Dolphin Mini desde $399,800.</p></details>
+</div>

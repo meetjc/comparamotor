@@ -1,0 +1,165 @@
+{
+ "precio-pickup": {
+  "titulo": "Precio de entrada de cada pickup",
+  "desc": "Versión más barata de cada modelo.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Ram 700",
+    "valor": 338400,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Nissan NP300",
+    "valor": 499990,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Nissan Frontier",
+    "valor": 501990,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Toyota Hilux",
+    "valor": 570900,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Chevrolet Montana",
+    "valor": 571700,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Ford Maverick Híbrida",
+    "valor": 770700,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Toyota Tacoma",
+    "valor": 779500,
+    "color": "#2a78d6"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#eb6834",
+    "texto": "Pickup compacta"
+   },
+   {
+    "color": "#2a78d6",
+    "texto": "Pickup mediana"
+   }
+  ],
+  "fuente": "Sitios oficiales, 30 de octubre de 2026 (Tacoma: 25 de octubre de 2026)."
+ },
+ "carga": {
+  "titulo": "Cuántos kilos carga la versión de entrada",
+  "desc": "Capacidad de carga oficial.",
+  "unidad": "kg",
+  "datos": [
+   {
+    "label": "Nissan NP300",
+    "valor": 1428,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Nissan Frontier",
+    "valor": 1068,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Toyota Hilux",
+    "valor": 810,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Ram 700",
+    "valor": 750,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Ford Maverick Híbrida",
+    "valor": 680,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Toyota Tacoma",
+    "valor": 654,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Chevrolet Montana",
+    "valor": 600,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#eb6834",
+    "texto": "Pickup compacta"
+   },
+   {
+    "color": "#2a78d6",
+    "texto": "Pickup mediana"
+   }
+  ],
+  "fuente": "Fichas técnicas oficiales de cada marca."
+ },
+ "peso-por-kilo": {
+  "titulo": "Cuánto pagas por cada kilo de carga",
+  "desc": "Precio de entrada ÷ capacidad de carga. Menos es mejor para trabajo pesado.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Nissan NP300",
+    "valor": 350,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Ram 700",
+    "valor": 451,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Nissan Frontier",
+    "valor": 470,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Toyota Hilux",
+    "valor": 705,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Chevrolet Montana",
+    "valor": 953,
+    "color": "#d42a2c"
+   },
+   {
+    "label": "Ford Maverick Híbrida",
+    "valor": 1133,
+    "color": "#d42a2c"
+   },
+   {
+    "label": "Toyota Tacoma",
+    "valor": 1192,
+    "color": "#d42a2c"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "Menos de $500 por kilo"
+   },
+   {
+    "color": "#2a78d6",
+    "texto": "De $500 a $800"
+   },
+   {
+    "color": "#d42a2c",
+    "texto": "Más de $800"
+   }
+  ],
+  "fuente": "Cálculo de Autocifras."
+ }
+}

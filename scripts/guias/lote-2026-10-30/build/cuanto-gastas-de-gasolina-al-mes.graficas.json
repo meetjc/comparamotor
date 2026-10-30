@@ -1,0 +1,135 @@
+{
+ "gasto-mes": {
+  "titulo": "Gasto en gasolina al mes con 1,000 km",
+  "desc": "Gasolina regular a $23.69 por litro y rendimiento combinado oficial de cada auto.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Chevrolet Onix",
+    "valor": 1012,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Kia K3",
+    "valor": 1149,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Chevrolet Aveo",
+    "valor": 1161,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Toyota Corolla",
+    "valor": 1238,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Nissan Versa",
+    "valor": 1243,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Nissan Kicks",
+    "valor": 1271,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Nissan March",
+    "valor": 1317,
+    "color": "#eb6834"
+   },
+   {
+    "label": "MG5",
+    "valor": 1419,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Volkswagen Virtus",
+    "valor": 1436,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "20 km/l o más"
+   },
+   {
+    "color": "#2a78d6",
+    "texto": "De 18 a 19.9 km/l"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Menos de 18 km/l"
+   }
+  ],
+  "fuente": "Cálculo de Autocifras con precios de la CNE (30 de octubre de 2026) y rendimientos oficiales de las marcas y la CONUEE."
+ },
+ "precio-litro": {
+  "titulo": "Precio promedio por litro hoy en México",
+  "desc": "Promedio nacional al 30 de octubre de 2026.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Regular",
+    "valor": 23.69,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Diésel",
+    "valor": 26.98,
+    "color": "#171513"
+   },
+   {
+    "label": "Premium",
+    "valor": 28.59,
+    "color": "#d42a2c"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "Regular (87 octanos)"
+   },
+   {
+    "color": "#171513",
+    "texto": "Diésel"
+   },
+   {
+    "color": "#d42a2c",
+    "texto": "Premium (91 octanos o más)"
+   }
+  ],
+  "fuente": "Cálculo de Autocifras con el archivo diario de precios de la CNE, 13,852 estaciones."
+ },
+ "escenarios": {
+  "titulo": "Nissan Versa: gasto al mes según cuánto manejas",
+  "desc": "Regular a $23.69 por litro y 19.06 km/l.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "500 km al mes",
+    "valor": 621,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "1,000 km al mes",
+    "valor": 1243,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "1,500 km al mes",
+    "valor": 1864,
+    "color": "#2a78d6"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#2a78d6",
+    "texto": "Gasto mensual en gasolina"
+   }
+  ],
+  "fuente": "Cálculo de Autocifras."
+ }
+}

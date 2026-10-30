@@ -1,0 +1,30 @@
+Hoy es 30 de octubre de 2026. Reglas del Programa de Verificación Vehicular Obligatoria del segundo semestre de 2026: Ciudad de México (Gaceta Oficial del 1 de julio de 2026) y Estado de México (Gaceta del Gobierno del 30 de junio de 2026). Normas: NOM-047-SEMARNAT-2014 (revisión visual y gases) y NOM-167-SEMARNAT-2017 (prueba OBD).
+== Qué pasa dentro del verificentro, en orden ==
+1. Revisión visual (NOM-047-SEMARNAT-2014): sin fugas en el escape, filtro de aire puesto, tapón del aceite y tapón de la gasolina, bayoneta del aceite, sin fugas de fluidos, llantas en buen estado y componentes de control de emisiones sin alterar. Cualquier falla termina la prueba con rechazo.
+2. Revisión de humo: humo negro o azul constante por más de 10 segundos es rechazo.
+3. Autos de gasolina modelo 2006 en adelante: prueba OBD (en México también se llama SDB). El técnico conecta un lector a la computadora del auto y revisa tres cosas: que haya comunicación, que los monitores de emisiones estén completos y que no haya códigos de falla confirmados del tren motriz.
+4. Si no hay comunicación con la computadora (o el auto no tiene OBD), el auto pasa a la prueba de gases.
+Prueba de gases dinámica: el auto va sobre rodillos (dinamómetro) a 24 y a 40 km/h. Prueba estática: con el auto detenido, a 2,500 rpm y en marcha lenta; no mide NOx.
+Gases que se miden: HC (hidrocarburos sin quemar), CO (monóxido de carbono), NOx (óxidos de nitrógeno), O2 (oxígeno), la dilución (CO + CO2) y el factor lambda (la mezcla de aire y gasolina).
+== Causas de rechazo explícitas (Estado de México, numeral 1.4.5) ==
+A. El auto aprobó por OBD el semestre anterior y ahora no hay comunicación con su computadora.
+B. Luz MIL (check engine) encendida.
+C. La lectura indica que se borraron códigos de falla, sin importar la cantidad o el tipo.
+D. Rebasar los límites de gases.
+E. Uno o más códigos de falla del tren motriz asociados a monitores obligatorios.
+CDMX (numerales 8.3.1 y 8.6.1): rechazo por códigos de falla confirmados y por monitores sin completar; no se tolera ningún monitor incompleto. También rechazo por no pasar la revisión visual o de humo, o por rebasar los límites.
+Códigos P0420 y P0430 (baja eficiencia del convertidor catalítico) en el Estado de México: hay que cambiar el convertidor en un Taller PIREC autorizado antes de volver a verificar; el diagnóstico del Taller PIREC después de un rechazo no cuesta.
+== Límites de gases (iguales en la CDMX y el Estado de México) ==
+Holograma 0 (gasolina 2006 en adelante): HC 80 ppm, CO 0.4%, NOx 250 ppm, O2 0.4%, dilución 13 a 16.5%, lambda máxima 1.03.
+Holograma 1 (gasolina 1994 a 2005, prueba dinámica): HC 100 ppm, CO 0.7%, NOx 700 ppm, O2 2.0%, dilución 13 a 16.5%, lambda 1.03.
+Holograma 2 (gasolina 1993 y anteriores, prueba dinámica): HC 350 ppm, CO 2.5%, NOx 2,000 ppm, O2 2.0%, lambda 1.05.
+Diésel (opacidad): holograma 0 hasta 1.0 m-1 (modelo 2012 en adelante); holograma 1 hasta 1.2 m-1.
+== Costos y multas 2026 (UMA 2026 = $117.31, INEGI) ==
+CDMX: $765.45 por cualquier constancia. El segundo, cuarto y sexto intento es gratis si el anterior fue rechazo y se hace en el mismo verificentro.
+Estado de México: holograma 00 $1,196.56; 0 $610.01; 1 y 2 $469.24. El programa no dice que el segundo intento sea gratis.
+Multa por verificar fuera de plazo: CDMX $2,346.20; Estado de México de $3,519.30 a $4,105.85.
+CDMX: si te rechazan en los últimos 7 días de tu periodo en el mismo verificentro, tienes 15 días más. Un auto que ya aprobó en el semestre y luego obtiene rechazo tiene 30 días para aprobar y circula como holograma 2.
+Ni la CDMX ni el Estado de México publican cuántos autos reprueban.
+== Ejemplo resuelto ==
+Si reprueba y no corriges a tiempo en la CDMX: verificación $765.45 + multa $2,346.20 = $3,111.65, sin contar la reparación. Si verificas a tiempo y apruebas: $765.45. La diferencia es $2,346.20.
+En el Estado de México con holograma 0: $610.01 a tiempo contra $610.01 + $3,519.30 = $4,129.31 con la multa mínima.

@@ -1,0 +1,87 @@
+{
+ "ev-vs-gas": {
+  "titulo": "Cuánto cuesta recorrer 1,000 km al mes",
+  "desc": "Eléctricos cargados en casa en el bloque de excedente de la CFE ($4.054 por kWh) contra un Nissan Versa con gasolina regular.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "BYD Dolphin Mini",
+    "valor": 405,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Geely EX2",
+    "valor": 478,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Geely EX5",
+    "valor": 568,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "BYD Seal RWD",
+    "valor": 624,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "MG4",
+    "valor": 689,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Nissan Versa (gasolina)",
+    "valor": 1243,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "Eléctrico, tarifa de excedente sin IVA"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Gasolina regular a $23.69"
+   }
+  ],
+  "fuente": "Cálculo de Autocifras con consumos oficiales de las marcas, tarifas de la CFE de octubre de 2026 y precios de la CNE del 30 de octubre de 2026."
+ },
+ "bloques": {
+  "titulo": "El mismo Dolphin Mini cuesta distinto según tu bloque de la CFE",
+  "desc": "Costo de cargar 100 kWh (1,000 km al mes).",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Intermedio ($1.385)",
+    "valor": 138,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Excedente ($4.054)",
+    "valor": 405,
+    "color": "#eb6834"
+   },
+   {
+    "label": "DAC Central ($6.730)",
+    "valor": 673,
+    "color": "#d42a2c"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "Bloque barato"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Bloque caro"
+   },
+   {
+    "color": "#d42a2c",
+    "texto": "Tarifa de alto consumo"
+   }
+  ],
+  "fuente": "Cálculo de Autocifras con tarifas de la CFE de octubre de 2026, sin IVA."
+ }
+}

@@ -1,0 +1,135 @@
+<p class="answer">Un auto reprueba la verificación vehicular por fallas en la revisión visual, por humo, por la prueba OBD (luz check engine encendida, códigos de falla o monitores sin completar) o por rebasar los límites de gases, como los 80 ppm de hidrocarburos del holograma 0. Si no la pasas a tiempo, la multa es de $2,346.20 en la CDMX (Gaceta Oficial del 1 de julio de 2026) y de $3,519.30 a $4,105.85 en el Estado de México (Gaceta del Gobierno del 30 de junio de 2026).</p>
+
+<h2>¿Qué pasa dentro del verificentro paso a paso?</h2>
+
+<p>Dentro del verificentro tu auto pasa por tres filtros en orden: revisión visual, revisión de humo y prueba OBD o de gases. Antes de ir, revisa que tengas tus <a href="/tramites/">trámites del auto</a> al día.</p>
+
+<p>El primer filtro es la revisión visual de la NOM-047-SEMARNAT-2014. Es una revisión de lista: el técnico mira que el escape no tenga fugas, que el filtro de aire esté puesto, que estén el tapón del aceite, el tapón de la gasolina y la bayoneta del aceite. También revisa que no haya fugas de fluidos, que las llantas estén en buen estado y que los componentes de control de emisiones no estén alterados. Cualquier falla aquí termina la prueba con rechazo.</p>
+
+<p>El segundo filtro es el humo. Si tu auto echa humo negro o azul constante por más de 10 segundos, es rechazo.</p>
+
+<p>El tercer filtro depende del modelo. A un auto de gasolina modelo 2006 en adelante le hacen la prueba OBD, que en México también se llama SDB y sigue la NOM-167-SEMARNAT-2017. El técnico conecta un lector a la computadora del auto y revisa tres cosas: que haya comunicación, que los monitores de emisiones estén completos y que no haya códigos de falla confirmados del tren motriz.</p>
+
+<p>Si no hay comunicación con la computadora, o el auto no tiene OBD, pasa a la prueba de gases. En la prueba dinámica el auto va sobre rodillos (dinamómetro) a 24 y a 40 km/h, como si lo manejaras en la calle. En la prueba estática el auto está detenido y se mide a 2,500 rpm y en marcha lenta; esta prueba no mide NOx. En resumen: tu auto tiene que pasar los tres filtros seguidos para aprobar la <a href="/verificacion-vehicular/">verificación vehicular</a>.</p>
+
+<h2>¿Por qué reprueba la verificación un auto?</h2>
+
+<p>Un auto reprueba la verificación por alguna de las causas que fija el programa de cada entidad. Ni la CDMX ni el Estado de México publican cuántos autos reprueban, pero la lista de causas es clara.</p>
+
+<p>Un ejemplo: llevas un auto 2015 con la luz check engine prendida. Aunque el motor se sienta bien, en el Estado de México esa luz ya es causa de rechazo. Lo mismo pasa si la lectura indica que se borraron códigos de falla, sin importar la cantidad o el tipo.</p>
+
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Causa de rechazo</th><th>Dónde está escrita</th></tr></thead><tbody>
+<tr><td>Falla en la revisión visual o humo negro o azul constante por más de 10 segundos</td><td>NOM-047-SEMARNAT-2014; CDMX, numerales 8.3.1 y 8.6.1</td></tr>
+<tr><td>Luz MIL (check engine) encendida</td><td>Estado de México, numeral 1.4.5</td></tr>
+<tr><td>Códigos de falla del tren motriz confirmados o asociados a monitores obligatorios</td><td>CDMX, numerales 8.3.1 y 8.6.1; Estado de México, numeral 1.4.5</td></tr>
+<tr><td>Monitores de emisiones sin completar (no se tolera ninguno incompleto)</td><td>CDMX, numerales 8.3.1 y 8.6.1</td></tr>
+<tr><td>La lectura indica que se borraron códigos de falla</td><td>Estado de México, numeral 1.4.5</td></tr>
+<tr><td>Aprobó por OBD el semestre anterior y ahora no hay comunicación con la computadora</td><td>Estado de México, numeral 1.4.5</td></tr>
+<tr><td>Rebasar los límites de gases</td><td>CDMX y Estado de México</td></tr>
+</tbody></table></div>
+
+<p>Hay un caso especial en el Estado de México. Si salen los códigos P0420 o P0430, que indican baja eficiencia del convertidor catalítico, hay que cambiar el convertidor en un Taller PIREC autorizado antes de volver a verificar. El diagnóstico del Taller PIREC después de un rechazo no cuesta. Si te sale uno de esos dos códigos, ya sabes a dónde ir antes del siguiente intento.</p>
+
+<h2>¿Qué gases se miden en la verificación y para qué?</h2>
+
+<p>En la prueba de gases se miden seis cosas de lo que sale por el escape. Imagina que la máquina separa cada ingrediente:</p>
+
+<ul>
+<li>HC: hidrocarburos sin quemar, o sea, gasolina que salió sin quemarse.</li>
+<li>CO: monóxido de carbono.</li>
+<li>NOx: óxidos de nitrógeno.</li>
+<li>O2: oxígeno.</li>
+<li>Dilución: la suma de CO + CO2.</li>
+<li>Factor lambda: indica la mezcla de aire y gasolina.</li>
+</ul>
+
+<p>Cada holograma tiene su tope, y los límites son iguales en la CDMX y el Estado de México. Por ejemplo, un auto de gasolina 2006 que busca holograma 0 puede sacar como máximo 80 ppm (partes por millón) de HC. Si marca más, reprueba aunque haya pasado la revisión visual.</p>
+
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Holograma</th><th>HC (ppm)</th><th>CO</th><th>NOx (ppm)</th><th>O2</th><th>Lambda máxima</th></tr></thead><tbody>
+<tr><td>0 (gasolina 2006 en adelante)</td><td>80</td><td>0.4%</td><td>250</td><td>0.4%</td><td>1.03</td></tr>
+<tr><td>1 (gasolina 1994 a 2005, prueba dinámica)</td><td>100</td><td>0.7%</td><td>700</td><td>2.0%</td><td>1.03</td></tr>
+<tr><td>2 (gasolina 1993 y anteriores, prueba dinámica)</td><td>350</td><td>2.5%</td><td>2,000</td><td>2.0%</td><td>1.05</td></tr>
+</tbody></table></div>
+
+<p>La dilución debe quedar entre 13 y 16.5% en los hologramas 0 y 1. Fíjate cómo baja el tope de HC: de 350 ppm en el holograma 2 a 80 ppm en el holograma 0. Mientras mejor el holograma que buscas, más limpio tiene que salir el escape.</p>
+
+<!--FIG:grafica:limites-hc-->
+
+<h2>¿Qué es la luz check engine y qué son los monitores OBD?</h2>
+
+<p>La luz check engine (en el programa se llama luz MIL) es el aviso del tablero de que la computadora del auto detectó una falla. Para la verificación en el Estado de México, si está encendida, es rechazo. Así de simple.</p>
+
+<p>Los monitores de emisiones son otra cosa. Piensa en ellos como casillas que la computadora del auto palomea cuando termina de revisar sus sistemas de emisiones. En la prueba OBD el técnico ve si todas las casillas están completas. Para la <a href="/verificacion-vehicular/">verificación en la CDMX</a> no se tolera ningún monitor incompleto: con uno solo sin completar, el auto se rechaza.</p>
+
+<p>Ojo con borrar códigos para «limpiar» la computadora: en el Estado de México eso también es rechazo. Si la luz check engine está encendida, atiende la falla antes de ir.</p>
+
+<!--FIG:foto:nissan-versa:2-->
+
+<h2>¿Cuánto cuesta la verificación vehicular y la multa por hacerla tarde?</h2>
+
+<p>En la CDMX la verificación cuesta $765.45 por cualquier constancia, según la Gaceta Oficial del 1 de julio de 2026. En el Estado de México el precio cambia según el holograma, según la Gaceta del Gobierno del 30 de junio de 2026. La multa por verificar fuera de plazo cuesta más que el trámite.</p>
+
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Concepto</th><th>CDMX</th><th>Estado de México</th></tr></thead><tbody>
+<tr><td>Holograma 00</td><td>$765.45</td><td>$1,196.56</td></tr>
+<tr><td>Holograma 0</td><td>$765.45</td><td>$610.01</td></tr>
+<tr><td>Holograma 1 y 2</td><td>$765.45</td><td>$469.24</td></tr>
+<tr><td>Multa por verificar fuera de plazo</td><td>$2,346.20</td><td>$3,519.30 a $4,105.85</td></tr>
+</tbody></table></div>
+
+<p>Si te rechazan en la CDMX, regresa al mismo verificentro. El segundo, cuarto y sexto intento es gratis si el anterior fue rechazo y se hace en el mismo verificentro. En el Estado de México el programa no dice que el segundo intento sea gratis.</p>
+
+<p>La CDMX también da tiempo extra en dos casos. Si te rechazan en los últimos 7 días de tu periodo en el mismo verificentro, tienes 15 días más. Y un auto que ya aprobó en el semestre y luego obtiene rechazo tiene 30 días para aprobar y circula como holograma 2. Revisa qué implica eso para tus días de circulación en el <a href="/hoy-no-circula/">Hoy No Circula</a>.</p>
+
+<!--FIG:grafica:costo-tarde-->
+
+<div class="ejemplo"><p><b>Ejemplo:</b> En la CDMX, si verificas a tiempo y apruebas, pagas $765.45. Si reprueba y no corriges a tiempo, pagas la verificación más la multa: $765.45 + $2,346.20 = $3,111.65, sin contar la reparación. La diferencia es $3,111.65 − $765.45 = $2,346.20. En el Estado de México con holograma 0: a tiempo pagas $610.01; con la multa mínima pagas $610.01 + $3,519.30 = $4,129.31.</p></div>
+
+<p>Ir a tiempo te cuesta solo la verificación; ir tarde te suma la multa completa.</p>
+
+<h2>¿Qué revisar una semana antes de ir al verificentro?</h2>
+
+<p>Una semana antes, revisa lo mismo que revisará el técnico. Si algo falla, tendrás días para corregirlo.</p>
+
+<ol>
+<li>Mira el tablero con el motor encendido: la luz check engine debe estar apagada.</li>
+<li>Abre el cofre y confirma que estén el filtro de aire, el tapón del aceite y la bayoneta del aceite.</li>
+<li>Revisa que el tapón de la gasolina esté puesto.</li>
+<li>Busca manchas de fluidos debajo del auto y revisa que el escape no tenga fugas.</li>
+<li>Revisa que las llantas estén en buen estado.</li>
+<li>Pide a alguien que mire el escape con el motor encendido: no debe salir humo negro o azul constante.</li>
+<li>No borres códigos de falla antes de la prueba: en el Estado de México eso es causa de rechazo.</li>
+</ol>
+
+<p>Esta lista te toma minutos y te puede ahorrar los $2,346.20 de la multa en la CDMX.</p>
+
+<h2>¿Qué reglas aplican a los autos diésel y a los autos de 1993 y anteriores?</h2>
+
+<p>En los autos diésel se mide la opacidad del humo, no la mezcla de gases de un auto de gasolina. Para holograma 0, un diésel modelo 2012 en adelante puede tener hasta 1.0 m-1 de opacidad. Para holograma 1, el tope es 1.2 m-1.</p>
+
+<p>Los autos de gasolina de 1993 y anteriores van al holograma 2, con prueba dinámica. Sus límites son más amplios: 350 ppm de HC, 2.5% de CO y 2,000 ppm de NOx. Si tu auto es de esa generación y piensas cambiarlo, puedes <a href="/comparar/">comparar autos nuevos</a> por precio y versión.</p>
+
+<!--FIG:foto:chevrolet-aveo:2-->
+
+<h2>Preguntas frecuentes</h2>
+
+<div class="faq">
+<details>
+<summary>¿Cuánto cuesta reprobar la verificación en la CDMX?</summary>
+<p>Cada constancia cuesta $765.45, según la Gaceta Oficial del 1 de julio de 2026. El segundo, cuarto y sexto intento es gratis si el anterior fue rechazo en el mismo verificentro. Si no apruebas en tu plazo, se suma la multa de $2,346.20.</p>
+</details>
+
+<details>
+<summary>¿Qué pasa si mi auto no tiene OBD?</summary>
+<p>Pasa a la prueba de gases, igual que si no hay comunicación con la computadora. Puede ser dinámica, sobre rodillos, o estática, con el auto detenido.</p>
+</details>
+
+<details>
+<summary>¿Cuánto tiempo tengo si me rechazan al final de mi periodo?</summary>
+<p>En la CDMX, si te rechazan en los últimos 7 días de tu periodo en el mismo verificentro, tienes 15 días más. Si tu auto ya había aprobado en el semestre y luego obtiene rechazo, tiene 30 días para aprobar y circula como holograma 2.</p>
+</details>
+
+<details>
+<summary>¿Qué es un Taller PIREC y cuándo tengo que ir?</summary>
+<p>Es un taller autorizado en el Estado de México. Si reprueba con los códigos P0420 o P0430, ahí tienes que cambiar el convertidor catalítico antes de volver a verificar. El diagnóstico después de un rechazo no cuesta.</p>
+</details>
+</div>

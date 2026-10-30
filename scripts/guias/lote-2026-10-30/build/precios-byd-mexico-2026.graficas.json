@@ -1,0 +1,148 @@
+{
+ "precio-desde": {
+  "titulo": "Precio desde de cada BYD en México",
+  "desc": "Versión de entrada de cada modelo, precio de lista al 30 de octubre de 2026. El color indica el tipo de motor.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Dolphin Mini",
+    "valor": 399800,
+    "color": "#171513"
+   },
+   {
+    "label": "Yuan Pro DM-i",
+    "valor": 519999,
+    "color": "#eb6834"
+   },
+   {
+    "label": "King DM-i",
+    "valor": 524900,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Yuan Pro",
+    "valor": 579800,
+    "color": "#171513"
+   },
+   {
+    "label": "Song Pro DM-i",
+    "valor": 599880,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Seal",
+    "valor": 778800,
+    "color": "#171513"
+   },
+   {
+    "label": "Song Plus DM-i",
+    "valor": 778800,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Shark",
+    "valor": 899980,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Sealion 7",
+    "valor": 949800,
+    "color": "#171513"
+   },
+   {
+    "label": "M9",
+    "valor": 979800,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Atto 8",
+    "valor": 1199800,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#171513",
+    "texto": "Eléctrico"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Híbrido enchufable"
+   }
+  ],
+  "fuente": "Sitio oficial de BYD México, 30 de octubre de 2026."
+ },
+ "autonomia": {
+  "titulo": "Autonomía oficial con la batería",
+  "desc": "Kilómetros con una carga. En los híbridos enchufables es lo que recorren sin gasolina; después sigue el motor de gasolina.",
+  "unidad": "km",
+  "datos": [
+   {
+    "label": "Seal",
+    "valor": 520,
+    "color": "#171513"
+   },
+   {
+    "label": "Sealion 7",
+    "valor": 456,
+    "color": "#171513"
+   },
+   {
+    "label": "Dolphin Mini",
+    "valor": 380,
+    "color": "#171513"
+   },
+   {
+    "label": "Yuan Pro",
+    "valor": 380,
+    "color": "#171513"
+   },
+   {
+    "label": "King DM-i",
+    "valor": 170,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Atto 8",
+    "valor": 152,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Song Plus DM-i",
+    "valor": 105,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Shark",
+    "valor": 100,
+    "color": "#eb6834"
+   },
+   {
+    "label": "M9",
+    "valor": 95,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Song Pro DM-i",
+    "valor": 71,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Yuan Pro DM-i",
+    "valor": 45,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#171513",
+    "texto": "Eléctrico: autonomía total"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Híbrido enchufable: solo la parte eléctrica"
+   }
+  ],
+  "fuente": "Fichas oficiales de BYD México (versión con más autonomía de cada modelo)."
+ }
+}

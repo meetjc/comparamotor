@@ -1,0 +1,48 @@
+Escribe en español de México un artículo de blog didáctico para Autocifras (comparador de autos nuevos y medio automotriz en México). Hoy es 30 de octubre de 2026.
+TÍTULO (H1, no lo repitas en el cuerpo): Aveo, Versa, Virtus, Onix o City: ¿qué sedán barato conviene en 2026?
+PALABRAS CLAVE (úsalas de forma natural; la principal va en la respuesta inicial y en un H2): aveo 2026 precio, versa 2026 precio, versa vs aveo, aveo vs onix, versa vs virtus, sedán barato 2026
+TEMAS A CUBRIR: Tabla comparativa de precio de entrada y versión tope, motor, transmisión, rendimiento oficial, cajuela, bolsas de aire y calificación Latin NCAP; cuál es el más barato, cuál gasta menos gasolina (con cálculo de gasto anual a 15,000 km con el precio de gasolina de FACTS), cuál tiene más cajuela y cuál es más seguro; versus directos (Versa contra Aveo, Aveo contra Onix, Versa contra Virtus) en un párrafo cada uno; cuál conviene para familia, para plataforma y para primer auto. Liga a las fichas de FACTS, a /comparar/ y a /mejores/autos-baratos/.
+LECTOR: alguien en México que está por comprar o ya tiene un auto y quiere entender el tema sin tecnicismos. Enseña paso a paso, con ejemplos y números, como un buen maestro.
+EXTENSIÓN: entre 1,400 y 1,750 palabras. No te pases de 1,750: prioriza explicar bien sobre repetir datos.
+ESTRUCTURA OBLIGATORIA (devuelve solo HTML del cuerpo; sin <html>, <body> ni <h1>; sin bloques ```):
+1. Primer elemento: <p class="answer">…</p> con la respuesta directa en 2 o 3 frases con cifras de FACTS.
+2. De 7 a 9 secciones <h2>; cada <h2> es la pregunta literal que alguien escribiría en Google (empieza con ¿ y termina con ?). La primera frase debajo de cada <h2> responde directo.
+3. Al menos 2 tablas, cada una así: <div class="tbl-wrap"><table class="tbl"><thead><tr><th>…</th></tr></thead><tbody>…</tbody></table></div>, con datos de FACTS.
+4. Una caja de ejemplo resuelto: <div class="ejemplo"><p><b>Ejemplo:</b> …</p></div> que haga una cuenta paso a paso con cifras de FACTS (solo sumas, restas, multiplicaciones o divisiones simples; muestra la operación).
+5. Una lista ordenada <ol> en una sección titulada como pregunta práctica (por ejemplo «¿Qué revisar antes de…?») con 5 a 7 pasos concretos.
+6. Al final, <h2>Preguntas frecuentes</h2> con EXACTAMENTE esta estructura: <div class="faq"><details><summary>¿Pregunta?</summary><p>Respuesta de 2 a 4 frases.</p></details> …</div> con 4 preguntas distintas a los H2.
+7. Marcadores de figura: inserta exactamente estos comentarios HTML, cada uno solo en su línea entre párrafos, en este orden y repartidos a lo largo del texto (uno cada 1 o 2 secciones, el primero después de la primera sección): <!--FIG:grafica:precio-entrada-->  <!--FIG:foto:chevrolet-aveo:0-->  <!--FIG:grafica:gasolina-anio-->  <!--FIG:foto:nissan-versa:0-->  <!--FIG:grafica:cajuela-->  <!--FIG:foto:volkswagen-virtus:0-->. No escribas etiquetas <img>. No describas la gráfica con «como ves en la gráfica» si no está justo antes.
+8. Enlaces internos con <a href="RUTA">texto descriptivo</a>: de 4 a 6, solo a rutas que aparezcan en FACTS o en esta lista: /comparar/ /autos/ /autos/precios/ /autos-chinos/ /autos-mas-vendidos/ /credito-automotriz/ /costo-total/ /que-me-alcanza/ /mejores/autos-hibridos/ /mejores/autos-electricos/ /mejores/autos-baratos/ /mejores/camionetas/ /mejores/autos-para-plataformas/ /seguro-de-auto/ /promociones/ /tramites/ /hoy-no-circula/ /verificacion-vehicular/ /precio-gasolina/ /glosario/ /metodologia/.
+REGLAS DE CONTENIDO (no negociables):
+- Usa SOLO las cifras de FACTS, copiadas tal cual (mismo monto, porcentaje y fecha). No inventes precios, tasas, fechas, leyes, normas, versiones ni modelos que no estén en FACTS. Puedes derivar números con operaciones simples que muestres.
+- Cuando cites una cifra, di la fuente y la fecha como aparecen en FACTS («según el sitio de BYD México, al 30 de octubre de 2026»).
+- No menciones ni recomiendes otros sitios de autos, comparadores, revistas o portales. Las únicas fuentes que nombras son las de FACTS.
+- No agregues datos, columnas de tabla ni afirmaciones que no estén en FACTS (por ejemplo: número de bolsas de aire, equipo, país de fabricación, ventas, consecuencias legales) aunque creas saberlos. Si una celda no tiene dato en FACTS, no pongas esa columna.
+- No especules ni supongas («probablemente», «habría», «seguramente», «podría costar»). No prometas beneficios que FACTS no dice (reventa, depreciación, seguro más barato, ahorro garantizado).
+- No menciones organismos, pruebas, leyes, apps ni sitios que no estén en FACTS.
+- Cada cifra lleva la fecha que trae en FACTS; no le pongas la fecha de hoy a un dato de otra fecha.
+- No des asesoría financiera ni legal personalizada.
+- No rellenes la palabra clave a la fuerza: si suena mal, adáptala con preposiciones y artículos (por ejemplo «autos seguros en México»).
+PSICOLOGÍA CON ÉTICA: abre con un dato ancla fuerte de FACTS; muestra lo que cuesta no revisar el tema (aversión a la pérdida) con cifras de FACTS; usa prueba social solo con cifras reales de FACTS (ventas, estaciones, resultados). Termina cada sección con una conclusión práctica de una frase.
+ESTILO: frases cortas. Sin clichés de IA («en la era digital», «en el mundo actual», «sin lugar a dudas», «es importante destacar», «crucial», «fundamental», «te guiaremos», «adéntrate»). Sin signos de exclamación. Habla de tú. Párrafos de 2 a 4 frases. Nada de «no es X, es Y».
+FACTS (única fuente de cifras):
+Hoy es 30 de octubre de 2026. Precios de lista verificados en el sitio oficial de cada marca el 30 de octubre de 2026, salvo donde se indica.
+Todos estos sedanes traen 6 bolsas de aire según la ficha oficial de cada marca.
+Rendimiento: combinado oficial de la versión de entrada (CONUEE, Catálogo de rendimientos 2026, o ficha de la marca). Honda no publica el rendimiento del City.
+Cajuela en litros según la ficha oficial. El Versa tiene 466 o 482 L según versión. El brochure del Honda City dice 581 litros.
+Latin NCAP: un resultado de antes de 2020 usa otra escala (estrellas separadas para adulto e infantil) y no se compara con uno reciente. «Sin prueba» no significa «cero estrellas».
+Gasto de gasolina al año con 15,000 km (cálculo de Autocifras con regular a $23.69 por litro, promedio nacional de la CNE al 30 de octubre de 2026): fórmula 15,000 ÷ rendimiento × $23.69.
+== Sedanes por precio de entrada ==
+MG5: desde $299,900 (Style MT) hasta $399,000 (Elegance CVT); motor 1.5 L de 4 cilindros, 109 hp; transmisión manual o CVT; rendimiento 16.7 km/l; cajuela 406 L; gasolina al año con 15,000 km $21,278; Latin NCAP: sin resultado de Latin NCAP. Enlace /autos/mg/mg5/
+Volkswagen Virtus: desde $322,490 (Trendline MT) hasta $399,490 (Highline AT); motor 1.6 L de 110 hp o 1.0 TSI de 114 hp; transmisión manual de 5 o Tiptronic de 6; rendimiento 16.5 km/l; cajuela 521 L; gasolina al año con 15,000 km $21,536; Latin NCAP: 5 estrellas (prueba 2022, Nuevo Virtus con 6 bolsas). Enlace /autos/volkswagen/virtus/
+Chevrolet Aveo Sedán: desde $332,800 (LS Manual) hasta $390,000 (LT Plus); motor 1.5 L de 4 cilindros, 98 hp; transmisión manual de 6 o CVT; rendimiento 20.44 km/l; cajuela 475 L; gasolina al año con 15,000 km $17,385; Latin NCAP: sin prueba de la generación actual (la anterior, 2019: 3 estrellas adulto / 4 infantil, con 2 bolsas). Enlace /autos/chevrolet/aveo/
+Chevrolet Onix: desde $353,100 (LS Manual) hasta $452,300 (Premier Redline); motor 1.3 L de 3 cilindros, 101 hp (manual) o 1.0 L turbo, 116 hp (automática); transmisión manual de 5 o automática de 6; rendimiento 23.43 km/l; cajuela 469 L; gasolina al año con 15,000 km $15,166; Latin NCAP: 5 estrellas adulto / 5 infantil (prueba 2019, protocolo anterior a 2020). Enlace /autos/chevrolet/onix/
+Nissan Versa: desde $374,900 (Sense Base TM) hasta $470,900 (Exclusive CVT); motor 1.6 L de 4 cilindros, 118 hp; transmisión manual de 5 o CVT; rendimiento 19.06 km/l; cajuela 466 L; gasolina al año con 15,000 km $18,644; Latin NCAP: sin prueba de la generación actual (la anterior, 2016: 3 estrellas adulto / 2 infantil, con 2 bolsas). Enlace /autos/nissan/versa/
+Honda City: desde $408,900 (Sport CVT) hasta $471,900 (Touring CVT); motor 1.5 L i-VTEC, 119 hp; transmisión solo CVT; rendimiento no publicado km/l; cajuela 581 L; rendimiento no publicado; Latin NCAP: sin prueba de la generación actual. Enlace /autos/honda/city/
+Precio especial del MG5 Style MT publicado por MG México: $274,900 (lista $299,900). Elegance CVT: $339,000 especial (lista $399,000).
+Volkswagen publica hoy en la página del Virtus un «precio de contado desde» de $309,990 (Trendline), $389,990 (Comfortline) y $399,990 (Highline). La lista del configurador del 25 de octubre de 2026: $322,490 (Trendline MT) y $399,490 (Highline AT).
+Rendimientos de otras versiones: Aveo CVT 18.01 km/l; Onix automático 23.32 km/l y Premier 21.97 km/l; Versa CVT 20.69 km/l; Virtus 1.0 TSI 17.5 km/l; MG5 CVT 18 km/l.
+Ventas enero a septiembre de 2026 (AMDA con datos del INEGI): Nissan Versa 59,621 (el más vendido de México); Chevrolet Aveo 51,698 (segundo); MG5 20,881 (octavo).
+== Ejemplo resuelto: diferencia de gasolina Onix contra Virtus a 15,000 km al año ==
+Onix: 15,000 ÷ 23.43 = 640 litros × $23.69 = $15,166. Virtus: 15,000 ÷ 16.5 = 909 litros × $23.69 = $21,536. Diferencia: $6,370 al año.
+Diferencia de precio de entrada Versa contra Aveo Sedán: $42,100. Aveo Sedán contra Onix: $20,300. Virtus contra Versa: $52,410.

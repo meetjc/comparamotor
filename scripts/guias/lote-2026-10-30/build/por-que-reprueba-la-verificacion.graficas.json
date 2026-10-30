@@ -1,0 +1,10 @@
+{
+ "costo-tarde": {"titulo": "Verificar a tiempo contra verificar tarde", "desc": "Costo de la constancia más la multa por verificar fuera de plazo, 2026. No incluye reparaciones.", "unidad": "$",
+  "datos": [{"label": "CDMX a tiempo", "valor": 765.45, "color": "#1baf7a"}, {"label": "CDMX tarde", "valor": 3111.65, "color": "#d42a2c"}, {"label": "Edomex (holograma 0) a tiempo", "valor": 610.01, "color": "#1baf7a"}, {"label": "Edomex (holograma 0) tarde", "valor": 4129.31, "color": "#d42a2c"}],
+  "leyenda": [{"color": "#1baf7a", "texto": "A tiempo: solo la constancia"}, {"color": "#d42a2c", "texto": "Tarde: constancia más multa mínima"}],
+  "fuente": "Programas de Verificación del 2o semestre de 2026 y UMA 2026 de INEGI; cálculo de Autocifras."},
+ "limites-hc": {"titulo": "Cuántos hidrocarburos (HC) puede soltar tu auto según su holograma", "desc": "Límite máximo en partes por millón (ppm), prueba dinámica. Menos es más limpio.", "unidad": "ppm",
+  "datos": [{"label": "Holograma 0 (2006 en adelante)", "valor": 80, "color": "#1baf7a"}, {"label": "Holograma 1 (1994 a 2005)", "valor": 100, "color": "#eb6834"}, {"label": "Holograma 2 (1993 y anteriores)", "valor": 350, "color": "#d42a2c"}],
+  "leyenda": [{"color": "#1baf7a", "texto": "Límite más estricto"}, {"color": "#eb6834", "texto": "Intermedio"}, {"color": "#d42a2c", "texto": "Más permisivo"}],
+  "fuente": "Tablas de límites de los Programas de Verificación de la CDMX y el Estado de México, 2o semestre de 2026."}
+}

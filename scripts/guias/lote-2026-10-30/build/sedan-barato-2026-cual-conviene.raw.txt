@@ -1,0 +1,140 @@
+<p class="answer">El sedán barato de 2026 con el precio de lista más bajo es el MG5, desde $299,900, seguido del Volkswagen Virtus, desde $322,490, y el Chevrolet Aveo Sedán, desde $332,800. El que menos gasolina gasta es el Chevrolet Onix: $15,166 al año con 15,000 km. La cajuela más grande es la del Honda City y el único con una prueba de Latin NCAP de 2020 en adelante es el Virtus, con 5 estrellas en 2022.</p>
+
+<h2>¿Cuál es el sedán barato 2026 con el precio más bajo?</h2>
+
+<p>El más barato de lista es el MG5 Style MT, en $299,900, según el sitio oficial de MG México al 30 de octubre de 2026. Ese mismo día, MG publica un precio especial de $274,900 para esa versión. Piensa en el precio de lista como la etiqueta del aparador y en el precio especial como la oferta del momento.</p>
+
+<p>El segundo es el Volkswagen Virtus. El configurador de Volkswagen del 25 de octubre de 2026 lo marca desde $322,490 (Trendline MT). Hoy, la página del Virtus publica un «precio de contado desde» de $309,990 para la Trendline. Después vienen el Chevrolet Aveo Sedán desde $332,800, el Chevrolet Onix desde $353,100, el Nissan Versa desde $374,900 y el Honda City desde $408,900.</p>
+
+<p>Los seis traen 6 bolsas de aire, según la ficha oficial de cada marca. Antes de ir a la agencia, anota el precio de lista y el precio especial de la versión exacta que quieres.</p>
+
+<!--FIG:grafica:precio-entrada-->
+
+<div class="tbl-wrap"><table class="tbl">
+<thead><tr><th>Sedán</th><th>Desde (lista)</th><th>Hasta (lista)</th><th>Motor</th><th>Transmisión</th><th>Bolsas de aire</th></tr></thead>
+<tbody>
+<tr><td><a href="/autos/mg/mg5/">MG5</a></td><td>$299,900</td><td>$399,000</td><td>1.5 L, 109 hp</td><td>Manual o CVT</td><td>6</td></tr>
+<tr><td><a href="/autos/volkswagen/virtus/">Volkswagen Virtus</a> (configurador, 25 de octubre de 2026)</td><td>$322,490</td><td>$399,490</td><td>1.6 L de 110 hp o 1.0 TSI de 114 hp</td><td>Manual de 5 o Tiptronic de 6</td><td>6</td></tr>
+<tr><td><a href="/autos/chevrolet/aveo/">Chevrolet Aveo Sedán</a></td><td>$332,800</td><td>$390,000</td><td>1.5 L, 98 hp</td><td>Manual de 6 o CVT</td><td>6</td></tr>
+<tr><td><a href="/autos/chevrolet/onix/">Chevrolet Onix</a></td><td>$353,100</td><td>$452,300</td><td>1.3 L de 101 hp o 1.0 L turbo de 116 hp</td><td>Manual de 5 o automática de 6</td><td>6</td></tr>
+<tr><td><a href="/autos/nissan/versa/">Nissan Versa</a></td><td>$374,900</td><td>$470,900</td><td>1.6 L, 118 hp</td><td>Manual de 5 o CVT</td><td>6</td></tr>
+<tr><td><a href="/autos/honda/city/">Honda City</a></td><td>$408,900</td><td>$471,900</td><td>1.5 L i-VTEC, 119 hp</td><td>Solo CVT</td><td>6</td></tr>
+</tbody>
+</table></div>
+
+<h2>¿Cuál es el precio del Aveo 2026 y qué trae?</h2>
+
+<p>El precio del Aveo 2026 va de $332,800 (LS Manual) a $390,000 (LT Plus), según el sitio oficial de Chevrolet al 30 de octubre de 2026. Trae un motor 1.5 L de 4 cilindros con 98 hp y puedes elegir manual de 6 velocidades o CVT. Su cajuela es de 475 litros.</p>
+
+<p>El rendimiento importa tanto como el precio. Un auto que recorre más kilómetros por litro pasa menos veces por la gasolinera. El Aveo manual rinde 20.44 km/l y la versión CVT, 18.01 km/l, según el rendimiento combinado oficial. Con 15,000 km al año, la versión de entrada gasta $17,385 en gasolina.</p>
+
+<p>De enero a septiembre de 2026 se vendieron 51,698 Aveo, el segundo más vendido de México, según la AMDA con datos del INEGI. Si buscas el más barato de Chevrolet, el Aveo es tu punto de partida.</p>
+
+<!--FIG:foto:chevrolet-aveo:0-->
+
+<h2>¿Cuál es el precio del Versa 2026?</h2>
+
+<p>El precio del Versa 2026 va de $374,900 (Sense Base TM) a $470,900 (Exclusive CVT), según el sitio oficial de Nissan al 30 de octubre de 2026. Es el más vendido de México: 59,621 unidades de enero a septiembre de 2026, según la AMDA con datos del INEGI.</p>
+
+<p>Su motor es un 1.6 L de 4 cilindros con 118 hp, con manual de 5 o CVT. La versión manual rinde 19.06 km/l y la CVT, 20.69 km/l. Su cajuela mide 466 o 482 litros, según la versión. Si te interesa el Versa, revisa la cajuela de la versión que vas a comprar, porque cambia.</p>
+
+<h2>¿Qué sedán gasta menos gasolina al año?</h2>
+
+<p>El que menos gasta es el Chevrolet Onix manual: rinde 23.43 km/l y gasta $15,166 al año con 15,000 km. Autocifras hizo el cálculo con gasolina regular a $23.69 por litro, el promedio nacional de la CNE al 30 de octubre de 2026.</p>
+
+<p>Después vienen el Aveo con $17,385, el Versa con $18,644, el MG5 con $21,278 y el Virtus con $21,536. Honda no publica el rendimiento del City, así que no hay cálculo para él.</p>
+
+<!--FIG:grafica:gasolina-anio-->
+
+<div class="ejemplo">
+<p><b>Ejemplo:</b> ¿Cuánto cambia el gasto entre el Onix y el Virtus si manejas 15,000 km al año?</p>
+<p>Onix: 15,000 km ÷ 23.43 km/l = unos 640 litros. Esos litros por $23.69 dan $15,166 al año.</p>
+<p>Virtus: 15,000 km ÷ 16.5 km/l = unos 909 litros. Esos litros por $23.69 dan $21,536 al año.</p>
+<p>Diferencia: $21,536 − $15,166 = $6,370 al año a favor del Onix.</p>
+</div>
+
+<p>Haz la misma cuenta con los kilómetros que tú manejas y con el precio del día en <a href="/precio-gasolina/">precio de la gasolina</a>.</p>
+
+<!--FIG:foto:nissan-versa:0-->
+
+<h2>¿Qué sedán tiene la cajuela más grande?</h2>
+
+<p>La más grande es la del Honda City: 581 litros, según su brochure. Para darte una idea, un litro de cajuela es como un cartón de leche: entre más litros, más maletas y bolsas del súper caben.</p>
+
+<p>Le siguen el Virtus con 521 litros, el Aveo con 475, el Onix con 469 y el Versa con 466 o 482, según la versión. El MG5 tiene la más chica del grupo, con 406 litros. Si cargas mucho, pon el City y el Virtus arriba de tu lista.</p>
+
+<!--FIG:grafica:cajuela-->
+
+<h2>¿Cuál es el sedán más seguro según Latin NCAP?</h2>
+
+<p>El único con una prueba de Latin NCAP de 2020 en adelante es el Volkswagen Virtus: 5 estrellas en 2022, con 6 bolsas de aire.</p>
+
+<p>Aquí hay una trampa fácil. Un resultado de antes de 2020 usa otra escala, con estrellas separadas para adulto e infantil, y no se compara con uno reciente. Es como comparar una calificación sobre 10 con otra sobre 100. El Onix tiene 5 estrellas adulto y 5 infantil, pero de una prueba de 2019, con el protocolo anterior.</p>
+
+<p>El Aveo y el Versa no tienen prueba de su generación actual. Los resultados que circulan son de las generaciones anteriores, con 2 bolsas de aire: Aveo 2019 con 3 estrellas adulto y 4 infantil, y Versa 2016 con 3 adulto y 2 infantil. El City no tiene prueba de su generación actual y el MG5 no tiene resultado. «Sin prueba» no significa «cero estrellas». Cuando leas estrellas, revisa siempre el año y la generación.</p>
+
+<!--FIG:foto:volkswagen-virtus:0-->
+
+<div class="tbl-wrap"><table class="tbl">
+<thead><tr><th>Sedán</th><th>Rendimiento (versión de entrada)</th><th>Gasolina al año con 15,000 km</th><th>Cajuela</th><th>Latin NCAP</th></tr></thead>
+<tbody>
+<tr><td>Chevrolet Onix</td><td>23.43 km/l</td><td>$15,166</td><td>469 L</td><td>5 adulto / 5 infantil (2019, protocolo anterior a 2020)</td></tr>
+<tr><td>Chevrolet Aveo Sedán</td><td>20.44 km/l</td><td>$17,385</td><td>475 L</td><td>Sin prueba de la generación actual</td></tr>
+<tr><td>Nissan Versa</td><td>19.06 km/l</td><td>$18,644</td><td>466 o 482 L</td><td>Sin prueba de la generación actual</td></tr>
+<tr><td>MG5</td><td>16.7 km/l</td><td>$21,278</td><td>406 L</td><td>Sin resultado</td></tr>
+<tr><td>Volkswagen Virtus</td><td>16.5 km/l</td><td>$21,536</td><td>521 L</td><td>5 estrellas (2022)</td></tr>
+<tr><td>Honda City</td><td>No publicado</td><td>Sin cálculo</td><td>581 L</td><td>Sin prueba de la generación actual</td></tr>
+</tbody>
+</table></div>
+
+<h2>¿Versa vs Aveo, Aveo vs Onix o Versa vs Virtus: cuál conviene?</h2>
+
+<p>Versa vs Aveo: el Aveo Sedán cuesta $42,100 menos de entrada y gasta $17,385 de gasolina al año contra $18,644 del Versa. El Versa tiene más motor, 118 hp contra 98 hp. Si tu tope es el precio, gana el Aveo; si quieres más potencia, paga la diferencia por el Versa.</p>
+
+<p>Aveo vs Onix: el Onix cuesta $20,300 más de entrada, pero gasta menos gasolina. Con 15,000 km, el Aveo gasta $17,385 y el Onix $15,166: $17,385 − $15,166 = $2,219 menos al año con el Onix. Si manejas mucho, el Onix recupera parte de la diferencia en la gasolinera.</p>
+
+<p>Versa vs Virtus: el Virtus de lista cuesta $52,410 menos que el Versa, tiene más cajuela (521 contra 466 o 482 litros) y tiene 5 estrellas de Latin NCAP de 2022. El Versa gasta menos gasolina: $18,644 contra $21,536 al año. Si te importan precio, espacio y seguridad comprobada, mira primero el Virtus.</p>
+
+<h2>¿Qué sedán conviene para familia, para plataforma o para primer auto?</h2>
+
+<p>Para familia, mira cajuela y seguridad. El City ofrece 581 litros y el Virtus 521 litros con 5 estrellas de 2022. Con ellos caben más maletas y tienes el dato de seguridad más reciente.</p>
+
+<p>Para plataforma, mira el gasto de gasolina, porque manejas muchos kilómetros. El Onix gasta $15,166 al año con 15,000 km y el Aveo $17,385. Revisa también <a href="/mejores/autos-baratos/">los autos más baratos de México</a> antes de decidir.</p>
+
+<p>Para primer auto, mira el precio de entrada. El MG5 arranca en $299,900 de lista y $274,900 con el precio especial de MG México. El Virtus parte de $309,990 de contado, según la página de Volkswagen. Elige el que cabe en tu presupuesto sin forzarlo.</p>
+
+<h2>¿Qué revisar antes de comprar un sedán barato?</h2>
+
+<p>Sigue estos pasos antes de dar un enganche:</p>
+
+<ol>
+<li>Compara precio de lista contra precio especial o de contado. En el MG5 Elegance CVT la lista es $399,000 y el especial, $339,000.</li>
+<li>Revisa el rendimiento de tu versión, no solo el de la de entrada. El Onix automático rinde 23.32 km/l, el Premier 21.97 km/l y el Virtus 1.0 TSI 17.5 km/l.</li>
+<li>Haz la cuenta de gasolina: kilómetros al año entre rendimiento, por el precio del litro.</li>
+<li>Lee el año y el protocolo de cada resultado de Latin NCAP antes de comparar estrellas.</li>
+<li>Confirma la cajuela de tu versión; en el Versa cambia entre 466 y 482 litros.</li>
+<li>Pon tus dos finalistas lado a lado en el <a href="/comparar/">comparador de Autocifras</a>.</li>
+</ol>
+
+<p>Con estos seis pasos sabes cuánto pagas hoy y cuánto gastarás cada año.</p>
+
+<h2>Preguntas frecuentes</h2>
+
+<div class="faq">
+<details>
+<summary>¿Cuál es el sedán con mejor rendimiento de gasolina?</summary>
+<p>El Chevrolet Onix manual, con 23.43 km/l de rendimiento combinado oficial. Con 15,000 km al año y gasolina regular a $23.69, gasta $15,166.</p>
+</details>
+<details>
+<summary>¿Todos los sedanes baratos de 2026 tienen 6 bolsas de aire?</summary>
+<p>Sí. MG5, Virtus, Aveo Sedán, Onix, Versa y City traen 6 bolsas de aire, según la ficha oficial de cada marca. Las generaciones anteriores del Aveo y del Versa que probó Latin NCAP tenían 2 bolsas.</p>
+</details>
+<details>
+<summary>¿Qué motores tiene el Volkswagen Virtus?</summary>
+<p>Tiene dos: un 1.6 L de 110 hp y un 1.0 TSI de 114 hp. Se ofrece con manual de 5 o Tiptronic de 6. El 1.0 TSI rinde 17.5 km/l.</p>
+</details>
+<details>
+<summary>¿Cuál es el precio especial del MG5?</summary>
+<p>MG México publica $274,900 para el Style MT, con lista de $299,900. Para el Elegance CVT publica $339,000, con lista de $399,000. Confirma el precio el día que compres.</p>
+</details>
+</div>

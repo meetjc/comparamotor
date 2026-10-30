@@ -1,0 +1,122 @@
+<p class="answer">Si manejas 1,000 km al mes con gasolina regular, gastas entre $1,012 y $1,436, según cuál de los nueve autos de esta guía manejes. El precio de la gasolina hoy, 30 de octubre de 2026, es de $23.69 por litro la regular y $28.59 la premium, en promedio nacional calculado por Autocifras con datos de la Comisión Nacional de Energía (CNE).</p>
+
+<h2>¿Cuál es el precio de la gasolina hoy en México?</h2>
+
+<p>La gasolina regular cuesta en promedio $23.69 por litro, la premium $28.59 y el diésel $26.98. Es el promedio nacional al 30 de octubre de 2026 que calculó Autocifras con el archivo diario de precios de la CNE, que reúne 13,852 estaciones. Los precios incluyen IVA.</p>
+
+<p>Un promedio sirve para comparar meses. El promedio oficial de septiembre de 2026 publicado por la CNE fue de $23.68 la regular, $28.58 la premium y $27.00 el diésel. Si comparas ese dato con el de hoy, ves cómo se movió el precio en el último mes.</p>
+
+<p>Tu ciudad pesa más que el promedio. Al 30 de octubre de 2026, según la CNE, así se ven tres de las ciudades más grandes:</p>
+
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Lugar</th><th>Regular</th><th>Premium</th><th>Diésel</th></tr></thead><tbody><tr><td>Promedio nacional</td><td>$23.69</td><td>$28.59</td><td>$26.98</td></tr><tr><td>Ciudad de México</td><td>$23.82</td><td>$28.74</td><td>$26.96</td></tr><tr><td>Monterrey</td><td>$24.21</td><td>$29.63</td><td>$26.91</td></tr><tr><td>Guadalajara</td><td>$23.93</td><td>$29.34</td><td>$26.95</td></tr></tbody></table></div>
+
+<p>¿Y el tope de $24? Existe un acuerdo voluntario entre el Gobierno de México y los gasolineros. La Profeco informó el 4 de septiembre de 2026 que se renovó el 31 de agosto de 2026 por seis meses más, con la regular por debajo de $24 por litro y el diésel en máximo $27. La premium no entra en el acuerdo. Como es voluntario, en Monterrey el promedio de la regular ya pasa de $24.</p>
+
+<p>Para tus cuentas, usa el precio de tu ciudad y no el nacional. Lo puedes revisar en nuestra página del <a href="/precio-gasolina/">precio de la gasolina por estado y ciudad</a>.</p>
+
+<!--FIG:grafica:precio-litro-->
+
+<h2>¿Cuánto gasto de gasolina al mes según mi auto?</h2>
+
+<p>Depende de dos cosas: cuántos kilómetros manejas y cuánto rinde tu auto. Piensa en dos vecinos que hacen el mismo trayecto al trabajo. Uno maneja un auto que recorre 23.4 km con un litro y el otro uno que recorre 16.5 km. El segundo pasa más seguido por la gasolinera, aunque manejen lo mismo.</p>
+
+<p>Esa medida se llama rendimiento y se escribe en km/l. La tabla usa el rendimiento combinado oficial publicado por cada marca o por la CONUEE, verificado por Autocifras el 25 de octubre de 2026, y la regular a $23.69 por litro del 30 de octubre de 2026.</p>
+
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Auto</th><th>Rendimiento</th><th>1,000 km al mes</th><th>1,500 km al mes</th><th>Al año con 1,000 km al mes</th></tr></thead><tbody><tr><td><a href="/autos/chevrolet/onix/">Chevrolet Onix</a></td><td>23.4 km/l</td><td>$1,012</td><td>$1,519</td><td>$12,149</td></tr><tr><td>Kia K3</td><td>20.61 km/l</td><td>$1,149</td><td>$1,724</td><td>$13,793</td></tr><tr><td>Chevrolet Aveo</td><td>20.4 km/l</td><td>$1,161</td><td>$1,742</td><td>$13,935</td></tr><tr><td>Toyota Corolla</td><td>19.14 km/l</td><td>$1,238</td><td>$1,857</td><td>$14,853</td></tr><tr><td><a href="/autos/nissan/versa/">Nissan Versa</a></td><td>19.06 km/l</td><td>$1,243</td><td>$1,864</td><td>$14,915</td></tr><tr><td>Nissan Kicks</td><td>18.64 km/l</td><td>$1,271</td><td>$1,906</td><td>$15,251</td></tr><tr><td>Nissan March</td><td>17.99 km/l</td><td>$1,317</td><td>$1,975</td><td>$15,802</td></tr><tr><td>MG5</td><td>16.7 km/l</td><td>$1,419</td><td>$2,128</td><td>$17,023</td></tr><tr><td>Volkswagen Virtus</td><td>16.5 km/l</td><td>$1,436</td><td>$2,154</td><td>$17,229</td></tr></tbody></table></div>
+
+<p>Fíjate en los extremos. Con 1,000 km al mes, el Chevrolet Onix gasta $12,149 al año y el Volkswagen Virtus $17,229. Es el mismo trayecto con distinto rendimiento.</p>
+
+<p>Si vas a comprar, pon el rendimiento junto al precio cuando <a href="/comparar/">compares autos</a>: lo vas a pagar cada mes.</p>
+
+<!--FIG:grafica:gasto-mes-->
+
+<h2>¿Cómo calcular cuánto gastas de gasolina al mes en tres pasos?</h2>
+
+<p>La fórmula es: kilómetros al mes ÷ rendimiento (km/l) × precio del litro. Suena técnica, pero son dos operaciones que haces con la calculadora del celular.</p>
+
+<p>Paso 1. Calcula cuántos kilómetros manejas al mes. No existe una cifra oficial nacional de kilómetros recorridos al año, así que en Autocifras usamos tres escenarios: 500, 1,000 y 1,500 km al mes. Si tu odómetro marca otra cosa, usa tu número.</p>
+
+<p>Paso 2. Divide esos kilómetros entre el rendimiento de tu auto. El resultado son los litros que compras al mes. Un auto que rinde 20 km/l necesita un litro por cada 20 km que avanza.</p>
+
+<p>Paso 3. Multiplica los litros por el precio del litro. Ahí tienes el gasto en pesos.</p>
+
+<div class="ejemplo"><p><b>Ejemplo:</b> Tienes un Nissan Versa, con rendimiento combinado oficial de 19.06 km/l (verificado el 25 de octubre de 2026), y manejas 1,000 km al mes. Paso 1: 1,000 km. Paso 2: 1,000 km ÷ 19.06 km/l = 52.5 litros. Paso 3: 52.5 litros × $23.69 = $1,243 al mes. Al año: $1,243 × 12 = $14,915.</p></div>
+
+<p>Haz la cuenta una vez con tus datos reales y guárdala en una nota. Te sirve de referencia para todo el año.</p>
+
+<!--FIG:foto:nissan-versa:0-->
+
+<h2>¿Cuánto cambia el gasto si manejas 500 o 1,500 km al mes?</h2>
+
+<p>El gasto sube en la misma proporción que los kilómetros. Si un mes manejas el doble, compras el doble de litros. El auto no cambia; cambia cuánto lo usas.</p>
+
+<p>Con el mismo Nissan Versa y la regular a $23.69, estos son los tres escenarios de Autocifras: 500 km al mes cuestan $621, 1,000 km al mes $1,243 y 1,500 km al mes $1,864. Quien usa el auto solo para ir al súper y a la escuela está cerca del primer escenario. Quien cruza la ciudad todos los días se acerca al tercero.</p>
+
+<p>Antes de comparar autos, ubica en cuál de los tres escenarios estás tú. Con eso ya sabes qué columna de la tabla te toca.</p>
+
+<!--FIG:grafica:escenarios-->
+
+<h2>¿Cuánto te cuesta cada kilómetro que manejas?</h2>
+
+<p>El costo por kilómetro es lo que pagas de gasolina por avanzar un kilómetro. Se calcula así: precio del litro ÷ rendimiento. Sirve para saber cuánto te cuesta un viaje antes de hacerlo.</p>
+
+<p>Por ejemplo, si vas a manejar 500 km en un Nissan March, el escenario de Autocifras marca $658 de gasolina regular. Con un Chevrolet Onix, el mismo recorrido cuesta $506. Estos son los costos por kilómetro con regular a $23.69 y los rendimientos verificados el 25 de octubre de 2026:</p>
+
+<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Auto</th><th>Rendimiento</th><th>Costo por km</th></tr></thead><tbody><tr><td>Chevrolet Onix</td><td>23.4 km/l</td><td>$1.01</td></tr><tr><td>Kia K3</td><td>20.61 km/l</td><td>$1.15</td></tr><tr><td>Chevrolet Aveo</td><td>20.4 km/l</td><td>$1.16</td></tr><tr><td>Toyota Corolla</td><td>19.14 km/l</td><td>$1.24</td></tr><tr><td>Nissan Versa</td><td>19.06 km/l</td><td>$1.24</td></tr><tr><td>Nissan Kicks</td><td>18.64 km/l</td><td>$1.27</td></tr><tr><td>Nissan March</td><td>17.99 km/l</td><td>$1.32</td></tr><tr><td>MG5</td><td>16.7 km/l</td><td>$1.42</td></tr><tr><td>Volkswagen Virtus</td><td>16.5 km/l</td><td>$1.44</td></tr></tbody></table></div>
+
+<p>Para un viaje, multiplica los kilómetros por el costo por km de tu auto. Para ver la gasolina junto con los demás gastos, usa el cálculo de <a href="/costo-total/">costo total de tener un auto</a>.</p>
+
+<!--FIG:foto:chevrolet-onix:1-->
+
+<h2>¿Por qué tu auto rinde menos km/l de lo que dice la marca?</h2>
+
+<p>El rendimiento km/l oficial es una referencia para comparar autos entre sí. En el uso real suele ser menor. Influyen cuatro cosas: tráfico, aire acondicionado, llantas bajas y carga.</p>
+
+<p>Piensa en un día de tráfico. Avanzas poco, frenas y aceleras muchas veces, y el motor sigue trabajando aunque no te muevas. Lo mismo pasa cuando prendes el aire acondicionado o llevas la cajuela llena: el motor hace más esfuerzo por cada kilómetro. Las llantas bajas también te cobran litros sin que lo notes.</p>
+
+<p>Por eso tus cuentas con el rendimiento oficial marcan el gasto mínimo. Si tu manejo es casi todo en tráfico, deja un margen extra en tu presupuesto de gasolina.</p>
+
+<h2>¿Conviene cargar gasolina premium en lugar de regular?</h2>
+
+<p>Si tu auto funciona con regular, la premium sube tu gasto. Al 30 de octubre de 2026, la premium cuesta $4.90 más por litro que la regular: $28.59 contra $23.69.</p>
+
+<p>Con el mismo Nissan Versa y 1,000 km al mes, la regular cuesta $1,243 al mes y la premium $1,500. La diferencia es de $257 al mes y $3,085 al año. Además, la premium no entra en el acuerdo voluntario de precios que informó la Profeco el 4 de septiembre de 2026.</p>
+
+<p>Revisa en el manual de tu auto qué gasolina pide y carga esa.</p>
+
+<h2>¿Cómo bajar tu gasto de gasolina al mes?</h2>
+
+<p>Subir el rendimiento de tu auto aunque sea 1 km/l ya se nota. Según el cálculo de Autocifras, un auto de 15 km/l que maneja 1,000 km al mes gasta $1,579; si rinde 16 km/l, gasta $1,481. Son $98 menos cada mes ($1,579 − $1,481).</p>
+
+<ol>
+<li>Anota el kilometraje de tu odómetro el día 1 y el último día del mes. Así sabes en qué escenario estás.</li>
+<li>Busca el rendimiento combinado oficial de tu modelo y haz la cuenta de los tres pasos.</li>
+<li>Usa el precio de tu ciudad: en Monterrey la regular promedia $24.21 y en la Ciudad de México $23.82.</li>
+<li>Revisa la presión de las llantas cada vez que cargues gasolina.</li>
+<li>Saca de la cajuela lo que no usas todos los días.</li>
+<li>Agrupa tus pendientes en una sola salida para evitar horas de tráfico.</li>
+<li>Si vas a cambiar de auto, compara el rendimiento y revisa los <a href="/mejores/autos-hibridos/">mejores autos híbridos</a> antes de decidir.</li>
+</ol>
+
+<p>Empieza por el primer paso este mes. Sin tu kilometraje real, cualquier cálculo es una aproximación.</p>
+
+<h2>Preguntas frecuentes</h2>
+
+<div class="faq">
+<details>
+<summary>¿Cuál es el precio del diésel hoy?</summary>
+<p>El diésel cuesta en promedio $26.98 por litro al 30 de octubre de 2026, según el cálculo de Autocifras con datos de la CNE. En la Ciudad de México promedia $26.96, en Monterrey $26.91 y en Guadalajara $26.95. El acuerdo voluntario renovado el 31 de agosto de 2026 fija el diésel en máximo $27.</p>
+</details>
+<details>
+<summary>¿Cuánto gasta un Chevrolet Onix de gasolina al año?</summary>
+<p>Con 1,000 km al mes y regular a $23.69, el Chevrolet Onix gasta $12,149 al año, según el cálculo de Autocifras. Su rendimiento combinado oficial es de 23.4 km/l, verificado el 25 de octubre de 2026. Es el más bajo de los autos de esta guía.</p>
+</details>
+<details>
+<summary>¿Qué ciudad tiene la gasolina regular más cara de las tres grandes?</summary>
+<p>Monterrey, con un promedio de $24.21 por litro al 30 de octubre de 2026, según la CNE. Le siguen Guadalajara con $23.93 y la Ciudad de México con $23.82. Monterrey ya pasa del tope de $24 del acuerdo voluntario.</p>
+</details>
+<details>
+<summary>¿Los precios de la gasolina incluyen IVA?</summary>
+<p>Sí. Los precios promedio de la CNE incluyen IVA. Los montos por litro de esta guía ya traen ese impuesto, así que no tienes que sumarlo a tus cuentas.</p>
+</details>
+</div>

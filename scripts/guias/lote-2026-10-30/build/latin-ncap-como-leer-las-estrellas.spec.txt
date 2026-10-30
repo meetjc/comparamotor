@@ -1,0 +1,73 @@
+Escribe en español de México un artículo de blog didáctico para Autocifras (comparador de autos nuevos y medio automotriz en México). Hoy es 30 de octubre de 2026.
+TÍTULO (H1, no lo repitas en el cuerpo): Latin NCAP: cómo leer las estrellas y qué tan seguros son los autos más vendidos
+PALABRAS CLAVE (úsalas de forma natural; la principal va en la respuesta inicial y en un H2): latin ncap, latin ncap mexico, autos seguros mexico, estrellas latin ncap
+TEMAS A CUBRIR: Qué es Latin NCAP, las cuatro áreas que califica y qué prueba cada una (explicado como a un amigo), cómo se asignan las estrellas y por qué un auto con más bolsas de aire puede sacar menos estrellas, por qué la calificación cambia según el año del protocolo, tabla con la calificación de los autos más vendidos en México según FACTS, qué exige la norma mexicana NOM-194 según FACTS, y cómo usar las estrellas al elegir. Liga a /autos-mas-vendidos/, a /comparar/ y a /glosario/.
+LECTOR: alguien en México que está por comprar o ya tiene un auto y quiere entender el tema sin tecnicismos. Enseña paso a paso, con ejemplos y números, como un buen maestro.
+EXTENSIÓN: entre 1,400 y 1,750 palabras. No te pases de 1,750: prioriza explicar bien sobre repetir datos.
+ESTRUCTURA OBLIGATORIA (devuelve solo HTML del cuerpo; sin <html>, <body> ni <h1>; sin bloques ```):
+1. Primer elemento: <p class="answer">…</p> con la respuesta directa en 2 o 3 frases con cifras de FACTS.
+2. De 7 a 9 secciones <h2>; cada <h2> es la pregunta literal que alguien escribiría en Google (empieza con ¿ y termina con ?). La primera frase debajo de cada <h2> responde directo.
+3. Al menos 2 tablas, cada una así: <div class="tbl-wrap"><table class="tbl"><thead><tr><th>…</th></tr></thead><tbody>…</tbody></table></div>, con datos de FACTS.
+4. Una caja de ejemplo resuelto: <div class="ejemplo"><p><b>Ejemplo:</b> …</p></div> que haga una cuenta paso a paso con cifras de FACTS (solo sumas, restas, multiplicaciones o divisiones simples; muestra la operación).
+5. Una lista ordenada <ol> en una sección titulada como pregunta práctica (por ejemplo «¿Qué revisar antes de…?») con 5 a 7 pasos concretos.
+6. Al final, <h2>Preguntas frecuentes</h2> con EXACTAMENTE esta estructura: <div class="faq"><details><summary>¿Pregunta?</summary><p>Respuesta de 2 a 4 frases.</p></details> …</div> con 4 preguntas distintas a los H2.
+7. Marcadores de figura: inserta exactamente estos comentarios HTML, cada uno solo en su línea entre párrafos, en este orden y repartidos a lo largo del texto (uno cada 1 o 2 secciones, el primero después de la primera sección): <!--FIG:grafica:umbral-5-->  <!--FIG:foto:kia-k3:0-->  <!--FIG:grafica:estrellas-recientes-->  <!--FIG:grafica:k3-vs-yaris-->  <!--FIG:foto:nissan-kicks:0-->. No escribas etiquetas <img>. No describas la gráfica con «como ves en la gráfica» si no está justo antes.
+8. Enlaces internos con <a href="RUTA">texto descriptivo</a>: de 4 a 6, solo a rutas que aparezcan en FACTS o en esta lista: /comparar/ /autos/ /autos/precios/ /autos-chinos/ /autos-mas-vendidos/ /credito-automotriz/ /costo-total/ /que-me-alcanza/ /mejores/autos-hibridos/ /mejores/autos-electricos/ /mejores/autos-baratos/ /mejores/camionetas/ /mejores/autos-para-plataformas/ /seguro-de-auto/ /promociones/ /tramites/ /hoy-no-circula/ /verificacion-vehicular/ /precio-gasolina/ /glosario/ /metodologia/.
+REGLAS DE CONTENIDO (no negociables):
+- Usa SOLO las cifras de FACTS, copiadas tal cual (mismo monto, porcentaje y fecha). No inventes precios, tasas, fechas, leyes, normas, versiones ni modelos que no estén en FACTS. Puedes derivar números con operaciones simples que muestres.
+- Cuando cites una cifra, di la fuente y la fecha como aparecen en FACTS («según el sitio de BYD México, al 30 de octubre de 2026»).
+- No menciones ni recomiendes otros sitios de autos, comparadores, revistas o portales. Las únicas fuentes que nombras son las de FACTS.
+- No agregues datos, columnas de tabla ni afirmaciones que no estén en FACTS (por ejemplo: número de bolsas de aire, equipo, país de fabricación, ventas, consecuencias legales) aunque creas saberlos. Si una celda no tiene dato en FACTS, no pongas esa columna.
+- No especules ni supongas («probablemente», «habría», «seguramente», «podría costar»). No prometas beneficios que FACTS no dice (reventa, depreciación, seguro más barato, ahorro garantizado).
+- No menciones organismos, pruebas, leyes, apps ni sitios que no estén en FACTS.
+- Cada cifra lleva la fecha que trae en FACTS; no le pongas la fecha de hoy a un dato de otra fecha.
+- No des asesoría financiera ni legal personalizada.
+- No rellenes la palabra clave a la fuerza: si suena mal, adáptala con preposiciones y artículos (por ejemplo «autos seguros en México»).
+PSICOLOGÍA CON ÉTICA: abre con un dato ancla fuerte de FACTS; muestra lo que cuesta no revisar el tema (aversión a la pérdida) con cifras de FACTS; usa prueba social solo con cifras reales de FACTS (ventas, estaciones, resultados). Termina cada sección con una conclusión práctica de una frase.
+ESTILO: frases cortas. Sin clichés de IA («en la era digital», «en el mundo actual», «sin lugar a dudas», «es importante destacar», «crucial», «fundamental», «te guiaremos», «adéntrate»). Sin signos de exclamación. Habla de tú. Párrafos de 2 a 4 frases. Nada de «no es X, es Y».
+FACTS (única fuente de cifras):
+Hoy es 30 de octubre de 2026. Datos consultados en latinncap.com, dof.gob.mx e INEGI/AMDA el 30 de octubre de 2026.
+== Qué es y cómo califica Latin NCAP ==
+Latin NCAP evalúa cuatro áreas, cada una en porcentaje: Protección de Ocupante Adulto, Protección de Ocupante Infantil, Protección a Peatones y Usuarios Vulnerables de las Vías, y Sistemas de Asistencia a la Seguridad.
+Regla de Latin NCAP: «La caja con menor calificación de estrellas es la responsable del resultado total en estrellas del vehículo». El área más débil fija las estrellas.
+Desde el 1 de enero de 2026 rige un protocolo nuevo, vigente hasta el 31 de diciembre de 2029 (comunicado de Latin NCAP del 21 de noviembre de 2025).
+Umbrales mínimos del protocolo 2026 (pruebas de 2025 a 2027), en orden Adulto / Infantil / Peatones / Asistencias: 5 estrellas 80% / 75% / 65% / 85%; 4 estrellas 75% / 65% / 60% / 75%; 3 estrellas 65% / 55% / 50% / 65%; 2 estrellas 50% / 30% / 25% / 50%; 1 estrella 40% / 15% / 10% / 50%.
+Para 2028 y 2029 suben: 5 estrellas exigirán 85% / 80% / 70% / 85%.
+El protocolo 2026 pide de serie en todas las versiones: control electrónico de estabilidad (ESC), recordatorio de cinturón, detección de punto ciego y asistente de velocidad.
+Pruebas nuevas de 2026: impacto lateral a 60 km/h con barrera de 1,400 kg; impacto contra poste a 32 km/h con ángulo de 75 grados; se evalúa por primera vez al adulto del asiento trasero; entra un maniquí de 10 años en un elevador sin respaldo; frenado autónomo de emergencia (AEB) nocturno para peatones y para ciclistas; prueba del alce (maniobra evasiva) a mayor velocidad.
+Sin ISOFIX y sin interruptor para apagar la bolsa del copiloto la calificación infantil baja de forma importante.
+Vigencia según Latin NCAP: los resultados valen mientras estén publicados; cada resultado indica el año del test y el protocolo; «el año de prueba es fundamental para una interpretación correcta». No hay equivalencia entre las estrellas de un protocolo y las de otro.
+Las marcas solo pueden usar un resultado en su publicidad durante 4 años desde su publicación.
+Resultados de antes de 2020: daban estrellas separadas para Adulto (puntos sobre 34) e Infantil (puntos sobre 49), no un resultado único.
+El catálogo de resultados de Latin NCAP tenía 199 resultados al 30 de octubre de 2026.
+== Autos más vendidos en México (contexto) ==
+Ventas enero a septiembre de 2026 (AMDA con datos del INEGI): 1. Nissan Versa 59,621; 2. Chevrolet Aveo 51,698; 3. Kia K3 43,696; 4. Nissan NP300 39,657; 5. Mazda CX-30 21,875; 6. RAM 1200 21,477; 7. Nissan Magnite 21,185; 8. MG5 20,881; 9. Nissan March 19,681; 10. Hyundai Grand i10 19,423.
+Total de autos nuevos vendidos en México de enero a septiembre de 2026: 1,143,988 unidades (INEGI, RAIAVL, boletín del 7 de octubre de 2026).
+== Resultados recientes (formato actual, % por área: Adulto / Infantil / Peatones / Asistencias) ==
+Kia K3 (Sedán, Hatchback y Cross): 5 estrellas, prueba 2024, 87% / 84% / 65% / 81%. Fabricado en México; Latin NCAP indica mercados «México, Mercado Latin NCAP». 6 bolsas de aire. Enlace /autos/kia/k3/
+Nissan Nuevo Kicks con 6 bolsas: 5 estrellas, prueba 2025, 86.29% / 91.66% / 72.79% / 85.17%. La versión evaluada es la hecha en México; el 13 de octubre de 2026 Latin NCAP confirmó las 5 estrellas también para la versión de Brasil. Enlace /autos/nissan/kicks/
+Volkswagen Nuevo Virtus con 6 bolsas: 5 estrellas, prueba 2022, 92% / 92% / 53% / 85%. Enlace /autos/volkswagen/virtus/
+Volkswagen Nuevo Polo / Polo Track con 4 bolsas: 3 estrellas, prueba 2022, 73% / 71% / 51% / 58%.
+Toyota Yaris Sedán y Hatchback con 6 bolsas: 2 estrellas, prueba 2025, 66% / 64% / 54% / 58%. Producción Tailandia y Brasil. Latin NCAP señala protección marginal en pecho y rodillas y AEB opcional o ausente.
+Chevrolet Groove con 4 bolsas: 0 estrellas, prueba 2024, 39% / 69% / 36% / 58%. Enlace /autos/chevrolet/groove/
+Chirey Tiggo 2 Pro «para México» (Chery Tiggo 2) con 4 bolsas: 0 estrellas, prueba 2026, primer resultado con el protocolo nuevo, 0% / 0% / 49% / 45%.
+Suzuki Swift con 2 bolsas: 0 estrellas, prueba 2021, 16% / 0% / 66% / 7%.
+== Resultados viejos (formato antes de 2020: estrellas Adulto / Infantil) ==
+Chevrolet New Onix Plus con 6 bolsas, 2019: Adulto 5 estrellas / Infantil 5 estrellas.
+Toyota Hilux doble cabina con 7 bolsas, 2019: Adulto 5 estrellas / Infantil 5 estrellas (generación anterior al cambio de 2025).
+Chevrolet Aveo de la generación anterior con 2 bolsas, 2019: Adulto 3 estrellas / Infantil 4 estrellas.
+Nissan Versa de la generación anterior con 2 bolsas, 2016: Adulto 3 estrellas / Infantil 2 estrellas.
+Nissan March con 2 bolsas, 2018: Adulto 1 estrella / Infantil 2 estrellas.
+Renault Kwid con 4 bolsas, 2017: Adulto 3 estrellas / Infantil 3 estrellas.
+== Sin prueba de su generación actual ==
+No tienen resultado de Latin NCAP de su generación vigente: Nissan Versa actual, Chevrolet Aveo actual, Mazda CX-30, MG5, Nissan Magnite, RAM 1200, Hyundai Grand i10 actual, Nissan NP300 de trabajo. «Sin prueba» no significa «cero estrellas»: significa que no hay dato.
+== Norma mexicana NOM-194-SE-2021 ==
+Publicada en el DOF el 3 de octubre de 2022. Aplica a vehículos ligeros nuevos de 400 kg a 3,857 kg.
+Obliga a frenos ABS, recordatorio de uso de cinturón, protección a ocupantes en impacto frontal y lateral (desde el 1 de enero de 2024, excluidos los año modelo 2024 y anteriores).
+Control electrónico de estabilidad (ESC) y anclajes ISOFIX o Latch: obligatorios con la misma fecha; en la práctica desde el año modelo 2025.
+Sensor de presión de llantas (TPMS) desde el 1 de enero de 2025.
+Impacto lateral de poste e integridad del sistema de combustible desde el 1 de enero de 2026, excluidos los año modelo 2026 y anteriores.
+El frenado autónomo de emergencia y la protección a peatones son voluntarios en la NOM-194.
+La ficha técnica de cada auto debe decir «Este vehículo contiene los dispositivos de seguridad obligatorios de conformidad con la NOM-194-SE-2021».
+La exposición de motivos de la norma dice que en México mueren alrededor de 16 mil personas al año en siniestros viales.
+

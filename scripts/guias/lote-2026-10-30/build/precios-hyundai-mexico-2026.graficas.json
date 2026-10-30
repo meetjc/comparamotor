@@ -1,0 +1,138 @@
+{
+ "precio-desde": {
+  "titulo": "Precio desde de cada Hyundai en México",
+  "desc": "Versión de entrada de cada modelo, precio de lista al 30 de octubre de 2026. El color indica el tipo de motor.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Grand i10",
+    "valor": 290400,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "HB20",
+    "valor": 376600,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Venue",
+    "valor": 395000,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Creta",
+    "valor": 451000,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Creta Grand",
+    "valor": 566200,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Elantra Híbrido",
+    "valor": 573100,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Tucson",
+    "valor": 619300,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Tucson Híbrida",
+    "valor": 890500,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Santa Fe Híbrida",
+    "valor": 1079500,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Palisade Híbrida",
+    "valor": 1288300,
+    "color": "#1baf7a"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#2a78d6",
+    "texto": "Gasolina"
+   },
+   {
+    "color": "#1baf7a",
+    "texto": "Híbrido"
+   }
+  ],
+  "fuente": "Sitio oficial de Hyundai México, 30 de octubre de 2026."
+ },
+ "rendimiento": {
+  "titulo": "Rendimiento combinado oficial de cada Hyundai",
+  "desc": "Kilómetros por litro (mejor versión de cada modelo). Más es mejor.",
+  "unidad": "km/l",
+  "datos": [
+   {
+    "label": "Elantra Híbrido",
+    "valor": 28.7,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Tucson Híbrida",
+    "valor": 21.3,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Grand i10",
+    "valor": 20.07,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Santa Fe Híbrida",
+    "valor": 19.77,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Venue",
+    "valor": 19.71,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Creta",
+    "valor": 19.68,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "HB20",
+    "valor": 18.5,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Palisade Híbrida",
+    "valor": 17.71,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Creta Grand",
+    "valor": 16.09,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Tucson",
+    "valor": 14.9,
+    "color": "#2a78d6"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "Híbrido"
+   },
+   {
+    "color": "#2a78d6",
+    "texto": "Gasolina"
+   }
+  ],
+  "fuente": "Catálogo de Autocifras con rendimientos oficiales, 25 de octubre de 2026."
+ }
+}

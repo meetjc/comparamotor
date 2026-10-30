@@ -1,0 +1,92 @@
+Escribe en español de México un artículo de blog didáctico para Autocifras (comparador de autos nuevos y medio automotriz en México). Hoy es 30 de octubre de 2026.
+TÍTULO (H1, no lo repitas en el cuerpo): Precios Hyundai 2026 en México: todos los modelos y versiones
+PALABRAS CLAVE (úsalas de forma natural; la principal va en la respuesta inicial y en un H2): precios hyundai 2026, hyundai creta precio, hyundai tucson precio, grand i10 precio, hyundai venue precio
+TEMAS A CUBRIR: Lista de precios Hyundai por modelo y versión (tabla), del más barato al más caro, qué separa una versión de otra (motor, transmisión, seguridad), la gama híbrida y cuánto cuesta frente a la de gasolina, garantía, promociones publicadas por la marca, y cuál conviene por presupuesto. Liga a las fichas de FACTS, a /comparar/ y a /mejores/autos-hibridos/.
+LECTOR: alguien en México que está por comprar o ya tiene un auto y quiere entender el tema sin tecnicismos. Enseña paso a paso, con ejemplos y números, como un buen maestro.
+EXTENSIÓN: entre 1,400 y 1,750 palabras. No te pases de 1,750: prioriza explicar bien sobre repetir datos.
+ESTRUCTURA OBLIGATORIA (devuelve solo HTML del cuerpo; sin <html>, <body> ni <h1>; sin bloques ```):
+1. Primer elemento: <p class="answer">…</p> con la respuesta directa en 2 o 3 frases con cifras de FACTS.
+2. De 7 a 9 secciones <h2>; cada <h2> es la pregunta literal que alguien escribiría en Google (empieza con ¿ y termina con ?). La primera frase debajo de cada <h2> responde directo.
+3. Al menos 2 tablas, cada una así: <div class="tbl-wrap"><table class="tbl"><thead><tr><th>…</th></tr></thead><tbody>…</tbody></table></div>, con datos de FACTS.
+4. Una caja de ejemplo resuelto: <div class="ejemplo"><p><b>Ejemplo:</b> …</p></div> que haga una cuenta paso a paso con cifras de FACTS (solo sumas, restas, multiplicaciones o divisiones simples; muestra la operación).
+5. Una lista ordenada <ol> en una sección titulada como pregunta práctica (por ejemplo «¿Qué revisar antes de…?») con 5 a 7 pasos concretos.
+6. Al final, <h2>Preguntas frecuentes</h2> con EXACTAMENTE esta estructura: <div class="faq"><details><summary>¿Pregunta?</summary><p>Respuesta de 2 a 4 frases.</p></details> …</div> con 4 preguntas distintas a los H2.
+7. Marcadores de figura: inserta exactamente estos comentarios HTML, cada uno solo en su línea entre párrafos, en este orden y repartidos a lo largo del texto (uno cada 1 o 2 secciones, el primero después de la primera sección): <!--FIG:grafica:precio-desde-->  <!--FIG:foto:hyundai-tucson:0-->  <!--FIG:foto:hyundai-venue:0-->  <!--FIG:grafica:rendimiento-->  <!--FIG:foto:hyundai-santa-fe-hibrida:0-->. No escribas etiquetas <img>. No describas la gráfica con «como ves en la gráfica» si no está justo antes.
+8. Enlaces internos con <a href="RUTA">texto descriptivo</a>: de 4 a 6, solo a rutas que aparezcan en FACTS o en esta lista: /comparar/ /autos/ /autos/precios/ /autos-chinos/ /autos-mas-vendidos/ /credito-automotriz/ /costo-total/ /que-me-alcanza/ /mejores/autos-hibridos/ /mejores/autos-electricos/ /mejores/autos-baratos/ /mejores/camionetas/ /mejores/autos-para-plataformas/ /seguro-de-auto/ /promociones/ /tramites/ /hoy-no-circula/ /verificacion-vehicular/ /precio-gasolina/ /glosario/ /metodologia/.
+REGLAS DE CONTENIDO (no negociables):
+- Usa SOLO las cifras de FACTS, copiadas tal cual (mismo monto, porcentaje y fecha). No inventes precios, tasas, fechas, leyes, normas, versiones ni modelos que no estén en FACTS. Puedes derivar números con operaciones simples que muestres.
+- Cuando cites una cifra, di la fuente y la fecha como aparecen en FACTS («según el sitio de BYD México, al 30 de octubre de 2026»).
+- No menciones ni recomiendes otros sitios de autos, comparadores, revistas o portales. Las únicas fuentes que nombras son las de FACTS.
+- No agregues datos, columnas de tabla ni afirmaciones que no estén en FACTS (por ejemplo: número de bolsas de aire, equipo, país de fabricación, ventas, consecuencias legales) aunque creas saberlos. Si una celda no tiene dato en FACTS, no pongas esa columna.
+- No especules ni supongas («probablemente», «habría», «seguramente», «podría costar»). No prometas beneficios que FACTS no dice (reventa, depreciación, seguro más barato, ahorro garantizado).
+- No menciones organismos, pruebas, leyes, apps ni sitios que no estén en FACTS.
+- Cada cifra lleva la fecha que trae en FACTS; no le pongas la fecha de hoy a un dato de otra fecha.
+- No des asesoría financiera ni legal personalizada.
+- No rellenes la palabra clave a la fuerza: si suena mal, adáptala con preposiciones y artículos (por ejemplo «autos seguros en México»).
+PSICOLOGÍA CON ÉTICA: abre con un dato ancla fuerte de FACTS; muestra lo que cuesta no revisar el tema (aversión a la pérdida) con cifras de FACTS; usa prueba social solo con cifras reales de FACTS (ventas, estaciones, resultados). Termina cada sección con una conclusión práctica de una frase.
+ESTILO: frases cortas. Sin clichés de IA («en la era digital», «en el mundo actual», «sin lugar a dudas», «es importante destacar», «crucial», «fundamental», «te guiaremos», «adéntrate»). Sin signos de exclamación. Habla de tú. Párrafos de 2 a 4 frases. Nada de «no es X, es Y».
+FACTS (única fuente de cifras):
+Hoy es 30 de octubre de 2026.
+Precios verificados en vivo el 30 de octubre de 2026 en hyundai.com.mx. Coinciden con el catálogo de Autocifras del 25 de octubre de 2026. El sitio también publica versiones de año modelo 2026 del Grand i10 Sedán, la Santa Fe Híbrida y la Palisade Híbrida.
+Garantía Hyundai México para año modelo 2026 en adelante: básica de 5 años o 100,000 km y tren motriz de 7 años o 150,000 km.
+Ventas de Hyundai en México según el INEGI: septiembre de 2026, 4,273 unidades (3.3% más que en septiembre de 2025); enero a septiembre de 2026, 40,380 unidades (5.0% más).
+Rendimiento combinado oficial: Elantra Híbrido 28.7 km/l; Tucson Híbrida 21.3 km/l; Tucson de gasolina 14.9 km/l; Grand i10 de 18.51 a 20.07 km/l; Venue de 19.12 a 19.71 km/l; Creta de 17.14 a 19.68 km/l.
+Diferencia Tucson Híbrida Limited Tech ($890,500) contra Tucson de gasolina Limited Tech TA ($799,900): $90,600.
+Híbrido (HEV): combina motor de gasolina y uno eléctrico; no se conecta a la luz, la batería se carga sola.
+Las promociones de Hyundai cambian cada mes; las vigentes se publican en hyundai.com.mx.
+== Lista de precios Hyundai por modelo y versión (precio de lista en MXN, 30 de octubre de 2026) ==
+Hyundai Grand i10: hatchback gasolina; desde $290,400 hasta $385,900. Enlace /autos/hyundai/grand-i10/
+  · versión GL TM (Grand i10 HB 2027): $290,400, rendimiento 19.73 km/l
+  · versión GL Mid TM (Grand i10 HB 2027): $321,000, rendimiento 19.73 km/l
+  · versión GL Mid TA (Grand i10 HB 2027): $343,100, rendimiento 18.51 km/l
+  · versión GLS TM (Grand i10 HB 2027): $347,200, rendimiento 19.73 km/l
+  · versión GLS TA (Grand i10 HB 2027): $369,000, rendimiento 18.51 km/l
+  · versión GL TM (Grand i10 Sedán 2027): $307,900, rendimiento 20.07 km/l
+  · versión GL Mid TM (Grand i10 Sedán 2027): $338,900, rendimiento 20.07 km/l
+  · versión GL Mid TA (Grand i10 Sedán 2027): $361,100, rendimiento 19.07 km/l
+  · versión GLS TM (Grand i10 Sedán 2027): $363,700, rendimiento 20.07 km/l
+  · versión GLS TA (Grand i10 Sedán 2027): $385,900, rendimiento 19.07 km/l
+  · versión GL TM (Grand i10 Sedán 2026): $304,000
+  · versión GL Mid TM (Grand i10 Sedán 2026): $334,700
+  · versión GL Mid TA (Grand i10 Sedán 2026): $356,600
+  · versión GLS TM (Grand i10 Sedán 2026): $359,200
+  · versión GLS TA (Grand i10 Sedán 2026): $381,200
+Hyundai HB20: hatchback gasolina; desde $376,600 hasta $470,500. Enlace /autos/hyundai/hb20/
+  · versión GL MT (HB20 Hatchback 2026): $376,600, rendimiento 17.5 km/l
+  · versión GL AT (HB20 Hatchback 2026): $391,400, rendimiento 18.5 km/l
+  · versión GL Mid AT (HB20 Hatchback 2026): $451,600, rendimiento 18.5 km/l
+  · versión GLS AT (HB20 Hatchback 2026): $470,500, rendimiento 18.5 km/l
+  · versión GL MT (HB20 Sedán 2026): $379,300, rendimiento 17.8 km/l
+  · versión GL AT (HB20 Sedán 2026): $395,000, rendimiento 18.5 km/l
+  · versión GL Mid MT (HB20 Sedán 2026): $411,100, rendimiento 17.8 km/l
+  · versión GL Mid AT (HB20 Sedán 2026): $431,800, rendimiento 18.5 km/l
+  · versión GLS AT (HB20 Sedán 2026): $454,200, rendimiento 18.5 km/l
+Hyundai Venue: SUV gasolina; desde $395,000 hasta $449,000. Enlace /autos/hyundai/venue/
+  · versión GL TM (Venue 2027): $395,000, rendimiento 19.71 km/l
+  · versión Limited DCT (Venue 2027): $449,000, rendimiento 19.12 km/l
+Hyundai Creta: SUV gasolina; desde $451,000 hasta $603,400. Enlace /autos/hyundai/creta/
+  · versión GL TM (Creta 2027): $451,000, rendimiento 17.14 km/l
+  · versión GLS IVT (Creta 2027): $499,000, rendimiento 17.86 km/l
+  · versión GLS Premium IVT (Creta 2027): $527,600, rendimiento 17.86 km/l
+  · versión Limited Turbo (Creta 2027): $603,400, rendimiento 19.68 km/l
+Hyundai Creta Grand: SUV gasolina; desde $566,200 hasta $623,300. Enlace /autos/hyundai/creta-grand/
+  · versión GLS Premium AT (Creta Grand 2027): $566,200, rendimiento 16.09 km/l
+  · versión Limited AT (Creta Grand 2027): $623,300, rendimiento 16.09 km/l
+Hyundai Elantra Híbrido: sedán híbrido; desde $573,100 hasta $645,500. Enlace /autos/hyundai/elantra-hibrido/
+  · versión GLS Híbrido (Elantra Híbrido 2026): $573,100, rendimiento 28.7 km/l
+  · versión GLS Premium Híbrido (Elantra Híbrido 2026): $645,500, rendimiento 28.7 km/l
+Hyundai Tucson: SUV gasolina; desde $619,300 hasta $799,900. Enlace /autos/hyundai/tucson/
+  · versión GLS TA (Tucson 2026): $619,300, rendimiento 14.9 km/l
+  · versión Limited TA (Tucson 2026): $696,200, rendimiento 14.9 km/l
+  · versión Limited Tech TA (Tucson 2026): $799,900, rendimiento 14.9 km/l
+Hyundai Tucson Híbrida: SUV híbrido; desde $890,500. Enlace /autos/hyundai/tucson-hibrida/
+  · versión Limited Tech Híbrida (Tucson Híbrida 2026): $890,500, rendimiento 21.3 km/l
+Hyundai Santa Fe Híbrida: SUV híbrido; desde $1,079,500 hasta $1,175,100. Enlace /autos/hyundai/santa-fe-hibrida/
+  · versión GLS Premium Híbrida (Santa Fe Híbrida 2026): $1,079,500, rendimiento 19.77 km/l
+  · versión Limited Tech Híbrida (Santa Fe Híbrida 2026): $1,156,800
+  · versión Limited Tech TA Híbrida (Santa Fe Híbrida 2027): $1,175,100, rendimiento 19.77 km/l
+Hyundai Palisade Híbrida: SUV híbrido; desde $1,288,300 hasta $1,298,100. Enlace /autos/hyundai/palisade-hibrida/
+  · versión Limited Tech Híbrida (Palisade Híbrida 2026): $1,288,300
+  · versión Limited Tech AWD Híbrida (Palisade Híbrida 2027): $1,298,100, rendimiento 17.71 km/l
+El Hyundai más barato: Grand i10 desde $290,400. El modelo de entrada más caro: Palisade Híbrida desde $1,288,300. Diferencia: $997,900.
+Modelos con precio publicado: 10. Versiones con precio: 43.

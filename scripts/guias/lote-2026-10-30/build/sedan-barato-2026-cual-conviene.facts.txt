@@ -1,0 +1,21 @@
+Hoy es 30 de octubre de 2026. Precios de lista verificados en el sitio oficial de cada marca el 30 de octubre de 2026, salvo donde se indica.
+Todos estos sedanes traen 6 bolsas de aire según la ficha oficial de cada marca.
+Rendimiento: combinado oficial de la versión de entrada (CONUEE, Catálogo de rendimientos 2026, o ficha de la marca). Honda no publica el rendimiento del City.
+Cajuela en litros según la ficha oficial. El Versa tiene 466 o 482 L según versión. El brochure del Honda City dice 581 litros.
+Latin NCAP: un resultado de antes de 2020 usa otra escala (estrellas separadas para adulto e infantil) y no se compara con uno reciente. «Sin prueba» no significa «cero estrellas».
+Gasto de gasolina al año con 15,000 km (cálculo de Autocifras con regular a $23.69 por litro, promedio nacional de la CNE al 30 de octubre de 2026): fórmula 15,000 ÷ rendimiento × $23.69.
+== Sedanes por precio de entrada ==
+MG5: desde $299,900 (Style MT) hasta $399,000 (Elegance CVT); motor 1.5 L de 4 cilindros, 109 hp; transmisión manual o CVT; rendimiento 16.7 km/l; cajuela 406 L; gasolina al año con 15,000 km $21,278; Latin NCAP: sin resultado de Latin NCAP. Enlace /autos/mg/mg5/
+Volkswagen Virtus: desde $322,490 (Trendline MT) hasta $399,490 (Highline AT); motor 1.6 L de 110 hp o 1.0 TSI de 114 hp; transmisión manual de 5 o Tiptronic de 6; rendimiento 16.5 km/l; cajuela 521 L; gasolina al año con 15,000 km $21,536; Latin NCAP: 5 estrellas (prueba 2022, Nuevo Virtus con 6 bolsas). Enlace /autos/volkswagen/virtus/
+Chevrolet Aveo Sedán: desde $332,800 (LS Manual) hasta $390,000 (LT Plus); motor 1.5 L de 4 cilindros, 98 hp; transmisión manual de 6 o CVT; rendimiento 20.44 km/l; cajuela 475 L; gasolina al año con 15,000 km $17,385; Latin NCAP: sin prueba de la generación actual (la anterior, 2019: 3 estrellas adulto / 4 infantil, con 2 bolsas). Enlace /autos/chevrolet/aveo/
+Chevrolet Onix: desde $353,100 (LS Manual) hasta $452,300 (Premier Redline); motor 1.3 L de 3 cilindros, 101 hp (manual) o 1.0 L turbo, 116 hp (automática); transmisión manual de 5 o automática de 6; rendimiento 23.43 km/l; cajuela 469 L; gasolina al año con 15,000 km $15,166; Latin NCAP: 5 estrellas adulto / 5 infantil (prueba 2019, protocolo anterior a 2020). Enlace /autos/chevrolet/onix/
+Nissan Versa: desde $374,900 (Sense Base TM) hasta $470,900 (Exclusive CVT); motor 1.6 L de 4 cilindros, 118 hp; transmisión manual de 5 o CVT; rendimiento 19.06 km/l; cajuela 466 L; gasolina al año con 15,000 km $18,644; Latin NCAP: sin prueba de la generación actual (la anterior, 2016: 3 estrellas adulto / 2 infantil, con 2 bolsas). Enlace /autos/nissan/versa/
+Honda City: desde $408,900 (Sport CVT) hasta $471,900 (Touring CVT); motor 1.5 L i-VTEC, 119 hp; transmisión solo CVT; rendimiento no publicado km/l; cajuela 581 L; rendimiento no publicado; Latin NCAP: sin prueba de la generación actual. Enlace /autos/honda/city/
+Precio especial del MG5 Style MT publicado por MG México: $274,900 (lista $299,900). Elegance CVT: $339,000 especial (lista $399,000).
+Volkswagen publica hoy en la página del Virtus un «precio de contado desde» de $309,990 (Trendline), $389,990 (Comfortline) y $399,990 (Highline). La lista del configurador del 25 de octubre de 2026: $322,490 (Trendline MT) y $399,490 (Highline AT).
+Rendimientos de otras versiones: Aveo CVT 18.01 km/l; Onix automático 23.32 km/l y Premier 21.97 km/l; Versa CVT 20.69 km/l; Virtus 1.0 TSI 17.5 km/l; MG5 CVT 18 km/l.
+Ventas enero a septiembre de 2026 (AMDA con datos del INEGI): Nissan Versa 59,621 (el más vendido de México); Chevrolet Aveo 51,698 (segundo); MG5 20,881 (octavo).
+== Ejemplo resuelto: diferencia de gasolina Onix contra Virtus a 15,000 km al año ==
+Onix: 15,000 ÷ 23.43 = 640 litros × $23.69 = $15,166. Virtus: 15,000 ÷ 16.5 = 909 litros × $23.69 = $21,536. Diferencia: $6,370 al año.
+Diferencia de precio de entrada Versa contra Aveo Sedán: $42,100. Aveo Sedán contra Onix: $20,300. Virtus contra Versa: $52,410.
+Cálculo de Autocifras: diferencia de gasolina al año con 15,000 km Aveo Sedán contra Onix: $17,385 − $15,166 = $2,219.

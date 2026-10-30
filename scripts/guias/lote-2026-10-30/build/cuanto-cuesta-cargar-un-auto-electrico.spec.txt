@@ -1,0 +1,49 @@
+Escribe en español de México un artículo de blog didáctico para Autocifras (comparador de autos nuevos y medio automotriz en México). Hoy es 30 de octubre de 2026.
+TÍTULO (H1, no lo repitas en el cuerpo): ¿Cuánto cuesta cargar un auto eléctrico en México y cuánto ahorras?
+PALABRAS CLAVE (úsalas de forma natural; la principal va en la respuesta inicial y en un H2): cuanto cuesta cargar un auto electrico, autos electricos en mexico, autos electricos baratos, tarifa cfe auto electrico
+TEMAS A CUBRIR: Cómo se mide el consumo (kWh por cada 100 km) explicado fácil, tarifas de la CFE por bloque y por qué cargar en casa puede subirte de bloque o a tarifa DAC, costo de una carga completa y costo por kilómetro de varios eléctricos de FACTS (con la operación), comparación contra un auto de gasolina con el precio de gasolina de FACTS, ahorro al año a 10,000, 15,000 y 20,000 km, carga pública, y para quién conviene. Liga a /mejores/autos-electricos/, a /costo-total/ y a /precio-gasolina/.
+LECTOR: alguien en México que está por comprar o ya tiene un auto y quiere entender el tema sin tecnicismos. Enseña paso a paso, con ejemplos y números, como un buen maestro.
+EXTENSIÓN: entre 1,400 y 1,750 palabras. No te pases de 1,750: prioriza explicar bien sobre repetir datos.
+ESTRUCTURA OBLIGATORIA (devuelve solo HTML del cuerpo; sin <html>, <body> ni <h1>; sin bloques ```):
+1. Primer elemento: <p class="answer">…</p> con la respuesta directa en 2 o 3 frases con cifras de FACTS.
+2. De 7 a 9 secciones <h2>; cada <h2> es la pregunta literal que alguien escribiría en Google (empieza con ¿ y termina con ?). La primera frase debajo de cada <h2> responde directo.
+3. Al menos 2 tablas, cada una así: <div class="tbl-wrap"><table class="tbl"><thead><tr><th>…</th></tr></thead><tbody>…</tbody></table></div>, con datos de FACTS.
+4. Una caja de ejemplo resuelto: <div class="ejemplo"><p><b>Ejemplo:</b> …</p></div> que haga una cuenta paso a paso con cifras de FACTS (solo sumas, restas, multiplicaciones o divisiones simples; muestra la operación).
+5. Una lista ordenada <ol> en una sección titulada como pregunta práctica (por ejemplo «¿Qué revisar antes de…?») con 5 a 7 pasos concretos.
+6. Al final, <h2>Preguntas frecuentes</h2> con EXACTAMENTE esta estructura: <div class="faq"><details><summary>¿Pregunta?</summary><p>Respuesta de 2 a 4 frases.</p></details> …</div> con 4 preguntas distintas a los H2.
+7. Marcadores de figura: inserta exactamente estos comentarios HTML, cada uno solo en su línea entre párrafos, en este orden y repartidos a lo largo del texto (uno cada 1 o 2 secciones, el primero después de la primera sección): <!--FIG:grafica:ev-vs-gas-->  <!--FIG:foto:byd-dolphin-mini:0-->  <!--FIG:grafica:bloques-->  <!--FIG:foto:mg-mg4:0-->  <!--FIG:foto:geely-ex2:0-->. No escribas etiquetas <img>. No describas la gráfica con «como ves en la gráfica» si no está justo antes.
+8. Enlaces internos con <a href="RUTA">texto descriptivo</a>: de 4 a 6, solo a rutas que aparezcan en FACTS o en esta lista: /comparar/ /autos/ /autos/precios/ /autos-chinos/ /autos-mas-vendidos/ /credito-automotriz/ /costo-total/ /que-me-alcanza/ /mejores/autos-hibridos/ /mejores/autos-electricos/ /mejores/autos-baratos/ /mejores/camionetas/ /mejores/autos-para-plataformas/ /seguro-de-auto/ /promociones/ /tramites/ /hoy-no-circula/ /verificacion-vehicular/ /precio-gasolina/ /glosario/ /metodologia/.
+REGLAS DE CONTENIDO (no negociables):
+- Usa SOLO las cifras de FACTS, copiadas tal cual (mismo monto, porcentaje y fecha). No inventes precios, tasas, fechas, leyes, normas, versiones ni modelos que no estén en FACTS. Puedes derivar números con operaciones simples que muestres.
+- Cuando cites una cifra, di la fuente y la fecha como aparecen en FACTS («según el sitio de BYD México, al 30 de octubre de 2026»).
+- No menciones ni recomiendes otros sitios de autos, comparadores, revistas o portales. Las únicas fuentes que nombras son las de FACTS.
+- No agregues datos, columnas de tabla ni afirmaciones que no estén en FACTS (por ejemplo: número de bolsas de aire, equipo, país de fabricación, ventas, consecuencias legales) aunque creas saberlos. Si una celda no tiene dato en FACTS, no pongas esa columna.
+- No especules ni supongas («probablemente», «habría», «seguramente», «podría costar»). No prometas beneficios que FACTS no dice (reventa, depreciación, seguro más barato, ahorro garantizado).
+- No menciones organismos, pruebas, leyes, apps ni sitios que no estén en FACTS.
+- Cada cifra lleva la fecha que trae en FACTS; no le pongas la fecha de hoy a un dato de otra fecha.
+- No des asesoría financiera ni legal personalizada.
+- No rellenes la palabra clave a la fuerza: si suena mal, adáptala con preposiciones y artículos (por ejemplo «autos seguros en México»).
+PSICOLOGÍA CON ÉTICA: abre con un dato ancla fuerte de FACTS; muestra lo que cuesta no revisar el tema (aversión a la pérdida) con cifras de FACTS; usa prueba social solo con cifras reales de FACTS (ventas, estaciones, resultados). Termina cada sección con una conclusión práctica de una frase.
+ESTILO: frases cortas. Sin clichés de IA («en la era digital», «en el mundo actual», «sin lugar a dudas», «es importante destacar», «crucial», «fundamental», «te guiaremos», «adéntrate»). Sin signos de exclamación. Habla de tú. Párrafos de 2 a 4 frases. Nada de «no es X, es Y».
+FACTS (única fuente de cifras):
+Hoy es 30 de octubre de 2026.
+== Tarifas de la CFE para casa (Tarifa 1), octubre de 2026, por kWh ==
+Consumo básico, primeros 75 kWh del mes: $1.140. Intermedio, siguientes 65 kWh: $1.385. Excedente, lo que pase de 140 kWh: $4.054. En noviembre de 2026: $1.144, $1.389 y $4.067.
+Tarifa DAC (doméstica de alto consumo), octubre de 2026: cargo fijo de $145.79 al mes más $6.142 a $6.730 por kWh según la región (región Central: $6.730). Una casa pasa a DAC cuando su promedio pasa de 250 kWh al mes en Tarifa 1.
+Los cálculos de Autocifras usan las tarifas publicadas por la CFE, sin IVA.
+Segundo medidor: la CFE dice que, si el cargador se instala en casa, «es posible solicitar un medidor independiente para facturar exclusivamente lo que consume la electrolinera sin afectar la tarifa doméstica». El medidor no tiene costo; la CFE pide instalación por electricista certificado, ficha técnica y certificado del cargador. La CFE no publica qué tarifa aplica a ese medidor.
+Carga pública: ningún operador en México publica un precio fijo por kWh. Tesla usa precio dinámico en su app y publica un cargo por congestión de $10 por minuto.
+Qué es kWh/100 km: los kilowatts-hora que gasta el auto para recorrer 100 km. Es el equivalente eléctrico del rendimiento en km/l, pero al revés: menos es mejor.
+Fórmula: kWh al mes = kilómetros al mes ÷ 100 × consumo (kWh/100 km). Costo = kWh × precio del kWh.
+Precio de la gasolina regular al 30 de octubre de 2026: $23.69 por litro (promedio nacional, CNE). Un Nissan Versa (19.06 km/l) gasta $1,243 al mes con 1,000 km; costo por km $1.24.
+== Consumo oficial y costo de cada eléctrico (cálculo de Autocifras, 1,000 km al mes = 100 kWh por cada 10 kWh/100 km) ==
+BYD Dolphin Mini: precio desde $399,800 (sitio oficial, 25 de octubre de 2026); autonomía 300 km; consumo oficial 10 kWh/100 km (ciclo NEDC); con 1,000 km al mes usa 100 kWh; costo al mes a $1.385 (intermedio) $138; a $4.054 (excedente) $405; a $6.730 (DAC Central) $673; costo por km en excedente $0.41. Enlace /autos/byd/dolphin-mini/
+Geely EX2: precio desde $389,900 (sitio oficial, 25 de octubre de 2026); autonomía 395 km; consumo oficial 11.8 kWh/100 km (ciclo NEDC); con 1,000 km al mes usa 118 kWh; costo al mes a $1.385 (intermedio) $163; a $4.054 (excedente) $478; a $6.730 (DAC Central) $794; costo por km en excedente $0.48. Enlace /autos/geely/ex2/
+Geely EX5: precio desde $699,900 (sitio oficial, 25 de octubre de 2026); autonomía 470 km; consumo oficial 14 kWh/100 km (ciclo NEDC); con 1,000 km al mes usa 140 kWh; costo al mes a $1.385 (intermedio) $194; a $4.054 (excedente) $568; a $6.730 (DAC Central) $942; costo por km en excedente $0.57. Enlace /autos/geely/ex5/
+BYD Seal RWD: precio desde $778,800 (sitio oficial, 25 de octubre de 2026); autonomía 460 km; consumo oficial 15.4 kWh/100 km (ciclo WLTC); con 1,000 km al mes usa 154 kWh; costo al mes a $1.385 (intermedio) $213; a $4.054 (excedente) $624; a $6.730 (DAC Central) $1,036; costo por km en excedente $0.62. Enlace /autos/byd/seal/
+MG4: precio desde $499,000 (sitio oficial, 25 de octubre de 2026); autonomía 350 km; consumo oficial 17.0 kWh/100 km (ciclo WLTP); con 1,000 km al mes usa 170 kWh; costo al mes a $1.385 (intermedio) $235; a $4.054 (excedente) $689; a $6.730 (DAC Central) $1,144; costo por km en excedente $0.69. Enlace /autos/mg/mg4/
+== Ejemplo resuelto (BYD Dolphin Mini, 1,000 km al mes, todo en excedente) ==
+1,000 km ÷ 100 × 10 kWh = 100 kWh. 100 kWh × $4.054 = $405 al mes. Contra un Versa de gasolina ($1,243 al mes) la diferencia es $838 al mes y $10,056 al año.
+Ahorro al año del Dolphin Mini contra el Versa, cargando en excedente: 10,000 km al año $8,375; 15,000 km $12,563; 20,000 km $16,750.
+Cuidado con el bloque: si tu casa ya gasta 140 kWh al mes, todo lo que cargue el auto se cobra en excedente ($4.054). Si el promedio de la casa con el auto pasa de 250 kWh al mes, la casa entera pasa a DAC. Por eso existe el segundo medidor.
+Autos eléctricos más baratos del catálogo de Autocifras (precio de lista desde, 25 de octubre de 2026): JAC E10X $371,000; Geely EX2 $389,900; BYD Dolphin Mini $399,800; MG4 $499,000. Enlaces /autos/jac/e10x/ /autos/geely/ex2/ /autos/byd/dolphin-mini/ /autos/mg/mg4/

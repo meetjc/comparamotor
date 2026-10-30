@@ -1,0 +1,210 @@
+<p class="answer">Qué holograma te toca depende del tipo de motor y del año de tu auto. Hay cinco: Exento para eléctricos e híbridos, 00 para autos nuevos de la lista oficial, 0 para gasolina modelo 2006 en adelante que pasan la prueba OBD, 1 para modelos 1994 a 2005 y 2 para modelos 1993 y anteriores. Si circulas en un día restringido en la CDMX, la multa va de $2,346.20 a $3,519.30 y el auto puede ir al depósito.</p>
+
+<h2>¿Qué es el holograma de verificación y quién lo da?</h2>
+
+<p>El holograma es la calcomanía que te da el verificentro cuando tu auto aprueba la verificación. Piensa en él como una calificación: entre más limpio sale tu auto, más días puede circular. Hay cinco: Exento, 00, 0, 1 y 2.</p>
+
+<p>Las reglas que explicamos aquí son las del Programa de Verificación Vehicular Obligatoria del segundo semestre de 2026. En la Ciudad de México salieron en la Gaceta Oficial del 1 de julio de 2026. En el Estado de México, en la Gaceta del Gobierno del 30 de junio de 2026.</p>
+
+<p>El holograma también define qué días descansa tu auto en el <a href="/hoy-no-circula/">Hoy No Circula</a>, un decreto de la CDMX y la SEDEMA verificado por Autocifras el 20 de octubre de 2026.</p>
+
+<p>Antes de ir al verificentro, revisa en qué grupo cae tu auto para saber qué esperar.</p>
+
+<!--FIG:grafica:vigencia-->
+
+<h2>¿Qué holograma me toca según mi auto?</h2>
+
+<p>Te toca según la tecnología del motor y el año del modelo. Por ejemplo: un sedán de gasolina modelo 2010 que pasa la prueba OBD recibe 0. El mismo tipo de auto, pero modelo 2003, recibe 1 si pasa los límites de gases.</p>
+
+<p>Esta tabla resume cada holograma con las reglas del segundo semestre de 2026.</p>
+
+<div class="tbl-wrap">
+<table class="tbl">
+<thead>
+<tr>
+<th>Holograma</th>
+<th>A quién le toca</th>
+<th>Vigencia</th>
+<th>Qué días circula</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Exento</td>
+<td>Eléctricos y de celda de combustible; híbridos HEV, PHEV y REEV de la lista de SEDEMA</td>
+<td>Eléctricos: permanente. Híbridos: 6 años</td>
+<td>Todos los días, también en contingencia ambiental</td>
+</tr>
+<tr>
+<td>00</td>
+<td>Autos nuevos que estén en la lista oficial</td>
+<td>2 años</td>
+<td>Todos los días; en contingencia puede tener restricción si la CAMe la dicta</td>
+</tr>
+<tr>
+<td>0</td>
+<td>Gasolina modelo 2006 en adelante que aprueban la prueba OBD; diésel modelo 2012 en adelante con opacidad de hasta 1.0 m-1</td>
+<td>6 meses</td>
+<td>Todos los días, salvo en contingencia ambiental</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Gasolina modelo 1994 a 2005 que pasan los límites de gases</td>
+<td>6 meses</td>
+<td>Descansa un día entre semana y dos sábados al mes</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Modelos 1993 y anteriores, y diésel que no llegan a 0 o 1</td>
+<td>6 meses</td>
+<td>Descansa un día entre semana y todos los sábados</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<p>Ubica primero el año y el combustible de tu auto en la tabla; con eso ya sabes qué holograma buscar.</p>
+
+<h2>¿Por qué un auto nuevo trae holograma 00 y cuánto dura?</h2>
+
+<p>El holograma 00 es para autos nuevos que estén en la lista oficial. Dura 2 años, contra 6 meses del 0, el 1 y el 2. Con 00 tu auto circula todos los días; en contingencia ambiental puede tener restricción si la Comisión Ambiental de la Megalópolis (CAMe) la dicta.</p>
+
+<p>Cuántas veces puedes recibirlo depende de la certificación de emisiones del auto. Imagina tres autos nuevos. El primero está certificado Tier 3 Bin 160 o Euro 6: puede recibir el 00 hasta en 3 ocasiones. El segundo es Tier 2 Bin 5 o Euro 5 y rinde 16 km/l o más en ciclo combinado: hasta en 2 ocasiones. El tercero solo cumple el estándar nacional: recibe el 00 en 1 ocasión. En ese tercer grupo entran también los híbridos ligeros.</p>
+
+<p>Si vas a comprar, pregunta por la certificación de emisiones del modelo; de eso depende cuántas veces repites el 00. Puedes empezar por la lista de <a href="/autos/">autos nuevos</a>.</p>
+
+<!--FIG:foto:toyota-corolla:0-->
+
+<h2>¿Qué autos pueden tener el holograma 0?</h2>
+
+<p>El holograma 0 es para autos de gasolina modelo 2006 en adelante que aprueban la prueba OBD. Esa prueba es la lectura de la computadora del auto. En diésel, el 0 es para modelos 2012 en adelante con opacidad de hasta 1.0 m-1.</p>
+
+<p>El 0 dura 6 meses, así que verificas dos veces al año. A cambio, tu auto circula todos los días, salvo en contingencia ambiental. Un hatchback de gasolina modelo 2015 que aprueba la prueba OBD, por ejemplo, sale con 0 y no descansa ningún sábado.</p>
+
+<p>Si tu auto es 2006 o más nuevo, el 0 es la meta realista en cada verificación.</p>
+
+<h2>¿Cómo pasar de holograma 1 a 0?</h2>
+
+<p>La regla general es simple: el 0 se da por la prueba OBD a modelos 2006 en adelante. Un auto modelo 1994 a 2005 recibe 1. Por eso el año del modelo decide casi siempre.</p>
+
+<p>Hay una excepción, y es exclusiva del Estado de México. Un auto modelo 2000 a 2005 al que se le cambia el convertidor catalítico en un Taller PIREC puede obtener 0 hasta por 3 semestres. Por ejemplo, un compacto modelo 2004 con placas del Estado de México y convertidor nuevo de un Taller PIREC puede salir con 0 en vez de 1.</p>
+
+<p>Si tu auto es 2000 a 2005 y está matriculado en el Estado de México, pregunta por un Taller PIREC antes de tu próxima verificación.</p>
+
+<h2>¿Qué días no circulan los hologramas 1 y 2 en el Hoy No Circula de la CDMX?</h2>
+
+<p>En el Hoy No Circula de la CDMX, los hologramas 1 y 2 descansan un día entre semana según el último dígito de la placa, de 5:00 a 22:00 h. Los domingos no aplica. Este es el calendario:</p>
+
+<div class="tbl-wrap">
+<table class="tbl">
+<thead>
+<tr>
+<th>Día que no circula</th>
+<th>Color del engomado</th>
+<th>Último dígito de la placa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lunes</td>
+<td>Amarillo</td>
+<td>5 y 6</td>
+</tr>
+<tr>
+<td>Martes</td>
+<td>Rosa</td>
+<td>7 y 8</td>
+</tr>
+<tr>
+<td>Miércoles</td>
+<td>Rojo</td>
+<td>3 y 4</td>
+</tr>
+<tr>
+<td>Jueves</td>
+<td>Verde</td>
+<td>1 y 2</td>
+</tr>
+<tr>
+<td>Viernes</td>
+<td>Azul</td>
+<td>9 y 0</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<p>Los sábados cambian según el holograma. Con 1, la terminación impar (1, 3, 5, 7, 9) descansa el primer y el tercer sábado; la par (0, 2, 4, 6, 8), el segundo y el cuarto. El quinto sábado circula, salvo aviso. Con 2, el auto no circula ningún sábado del mes.</p>
+
+<div class="ejemplo">
+<p><b>Ejemplo:</b> Tienes un auto con holograma 1 y placa terminación 7. Entre semana descansa los martes (engomado rosa). Como 7 es impar, también descansa el primer y el tercer sábado. En un mes con 4 martes y 4 sábados: 4 martes + 2 sábados = 6 días sin circular. Con holograma 2, el mismo auto descansaría 4 martes + 4 sábados = 8 días. Con holograma 0, ninguno fuera de contingencia.</p>
+</div>
+
+<p>Anota tu día y tus sábados en el calendario del celular para no equivocarte.</p>
+
+<!--FIG:grafica:dias-sin-circular-->
+
+<h2>¿Qué holograma les toca a los híbridos y eléctricos?</h2>
+
+<p>Los autos eléctricos, y los de celda de combustible, tienen holograma Exento permanente en la CDMX y en el Estado de México. Con Exento, el auto circula todos los días, también en contingencia ambiental.</p>
+
+<p>Los híbridos HEV, PHEV y REEV tienen Exento por 6 años en ambas entidades. En la CDMX hay una renovación si el auto está matriculado ahí; para autos de otros estados, son 2 años. El trámite es gratuito. El requisito es que el modelo esté en la lista de candidatos de SEDEMA.</p>
+
+<p>Ojo con los híbridos ligeros (MHEV): no son exentos y entran a 00 o 0. Si te dicen «es híbrido», pregunta si es HEV, PHEV, REEV o MHEV.</p>
+
+<p>Antes de comprar, confirma que el modelo esté en la lista de candidatos de SEDEMA. Puedes comparar opciones en <a href="/mejores/autos-hibridos/">los mejores autos híbridos</a> y <a href="/mejores/autos-electricos/">los mejores autos eléctricos</a>.</p>
+
+<!--FIG:foto:kia-sportage-hibrida:0-->
+
+<h2>¿Qué pasa en contingencia ambiental fase 1 con cada holograma?</h2>
+
+<p>En contingencia ambiental fase 1, la CAMe restringe a casi todos los hologramas:</p>
+
+<ul>
+<li>Holograma 2: no circula ninguno.</li>
+<li>Holograma 1: no circula la mitad, terminación par o impar, de forma alternada.</li>
+<li>Holograma 0 y 00: no circulan los que tengan la terminación del Hoy No Circula de ese día.</li>
+<li>Exento: circula.</li>
+</ul>
+
+<p>Un ejemplo: si la contingencia cae en martes, un auto con holograma 0 y placa terminación 8 no circula ese día, porque el martes le toca a la terminación 7 y 8.</p>
+
+<p>No es un caso raro. En 2026 hubo 6 contingencias fase 1 por ozono con restricción a autos: enero, dos en febrero, marzo, abril y septiembre. La última empezó el 12 de septiembre de 2026.</p>
+
+<p>Aunque tengas 0 o 00, revisa si hay contingencia antes de salir.</p>
+
+<h2>¿Cómo saber hoy si mi auto circula?</h2>
+
+<p>Para saber si circulas hoy necesitas tres datos: tu holograma, el último dígito de tu placa y si hay contingencia. Vale la pena: circular en día restringido en la CDMX tiene multa de 20 a 30 UMA, de $2,346.20 a $3,519.30, y el auto puede ir al depósito. Sigue estos pasos:</p>
+
+<ol>
+<li>Revisa qué holograma te dio el verificentro en tu última verificación y que siga vigente.</li>
+<li>Si es Exento, circulas todos los días, también en contingencia.</li>
+<li>Si es 00 o 0, circulas todos los días mientras no haya contingencia ambiental.</li>
+<li>Si es 1 o 2, busca el último dígito de tu placa en el calendario de la CDMX para saber qué día entre semana descansas, de 5:00 a 22:00 h.</li>
+<li>Si hoy es sábado y tienes 1, revisa si tu placa es par o impar y qué número de sábado es en el mes. Con 2, no circulas.</li>
+<li>Revisa si la CAMe declaró contingencia fase 1 y aplica la regla de tu holograma.</li>
+</ol>
+
+<p>Haz esta revisión antes de salir. Para el proceso completo, revisa la guía de <a href="/verificacion-vehicular/">verificación vehicular</a> y los demás <a href="/tramites/">trámites del auto</a>.</p>
+
+<h2>Preguntas frecuentes</h2>
+
+<div class="faq">
+<details>
+<summary>¿El holograma 0 circula en contingencia ambiental?</summary>
+<p>Depende de tu placa. En contingencia fase 1, los autos con 0 y 00 que tengan la terminación del Hoy No Circula de ese día no circulan. Los demás sí.</p>
+</details>
+<details>
+<summary>¿Qué pasa si mi auto no tiene holograma vigente?</summary>
+<p>Si tu auto está matriculado en la CDMX y no tiene holograma vigente, se trata como holograma 2. Eso significa que descansa un día entre semana según la placa y no circula ningún sábado del mes.</p>
+</details>
+<details>
+<summary>¿Los híbridos ligeros tienen holograma Exento?</summary>
+<p>No. Los híbridos ligeros (MHEV) entran a 00 o 0. Si reciben 00 por cumplir el estándar nacional, es en 1 ocasión.</p>
+</details>
+<details>
+<summary>¿Cuánto cuesta la verificación en 2026?</summary>
+<p>En la CDMX, cualquier constancia de verificación cuesta $765.45. En el Estado de México, el holograma 00 cuesta $1,196.56; el 0, $610.01, y el 1 y el 2, $469.24, con la UMA 2026 de $117.31. El trámite del Exento para híbridos es gratuito.</p>
+</details>
+</div>

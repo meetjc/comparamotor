@@ -1,0 +1,38 @@
+Hoy es 30 de octubre de 2026.
+Precios verificados en vivo el 30 de octubre de 2026 en el configurador oficial de byd.com/mx. Coinciden con el catálogo de Autocifras del 25 de octubre de 2026.
+El King DM-i anterior (GL de 8.3 kWh) ya no aparece en el sitio de BYD México; hoy se vende el King 2027.
+BYD tenía 108 puntos de venta en su localizador oficial al 30 de octubre de 2026.
+BYD no reporta sus ventas al INEGI (no aparece en el Registro Administrativo de la Industria Automotriz de Vehículos Ligeros), así que no hay cifra oficial de ventas de la marca en México.
+Garantía publicada por BYD México en la página del Song Pro DM-i: batería 8 años o 200,000 km; defensa a defensa 6 años o 150,000 km; sistema de alto voltaje y motor 8 años o 150,000 km. BYD no publica la garantía de cada modelo en su página.
+Eléctrico (BEV): solo se carga en un enchufe; la autonomía es la distancia oficial con una carga. Híbrido enchufable (DM-i, DM-p): tiene motor de gasolina y batería que se carga; la autonomía eléctrica es lo que recorre sin usar gasolina.
+Las promociones de BYD cambian cada mes; las vigentes se publican en byd.com/mx.
+== Lista de precios BYD por modelo y versión (precio de lista en MXN, 30 de octubre de 2026) ==
+BYD Dolphin Mini: hatchback eléctrico; desde $399,800 hasta $415,800; autonomía oficial 300 o 380 km. Enlace /autos/byd/dolphin-mini/
+  · versión DOLPHIN MINI 5 Seats 300km GL (Dolphin Mini): $399,800, autonomía 300 km
+  · versión DOLPHIN MINI 5 Seats 380km GS (Dolphin Mini): $415,800, autonomía 380 km
+BYD Yuan Pro DM-i: SUV híbrido enchufable; desde $519,999; autonomía eléctrica oficial 45 km. Enlace /autos/byd/yuan-pro-dmi/
+  · versión YUAN PRO DM-i GL (Yuan Pro DM-i): $519,999, autonomía 45 km
+BYD King DM-i: sedán híbrido enchufable; desde $524,900 hasta $579,900; autonomía eléctrica oficial 50 o 170 km. Enlace /autos/byd/king/
+  · versión BYD KING DM-i GL (King 2027): $524,900, autonomía 50 km
+  · versión BYD KING DM-i GS (King 2027): $579,900, autonomía 170 km
+BYD Yuan Pro: SUV eléctrico; desde $579,800; autonomía oficial 380 km. Enlace /autos/byd/yuan-pro/
+  · versión YUAN PRO 380km (Yuan Pro (EV)): $579,800, autonomía 380 km
+BYD Song Pro DM-i: SUV híbrido enchufable; desde $599,880; autonomía eléctrica oficial 71 km. Enlace /autos/byd/song-pro/
+  · versión SONG PRO DM-i 1.5L FWD 71km (Song Pro DM-i): $599,880, autonomía 71 km
+BYD Seal: sedán eléctrico; desde $778,800 hasta $888,800; autonomía oficial 460 o 520 km. Enlace /autos/byd/seal/
+  · versión SEAL RWD 460km (Seal): $778,800, autonomía 460 km
+  · versión SEAL AWD 520km (Seal): $888,800, autonomía 520 km
+BYD Song Plus DM-i: SUV híbrido enchufable; desde $778,800; autonomía eléctrica oficial 105 km. Enlace /autos/byd/song-plus/
+  · versión SONG PLUS DM-i 1.5T FWD 105km (Song Plus DM-i): $778,800, autonomía 105 km
+BYD Shark: pickup híbrido enchufable; desde $899,980 hasta $969,800; autonomía eléctrica oficial 100 km. Enlace /autos/byd/shark/
+  · versión BYD SHARK GL MY26 (Shark): $899,980, autonomía 100 km
+  · versión BYD SHARK GS MY26 (Shark): $969,800, autonomía 100 km
+BYD Sealion 7: SUV eléctrico; desde $949,800; autonomía oficial 456 km. Enlace /autos/byd/sealion-7/
+  · versión SEALION 7 AWD 456km (Sealion 7): $949,800, autonomía 456 km
+BYD M9: van híbrido enchufable; desde $979,800; autonomía eléctrica oficial 95 km. Enlace /autos/byd/m9/
+  · versión BYD M9 GL (M9): $979,800, autonomía 95 km
+BYD Atto 8: SUV híbrido enchufable; desde $1,199,800; autonomía eléctrica oficial 152 km. Enlace /autos/byd/atto-8/
+  · versión ATTO 8 DM-p (Atto 8): $1,199,800, autonomía 152 km
+El BYD más barato: Dolphin Mini desde $399,800. El modelo de entrada más caro: Atto 8 desde $1,199,800. Diferencia: $800,000.
+Modelos con precio publicado: 11. Versiones con precio: 15.
+Cálculo de Autocifras: diferencia de precio entre Dolphin Mini GS y GL: $415,800 − $399,800 = $16,000; diferencia de autonomía 380 km − 300 km = 80 km; $16,000 ÷ 80 = $200 por km.

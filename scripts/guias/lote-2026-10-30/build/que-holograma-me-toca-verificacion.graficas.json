@@ -1,0 +1,10 @@
+{
+ "dias-sin-circular": {"titulo": "Días al mes que tu auto no circula según su holograma", "desc": "Ejemplo de un mes con 4 semanas y 4 sábados, sin contingencia ambiental.", "unidad": "días",
+  "datos": [{"label": "Exento", "valor": 0, "color": "#1baf7a"}, {"label": "00", "valor": 0, "color": "#1baf7a"}, {"label": "0", "valor": 0, "color": "#1baf7a"}, {"label": "1", "valor": 6, "color": "#eb6834"}, {"label": "2", "valor": 8, "color": "#d42a2c"}],
+  "leyenda": [{"color": "#1baf7a", "texto": "Circula diario"}, {"color": "#eb6834", "texto": "Un día entre semana y dos sábados"}, {"color": "#d42a2c", "texto": "Un día entre semana y todos los sábados"}],
+  "fuente": "Cálculo de Autocifras con las reglas del Hoy No Circula de la CDMX (SEDEMA)."},
+ "vigencia": {"titulo": "Cuánto dura cada holograma", "desc": "Meses de vigencia en la CDMX y el Estado de México (segundo semestre de 2026).", "unidad": "meses",
+  "datos": [{"label": "Exento híbrido", "valor": 72, "color": "#1baf7a"}, {"label": "00", "valor": 24, "color": "#2a78d6"}, {"label": "0", "valor": 6, "color": "#2a78d6"}, {"label": "1", "valor": 6, "color": "#eb6834"}, {"label": "2", "valor": 6, "color": "#d42a2c"}],
+  "leyenda": [{"color": "#1baf7a", "texto": "Híbridos (los eléctricos son permanentes)"}, {"color": "#2a78d6", "texto": "Circulan diario"}, {"color": "#eb6834", "texto": "Restricción parcial"}, {"color": "#d42a2c", "texto": "Restricción mayor"}],
+  "fuente": "Programas de Verificación Vehicular del 2o semestre de 2026, CDMX y Estado de México."}
+}

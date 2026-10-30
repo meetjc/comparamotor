@@ -1,0 +1,133 @@
+{
+ "precio-entrada": {
+  "titulo": "Precio de entrada de cada sedán (lista, octubre de 2026)",
+  "desc": "Versión más barata de cada modelo.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "MG5",
+    "valor": 299900,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Volkswagen Virtus",
+    "valor": 322490,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Chevrolet Aveo Sedán",
+    "valor": 332800,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Chevrolet Onix",
+    "valor": 353100,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Nissan Versa",
+    "valor": 374900,
+    "color": "#2a78d6"
+   },
+   {
+    "label": "Honda City",
+    "valor": 408900,
+    "color": "#2a78d6"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#2a78d6",
+    "texto": "Precio de lista de la versión de entrada"
+   }
+  ],
+  "fuente": "Sitios oficiales de cada marca, 30 de octubre de 2026 (Virtus: configurador, 25 de octubre de 2026)."
+ },
+ "gasolina-anio": {
+  "titulo": "Cuánto gastas de gasolina al año con 15,000 km",
+  "desc": "Versión de entrada, regular a $23.69 por litro.",
+  "unidad": "$",
+  "datos": [
+   {
+    "label": "Chevrolet Onix",
+    "valor": 15166,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Chevrolet Aveo Sedán",
+    "valor": 17385,
+    "color": "#1baf7a"
+   },
+   {
+    "label": "Nissan Versa",
+    "valor": 18644,
+    "color": "#eb6834"
+   },
+   {
+    "label": "MG5",
+    "valor": 21278,
+    "color": "#eb6834"
+   },
+   {
+    "label": "Volkswagen Virtus",
+    "valor": 21536,
+    "color": "#eb6834"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#1baf7a",
+    "texto": "20 km/l o más"
+   },
+   {
+    "color": "#eb6834",
+    "texto": "Menos de 20 km/l"
+   }
+  ],
+  "fuente": "Cálculo de Autocifras con rendimientos oficiales y precios de la CNE."
+ },
+ "cajuela": {
+  "titulo": "Cajuela de cada sedán, en litros",
+  "desc": "Más litros, más maletas.",
+  "unidad": "L",
+  "datos": [
+   {
+    "label": "Honda City",
+    "valor": 581,
+    "color": "#171513"
+   },
+   {
+    "label": "Volkswagen Virtus",
+    "valor": 521,
+    "color": "#171513"
+   },
+   {
+    "label": "Chevrolet Aveo Sedán",
+    "valor": 475,
+    "color": "#171513"
+   },
+   {
+    "label": "Chevrolet Onix",
+    "valor": 469,
+    "color": "#171513"
+   },
+   {
+    "label": "Nissan Versa",
+    "valor": 466,
+    "color": "#171513"
+   },
+   {
+    "label": "MG5",
+    "valor": 406,
+    "color": "#171513"
+   }
+  ],
+  "leyenda": [
+   {
+    "color": "#171513",
+    "texto": "Capacidad oficial de cajuela"
+   }
+  ],
+  "fuente": "Fichas técnicas oficiales (Versa: versión de 466 L)."
+ }
+}
